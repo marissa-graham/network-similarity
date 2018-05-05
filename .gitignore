@@ -38,6 +38,10 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
+
+# .ipynb checkpoints and __pycache__
+
+# Ignore the .json file with my API key in it
 .coverage
 .coverage.*
 .cache
@@ -99,3 +103,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Ignore ipython checkpoints
+-checkpoint.ipynb
+
+# Ignore my client_secret file with the API key
+client_secret.json
