@@ -1,0 +1,213 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Document Class: thesis
+%% Created by: Jeremy West, April 2009
+%% Document Options: see the standard report class for LaTeX, they are all the same
+\documentclass[12pt]{thesis}
+\usepackage{amsmath}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Document Properties
+%% PLEASE SET THESE TO THE APPROPRIATE VALUES FOR YOUR THESIS
+\author{Jeremy West}
+\title{A LaTeX Class For Writing Theses}
+%The title must be mixed case letters and located one inch from the top edge of the page. Titles Must Be in Mixed Case and May Not Exceed Six Inches on One Line and Must Be in the Inverted Pyramid Format When Additional Lines Are Needed.
+\degree{Master of Tedium} % e.g. Master of Science, Doctor of Philosophy
+\university{Brigham Young University} % e.g. Brigham Young University
+\department{Department of Redundancy Department} % e.g. Department of Mathematics
+\committeechair{Lay Z. Boy} % that is, your advisor. DO NOT USE TITLES OR DEGREE ABBREVIATIONS AFTER NAMES.
+%% These are fields that are stored in the PDF but are not visible in the document
+%% itself. They are optional. The first is the subject of your thesis (like algebraic geometry)
+\memberA{A. Good Prof}
+\memberB{One more!}
+%\memberC{4th member if you're writing a dissertation}
+%\memberD{5th dissertation member}
+\subject{Writing a thesis using LaTeX}
+%% The keywords should be a comma-separated list: math, cool stuff, my research...
+\keywords{LaTeX, PDF, BYU, Math, Thesis, LaTeX}
+%% Specify the month and year when your thesis was/is/will be submitted
+\year{2016}%The year in which the college dean approves the final document.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pdfbookmarks
+%% This creates an index (if you use the MakeIndex program). Comment it out if you
+%% don't want and index.
+\makeindex
+
+%% This file contains the theorem definitions and custom commands that I commonly use
+%% they may be changed, the reference to the file removed, etc. Or, if you like, you 
+%% may use them as well.
+\input{thsiscfg}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \frontmatter sets the page numbering to roman for the introductory pages
+\frontmatter
+\maketitle  % make the title page
+
+%% Your abstract goes in here
+\begin{abstract} %leave a blank line between abstract and first paragraph
+
+This document explains the use and features of the thesis.cls \LaTeX\ class for creating BYU theses. These can be Master's theses or PhD theses. However, I have not checked the acceptable format for PhD theses, so I really have no idea if this works exactly like it is supposed to. You may have to make a few changes to the document class (particularly the intro pages) to make it conform, but I think it should work as is.\\
+	
+The document class is built on the \LaTeX\ book class, so it defines many of the standard \LaTeX\ features such as chapters, sections, subsections, references, citations, bibliographies, math formatting, footnotes, etc. that you are accustomed to in \LaTeX. I have also added support for PDF bookmarks, which are required for electronic submission, and support for an index, should you decide to include one in your thesis. I really don't know if indices are acceptable, but adding one was simple, so I did it. I also the AMS theorem definitions and some math macros that I find useful, these are easily changed, even removed.\\
+	
+The class is designed to minimize the effort required to create the initial pages, which must have a standard formatting, so that the author can focus on the content of the thesis: his or her area expertise. Also, I changed some of the standard \LaTeX\ formatting for chapter/section/subsection labeling, since these are generally hideous. I am constrained somewhat by what the university will allow. Hopefully it is an improvement. Enjoy!
+  \vskip 3.25in
+ 
+\noindent Keywords: %Keywords need to be as close to the bottom of the page as possible without moving to a new page.
+\end{abstract}
+
+
+%% Your acknowledgments go here, comment this out if you don't want them
+\begin{acknowledgments}
+	Thanks to whoever wrote the initial template. A considerable amount of effort went into creating the code and figuring out exactly what was required by the university. Hopefully, this version is an improvement and is easier to read and use.
+\end{acknowledgments}
+
+%The following is an OPTIONAL signature page and SHOULD NOT be included in the PDF file submitted to the ETD program.
+% Use this to describe your committee. You have already specified your committee chair above.
+% List each additional member using the \member command as illustrated.
+%\begin{committee}
+%	\member{Just A. Member}  % The name of the faculty member as you would like it to appear
+%	\member{A. Good Prof}
+%	\member{A long professors name, perhaps with a \\ line break in it}
+%	\member{Maybe one more person}
+
+% 
+%     \member{Gregory Conner, Graduate Coordinator}
+%     \member{Thomas W. Sederberg, Associate Dean\\
+%     College of Physical and Mathematical Sciences}
+%\end{committee}
+
+%% These create the obvious pieces: table of contents, list of tables, list of figures.
+%% Comment them out if you don't want them
+\tableofcontents
+\listoftables
+\listoffigures
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% This is where the body of the thesis begins. \mainmatter turns on the standard numbering
+%% and headers
+\mainmatter
+
+\chapter{Getting Started with Really Long Chapter Titles That Need to be Wrapped in Inverted Pyramid Form}
+This chapter will help you get your thesis started. For people anxious to get started, you need only read this chapter. If you don't know much about \LaTeX\ you may choose to ignore the rest of the paper, as it contains customizations you do not understand or will not wish to make. This chapter will tell you everything you need to know to be able to start a thesis that conforms to BYU standards.
+
+\section{Creating your thesis}
+To get started, you need to create a thesis file. To do so, you may copy this file (example.tex) and modify it. Or, you can start from scratch. The important thing is that your \LaTeX\ source file should use the \texttt{thesis.cls} \index{thesis.cls@\texttt{thesis.cls}}class file. This is accomplished using the opening document class command:
+\begin{verbatim}
+\documentclass{thesis}
+\end{verbatim}\index{documentclass@\texttt{documentclass}}
+
+\section{Setting the document attributes}\label{sec:document-attributes}
+For a thesis, there are many more document attributes than in a typical \LaTeX\ document. In addition to the standard \verb=\author=\index{author@\texttt{author}} and \verb=\title=\index{title@\texttt{title}} attributes\index{attributes}, the university, department, degree, month, year, and committee chair must be specified. For each of these properties, there is a corresponding command that should be called in the preamble of the document, as contained in \texttt{example.tex}. For example, in this document, these properties are set as follows.
+\begin{verbatim}
+\author{Jeremy West}
+\title{A LaTeX Class For Writing Theses}
+\degree{Master of Tedium}
+\university{Brigham Young University}
+\department{Department of Redundancy Department}
+\committeechair{Lay Z. Boy}
+\memberA{A. Good Prof.}
+\memberB{One more!}
+\subject{Writing a thesis using LaTeX}
+\keywords{LaTeX, PDF, BYU, Math, Thesis, LaTeX}
+\month{April}
+\year{2014}
+\end{verbatim}\index{degree@\texttt{degree}}\index{university@\texttt{university}}\index{department@\texttt{department}}\index{committeechair@\texttt{committeechair}}\index{subject@\texttt{subject}}\index{keywords@\texttt{keywords}}\index{month@\texttt{month}}\index{year@\texttt{year}}
+The \texttt{subject} and \texttt{keywords} properties are optional and are used only to set values in the attributes of the generated PDF file. They do not appear in the document proper. Just for clarification, the committee chair should be your advisor.
+
+\section{Two optional commands}\index{index}
+In the \texttt{example.tex} document, there are two optional commands that can be removed if desired. These are \verb=\pdfbookmarks=\index{pdfbookmarks@\texttt{pdfbookmarks}} and \verb=\makeindex=.\index{makeindex@\texttt{makeindex}} The first turns on the generation of PDF bookmarks. If you are not using pdf\LaTeX\ you will probably need to change the \texttt{thesis.cls} file to make this work. If you are submitting your thesis to the BYU library using electronic thesis submission, you must have PDF bookmarks. This command automatically generates them for all the chapters and sections, as well as the front matter and back matter pages.
+
+If you have problems with \verb=\pdfbookmarks=, or while you are preparing your thesis, you can comment out this command without any problems. Just as a comment, sometimes I had problems with the PDF bookmarks not appearing when new chapters or sections were added. I found that closing the PDF and then regenerating the file worked for me.\index{index!problems}
+
+The second command, \verb=\makeindex= generates information for an index from any \verb=\index= commands you have in your document. If you do not want to include an index, feel free to remove this command. If you want to include a thesis and do not know how to, Google \textit{MakeIndex} or see my introduction to \LaTeX\, found at \cite{computation-page}.
+
+\section{An external file}
+The next thing you will see in \texttt{example.tex} is the command \verb=\input{thsiscfg}=. This command includes the external file \texttt{thsiscfg}\indext{thsiscfg}. This file contains declarations for theorem and definition environments, as well as some macros that I find useful in \LaTeX\. You are welcome to modify that file, include a different one, or remove the \verb=\input=\index{input@\texttt{input}} command and insert your own declarations in that section.
+
+\section{In the document}
+Once you reach the \verb=\begin{document}= line, you are inside the contents of your thesis. The first thing you see is a \verb=\frontmatter=\indext{frontmatter} command. This command instructs \LaTeX\ that the following material is front matter. Therefore, it is numbered using roman numerals.
+
+Next, you encounter the \verb=\maketitle=\indext{maketitle} and \verb=\copyrightpage=\indext{copyrightpage} commands. The \verb=\maketitle= command generates the title page as specified by BYU using the document attributes described in section \ref{sec:document-attributes}. 
+
+Next in the document is the \textbf{OPTIONAL} \texttt{committee}\indext{committee} environment, which should look something like this
+\begin{verbatim}
+\begin{committee}
+	\member{Just A. Member}
+	\member{A. Good Prof}
+	\member{A long professors name, perhaps with a \\ line break in it}
+	\member{Maybe one more person}
+\end{committee}	
+\end{verbatim}\indext{member}
+This environment generates the Signature page.  \textbf{This page SHOULD NOT be included in the PDF file you submit to ETD} but is for your own BOUND copy if you desire and for the department and your advisor if needed. Your committee chair is already included as the first member on this page, so you only need to add the other members of your committee in the order you would like them to appear. Notice that you can add as many or as few as you wish and that you can format the names to some extent (for example, putting a line break if you want to add departments or something).
+
+The next two environments are the \texttt{abstract}\index{abstract} and \texttt{acknowledgments}\index{acknowledgments} environments. These should be self explanatory. The acknowledgments are optional and may be removed if desired. Finally, you will encounter these three commands
+\begin{verbatim}
+\tableofcontents
+\listoffigures
+\listoftables
+\end{verbatim}\indext{tableofcontents}\indext{listoffigures}\indext{listoftables}
+These commands generates the table of contents, list of figures, and list of tables, respectively. If your document does not have any tables or figures, you may choose to remove these. You may also rearrange them as desired.
+
+All of the items mentioned in this section number and pages and are formatted as specified by BYU policies.
+
+\section{The Main Matter}
+Now you have reached the \verb=\mainmatter=\indext{mainmatter} tag, which begins the main contents of the thesis. After this tag, you may begin inserting actual content. This tag restarts the page numbering and changes the numbering format.
+
+At the bottom of this document you will see the \verb=\appendix=\indext{appendix}\index{appendices} tag. This switches your document to the appendix. Chapters and sections are created as normal, but they are numbered and named differently so as to appear as appendices. If you do not have any appendices, you may remove this as well.
+
+Finally, you will encounter tags to create and print the bibliography and the index, which you may change or remove as needed.
+
+\chapter{Document Options}\index{document options}
+This document class is built on the standard \LaTeX\ \texttt{book} class. Essentially every command or option available in the \texttt{book} class is available in the \texttt{thesis}\indext{thesis.cls} class as well. Some document options that may be particularly useful are mentioned here, but for full details, Google \texttt{book.cls} or see \cite{lamport, goossens, computation-page}.
+
+\section{Two-sided printing}\index{two-sided printing}
+The default for this class is to format the document for one-sided printing. This option does not restrict how you actually print your document. However, notice that the left margin is larger to leave room for binding. With one-sided printing, this margin is always on the left side. In the two-sided mode, the margin switches between the left and right side depending on whether the page is odd or even numbered. Also, the two-sided mode causes all the front matter pages to display on a right-hand page, which is the standard.
+
+BYU requires one-sided printing for theses under 300 pages. If your thesis should exceed 300 pages, you should use the two-sided mode by changing the \texttt{documentclass} command to:
+\begin{verbatim}
+\documentclass[twoside]{thesis}
+\end{verbatim}
+
+\section{Left-hand equation numbering}\index{left-hand numbering}
+If you prefer to have your equations numbered on the left-hand side, rather than the right, add the \texttt{leqno} to your document:
+\begin{verbatim}
+\documentclass[leqno]{thesis}
+\end{verbatim}
+
+\section{Font size}\index{font size}
+You can choose between 10pt, 11pt, or 12pt font using an option such that
+\begin{verbatim}
+\documentclass[12pt]{thesis}
+\end{verbatim}
+The default size is 10pt font.
+
+\section{Multiple options}\index{multiple options}
+If you wish to use multiple options, list them with commas, such as
+\begin{verbatim}
+\documentclass[twoside,leqno,11pt]{thesis}
+\end{verbatim}
+
+\chapter{Additional Resources}\index{resources}
+The bibliography lists several resources that may be of help. For introductory materials for \LaTeX\ and links for downloading software to use with \LaTeX, see \cite{computation-page}. For good reference manuals, use \cite{lamport, goossens, kopka-daly}. If you are interested in modifying the class file or doing more advanced \TeX\ programming, refer to \cite{knuth}.
+
+Good luck on your thesis!
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \appendix changes the numbering of chapters and sections for appendices. Any chapters or 
+%% sections listed here will be treated as part of the appendix
+\appendix
+
+%% Choose your bibliography style. Some options: plain, unsrt, abbrev etc.
+\bibliographystyle{unsrt}
+%% the name of your bib file without the .bib extension. For example, if your file is thesis.bib, you would put \bibliography{thesis}
+\bibliography{example}
+
+%% If you want to include an index, this prints the index at this location. You must 
+%% have \makeindex uncommented in the preamble
+\printindex
+
+\end{document}
+

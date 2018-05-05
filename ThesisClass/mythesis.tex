@@ -1,0 +1,242 @@
+% Options: [twoside, leqno, 11pt], etc.. leqno is "number equations on the left hand side"
+\documentclass[12pt]{thesis}
+\usepackage{amsmath}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% DOCUMENT PROPERTIES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\author{Marissa Graham}
+
+% Titles must be in mixed case. Style guide: https://www.grammarcheck.net/capitalization-in-titles-101/.
+
+\title{Can we treat networks and graphs more the same, please? Also this is a survey for similarity techniques} 
+
+\degree{Master of Science}
+\university{Brigham Young University}
+\department{Department of Mathematics} 
+\committeechair{Emily Evans} 
+
+%% These are fields that are stored in the PDF but are not visible in the document itself. They are optional.
+\memberA{A. Good Prof}
+\memberB{One more!}
+\subject{Writing a thesis using LaTeX} % Subject of your thesis, e.g. algebraic geometry
+\keywords{LaTeX, PDF, BYU, Math, Thesis}
+\month{June}
+\year{2018} 
+
+\pdfbookmarks
+\makeindex
+
+%%%%%%%%%%%%%%%%%%%%%%%%% THEOREM DEFINITIONS AND CUSTOM COMMANDS %%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Define the theorem styles and numbering
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
+
+%% Create shortcut commands for various fonts and common symbols
+\newcommand{\s}[1]{\mathcal{#1}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+
+%% Declare custom math operators
+\DeclareMathOperator{\tr}{tr}
+\DeclareMathOperator{\diag}{diag}
+\DeclareMathOperator*{\argmin}{argmin}
+\DeclareMathOperator*{\argmax}{argmax}
+\DeclareMathOperator{\Span}{Span}
+\DeclareMathOperator{\rank}{rank}
+
+%% Sets and systems
+\newcommand{\br}[1]{\left\langle #1 \right\rangle}
+\newcommand{\paren}[1]{\left(#1\right)}
+\newcommand{\sq}[1]{\left[#1\right]}
+\newcommand{\set}[1]{\left\{\: #1 \:\right\}}
+\newcommand{\setp}[2]{\left\{\, #1\: \middle|\: #2 \, \right\}}
+\newcommand{\abs}[1]{\left| #1 \right|}
+\newcommand{\norm}[1]{\left\| #1 \right\|}
+\newcommand{\system}[1]{\left\{ \begin{array}{rl} #1 \end{array} \right.}
+
+%% referencing commands
+\newcommand{\thmref}[1]{Theorem \ref{#1}}
+\newcommand{\corref}[1]{Corollary \ref{#1}}
+\newcommand{\lemref}[1]{Lemma \ref{#1}}
+\newcommand{\propref}[1]{Proposition \ref{#1}}
+\newcommand{\defref}[1]{Definition \ref{#1}}
+\newcommand{\exampleref}[1]{Example \ref{#1}}
+\newcommand{\exerref}[1]{Exercise \ref{#1}}
+
+\renewcommand{\labelenumi}{(\roman{enumi})}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% FRONT MATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\frontmatter 
+\maketitle 
+
+\begin{abstract}\index{abstract}
+This is going to be the abstract.		
+\vskip 3.25in
+ 
+\noindent Keywords: % Keywords need to be as close to the bottom of the page as possible without moving to a new page.
+\end{abstract}
+
+%\begin{acknowledgments} \end{acknowledgments}
+
+\tableofcontents
+\listoftables
+\listoffigures
+\mainmatter
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% MAIN CONTENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% REFERENCES
+	% \textt{} for code font styling
+	% \begin{verbatim} for printing LaTeX code as-is
+	% \index{keyword} for indexing stuff
+	% \cite{reference tag}
+	% \section{title}, \subsection{title} (no \end thing necessary)
+	% All organizational layers deeper than subsection are useless.
+
+\section{Preface}
+We're going to take a second to motivate the problem a bit and describe what we're trying to do here. Kind of like section 1.2 in the red book, which is great and something that everybody should do always.
+
+This is kind of like the motivation from the SRC presentation. Traditional graph theory can feel very pure mathy and useless, but networks are so important and such a new field that there aren't as many overview type resources, and I don't think the stuff I've seen does a very good job really putting everything in context, especially across fields. It's also not always clear what prerequisites you need to understand all the different things, so I want to make that easier, too.
+
+Computer science and math mostly call things graphs, because they mostly work with them on a theoretical level. Either small ones for graph theory or big ones for modeling large networks. Throughout, I need to make sure to use the convention that a graph is the mathematical object and a network is a graph which models a real-world system. The definitions are clear enough, but the connotations make things confusing. It's not really separate topics and we're going to make an effort to treat them in a properly integrated manner.
+	
+%%%%%%%%%%%%%%%%%%%%%%%%% BACKGROUND
+
+\chapter{Background}
+
+We need to introduce all of the math that the different methods I want to talk about are going to use. Just quickly explain things and light context, so you don't have to google so much like when I was reading the fifty years paper. I'm going to cross reference things by what chapters use them so you know why it's important. We could move this stuff into the actual chapters, but I think it will be nice to have it all in one place so you know what you're getting into before reading.
+
+This is also a good place to get everybody on the same page, terminology wise. How do we feel about a glossary? At minimum, a notation page would be great so I can just use $G$, $A$, etc. pretty freely throughout. It might not be too necessary, though.
+
+\section{Properties that all graphs have and also definitions}
+
+A \textbf{graph}\index{graph}\footnote{The term \textit{network} is sometimes used interchangeably with the term \textit{graph}. While they both refer to the same mathematical object, we attempt to follow the heuristic throughout of using the term \textit{graph} to refer to a purely mathematical object and \textit{network} to refer to a real-world system.} is formally defined as a finite, nonempty set $V$ of \textbf{nodes}\index{nodes} or \textbf{vertices}\index{vertices}, combined with a set $E\subset V\times V$ of \textbf{edges}\index{edges} representing relationships between pairs of nodes. Throughout this work, we denote the number of vertices in a graph by $n$ and the number of edges by $m$ where not otherwise specified.
+
+We normally deal with with \textbf{simple graphs}\index{simple graph}, which are those that do not have more than one edge between any pair of nodes (that is, a \textbf{multiedge}\index{multiedge}), and do not have any edges from a node to itself (a \textbf{self-edge}\index{self-edge} or \textbf{self-loop}). We should definitely still make sure that our math applies to generic graphs though and think about this, but most of the time it's simple. I think.
+
+We also care about whether a graph is \textbf{directed}\index{directed graph} or \textbf{undirected}\index{undirected graph}. In an undirected graph, we have an edge \textit{between} two nodes, whereas in a directed graph we have edges \textit{from} one node \textit{to} another node. For simplicity, throughout this work we use the notation $v_i \leftrightarrow v_j$ for an undirected edge between nodes $v_i$ and $v_j$, and $v_i \rightarrow v_j$ for a directed edge. We say two nodes are \textbf{adjacent}\index{adjacent} or \textbf{neighbors}\index when they are connected by an edge, and a node and an edge are \textbf{incident}\index{incident} when the edge is connected to the node. In the case of a directed graph, we call node $v_i$ a \textbf{predecessor}\index{predecessor} of node $v_j$ if there is an edge $i\rightarrow j$. In this case, $v_j$ is a $\textbf{successor}$ of $v_i$.
+
+A graph can also be \textbf{weighted}\index{weighted graph}, meaning each edge is assigned some real value $w_{ij}$ representing the ``strength" of the connection between nodes $v_i$ and $v_j$. Generally these are positive.
+
+In an undirected graph, the \textbf{degree}\index{degree} of a node is the number of nodes adjacent to it, or the sum of the weights of the incident edges in a weighted graph. In a directed graph, we distinguish between \textbf{in-degree}\index{in-degree} and \textbf{out-degree}\index{out-degree}, which are the number or total weight of a node's incoming and outgoing edges, respectively.
+
+When studying real-world networks, we also make a distinction between \textbf{deterministic}\index{deterministic} and \textbf{random}\index{random} networks, as discussed in (cite fifty years paper). This distinction is the same as that between a variable and a random variable A deterministic network is one in which the nodes and edges are ``fixed"; that is, there is no other distinct graph which represents the same object and the nodes and edges do not change over time. In order to use graph theory to study real-world phenomena, we generally must use statistical inference methods and stuff and just treat it like a random variable instead. Some methods account for this and some don't and we should pay attention to this. Add ``Statistical Analysis of Network Data" to your reference list because it discusses this.
+
+\section{Fancier properties and special graphs}
+
+Trees. If you're gonna talk about generalized trees, which will probably come up, put it in the main chapter and make sure to mention it's about just picking a root, you can do it to any graph
+
+Adjacency matrix
+
+Laplacian
+
+Maximum common subgraph and minimum common supergrpah
+
+Isomorphisms and alignments
+
+Kernels
+
+Discussion of metrics with respect to graphs
+
+Tanimoto index and Hamming distance between I'm still salty that the one survey paper didn't include
+
+\section{Basic algorithms and methods}
+
+Path finding and walks
+
+Basic node similarity
+
+Basic community detection
+
+\section{Other math background and definitions}
+
+Whatever spectral stuff we need to explain methods, without being too condescending
+
+Edit distances?
+
+Dynamical systems
+
+Cost function (context of edit distances and alignment)
+
+Linear and quadratic programming
+
+Weight matching
+
+Kernels
+
+%%%%%%%%%%%%%%%%%%%%%%%%% OVERVIEW
+
+
+\chapter{Introduction}
+
+We're going to start off by talking about why graphs are useful, and the history of the study of them (briefly) and then the history of comparing graphs as a whole (in more detail, obviously).
+
+Basically the whole point of this whole paper is that I want to emphasize the commonality between network and graph theory, even though they're treated fairly separately. I want to hammer that point home here by looking into the Wikipedia network for both terms, and same thing for my citation network once it gets more comprehensive. Colloquially, my impression is that ``graph" is usually used for small numbers of nodes, and ``network" is used for anything real-world based, whether it's small or not. Really, the important properties that make them different are how big they are and whether they're deterministic. It'd be really nice to have more words, because ``graph" is most associated with ``small and deterministic" and ``network" is most associated with ``large and non-deterministic", but the definitions bleed into each other, and where does that leave ``small and non-determistic" (aka bio, I think? maybe chemistry?) in terms of what you call it?
+
+We also want to get into the difference between graph isomorphism, graph matching, network alignment, and network similarity, both in terms of actual definitions and how they're commonly used. I should have already talked about the definitions in the the background chapter, at least a little bit, but I think it makes more sense to put that here.
+
+Now we're going to put in a few pages of the history of how they've been studied, and kind of the main categories of approach. I'm not completely sure yet how that's going to break down, though, but it'll be semi-based around partitioning the citation network, because that's cool and gives you a really awesome visual. I'd like to do this by getting the ``year" property built into my citation network, that should work really well and we can get some great visuals. Also, if we can, I want to get CrossRef to give me the field of study as well, so I can have at least an approximation of that for the all of the outcomponent papers.
+
+\subsection{Approach}
+
+Do a good github readme, basically, explaining how I went about this and making sure I've got all the papers from everybody, how the database works, general methodology.
+
+Also I'd like to have a nice visual kind of like the one in the giant graph matching survey, so my reference section is friendlier. Here seems like a decent place to put it.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%% CHAPTER
+
+
+
+\chapter{Graph Matching and Isomorphism}
+
+It's entirely possible that we'll break down the chapters some other way, because I don't want to just have a bunch of summaries of all this stuff, I want to keep it connected throughout.
+
+%%%%%%%%%%%%%%%%%%%%%%%%% OTHER CHAPTERS
+
+
+
+\chapter{Network Alignment}
+
+\chapter{Graphlet Method and Similar}
+
+\chapter{Etc.? I don't know how these are going to break down yet}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%% APPENDIX AND END MATTER
+
+You're not going to have the black or red books in the paper list but you still need to have them in your bibliography, don't forget.
+
+% Changes the numbering of chapters and sections for appendices. Any chapters or sections listed here will be treated as part of the appendix
+\appendix
+
+\bibliographystyle{plain}
+\bibliography{thesisbib}
+
+% If you want to include an index, this prints the index at this location. You must have \makeindex uncommented in the preamble
+\printindex
+
+\end{document}
+

@@ -1,0 +1,426 @@
+[0] D. Conte, P. Foggia, C. Sansone, M. Vento, Thirty years of graph matching in pattern recognition
+[1] A. V. Aho, J. E. Hopcroft and J. D. Ullman, The Design and Analysis of Computer
+Algorithms (Addison Wesley, 1974).
+[2] R. Allen, L. Cinque, S. Tanimoto, L. G. Shapiro and D. Yasuda, A parallel algorithm
+for graph matching and its MasPar implementation, IEEE Trans. Parall. Distrib.
+Syst. 8 (1997) 490–501.
+[3] H. A. Almohamad and S. O. Duffuaa, A linear programming approach for the
+weighted graph matching problem, IEEE Trans. Patt. Anal. Mach. Intell. 15 (1993)
+522–525.
+[4] A. P. Ambler, H. G. Barrow, C. M. Brown, R. M. Burstall and R. J. Popplestone,
+A versatile computer-controlled assembly system, in Proc. 3rd Int. Joint Conf. Artificial
+Intelligence, 1973, pp. 298–307.
+[5] R. Baeza-Yates and G. Valiente, An image similarity measure based on graph matching,
+in Proc. Seventh Int. Symp. String Processing and Information Retrieval, 2000,
+pp. 28–38.
+[6] E. Balas and C. S. Yu, Finding a maximum clique in an arbitrary graph, SIAM J.
+Comput. 15 (1986) 1054–1068
+[7] C. Bauckhage, S. Wachsmuth and G. Sagerer, 3D assembly recognition by matching
+functional subparts, in Proc. 3rd IAPR-TC15 Workshop on Graph-Based Representations
+in Pattern Recognition, 2001, pp. 95–104.
+[8] S. Belongie and J. Malik, Matching with shape contexts, in Proc. IEEE Workshop
+on Content-Based Access of Image and Video Libraries, 2000, pp. 20–26.
+[9] S. Berretti, A. Del Bimbo and E. Vicario, A look-ahead strategy for graph matching
+in retrieval by spatial arrangement, Int. Conf. Multimedia and Expo, 2000, pp. 1721–
+1724.
+[10] S. Berretti, A. Del Bimbo and E. Vicario, The computational aspect of retrieval by
+spatial arrangement, in Proc. 15th Int. Conf. Pattern Recognition, 2000, pp. 1047–
+1051.
+[11] S. Berretti, A. Del Bimbo and E. Vicario, Efficient matching and indexing of graph
+models in content-based retrieval, IEEE Trans. Patt. Anal. Mach. Intell. 23 (2001)
+1089–1105.
+[12] I. M. Bomze, Evolution towards the maximum clique, J. Global Optim. 10 (1997)
+143–164.
+[13] A. Branca, E. Stella and A. Distante, Feature matching by searching maximum
+clique on high order association graph, in Proc. 10th Int. Conf. Image Analysis and
+Processing, 1999, pp. 642–658.
+[14] C. Bron and J. Kerbosch, Finding all cliques of an undirected graph, Commun. ACM
+16 (1973) 575–577.
+[15] H. Bunke, Error correcting graph matching: on the influence of the underlying cost
+function, IEEE Trans. Patt. Anal. Mach. Intell. 21 (1999) 917–922.
+[16] H. Bunke, P. Foggia, M. Vento, C. Sansone and C. Guidobaldi, A comparison of
+algorithms for maximum common subgraph on randomly connected graphs, in Proc.
+Joint IAPR Int. Workshops SSPR and SPR, 2002, pp. 123–132.
+[17] H. Bunke, On a relation between graph edit distance and maximum common
+subgraph, Patt. Recogn. Lett. 18 (1997) 689–694.
+[18] H. Bunke and B. T. Messmer, Recent advances in graph matching, Int. J. Patt.
+Recogn. Artif. Intell. 11 (1997) 169–203.
+[19] H. Bunke and K. Shearer, A graph distance metric based on the maximal common
+subgraph, Patt. Recogn. Lett. 19 (1998) 255–259.
+[20] M. Burge and W. Burger, Ear biometrics in computer vision, in Proc. 15th Int. Conf.
+Pattern Recognition, 2000, pp. 822–826.
+[21] M. Carcassoni and E. R. Hancock, Weighted graph-matching using modal clusters,
+in Proc. 3rd IAPR-TC15 Workshop Graph-Based Representations in Pattern Recognition,
+2001, pp. 260–269.
+[22] L. Changhua, Y. Bing and X. Weixin, Online hand-sketched graphics recognition
+based on attributed relational graph matching, in Proc. 3rd World Congress Intelligent
+Control and Automation, 2000, pp. 2549–2553.
+[23] K. P. Chan, Learning templates from fuzzy examples in structural pattern
+recognition, IEEE Trans. Syst. Man Cybern. B26 (1996) 118–123..
+[24] H. T. Chen, H. Lin and T. L. Liu, Multi-object tracking using dynamical graph
+matching, in Proc. 2001 IEEE Computer Soc. Conf. Computer Vision and Pattern
+Recognition, 2001, pp. 210–217.
+[25] L. H. Chen and J. R. Lieh, Handwritten character recognition using a 2-layer random
+graph model by relaxation matching, Patt. Recogn. 23 (1990) 1189–1205.
+[26] S. J. Cho and S. I. Yoo, Image retrieval using topological structure of user sketch,
+IEEE Int. Conf. Syst. Man Cybern., 1998, pp. 4584–4588.
+[27] W. J. Christmas, J. Kittler and M. Petrou, Structural matching in computer vision
+using probabilistic relaxation, IEEE Trans. Patt. Anal. Mach. Intell. 17 (1995)
+749–764. 
+[28] L. P. Cordella, P. Foggia, C. Sansone and M. Vento, Fast graph matching for detecting
+CAD image components, in Proc. 15th Int. Conf. Pattern Recognition, 2000,
+pp. 1034–1037.
+[29] L. P. Cordella, P. Foggia, C. Sansone and M. Vento, An improved algorithm for
+matching large graphs, in Proc. 3rd IAPR-TC15 Workshop Graph-Based Representations
+in Pattern Recognition, 2001, pp. 149–159.
+[30] L. P. Cordella, P. Foggia, C. Sansone and M. Vento, An efficient algorithm for the
+inexact matching of ARG graphs using a contextual transformational model, in Proc.
+13th Int. Conf. Pattern Recognition, 1996, pp. 180–184.
+[31] L. P. Cordella, P. Foggia, C. Sansone and M. Vento, Subgraph transformations
+for inexact matching of attributed relational graphs, Computing 12(Suppl.) (1997)
+43–52.
+[32] L. P. Cordella, P. Foggia, C. Sansone, F. Tortorella and M. Vento, Graph matching:
+a fast algorithm and its evaluation, in Proc. 14th Int. Conf. Pattern Recognition,
+1998, pp. 1582–1584.
+[33] L. P. Cordella, P. Foggia, C. Sansone and M. Vento, Performance evaluation of the
+VF graph matching algorithm, in Proc. Int. Conf. Image Analysis and Processing,
+1999, pp. 1172–1177.
+[34] C. De Mauro, M. Diligenti, M. Gori and M. Maggini, Similarity learning for graphbased
+image representations, in Proc. 3rd IAPR-TC15 Workshop Graph-Based Representations
+in Pattern Recognition, 2001, pp. 250–259.
+[35] Ch. Demko, Generalization of two hypergraphs. Algorithm of calculation of the
+greatest sub-hypergraph common to two hypergraphs annotated by semantic
+information, Computing 12(Suppl.) (1997) 1–9.
+[36] A. P. Dempster, N. M. Laird and D. B. Rubin, Maximum-likelihood from incomplete
+data via the EM algorithm, J. Roy. Stat. Soc. Series B39 (1977) 1–38.
+[37] F. Depiero, M. Trivedi and S. Serbin, Graph matching using a direct classification
+of node attendance, Patt. Recogn. 29 (1996) 1031–1048.
+[38] M. De Santo, P. Foggia, C. Sansone and M. Vento, A large database of graphs and its
+use for benchmarking graph isomorphism algorithms, Patt. Recogn. Lett. 24 (2003)
+1067–1079.
+[39] B. Duc, S. Fischer and J. Bigun, Face authentication with Gabor information on
+deformable graphs, IEEE Trans. Imag. Process. 8 (1999) 504–516.
+[40] A. C. M. Dumay, R. J. van der Geest, J. J. Gerbrands, E. Jansen and J. H.
+C. Reiber, Consistent inexact graph matching applied to labelling coronary segments
+in arteriograms, in Proc. Int. Conf. Pattern Recognition, Conf. C (1992)
+439–442.
+[41] E. Elagin, J. Steffens and H. Neven, Automatic pose estimation system for human
+faces based on bunch graph matching technology, in Proc. Third IEEE Int. Conf.
+Automatic Face and Gesture Recognition, 1998, pp. 136–141.
+[42] Y. El-Sonbaty and M. A. Ismail, A new algorithm for subgraph optimal isomorphism,
+Patt. Recogn. 31 (1998) 205–218.
+[43] R. Englert, A. B. Cremers and J. Seelmann-Eggebert, Recognition of polymorphic
+pattern in parameterized graphs for 3d building reconstruction, Computing
+12(Suppl.) (1997) 11–20.
+[44] M. A. Eshera and K. S. Fu, A similarity measure between attributed relational graphs
+for image analysis, in Proc. 7th Int. Conf. Pattern Recognition, 1984, pp. 75–77.
+[45] M. A. Eshera and K. S. Fu, A graph distance measure for image analysis, IEEE
+Trans. Syst. Man Cybern. 14 (1984) 398–408
+[46] M. A. Eshera and K. S. Fu, An image understanding system using attributed symbolic
+representation and inexact graph-matching, IEEE Trans. Patt. Anal. Mach.
+Intell. 8 (1986) 604–618.
+[47] K. C. Fan, C. W. Liu and Y. K. Wang, A fuzzy bipartite weighted graph matching
+approach to fingerprint verification, in Proc. IEEE Int. Conf. Systems, Man and
+Cybernetics, 1998, pp. 4363–4368.
+[48] M. L. Fern`andez and G. Valiente, A graph distance metric combining maximum
+common subgraph and minimum common supergraph, Patt. Recogn. Lett. 22 (2001)
+753–758.
+[49] A. Filatov, A. Gitis and I. Kil, Graph-based handwritten digit string recognition, in
+Proc. 3rd Int. Conf. Document Analysis and Recognition, 1995, pp. 845–848.
+[50] S. Fischer, K. Gilomen and H. Bunke, Identification of diatoms by grid graph
+matching, in Proc. Joint IAPR Int. Workshops SSPR and SPR, 2002, pp. 94–103.
+[51] M. Fischler and R. Elschlager, The representation and matching of pictorial
+structures, IEEE Trans. Comput. 22 (1973) 67–92.
+[52] P. Foggia, R. Genna and M. Vento, Symbolic versus connectionist learning: an
+experimental comparison in a structured domain, IEEE Trans. Knowl. Data
+Engin. 13 (2001) 176–195.
+[53] P. Foggia, C. Sansone and M. Vento, A performance comparison of five algorithms
+for graph isomorphism, in Proc. 3rd IAPR-TC15 Workshop Graph-Based Representations
+in Pattern Recognition, 2001, pp. 188–199.
+[54] P. Foggia, C. Sansone, F. Tortorella and M. Vento, Definition and validation of a
+distance measure between structural primitives, Patt. Anal. Appl. 2 (1999) 215–227.
+[55] A. Folkers, H. Samet and A. Soffer, Processing pictorial queries with multiple instances
+using isomorphic subgraphs, in Proc. 15th Int. Conf. Pattern Recognition,
+2000, pp. 51–54.
+[56] F. Fuchs and H. Le Men, Efficient subgraph isomorphism with a priori knowledge,
+in Proc. Joint IAPR Int. Workshops SSPR and SPR, 2000, pp. 427–436.
+[57] F. Fuchs and H. Le Men, Building reconstruction on aerial images through
+multi-primitive graph matching, in Proc. 2nd IAPR-TC15 Workshop Graph-Based
+Representations in Pattern Recognition, 1999, pp. 21–30.
+[58] M. Gendreau, L. Salvail and P. Soriano, Solving the maximum clique problem using
+a tabu search approach, Ann. Operat. Res. 41 (1993) 385–403.
+[59] D. E. Ghahraman, A. K. C. Wong and T. Au, Graph optimal monomorphism
+algorithms, IEEE Trans. Syst. Man Cybern. 10 (1980) 181–188.
+[60] D. E. Ghahraman, A. K. C. Wong and T. Au, Graph monomorphism algorithms,
+Trans. Syst. Man Cybern. 10 (1980) 189–197.
+[61] S. Gold and A. Rangarajan, A graduated assignment algorithm for graph matching,
+IEEE Trans. Patt. Anal. Mach. Intell. 18 (1996) 377–388.
+[62] C. Gomila and F. Meyer, Tracking objects by graph matching of image partition
+sequences, in Proc. 3rd IAPR-TC15 Workshop Graph-Based Representations in
+Pattern Recognition, 2001, pp. 1–11.
+[63] L. Gregory and J. Kittler, Using graph search techniques for contextual colour
+retrieval, in Proc. Joint IAPR Int. Workshops SSPR and SPR, 2002, pp. 186–194.
+[64] W. E. Grimson, Object Recognition by Computer: The Role of Geometric Constraints
+(MIT Press, 1991).
+[65] K. Haris, S. N. Efstradiatis, N. Maglaveras, C. Pappas, J. Gourassas and G. Louridas,
+Model-based morphological segmentation and labeling of coronary angiograms, IEEE
+Trans. Med. Imag. 18 (1999) 1003–1015.
+[66] A. Hlaoui and S. Wang, A new algorithm for graph matching with application to
+content-based image retrieval, in Proc. Joint IAPR Int. Workshops SSPR and SPR,
+2002, pp. 291–300.
+[67] P. Hong, R. Wang and T. Huang, Learning patterns from images by combining soft
+decisions and hard decisions, in Proc. 2000 IEEE Computer Society Conf. Computer
+Vision and Pattern Recognition, 2000, pp. 79–83.
+[68] J. E. Hopcroft and J. Wong, Linear time algorithm for isomorphism of planar graphs,
+in Proc. 6th Annual ACM Symp. Theory of Computing, 1974, pp. 172–184.
+[69] A. J. Hsieh, K. C Fan and T. I. Fan, Bipartite weighted matching for on-line handwritten
+Chinese character recognition, Patt. Recogn. 28 (1995) 143–151.
+[70] B. Huet and E. R. Hancock, Fuzzy relational distance for large-scale object
+recognition, in Proc. IEEE Conf. Computer Vision and Pattern Recognition, 1998,
+pp. 138–143.
+[71] B. Huet and E. R. Hancock, Shape recognition from large image libraries by inexact
+graph matching, Patt. Recogn. Lett. 20 (1999) 1259–1269.
+[72] B. Huet, N. J. Kern, G. Guarascio and B. Merialdo, Relational skeletons for retrieval
+in patent drawings, in Proc. Int. Conf. Image Processing, 2001, pp. 737–740.
+[73] C. Irniger and H. Bunke, Graph matching: filtering large databases of graphs
+using decision trees, in Proc. 3rd IAPR-TC15 Workshop Graph-Based Representations
+in Pattern Recognition, 2001, pp. 239–249.
+[74] A. Jagota, M. Pelillo and A. Rangarajan, A new deterministic annealing algorithm
+for maximum clique, in Proc. Int. Joint Conf. Neural Networks 6 (2000) 505–508.
+[75] J. Jia and K. Abe, Automatic generation of prototypes in 3D structural object
+recognition, in Proc. Fourteenth Int. Conf. Pattern Recognition, 1998, pp. 697–700.
+[76] X. Jiang and H. Bunke, Marked subgraph isomorphism of ordered graphs, in Proc.
+Joint IAPR Int. Workshops SSPR and SPR, 1998, pp. 122–131.
+[77] X. Jiang, A. Munger and H. Bunke, Synthesis of representative symbols by computing
+generalized median graphs, in Proc. Int. Workshop Graphics Recognition GREC
+’99, 1999, pp. 187–194.
+[78] K. G. Khoo and P. N. Suganthan, Multiple relational graphs mapping using genetic
+algorithms, in Proc. 2001 Congress on Evolutionary Computation, 2001, pp. 727–733.
+[79] L. Kitchen and A. Rosenfeld, Discrete relaxation for matching relational structures,
+IEEE Trans. Syst. Man Cybern. 9 (1979) 869–874.
+[80] J. Kittler and E. R. Hancock, Combining evidence in probabilistic relaxation, Int.
+J. Patt. Recogn. Artif. Intell. 3 (1989) 29–51.
+[81] I. Koch, Enumerating all connected maximal common subgraphs in two graphs,
+Theoret. Comput. Sci. 250 (2001) 1–30.
+[82] J. H. Koo and S. I. Yoo, A structural matching for two-dimensional visual pattern
+inspection, in Proc. IEEE Int. Conf. Systems, Man and Cybernetics, 1998, pp. 4429–
+4434.
+[83] S. Kosinov and T. Caelli, Inexact multisubgraph matching using graph eigenspace
+and clustering models, in Proc. Joint IAPR Int. Workshops SSPR and SPR, 2002,
+pp. 133–142.
+[84] C. Kotropoulos, A. Tefas and I. Pitas, Frontal face authentication using morphological
+elastic graph matching, IEEE Trans. Imag. Process. 9 (2000) 555–560.
+[85] M. Lades, J. C. Vorbruggen, J. Buhmann, J. Lange, C. von der Malsburg, R. P.
+Wurz and W. Konen, Distortion invariant object recognition in the dynamic link
+architecture, IEEE Trans. Comput. 42 (1993) 300–311.
+[86] J. Larrosa and G. Valiente, Constraint satisfaction algorithms for graph pattern
+matching, Math. Struct. Comput. Sci. 12 (2002) 403–422. 
+[87] E. S. Lawler, Combinatorial Optimization: Networks and Matroids (Dover Pubns
+Publisher, 2001).
+[88] M. Lazarescu, H. Bunke and S. Venkatesh, Graph matching: fast candidate elimination
+using machine learning techniques, in Proc. Joint IAPR Int. Workshops SSPR
+and SPR, 2000, pp. 236–245.
+[89] R. S. T. Lee and J. N. K. Liu, An oscillatory elastic graph matching model for
+recognition of offline handwritten Chinese characters, Third Int. Conf. KnowledgeBased
+Intelligent Information Engineering Systems, 1999, pp. 284–287.
+[90] W. J. Li and T. Lee, Object recognition by sub-scene graph matching, IEEE Int.
+Conf. Robotics and Automation, 2000, pp. 1459–1464.
+[91] R. Lim and M. J. T. Reinders, Facial landmarks localization based on fuzzy and
+gabor wavelet graph matching, in Proc. 10th IEEE Int. Conf. Fuzzy Systems, 2001,
+pp. 683–686.
+[92] J. Z. Liu, K. Ma, W. K. Cham and M. M. Y. Chang, Two-layer assignment method
+for online Chinese character recognition, IEEE Proc. Vis. Imag. Sign. Process. 147
+(2000) 47–54.
+[93] C. W. Liu, K. C. Fan, J. T. Horng and Y. K. Wang, Solving weighted graph matching
+problem by modified microgenetic algorithm, IEEE Int. Conf. Syst. Man Cybern.,
+1995, pp. 638–643.
+[94] J. Llados, J. Lopez-Krahe and E. Marti, Hand drawn document understanding using
+the straight line Hough transform and graph matching, in Proc. 13th Int. Conf.
+Pattern Recognition, 1996, pp. 497–501.
+[95] J. Llados, E. Marti and J. J. Villanueva, Symbol recognition by error-tolerant subgraph
+matching between region adjacency graphs, IEEE Trans. Patt. Anal. Mach.
+Intell. 23 (2001) 1137–1143.
+[96] S. W. Lu, Y. Ren and C. Y. Suen, Hierarchical attributed graph representation and
+recognition of handwritten Chinese characters, Patt. Recogn. 24 (1991) 617–632.
+[97] E. M. Luks, Isomorphism of graphs of bounded valence can be tested in polynomial
+time, J. Comput. Syst. Sci. 25 (1982) 42–65.
+[98] B. Luo and E. R. Hancock, Structural graph matching using the EM algorithm
+and singular value decomposition, IEEE Trans. Patt. Anal. Mach. Intell. 23 (2001)
+1120–1136.
+[99] B. Luo, A. Robles-Kelly, A. Torsello, R. C. Wilson and E. R. Hancock,
+Clustering shock trees, in Proc. 3rd IAPR-TC15 Workshop Graph-Based Representations
+in Pattern Recognition, 2001, pp. 217–228.
+[100] M. J. Lyons, J. Budynek and S. Akamatsu, Automatic classification of single facial
+images, IEEE Trans. Patt. Anal. Mach. Intell. 21 (1999) 1357–1362.
+[101] D. Maio and D. Maltoni, A structural approach to fingerprint classification, in Proc.
+13th Int. Conf. Pattern Recognition, 1996, pp. 578–585.
+[102] J. J. McGregor, Backtrack search algorithm and the maximal common subgraph
+problem, Software — Practice and Experience 12 (1982) 23–34.
+[103] B. D. McKay, Practical graph isomorphism, Congressus Numerantium 30 (1981)
+45–87.
+[104] S. Medasani, R. Krishnapuram and Y. S. Choi, Graph matching by relaxation of
+fuzzy assignments, IEEE Trans. Fuzzy Syst. 9 (2001) 173–182.
+[105] S. Medasani and R. Krishnapuram, A fuzzy approach to content-based image
+retrieval, in Proc. IEEE Int. Conf. Fuzzy Systems, 1999, pp. 1251–1260.
+[106] B. Messmer, Efficient Graph Matching Algorithm for Preprocessed Model Graphs,
+Ph.D. thesis, Institut fur Informatik und Angewandte Mathematik, University of
+Bern (1995)
+[107] B. T. Messmer and H. Bunke, Efficient subgraph isomorphism detection: a
+decomposition approach, IEEE Trans. Knowl. Data Eng. 12 (2000) 307–323.
+[108] B. T. Messmer and H. Bunke, A new algorithm for error-tolerant subgraph isomorphism
+detection, IEEE Trans. Patt. Anal. Mach. Intell. 20 (1998) 493–504.
+[109] B. T. Messmer and H. Bunke, A decision tree approach to graph and subgraph
+isomorphism detection, Patt. Recogn. 32 (1998) 1979–1998.
+[110] R. Meth and R. Chellappa, Target indexing in synthetic aperture radar imagery
+using topographic features, in Proc. IEEE Int. Conf. Acoustics, Speech and Signal
+Processing, 1996, pp. 2152–2155.
+[111] T. Miyazaki, The complexity of McKay’s canonical labeling algorithm, Groups
+and Computation II, DIMACS Series Discrete Mathematics Theoretical Computer
+Science 28 (1997) 239–256.
+[112] R. Myers, R. C. Wilson and E. R. Hancock, Bayesian graph edit distance, IEEE
+Trans. Patt. Anal. Mach. Intell. 22 (2000) 628–635.
+[113] K. Oflazer, Error-tolerant retrieval of trees, IEEE Trans. Patt. Anal. Mach. Intell.
+19 (1997) 1376–1380.
+[114] S. Olatunbosun, G. R. Dowling and T. J. Ellis, Topological representation for
+matching coloured surfaces, in Proc. Int. Conf. Image Processing, 1996, pp. 1019–
+1022.
+[115] B. Ozer, W. Wolf and A. N. Akansu, A graph based object description for information
+retrieval in digital image and video libraries, in Proc. IEEE Workshop Content-Based
+Access of Image and Video Libraries, 1999, pp. 79–83.
+[116] I. K. Park, I. D. Yun and S. U. Lee, Models and algorithms for efficient color image
+indexing, in Proc. IEEE Workshop Content-Based Access of Image and Video
+Libraries, 1997, pp. 36–41.
+[117] P. Pardalos, J. Rappe and M. G. C. Resende, An exact parallel algorithm for the
+maximum clique problem, in High Performance Algorithms and Software in Nonlinear
+Optimization (Kluwer Academic Publishers, 1998).
+[118] T. Pavlidis, W. J. Sakoda and H. Shi, Matching graph embeddings for shape analysis,
+in Proc. Third Int. Conf. Document Analysis and Recognition, 1995, pp. 729–733.
+[119] M. Pelillo, Relaxation labeling networks for the maximum clique problem, J. Artif.
+Neural Networks 2 (1995) 313–328.
+[120] M. Pelillo and A. Jagota, Feasible and infeasible maxima in a quadratic program for
+maximum clique, J. Artif. Neural Networks 2 (1995) 411–420.
+[121] M. Pelillo, A unifying framework for relational structure matching, in Proc. Fourteenth
+Int. Conf. Pattern Recognition, 1998, pp. 1316–1319.
+[122] M. Pelillo, K. Siddiqi and S. W. Zucker, Matching hierarchical structures using
+association graphs, IEEE Trans. Patt. Anal. Mach. Intell. 21 (1999) 1105–1120.
+[123] M. Pelillo, Replicator equations, maximal cliques and graph isomorphism, Neural
+Comput. 11 (1999) 1933–1955.
+[124] M. Pelillo, Matching free trees, maximal cliques and monotone game dynamics, IEEE
+Trans. Patt. Anal. Mach. Intell. 24 (2002) 1535–1541.
+[125] A. Perchant, C. Boeres, I. Bloch, M. Roux and C. Ribeiro, Model-based scene recognition
+using graph fuzzy homomorphism solved by genetic algorithm, in Proc. 2nd
+IAPR-TC15 Workshop Graph-Based Representations in Pattern Recognition, 1999,
+pp. 61–70.
+[126] G. M. Petrakis and C. Faloutsos, Similarity searching in medical image databases,
+IEEE Trans. Knowl. Data Eng. 9 (1997) 435–447.
+[127] A. Rangarajan and E. D. Mjolsness, A Lagrangian relaxation network for graph
+matching, IEEE Trans. Neural Networks 7 (1996) 1365–1381.
+[128] J. Rocha and T. Pavlidis, A shape analysis model with applications to a character
+recognition system, IEEE Trans. Patt. Anal. Mach. Intell. 16 (1994) 393–404.
+[129] A. Rosenfeld, R. A. Hummel and S. W. Zucker, Scene labelling by relaxation
+operations, IEEE Trans. Syst. Man Cybern. 6 (1976) 420–433.
+[130] S. J. Russel and P. Norvig, in Artificial Intelligence: A Modern Approach, Series in
+Artificial Intelligence (Prentice Hall, 1995).
+[131] M. Salotti and N. Laachfoubi, Topographic graph matching for shift estimation, in
+Proc. 3rd IAPR-TC15 Workshop Graph-Based Representations in Pattern Recognition,
+2001, pp. 54–63.
+[132] A. Sanfeliu and K. S. Fu, A distance measure between attributed relational graphs
+for pattern recognition, IEEE Trans. Syst. Man Cybern. 13 (1983) 353–363.
+[133] D. Seong, H. S. Kim and K. H. Park, Incremental clustering of attributed graphs,
+IEEE Trans. Syst. Man Cybern. 23 (1993) 1399–1411.
+[134] F. Serratosa, R. Alquezar and A. Sanfeliu, Efficient algorithms for matching attributed
+graphs and function-described graphs, in Proc. 15th Int. Conf. Pattern
+Recognition, 2000, pp. 867–872.
+[135] F. Serratosa, R. Alquezar and A. Sanfeliu, Function-described graphs: a fast
+algorithm to compute a sub-optimal matching measure, in Proc. 2nd IAPR-TC15
+Workshop Graph-Based Representations in Pattern Recognition, 1999, pp. 71–77.
+[136] L. G. Shapiro and R. M. Haralick, Structural descriptions and inexact matching,
+IEEE Trans. Patt. Anal. Mach. Intell. 3 (1981) 504–519.
+[137] L. G. Shapiro and R. M. Haralick, A metric for comparing relational descriptions,
+IEEE Trans. Patt. Anal. Mach. Intell. 7 (1985) 90–94.
+[138] D. Shasha, J. T. L. Wang, K. Zhang and F. Y. Shih, Exact and approximate algorithms
+for unordered tree matching, IEEE Trans. Syst. Man Cybern. 24 (1994)
+668–678.
+[139] D. Sharvit, J. Chan, H. Tek and B. B. Kimia, Symmetry-based indexing of
+image databases, in Proc. IEEE Workshop Content-Based Access of Image and Video
+Libraries, 1998, pp. 56–62.
+[140] K. Shearer, H. Bunke, S. Venkatesh and S. Kieronska, Efficient graph matching for
+video indexing, Computing 12(Suppl.) (1997) 53–62.
+[141] K. Shearer H. Bunke and S. Venkatesh, Video indexing and similarity retrieval by
+largest common subgraph detection using decision trees, Patt. Recogn. 34 (2001)
+1075–1091.
+[142] K. Shearer, S. Venkatesh and H. Bunke, Video sequence matching via decision tree
+path following, Patt. Recogn. Lett. 22 (2001) 479–492.
+[143] Y. Shinano, T. Fujie, Y. Ikebe and R. Hirabayashi, Solving the maximum clique
+problem using PUBB, in Proc. First Merged Int. Parallel Processing Symposium,
+1998, pp. 326–332.
+[144] A. Shokoufandeh and S. Dickinson, A unified framework for indexing and matching
+hierarchical shape structures, Lecture Notes in Computer Science, Vol. 2059 (2001)
+67–84.
+[145] A. Shoukry and M. Aboutabl, Neural network approach for solving the maximal
+common subgraph problem, IEEE Trans. Syst. Man Cybern. 26 (1996) 785–790.
+[146] P. N. Suganthan, Attributed relational graph matching by neural-gas networks, in
+Proc. 2000 IEEE Signal Processing Society Workshop on Neural Networks for Signal
+Processing X, 2000, pp. 366–374.
+[147] P. N. Suganthan, E. K. Teoh and D. Mital, Pattern recognition by graph matching
+using the potts MFT neural networks, Patt. Recogn. 28 (1995) 997–1009.
+[148] P. N. Suganthan, E. K. Teoh and D. Mital, A self organizing Hopfield network for 
+attributed relational graph matching, Imag. Vis. Comput. 13 (1995) 61–73.
+[149] P. N. Suganthan and H. Yan, Recognition of handprinted Chinese characters by
+constrained graph matching, Imag. Vis. Comput. 16 (1998) 191–201.
+[150] A. Tefas, C. Kotropoulos and I. Pitas, Using support vector machines to enhance the
+performance of elastic graph matching for frontal face authentication, IEEE Trans.
+Patt. Anal. Mach. Intell. 23 (2001) 735–746.
+[151] A. Torsello and E. R. Hancock, Computing approximate tree edit-distance using relaxation
+labeling, in Proc. 3rd IAPR-TC15 Workshop Graph-Based Representations
+in Pattern Recognition, 2001, pp. 125–136.
+[152] A. Torsello and E. R. Hancock, Learning structural variations in shock trees, in Proc.
+Joint IAPR Int. Workshops SSPR and SPR, 2002, pp. 113–122.
+[153] J. Triesch and C. von der Malsburg, A system for person-independent hand posture
+recognition against complex backgrounds, IEEE Trans. Patt. Anal. Mach. Intell. 23
+(2001) 1449–1453.
+[154] W. H. Tsai and K. S. Fu, Error-correcting isomorphisms of attributed relational
+graphs for pattern analysis, IEEE Trans. Syst. Man Cybern. 9 (1979) 757–768.
+[155] W. H. Tsai and K. S. Fu, Subgraph error-correcting isomorphisms for syntactic
+pattern recognition, IEEE Trans. Syst. Man Cybern. 13 (1983) 48–61.
+[156] J. R. Ullman, An algorithm for subgraph isomorphism, J. Assoc. Comput. Mach. 23
+(1976) 31–42.
+[157] S. Umeyama, An eigendecomposition approach to weighted graph matching
+problems, IEEE Trans. Patt. Anal. Mach. Intell. 10 (1988) 695–703.
+[158] G. Valiente, An efficient bottom-up distance between trees, in Proc. Eighth Int.
+Symp. String Processing and Information Retrieval, 2001, pp. 212–219.
+[159] B. J. van Wyk and M. A. van Wyk, Non-Bayesian graph matching without explicit
+compatibility calculations, in Proc. Joint IAPR Int. Workshops SSPR and SPR,
+2002, pp. 74–82.
+[160] B. J. van Wyk, M. A. van Wyk and H. E. Hanrahan, Successive projection graph
+matching, in Proc. Joint IAPR Int. Workshops SSPR and SPR, 2002, pp. 263–271.
+[161] M. A. van Wyk, T. S. Durrani and B. J. van Wyk, A RKHS interpolator-based graph
+matching algorithm, IEEE Trans. Patt. Anal. Mach. Intell. 24 (2002) 988–995.
+[162] W. D. Wallis, P. Shoubridge, M. Kraetz and D. Ray, Graph distances using graph
+union, Patt. Recogn. Lett. 22 (2001) 701–704.
+[163] J. T. L. Wang, K. Zhang and G. W. Chirn, The approximate graph matching
+problem, in Proc. 12th IAPR Int. Pattern Recognition, Conf. B, 1994, pp. 284–288.
+[164] C. Wang and K. Abe, Region correspondence by inexact attributed planar graph
+matching, in Proc. Fifth Int. Conf. Computer Vision, 1995, pp. 440–447.
+[165] M. Wang, Y. Iwai and M. Yachida, Expression recognition from time-sequential facial
+images by use of expression change model, in Proc. Third IEEE Int. Conf. Automatic
+Face and Gesture Recognition, 1998, pp. 354–359.
+[166] Y. K. Wang, K. C. Fan and J. T. Horng, Genetic-based search for error-correcting
+graph isomorphism, IEEE Trans. Syst. Man Cybern. B27 (1997) 589–597.
+[167] R. C. Wilson and E. R. Hancock, Structural matching by discrete relaxation, IEEE
+Trans. Patt. Anal. Mach. Intell. 19 (1997) 634–648.
+[168] M. L. Williams, R. C. Wilson and E. R. Hancock, Deterministic search for relational
+graph matching, Patt. Recogn. 32 (1999) 1255–1271.
+[169] R. C. Wilson and E. R. Hancock, Graph matching with hierarchical discrete
+relaxation, Patt. Recogn. Lett. 20 (1999) 1041– 1052.
+[170] L. Wiskott, J. M. Fellous, N. Kruger and C. von der Malsburg, Face recognition
+by elastic bunch graph matching, IEEE Trans. Patt. Anal. Mach. Intell. 19 (1997)
+775–779.
+[171] L. Wiskott, Phantom faces for face analysis, in Proc. Int. Conf. Image Processing,
+1997, pp. 308–311.
+[172] A. K. C. Wong, M. You and S. C. Chan, An algorithm for graph optimal monomorphism,
+IEEE Trans. Syst. Man Cybern. 20 (1990) 628–638.
+[173] L. Xu and I. King, A PCA approach for fast retrieval of structural patterns in
+attributed graphs, IEEE Trans. Syst. Man Cybern. B31 (2001) 812–817.
+[174] H. Zhang and H. Yan, Graphic matching based on constrained Voronoi diagrams, in
+Proc. Fifth Int. Symp. Signal Processing and Its Applications, 1999, pp. 431–434.

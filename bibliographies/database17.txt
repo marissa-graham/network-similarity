@@ -1,0 +1,35 @@
+[0] Tamas Horvath, Thomas Gartner, Stefan Wrobel, Cyclic pattern kernels for predictive graph mining
+[1] Rakesh Agrawal , Heikki Mannila , Ramakrishnan Srikant , Hannu Toivonen , A. Inkeri Verkamo, Fast discovery of association rules, Advances in knowledge discovery and data mining, American Association for Artificial Intelligence, Menlo Park, CA, 1996	
+[2] Helmut Alt , Ulrich Fuchs , Klaus Kriegel, On the Number of Simple Cycles in Planar Graphs, Combinatorics, Probability and Computing, v.8 n.5, p.397-405, September 1999  [doi>10.1017/S0963548399003995]	
+[3] Asai, Arimura, Uno, and Nakano. Discovering frequent substructures in large unordered trees. In Proc. of the 6th International Conference on Discovery Science, volume 2843 of LNAI, pages 47--61. Springer Verlag, 2003.	
+[4] Christian Borgelt , Michael R. Berthold, Mining Molecular Fragments: Finding Relevant Substructures of Molecules, Proceedings of the 2002 IEEE International Conference on Data Mining, p.51, December 09-12, 2002
+[5] Bernhard E. Boser , Isabelle M. Guyon , Vladimir N. Vapnik, A training algorithm for optimal margin classifiers, Proceedings of the fifth annual workshop on Computational learning theory, p.144-152, July 27-29, 1992, Pittsburgh, Pennsylvania, USA  [doi>10.1145/130385.130401]	
+[6] M. Collins and N. Duffy. Convolution kernels for natural language. In T. G. Dietterich, S. Becker, and Z. Ghahramani, editors, Advances in Neural Information Processing Systems, volume 14. MIT Press, 2002.	
+[7] C. Cortes, P. Haffner, and M. Mohri. Positive definite rational kernels. In Learning Theory and Kernel Machines, 16th Annual Conference on Learning Theory and 7th Kernel Workshop, Proceedings. volume 2843 of LNAI, pages 41--56. Springer Verlag, 2003.	
+[8] M. Deshpande, M. Kuramochi, and G. Karypis. Automated approaches for classifying structures. In Proc. of the 2nd ACM SIGKDD Workshop on Data Mining in Bioinformatics, 2002.	
+[9] Mukund Deshpande , Michihiro Kuramochi , George Karypis, Frequent Sub-Structure-Based Approaches for Classifying Chemical Compounds, Proceedings of the Third IEEE International Conference on Data Mining, p.35, November 19-22, 2003	
+[10] R. Diestel. Graph theory. 2nd edition, Springer Verlag, 2000.	
+[11] H.-D. Ebbinghaus and J. Flum. Finite Model Theory. Perspectives in Mathematical Logic. 2nd edition, Springer Verlag, 1999.	
+[12] Martin Fürer, Graph isomorphism testing without numerics for graphs of bounded eigenvalue multiplicity, Proceedings of the sixth annual ACM-SIAM symposium on Discrete algorithms, p.624-631, January 22-24, 1995, San Francisco, California, USA	
+[13] T. Gärtner. Exponential and geometric kernels for graphs. In NIPS Workshop on Unreal Data: Principles of Modeling Nonvectorial Data, 2002.	
+[14] T. Gärtner, K. Driessens, and J. Ramon. Graph kernels and gaussian processes for relational reinforcement learning. In Proc. of the 13th International Conference on Inductive Logic Programming, volume 2835 of LNAI, pages 146--163. Springer Verlag, 2003.	
+[15] T. Gärtner, P. A. Flach, and S. Wrobel. On graph kernels: Hardness results and efficient alternatives. In Learning Theory and Kernel Machines, 16th Annual Conference on Learning Theory and 7th Kernel Workshop, Proceedings. volume 2843 of LNAI, pages 129--143. Springer Verlag, 2003.	
+[16] T. Graepel. PAC-Bayesian Pattern Classification with Kernels. PhD thesis, TU Berlin, 2002.	
+[17] D. Haussler. Convolution kernels on discrete structures. Technical report, Department of Computer Science, University of California at Santa Cruz, 1999.	
+[18] Thorsten Joachims, Making large-scale support vector machine learning practical, Advances in kernel methods: support vector learning, MIT Press, Cambridge, MA, 1999	
+[19] H. Kashima, K. Tsuda, and A. Inokuchi. Marginalized kernels between labeled graphs. In Proc. of the 20th International Conference on Machine Learning, pages 321--328. AAAI Press, 2003.
+[20] Stefan Kramer , Luc De Raedt , Christoph Helma, Molecular feature mining in HIV data, Proceedings of the seventh ACM SIGKDD international conference on Knowledge discovery and data mining, p.136-143, August 26-29, 2001, San Francisco, California  [doi>10.1145/502512.502533]
+[21] Ravi Kumar , Prabhakar Raghavan , Sridhar Rajagopalan , D. Sivakumar , Andrew Tompkins , Eli Upfal, The Web as a graph, Proceedings of the nineteenth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, p.1-10, May 15-18, 2000, Dallas, Texas, USA  [doi>10.1145/335168.335170]	
+[22] Michihiro Kuramochi , George Karypis, Frequent Subgraph Discovery, Proceedings of the 2001 IEEE International Conference on Data Mining, p.313-320, November 29-December 02, 2001	
+[23] C. Leslie and R. Kuang. Fast kernels for inexact string matching. In Learning Theory and Kernel Machines, 16th Annual Conference on Learning Theory and 7th Kernel Workshop, Proceedings. volume 2843 of LNAI, pages 114--128. Springer Verlag, 2003.	
+[24] H. Lodhi, J. Shawe-Taylor, N. Christianini, and C. Watkins. Text classification using string kernels. In T. Leen, T. Dietterich, and V. Tresp, editors, Advances in Neural Information Processing Systems, volume 13. MIT Press, 2001.	
+[25] Foster J. Provost , Tom Fawcett , Ron Kohavi, The Case against Accuracy Estimation for Comparing Induction Algorithms, Proceedings of the Fifteenth International Conference on Machine Learning, p.445-453, July 24-27, 1998	
+[26] Foster Provost , Tom Fawcett, Robust Classification for Imprecise Environments, Machine Learning, v.42 n.3, p.203-231, March 2001  [doi>10.1023/A:1007601015854]	
+[27] R. C. Read and R. E. Tarjan. Bounds on backtrack algorithms for listing cycles, paths, and spanning trees. Networks, 5(3):237--252, 1975.	
+[28] B. Schölkopf and A. J. Smola. Learning with Kernels. MIT Press, 2002.	
+[29] R. Tarjan. Depth-first search and linear graph algorithms. SIAM Journal on Computing, 1(2):146--160, 1972.	
+[30] L. G. Valiant. The complexity of enumeration and reliability problems. SIAM Journal on Computing, 8(3):410--421, 1979.	
+[31] Vladimir N. Vapnik, The nature of statistical learning theory, Springer-Verlag New York, Inc., New York, NY, 1995	
+[32] P. Vismara. Union of all the minimum cycle bases of a graph. The Electronic Journal of Combinatorics, 4(1):73--87, 1997.	
+[33] C. Watkins. Kernels from matching operations. Technical report, Department of Computer Science, Royal Holloway, University of London, 1999.
+[34] Mohammed J. Zaki, Efficiently mining frequent trees in a forest, Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining, July 23-26, 2002, Edmonton, Alberta, Canada  [doi>10.1145/775047.775058]

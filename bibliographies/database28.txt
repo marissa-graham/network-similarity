@@ -1,0 +1,140 @@
+[0] Giorgos Kollias, Madan Sathe, Olaf Schenk, Ananth Grama, Fast parallel algorithms for graph similarity and matching
+[1] S. Bandyopadhyay, R. Sharan, T. Ideker
+Systematic identification of functional orthologs based on protein network comparison
+Genome Res., 16 (3) (2006), pp. 428-435
+[2] M. Bayati, M. Gerritsen, D.F. Gleich, A. Saberi, Y. Wang
+Algorithms for large, sparse network alignment problems
+Ninth IEEE International Conference on Data Mining, 2009, ICDM’09, IEEE (2009), pp. 705-710
+[3] D.P. Bertsekas
+The auction algorithm: a distributed relaxation method for the assignment problem
+Ann. Oper. Res., 14 (1) (1988), pp. 105-123
+[4] D.P. Bertsekas, D.A. Castanˆon
+A forward/reverse auction algorithm for asymmetric assignment problems
+Comput. Optim. Appl., 1 (1993), pp. 277-297
+[5] C. Bizer, J. Lehmann, G. Kobilarov, S. Auer, C. Becker, R. Cyganiak, S. Hellmann
+Dbpedia—a crystallization point for the web of data
+Web Semantics: Science, Services and Agents on the World Wide Web (2009)
+[6] V.D. Blondel, A. Gajardo, M. Heymans, P. Senellart, P. Van Dooren
+A measure of similarity between graph vertices: applications to synonym extraction and Web searching
+SIAM Rev., 46 (4) (2004), pp. 647-666
+[7] U. Brandes
+A faster algorithm for betweenness centrality
+J. Math. Sociol., 25 (2) (2001), pp. 163-177
+[8] Ü.V. Çatalyürek, F. Dobrian, A.H. Gebremedhin, M. Halappanavar, A. Pothen
+Distributed-memory parallel algorithms for matching and coloring
+2011 International Symposium on Parallel and Distributed Processing, Workshops and PhD Forum (IPDPSW), Workshop on Parallel Computing and Optimization, PCO’11, IEEE Press (2011), pp. 1966-1975
+[9] T. Cormen, C. Leiserson, R. Rivest
+Introduction to Algorithms
+MIT Press (1990)
+[10] T.A. Davis, Y. Hu
+The university of Florida sparse matrix collection
+ACM Trans. Math. Software, 38 (1) (2011)
+[11] D.E. Drake, S. Hougardy, Linear time local improvements for weighted matchings in graphs, in: WEA’03 Proceedings of the 2nd International Conference on Experimental and Efficient Algorithms, 2003, pp. 107–119.
+[12] I.S. Duff, J. Koster
+On algorithms for permuting large entries to the diagonal of a sparse matrix
+SIAM J. Matrix Anal. Appl., 22 (1999), pp. 973-996
+[13] M. El-Kebir, J. Heringa, G. Klau
+Lagrangian relaxation applied to sparse global network alignment
+Pattern Recognit. Bioinform. (2011), pp. 225-236
+[14] J. Flannick, A. Novak, C.B. Do, B.S. Srinivasan, S. Batzoglou
+Automatic parameter learning for multiple network alignment
+Proceedings of the 12th Annual International Conference on Research in Computational Molecular Biology, Springer-Verlag (2008), pp. 214-231
+[15] L. Getoor, C.P. Diehl
+Link mining: a survey
+ACM SIGKDD Explor. Newsl., 7 (2) (2005), pp. 3-12
+[16] D. Gregor, A. Lumsdaine, The parallel BGL: a generic library for distributed graph computations, in: Parallel Object-Oriented Scientific Computing, POOSC, 2005.
+[17] S. Hougardy, D.E. Vinkemeier
+Approximating weighted matchings in parallel
+Inform. Process. Lett., 99 (3) (2006), pp. 119-123
+[18] G. Jeh, J. Widom
+SimRank: a measure of structural-context similarity
+Proceedings of the Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, ACM (2002), pp. 538-543
+[19] R. Jonker, A. Volgenant
+A shortest augmenting path algorithm for dense and sparse linear assignment problems
+Computing, 38 (4) (1987), pp. 325-340
+[20] B.P. Kelley, B. Yuan, F. Lewitter, R. Sharan, B.R. Stockwell, T. Ideker
+PathBLAST: a tool for alignment of protein interaction networks
+Nucleic Acids Res., 32 (Suppl. 2) (2004), p. W83
+[21] Arif M. Khan, David F. Gleich, Alex Pothen, Mahantesh Halappanavar
+A multithreaded algorithm for network alignment via approximate matching
+2012 International Conference for High Performance Computing, Networking, Storage and Analysis (SC), IEEE (2012), pp. 1-11
+[22] G.W. Klau
+A new graph-based method for pairwise global network alignment
+BMC Bioinform., 10 (Suppl. 1) (2009), p. S59
+[23] G. Kollias, S. Mohammadi, A. Grama
+Network similarity decomposition (NSD): a fast and scalable approach to network alignment
+IEEE Trans. Knowl. Data Eng., 24 (2012), pp. 2232-2243
+[24] M. Koyutürk, Y. Kim, U. Topkara, S. Subramaniam, W. Szpankowski, A. Grama
+Pairwise alignment of protein interaction networks
+J. Comput. Biol., 13 (2) (2006), pp. 182-199
+[25] O. Kuchaiev, T. Milenković, V. Memišević, W. Hayes, N. Pržulj
+Topological network alignment uncovers biological function and phylogeny
+J. R. Soc. Interface, 7 (50) (2010), pp. 1341-1354
+[26] Oleksii Kuchaiev, Natasa Przulj
+Integrative network alignment reveals large regions of global network similarity in yeast and human
+Bioinformatics, 27 (10) (2011), pp. 1390-1396
+[27] H.W. Kuhn
+The Hungarian method for the assignment problem
+Nav. Res. Logist. Q., 2 (1955), pp. 83-97
+[28] M. Kuramochi, G. Karypis
+Frequent subgraph discovery
+Proceedings of the 2001 IEEE International Conference on Data Mining, IEEE Computer Society (2001), pp. 313-320
+[29] Z. Li, S. Zhang, Y. Wang, X.S. Zhang, L. Chen
+Alignment of molecular networks by integer quadratic programming
+Bioinformatics, 23 (13) (2007), pp. 1631-1639
+[30] F. Manne, R.H. Bisseling
+A parallel approximation algorithm for the weighted maximum matching problem
+Proceedings Seventh International Conference on Parallel Processing and Applied Mathematics, Lecture Notes in Computer Science, vol. 4967, PPAM 2007 (2008), pp. 708-717
+[31] V. Memišević, N. Pržulj
+C-GRAAL: Common-neighbors-based global GRAph ALignment of biological networks
+Integr. Biol. (2012)
+[32] T. Milenković, W.L. Ng, W. Hayes, N. Pržulj
+Optimal network alignment with graphlet degree vectors
+Cancer Inform., 9 (2010), p. 121
+[33] T. Milenković, N. Pržulj
+Uncovering biological network function via graphlet degree signatures
+Cancer Inform., 6 (2008), pp. 257-273
+PMID: 19259413
+[34] J. Munkres
+Algorithms for the assignment and transportation problems
+J. Soc. Ind. Appl. Math., 5 (1) (1957), pp. 32-38
+[35] M.E.J. Newman
+Modularity and community structure in networks
+Proc. Natl. Acad. Sci., 103 (23) (2006), pp. 8577-8582
+[36] L. Page, S. Brin, R. Motwani, T. Winograd
+The PageRank Citation Ranking: Bringing Order to the Web, Technical Report
+Stanford University (1998)
+[37] P. Papadimitriou, A. Dasdan, H. Garcia-Molina
+Web graph similarity for anomaly detection
+J. Internet Serv. Appl., 1 (1) (2010), pp. 19-30
+[38] Rob Patro, Carl Kingsford
+Global network alignment using multiscale spectral signatures
+Bioinformatics, 28 (23) (2012), pp. 3105-3114
+[39] M.A. Patwary, R.H. Bisseling, F. Manne, Parallel greedy graph matching using an edge partitioning approach, in: Proceedings of the Fourth ACM SIGPLAN Workshop on High-level Parallel Programming and Applications, HLPP 2010, 2010, pp. 45–54.
+[40] S. Pettie, P. Sanders
+A simpler linear time  approximation for maximum weight matching
+Inform. Process. Lett., 91 (6) (2004), pp. 271-276
+[41] R. Preis
+Linear time 1/2-approximation algorithm for maximum weighted matching in general graphs
+STACS 99, Springer (1999), pp. 259-269
+[42] N. Pržulj
+Biological network comparison using graphlet degree distribution
+Bioinformatics, 23 (2) (2007), pp. e177-e183
+[43] M. Rupp, E. Proschak, G. Schneider
+Kernel approach to molecular similarity based on iterative graph similarity
+J. Chem. Inf. Model., 47 (2007)
+[44] Madan Sathe, Olaf Schenk, Helmar Burkhart
+An auction-based weighted matching implementation on massively parallel architectures
+Parallel Comput., 38 (12) (2012), pp. 595-614
+[45] R. Sharan, S. Suthram, R.M. Kelley, T. Kuhn, S. McCuine, P. Uetz, T. Sittler, R.M. Karp, T. Ideker
+Conserved patterns of protein interaction in multiple species
+Proc. Natl. Acad. Sci. USA, 102 (6) (2005), p. 1974
+[46] C. Silverstein, S. Brin, R. Motwani
+Beyond market baskets: generalizing association rules to dependence rules
+Data Min. Knowl. Discov., 2 (1) (1998), pp. 39-68
+[47] R. Singh, J. Xu, B. Berger
+Global alignment of multiple protein interaction networks with application to functional orthology detection
+Proc. Natl. Acad. Sci., 105 (35) (2008), pp. 12763-12768
+[48] X. Yan, J. Han
+gSpan: Graph-based substructure pattern mining
+Proceedings. 2002 IEEE International Conference on Data Mining, 2002, ICDM 2002, IEEE (2002), pp. 721-724

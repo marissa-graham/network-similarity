@@ -1,0 +1,54 @@
+
+%% Define the theorem styles and numbering
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
+
+%% Create shortcut commands for various fonts and common symbols
+\newcommand{\s}[1]{\mathcal{#1}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+
+%% Declare custom math operators
+\DeclareMathOperator{\tr}{tr}
+\DeclareMathOperator{\diag}{diag}
+\DeclareMathOperator*{\argmin}{argmin}
+\DeclareMathOperator*{\argmax}{argmax}
+\DeclareMathOperator{\Span}{Span}
+\DeclareMathOperator{\rank}{rank}
+
+%% Sets and systems
+\newcommand{\br}[1]{\left\langle #1 \right\rangle}
+\newcommand{\paren}[1]{\left(#1\right)}
+\newcommand{\sq}[1]{\left[#1\right]}
+\newcommand{\set}[1]{\left\{\: #1 \:\right\}}
+\newcommand{\setp}[2]{\left\{\, #1\: \middle|\: #2 \, \right\}}
+\newcommand{\abs}[1]{\left| #1 \right|}
+\newcommand{\norm}[1]{\left\| #1 \right\|}
+\newcommand{\system}[1]{\left\{ \begin{array}{rl} #1 \end{array} \right.}
+
+%% referencing commands
+\newcommand{\thmref}[1]{Theorem \ref{#1}}
+\newcommand{\corref}[1]{Corollary \ref{#1}}
+\newcommand{\lemref}[1]{Lemma \ref{#1}}
+\newcommand{\propref}[1]{Proposition \ref{#1}}
+\newcommand{\defref}[1]{Definition \ref{#1}}
+\newcommand{\exampleref}[1]{Example \ref{#1}}
+\newcommand{\exerref}[1]{Exercise \ref{#1}}
+
+% set the labeling style
+\renewcommand{\labelenumi}{(\roman{enumi})}

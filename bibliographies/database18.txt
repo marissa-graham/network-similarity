@@ -1,0 +1,150 @@
+[0] Mueller LA, Kugler KG, Netzer M, Graber A, Dehmer M., A network-based approach to classify the three domains of life
+[1] Alberts B, Johnson A, Lewis J, Raff M, Roberts K, Walter P: Molecular Biology
+of the Cell. 5 edition. Garland Science; 2007 [http://www.garlandscience.
+com/textbooks/0815341059.asp].
+[2] Jeong H, Tombor B, Albert R, Oltvai ZN, Barabási AL: The Large-Scale
+Organization of Metabolic Networks. Nature 2000, 407(6804):651-654.
+[3] Koyutürk M: Algorithmic and Analytical Methods in Network Biology.
+Wiley Interdisciplinary Reviews: Systems Biology and Medicine 2010,
+2(3):277-292 [http://www3.interscience.wiley.com/journal/122614928/
+abstract].
+[4] Ravasz E, Somera A, Mongru D, Oltvai Z, Barabási A: Hierarchical
+Organization of Modularity in Metabolic Networks. Science 2002,
+297(5586):1551.
+[5] Ebenhöh O, Handorf T: Functional Classification of Genome-Scale
+Metabolic Networks. EURASIP Journal on Bioinformatics and Systems Biology
+2009, 2009:6.
+[6] Hancock T, Mamitsuka H: A Markov Classification Model for Metabolic
+Pathways. Proceedings of the 9th international conference on Algorithms in
+bioinformatics WABI’09, Berlin, Heidelberg: Springer-Verlag; 2009, 121-132
+[http://portal.acm.org/citation.cfm?id=1812906.1812917].
+[7] Zhu D, Qin Z: Structural Comparison of Metabolic Networks in Selected
+Single Cell Organisms. BMC bioinformatics 2005, 6:8.
+[8] Dehmer M, Mowshowitz A: A History of Graph Entropy Measures.
+Information Sciences 2011, 181:57-78 [http://linkinghub.elsevier.com/retrieve/
+pii/S0020025510004147].
+[9] Bonchev D: Information Theoretic Indices for Characterization of Chemical
+Structures Research Studies Press, Chichester; 1983.
+[10] Dehmer M, Varmuza K, Borgert S, Emmert-Streib F: On Entropy-based
+Molecular Descriptors: Statistical Analysis of Real and Synthetic Chemical
+Structures. J Chem Inf Model 2009, 49:1655-1663.
+[11] Trucco E: A Note on the Information Content of Graphs. Bulletin of
+Mathemtical Biology 1956, 18(2):129-135.
+[12] Mueller LA, Kugler KG, Dander A, Graber A, Dehmer M: Network-based
+Approach to Classify Disease Stages of Prostate Cancer Using
+Quantitative Network Measures. Conference on Bioinformatics &
+Computational Biology (BIOCOMP’10), Las Vegas/USA 2010, , I: 55-61.
+[13] Kugler K, Mueller L, Graber A, Dehmer M: Integrative Network Biology: Graph
+Prototyping for Co-Expression Cancer Networks. PLoS ONE 2011, 6(7):e22843.
+[14] Dehmer M, Barbarini N, Varmuza K, Graber A: Novel Topological Descriptors
+for Analyzing Biological Networks. BMC structural biology 2010, 10:18.
+[15] Mueller LA, Kugler KG, Dander A, Graber A, Dehmer M: QuACN: An R
+Package for Analyzing Complex Biological Networks Quantitatively.
+Bioinformatics 2011, 27:140-141.
+[16] Cook D, Holder LB: Mining Graph Data Wiley-Interscience; 2007.
+[17] Dehmer M, Mehler A: A New Method of Measuring Similarity for a
+Special Class of Directed Graphs. Tatra Mountains Mathematical
+Publications 2007, 36:39-59.
+[18] Deshpande M, Kuramochi M, Karypis G: Automated Approaches for
+Classifying Structures. Proceedings of the 3-rd IEEE International Conference
+of Data Mining 2003, 35-42.
+[19] Goh K, Oh E, Jeong H, Kahng B, Kim D: Classification of Scale-Free
+Networks. Proceedings of the National Academy of Sciences of the United
+States of America 2002, 99(20):12583.
+[20] Li X, Zhang Z, Chen H, Li J: Graph Kernel-Based Learning for Gene
+Function Prediction from Gene Interaction Network. Proceedings of the
+2007 IEEE International Conference on Bioinformatics and Biomedicine 2007.
+[21] Chuang HY, Lee E, Liu YT, Lee D, Ideker T: Network-Based Classification of
+Breast Cancer Metastasis. Mol Syst Biol 2007, 3:140.
+[22] Zelinka A: On a Certain Distance Between Isomorphism Classes of
+Graphs. Cas Pest Mat 1975, 100:371-375.
+[23] Sobik F: Modellierung von Vergleichsprozessen auf der Grundlage
+von Ähnlichkeitsmaßen für Graphen. ZKI-Inf., Akad Wiss DDR 1986,
+4:104-144.
+[24] Eppstein D: Subgraph Isomorphism in Planar Graphs and Related
+Problems. Journal of Graph Algorithms and Applications 1999, 3(3):1-27.
+[25] Overbeek R, Larsen N, Pusch GD, D’Souza M, Selkov E, Kyrpides N,
+Fonstein M, Maltsev N, Selkov E: WIT: Integrated System for HighThroughput
+Genome Sequence Analysis and Metabolic Reconstruction.
+Nucleic Acids Res 2000, 28:123-125.
+[26] Emmert-Streib F, Dehmer M: Networks for Systems Biology: Conceptual
+Connection of Data and Function. IET Systems Biology 2011, 5(3):185-207
+[http://www.ncbi.nlm.nih.gov/pubmed/21639592].
+[27] Dehmer M, Barbarini N, Varmuza K, Graber A: A Large Scale Analysis of
+Information-Theoretic Network Complexity Measures Using Chemical
+Structures. PLoS ONE 2009, 4(12).
+[28] Mowshowitz A: Entropy and the Complexity of the Graphs I: An Index of
+the Relative Complexity of a Graph. Bull Math Biophys 1968, 30:175-204.
+[29] Todeschini R, Consonni V: Molecular Descriptors for Chemoinformatics Vch
+Pub; 2009.
+[30] Chambers M, Hastie T: Statistical Models in S Chapman and Hall/CRC; 1991.
+[31] Benjamini Y, Hochberg Y: Controlling the False Discovery Rate: A Practical
+and Powerful Approach to Multiple Testing. Journal of the Royal Statistical
+Society. Series B (Methodological) 1995, 57:289-300.
+[32] Team RDC: R: A Language and Environment for Statistical Computing R
+Foundation for Statistical Computing, Vienna, Austria; 2011 [http://www.Rproject.org],
+[ISBN 3-900051-07-0].
+[33] Osl M, Dreiseitl S, Cerqueira F, Netzer M, Pfeifer B, Baumgartner C:
+Demoting Redundant Features to Improve the Discriminatory Ability in
+Cancer Data. J Biomed Inform 2009, 42(4):721-725.
+[34] Saeys Y, Inza I, Larrañaga P: A Review of Feature Selection Techniques in
+Bioinformatics. Bioinformatics 2007, 23(19):2507.
+[35] Netzer M, Millonig G, Osl M, Pfeifer B, Praun S, Villinger J, Vogel W,
+Baumgartner C: A new Ensemble-Based Algorithm for Identifying Breath
+Gas Marker Candidates in Liver Disease Using Ion Molecule Reaction
+Mass Spectrometry. Bioinformatics 2009, 25(7):941-947.
+[36] Quinlan RJ: C4.5: Programs for Machine Learning CA, USA: Morgan
+Kaufmann; 1993.
+[37] Kononenko I: Estimating Attributes: Analysis and Extensions of RELIEF.
+C4.5: Programs for Machine Learning Springer Verlag; 1994, 171-182.
+[38] Witten IH, Eibe F: Data Mining: Practical Machine Learning Tools and
+Techniques, Second Edition (Morgan Kaufmann Series in Data Management
+Systems). 2 edition. Morgan Kaufmann series in data management systems,
+Morgan Kaufmann; 2005 [http://www.netLibrary.com/urlapi.asp?
+action=summary&#38;v=1&#38;bookid=130260].
+[39] John GH, Langley P: Estimating Continuous Distributions in Bayesian
+Classifiers. Proceedings of the Eleventh Conference on Uncertainty in
+ArtifcialIntelligence 1995, 338-345 [http://citeseerx.ist.psu.edu/viewdoc/
+summary?doi=10.1.1.8.3257].
+[40] Le Cessie S, Van Houwelingen JC: Ridge Estimators in Logistic Regression.
+Applied Statistics 1992, 41:191-201.
+[41] Smialowski P, Frishman D, Kramer S: Pitfalls of Supervised Feature
+Selection. Bioinformatics 2010, 26(3):440.
+[42] Ambroise C, McLachlan G: Selection Bias in Gene Extraction on the Basis
+of Microarray Gene-Expression Data. Proceedings of the National Academy
+of Sciences of the United States of America 2002, 99(10):6562.
+[43] Eibe F, Hall M, Trigg L, Holmes G, Witten IH: Data Mining in Bioinformatics
+Using Weka. Bioinformatics 2004, 20(15):2479-2481.
+[44] Winne P: Exploring Individual Differences in Studying Strategies Using Graph
+Theoretic Statistics. Alberta journal of educational research 1994, 40(2):177-93.
+[45] Skorobogatov VA, Dobrynin AA: Metrical Analysis of Graphs. Commun
+Math Comp Chem 1988, 23:105-155.
+[46] Watts D, Strogatz S: Collective Dynamics of ‘Small-World’ Networks.
+Nature 1998, 393(6684):440-442.
+[47] Bonchev D, Trinajstic N: Information Theory, Distance Matrix, and
+Molecular Branching. Journal of Chemical Physics 1977, 67:4517-4533.
+[48] Doyle JK, Garver JE: Mean Distance in a Graph. Discrete Mathematics 1977,
+17:147-154.
+[49] Gao B, Ester M: Right of Inference: Nearest Rectangle Learning Revisited.
+Machine Learning ECML 2006 2006, 638-645.
+[50] Kullback S, Leibler RA: On Information and Sufficiency. The Annals of
+Mathematical Statistics 1951, 22:79-86.
+[51] Dehmer M, Mueller LAJ, Graber A: New Polynomial-Based Molecular
+Descriptors with Low Degeneracy. PLoS ONE 2010, 5(7):e11393 [http://dx.
+plos.org/10.1371/journal.pone.0011393].
+[52] Konstantinova E: On Some Applications of Information Indices in
+Chemical Graph Theory. General Theory of Information Transfer and
+Combinatorics 2006, 831-852.
+[53] Mueller LA, Kugler KG, Dehmer M: Stuctural Analysis of Molecular
+Networks: AMES Mutagenicity. Conference on Bioinformatics &
+Computational Biology (BIOCOMP’10), Las Vegas/USA 2011.
+[54] Hastie T, Tibshirani R, Friedman J: The Elements of Statistical Learning: Data
+Mining, Inference, and Prediction Springer Series in Statistics; 2009.
+[55] Baumgartner C, Osl M, Netzer M, Baumgartner D: Bioinformatic-Driven
+Search for Metabolic Biomarkers in Disease. Journal of Clinical
+Bioinformatics 2011, 1:2 [http://www.jclinbioinformatics.com/content/1/1/2].
+[56] Cannistraci C, Ravasi T, Montevecchi F, Ideker T, Alessio M: Nonlinear Dimension
+Reduction and Clustering by Minimum Curvilinearity Unfold Neuropathic
+Pain and Tissue Embryological Classes. Bioinformatics 2010, 26(18):i531.
+[57] Martella F: Classification of Microarray Data with Factor Mixture Models.
+Bioinformatics 2006, 22(2):202.
