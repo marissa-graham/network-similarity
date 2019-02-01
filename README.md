@@ -1,8 +1,6 @@
 # network-similarity
 
-This is the giant mess of code and miscellaneous files that I generated in the process of writing my master's thesis. A subset of them can be used as a general package for creating a citation network from a collection of .txt files containing the references of your parent papers in a standard format. I'd like them to be public and somewhat organized because frustrating and tedious things are less maddening if it means you can potentially save somebody else from them.
-
-I went through the PNG files after defending and deleted those not actually included in my thesis or defense slides, so there somehow actually needs to be that many. But there are a lot of extra .csv and .gml files, and a few old thesis drafts and miscellaneous unnecessary files I never deleted because it's a lot of work to make sure deleting them won't break things and who knows what random crap will be useful later, so here's a guide to what's important instead of that:
+Code and miscellaneous files that I generated in the process of writing my master's thesis. A subset of them can be used as a general package for creating a citation network from a collection of .txt files containing the references of your parent papers in a standard format. There are a lot of extra .csv and .gml files, and a few old thesis drafts and miscellaneous unnecessary files, so here's a guide to what's important:
 
 * "Marissa Graham Thesis" PDF in the ThesisClass folder is the final draft
 * "Thesis Presentation" in the main folder is the slides for my defense.
