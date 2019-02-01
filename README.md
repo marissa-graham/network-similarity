@@ -1,6 +1,6 @@
 # network-similarity
 
-I went through the PNG files in mid-December and deleted those not actually included in my thesis or defense slides, but there are a lot of extra .csv and .gml files, and a few old thesis drafts and miscellaneous unnecessary files I haven't bothered to clean out, so here's a guide to what's important:
+I went through the PNG files in mid-December and deleted those not actually included in my thesis or defense slides, but there are a lot of extra .csv and .gml files, and a few old thesis drafts and miscellaneous unnecessary files I never deleted because it's a lot of work to make extra sure it won't break anything to get rid of them, so here's a guide to what's important:
 
 "Marissa Graham Thesis" PDF in ThesisClass folder is the final draft. "Thesis Presentation" in main folder is the slides for my defense.
 
