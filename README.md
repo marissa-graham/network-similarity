@@ -25,3 +25,5 @@ Most relevant Mathematica notebooks:
 * Scraping Attempts was very early on, when I found out that you can't just scrape all the references for a DOI number with BeautifulSoup
 * Database Statistics is basic statistics for the database that don't involve the citation network
 * Bibliography Parsing has some remnants of the process of reading and writing .csv files to correct the database, but is mostly the process of tagging subjects via journal titles, and then a bit of scratch work from another class for some reason.
+
+The Paper and Database classes should be usable as-is (the jupyter notebooks have examples of how I'd call them), but I haven't tested them to production-ready level so use at your own risk. 
