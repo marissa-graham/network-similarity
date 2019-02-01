@@ -1,0 +1,457 @@
+>>> NEW PAPER <<<
+>>> citation >>> Xiao, B., Hancock, E.R.: Heat kernel, riemannian manifolds and graph embedding. In: Fred, A., Caelli, T.M., Duin, R.P.W., Campilho, A.C., de Ridder, D. (eds.) SSPR&SPR 2004. LNCS, vol. 3138, pp. 198â€“206. Springer, Heidelberg (2004)
+>>> DOI >>> 10.1007/b98738
+>>> URL >>> http://dx.doi.org/10.1007/b98738
+>>> year >>> 2004.0
+>>> title >>> Structural, Syntactic, and Statistical Pattern Recognition
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T13:09:24Z', 'timestamp': 1525352964121}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540225706', 'type': 'print'}, {'value': '9783540278689', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1007/b98738', 'type': 'book', 'created': {'date-parts': [[2010, 9, 16]], 'date-time': '2010-09-16T10:52:23Z', 'timestamp': 1284634343000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Structural, Syntactic, and Statistical Pattern Recognition'], 'prefix': '10.1007', 'member': '297', 'container-title': ['Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/b98738', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 9, 3]], 'date-time': '2014-09-03T00:23:51Z', 'timestamp': 1409703831000}, 'score': 61.939285, 'editor': [{'given': 'Ana', 'family': 'Fred', 'sequence': 'first', 'affiliation': []}, {'given': 'Terry M.', 'family': 'Caelli', 'sequence': 'additional', 'affiliation': []}, {'given': 'Robert P. W.', 'family': 'Duin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Aurélio C.', 'family': 'Campilho', 'sequence': 'additional', 'affiliation': []}, {'given': 'Dick', 'family': 'de Ridder', 'sequence': 'additional', 'affiliation': []}], 'issued': {'date-parts': [[2004]]}, 'ISBN': ['9783540225706', '9783540278689'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/b98738', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Structural, Syntactic, and Statistical Pattern Recognition', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> He, X., Yan, S., Hu, Y., Niyogi, P., Zhang, H.: Face recognition using laplacianfaces. IEEE. Trans. Pattern Anal. Mach. Intell. 27, 328â€“340 (2005)
+>>> DOI >>> 10.1109/tpami.2005.55
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2005.55
+>>> year >>> 2005.0
+>>> title >>> Face recognition using Laplacianfaces
+>>> author >>> None
+>>> reference_count >>> 37.0
+>>> is_referenced_by_count >>> 1737.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T21:42:35Z', 'timestamp': 1528494155864}, 'reference-count': 37, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2005, 3]]}, 'DOI': '10.1109/tpami.2005.55', 'type': 'journal-article', 'created': {'date-parts': [[2005, 1, 31]], 'date-time': '2005-01-31T17:28:20Z', 'timestamp': 1107192500000}, 'page': '328-340', 'source': 'Crossref', 'is-referenced-by-count': 1737, 'title': ['Face recognition using Laplacianfaces'], 'prefix': '10.1109', 'volume': '27', 'author': [{'family': 'Xiaofei He', 'sequence': 'first', 'affiliation': []}, {'family': 'Shuicheng Yan', 'sequence': 'additional', 'affiliation': []}, {'family': 'Yuxiao Hu', 'sequence': 'additional', 'affiliation': []}, {'given': 'P.', 'family': 'Niyogi', 'sequence': 'additional', 'affiliation': []}, {'family': 'Hong-Jiang Zhang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/30209/01388260.pdf?arnumber=1388260', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T01:42:37Z', 'timestamp': 1510623757000}, 'score': 99.176765, 'issued': {'date-parts': [[2005, 3]]}, 'references-count': 37, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2005.55', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Face recognition using Laplacianfaces', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Luo, B., Wilson, R.C., Hancock, E.R.: Spectral embedding of graphs. Pattern Recogintion 36, 2213â€“2230 (2003)
+>>> DOI >>> 10.1016/s0031-3203(03)00084-0
+>>> URL >>> http://dx.doi.org/10.1016/s0031-3203(03)00084-0
+>>> year >>> 2003.0
+>>> title >>> Spectral embedding of graphs
+>>> author >>> Bin Luo and Richard C. Wilson and Edwin R. Hancock
+>>> reference_count >>> 40.0
+>>> is_referenced_by_count >>> 122.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T15:42:30Z', 'timestamp': 1525880550879}, 'reference-count': 40, 'publisher': 'Elsevier BV', 'issue': '10', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2003, 10, 1]], 'date-time': '2003-10-01T00:00:00Z', 'timestamp': 1064966400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[2003, 10]]}, 'DOI': '10.1016/s0031-3203(03)00084-0', 'type': 'journal-article', 'created': {'date-parts': [[2003, 5, 28]], 'date-time': '2003-05-28T00:59:59Z', 'timestamp': 1054083599000}, 'page': '2213-2230', 'source': 'Crossref', 'is-referenced-by-count': 122, 'title': ['Spectral embedding of graphs'], 'prefix': '10.1016', 'volume': '36', 'author': [{'given': 'Bin', 'family': 'Luo', 'sequence': 'first', 'affiliation': []}, {'given': 'Richard', 'family': 'C. Wilson', 'sequence': 'additional', 'affiliation': []}, {'given': 'Edwin R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0031320303000840?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0031320303000840?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2018, 2, 18]], 'date-time': '2018-02-18T00:09:25Z', 'timestamp': 1518912565000}, 'score': 72.674126, 'issued': {'date-parts': [[2003, 10]]}, 'references-count': 40, 'journal-issue': {'published-print': {'date-parts': [[2003, 10]]}, 'issue': '10'}, 'alternative-id': ['S0031320303000840'], 'URL': 'http://dx.doi.org/10.1016/s0031-3203(03)00084-0', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Spectral embedding of graphs', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Docarmo, M.: Differential geometry of curves and surfaces. Prentice-Hall, England Cliffs (1976)
+>>> DOI >>> 10.1007/0-8176-4402-4_3
+>>> URL >>> http://dx.doi.org/10.1007/0-8176-4402-4_3
+>>> year >>> None
+>>> title >>> Intrinsic Geometry of Surfaces
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Differential Geometry of Curves and Surfaces']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T03:31:02Z', 'timestamp': 1525318262576}, 'reference-count': 0, 'publisher': 'Birkhäuser Boston', 'isbn-type': [{'value': '9780817643843', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/0-8176-4402-4_3', 'type': 'book-chapter', 'created': {'date-parts': [[2006, 9, 10]], 'date-time': '2006-09-10T01:02:48Z', 'timestamp': 1157850168000}, 'page': '151-197', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Intrinsic Geometry of Surfaces'], 'prefix': '10.1007', 'member': '297', 'container-title': ['Differential Geometry of Curves and Surfaces'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/0-8176-4402-4_3', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T13:55:48Z', 'timestamp': 1389016548000}, 'score': 36.89802, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9780817643843'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/0-8176-4402-4_3'}
+>>> hash >>> ('Intrinsic Geometry of Surfaces', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Horaud, R., Sossa, H.: Polyhedral object recognition by indexing. Pattern Recognition 28, 1855â€“1870 (1995)
+>>> DOI >>> 10.1016/0031-3203(95)00048-8
+>>> URL >>> http://dx.doi.org/10.1016/0031-3203(95)00048-8
+>>> year >>> 1995.0
+>>> title >>> Polyhedral object recognition by indexing
+>>> author >>> Radu Horaud and Humberto Sossa
+>>> reference_count >>> 36.0
+>>> is_referenced_by_count >>> 20.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T22:04:08Z', 'timestamp': 1525298648721}, 'reference-count': 36, 'publisher': 'Elsevier BV', 'issue': '12', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1995, 12, 1]], 'date-time': '1995-12-01T00:00:00Z', 'timestamp': 817776000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[1995, 12]]}, 'DOI': '10.1016/0031-3203(95)00048-8', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T15:01:39Z', 'timestamp': 1027609299000}, 'page': '1855-1870', 'source': 'Crossref', 'is-referenced-by-count': 20, 'title': ['Polyhedral object recognition by indexing'], 'prefix': '10.1016', 'volume': '28', 'author': [{'given': 'Radu', 'family': 'Horaud', 'sequence': 'first', 'affiliation': []}, {'given': 'Humberto', 'family': 'Sossa', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0031320395000488?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0031320395000488?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 14]], 'date-time': '2017-06-14T21:40:25Z', 'timestamp': 1497476425000}, 'score': 98.960236, 'issued': {'date-parts': [[1995, 12]]}, 'references-count': 36, 'journal-issue': {'published-print': {'date-parts': [[1995, 12]]}, 'issue': '12'}, 'alternative-id': ['0031320395000488'], 'URL': 'http://dx.doi.org/10.1016/0031-3203(95)00048-8', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Polyhedral object recognition by indexing', 1995.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Cox, T., Cox, M.: Multidimensional Scaling. Chapman and Hall, Boca Raton (1994)
+>>> DOI >>> 10.1002/sim.1235
+>>> URL >>> http://dx.doi.org/10.1002/sim.1235
+>>> year >>> 2002.0
+>>> title >>> 5. Multidimensional Scaling. 2nd edn. Trevor F. Cox and Michael A. A. Cox, Chapman & Hall/CRC, Boca Raton, London, New York, Washington DC, 2000. No. of pages: xiv + 309. Price: $79.95. ISBN 1-58488-094-5
+>>> author >>> Roger Marshall
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Statistics in Medicine']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:35:03Z', 'timestamp': 1525336503550}, 'reference-count': 0, 'publisher': 'Wiley', 'issue': '13', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 4991, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Statist. Med.'], 'published-print': {'date-parts': [[2002, 7, 15]]}, 'DOI': '10.1002/sim.1235', 'type': 'journal-article', 'created': {'date-parts': [[2002, 10, 6]], 'date-time': '2002-10-06T11:32:01Z', 'timestamp': 1033903921000}, 'page': '1966-1967', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['5. Multidimensional Scaling. 2nd edn. Trevor F. Cox and Michael A. A. Cox, Chapman & Hall/CRC, Boca Raton, London, New York, Washington DC, 2000. No. of pages: xiv + 309. Price: $79.95. ISBN 1-58488-094-5'], 'prefix': '10.1002', 'volume': '21', 'author': [{'given': 'Roger', 'family': 'Marshall', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'published-online': {'date-parts': [[2002]]}, 'container-title': ['Statistics in Medicine'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fsim.1235', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 4, 4]], 'date-time': '2017-04-04T01:37:11Z', 'timestamp': 1491269831000}, 'score': 50.435337, 'issued': {'date-parts': [[2002]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2002, 7, 15]]}, 'issue': '13'}, 'URL': 'http://dx.doi.org/10.1002/sim.1235', 'ISSN': ['0277-6715', '1097-0258'], 'issn-type': [{'value': '0277-6715', 'type': 'print'}, {'value': '1097-0258', 'type': 'electronic'}]}
+>>> hash >>> ('5. Multidimensional Scaling. 2nd edn. Trevor F. Cox and Michael A. A. Cox, Chapman & Hall/CRC, Boca Raton, London, New York, Washington DC, 2000. No. of pages: xiv + 309. Price: $79.95. ISBN 1-58488-094-5', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Shi, J., Malik, J.: Normalized cuts and image segmentation. IEEE. PAMI 22, 888â€“905 (2000)
+>>> DOI >>> 10.1109/34.868688
+>>> URL >>> http://dx.doi.org/10.1109/34.868688
+>>> year >>> 2000.0
+>>> title >>> Normalized cuts and image segmentation
+>>> author >>> None
+>>> reference_count >>> 25.0
+>>> is_referenced_by_count >>> 5076.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T18:42:34Z', 'timestamp': 1528483354682}, 'reference-count': 25, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '8', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2000]]}, 'DOI': '10.1109/34.868688', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '888-905', 'source': 'Crossref', 'is-referenced-by-count': 5076, 'title': ['Normalized cuts and image segmentation'], 'prefix': '10.1109', 'volume': '22', 'author': [{'family': 'Jianbo Shi', 'sequence': 'first', 'affiliation': []}, {'given': 'J.', 'family': 'Malik', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/18808/00868688.pdf?arnumber=868688', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:28:48Z', 'timestamp': 1497522528000}, 'score': 61.00324, 'issued': {'date-parts': [[2000]]}, 'references-count': 25, 'journal-issue': {'issue': '8'}, 'URL': 'http://dx.doi.org/10.1109/34.868688', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Normalized cuts and image segmentation', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Chung, F.R.K.: Spectral graph theory. CBMS 92 (1997)
+>>> DOI >>> 10.1090/cbms/092
+>>> URL >>> http://dx.doi.org/10.1090/cbms/092
+>>> year >>> 1996.0
+>>> title >>> Spectral Graph Theory
+>>> author >>> Fan Chung
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 71.0
+>>> subject >>> None
+>>> container_title >>> ['CBMS Regional Conference Series in Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T23:07:48Z', 'timestamp': 1525734468678}, 'publisher-location': 'Providence, Rhode Island', 'reference-count': 0, 'publisher': 'American Mathematical Society', 'isbn-type': [{'value': '9780821803158', 'type': 'print'}, {'value': '9781470424527', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1996, 12, 3]]}, 'DOI': '10.1090/cbms/092', 'type': 'monograph', 'created': {'date-parts': [[2015, 11, 23]], 'date-time': '2015-11-23T14:23:24Z', 'timestamp': 1448288604000}, 'source': 'Crossref', 'is-referenced-by-count': 71, 'title': ['Spectral Graph Theory'], 'prefix': '10.1090', 'author': [{'given': 'Fan', 'family': 'Chung', 'sequence': 'first', 'affiliation': []}], 'member': '14', 'container-title': ['CBMS Regional Conference Series in Mathematics'], 'deposited': {'date-parts': [[2015, 11, 23]], 'date-time': '2015-11-23T14:23:24Z', 'timestamp': 1448288604000}, 'score': 40.97192, 'issued': {'date-parts': [[1996, 12, 3]]}, 'ISBN': ['9780821803158', '9781470424527'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1090/cbms/092', 'ISSN': ['0160-7642', '2380-5668'], 'issn-type': [{'value': '0160-7642', 'type': 'print'}, {'value': '2380-5668', 'type': 'electronic'}]}
+>>> hash >>> ('Spectral Graph Theory', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Wilson, R.C., Hancock, E.R., Luo, B.: Pattern vectors from algebraic. IEEE. Trans. Pattern Anal. Mach. Intell. 27, 1112â€“1124 (2005)
+>>> DOI >>> 10.1109/tpami.2005.145
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2005.145
+>>> year >>> 2005.0
+>>> title >>> Pattern vectors from algebraic graph theory
+>>> author >>> None
+>>> reference_count >>> 40.0
+>>> is_referenced_by_count >>> 108.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T18:41:22Z', 'timestamp': 1525459282449}, 'reference-count': 40, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '7', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2005, 7]]}, 'DOI': '10.1109/tpami.2005.145', 'type': 'journal-article', 'created': {'date-parts': [[2005, 5, 24]], 'date-time': '2005-05-24T14:38:25Z', 'timestamp': 1116945505000}, 'page': '1112-1124', 'source': 'Crossref', 'is-referenced-by-count': 108, 'title': ['Pattern vectors from algebraic graph theory'], 'prefix': '10.1109', 'volume': '27', 'author': [{'given': 'R.C.', 'family': 'Wilson', 'sequence': 'first', 'affiliation': []}, {'given': 'E.R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}, {'family': 'Bin Luo', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/30890/01432744.pdf?arnumber=1432744', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T01:41:09Z', 'timestamp': 1510623669000}, 'score': 88.38822, 'issued': {'date-parts': [[2005, 7]]}, 'references-count': 40, 'journal-issue': {'issue': '7'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2005.145', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Pattern vectors from algebraic graph theory', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Heut, B., Hancock, E.R.: Relational object recognition from large structural libraries. Pattern Recognition 32, 1895â€“1915 (2002)
+>>> DOI >>> 10.1016/s0031-3203(01)00172-8
+>>> URL >>> http://dx.doi.org/10.1016/s0031-3203(01)00172-8
+>>> year >>> 2002.0
+>>> title >>> Relational object recognition from large structural libraries
+>>> author >>> Benoit Huet and Edwin R. Hancock
+>>> reference_count >>> 54.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:44:56Z', 'timestamp': 1525311896490}, 'reference-count': 54, 'publisher': 'Elsevier BV', 'issue': '9', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2002, 9, 1]], 'date-time': '2002-09-01T00:00:00Z', 'timestamp': 1030838400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[2002, 9]]}, 'DOI': '10.1016/s0031-3203(01)00172-8', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T03:29:59Z', 'timestamp': 1027654199000}, 'page': '1895-1915', 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['Relational object recognition from large structural libraries'], 'prefix': '10.1016', 'volume': '35', 'author': [{'given': 'Benoit', 'family': 'Huet', 'sequence': 'first', 'affiliation': []}, {'given': 'Edwin R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0031320301001728?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0031320301001728?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 11, 1]], 'date-time': '2017-11-01T21:40:31Z', 'timestamp': 1509572431000}, 'score': 87.19139, 'issued': {'date-parts': [[2002, 9]]}, 'references-count': 54, 'journal-issue': {'published-print': {'date-parts': [[2002, 9]]}, 'issue': '9'}, 'alternative-id': ['S0031320301001728'], 'URL': 'http://dx.doi.org/10.1016/s0031-3203(01)00172-8', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Relational object recognition from large structural libraries', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Shokoufandeh, A., Dickinson, S., siddiqi, K., Zucker, S.: Indexing using a spectral encoding of topological structure (1999)
+>>> DOI >>> 10.1109/cvpr.1999.784726
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.1999.784726
+>>> year >>> None
+>>> title >>> Indexing using a spectral encoding of topological structure
+>>> author >>> A. Shokoufandeh and S.J. Dickinson and K. Siddiqi and S.W. Zucker
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 43.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings. 1999 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (Cat. No PR00149)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T14:11:51Z', 'timestamp': 1525356711496}, 'reference-count': 22, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769501494', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.1999.784726', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 1, 20]], 'date-time': '2003-01-20T19:03:59Z', 'timestamp': 1043089439000}, 'source': 'Crossref', 'is-referenced-by-count': 43, 'title': ['Indexing using a spectral encoding of topological structure'], 'prefix': '10.1109', 'author': [{'given': 'A.', 'family': 'Shokoufandeh', 'sequence': 'first', 'affiliation': []}, {'given': 'S.J.', 'family': 'Dickinson', 'sequence': 'additional', 'affiliation': []}, {'given': 'K.', 'family': 'Siddiqi', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.W.', 'family': 'Zucker', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Proceedings. 1999 IEEE Computer Society Conference on Computer Vision and Pattern Recognition', 'location': 'Fort Collins, CO, USA', 'acronym': 'CVPR-99'}, 'container-title': ['Proceedings. 1999 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (Cat. No PR00149)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6370/17024/00784726.pdf?arnumber=784726', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T19:37:12Z', 'timestamp': 1489174632000}, 'score': 75.52563, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769501494'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1109/cvpr.1999.784726'}
+>>> hash >>> ('Indexing using a spectral encoding of topological structure', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Dubuisson, M., Jain, A.: A modified hausdorff distance for object matching, 566â€“568 (1994)
+>>> DOI >>> 10.1109/icpr.1994.576361
+>>> URL >>> http://dx.doi.org/10.1109/icpr.1994.576361
+>>> year >>> None
+>>> title >>> A modified Hausdorff distance for object matching
+>>> author >>> M.-P. Dubuisson and A.K. Jain
+>>> reference_count >>> 2.0
+>>> is_referenced_by_count >>> 402.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of 12th International Conference on Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T14:42:30Z', 'timestamp': 1528468950807}, 'reference-count': 2, 'publisher': 'IEEE Comput. Soc. Press', 'isbn-type': [{'value': '0818662654', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icpr.1994.576361', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 12, 17]], 'date-time': '2002-12-17T20:47:48Z', 'timestamp': 1040158068000}, 'source': 'Crossref', 'is-referenced-by-count': 402, 'title': ['A modified Hausdorff distance for object matching'], 'prefix': '10.1109', 'author': [{'given': 'M.-P.', 'family': 'Dubuisson', 'sequence': 'first', 'affiliation': []}, {'given': 'A.K.', 'family': 'Jain', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '12th International Conference on Pattern Recognition', 'location': 'Jerusalem, Israel', 'acronym': 'ICPR-94'}, 'container-title': ['Proceedings of 12th International Conference on Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx2/4391/12513/00576361.pdf?arnumber=576361', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T20:57:19Z', 'timestamp': 1489093039000}, 'score': 57.79854, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0818662654'], 'references-count': 2, 'URL': 'http://dx.doi.org/10.1109/icpr.1994.576361'}
+>>> hash >>> ('A modified Hausdorff distance for object matching', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Grigorâ€™yan, A.: Heat kernels on manifolds, graphs and fractals. European Congress of Mathematics I, 393â€“406 (2001)
+>>> DOI >>> 10.1007/978-3-0348-8268-2_22
+>>> URL >>> http://dx.doi.org/10.1007/978-3-0348-8268-2_22
+>>> year >>> 2001.0
+>>> title >>> Heat Kernels on Manifolds, Graphs and Fractals
+>>> author >>> Alexander Grigor’yan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['European Congress of Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T13:18:55Z', 'timestamp': 1525439935290}, 'publisher-location': 'Basel', 'reference-count': 0, 'publisher': 'Birkhäuser Basel', 'isbn-type': [{'value': '9783034894975', 'type': 'print'}, {'value': '9783034882682', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.1007/978-3-0348-8268-2_22', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 9, 16]], 'date-time': '2011-09-16T23:51:52Z', 'timestamp': 1316217112000}, 'page': '393-406', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Heat Kernels on Manifolds, Graphs and Fractals'], 'prefix': '10.1007', 'author': [{'given': 'Alexander', 'family': 'Grigor’yan', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['European Congress of Mathematics'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-0348-8268-2_22', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 13]], 'date-time': '2014-01-13T18:44:36Z', 'timestamp': 1389638676000}, 'score': 77.43441, 'issued': {'date-parts': [[2001]]}, 'ISBN': ['9783034894975', '9783034882682'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-0348-8268-2_22'}
+>>> hash >>> ('Heat Kernels on Manifolds, Graphs and Fractals', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hein, M., Audibert, J., Von Luxburg, U.: From graphs to manifolds-weak and strong pointwise consistency of graph laplacians, 470â€“485 (2005)
+>>> DOI >>> 10.1007/11503415_32
+>>> URL >>> http://dx.doi.org/10.1007/11503415_32
+>>> year >>> 2005.0
+>>> title >>> From Graphs to Manifolds – Weak and Strong Pointwise Consistency of Graph Laplacians
+>>> author >>> Matthias Hein and Jean-Yves Audibert and Ulrike von Luxburg
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 31.0
+>>> subject >>> None
+>>> container_title >>> ['Learning Theory', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T13:22:30Z', 'timestamp': 1526995350334}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540265566', 'type': 'print'}, {'value': '9783540318927', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1007/11503415_32', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 7, 14]], 'date-time': '2010-07-14T22:16:38Z', 'timestamp': 1279145798000}, 'page': '470-485', 'source': 'Crossref', 'is-referenced-by-count': 31, 'title': ['From Graphs to Manifolds – Weak and Strong Pointwise Consistency of Graph Laplacians'], 'prefix': '10.1007', 'author': [{'given': 'Matthias', 'family': 'Hein', 'sequence': 'first', 'affiliation': []}, {'given': 'Jean-Yves', 'family': 'Audibert', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ulrike', 'family': 'von Luxburg', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Learning Theory', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/11503415_32', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 29]], 'date-time': '2014-08-29T10:54:32Z', 'timestamp': 1409309672000}, 'score': 110.291306, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['9783540265566', '9783540318927'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/11503415_32', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('From Graphs to Manifolds – Weak and Strong Pointwise Consistency of Graph Laplacians', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Biggs, N.L.: Algebraic graph theory. Cambridge University Press, Cambridge (1993)
+>>> DOI >>> 10.1017/cbo9780511608704.001
+>>> URL >>> http://dx.doi.org/10.1017/cbo9780511608704.001
+>>> year >>> None
+>>> title >>> Preface
+>>> author >>> Norman Biggs
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Algebraic Graph Theory']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T13:46:41Z', 'timestamp': 1525700801191}, 'publisher-location': 'Cambridge', 'edition-number': '2', 'reference-count': 0, 'publisher': 'Cambridge University Press', 'isbn-type': [{'value': '9780511608704', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1017/cbo9780511608704.001', 'type': 'book-chapter', 'created': {'date-parts': [[2013, 3, 7]], 'date-time': '2013-03-07T20:40:07Z', 'timestamp': 1362688807000}, 'page': 'vii-viii', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Preface'], 'prefix': '10.1017', 'author': [{'given': 'Norman', 'family': 'Biggs', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'container-title': ['Algebraic Graph Theory'], 'deposited': {'date-parts': [[2018, 4, 12]], 'date-time': '2018-04-12T20:38:11Z', 'timestamp': 1523565491000}, 'score': 39.5997, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9780511608704'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1017/cbo9780511608704.001'}
+>>> hash >>> ('Preface', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sachs, H., Cvetkovic, D.M., Doob, M.: Spectra of graphs. Academic Press, London (1980)
+>>> DOI >>> 10.1137/1023115
+>>> URL >>> http://dx.doi.org/10.1137/1023115
+>>> year >>> 1981.0
+>>> title >>> Spectra of Graphs (D. M. Cvetkovi\u0107, Michael Doob and Horst Sachs)
+>>> author >>> Lowell W. Beineke
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Review']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:58:41Z', 'timestamp': 1525445921693}, 'reference-count': 0, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM Rev.'], 'published-print': {'date-parts': [[1981, 10]]}, 'DOI': '10.1137/1023115', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 7]], 'date-time': '2005-03-07T06:57:28Z', 'timestamp': 1110178648000}, 'page': '546-548', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Spectra of Graphs (D. M. Cvetkovi\u0107, Michael Doob and Horst Sachs)'], 'prefix': '10.1137', 'volume': '23', 'author': [{'given': 'Lowell W.', 'family': 'Beineke', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Review'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/1023115', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T18:01:38Z', 'timestamp': 1485712898000}, 'score': 46.922062, 'issued': {'date-parts': [[1981, 10]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1981, 10]]}, 'issue': '4'}, 'alternative-id': ['10.1137/1023115'], 'URL': 'http://dx.doi.org/10.1137/1023115', 'ISSN': ['0036-1445', '1095-7200'], 'issn-type': [{'value': '0036-1445', 'type': 'print'}, {'value': '1095-7200', 'type': 'electronic'}]}
+>>> hash >>> ('Spectra of Graphs (D. M. Cvetkovi\\u0107, Michael Doob and Horst Sachs)', 1981.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sengupta, K., Boyer, K.: Modelbase paritioning using property matrix spectra. Computer Vision and Imaging Understanding 70, 177â€“196 (1998)
+>>> DOI >>> 10.1006/cviu.1997.0631
+>>> URL >>> http://dx.doi.org/10.1006/cviu.1997.0631
+>>> year >>> 1998.0
+>>> title >>> Modelbase Partitioning Using Property Matrix Spectra
+>>> author >>> Kuntal Sengupta and Kim L. Boyer
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision and Image Understanding']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T18:44:15Z', 'timestamp': 1525286655050}, 'reference-count': 32, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1998, 5, 1]], 'date-time': '1998-05-01T00:00:00Z', 'timestamp': 893980800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Vision and Image Understanding'], 'published-print': {'date-parts': [[1998, 5]]}, 'DOI': '10.1006/cviu.1997.0631', 'type': 'journal-article', 'created': {'date-parts': [[2002, 9, 16]], 'date-time': '2002-09-16T15:45:11Z', 'timestamp': 1032191111000}, 'page': '177-196', 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['Modelbase Partitioning Using Property Matrix Spectra'], 'prefix': '10.1006', 'volume': '70', 'author': [{'given': 'Kuntal', 'family': 'Sengupta', 'sequence': 'first', 'affiliation': []}, {'given': 'Kim L.', 'family': 'Boyer', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Computer Vision and Image Understanding'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1077314297906317?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1077314297906317?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 8, 8]], 'date-time': '2017-08-08T21:08:44Z', 'timestamp': 1502226524000}, 'score': 86.87317, 'issued': {'date-parts': [[1998, 5]]}, 'references-count': 32, 'journal-issue': {'published-print': {'date-parts': [[1998, 5]]}, 'issue': '2'}, 'alternative-id': ['S1077314297906317'], 'URL': 'http://dx.doi.org/10.1006/cviu.1997.0631', 'ISSN': ['1077-3142'], 'issn-type': [{'value': '1077-3142', 'type': 'print'}]}
+>>> hash >>> ('Modelbase Partitioning Using Property Matrix Spectra', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Young, G., Householder, A.S.: Disscussion of a set of points in terms of their mutual distances. Psychometrika 3, 19â€“22 (1938)
+>>> DOI >>> 10.1007/bf02287916
+>>> URL >>> http://dx.doi.org/10.1007/bf02287916
+>>> year >>> 1938.0
+>>> title >>> Discussion of a set of points in terms of their mutual distances
+>>> author >>> Gale Young and A. S. Householder
+>>> reference_count >>> 3.0
+>>> is_referenced_by_count >>> 314.0
+>>> subject >>> None
+>>> container_title >>> ['Psychometrika']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 29]], 'date-time': '2018-05-29T05:22:35Z', 'timestamp': 1527571355869}, 'reference-count': 3, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Psychometrika'], 'published-print': {'date-parts': [[1938, 3]]}, 'DOI': '10.1007/bf02287916', 'type': 'journal-article', 'created': {'date-parts': [[2006, 1, 25]], 'date-time': '2006-01-25T17:35:04Z', 'timestamp': 1138210504000}, 'page': '19-22', 'source': 'Crossref', 'is-referenced-by-count': 314, 'title': ['Discussion of a set of points in terms of their mutual distances'], 'prefix': '10.1007', 'volume': '3', 'author': [{'given': 'Gale', 'family': 'Young', 'sequence': 'first', 'affiliation': []}, {'given': 'A. S.', 'family': 'Householder', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'BF02287916_CR1', 'first-page': '21', 'volume': '2', 'author': 'Gale Young', 'year': '1937', 'unstructured': 'Young, Gale, “Matrix Approximation and Sub-space Fitting,”Psychometrika, 1937,2, 21–25.', 'journal-title': 'Psychometrika'}, {'key': 'BF02287916_CR2', 'first-page': '225', 'volume': '2', 'author': 'Paul Horst', 'year': '1937', 'unstructured': 'Horst, Paul, “A Method of Factor Analysis by Means of Which all Coordinates of the Factor Matrix are Given Simultaneously,”Psychometrika, 1937,2, 225–236.', 'journal-title': 'Psychometrika'}, {'key': 'BF02287916_CR3', 'first-page': '165', 'volume': '45', 'author': 'A.S. Householder', 'year': '1938', 'unstructured': 'Householder, A.S., andYoung, Gale, “Matrix Approximation and Latent Roots,”The American Mathematical Monthly, 1938,45, 165–171.', 'journal-title': 'The American Mathematical Monthly'}], 'container-title': ['Psychometrika'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF02287916', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 2, 11]], 'date-time': '2013-02-11T03:16:38Z', 'timestamp': 1360552598000}, 'score': 73.24911, 'issued': {'date-parts': [[1938, 3]]}, 'references-count': 3, 'journal-issue': {'published-print': {'date-parts': [[1938, 3]]}, 'issue': '1'}, 'alternative-id': ['BF02287916'], 'URL': 'http://dx.doi.org/10.1007/bf02287916', 'relation': {'cites': []}, 'ISSN': ['0033-3123', '1860-0980'], 'issn-type': [{'value': '0033-3123', 'type': 'print'}, {'value': '1860-0980', 'type': 'electronic'}]}
+>>> hash >>> ('Discussion of a set of points in terms of their mutual distances', 1938.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Huttenlocher, D., Klanderman, G., Rucklidge, W.: Comparing images using the hausdorff distance. IEEE. Trans. Pattern Anal. Mach. Intell. 15, 850â€“863 (1993)
+>>> DOI >>> 10.1109/34.232073
+>>> URL >>> http://dx.doi.org/10.1109/34.232073
+>>> year >>> 1993.0
+>>> title >>> Comparing images using the Hausdorff distance
+>>> author >>> D.P. Huttenlocher and G.A. Klanderman and W.J. Rucklidge
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 1713.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database149.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 9]], 'date-time': '2018-06-09T04:42:27Z', 'timestamp': 1528519347703}, 'reference-count': 17, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '9', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1993]]}, 'DOI': '10.1109/34.232073', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '850-863', 'source': 'Crossref', 'is-referenced-by-count': 1713, 'title': ['Comparing images using the Hausdorff distance'], 'prefix': '10.1109', 'volume': '15', 'author': [{'given': 'D.P.', 'family': 'Huttenlocher', 'sequence': 'first', 'affiliation': []}, {'given': 'G.A.', 'family': 'Klanderman', 'sequence': 'additional', 'affiliation': []}, {'given': 'W.J.', 'family': 'Rucklidge', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/6001/00232073.pdf?arnumber=232073', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T06:15:32Z', 'timestamp': 1489040132000}, 'score': 109.058075, 'issued': {'date-parts': [[1993]]}, 'references-count': 17, 'journal-issue': {'issue': '9'}, 'URL': 'http://dx.doi.org/10.1109/34.232073', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Comparing images using the Hausdorff distance', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

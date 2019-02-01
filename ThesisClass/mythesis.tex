@@ -8,7 +8,7 @@
 
 % Titles must be in mixed case. Style guide: https://www.grammarcheck.net/capitalization-in-titles-101/.
 
-\title{Can we treat networks and graphs more the same, please? Also this is a survey for similarity techniques} 
+\title{A Comprehensive Investigation of Graph and Network Comparison: Techniques and Applications} 
 
 \degree{Master of Science}
 \university{Brigham Young University}
@@ -16,8 +16,8 @@
 \committeechair{Emily Evans} 
 
 %% These are fields that are stored in the PDF but are not visible in the document itself. They are optional.
-\memberA{A. Good Prof}
-\memberB{One more!}
+\memberA{Benjamin Webb}
+\memberB{Christopher Grant}
 \subject{Writing a thesis using LaTeX} % Subject of your thesis, e.g. algebraic geometry
 \keywords{LaTeX, PDF, BYU, Math, Thesis}
 \month{June}
@@ -102,10 +102,6 @@ This is going to be the abstract.
 \listoffigures
 \mainmatter
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% MAIN CONTENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
 % REFERENCES
 	% \textt{} for code font styling
 	% \begin{verbatim} for printing LaTeX code as-is
@@ -114,14 +110,11 @@ This is going to be the abstract.
 	% \section{title}, \subsection{title} (no \end thing necessary)
 	% All organizational layers deeper than subsection are useless.
 
-\section{Preface}
-We're going to take a second to motivate the problem a bit and describe what we're trying to do here. Kind of like section 1.2 in the red book, which is great and something that everybody should do always.
 
-This is kind of like the motivation from the SRC presentation. Traditional graph theory can feel very pure mathy and useless, but networks are so important and such a new field that there aren't as many overview type resources, and I don't think the stuff I've seen does a very good job really putting everything in context, especially across fields. It's also not always clear what prerequisites you need to understand all the different things, so I want to make that easier, too.
 
-Computer science and math mostly call things graphs, because they mostly work with them on a theoretical level. Either small ones for graph theory or big ones for modeling large networks. Throughout, I need to make sure to use the convention that a graph is the mathematical object and a network is a graph which models a real-world system. The definitions are clear enough, but the connotations make things confusing. It's not really separate topics and we're going to make an effort to treat them in a properly integrated manner.
-	
-%%%%%%%%%%%%%%%%%%%%%%%%% BACKGROUND
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% BACKGROUND %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 
 \chapter{Background}
 
@@ -129,7 +122,9 @@ We need to introduce all of the math that the different methods I want to talk a
 
 This is also a good place to get everybody on the same page, terminology wise. How do we feel about a glossary? At minimum, a notation page would be great so I can just use $G$, $A$, etc. pretty freely throughout. It might not be too necessary, though.
 
-\section{Properties that all graphs have and also definitions}
+
+\section{Properties that all graphs have and also definitions} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 A \textbf{graph}\index{graph}\footnote{The term \textit{network} is sometimes used interchangeably with the term \textit{graph}. While they both refer to the same mathematical object, we attempt to follow the heuristic throughout of using the term \textit{graph} to refer to a purely mathematical object and \textit{network} to refer to a real-world system.} is formally defined as a finite, nonempty set $V$ of \textbf{nodes}\index{nodes} or \textbf{vertices}\index{vertices}, combined with a set $E\subset V\times V$ of \textbf{edges}\index{edges} representing relationships between pairs of nodes. Throughout this work, we denote the number of vertices in a graph by $n$ and the number of edges by $m$ where not otherwise specified.
 
@@ -143,91 +138,197 @@ In an undirected graph, the \textbf{degree}\index{degree} of a node is the numbe
 
 When studying real-world networks, we also make a distinction between \textbf{deterministic}\index{deterministic} and \textbf{random}\index{random} networks, as discussed in (cite fifty years paper). This distinction is the same as that between a variable and a random variable A deterministic network is one in which the nodes and edges are ``fixed"; that is, there is no other distinct graph which represents the same object and the nodes and edges do not change over time. In order to use graph theory to study real-world phenomena, we generally must use statistical inference methods and stuff and just treat it like a random variable instead. Some methods account for this and some don't and we should pay attention to this. Add ``Statistical Analysis of Network Data" to your reference list because it discusses this.
 
-\section{Fancier properties and special graphs}
 
-Trees. If you're gonna talk about generalized trees, which will probably come up, put it in the main chapter and make sure to mention it's about just picking a root, you can do it to any graph
+\section{Fancier properties and special graphs} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Adjacency matrix
 
-Laplacian
+These two should come up as you fill stuff out, so we're not going to do all of them quite yet.
 
-Maximum common subgraph and minimum common supergrpah
+Old list: Trees, Adjacency matrix, Laplacian, Maximum common subgraph and minimum common supergrpah, Isomorphisms and alignments (bring up exact and inexact here), Kernels, Discussion of metrics with respect to graphs, Graphlets, Tanimoto index and Hamming distance between I'm still salty that the one survey paper didn't include
 
-Isomorphisms and alignments
-
-Kernels
-
-Discussion of metrics with respect to graphs
-
-Tanimoto index and Hamming distance between I'm still salty that the one survey paper didn't include
+More: modularity, directed acyclic graphs, assortativity, connectivity, centrality notions and distributions, diameter, giant component
 
 \section{Basic algorithms and methods}
 
-Path finding and walks
+Don't do psuedocode, this probably isn't even necessary, but you want to talk about the basic types of problems people want to solve using graphs aka the basic questions people want to answer about or using graphs, and the strategies for going about answering them. Go back and look at your initial notes from when dr. evans was explaining the six problems and find representative papers that talk about those different things.
 
-Basic node similarity
-
-Basic community detection
+Path finding and walks, Basic node similarity, Basic community detection
 
 \section{Other math background and definitions}
 
-Whatever spectral stuff we need to explain methods, without being too condescending
+Some of the stuff draws on math things that aren't network specific, and we should explain those too, because we're nice. What might be best is to be a bit colloquial, since you can't give a full explanation of EVERYTHING. Just like, use the terms, but also give an intuitive idea of why we're doing this and what the goal is and how it works.
 
-Edit distances?
+Old: Spectral stuff in general, Edit distances?, Dynamical systems, Cost function (context of edit distances and alignment), Linear and quadratic programming, Weight matching, Kernels
 
-Dynamical systems
 
-Cost function (context of edit distances and alignment)
 
-Linear and quadratic programming
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Weight matching
 
-Kernels
 
-%%%%%%%%%%%%%%%%%%%%%%%%% OVERVIEW
+%We're going to take a second to motivate the problem a bit and describe what we're trying to do here. Kind of like section 1.2 in the red book, which is great and something that everybody should do always.
 
+%This is kind of like the motivation from the SRC presentation. Traditional graph theory can feel very pure mathy and useless, but networks are so important and such a new field that there aren't as many overview type resources, and I don't think the stuff I've seen does a very good job really putting everything in context, especially across fields. It's also not always clear what prerequisites you need to understand all the different things, so I want to make that easier, too.
+
+%Computer science and math mostly call things graphs, because they mostly work with them on a theoretical level. Either small ones for graph theory or big ones for modeling large networks. Throughout, I need to make sure to use the convention that a graph is the mathematical object and a network is a graph which models a real-world system. The definitions are clear enough, but the connotations make things confusing. It's not really separate topics and we're going to make an effort to treat them in a properly integrated manner.
 
 \chapter{Introduction}
 
-We're going to start off by talking about why graphs are useful, and the history of the study of them (briefly) and then the history of comparing graphs as a whole (in more detail, obviously).
 
-Basically the whole point of this whole paper is that I want to emphasize the commonality between network and graph theory, even though they're treated fairly separately. I want to hammer that point home here by looking into the Wikipedia network for both terms, and same thing for my citation network once it gets more comprehensive. Colloquially, my impression is that ``graph" is usually used for small numbers of nodes, and ``network" is used for anything real-world based, whether it's small or not. Really, the important properties that make them different are how big they are and whether they're deterministic. It'd be really nice to have more words, because ``graph" is most associated with ``small and deterministic" and ``network" is most associated with ``large and non-deterministic", but the definitions bleed into each other, and where does that leave ``small and non-determistic" (aka bio, I think? maybe chemistry?) in terms of what you call it?
+\section{This is why we care and the types of problems they're useful for} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-We also want to get into the difference between graph isomorphism, graph matching, network alignment, and network similarity, both in terms of actual definitions and how they're commonly used. I should have already talked about the definitions in the the background chapter, at least a little bit, but I think it makes more sense to put that here.
 
-Now we're going to put in a few pages of the history of how they've been studied, and kind of the main categories of approach. I'm not completely sure yet how that's going to break down, though, but it'll be semi-based around partitioning the citation network, because that's cool and gives you a really awesome visual. I'd like to do this by getting the ``year" property built into my citation network, that should work really well and we can get some great visuals. Also, if we can, I want to get CrossRef to give me the field of study as well, so I can have at least an approximation of that for the all of the outcomponent papers.
+We're going to start off by talking about why graphs are useful. Then we're going to talk a bit about why graph similarity is useful, which should be easy after you've read all these papers. Just a general overview of the types of fields that naturally lend themselves to network analysis, with examples of the types of problems you'd see. 
+
+Really, networks are a useful way to model relationships between stuff for anything. It's obvious that relationships between things can be visualized with a network, and sometimes just looking at it is enough. Like a flowchart, or the atoms in a molecule. Something small where you want to see the structure of it. It's less obvious, I think, what else you can use that relationship for. That's less simple to answer, but a good place to start is by thinking about the kinds of questions you want to answer. You can come up with all kinds of algorithms and metrics, but it has to mean something
+
+
+\subsection{Infrastructure}
+
+
+For example, you can have networks where you want to measure and track the flow of traffic through the network, so you'd want to answer questions about how much stuff can flow through the network, how much redudancy you have, where it would make the most sense to add or remove things, and so on. The obvious use case is road networks, but air traffic control would also fall under this category, phone lines (really most public utilities, electricity, water, sewage, internet, all that), cell phone networks, all that. Is it planar? Almost planar? How do those restrictions affect it? Random walks? How do we model and calculate all this?
+
+
+\subsection{Social Networks and the World Wide Web}
+
+
+Then you've got social networks and the internet (specifically the world wide web, not the network of routers that make up the internet itself), which kind of fall under the same category when it comes to questions you want to answer about it. Where are the communities? Who's important? What do we mean by important? How well is everybody connected to each other (useful question for the former type, as well as this)? Reciprocity, assortativity, small world.
+
+
+\subsection{Biology}
+
+
+THIS SECTION IS CURRENTLY WORD VOMIT BUT I'LL REDO IT AS I GO THROUGH AND READ PAPERS
+
+Then there's biological networks. Wide variety of scales. Metabolic networks, protein-protein interaction networks, metabolic interaction networks, genetic regulatory, neural, ecological. What types of quesitons are we asking? For ecological networks, it's probably more similarity to the ``flow of stuff" ones and the ``social network" ones. 
+
+Metabolic networks probably go along with the ``flow of stuff" category, just the difference is instead of having a ``flow of stuff" network that you're trying to \textit{build}, you have one that already exists and you're trying to figure out what all the little pieces do. Motifs are probably useful here, because the individual nodes by themselves aren't all that interesting to answer questions about. That's starting to get more into the network similarity thing. Similar with protein interactions. It's easy (or, well, \textit{possible}) to figure out what stuff is dependent on other stuff but hard to say why. 
+
+Similarity between pieces of a metabolic network sounds very useful for evolutionary biology. Also looking at pieces across species should tell you what function the piece should serve? Also with both that (and protein-protein, and evolutionary), you're starting to get into the question of what's normal and what's abnormal and how would you fix it.
+
+
+\subsection{Computer Science}
+
+
+THIS SECTION IS CURRENTLY WORD VOMIT BUT I'LL REDO IT AS I GO THROUGH AND READ PAPERS
+
+Also, computer science, besides just the internet. Queueing theory! Talk to dad about queueing theory! It's more graphs here than networks, because you're using a graph structure to represent the relationships between things, it's not TECHNICALLY ``real world".  Computer vision and natural language processing really lend themselves well to graph-based study. Typically in this case you'd kind of pull the pieces out of an image and see how they relate to each other. If you wanna be stupid about it, just take the relation of all the pixels to each other. I'm not really sure how they construct these. But once you can figure out what the important pieces are you can compare it against other stuff. Like the way they do facial recognition visualization in every movie ever. Oh, that's also good for stuff like animation, I bet! And video games, or just anything where you're going to model it with a bunch of splines on a non-grid domain. 
+
+Language processing is good for this too. Relationships between words can tell you a lot about what they mean and how they're supposed to be used, especially if you have a large enough corpus. Like google's word2vec, so you can learn how to translate between languages. Here you're probably asking less ``match this thing to something in a database", although that might actually be the case for translation, I don't know, but I feel like figuring out grammar and all that is definitely along the lines of asking ``is this structure normal?". Again, this'll be better after I've read a bunch of the papers.
+
+Put a footnote or side note or something here about the difference between ``network" and ``graph" and similarity vs isomorphism vs matching and such.
+
+
+\section{Dataset Creation} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+THERE ARE A LOT OF VERB TENSE ISSUES RIGHT NOW BUT I DON'T REALLY KNOW WHAT VOICE I'M SUPPOSED TO USE RIGHT NOW SO I'LL FIX IT LATER
+
+%Honestly, I could come up with rationalizations, but the real reason this data set exists is because I started reading papers and got overwhelmed and couldn't keep track, and wanted a better way to organize them. Well, even further back, I wanted to get a really solid sense of the field before I picked something specific to work on, but that turned out to be a way bigger and more complicated question than I initially thought. 
+
+Survey papers are obviously difficult in general. How do you know that you're getting everything? How do you know what's important? In particular, how do you know you haven't overlooked anything major, and that you know what's important, when you're not already an expert in the field? What about an interdisciplinary field? Would you have to be an expert in both?
+
+A good place to start would seem to be with other people's survey papers. But what about things that have come into existence since those survey papers? What if the survey papers assume more expertise than you have? How do you know you can trust their judgement on what's most important, and that they've got everything?
+
+Obviously this is a major question for academic research in general. People writing survey papers care, but so does anybody who wants to get a sense of the field, to collaborate, or learn, or see if their work is original, and so on. This question is the whole reason things like Web of Science and Scopus and even Google Scholar itself exist, and a good example of why we care about network science in the first place. So we've got a really solid justification for looking at the citation network.
+
+Why can we justify looking at the citation network of just network similarity papers, especially given how long this took to make? Well, first of all, YOU don't care about how long it took to make, so as long as it doesn't ruin the scope of my project, I don't need to justify THAT. More to the point, I'm not an expert in the field, and I'm not going to become one in a few months just by reading. The average reader doesn't have any good prior reason to trust my search process and my judgement about what's important. If I want my survey to be useful, I need to have a satisfying answer to that question. If I look at the citation network, I can guide my own reading, but I can also back up my assertion about what's important with an explanation of my process and standard centrality and community detection measures.
+
+The main reason this needs justification at all is that citation network creation is not at all trivial. Some journals and databases can give you a citation network of the references in their own domain, but with such an interdisciplinary field, that only covers a small subset of the network needed. As a result, and since intellectual property restrictions mean you can't just scrape a whole citation network, I made it manually by making .txt file reference lists for relevant papers and constructing the network accordingly.
 
 \subsection{Approach}
 
-Do a good github readme, basically, explaining how I went about this and making sure I've got all the papers from everybody, how the database works, general methodology.
+Relevant papers were determined by searching google scholar for ``graph" or ``network" +  ``alignment", ``comparison", ``similarity", ``isomorphism", or ``matching". I went through the first five pages of results for each of the ten search terms and collected all topic-relevant papers. Then I set up an email alert for those same search terms, and have been continuing to add new relevant results to the database throughout the process. All graphics included are generated using the newest version of the database, which includes reference lists for 204 (UPDATE AS NECESSARY) papers and preprints up through June 5th, 2018 (UPDATE TO DATE OF DRAFT SUBMISSION). Any paper for which we have a reference list is referred to as a ``parent" paper, and the references are referred to as the ``child" papers. 
 
-Also I'd like to have a nice visual kind of like the one in the giant graph matching survey, so my reference section is friendlier. Here seems like a decent place to put it.
+In order to create the network, we need to be able to parse the freeform citations for each reference list in order to obtain metadata and recognize references as repeatedly cited. This is a difficult problem, as the parent papers in the database span over fifty years and represent a wide variety of citation styles, languages, and optical character recognition and unicode-related hiccups. Instead of attempting to parse a citation into component parts, we used the REST API to search for each record in the CrossRef database, which already has the metadata parsed for any reference it includes. References are marked as duplicate if their parsed metadata matches and both are verified as correct, or if both their metadata and original freeform citation match exactly. 
 
+The results of this search are considered verified if the title of the result can be found in the original freeform citation. This was the case for about 75\% of the parent papers, and about half of their children. For unverified parents, I manually corrected or found title, year, author, DOI (if it existed), and URL information as well as reference and citation counts. I checked through the unverified child references and marked correct results. This occurred in about half of all cases, usually due to punctuation discrepancies, misspellings, or unicode issues. Results were counted as correct (but noted as ``half-right") if CrossRef returned a review, purchase listing or similar for the correct item. I then went through the remaining incorrect references and manually parsed the author, title, and year from the citation, or looked them up if not included. I deleted any references which did not refer to a written work of some kind; specifically, references simply citing a website, web service, database, software package/library, programming language, or ``personal communication".
 
-%%%%%%%%%%%%%%%%%%%%%%%%% CHAPTER
+Then we write the citation network of the database relationships to a .gml file which can be loaded in Mathematica. By default, the nodes in this network include the title, year, reference and citation counts for each paper as properties. Including further metadata properties in the .gml file is not difficult, but additional string properties dramatically slow Mathematica's ability to load such a large network (5252 vertices and 6970 edges as of SUBMISSION DATE, takes about two minutes to load on a 2.6GHz 6th-gen quad core Intel Core i7 CPU with 16GB of RAM, Windows 10 Home, Mathematica 11.2 PUT THIS IN FOOTNOTE?), so they are not included by default.
 
-
-
-\chapter{Graph Matching and Isomorphism}
-
-It's entirely possible that we'll break down the chapters some other way, because I don't want to just have a bunch of summaries of all this stuff, I want to keep it connected throughout.
-
-%%%%%%%%%%%%%%%%%%%%%%%%% OTHER CHAPTERS
+The dataset itself and the code and source files used to generate it can be found on GITHUB REPOSITORY LINK, as well as documentation and instructions for using it to generate a similar dataset for any collection of properly-formatted reference list files.
 
 
+\section{Dataset Analysis} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\chapter{Network Alignment}
+I've got several mathematica notebooks full of this. I want to leave it mostly there for now, though, because I don't want to have to create all the figures again every time I add a couple papers and re-run the analysis.
 
-\chapter{Graphlet Method and Similar}
+\subsection{Overall Network Statistics}
 
-\chapter{Etc.? I don't know how these are going to break down yet}
+\begin{itemize}
+\item Very basic statistics about the network, e.g. size, degree distributions, how much it looks like a typical citation network
+\item Slightly more interesting statistics about the network as a whole: connectivity, diameter, assortativity, percentage in the giant component, clustering?
+\item Distributions for various centrality measures (closeness, betweenness, etc.)
+\item Repeat these three for the subnetwork of nodes with positive outdegree or indegree greater than 1
+\item Not including: reciprocity and actual SCC, obviously, since it's acyclic
+\end{itemize}
+
+\subsection{Community Structure and Important Papers}
+
+Description of how I partitioned the network and the types of papers observed, types of important papers observed, what the community structure seems to be.
+
+Note that a big problem with this is how comparatively rare it is for the papers to have positive outdegree, and most of the papers are only cited by one person. To do the partition, I took the weakly connected component and then the subgraph of all papers that have positive outdegree or indegree greater than 1. 
+
+Since I had to go through so many papers manually, I feel fairly confident in the assertion that the main two groups are computer science and bio, so I did a (modularity maximizing?) partition of the network into two groups. This made a lot more than two groups, though, so I looked at those to see which ones are contained in one or the other. TALK ABOUT RESULTS OF THIS.
+
+Here is a table of the top papers for each community and overall by indegree, outdegree, betweenness, PageRank, and closeness centrality. These all go in the bibliography.
+
+\section{Structure of Paper} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+It's mainly CS and bio as far as applications go. This is mostly based on the fact that I went through pretty much all the titles. I could get some statistics on how many of them have bio-type words in the title. Look at the fringey guys with the modularity partition.
+
+What are we doing with large networks? What problems are we trying to solve? What about with citation networks? Detect communities and determine which ones are important? Measure change over time?
+
+What problems are we trying to solve when we're working with metabolic networks? Why do we care about looking up proteins? How is DNA sequence alignment network similarity? Is it just that all these microRNA papers cite those kinds of papers a lot? 
+
+Mapping the brain to figure out what's normal and what's important and what does what? Is that really network similarity. Community detection requires a notion of similarity. Biology: figure out what stuff does? Why do we care about protein interactions? 
+
+Types of problems we're trying to use network similarity for:
+
+\begin{itemize}
+\item Searching for things in a large database of small graphs (fingerprint classification, protein search, facial recognition). Nearest neighbor type thing. Unique identifiers is really more of a node similarity thing, but oh well.
+\item Classify things as normal or anomalous (malware, cancer, trajectories, grammar, )
+\end{itemize}
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%% CS CHAPTER
 
+\chapter{CS}
+
+Look at what they call it. Graph matching seems to be more small graphs, 
+
+The main two kinds of applications seem to be computer vision and natural language processing. Both of those make sense. Unique identifiers, grading, image processing, large database search, e.g. handwriting and fingerprint/facial/iris recognition
+
+Computer vision: fingerprint classification (lots of those, especially older ones), shape matching, pulling objects from an image, 
+
+Natural language processing: semantic relations, obviously
+
+Niche things: malware classification. 
+
+Predictions and expectations for how it'll go: I think the CS stuff is pretty much exclusively graph matching. The standard techniques would be good to get from the thirty years paper, which is definitely on the list. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%% BIO CHAPTER
+
+\chapter{Bio}
+
+I haven't read enough bio papers to really know for sure, but based on a quick glance through titles, bio applications seem to be protein folding (and molecular similarity? chemical st), metabolic interaction networks (duh) gene stuff, something something microRNA (same thing?), brain networks, SOCIAL networks, protein database search (should be similar to the graph matching ones where it's trying to find an image in a large database)
+
+Main two: molecular structures and metabolic interactions
+
+Predictions: social network and metabolic network relatively similar approach? Large networks of interactions. Molecular structure on a small scale should be like graph matching? 
+
+\chapter{Fringe}
+
+Citation network stuff would probably go here, I think. It's kind of in the middle.
+
+Here's the ones that didn't really fit in either, or had their own little communities when we did modularity. I'm also curious about how the synthesis of it would go. And the papers that have parents from both communities.
+
+Possibly fringe: air navigation route systems
 %%%%%%%%%%%%%%%%%%%%%%%%% APPENDIX AND END MATTER
 
 You're not going to have the black or red books in the paper list but you still need to have them in your bibliography, don't forget.
+
+Papers go in the bibliography if you read them to put them in the chapter. Any of the ones you've got printed out, so definitely fifty years. Not all the parents need to go in the bibliography, though. You need to cite/acknowledge CrossRef, for sure. What about python packages like gspread? Idk.
 
 % Changes the numbering of chapters and sections for appendices. Any chapters or sections listed here will be treated as part of the appendix
 \appendix

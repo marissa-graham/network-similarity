@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.16)  4 MAY 2018 17:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.16)  19 JUN 2018 23:20
 entering extended mode
-**"C:/Users/Marissa/0 Networks Stuff/ThesisClass/mythesis.tex"
-("C:/Users/Marissa/0 Networks Stuff/ThesisClass/mythesis.tex"
+**C:/Users/Marissa/network-similarity/ThesisClass/mythesis.tex
+(C:/Users/Marissa/network-similarity/ThesisClass/mythesis.tex
 LaTeX2e <2015/10/01> patch level 2
 Babel <3.9n> and hyphenation patterns for 69 languages loaded.
 (thesis.cls
@@ -324,13 +324,13 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 
 
 ] (mythesis.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
 
 ("C:\Users\Marissa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
 "
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 
 ("C:\Users\Marissa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
 "
@@ -361,39 +361,44 @@ Chapter 1.
 [1
 
 
-] [2] [3]
+] [2]
 Chapter 2.
-[4]
+[3] [4] [5] [6]
+Overfull \hbox (9.39667pt too wide) in paragraph at lines 241--242
+ \OT1/cmr/bx/n/12 2.2.1 Ap-proach.[] \OT1/cmr/m/n/12 Rel-e-vant pa-pers were de
+-ter-mined by search-ing google scholar for ``graph"
+ []
+
+[7] [8] [9] [10]
 Chapter 3.
 Chapter 4.
-[5]
+[11]
 Chapter 5.
-Chapter 6.
-[6] (mythesis.bbl) [7
+[12] (mythesis.bbl) [13
 
-] (mythesis.ind [8
+] (mythesis.ind [14
 
 
 
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 241.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 241.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 342.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 342.
  (mythesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 241.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 241.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 342.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 342.
 Package rerunfilecheck Info: File `mythesis.out' has not changed.
-(rerunfilecheck)             Checksum: E5A50AEF68F965657890C93E6476F5DD;1196.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 241.
+(rerunfilecheck)             Checksum: DA6A4E692736A5C23A9F608C5DC35C3C;1300.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 342.
  ) 
 Here is how much of TeX's memory you used:
- 5515 strings out of 493634
- 79991 string characters out of 3134423
- 163371 words of memory out of 3000000
- 8808 multiletter control sequences out of 15000+200000
+ 5532 strings out of 493634
+ 80198 string characters out of 3134423
+ 163224 words of memory out of 3000000
+ 8811 multiletter control sequences out of 15000+200000
  12204 words of font info for 47 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 34i,8n,28p,1026b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,8n,28p,1158b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Marissa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb><C:/Users/Marissa/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Marissa/AppData/Local/Programs/MiKTe
@@ -408,9 +413,9 @@ iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Marissa/AppData/L
 ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Ma
 rissa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.p
 fb>
-Output written on mythesis.pdf (13 pages, 167395 bytes).
+Output written on mythesis.pdf (19 pages, 186131 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
- 153 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 276 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 169 words of extra memory for PDF output out of 10000 (max. 10000000)
 

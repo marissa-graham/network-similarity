@@ -1,0 +1,76 @@
+[0] Yan Ren, Licheng Jiao, Shuyuan Yang, Shuang Wang, Mutual Learning Between Saliency and Similarity: Image Cosegmentation via Tree Structured Sparsity and Tree Graph Matching
+[1] K. Y. Chang, T. L. Liu, and S. H. Lai, “From co-saliency to cosegmentation: An efficient and fully unsupervised energy minimization model,” in IEEE Conference on Computer Vision and Pattern Recognition, vol. 42, no. 7, 2011, pp. 2129–2136.
+[2] M. Rubinstein, A. Joulin, J. Kopf, and C. Liu, “Unsupervised joint object discovery and segmentation in internet images,” in IEEE Conference on Computer Vision and Pattern Recognition, 2013, pp. 1939–1946.
+[3] H. Fu, D. Xu, S. Lin, and J. Liu, “Object-based rgbd image cosegmentation with mutex constraint,” in IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 4428–4436.
+[4] Z. Tao, H. Liu, H. Fu, and Y. Fu, “Image cosegmentation via saliencyguided constrained clustering with cosine similarity,” in AAAI Conference on Artificial Intelligence, 2017.
+[5] S. Vicente, V. Kolmogorov, and C. Rother, “Cosegmentation revisited: Models and optimization,” in European Conference on Computer Vision, 2010, pp. 465–479.
+[6] F. Wang, Q. Huang, and L. J. Guibas, “Image co-segmentation via consistent functional maps,” in IEEE International Conference on Computer Vision, 2013, pp. 849–856.
+[7] K. Li, J. Zhang, and W. Tao, “Unsupervised co-segmentation for indefinite number of common foreground objects,” IEEE Transactions on Image Processing, vol. 25, no. 4, pp. 1–1, 2016.
+[8] C. Lee, W. D. Jang, J. Y. Sim, and C. S. Kim, “Multiple random walkers and their application to image cosegmentation,” in IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 3837–3845.
+[9] I. B. Ayed, K. Punithakumar, and S. Li, “Distribution matching with the bhattacharyya similarity: A bound optimization framework,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 37, no. 9, pp. 1777–1791, 2015.
+[10] T. Taniai, S. N. Sinha, and Y. Sato, “Joint recovery of dense correspondence and cosegmentation in two images,” in IEEE Conference on Computer Vision and Pattern Recognition, 2016, pp. 4024 – 4031.
+[11] C. Rother, T. Minka, A. Blake, and V. Kolmogorov, “Cosegmentation of image pairs by histogram matching - incorporating a global constraint into mrfs,” in IEEE Conference on Computer Vision and Pattern Recognition, vol. 1, 2006, pp. 993–1000.
+[12] S. Vicente, C. Rother, and V. Kolmogorov, “Object cosegmentation,” in IEEE Conference on Computer Vision and Pattern Recognition, vol. 42, 2011, pp. 2217–2224.
+[13] D. S. Hochbaum and V. Singh, “An efficient algorithm for cosegmentation,” in IEEE International Conference on Computer Vision, 2009, pp. 269–276.
+[14] A. Joulin, F. Bach, and J. Ponce, “Multi-class cosegmentation,” in IEEE Conference on Computer Vision and Pattern Recognition, 2012, pp. 542– 549.
+[15] G. Kim, E. P. Xing, L. Fei-Fei, and T. Kanade, “Distributed cosegmentation via submodular optimization on anisotropic diffusion,” in IEEE International Conference on Computer Vision, 2011, pp. 169–176.
+[16] A. Faktor and M. Irani, “Co-segmentation by composition,” in IEEE International Conference on Computer Vision, 2013, pp. 1297–1304.
+[17] H. Fu, D. Xu, B. Zhang, and S. Lin, “Object-based multiple foreground video co-segmentation,” in IEEE Conference on Computer Vision and Pattern Recognition, 2014, pp. 3166–3173.
+[18] W. Wang, J. Shen, X. Li, and F. Porikli, “Robust video object cosegmentation,” IEEE Transactions on Image Processing, vol. 24, no. 10, pp. 3137–3148, 2015.
+[19] X. Dong, J. Shen, L. Shao, and M. Yang, “Interactive cosegmentation using global and local energy optimization,” IEEE Transactions on Image Processing, vol. 24, no. 11, pp. 3966–3977, 2015.
+[20] W. Wang and J. Shen, “Higher-order image co-segmentation,” IEEE Transactions on Multimedia, vol. 18, no. 6, pp. 1011–1021, 2016.
+[21] F. Meng, H. Li, G. Liu, and K. N. Ngan, “Object co-segmentation based on shortest path algorithm and saliency model,” IEEE Transactions on Multimedia, vol. 14, no. 5, pp. 1429–1441, 2012.
+[22] K. R. Jerripothula, J. Cai, F. Meng, and J. Yuan, “Automatic image co-segmentation using geometric mean saliency,” in IEEE International Conference on Image Processing, 2014, pp. 3277 – 3281.
+[23] K. R. Jerripothula, J. Cai, and J. Yuan, “Group saliency propagation for large scale and quick image co-segmentation,” in IEEE International Conference on Image Processing, 2015, pp. 4639 – 4643.
+[24] ——, “Image co-segmentation via saliency co-fusion,” IEEE Transactions on Multimedia, vol. 18, no. 9, pp. 1896 – 1909, 2016.
+[25] ——, “Quality-guided fusion-based co-saliency estimation for image cosegmentation and co-localization,” IEEE Transactions on Multimedia, vol. PP, no. 99, pp. 1–1, 2018.
+[26] X. Shen and Y. Wu, “A unified approach to salient object detection via low rank matrix recovery,” in IEEE Conference on Computer Vision and Pattern Recognition, 2012, pp. 853–860.
+[27] R. Huang, W. Feng, and J. Sun, “Saliency and co-saliency detection by low-rank multiscale fusion,” in IEEE International Conference on Multimedia and Expo, 2015, pp. 1–6.
+[28] C. Lang, J. Feng, S. Feng, and J. Wang, “Dual low-rank pursuit: Learning salient features for saliency detection,” IEEE Transactions on Neural Networks and Learning Systems, vol. 27, no. 6, pp. 1–11, 2016.
+[29] R. Jenatton, J. Mairal, G. Obozinski, and F. Bach, “Proximal methods for hierarchical sparse coding,” Journal of Machine Learning Research, vol. 12, no. 7, pp. 2297–2334, 2011.
+[30] H. Peng, B. Li, R. Ji, W. Hu, W. Xiong, and C. Lang, “Salient object detection via low-rank and structured sparse matrix decomposition,” in AAAI Conference on Artificial Intelligence, 2013.
+[31] H. Peng, B. Li, H. Ling, W. Hu, W. Xiong, and S. J. Maybank, “Salient object detection via structured matrix decomposition,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 39, no. 4, pp. 818–832, 2017.
+[32] N. Shervashidze and F. Bach, “Learning the structure for structured sparsity,” IEEE Transactions on Signal Processing, vol. 63, no. 18, pp. 4894–4902, 2015.
+[33] L. Mukherjee, V. Singh, and C. R. Dyer, “Half-integrality based algorithms for cosegmentation of images.” in IEEE Conference on Computer Vision and Pattern Recognition, 2009, pp. 2028–2035.
+[34] L. Mukherjee, V. Singh, and J. Peng, “Scale invariant cosegmentation for image groups,” in IEEE Conference on Computer Vision and Pattern Recognition, 2011, pp. 1881–1888.
+[35] H. L. Fanman Meng, Jianfei Cai, “On multiple image group cosegmentation,” in Asian Conference on Computer Vision (oral), 2014.
+[36] ——, “Cosegmentation of multiple image groups,” in Computer Vision and Image Understanding, vol. 146, 2016, pp. 67–76.
+[37] J. Dai, Y. N. Wu, J. Zhou, and S. C. Zhu, “Cosegmentation and cosketch by unsupervised learning,” in IEEE International Conference on Computer Vision, 2013, pp. 1305 – 1312.
+[38] W. Tao, K. Li, and K. Sun, “Sacoseg: Object cosegmentation by shape conformability,” IEEE Transactions on Image Processing, vol. 24, no. 3, pp. 943–955, 2015.
+[39] K. R. Jerripothula, J. Cai, J. Lu, and J. Yuan, “Object co-skeletonization with co-segmentation,” in IEEE Conference on Computer Vision and Pattern Recognition, 2017, pp. 3881–3889.
+[40] Y. Chai, V. Lempitsky, and A. Zisserman, “Bicos: A bi-level cosegmentation method for image classification,” in International Conference on Computer Vision, 2011, pp. 2579–2586.
+[41] F. Meng, H. Li, G. Liu, and K. N. Ngan, “Image cosegmentation by incorporating color reward strategy and active contour model,” IEEE Transactions on Systems Man and Cybernetics Part B Cybernetics, A Publication of the IEEE Systems Man and Cybernetics Society, vol. 43, no. 2, pp. 725–737, 2013.
+[42] Y. Li, J. Liu, Z. Li, Y. Liu, and H. Lu, “Object co-segmentation via discriminative low rank matrix recovery,” in ACM International Conference on Multimedia, 2013, pp. 749–752.
+[43] Y. Li, J. Liu, Z. Li, H. Lu, and S. Ma, “Object co-segmentation via salient and common regions discovery,” Neurocomputing, vol. 172, no. C, pp. 225–234, 2016.
+[44] J. C. Rubio, J. Serrat, A. M. Lopez, and N. Paragios, “Unsupervised co-segmentation through region matching,” in IEEE Conference on Computer Vision and Pattern Recognition, 2012, pp. 749–756.
+[45] J. Yan, X. C. Yin, W. Lin, C. Deng, H. Zha, and X. Yang, “A short survey of recent advances in graph matching,” in ACM on International Conference on Multimedia Retrieval, 2016, pp. 167–174.
+[46] A. Torsello, D. Hidovi-Rowe, and M. Pelillo, “Polynomial-time metrics for attributed trees,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 27, no. 7, pp. 1087–1099, 2005.
+[47] S. Todorovic and N. Ahuja, “Unsupervised category modeling, recognition, and segmentation in images.” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 30, no. 12, pp. 2158–74, 2008.
+[48] A. Torsello and E. R. Hancock, “Computing approximate tree edit distance using relaxation labeling. pattern recognit lett,” Pattern Recognition Letters, vol. 24, no. 8, pp. 1089–1097, 2003.
+[49] Q. Wu and J. K. Hao, “A review on algorithms for maximum clique problems,” European Journal of Operational Research, vol. 242, no. 3, pp. 693–709, 2015.
+[50] S. Todorovic and N. Ahuja, “Region-based hierarchical image matching,” International Journal of Computer Vision, vol. 78, no. 1, pp. 47–66, 2008.
+[51] U. Benlic and J. K. Hao, “Breakout local search for maximum clique problems,” Computers and Operations Research, vol. 40, no. 1, pp. 192– 206, 2013.
+[52] C. Rother, V. Kolmogorov, and A. Blake, “”grabcut”: interactive foreground extraction using iterated graph cuts,” ACM Transactions on Graphics, vol. 23, no. 3, pp. 309–314, 2004.
+[53] Z. Lin, M. Chen, and Y. Ma, “The augmented lagrange multiplier method for exact recovery of corrupted low-rank matrices,” Eprint Arxiv, vol. 9, 2010.
+[54] X. Chen, Q. Lin, S. Kim, J. G. Carbonell, and E. P. Xing, “Smoothing proximal gradient method for general structured sparse learning,” in the Twenty-Seventh Conference on Uncertainty in Artificial Intelligence, 2011.
+[55] X. Chen, “Learning with sparsity: Structures, optimization and applications,” Dissertations and Theses - Gradworks, 2013.
+[56] J. F. Cai, Cande`s, E. J. S, and Z. Shen, “A singular value thresholding algorithm for matrix completion,” Siam Journal on Optimization, vol. 20, no. 4, pp. 1956–1982, 2010.
+[57] S. Kim, “Tree-guided group lasso for multi-task regression with structured sparsity,” in International Conference on Machine Learning, 2010, pp. 543–550.
+[58] S. X. Hu, C. K. I. Williams, and S. Todorovic, “Tree-cut for probabilistic image segmentation,” Statistics, 2015.
+[59] J. Shotton, J. Winn, C. Rother, and A. Criminisi, “Textonboost : Joint appearance, shape and context modeling for multi-class object recognition and segmentation,” in European Conference on Computer Vision, 2015, pp. 1 – 15.
+[60] D. Batra, A. Kowdle, D. Parikh, and J. Luo, “icoseg: Interactive cosegmentation with intelligent scribble guidance,” in IEEE Conference on Computer Vision and Pattern Recognition, 2010, pp. 3169 – 3176.
+[61] G. Kim and E. P. Xing, “On multiple foreground cosegmentation,” in IEEE Conference on Computer Vision and Pattern Recognition, 2012, pp. 837–844.
+[62] R. Achanta, A. Shaji, K. Smith, A. Lucchi, P. Fua, and S. SSstrunk, “Slic superpixels compared to state-of-the-art superpixel methods,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 34, no. 11, pp. 2274–2282, 2012.
+[63] H. Fu, X. Cao, and Z. Tu, “Cluster-based co-saliency detection,” IEEE Transactions on Image Processing, vol. 22, no. 10, p. 3766, 2013.
+[64] H. Jiang, J. Wang, Z. Yuan, Y. Wu, N. Zheng, and S. Li, “Salient object detection: A discriminative regional feature integration approach,” International Journal of Computer Vision, vol. 123, no. 2, pp. 251–268, 2017.
+[65] Q. Yan, L. Xu, J. Shi, and J. Jia, “Hierarchical saliency detection,” in IEEE Conference on Computer Vision and Pattern Recognition, 2013, pp. 1155–1162.
+[66] Li, Xi, Y. Li, C. Shen, A. Dick, and A. V. D. Hengel, “Contextual Hypergraph Modeling for Salient Object Detection,” in IEEE International Conference on Computer Vision, 2014, pp. 3328–3335.
+[67] A. Hornung, Y. Pritch, P. Krahenbuhl, and F. Perazzi, “Saliency filters: Contrast based filtering for salient region detection,” in IEEE Conference on Computer Vision and Pattern Recognition, 2012, pp. 733–740.
+[68] A. Rosenfeld and D. Weinshall, “Extracting foreground masks towards object recognition,” in IEEE International Conference on Computer Vision, 2011, pp. 1371–1378.
+[69] X. Huang, H. Li, and E. Kim, “A hierarchical image clustering cosegmentation framework,” in IEEE Conference on Computer Vision and Pattern Recognition, vol. 157, 2012, pp. 686–693.
+[70] A. Joulin, F. Bach, and J. Ponce, “Discriminative clustering for image co-segmentation,” in IEEE Conference on Computer Vision and Pattern Recognition, 2010, pp. 1943 – 1950.
+[71] G. Kim and A. Torralba, “Unsupervised detection of regions of interest using iterative link analysis,” in Advances in Neural Information Processing Systems 22: Conference on Neural Information Processing Systems 2009. Proceedings of A Meeting Held 7-10 December 2009, Vancouver, British Columbia, Canada, 2009, pp. 961–969.
+[72] J. Sun and J. Ponce, “Learning dictionary of discriminative part detectors for image categorization and cosegmentation,” in International Journal of Computer Vision, vol. 120, no. 2, 2016, pp. 111–133.
+[73] T. Ma and L. J. Latecki, “Graph transduction learning with connectivity constraints with application to multiple foreground cosegmentation,” in IEEE Conference on Computer Vision and Pattern Recognition, 2013, pp. 1955–1962.
+[74] Z. Liu, J. Zhu, J. Bu, and C. Chen, “Object cosegmentation by nonrigid mapping,” Neurocomputing, vol. 135, no. 8, pp. 107–116, 2014.
+[75] A. Oliva and A. Torralba, “Modeling the shape of the scene: A holistic representation of the spatial envelope,” International Journal of Computer Vision, vol. 42, no. 3, pp. 145–175, 2001.

@@ -1,0 +1,57 @@
+[0] James P. Canning, Emma E. Ingram, Sammantha Nowak-Wolff, Adriana M. Ortiz, Nesreen K. Ahmed, Ryan A. Rossi, Karl R. B. Schmitt, Sucheta Soundarajan, Predicting Graph Categories from Structural Properties
+[1] B. Abrahao, S. Soundarajan, J. Hopcroft, and R. Kleinberg. On the separability of structural classes of communities. In Proceedings of the 18th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pages 624–632. ACM, 2012.
+[2] N. K. Ahmed, J. Neville, R. A. Rossi, and N. Duffield. Efficient graphlet counting for large networks. In International Conference on Data Mining, pages 1–10. IEEE, 2015.
+[3] N. K. Ahmed, J. Neville, R. A. Rossi, N. Duffield, and T. L. Willke. Graphlet decomposition: Framework, algorithms, and applications. Knowledge and Information Systems (KAIS), pages 1–32, 2016.
+[4] N. K. Ahmed and R. A. Rossi. Interactive visual graph analytics on the web. In International AAAI Conference on Web and Social Media (ICWSM), pages 566–569, 2015.
+[5] N. K. Ahmed, R. A. Rossi, R. Zhou, J. B. Lee, X. Kong, T. L. Willke, and H. Eldardiry. Representation learning in large attributed graphs. In WiML NIPS, 2017.
+[6] R. Albert and A.-L. Barabási. Statistical mechanics of complex networks. Rev. Mod. Phys, 74:47, 2002.
+[7] W. Ali, A. E. Wegner, R. E. Gaunt, C. M. Deane, and G. Reinert. Comparison of large networks with sub-sampling strategies. Scientific reports, 6:28955, 2016.
+[8] M. Aly. Survey on multiclass classification methods. Neural Networks, 19:1–9, 2005.
+[9] C. M. Bishop. Pattern recognition and machine learning. Springer, 2006.
+[10] S. Bonner, J. Brennan, I. Kureshi, G. Theodoropoulos, and A. McGough. Efficient comparison of massive graphs through the use of graph fingerprints. In KDD MLG Workshop, 2016.
+[11] S. Bonner, J. Brennan, G. Theodoropoulos, I. Kureshi, and A. S. McGough. Deep topology classification: A new approach for massive graph classification. In International Conference on BigData, pages 3290–3297. IEEE, 2016.
+[12] S. Bonner, J. Brennan, G. Theodoropoulos, I. Kureshi, and A. S. McGough. GFP-X: A parallel approach to massive graph comparison using spark. In International Conference on Big Data, pages 3298–3307. IEEE, 2016.
+[13] L. Breiman. Random forests. Machine Learning, 45(1):5–32, 2001.
+[14] J. P. Canning, E. E. Ingram, S. Nowak-Wolff, A. M. Ortiz, N. K. Ahmed, R. A. Rossi, K. R. B. Schmitt, and S. Soundarajan. Network classification and categorization. In arXiv:1709.04481, September 2017.
+[15] F. Chung and L. Lu. Connected components in random graphs with given expected degree sequences. Annals of combinatorics, 6(2):125–145, 2002.
+[16] C. Cortes and V. Vapnik. Support-vector networks. Machine Learning, 20(3):273– 297, 1995.
+[17] D. K. Duvenaud, D. Maclaurin, J. Iparraguirre, R. Bombarell, T. Hirzel, A. AspuruGuzik, and R. P. Adams. Convolutional networks on graphs for learning molecular fingerprints. In Advances in Neural Information Processing Systems, pages 2224– 2232, 2015.
+[18] P. Erdős and A. Rényi. On the evolution of random graphs. Publ. Math. Inst. Hungar. Acad. Sci, 5:17–61, 1960.
+[19] J. Friedman, T. Hastie, and R. Tibshirani. The elements of statistical learning, volume 1. Springer series in statistics New York, 2001.
+[20] T. Gärtner. A survey of kernels for structured data. SIGKDD Explorations, 5(1):49– 58, 2003.
+[21] T. Gärtner, P. Flach, and S. Wrobel. On graph kernels: Hardness results and efficient alternatives. Learning Theory and Kernel Machines, pages 129–143, 2003.
+[22] T. E. Goldsmith and D. M. Davenport. Assessing structural similarity of graphs. 1990.
+[23] Graph500. http://graph500.org/?page_id=12.
+[24] T. Guo and X. Zhu. Understanding the roles of sub-graph features for graph classification: an empirical study perspective. In CIKM, pages 817–822. ACM, 2013.
+[25] K. Ikehara. The Structure of Complex Networks across Domains. PhD thesis, University of Colorado at Boulder, 2016.
+[26] A. M. Khan, D. F. Gleich, A. Pothen, and M. Halappanavar. A multithreaded algorithm for network alignment via approximate matching. In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, page 64. IEEE Computer Society Press, 2012.
+[27] G. Kollias, M. Sathe, O. Schenk, and A. Grama. Fast parallel algorithms for graph similarity and matching. Journal of Parallel and Distributed Computing, 74(5):2400–2410, 2014.
+[28] D. Koutra, H. Tong, and D. Lubensky. Big-align: Fast bipartite graph alignment. In International Conference on Data Mining, pages 389–398. IEEE, 2013.
+[29] N. Kriege and P. Mutzel. Subgraph matching kernels for attributed graphs. arXiv preprint arXiv:1206.6483, 2012.
+[30] J. B. Lee, R. Rossi, and X. Kong. Deep graph attention model. In arXiv:1709.06075, 2017.
+[31] J. Leskovec, D. Chakrabarti, J. Kleinberg, C. Faloutsos, and Z. Ghahramani. Kronecker graphs: An approach to modeling networks. JMLR, 11(Feb):985–1042, 2010.
+[32] G. Li, M. Semerci, B. Yener, and M. J. Zaki. Effective graph classification based on topological and label attributes. Statistical Analysis and Data Mining: The ASA Data Science Journal, 5(4):265–283, 2012.
+[33] P. Mahé, N. Ueda, T. Akutsu, J.-L. Perret, and J.-P. Vert. Extensions of marginalized graph kernels. In Proceedings of the Twenty-First International Conference on Machine Learning, page 70. ACM, 2004.
+[34] N. Malod-Dognin and N. Pržulj. L-graal: Lagrangian graphlet-based network aligner. Bioinformatics, 31(13):2182–2189, 2015.
+[35] T. Milenković, W. L. Ng, W. Hayes, and N. Pržulj. Optimal network alignment with graphlet degree vectors. Cancer informatics, 9:121, 2010.
+[36] R. Milo, S. Shen-Orr, S. Itzkovitz, N. Kashtan, D. Chklovskii, and U. Alon. Network motifs: simple building blocks of complex networks. Science, 298(5594):824–827, 2002.
+[37] M. Newman. Networks: an introduction. Oxford university press, 2010.
+[38] M. E. Newman. Assortative mixing in networks. Physical review letters, 89(20):208701, 2002.
+[39] M. E. Newman, S. H. Strogatz, and D. J. Watts. Random graphs with arbitrary degree distributions and their applications. Physical review E, 64(2):026118, 2001.
+[40] J.-P. Onnela, D. J. Fenn, S. Reid, M. A. Porter, P. J. Mucha, M. D. Fricker, and N. S. Jones. Taxonomies of networks from community structure. Physical Review E, 86(3):036104, 2012.
+[41] L. Ralaivola, S. J. Swamidass, H. Saigo, and P. Baldi. Graph kernels for chemical informatics. Neural networks, 18(8):1093–1110, 2005.
+[42] J. W. Raymond, E. J. Gardiner, and P. Willett. Rascal: Calculation of graph similarity using maximum common edge subgraphs. The Computer Journal, 45(6):631–644, 2002.
+[43] R. A. Rossi and N. K. Ahmed. The network data repository with interactive graph analytics and visualization. In Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence, 2015.
+[44] R. A. Rossi and N. K. Ahmed. Role discovery in networks. IEEE Transactions on Knowledge and Data Engineering, 27(4):1112–1131, 2015.
+[45] R. A. Rossi, D. F. Gleich, and A. H. Gebremedhin. Parallel maximum clique algorithms with applications to network analysis. Journal on Scientific Computing (SISC), 37(5):28, 2015.
+[46] R. A. Rossi, D. F. Gleich, A. H. Gebremedhin, and M. M. A. Patwary. Fast maximum clique algorithms for large graphs. In Proceedings of the 23rd International Conference on World Wide Web, pages 365–366. ACM, 2014.
+[47] R. A. Rossi, R. Zhou, and N. K. Ahmed. Deep feature learning for graphs. In arXiv:1704.08829, pages 1–11, 2017.
+[48] N. Shervashidze, P. Schweitzer, E. J. v. Leeuwen, K. Mehlhorn, and K. M. Borgwardt. Weisfeiler-lehman graph kernels. Journal of Machine Learning Research, 12(Sep):2539–2561, 2011.
+[49] N. Shervashidze, S. Vishwanathan, T. Petri, K. Mehlhorn, and K. Borgwardt. Efficient graphlet kernels for large graph comparison. In Artificial Intelligence and Statistics, pages 488–495, 2009.
+[50] S. Soundarajan, T. Eliassi-Rad, and B. Gallagher. A guide to selecting a network similarity method. In SIAM International Conference on Data Mining, pages 1037–1045. SIAM, 2014.
+[51] J. Ugander, L. Backstrom, and J. Kleinberg. Subgraph frequencies: Mapping the empirical and extremal geography of large graph collections. In Proceedings of the 22nd international conference on World Wide Web, pages 1307–1318. ACM, 2013.
+[52] M. van Steen. Graph Theory and Complex Networks. Maarten van Steen, first edition, apr 2010.
+[53] V. Vapnik. The nature of statistical learning theory. Springer science & business media, 2013.
+[54] S. Vishwanathan, N. Schraudolph, R. Kondor, and K. Borgwardt. Graph kernels. JMLR, 11:1201–1242, 2010.
+[55] D. Watts and S. Strogatz. Collective dynamics of small-world networks. Nature, 393(6684):440–442, 1998.
+[56] L. A. Zager and G. C. Verghese. Graph similarity scoring and matching. Applied mathematics letters, 21(1):86–94, 2008.

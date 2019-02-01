@@ -1,0 +1,40 @@
+[0] Weiguo Zheng, Lei Zou, Xiang Lian, Dong Wang, Dongyan Zhao, Efficient Graph Similarity Search Over Large Graph Databases
+[1] D. Bonchev, D. H. Rouvray, Chemical Graph Theory: Introduction and Fundamentals, New York, NY, USA:Abacus Press, 1991.
+[2] D. J. Watts, P. S. Dodds, M. E. J. Newman, "Identity and search in social networks", Science, vol. 296, no. 5571, pp. 1302-1305, 2002.
+[3] J. E. Beasley, N. Christofides, "Theory and methodology: Vehicle routing with a sparse feasibility graph", Eur. J. Oper. Res., vol. 98, no. 3, pp. 499-511, 1997.
+[4] L. Zou, J. Mo, L. Chen, M. T. Özsu, D. Zhao, "gStore: Answering SPARQL queries via subgraph matching", Proc. VLDB Endowment, vol. 4, no. 8, pp. 482-493, 2011.
+[5] E. P. F. Chan, H. Lim, "Optimization and evaluation of shortest path queries", VLDB J., vol. 16, no. 3, pp. 343-369, 2007.
+[6] J. Cheng, J. X. Yu, "On-line exact shortest distance query processing", Proc. 12th Int. Conf. Extending Database Technol.: Adv. Database Technol., pp. 481-492, 2009.
+[7] E. Cohen, E. Halperin, H. Kaplan, U. Zwick, "Reachability and distance queries via 2-hop labels", SIAM J. Comput., vol. 32, no. 5, pp. 1338-1355, 2003.
+[8] H. Wang, H. He, J. Yang, P. S. Yu, J. X. Yu, "Dual labeling: Answering graph reachability queries in constant time", Proc. 22nd Int. Conf. Data Eng., pp. 1–12, 2006.
+[9] Y. Chen, Y. Chen, "An efficient algorithm for answering graph reachability queries", Proc. IEEE 24th Int. Conf. Data Eng., pp. 893-902, 2008.
+[10] J. R. Ullmann, "An algorithm for subgraph isomorphism", J. ACM, vol. 23, no. 1, pp. 31-42, 1976.
+[11] L. P. Cordella, P. Foggia, C. Sansone, M. Vento, "A (sub)graph isomorphism algorithm for matching large graphs", IEEE Trans. Pattern Anal. Mach. Intell., vol. 26, no. 10, pp. 1367-1372, Oct. 2004.
+[12] X. Yan, P. S. Yu, J. Han, "Graph indexing: A frequent structure-based approach", Proc. ACM SIGMOD Int. Conf. Manage. Data., pp. 335-346, 2004.
+[13] N. Przulj, "Geometric local structure in biological networks", Proc. IEEE Inf. Theory Workshop, pp. 131-140, 2007.
+[14] H. Bunke, K. Shearer, "A graph distance metric based on the maximal common subgraph", Pattern Recognit. Lett., vol. 19, no. 3–4, pp. 255-259, 1998.
+[15] Y. Tian, R. C. McEachin, C. Santos, D. J. States, J. M. Patel, "Saga: A subgraph matching tool for biological graphs", Bioinformatics, vol. 23, no. 2, pp. 232-239, 2007.
+[16] Y. Tian, J. M. Patel, "Tale: A tool for approximate large graph matching", Proc. IEEE 24th Int. Conf. Data Eng., pp. 963-972, 2008.
+[17] Z. Zeng, A. K. H. Tung, J. Wang, J. Feng, L. Zhou, "Comparing stars: On approximating graph edit distance", Proc. VLDB Endowment, vol. 2, no. 1, pp. 25-36, 2009.
+[18] A. Khan, N. Li, X. Yan, Z. Guan, S. Chakraborty, S. Tao, "Neighborhood based fast graph search in large networks", Proc. ACM SIGMOD Int. Conf. Manage. Data, pp. 901-912, 2011.
+[19] S. Zhang, J. Yang, W. Jin, "Sapper: Subgraph indexing and approximate matching in large graphs", Proc. VLDB Endowment, vol. 3, no. 1, pp. 1185-1194, 2010.
+[20] H. Bunke, "On a relation between graph edit distance and maximum common subgraph", Pattern Recognit. Lett., vol. 18, no. 8, pp. 689-694, 1997.
+[21] R. Ambauen, S. Fischer, H. Bunke, "Graph edit distance with node splitting and merging and its application to diatom idenfication", Proc. 4th IAPR int. Conf. Graph Based Representations Pattern Recognit., pp. 95-106, 2003.
+[22] A. Robles-Kelly, E. R. Hancock, "Graph edit distance from spectral seriation", IEEE Trans. Pattern Anal. Mach. Intell., vol. 27, no. 3, pp. 365-378, Mar. 2005.
+[23] D. Conte, P. Foggia, C. Sansone, M. Vento, "Thirty years of graph matching in pattern recognition", Int. J. Pattern Recognit. Artif. Intell., vol. 18, no. 3, pp. 265-298, 2004.
+[24] R. M. Marin, N. F. Aguirre, E. E. Daza, "Graph theoretical similarity approach to compare molecular electrostatic potentials", J. Chem. Inf. Model., vol. 48, pp. 933-944, 2008.
+[25] S. EE, F. SH, "A network view of disease and compound screening", Nat. Rev. Drug Discovery, vol. 8, no. 4, pp. 286-295, 2009.
+[26] G. K. Sims, L. E. Sommers, "Degradation of pyridine derivatives in soil", J. Environ. Q., vol. 14, no. 4, pp. 580-584, 1985.
+[27] X. Zhao, C. Xiao, X. Lin, W. Wang, "Efficient graph similarity joins with edit distance constraints", Proc.IEEE 28th Int. Conf. Data Eng., pp. 834-845, 2012.
+[28] R. J. Bayardo, Y. Ma, R. Srikant, "Scaling up all pairs similarity search", Proc. 16th Int. Conf. World Wide Web, pp. 131-140, 2007.
+[29] C. Xiao, W. Wang, X. Lin, "Ed-join: An efficient algorithm for similarity joins with edit distance constraints", Proc. VLDB Endowment, vol. 1, no. 1, pp. 933-944, 2008.
+[30] J. Feng, J. Wang, G. Li, "Trie-join: A trie-based method for efficient string similarity joins", VLDB J., vol. 21, no. 4, pp. 437-461, 2012.
+[31] G. Wang, B. Wang, X. Yang, G. Yu, "Efficiently indexing large sparse graphs for similarity search", IEEE Trans. Knowl. Data Eng., vol. 24, no. 3, pp. 440-451, Mar. 2012.
+[32] H. Shang, Y. Zhang, X. Lin, J. X. Yu, "Taming verification hardness: An efficient algorithm for testing subgraph isomorphism", Proc. VLDB Endowment, vol. 1, no. 1, pp. 364-375, 2008.
+[33] T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein, Introduction to Algorithms, Cambridge, MA, USA:MIT Press, 2009.
+[34] H. W. Kuhn, "The hungarian method for the assignment problem", Naval Res. Logistics, vol. 2, pp. 83-97, 1955.
+[35] K. Riesen, S. Fankhauser, H. Bunke, "Speeding up graph edit distance computation with a bipartite heuristic", Proc. Mining Learn. Graphs, 2007.
+[36] X. Zhao, C. Xiao, X. Lin, Q. Liu, W. Zhang, "A partition-based approach to structure similarity search", Proc. VLDB Endowment, vol. 7, no. 3, pp. 169-180, 2013.
+[37] X. Wang, X. Ding, A. K. H. Tung, S. Ying, H. Jin, "An efficient graph indexing method", Proc. IEEE 28th Int. Conf. Data Eng., pp. 210-221, 2012.
+[38] P. Zhao, J. X. Yu, P. S. Yu, " Graph indexing: Tree + delta >= graph. ", Proc. 33rd Int. Conf. Very Large Data Bases, pp. 938-949, 2007.
+[39] R. D. Natale, A. Ferro, R. Giugno, M. Mongiovì, A. Pulvirenti, D. Shasha, "Sing: Subgraph search in non-homogeneous graphs", BMC Bioinformat., vol. 11, pp. 96, 2010.

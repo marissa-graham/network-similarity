@@ -1,0 +1,24 @@
+[0] Debasmit Das, C. S. George Lee, Unsupervised Domain Adaptation Using Regularized Hyper-Graph Matching
+[1] Antonio Torralba and Alexei A Efros, “Unbiased look at dataset bias,” in IEEE CVPR, 2011, pp. 1521–1528.
+[2] Bianca Zadrozny, “Learning and evaluating classifiers under sample selection bias,” in ICML, 2004, p. 114.
+[3] Takafumi Kanamori, Shohei Hido, and Masashi Sugiyama, “Efficient direct density ratio estimation for non-stationarity adaptation and outlier detection,” in NIPS, 2009, pp. 809–816.
+[4] Masashi Sugiyama, Shinichi Nakajima, Hisashi Kashima, Paul V Buenau, and Motoaki Kawanabe, “Direct importance estimation with model selection and its application to covariate shift adaptation,” in NIPS, 2008, pp. 1433–1440.
+[5] Jiayuan Huang, Alexander J Smola, Arthur Gretton, Karsten M Borgwardt, and Bernhard Scholkopf, “Correcting sample se- ¨ lection bias by unlabeled data,” in NIPS, 2007, p. 601.
+[6] Raghuraman Gopalan, Ruonan Li, and Rama Chellappa, “Unsupervised adaptation across domain shifts by generating intermediate data representations,” IEEE TPAMI, vol. 36, no. 11, pp. 2288–2302, 2014.
+[7] Raghuraman Gopalan, Ruonan Li, and Rama Chellappa, “Domain adaptation for object recognition: An unsupervised approach,” in IEEE ICCV, 2011, pp. 999–1006.
+[8] Boqing Gong, Yuan Shi, Fei Sha, and Kristen Grauman, “Geodesic flow kernel for unsupervised domain adaptation,” in IEEE CVPR, 2012, pp. 2066–2073.
+[9] Boqing Gong, Kristen Grauman, and Fei Sha, “Connecting the dots with landmarks: Discriminatively learning domaininvariant features for unsupervised domain adaptation.,” in ICML, 2013, pp. 222–230.
+[10] Basura Fernando, Amaury Habrard, Marc Sebban, and Tinne Tuytelaars, “Unsupervised visual domain adaptation using subspace alignment,” in IEEE ICCV, 2013, pp. 2960–2967.
+[11] Baochen Sun, Jiashi Feng, and Kate Saenko, “Return of frustratingly easy domain adaptation,” in AAAI, 2016.
+[12] Sinno Jialin Pan, Ivor W Tsang, James T Kwok, and Qiang Yang, “Domain adaptation via transfer component analysis,” IEEE Trans. Neural Networks, vol. 22, no. 2, pp. 199–210, 2011.
+[13] Nicolas Courty, Remi Flamary, Devis Tuia, and Alain Rako- ´ tomamonjy, “Optimal transport for domain adaptation,” IEEE TPAMI, vol. 39, no. 9, pp. 1853–1865, 2017.
+[14] Olivier Duchenne, Francis Bach, In-So Kweon, and Jean Ponce, “A tensor-based algorithm for high-order graph matching,” IEEE TPAMI, vol. 33, no. 12, pp. 2383–2395, 2011.
+[15] Delbert Dueck and Brendan J Frey, “Non-metric affinity propagation for unsupervised image categorization,” in IEEE ICCV, 2007, pp. 1–8.
+[16] Jerome Friedman, Trevor Hastie, and Robert Tibshirani, “A note on the group lasso and a sparse group lasso,” arXiv preprint arXiv:1001.0736, 2010.
+[17] Marguerite Frank and Philip Wolfe, “An algorithm for quadratic programming,” Naval Research Logistics (NRL), vol. 3, no. 1-2, pp. 95–110, 1956.
+[18] Martin Jaggi, “Revisiting frank-wolfe: Projection-free sparse convex optimization.,” in ICML, 2013, pp. 427–435.
+[19] Stephen Boyd et al., “Distributed optimization and statistical learning via the alternating direction method of multipliers,” Foundations and Trends R in Machine Learning, vol. 3, no. 1, pp. 1–122, 2011.
+[20] Kate Saenko, Brian Kulis, Mario Fritz, and Trevor Darrell, “Adapting visual category models to new domains,” in ECCV, 2010, pp. 213–226.
+[21] G. Griffin, A. Holub, and P. Perona, “Caltech-256 object category dataset,” Tech. Rep. 7694, California Institute of Technology, 2007.
+[22] Herbert Bay, Tinne Tuytelaars, and Luc Van Gool, “Surf: Speeded up robust features,” in ECCV, 2006, pp. 404–417.
+[23] Mingsheng Long, Jianmin Wang, Guiguang Ding, Jiaguang Sun, and Philip S Yu, “Transfer feature learning with joint distribution adaptation,” in IEEE ICCV, 2013, pp. 2200–2207.

@@ -1,0 +1,34 @@
+[0] Yousang Jo, Sanghyeon Kim, Doheon Lee, Identification of common coexpression modules based on quantitative network comparison
+[1] Lovén J, Orlando DA, Sigova AA, Lin CY, Rahl PB, Burge CB, et al. Revisiting global gene expression analysis. Cell. 2012;151(3):476–82.
+[2] Saeys Y, Inza I, Larrañaga P. A review of feature selection techniques in bioinformatics. Bioinformatics. 2007;23(19):2507–17.
+[3] Quackenbush J. Computational analysis of microarray data. Nat Rev Genet. 2001;2(6):418–27.
+[4] Raser JM, O’Shea EK. Noise in gene expression: origins, consequences, and control. Science. 2005;309(5743):2010–3.
+[5] Ihmels J, Friedlander G, Bergmann S, Sarig O, Ziv Y, Barkai N. Revealing modular organization in the yeast transcriptional network. Nat Genet. 2002; 31(4):370–7.
+[6] Lee HK, Hsu AK, Sajdak J, Qin J, Pavlidis P. Coexpression analysis of human genes across many microarray data sets. Genome Res. 2004;14(6):1085–94.
+[7] Stuart JM, Segal E, Koller D, Kim SK. A Gene-Coexpression Network for Global Discovery of Conserved Genetic Modules. Science. 2003;302(5643):249–55.
+[8] Ficklin SP, Feltus FA. Gene coexpression network alignment and conservation of gene modules between two grass species: maize and rice. Plant Physiol. 2011;156(3):1244–56.
+[9] Torkamani A, Dean B, Schork NJ, Thomas EA. Coexpression network analysis of neural tissue reveals perturbations in developmental processes in schizophrenia. Genome Res. 2010;20(4):403–12.
+[10] He D, Liu Z-P, Honda M, Kaneko S, Chen L. Coexpression network analysis in chronic hepatitis B and C hepatic lesions reveals distinct patterns of disease progression to hepatocellular carcinoma. J Mol Cell Biol. 2012;4(3):140–52.
+[11] Emmert-Streib F, Dehmer M, Shi Y. Fifty years of graph matching, network alignment and network comparison. Inf Sci. 2016;346:180–97.
+[12] Faisal FE, Meng L, Crawford J, Milenković T. The post-genomic era of biological network alignment. EURASIP J Bioinforma Syst Biol. 2015;2015(1):3.
+[13] Walker FO. Huntington’s disease. Lancet. 2007;369(9557):218–28. 2
+[14] National Institute of Neurological Disorders and Stroke (NINDS). Huntington’s Disease Information Page [Internet]. 2016 Jan 28. Available from: https://www.ninds.nih.gov/Disorders/All-Disorders/HuntingtonsDisease-Information-Page (Accessed 29 Dec 2017).
+[15] Foroud T, Gray J, Ivashina J, Conneally PM. Differences in duration of Huntington’s disease based on age at onset. J Neurol Neurosurg Psychiatry. 1999;66(1):52–6.
+[16] Bäckman L, Farde L. Dopamine and cognitive functioning: brain imaging findings in Huntington’s disease and normal aging. Scand J Psychol. 2001; 42(3):287–96.
+[17] Levandowsky M, Winter D. Distance between Sets. Nature. 1971;234(5323):34.
+[18] Zwick R, Carlstein E, Budescu DV. Measures of similarity among fuzzy concepts: a comparative analysis. Int J Approx Reason. 1987;1(2):221–42.
+[19] The Gene Ontology Consortium. Gene ontology consortium: going forward. Nucleic Acids Res. 2015;43(D1):D1049–56.
+[20] Schlicker A, Domingues FS, Rahnenführer J, Lengauer T. A new measure for functional similarity of gene products based on gene ontology. BMC Bioinformatics. 2006;7:302.
+[21] Yu G, Li F, Qin Y, Bo X, Wu Y, Wang S. GOSemSim: an R package for measuring semantic similarity among GO terms and gene products. Bioinformatics. 2010;26(7):976–8.
+[22] Warde-Farley D, Donaldson SL, Comes O, Zuberi K, Badrawi R, Chao P, et al. The GeneMANIA prediction server: biological network integration for gene prioritization and predicting gene function. Nucleic Acids Res. 2010; 38(suppl_2):W214–20.
+[23] Yaveroğlu ÖN, Malod-Dognin N, Davis D, Levnajic Z, Janjic V, Karapandza R, et al. Revealing the hidden language of complex networks. Sci Rep. 2014;4:4547.
+[24] National Center for Biotechnology Information (NCBI). NCBI Sequence Read Archive (SRA) [Internet]. 2015 Sep 15. Available from: https://www.ncbi.nlm. nih.gov/sra (Accessed 30 Dec 2017).
+[25] Labadorf A, Hoss AG, Lagomarsino V, Latourelle JC, Hadzi TC, Bregu J, et al. RNA sequence analysis of human Huntington disease brain reveals an extensive increase in inflammatory and developmental gene expression. PLoS One. 2015;10(12):e0143563.
+[26] Kim S, Hwang Y, Lee D, Webster MJ. Transcriptome sequencing of the choroid plexus in schizophrenia. Transl Psychiatry. 2016;6(11):e964.
+[27] Leek JT, Storey JD. Capturing heterogeneity in gene expression studies by surrogate variable analysis. PLoS Genet. 2007;3(9):e161.
+[28] Soreq L, Rose J, Soreq E, Hardy J, Trabzuni D, Cookson MR, et al. Major shifts in glial regional identity are a transcriptional Hallmark of human brain aging. Cell Rep. 2017;18(2):557–70.
+[29] Langfelder P, Horvath S. WGCNA: an R package for weighted correlation network analysis. BMC Bioinformatics. 2008;9:559.
+[30] Zhang B, Horvath S. A general framework for weighted gene co-expression network analysis. Stat Appl Genet Mol Biol. 2005;4 Article17
+[31] Yoder PJ, Blackford JU, Waller NG, Kim G. Enhancing power while controlling family-wise error: an illustration of the issues using electrocortical studies. J Clin Exp Neuropsychol. 2004;26(3):320–31.
+[32] Lindsay J, Laurin D, Verreault R, Hébert R, Helliwell B, Hill GB, et al. Risk factors for Alzheimer’s disease: a prospective analysis from the Canadian study of health and aging. Am J Epidemiol. 2002;156(5):445–53.
+[33] Collier TJ, Kanaan NM, Kordower JH. Ageing as a primary risk factor for Parkinson’s disease: evidence from studies of non-human primates. Nat Rev Neurosci. 2011;12(6):359.

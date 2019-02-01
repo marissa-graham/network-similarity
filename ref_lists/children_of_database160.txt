@@ -1,0 +1,385 @@
+>>> NEW PAPER <<<
+>>> citation >>> S. Smith. A new class of corner finder. In Proc. 3rd British Machine Vision Conference pages 139--148, 1992.
+>>> DOI >>> 10.5244/c.6.15
+>>> URL >>> http://dx.doi.org/10.5244/c.6.15
+>>> year >>> 1992.0
+>>> title >>> A New Class of Corner Finder
+>>> author >>> S. Smith
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['Procedings of the British Machine Vision Conference 1992']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T13:20:55Z', 'timestamp': 1525699255143}, 'reference-count': 0, 'publisher': 'Springer-Verlag London Limited', 'isbn-type': [{'value': '354019777X', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1992]]}, 'DOI': '10.5244/c.6.15', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 2, 28]], 'date-time': '2013-02-28T21:31:17Z', 'timestamp': 1362087077000}, 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['A New Class of Corner Finder'], 'prefix': '10.5244', 'author': [{'given': 'S.', 'family': 'Smith', 'sequence': 'first', 'affiliation': []}], 'member': '3205', 'event': {'name': 'British Machine Vision Conference 1992', 'theme': 'Machine Vision, Image Processing & Pattern Recognition', 'location': 'Leeds', 'sponsor': ['British Machine Vision Association'], 'acronym': 'BMVC 1992', 'number': '1992'}, 'container-title': ['Procedings of the British Machine Vision Conference 1992'], 'deposited': {'date-parts': [[2013, 2, 28]], 'date-time': '2013-02-28T21:31:31Z', 'timestamp': 1362087091000}, 'score': 69.2928, 'issued': {'date-parts': [[1992]]}, 'ISBN': ['354019777X'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.5244/c.6.15', 'article-number': '15'}
+>>> hash >>> ('A New Class of Corner Finder', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. G. Barrow and R. Popplestone. Relational descriptions in picture processing. Machine Intelligence 6:377--396, 1971.
+>>> DOI >>> 10.1016/0004-3702(75)90006-5
+>>> URL >>> http://dx.doi.org/10.1016/0004-3702(75)90006-5
+>>> year >>> 1975.0
+>>> title >>> A versatile system for computer-controlled assembly
+>>> author >>> A.P. Ambler and H.G. Barrow and C.M. Brown and R.M. Burstall and R.J. Popplestone
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 74.0
+>>> subject >>> None
+>>> container_title >>> ['Artificial Intelligence']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T15:54:20Z', 'timestamp': 1525362860789}, 'reference-count': 18, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1975, 6, 1]], 'date-time': '1975-06-01T00:00:00Z', 'timestamp': 170812800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Artificial Intelligence'], 'published-print': {'date-parts': [[1975, 6]]}, 'DOI': '10.1016/0004-3702(75)90006-5', 'type': 'journal-article', 'created': {'date-parts': [[2003, 3, 14]], 'date-time': '2003-03-14T13:02:52Z', 'timestamp': 1047646972000}, 'page': '129-156', 'source': 'Crossref', 'is-referenced-by-count': 74, 'title': ['A versatile system for computer-controlled assembly'], 'prefix': '10.1016', 'volume': '6', 'author': [{'given': 'A.P.', 'family': 'Ambler', 'sequence': 'first', 'affiliation': []}, {'given': 'H.G.', 'family': 'Barrow', 'sequence': 'additional', 'affiliation': []}, {'given': 'C.M.', 'family': 'Brown', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.M.', 'family': 'Burstall', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.J.', 'family': 'Popplestone', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0004370275900065?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0004370275900065?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2018, 2, 6]], 'date-time': '2018-02-06T02:03:40Z', 'timestamp': 1517882620000}, 'score': 27.976597, 'issued': {'date-parts': [[1975, 6]]}, 'references-count': 18, 'journal-issue': {'published-print': {'date-parts': [[1975, 6]]}, 'issue': '2'}, 'alternative-id': ['0004370275900065'], 'URL': 'http://dx.doi.org/10.1016/0004-3702(75)90006-5', 'ISSN': ['0004-3702'], 'issn-type': [{'value': '0004-3702', 'type': 'print'}]}
+>>> hash >>> ('A versatile system for computer-controlled assembly', 1975.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Shi-Kuo Chang, Principles of pictorial information systems design, Prentice-Hall, Inc., Upper Saddle River, NJ, 1989
+>>> DOI >>> 10.1017/s0022143000001477
+>>> URL >>> http://dx.doi.org/10.1017/s0022143000001477
+>>> year >>> 1999.0
+>>> title >>> R. Leb. Hooke             1998. Principles of glacier mechanics. Upper Saddle River, NJ, Prentice Hall, vii + 248 pp. ISBN 0-13243-312-5, Hardback. £28.95.
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Glaciology']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T06:39:43Z', 'timestamp': 1524033583911}, 'reference-count': 0, 'publisher': 'Cambridge University Press (CUP)', 'issue': '151', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J. Glaciol.'], 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1017/s0022143000001477', 'type': 'journal-article', 'created': {'date-parts': [[2017, 2, 8]], 'date-time': '2017-02-08T04:56:22Z', 'timestamp': 1486529782000}, 'page': '587-588', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['R. Leb. Hooke \n            1998. Principles of glacier mechanics. Upper Saddle River, NJ, Prentice Hall, vii + 248 pp. ISBN 0-13243-312-5, Hardback. £28.95.'], 'prefix': '10.1017', 'volume': '45', 'member': '56', 'published-online': {'date-parts': [[2017, 1, 20]]}, 'container-title': ['Journal of Glaciology'], 'language': 'en', 'link': [{'URL': 'https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0022143000001477', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 4, 22]], 'date-time': '2017-04-22T17:57:55Z', 'timestamp': 1492883875000}, 'score': 47.932823, 'issued': {'date-parts': [[1999]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1999]]}, 'issue': '151'}, 'alternative-id': ['S0022143000001477'], 'URL': 'http://dx.doi.org/10.1017/s0022143000001477', 'ISSN': ['0022-1430', '1727-5652'], 'issn-type': [{'value': '0022-1430', 'type': 'print'}, {'value': '1727-5652', 'type': 'electronic'}]}
+>>> hash >>> ('R. Leb. Hooke             1998. Principles of glacier mechanics. Upper Saddle River, NJ, Prentice Hall, vii + 248 pp. ISBN 0-13243-312-5, Hardback. £28.95.', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D.-Q. Zhang and S.-F. Chang. Stochastic attributed relational graph matching for image near-duplicate detection. DVMM Techinical Report, Dept. of E. E., Columbia University July 2004.
+>>> DOI >>> 10.1145/1027527.1027730
+>>> URL >>> http://dx.doi.org/10.1145/1027527.1027730
+>>> year >>> 2004.0
+>>> title >>> Detecting image near-duplicate by stochastic attributed relational graph matching with learning
+>>> author >>> Dong-Qing Zhang and Shih-Fu Chang
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 77.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 12th annual ACM international conference on Multimedia  - MULTIMEDIA '04"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T13:26:11Z', 'timestamp': 1525440371821}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1581138938', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1145/1027527.1027730', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 1, 30]], 'date-time': '2005-01-30T17:55:16Z', 'timestamp': 1107107716000}, 'source': 'Crossref', 'is-referenced-by-count': 77, 'title': ['Detecting image near-duplicate by stochastic attributed relational graph matching with learning'], 'prefix': '10.1145', 'author': [{'given': 'Dong-Qing', 'family': 'Zhang', 'sequence': 'first', 'affiliation': []}, {'given': 'Shih-Fu', 'family': 'Chang', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 12th annual ACM international conference', 'location': 'New York, NY, USA', 'sponsor': ['SIGMULTIMEDIA, ACM Special Interest Group on Multimedia', 'ACM, Association for Computing Machinery'], 'acronym': "MULTIMEDIA '04", 'number': '12', 'start': {'date-parts': [[2004, 10, 10]]}, 'end': {'date-parts': [[2004, 10, 16]]}}, 'container-title': ["Proceedings of the 12th annual ACM international conference on Multimedia  - MULTIMEDIA '04"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1027730&amp;ftid=283419&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T11:36:29Z', 'timestamp': 1481888189000}, 'score': 68.51436, 'issued': {'date-parts': [[2004]]}, 'ISBN': ['1581138938'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1027527.1027730'}
+>>> hash >>> ('Detecting image near-duplicate by stochastic attributed relational graph matching with learning', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Alejandro Jaimes , Shih-Fu Chang, Conceptual structures and computational methods for indexing and organization of visual information, Columbia University, New York, NY, 2003
+>>> DOI >>> 10.1117/12.373443
+>>> URL >>> http://dx.doi.org/10.1117/12.373443
+>>> year >>> 1999.0
+>>> title >>> <title>Conceptual framework for indexing visual information at multiple levels</title>
+>>> author >>> Alejandro Jaimes and Shih-Fu Chang
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['Internet Imaging']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T23:52:12Z', 'timestamp': 1525391532682}, 'reference-count': 0, 'publisher': 'SPIE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1999, 12, 20]]}, 'DOI': '10.1117/12.373443', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 20]], 'date-time': '2003-11-20T16:35:23Z', 'timestamp': 1069346123000}, 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['<title>Conceptual framework for indexing visual information at multiple levels</title>'], 'prefix': '10.1117', 'author': [{'given': 'Alejandro', 'family': 'Jaimes', 'sequence': 'first', 'affiliation': []}, {'given': 'Shih-Fu', 'family': 'Chang', 'sequence': 'additional', 'affiliation': []}], 'member': '189', 'event': {'name': 'Electronic Imaging', 'location': 'San Jose, CA'}, 'container-title': ['Internet Imaging'], 'deposited': {'date-parts': [[2013, 3, 14]], 'date-time': '2013-03-14T00:55:20Z', 'timestamp': 1363222520000}, 'score': 45.089752, 'editor': [{'given': 'Giordano B.', 'family': 'Beretta', 'sequence': 'first', 'affiliation': []}, {'given': 'Raimondo', 'family': 'Schettini', 'sequence': 'additional', 'affiliation': []}], 'issued': {'date-parts': [[1999, 12, 20]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1117/12.373443'}
+>>> hash >>> ('<title>Conceptual framework for indexing visual information at multiple levels</title>', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. R. Smith , M. Naphade , A. Natsev, Multimedia semantic indexing using model vectors, Proceedings of the 2003 International Conference on Multimedia and Expo, p.445-448, July 06-09, 2003
+>>> DOI >>> 10.1109/icme.2003.1221649
+>>> URL >>> http://dx.doi.org/10.1109/icme.2003.1221649
+>>> year >>> 2003.0
+>>> title >>> Multimedia semantic indexing using model vectors
+>>> author >>> J.R. Smith and M. Naphade and A. Natsev
+>>> reference_count >>> 3.0
+>>> is_referenced_by_count >>> 66.0
+>>> subject >>> None
+>>> container_title >>> ["2003 International Conference on Multimedia and Expo. ICME '03. Proceedings (Cat. No.03TH8698)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T05:45:20Z', 'timestamp': 1525412720936}, 'reference-count': 3, 'publisher': 'IEEE', 'isbn-type': [{'value': '0780379659', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.1109/icme.2003.1221649', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 6, 22]], 'date-time': '2004-06-22T20:27:43Z', 'timestamp': 1087936063000}, 'source': 'Crossref', 'is-referenced-by-count': 66, 'title': ['Multimedia semantic indexing using model vectors'], 'prefix': '10.1109', 'author': [{'given': 'J.R.', 'family': 'Smith', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Naphade', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Natsev', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2003 International Conference on Multimedia and Expo. ICME '03. Proceedings (Cat. No.03TH8698)", 'location': 'Baltimore, MD, USA', 'start': {'date-parts': [[2003, 7, 9]]}, 'end': {'date-parts': [[2003, 7, 9]]}}, 'container-title': ["2003 International Conference on Multimedia and Expo. ICME '03. Proceedings (Cat. No.03TH8698)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8655/27437/01221649.pdf?arnumber=1221649', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 13]], 'date-time': '2017-03-13T18:21:17Z', 'timestamp': 1489429277000}, 'score': 112.799126, 'issued': {'date-parts': [[2003]]}, 'ISBN': ['0780379659'], 'references-count': 3, 'URL': 'http://dx.doi.org/10.1109/icme.2003.1221649'}
+>>> hash >>> ('Multimedia semantic indexing using model vectors', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Jojic, N. Petrovic, and T. Huang. Scene generative models for adaptive video fast forward. In International Conference on Image Processing (ICIP), Barcelona, Spain, 2003 IEEE, 2003.
+>>> DOI >>> 10.1109/icip.2003.1246756
+>>> URL >>> http://dx.doi.org/10.1109/icip.2003.1246756
+>>> year >>> None
+>>> title >>> Scene generative models for adaptive video fast forward
+>>> author >>> N. Jojic and N. Petrovic and T.S. Huang
+>>> reference_count >>> 5.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings 2003 International Conference on Image Processing (Cat. No.03CH37429)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T05:18:26Z', 'timestamp': 1525411106504}, 'reference-count': 5, 'publisher': 'IEEE', 'isbn-type': [{'value': '0780377508', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icip.2003.1246756', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 6, 3]], 'date-time': '2004-06-03T20:14:56Z', 'timestamp': 1086293696000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Scene generative models for adaptive video fast forward'], 'prefix': '10.1109', 'author': [{'given': 'N.', 'family': 'Jojic', 'sequence': 'first', 'affiliation': []}, {'given': 'N.', 'family': 'Petrovic', 'sequence': 'additional', 'affiliation': []}, {'given': 'T.S.', 'family': 'Huang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'International Conference on Image Processing', 'location': 'Barcelona, Spain', 'acronym': 'ICIP-03'}, 'container-title': ['Proceedings 2003 International Conference on Image Processing (Cat. No.03CH37429)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8824/27931/01246756.pdf?arnumber=1246756', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 13]], 'date-time': '2017-03-13T19:17:02Z', 'timestamp': 1489432622000}, 'score': 104.4823, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0780377508'], 'references-count': 5, 'URL': 'http://dx.doi.org/10.1109/icip.2003.1246756'}
+>>> hash >>> ('Scene generative models for adaptive video fast forward', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Fergus, P. Perona, and A. Zisserman. Object class recognition by unsupervised scale-invariant learning. In Proceedings of the IEEE Computer Vision and Pattern Recognition Conference pages 66--73. IEEE, 2003.
+>>> DOI >>> 10.1109/cvpr.2003.1211479
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2003.1211479
+>>> year >>> None
+>>> title >>> Object class recognition by unsupervised scale-invariant learning
+>>> author >>> R. Fergus and P. Perona and A. Zisserman
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 830.0
+>>> subject >>> None
+>>> container_title >>> ['2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2003. Proceedings.']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 16]], 'date-time': '2018-05-16T23:02:31Z', 'timestamp': 1526511751408}, 'reference-count': 19, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769519008', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2003.1211479', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 21]], 'date-time': '2003-11-21T01:19:26Z', 'timestamp': 1069377566000}, 'source': 'Crossref', 'is-referenced-by-count': 830, 'title': ['Object class recognition by unsupervised scale-invariant learning'], 'prefix': '10.1109', 'author': [{'given': 'R.', 'family': 'Fergus', 'sequence': 'first', 'affiliation': []}, {'given': 'P.', 'family': 'Perona', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Zisserman', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'CVPR 2003: Computer Vision and Pattern Recognition Conference', 'location': 'Madison, WI, USA', 'acronym': 'CVPR-03'}, 'container-title': ['2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2003. Proceedings.'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8603/27266/01211479.pdf?arnumber=1211479', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T02:27:04Z', 'timestamp': 1497580024000}, 'score': 129.70052, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769519008'], 'references-count': 19, 'URL': 'http://dx.doi.org/10.1109/cvpr.2003.1211479'}
+>>> hash >>> ('Object class recognition by unsupervised scale-invariant learning', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> John R. Smith , Chung-Sheng Li, Image classification and querying using composite region templates, Computer Vision and Image Understanding, v.75 n.1-2, p.165-174, July/Aug. 1999  [doi>10.1006/cviu.1999.0771]
+>>> DOI >>> 10.1006/cviu.1999.0771
+>>> URL >>> http://dx.doi.org/10.1006/cviu.1999.0771
+>>> year >>> 1999.0
+>>> title >>> Image Classification and Querying Using Composite Region Templates
+>>> author >>> John R. Smith and Chung-Sheng Li
+>>> reference_count >>> 31.0
+>>> is_referenced_by_count >>> 81.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision and Image Understanding']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T19:06:03Z', 'timestamp': 1525287963129}, 'reference-count': 31, 'publisher': 'Elsevier BV', 'issue': '1-2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1999, 7, 1]], 'date-time': '1999-07-01T00:00:00Z', 'timestamp': 930787200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Vision and Image Understanding'], 'published-print': {'date-parts': [[1999, 7]]}, 'DOI': '10.1006/cviu.1999.0771', 'type': 'journal-article', 'created': {'date-parts': [[2003, 2, 28]], 'date-time': '2003-02-28T13:55:54Z', 'timestamp': 1046440554000}, 'page': '165-174', 'source': 'Crossref', 'is-referenced-by-count': 81, 'title': ['Image Classification and Querying Using Composite Region Templates'], 'prefix': '10.1006', 'volume': '75', 'author': [{'given': 'John R.', 'family': 'Smith', 'sequence': 'first', 'affiliation': []}, {'given': 'Chung-Sheng', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Computer Vision and Image Understanding'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1077314299907713?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1077314299907713?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 8, 12]], 'date-time': '2017-08-12T16:18:45Z', 'timestamp': 1502554725000}, 'score': 107.773834, 'issued': {'date-parts': [[1999, 7]]}, 'references-count': 31, 'journal-issue': {'published-print': {'date-parts': [[1999, 7]]}, 'issue': '1-2'}, 'alternative-id': ['S1077314299907713'], 'URL': 'http://dx.doi.org/10.1006/cviu.1999.0771', 'ISSN': ['1077-3142'], 'issn-type': [{'value': '1077-3142', 'type': 'print'}]}
+>>> hash >>> ('Image Classification and Querying Using Composite Region Templates', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Hampapur. Comparison of distance measures for video copy detection. In Proceedings of ICME 2001 pages 188--192. IEEE, August 2001.
+>>> DOI >>> 10.1109/icme.2001.1237827
+>>> URL >>> http://dx.doi.org/10.1109/icme.2001.1237827
+>>> year >>> 2001.0
+>>> title >>> Comparison of distance measures for video copy detection
+>>> author >>> A. Hampapur and R.M. Bolle
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 41.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE International Conference on Multimedia and Expo, 2001. ICME 2001.']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T22:07:25Z', 'timestamp': 1525471645173}, 'reference-count': 15, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769511988', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.1109/icme.2001.1237827', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 8, 25]], 'date-time': '2005-08-25T08:25:34Z', 'timestamp': 1124958334000}, 'source': 'Crossref', 'is-referenced-by-count': 41, 'title': ['Comparison of distance measures for video copy detection'], 'prefix': '10.1109', 'author': [{'given': 'A.', 'family': 'Hampapur', 'sequence': 'first', 'affiliation': []}, {'given': 'R.M.', 'family': 'Bolle', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'IEEE International Conference on Multimedia and Expo, 2001. ICME 2001', 'location': 'Tokyo, Japan', 'start': {'date-parts': [[2001, 8, 22]]}, 'end': {'date-parts': [[2001, 8, 25]]}}, 'container-title': ['IEEE International Conference on Multimedia and Expo, 2001. ICME 2001.'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8766/27769/01237827.pdf?arnumber=1237827', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T22:56:03Z', 'timestamp': 1497653763000}, 'score': 82.930405, 'issued': {'date-parts': [[2001]]}, 'ISBN': ['0769511988'], 'references-count': 15, 'URL': 'http://dx.doi.org/10.1109/icme.2001.1237827'}
+>>> hash >>> ('Comparison of distance measures for video copy detection', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Jianbo Shi , Jitendra Malik, Self Inducing Relational Distance and Its Application to Image Segmentation, Proceedings of the 5th European Conference on Computer Vision-Volume I, p.528-543, June 02-06, 1998
+>>> DOI >>> 10.1007/bfb0055688
+>>> URL >>> http://dx.doi.org/10.1007/bfb0055688
+>>> year >>> 1998.0
+>>> title >>> Self inducing relational distance and its application to image segmentation
+>>> author >>> Jianbo Shi and Jitendra Malik
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ["Computer Vision — ECCV'98", 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T02:03:59Z', 'timestamp': 1525313039668}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540645696', 'type': 'print'}, {'value': '9783540693543', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1998]]}, 'DOI': '10.1007/bfb0055688', 'type': 'book-chapter', 'created': {'date-parts': [[2006, 7, 27]], 'date-time': '2006-07-27T21:07:35Z', 'timestamp': 1154034455000}, 'page': '528-543', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Self inducing relational distance and its application to image segmentation'], 'prefix': '10.1007', 'author': [{'given': 'Jianbo', 'family': 'Shi', 'sequence': 'first', 'affiliation': []}, {'given': 'Jitendra', 'family': 'Malik', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2006, 5, 28]]}, 'container-title': ["Computer Vision — ECCV'98", 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/BFb0055688', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 26]], 'date-time': '2014-08-26T21:28:50Z', 'timestamp': 1409088530000}, 'score': 87.083115, 'issued': {'date-parts': [[1998]]}, 'ISBN': ['9783540645696', '9783540693543'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/bfb0055688', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Self inducing relational distance and its application to image segmentation', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Richard C. Wilson , Edwin R. Hancock, Structural Matching by Discrete Relaxation, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.19 n.6, p.634-648, June 1997  [doi>10.1109/34.601251]
+>>> DOI >>> 10.1109/34.601251
+>>> URL >>> http://dx.doi.org/10.1109/34.601251
+>>> year >>> 1997.0
+>>> title >>> Structural matching by discrete relaxation
+>>> author >>> R.C. Wilson and E.R. Hancock
+>>> reference_count >>> 35.0
+>>> is_referenced_by_count >>> 158.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:52Z', 'timestamp': 1525333552551}, 'reference-count': 35, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1997, 6]]}, 'DOI': '10.1109/34.601251', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T17:57:42Z', 'timestamp': 1030211862000}, 'page': '634-648', 'source': 'Crossref', 'is-referenced-by-count': 158, 'title': ['Structural matching by discrete relaxation'], 'prefix': '10.1109', 'volume': '19', 'author': [{'given': 'R.C.', 'family': 'Wilson', 'sequence': 'first', 'affiliation': []}, {'given': 'E.R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/13258/00601251.pdf?arnumber=601251', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:29:00Z', 'timestamp': 1497522540000}, 'score': 91.52599, 'issued': {'date-parts': [[1997, 6]]}, 'references-count': 35, 'journal-issue': {'issue': '6'}, 'URL': 'http://dx.doi.org/10.1109/34.601251', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Structural matching by discrete relaxation', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Allan, J. Carbonell, G. Doddington, J. Yamron, and Y. Yang. Topic detection and tracking pilot study: Final report. In Proceedings of the DARPA Broadcast News Transcription and Understanding Workshop, 1998. 1998.
+>>> DOI >>> 10.1007/978-1-4615-0933-2_2
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4615-0933-2_2
+>>> year >>> 2002.0
+>>> title >>> Topic Detection and Tracking Evaluation Overview
+>>> author >>> Jonathan G. Fiscus and George R. Doddington
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 29.0
+>>> subject >>> None
+>>> container_title >>> ['Topic Detection and Tracking', 'The Information Retrieval Series']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T15:05:34Z', 'timestamp': 1525532734932}, 'publisher-location': 'Boston, MA', 'reference-count': 0, 'publisher': 'Springer US', 'isbn-type': [{'value': '9781461353119', 'type': 'print'}, {'value': '9781461509332', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.1007/978-1-4615-0933-2_2', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 7, 28]], 'date-time': '2012-07-28T23:16:06Z', 'timestamp': 1343517366000}, 'page': '17-31', 'source': 'Crossref', 'is-referenced-by-count': 29, 'title': ['Topic Detection and Tracking Evaluation Overview'], 'prefix': '10.1007', 'author': [{'given': 'Jonathan G.', 'family': 'Fiscus', 'sequence': 'first', 'affiliation': []}, {'given': 'George R.', 'family': 'Doddington', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Topic Detection and Tracking', 'The Information Retrieval Series'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-1-4615-0933-2_2', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 9]], 'date-time': '2014-01-09T15:57:57Z', 'timestamp': 1389283077000}, 'score': 43.113724, 'issued': {'date-parts': [[2002]]}, 'ISBN': ['9781461353119', '9781461509332'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4615-0933-2_2', 'ISSN': ['1387-5264'], 'issn-type': [{'value': '1387-5264', 'type': 'print'}]}
+>>> hash >>> ('Topic Detection and Tracking Evaluation Overview', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C.-Y. Lin, B.L. Tseng, M. Naphade, A. Natsev, and J. R. Smith. Videoal: A novel end-to-end mpeg-7 automatic labeling system. In IEEE Intl. Conf. on Image Processing (ICIP) IEEE, September 2003.
+>>> DOI >>> 10.1109/icip.2003.1247179
+>>> URL >>> http://dx.doi.org/10.1109/icip.2003.1247179
+>>> year >>> None
+>>> title >>> VideoAL: a novel end-to-end MPEG-7 video automatic labeling system
+>>> author >>> None
+>>> reference_count >>> 7.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings 2003 International Conference on Image Processing (Cat. No.03CH37429)']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T05:18:29Z', 'timestamp': 1525411109517}, 'reference-count': 7, 'publisher': 'IEEE', 'isbn-type': [{'value': '0780377508', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icip.2003.1247179', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 6, 3]], 'date-time': '2004-06-03T20:14:56Z', 'timestamp': 1086293696000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['VideoAL: a novel end-to-end MPEG-7 video automatic labeling system'], 'prefix': '10.1109', 'author': [{'family': 'Ching-Yung Lin', 'sequence': 'first', 'affiliation': []}, {'given': 'B.L.', 'family': 'Tseng', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Naphade', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Natsev', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.R.', 'family': 'Smith', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'International Conference on Image Processing', 'location': 'Barcelona, Spain', 'acronym': 'ICIP-03'}, 'container-title': ['Proceedings 2003 International Conference on Image Processing (Cat. No.03CH37429)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8824/27938/01247179.pdf?arnumber=1247179', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 13]], 'date-time': '2017-03-13T19:41:42Z', 'timestamp': 1489434102000}, 'score': 116.03523, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0780377508'], 'references-count': 7, 'URL': 'http://dx.doi.org/10.1109/icip.2003.1247179'}
+>>> hash >>> ('VideoAL: a novel end-to-end MPEG-7 video automatic labeling system', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. Chang, J. Wang, C. Li, and G. Wiederhold. Rime: A replicated image detector for the world wide web. In Proceedings of SPIE Mulimedia Storage and Archiving Systems III IEEE, Nov. 1998.
+>>> DOI >>> 10.1117/12.325852
+>>> URL >>> http://dx.doi.org/10.1117/12.325852
+>>> year >>> 1998.0
+>>> title >>> <title>RIME: a replicated image detector for the World Wide Web</title>
+>>> author >>> Edward Y. Chang and James Z. Wang and Chen Li and Gio Wiederhold
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 19.0
+>>> subject >>> None
+>>> container_title >>> ['Multimedia Storage and Archiving Systems III']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T23:59:03Z', 'timestamp': 1525391943110}, 'reference-count': 0, 'publisher': 'SPIE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1998, 10, 5]]}, 'DOI': '10.1117/12.325852', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 21]], 'date-time': '2003-11-21T14:36:12Z', 'timestamp': 1069425372000}, 'source': 'Crossref', 'is-referenced-by-count': 19, 'title': ['<title>RIME: a replicated image detector for the World Wide Web</title>'], 'prefix': '10.1117', 'author': [{'given': 'Edward Y.', 'family': 'Chang', 'sequence': 'first', 'affiliation': []}, {'given': 'James Z.', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Chen', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}, {'given': 'Gio', 'family': 'Wiederhold', 'sequence': 'additional', 'affiliation': []}], 'member': '189', 'event': {'name': 'Photonics East (ISAM, VVDC, IEMB)', 'location': 'Boston, MA'}, 'container-title': ['Multimedia Storage and Archiving Systems III'], 'deposited': {'date-parts': [[2013, 3, 13]], 'date-time': '2013-03-13T20:04:05Z', 'timestamp': 1363205045000}, 'score': 99.33283, 'editor': [{'given': 'C.-C. Jay', 'family': 'Kuo', 'sequence': 'first', 'affiliation': []}, {'given': 'Shih-Fu', 'family': 'Chang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Sethuraman', 'family': 'Panchanathan', 'sequence': 'additional', 'affiliation': []}], 'issued': {'date-parts': [[1998, 10, 5]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1117/12.325852'}
+>>> hash >>> ('<title>RIME: a replicated image detector for the World Wide Web</title>', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Jonathan S. Yedidia , William T. Freeman , Yair Weiss, Understanding belief propagation and its generalizations, Exploring artificial intelligence in the new millennium, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2003
+>>> DOI >>> 10.1016/b978-0-934613-12-5.50045-8
+>>> URL >>> http://dx.doi.org/10.1016/b978-0-934613-12-5.50045-8
+>>> year >>> 1986.0
+>>> title >>> A Perspective on Automatic Programming\u2003\u2003Used by permission of the International Joint Conferences on Artificial Intelligence; copies of the Proceedings are available from Morgan Kaufmann Publishers, Inc., 95 First St., Los Altos, CA 94055 USA.
+>>> author >>> David Barstow
+>>> reference_count >>> 34.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Readings in Artificial Intelligence and Software Engineering']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database160.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:46:49Z', 'timestamp': 1525798009798}, 'reference-count': 34, 'publisher': 'Elsevier', 'isbn-type': [{'value': '9780934613125', 'type': 'print'}], 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1986, 1, 1]], 'date-time': '1986-01-01T00:00:00Z', 'timestamp': 504921600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1986]]}, 'DOI': '10.1016/b978-0-934613-12-5.50045-8', 'type': 'book-chapter', 'created': {'date-parts': [[2014, 6, 30]], 'date-time': '2014-06-30T02:32:06Z', 'timestamp': 1404095526000}, 'page': '537-559', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['A Perspective on Automatic Programming\u2003\u2003Used by permission of the International Joint Conferences on Artificial Intelligence; copies of the Proceedings are available from Morgan Kaufmann Publishers, Inc., 95 First St., Los Altos, CA 94055 USA.'], 'prefix': '10.1016', 'author': [{'given': 'David', 'family': 'Barstow', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Readings in Artificial Intelligence and Software Engineering'], 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:B9780934613125500458?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:B9780934613125500458?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T15:44:11Z', 'timestamp': 1498146251000}, 'score': 39.713783, 'issued': {'date-parts': [[1986]]}, 'ISBN': ['9780934613125'], 'references-count': 34, 'URL': 'http://dx.doi.org/10.1016/b978-0-934613-12-5.50045-8'}
+>>> hash >>> ('A Perspective on Automatic Programming\\u2003\\u2003Used by permission of the International Joint Conferences on Artificial Intelligence; copies of the Proceedings are available from Morgan Kaufmann Publishers, Inc., 95 First St., Los Altos, CA 94055 USA.', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

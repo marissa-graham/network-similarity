@@ -1,0 +1,577 @@
+>>> NEW PAPER <<<
+>>> citation >>> Y Cui, J.J Weng Learning-based hand sign recognition Proc. Int. Workshop Autom. Face Gesture Recogn., ZÃ¼rich, Switzerland, June (1995), pp. 201-206
+>>> DOI >>> 10.1109/afgr.1996.557274
+>>> URL >>> http://dx.doi.org/10.1109/afgr.1996.557274
+>>> year >>> None
+>>> title >>> Hand sign recognition from intensity image sequences with complex backgrounds
+>>> author >>> Y. Cui and J.J. Weng
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the Second International Conference on Automatic Face and Gesture Recognition']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T13:21:20Z', 'timestamp': 1525353680324}, 'reference-count': 13, 'publisher': 'IEEE Comput. Soc. Press', 'isbn-type': [{'value': '0818677139', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/afgr.1996.557274', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 12, 24]], 'date-time': '2002-12-24T02:38:00Z', 'timestamp': 1040697480000}, 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['Hand sign recognition from intensity image sequences with complex backgrounds'], 'prefix': '10.1109', 'author': [{'given': 'Y.', 'family': 'Cui', 'sequence': 'first', 'affiliation': []}, {'given': 'J.J.', 'family': 'Weng', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Second International Conference on Automatic Face and Gesture Recognition', 'location': 'Killington, VT, USA', 'acronym': 'AFGR-96'}, 'container-title': ['Proceedings of the Second International Conference on Automatic Face and Gesture Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx3/4096/12122/00557274.pdf?arnumber=557274', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T16:36:21Z', 'timestamp': 1497544581000}, 'score': 55.388725, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0818677139'], 'references-count': 13, 'URL': 'http://dx.doi.org/10.1109/afgr.1996.557274'}
+>>> hash >>> ('Hand sign recognition from intensity image sequences with complex backgrounds', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J Triesch, C von der Malsburg A system for person-independent hand posture recognition against complex backgrounds IEEE Trans. PAMI, 23 (12) (2001), pp. 1449-1453
+>>> DOI >>> 10.1109/34.977568
+>>> URL >>> http://dx.doi.org/10.1109/34.977568
+>>> year >>> 2001.0
+>>> title >>> A system for person-independent hand posture recognition against complex backgrounds
+>>> author >>> J. Triesch and C. von der Malsburg
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 100.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 17]], 'date-time': '2018-05-17T08:02:48Z', 'timestamp': 1526544168809}, 'reference-count': 22, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '12', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.1109/34.977568', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T20:14:45Z', 'timestamp': 1030220085000}, 'page': '1449-1453', 'source': 'Crossref', 'is-referenced-by-count': 100, 'title': ['A system for person-independent hand posture recognition against complex backgrounds'], 'prefix': '10.1109', 'volume': '23', 'author': [{'given': 'J.', 'family': 'Triesch', 'sequence': 'first', 'affiliation': []}, {'given': 'C.', 'family': 'von der Malsburg', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/21081/00977568.pdf?arnumber=977568', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T22:02:56Z', 'timestamp': 1489183376000}, 'score': 120.5942, 'issued': {'date-parts': [[2001]]}, 'references-count': 22, 'journal-issue': {'issue': '12'}, 'URL': 'http://dx.doi.org/10.1109/34.977568', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A system for person-independent hand posture recognition against complex backgrounds', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C.-L Huang, S.-H Jeng A model-based hand gesture recognition system Mach. Vision Appl., 12 (2001), pp. 243-258
+>>> DOI >>> 10.1007/s001380050144
+>>> URL >>> http://dx.doi.org/10.1007/s001380050144
+>>> year >>> 2001.0
+>>> title >>> A model-based hand gesture recognition system
+>>> author >>> Chung-Lin Huang and Sheng-Hung Jeng
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 29.0
+>>> subject >>> None
+>>> container_title >>> ['Machine Vision and Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T19:17:46Z', 'timestamp': 1525288666048}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Machine Vision and Applications'], 'published-print': {'date-parts': [[2001, 3, 1]]}, 'DOI': '10.1007/s001380050144', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 25]], 'date-time': '2002-08-25T06:16:17Z', 'timestamp': 1030256177000}, 'page': '243-258', 'source': 'Crossref', 'is-referenced-by-count': 29, 'title': ['A model-based hand gesture recognition system'], 'prefix': '10.1007', 'volume': '12', 'author': [{'given': 'Chung-Lin', 'family': 'Huang', 'sequence': 'first', 'affiliation': []}, {'given': 'Sheng-Hung', 'family': 'Jeng', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Machine Vision and Applications'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s001380050144', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 3, 18]], 'date-time': '2013-03-18T12:38:00Z', 'timestamp': 1363610280000}, 'score': 69.906555, 'issued': {'date-parts': [[2001, 3, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2001, 3, 1]]}, 'issue': '5'}, 'alternative-id': ['RTMBBA165DE21NG7'], 'URL': 'http://dx.doi.org/10.1007/s001380050144', 'ISSN': ['0932-8092', '1432-1769'], 'issn-type': [{'value': '0932-8092', 'type': 'print'}, {'value': '1432-1769', 'type': 'electronic'}]}
+>>> hash >>> ('A model-based hand gesture recognition system', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J Triesch, J Wieghardt, C von der Malsburg, E MaÃ«l Towards imitation learning of grasping movements by an autonomous robot Lect. Notes Artif. Intell., 1739 (1999), pp. 73-84
+>>> DOI >>> 10.1007/3-540-46616-9_7
+>>> URL >>> http://dx.doi.org/10.1007/3-540-46616-9_7
+>>> year >>> 1999.0
+>>> title >>> Towards Imitation Learning of Grasping Movements by an Autonomous Robot
+>>> author >>> Jochen Triesch and Jan Wieghardt and Eric Maël and Christoph von der Malsburg
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['Gesture-Based Communication in Human-Computer Interaction', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:46:28Z', 'timestamp': 1525394788186}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540669357', 'type': 'print'}, {'value': '9783540466161', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1007/3-540-46616-9_7', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 10, 27]], 'date-time': '2007-10-27T17:49:44Z', 'timestamp': 1193507384000}, 'page': '73-84', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Towards Imitation Learning of Grasping Movements by an Autonomous Robot'], 'prefix': '10.1007', 'author': [{'given': 'Jochen', 'family': 'Triesch', 'sequence': 'first', 'affiliation': []}, {'given': 'Jan', 'family': 'Wieghardt', 'sequence': 'additional', 'affiliation': []}, {'given': 'Eric', 'family': 'Maël', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christoph', 'family': 'von der Malsburg', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2001, 12, 20]]}, 'container-title': ['Gesture-Based Communication in Human-Computer Interaction', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-46616-9_7', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 29]], 'date-time': '2014-08-29T22:30:21Z', 'timestamp': 1409351421000}, 'score': 106.730316, 'issued': {'date-parts': [[1999]]}, 'ISBN': ['9783540669357', '9783540466161'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-46616-9_7', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('Towards Imitation Learning of Grasping Movements by an Autonomous Robot', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T Starner, A Pentland Visual recognition of American sign language using hidden markov models Proc. Int. Workshop Autom. Face Gesture Recogn., ZÃ¼rich, Switzerland, June (1995), pp. 189-194
+>>> DOI >>> 10.1109/iscv.1995.477012
+>>> URL >>> http://dx.doi.org/10.1109/iscv.1995.477012
+>>> year >>> None
+>>> title >>> Real-time American Sign Language recognition from video using hidden Markov models
+>>> author >>> T. Starner and A. Pentland
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 177.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of International Symposium on Computer Vision - ISCV']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 24]], 'date-time': '2018-05-24T21:22:33Z', 'timestamp': 1527196953268}, 'reference-count': 19, 'publisher': 'IEEE Comput. Soc. Press', 'isbn-type': [{'value': '0818671904', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/iscv.1995.477012', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 19]], 'date-time': '2002-11-19T17:10:21Z', 'timestamp': 1037725821000}, 'source': 'Crossref', 'is-referenced-by-count': 177, 'title': ['Real-time American Sign Language recognition from video using hidden Markov models'], 'prefix': '10.1109', 'author': [{'given': 'T.', 'family': 'Starner', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Pentland', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'International Symposium on Computer Vision - ISCV', 'location': 'Coral Gables, FL, USA', 'acronym': 'ISCV-95'}, 'container-title': ['Proceedings of International Symposium on Computer Vision - ISCV'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx2/3465/10211/00477012.pdf?arnumber=477012', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T15:03:53Z', 'timestamp': 1497539033000}, 'score': 72.88109, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0818671904'], 'references-count': 19, 'URL': 'http://dx.doi.org/10.1109/iscv.1995.477012'}
+>>> hash >>> ('Real-time American Sign Language recognition from video using hidden Markov models', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> V.I Pavlovic, R Sharma, T.S Huang Visual interpretation of hand gestures for humanâ€“computer interaction: a review IEEE Trans. PAMI, 19 (7) (1997)
+>>> DOI >>> 10.1109/34.598226
+>>> URL >>> http://dx.doi.org/10.1109/34.598226
+>>> year >>> 1997.0
+>>> title >>> Visual interpretation of hand gestures for human-computer interaction: a review
+>>> author >>> V.I. Pavlovic and R. Sharma and T.S. Huang
+>>> reference_count >>> 105.0
+>>> is_referenced_by_count >>> 778.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T08:02:30Z', 'timestamp': 1528358550170}, 'reference-count': 105, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '7', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1997, 7]]}, 'DOI': '10.1109/34.598226', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '677-695', 'source': 'Crossref', 'is-referenced-by-count': 778, 'title': ['Visual interpretation of hand gestures for human-computer interaction: a review'], 'prefix': '10.1109', 'volume': '19', 'author': [{'given': 'V.I.', 'family': 'Pavlovic', 'sequence': 'first', 'affiliation': []}, {'given': 'R.', 'family': 'Sharma', 'sequence': 'additional', 'affiliation': []}, {'given': 'T.S.', 'family': 'Huang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/13123/00598226.pdf?arnumber=598226', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T05:27:32Z', 'timestamp': 1512970052000}, 'score': 74.45664, 'issued': {'date-parts': [[1997, 7]]}, 'references-count': 105, 'journal-issue': {'issue': '7'}, 'URL': 'http://dx.doi.org/10.1109/34.598226', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Visual interpretation of hand gestures for human-computer interaction: a review', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> X Zhu, J Yang, A Waibel Segmenting hands of arbitrary color Proc. Fourth Int. Conf. Autom. Face Gesture Recogn., Grenoble, France, IEEE Comput. Soc. (2000), pp. 446-453
+>>> DOI >>> 10.1109/afgr.2000.840673
+>>> URL >>> http://dx.doi.org/10.1109/afgr.2000.840673
+>>> year >>> None
+>>> title >>> Segmenting hands of arbitrary color
+>>> author >>> None
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings Fourth IEEE International Conference on Automatic Face and Gesture Recognition (Cat. No. PR00580)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T10:59:15Z', 'timestamp': 1525345155289}, 'reference-count': 15, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769505805', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/afgr.2000.840673', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 7]], 'date-time': '2002-11-07T20:11:41Z', 'timestamp': 1036699901000}, 'source': 'Crossref', 'is-referenced-by-count': 8, 'title': ['Segmenting hands of arbitrary color'], 'prefix': '10.1109', 'author': [{'family': 'Xiaojin Zhu', 'sequence': 'first', 'affiliation': []}, {'family': 'Jie Yang', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Waibel', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Fourth International Conference on Automatic Face and Gesture Recognition', 'location': 'Grenoble, France', 'acronym': 'AFGR-00'}, 'container-title': ['Proceedings Fourth IEEE International Conference on Automatic Face and Gesture Recognition (Cat. No. PR00580)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6770/18088/00840673.pdf?arnumber=840673', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T13:47:48Z', 'timestamp': 1497534468000}, 'score': 85.77843, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769505805'], 'references-count': 15, 'URL': 'http://dx.doi.org/10.1109/afgr.2000.840673'}
+>>> hash >>> ('Segmenting hands of arbitrary color', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J Triesch, C von der Malsburg Robust classification of hand postures against complex backgrounds Proc. Second Int. Conf. Autom. Face Gesture Recogn., IEEE Comput. Soc. Press (1996), pp. 170-175
+>>> DOI >>> 10.1109/afgr.1996.557260
+>>> URL >>> http://dx.doi.org/10.1109/afgr.1996.557260
+>>> year >>> None
+>>> title >>> Robust classification of hand postures against complex backgrounds
+>>> author >>> J. Triesch and C. von der Malsburg
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 81.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the Second International Conference on Automatic Face and Gesture Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 17]], 'date-time': '2018-05-17T08:02:48Z', 'timestamp': 1526544168837}, 'reference-count': 13, 'publisher': 'IEEE Comput. Soc. Press', 'isbn-type': [{'value': '0818677139', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/afgr.1996.557260', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 12, 24]], 'date-time': '2002-12-24T02:38:00Z', 'timestamp': 1040697480000}, 'source': 'Crossref', 'is-referenced-by-count': 81, 'title': ['Robust classification of hand postures against complex backgrounds'], 'prefix': '10.1109', 'author': [{'given': 'J.', 'family': 'Triesch', 'sequence': 'first', 'affiliation': []}, {'given': 'C.', 'family': 'von der Malsburg', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Second International Conference on Automatic Face and Gesture Recognition', 'location': 'Killington, VT, USA', 'acronym': 'AFGR-96'}, 'container-title': ['Proceedings of the Second International Conference on Automatic Face and Gesture Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx3/4096/12122/00557260.pdf?arnumber=557260', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 1, 23]], 'date-time': '2018-01-23T03:40:00Z', 'timestamp': 1516678800000}, 'score': 111.27633, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0818677139'], 'references-count': 13, 'URL': 'http://dx.doi.org/10.1109/afgr.1996.557260'}
+>>> hash >>> ('Robust classification of hand postures against complex backgrounds', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Wiskott, Labeled Graphs and Dynamic Link Matching for Face Recognition and Scene Analysis, PhD Thesis, vol. 53 of Reihe Physik, Verlag Harri Deutsch, Thun, Frankfurt a. Main, Germany, 1995.
+>>> DOI >>> 10.1002/piuz.1984.2200150409
+>>> URL >>> http://dx.doi.org/10.1002/piuz.1984.2200150409
+>>> year >>> 1984.0
+>>> title >>> Verwunderliches aus der Physik i. von G. P. Makejewa und M. S. Zedrik, Verlag Harri Deutsch, Frankfurt 1981, DM 6,80. Verwunderliches aus der Physik ii. Schau den Dingen auf den Grund. von P. W. Makowezki, Verlag Harri Deutsch, Frankfurt 1980, DM 12,80. Verwunderliches aus der Physik iii. Physikalische Paradoxa und Interessante Aufgaben. von W. N. Lange, Verlag Harri Deutsch, Frankfurt 1981, DM 9,80. Optische Täuschungen. von I. D. Artamonow. Verlag Harri Deutsch, Frankfurt 1983, DM 9,80
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Physik in unserer Zeit']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T20:20:24Z', 'timestamp': 1525378824872}, 'reference-count': 0, 'publisher': 'Wiley', 'issue': '4', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 11566, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Phys. Unserer Zeit'], 'published-print': {'date-parts': [[1984]]}, 'DOI': '10.1002/piuz.1984.2200150409', 'type': 'journal-article', 'created': {'date-parts': [[2007, 7, 9]], 'date-time': '2007-07-09T09:20:00Z', 'timestamp': 1183972800000}, 'page': '127-127', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Verwunderliches aus der Physik i. von G. P. Makejewa und M. S. Zedrik, Verlag Harri Deutsch, Frankfurt 1981, DM 6,80. Verwunderliches aus der Physik ii. Schau den Dingen auf den Grund. von P. W. Makowezki, Verlag Harri Deutsch, Frankfurt 1980, DM 12,80. Verwunderliches aus der Physik iii. Physikalische Paradoxa und Interessante Aufgaben. von W. N. Lange, Verlag Harri Deutsch, Frankfurt 1981, DM 9,80. Optische Täuschungen. von I. D. Artamonow. Verlag Harri Deutsch, Frankfurt 1983, DM 9,80'], 'prefix': '10.1002', 'volume': '15', 'member': '311', 'container-title': ['Physik in unserer Zeit'], 'language': 'de', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fpiuz.1984.2200150409', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 4, 9]], 'date-time': '2017-04-09T01:13:54Z', 'timestamp': 1491700434000}, 'score': 50.901196, 'issued': {'date-parts': [[1984]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1984]]}, 'issue': '4'}, 'URL': 'http://dx.doi.org/10.1002/piuz.1984.2200150409', 'ISSN': ['0031-9252', '1521-3943'], 'issn-type': [{'value': '0031-9252', 'type': 'print'}, {'value': '1521-3943', 'type': 'electronic'}]}
+>>> hash >>> ('Verwunderliches aus der Physik i. von G. P. Makejewa und M. S. Zedrik, Verlag Harri Deutsch, Frankfurt 1981, DM 6,80. Verwunderliches aus der Physik ii. Schau den Dingen auf den Grund. von P. W. Makowezki, Verlag Harri Deutsch, Frankfurt 1980, DM 12,80. Verwunderliches aus der Physik iii. Physikalische Paradoxa und Interessante Aufgaben. von W. N. Lange, Verlag Harri Deutsch, Frankfurt 1981, DM 9,80. Optische Täuschungen. von I. D. Artamonow. Verlag Harri Deutsch, Frankfurt 1983, DM 9,80', 1984.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M Becker, E Kefalea, E MaÃ«l, C von der Malsburg, M Pagel, J Triesch, J.C VorbrÃ¼ggen, R.P WÃ¼rtz, S Zadel GripSee: a gesture-controlled robot for object perception and manipulation Autonomous Robots, 6 (2) (1999), pp. 203-221
+>>> DOI >>> 10.1023/a:1008839628783
+>>> URL >>> http://dx.doi.org/10.1023/a:1008839628783
+>>> year >>> 1999.0
+>>> title >>> None
+>>> author >>> Mark Becker and Efthimia Kefalea and Eric Maël and Christoph Von Der Malsburg and Mike Pagel and Jochen Triesch and Jan C. Vorbrüggen and Rolf P. Würtz and Stefan Zadel
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 30.0
+>>> subject >>> None
+>>> container_title >>> ['Autonomous Robots']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T02:35:27Z', 'timestamp': 1525314927445}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1023/a:1008839628783', 'type': 'journal-article', 'created': {'date-parts': [[2002, 12, 22]], 'date-time': '2002-12-22T16:51:56Z', 'timestamp': 1040575916000}, 'page': '203-221', 'source': 'Crossref', 'is-referenced-by-count': 30, 'prefix': '10.1007', 'volume': '6', 'author': [{'given': 'Mark', 'family': 'Becker', 'sequence': 'first', 'affiliation': []}, {'given': 'Efthimia', 'family': 'Kefalea', 'sequence': 'additional', 'affiliation': []}, {'given': 'Eric', 'family': 'Maël', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christoph', 'family': 'Von Der Malsburg', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mike', 'family': 'Pagel', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jochen', 'family': 'Triesch', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jan C.', 'family': 'Vorbrüggen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Rolf P.', 'family': 'Würtz', 'sequence': 'additional', 'affiliation': []}, {'given': 'Stefan', 'family': 'Zadel', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Autonomous Robots'], 'deposited': {'date-parts': [[2012, 12, 27]], 'date-time': '2012-12-27T23:28:04Z', 'timestamp': 1356650884000}, 'score': 103.75845, 'issued': {'date-parts': [[1999]]}, 'references-count': 0, 'journal-issue': {'issue': '2'}, 'alternative-id': ['204581'], 'URL': 'http://dx.doi.org/10.1023/a:1008839628783', 'ISSN': ['0929-5593'], 'issn-type': [{'value': '0929-5593', 'type': 'print'}]}
+>>> hash >>> ('None', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C.-S Chua, H Guan, Y.-K Ho Model-based 3D hand posture estimation from a single 2D image Image Vision Comput., 20 (3) (2002), pp. 191-202
+>>> DOI >>> 10.1016/s0262-8856(01)00094-4
+>>> URL >>> http://dx.doi.org/10.1016/s0262-8856(01)00094-4
+>>> year >>> 2002.0
+>>> title >>> Model-based 3D hand posture estimation from a single 2D image
+>>> author >>> Chin-Seng Chua and Haiying Guan and Yeong-Khing Ho
+>>> reference_count >>> 20.0
+>>> is_referenced_by_count >>> 48.0
+>>> subject >>> None
+>>> container_title >>> ['Image and Vision Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T21:56:04Z', 'timestamp': 1525298164064}, 'reference-count': 20, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2002, 3, 1]], 'date-time': '2002-03-01T00:00:00Z', 'timestamp': 1014940800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Image and Vision Computing'], 'published-print': {'date-parts': [[2002, 3]]}, 'DOI': '10.1016/s0262-8856(01)00094-4', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T14:34:32Z', 'timestamp': 1027607672000}, 'page': '191-202', 'source': 'Crossref', 'is-referenced-by-count': 48, 'title': ['Model-based 3D hand posture estimation from a single 2D image'], 'prefix': '10.1016', 'volume': '20', 'author': [{'given': 'Chin-Seng', 'family': 'Chua', 'sequence': 'first', 'affiliation': []}, {'given': 'Haiying', 'family': 'Guan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yeong-Khing', 'family': 'Ho', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Image and Vision Computing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0262885601000944?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0262885601000944?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 9, 10]], 'date-time': '2017-09-10T11:52:50Z', 'timestamp': 1505044370000}, 'score': 109.01318, 'issued': {'date-parts': [[2002, 3]]}, 'references-count': 20, 'journal-issue': {'published-print': {'date-parts': [[2002, 3]]}, 'issue': '3'}, 'alternative-id': ['S0262885601000944'], 'URL': 'http://dx.doi.org/10.1016/s0262-8856(01)00094-4', 'ISSN': ['0262-8856'], 'issn-type': [{'value': '0262-8856', 'type': 'print'}]}
+>>> hash >>> ('Model-based 3D hand posture estimation from a single 2D image', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M Lades, J.C VorbrÃ¼ggen, J Buhmann, J Lange, C von der Malsburg, R.P WÃ¼rtz, W Konen Distortion invariant object recognition in the dynamic link architecture IEEE Trans. Comput., 42 (1993), pp. 300-311
+>>> DOI >>> 10.1109/12.210173
+>>> URL >>> http://dx.doi.org/10.1109/12.210173
+>>> year >>> 1993.0
+>>> title >>> Distortion invariant object recognition in the dynamic link architecture
+>>> author >>> M. Lades and J.C. Vorbruggen and J. Buhmann and J. Lange and C. von der Malsburg and R.P. Wurtz and W. Konen
+>>> reference_count >>> 35.0
+>>> is_referenced_by_count >>> 889.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Computers']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 23]], 'date-time': '2018-05-23T23:22:30Z', 'timestamp': 1527117750255}, 'reference-count': 35, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Comput.'], 'published-print': {'date-parts': [[1993, 3]]}, 'DOI': '10.1109/12.210173', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T20:26:37Z', 'timestamp': 1030220797000}, 'page': '300-311', 'source': 'Crossref', 'is-referenced-by-count': 889, 'title': ['Distortion invariant object recognition in the dynamic link architecture'], 'prefix': '10.1109', 'volume': '42', 'author': [{'given': 'M.', 'family': 'Lades', 'sequence': 'first', 'affiliation': []}, {'given': 'J.C.', 'family': 'Vorbruggen', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Buhmann', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Lange', 'sequence': 'additional', 'affiliation': []}, {'given': 'C.', 'family': 'von der Malsburg', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.P.', 'family': 'Wurtz', 'sequence': 'additional', 'affiliation': []}, {'given': 'W.', 'family': 'Konen', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Computers'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/12/5452/00210173.pdf?arnumber=210173', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T06:36:54Z', 'timestamp': 1489041414000}, 'score': 137.70476, 'issued': {'date-parts': [[1993, 3]]}, 'references-count': 35, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/12.210173', 'ISSN': ['0018-9340'], 'issn-type': [{'value': '0018-9340', 'type': 'print'}]}
+>>> hash >>> ('Distortion invariant object recognition in the dynamic link architecture', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J Triesch, C von der Malsburg A gesture interface for humanâ€“robot interaction Proc. Third Int. Conf. Autom. Face Gesture Recogn., IEEE Comput. Soc. (1998), pp. 546-551
+>>> DOI >>> 10.1109/afgr.1998.671005
+>>> URL >>> http://dx.doi.org/10.1109/afgr.1998.671005
+>>> year >>> None
+>>> title >>> A gesture interface for human-robot-interaction
+>>> author >>> J. Triesch and C. Von Der Malsburg
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 22.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings Third IEEE International Conference on Automatic Face and Gesture Recognition']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T12:13:24Z', 'timestamp': 1525349604168}, 'reference-count': 12, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0818683449', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/afgr.1998.671005', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 27]], 'date-time': '2002-11-27T16:45:36Z', 'timestamp': 1038415536000}, 'source': 'Crossref', 'is-referenced-by-count': 22, 'title': ['A gesture interface for human-robot-interaction'], 'prefix': '10.1109', 'author': [{'given': 'J.', 'family': 'Triesch', 'sequence': 'first', 'affiliation': []}, {'given': 'C.', 'family': 'Von Der Malsburg', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Third IEEE International Conference on Automatic Face and Gesture Recognition', 'location': 'Nara, Japan', 'acronym': 'AFGR-98'}, 'container-title': ['Proceedings Third IEEE International Conference on Automatic Face and Gesture Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx4/5501/14786/00671005.pdf?arnumber=671005', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T01:00:26Z', 'timestamp': 1489107626000}, 'score': 98.13487, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0818683449'], 'references-count': 12, 'URL': 'http://dx.doi.org/10.1109/afgr.1998.671005'}
+>>> hash >>> ('A gesture interface for human-robot-interaction', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y Zhu, H Ren, G Xu, X Lin Toward real-time humanâ€“computer interaction with continuous dynamic hand gestures Proc. Fourth Int. Conf. Autom. Face Gesture Recogn., Grenoble, France, IEEE Comput. Soc. (2000), pp. 544-549
+>>> DOI >>> 10.1109/afgr.2000.840688
+>>> URL >>> http://dx.doi.org/10.1109/afgr.2000.840688
+>>> year >>> None
+>>> title >>> Toward real-time human-computer interaction with continuous dynamic hand gestures
+>>> author >>> None
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings Fourth IEEE International Conference on Automatic Face and Gesture Recognition (Cat. No. PR00580)']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T10:59:16Z', 'timestamp': 1525345156148}, 'reference-count': 19, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769505805', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/afgr.2000.840688', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 7]], 'date-time': '2002-11-07T20:11:41Z', 'timestamp': 1036699901000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Toward real-time human-computer interaction with continuous dynamic hand gestures'], 'prefix': '10.1109', 'author': [{'family': 'Yuanxin Zhu', 'sequence': 'first', 'affiliation': []}, {'family': 'Haibing Ren', 'sequence': 'additional', 'affiliation': []}, {'family': 'Guangyou Xu', 'sequence': 'additional', 'affiliation': []}, {'family': 'Xueyin Lin', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Fourth International Conference on Automatic Face and Gesture Recognition', 'location': 'Grenoble, France', 'acronym': 'AFGR-00'}, 'container-title': ['Proceedings Fourth IEEE International Conference on Automatic Face and Gesture Recognition (Cat. No. PR00580)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6770/18088/00840688.pdf?arnumber=840688', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T13:47:49Z', 'timestamp': 1497534469000}, 'score': 93.04249, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769505805'], 'references-count': 19, 'URL': 'http://dx.doi.org/10.1109/afgr.2000.840688'}
+>>> hash >>> ('Toward real-time human-computer interaction with continuous dynamic hand gestures', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W.T Freeman, M Roth Orientation histograms for hand gesture recognition Proc. Int. Workshop Autom. Face Gesture Recogn., ZÃ¼rich, Switzerland, June (1995), pp. 296-301
+>>> DOI >>> 10.1109/afgr.2008.4813424
+>>> URL >>> http://dx.doi.org/10.1109/afgr.2008.4813424
+>>> year >>> 2008.0
+>>> title >>> Workshop on psychology of face and gesture recognition
+>>> author >>> Frank Pollick and Aina Puce
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['2008 8th IEEE International Conference on Automatic Face & Gesture Recognition']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T23:12:24Z', 'timestamp': 1525475544420}, 'reference-count': 0, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424421534', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 9]]}, 'DOI': '10.1109/afgr.2008.4813424', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 4, 10]], 'date-time': '2009-04-10T19:39:51Z', 'timestamp': 1239392391000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Workshop on psychology of face and gesture recognition'], 'prefix': '10.1109', 'author': [{'given': 'Frank', 'family': 'Pollick', 'sequence': 'first', 'affiliation': []}, {'given': 'Aina', 'family': 'Puce', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Gesture Recognition (FG)', 'location': 'Amsterdam, Netherlands', 'start': {'date-parts': [[2008, 9, 17]]}, 'end': {'date-parts': [[2008, 9, 19]]}}, 'container-title': ['2008 8th IEEE International Conference on Automatic Face & Gesture Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4810099/4813301/04813424.pdf?arnumber=4813424', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 17]], 'date-time': '2017-03-17T18:58:12Z', 'timestamp': 1489777092000}, 'score': 49.856373, 'issued': {'date-parts': [[2008, 9]]}, 'ISBN': ['9781424421534'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1109/afgr.2008.4813424'}
+>>> hash >>> ('Workshop on psychology of face and gesture recognition', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C Uras, A Verri Hand gesture recognition from edge maps Proc. Int. Workshop Autom. Face Gesture Recogn., ZÃ¼rich, Switzerland, June (1995), pp. 116-121
+>>> DOI >>> 10.1109/afgr.2008.4813424
+>>> URL >>> http://dx.doi.org/10.1109/afgr.2008.4813424
+>>> year >>> 2008.0
+>>> title >>> Workshop on psychology of face and gesture recognition
+>>> author >>> Frank Pollick and Aina Puce
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['2008 8th IEEE International Conference on Automatic Face & Gesture Recognition']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T23:12:24Z', 'timestamp': 1525475544420}, 'reference-count': 0, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424421534', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 9]]}, 'DOI': '10.1109/afgr.2008.4813424', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 4, 10]], 'date-time': '2009-04-10T19:39:51Z', 'timestamp': 1239392391000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Workshop on psychology of face and gesture recognition'], 'prefix': '10.1109', 'author': [{'given': 'Frank', 'family': 'Pollick', 'sequence': 'first', 'affiliation': []}, {'given': 'Aina', 'family': 'Puce', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Gesture Recognition (FG)', 'location': 'Amsterdam, Netherlands', 'start': {'date-parts': [[2008, 9, 17]]}, 'end': {'date-parts': [[2008, 9, 19]]}}, 'container-title': ['2008 8th IEEE International Conference on Automatic Face & Gesture Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4810099/4813301/04813424.pdf?arnumber=4813424', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 17]], 'date-time': '2017-03-17T18:58:12Z', 'timestamp': 1489777092000}, 'score': 49.856373, 'issued': {'date-parts': [[2008, 9]]}, 'ISBN': ['9781424421534'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1109/afgr.2008.4813424'}
+>>> hash >>> ('Workshop on psychology of face and gesture recognition', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y Wu, T.S Huang Vision-based gesture recognition: a review Lect. Notes Artif. Intell., 1739 (1999), pp. 103-115
+>>> DOI >>> 10.1007/3-540-46616-9_10
+>>> URL >>> http://dx.doi.org/10.1007/3-540-46616-9_10
+>>> year >>> 1999.0
+>>> title >>> Vision-Based Gesture Recognition: A Review
+>>> author >>> Ying Wu and Thomas S. Huang
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 124.0
+>>> subject >>> None
+>>> container_title >>> ['Gesture-Based Communication in Human-Computer Interaction', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T14:42:33Z', 'timestamp': 1527259353152}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540669357', 'type': 'print'}, {'value': '9783540466161', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1007/3-540-46616-9_10', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 10, 27]], 'date-time': '2007-10-27T17:49:44Z', 'timestamp': 1193507384000}, 'page': '103-115', 'source': 'Crossref', 'is-referenced-by-count': 124, 'title': ['Vision-Based Gesture Recognition: A Review'], 'prefix': '10.1007', 'author': [{'given': 'Ying', 'family': 'Wu', 'sequence': 'first', 'affiliation': []}, {'given': 'Thomas S.', 'family': 'Huang', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2001, 12, 20]]}, 'container-title': ['Gesture-Based Communication in Human-Computer Interaction', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-46616-9_10', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 29]], 'date-time': '2014-08-29T22:19:19Z', 'timestamp': 1409350759000}, 'score': 57.92658, 'issued': {'date-parts': [[1999]]}, 'ISBN': ['9783540669357', '9783540466161'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-46616-9_10', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('Vision-Based Gesture Recognition: A Review', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y Cui, J.J Weng Hand sign recognition from intensity image sequences with complex backgrounds Proc. Second Int. Conf. Autom. Face Gesture Recogn., Killington, Vermont, USA, October (1996)
+>>> DOI >>> 10.1109/afgr.1996.557274
+>>> URL >>> http://dx.doi.org/10.1109/afgr.1996.557274
+>>> year >>> None
+>>> title >>> Hand sign recognition from intensity image sequences with complex backgrounds
+>>> author >>> Y. Cui and J.J. Weng
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the Second International Conference on Automatic Face and Gesture Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T13:21:20Z', 'timestamp': 1525353680324}, 'reference-count': 13, 'publisher': 'IEEE Comput. Soc. Press', 'isbn-type': [{'value': '0818677139', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/afgr.1996.557274', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 12, 24]], 'date-time': '2002-12-24T02:38:00Z', 'timestamp': 1040697480000}, 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['Hand sign recognition from intensity image sequences with complex backgrounds'], 'prefix': '10.1109', 'author': [{'given': 'Y.', 'family': 'Cui', 'sequence': 'first', 'affiliation': []}, {'given': 'J.J.', 'family': 'Weng', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Second International Conference on Automatic Face and Gesture Recognition', 'location': 'Killington, VT, USA', 'acronym': 'AFGR-96'}, 'container-title': ['Proceedings of the Second International Conference on Automatic Face and Gesture Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx3/4096/12122/00557274.pdf?arnumber=557274', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T16:36:21Z', 'timestamp': 1497544581000}, 'score': 100.23731, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0818677139'], 'references-count': 13, 'URL': 'http://dx.doi.org/10.1109/afgr.1996.557274'}
+>>> hash >>> ('Hand sign recognition from intensity image sequences with complex backgrounds', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E Hunter, J Schlenzig, R Jain Posture estimation in reduced-model gesture input systems Proc. Int. Workshop Autom. Face Gesture Recogn., ZÃ¼rich, Switzerland, June (1995), pp. 290-295
+>>> DOI >>> 10.1109/acssc.1994.471662
+>>> URL >>> http://dx.doi.org/10.1109/acssc.1994.471662
+>>> year >>> None
+>>> title >>> Vision based hand gesture interpretation using recursive estimation
+>>> author >>> J. Schlenzig and E. Hunter and R. Jain
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 26.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of 1994 28th Asilomar Conference on Signals, Systems and Computers']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T13:11:33Z', 'timestamp': 1525353093391}, 'reference-count': 21, 'publisher': 'IEEE Comput. Soc. Press', 'isbn-type': [{'value': '0818664053', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/acssc.1994.471662', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 12, 17]], 'date-time': '2002-12-17T19:15:48Z', 'timestamp': 1040152548000}, 'source': 'Crossref', 'is-referenced-by-count': 26, 'title': ['Vision based hand gesture interpretation using recursive estimation'], 'prefix': '10.1109', 'author': [{'given': 'J.', 'family': 'Schlenzig', 'sequence': 'first', 'affiliation': []}, {'given': 'E.', 'family': 'Hunter', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.', 'family': 'Jain', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '1994 28th Asilomar Conference on Signals, Systems and Computers', 'location': 'Pacific Grove, CA, USA', 'acronym': 'ACSSC-94'}, 'container-title': ['Proceedings of 1994 28th Asilomar Conference on Signals, Systems and Computers'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx2/3310/9942/00471662.pdf?arnumber=471662', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T12:30:12Z', 'timestamp': 1489062612000}, 'score': 58.421566, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0818664053'], 'references-count': 21, 'URL': 'http://dx.doi.org/10.1109/acssc.1994.471662'}
+>>> hash >>> ('Vision based hand gesture interpretation using recursive estimation', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S Marcel, O Bernier Hand posture recognition in a body-face centered space Lect. Notes Artif. Intell., 1739 (1999), pp. 97-100
+>>> DOI >>> 10.1007/3-540-46616-9_9
+>>> URL >>> http://dx.doi.org/10.1007/3-540-46616-9_9
+>>> year >>> 1999.0
+>>> title >>> Hand Posture Recognition in a Body-Face Centered Space
+>>> author >>> Sébastien Marcel and Olivier Bernier
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Gesture-Based Communication in Human-Computer Interaction', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:46:28Z', 'timestamp': 1525394788235}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540669357', 'type': 'print'}, {'value': '9783540466161', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1007/3-540-46616-9_9', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 10, 27]], 'date-time': '2007-10-27T17:49:44Z', 'timestamp': 1193507384000}, 'page': '97-100', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Hand Posture Recognition in a Body-Face Centered Space'], 'prefix': '10.1007', 'author': [{'given': 'Sébastien', 'family': 'Marcel', 'sequence': 'first', 'affiliation': []}, {'given': 'Olivier', 'family': 'Bernier', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2001, 12, 20]]}, 'container-title': ['Gesture-Based Communication in Human-Computer Interaction', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-46616-9_9', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 25]], 'date-time': '2014-08-25T02:42:17Z', 'timestamp': 1408934537000}, 'score': 77.46576, 'issued': {'date-parts': [[1999]]}, 'ISBN': ['9783540669357', '9783540466161'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-46616-9_9', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('Hand Posture Recognition in a Body-Face Centered Space', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Wieghardt, Learning the Topology of Views: from Images to Objects, PhD Thesis, Institut fÃ¼r Neuroinformatik, Ruhr-UniversitÃ¤t Bochum, Germany, 2001.
+>>> DOI >>> 10.1002/bate.200103550
+>>> URL >>> http://dx.doi.org/10.1002/bate.200103550
+>>> year >>> 2001.0
+>>> title >>> Masterstudiengang an der Ruhr-Universität Bochum
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Bautechnik']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T14:55:49Z', 'timestamp': 1525704949982}, 'reference-count': 0, 'publisher': 'Wiley', 'issue': '7', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 5175, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Bautechnik'], 'published-print': {'date-parts': [[2001, 7]]}, 'DOI': '10.1002/bate.200103550', 'type': 'journal-article', 'created': {'date-parts': [[2013, 3, 28]], 'date-time': '2013-03-28T14:56:20Z', 'timestamp': 1364482580000}, 'page': '536-536', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Masterstudiengang an der Ruhr-Universität Bochum'], 'prefix': '10.1002', 'volume': '78', 'member': '311', 'published-online': {'date-parts': [[2013, 3, 28]]}, 'container-title': ['Bautechnik'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fbate.200103550', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 4, 4]], 'date-time': '2017-04-04T08:19:51Z', 'timestamp': 1491293991000}, 'score': 34.256268, 'issued': {'date-parts': [[2001, 7]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2001, 7]]}, 'issue': '7'}, 'URL': 'http://dx.doi.org/10.1002/bate.200103550', 'ISSN': ['0932-8351'], 'issn-type': [{'value': '0932-8351', 'type': 'print'}]}
+>>> hash >>> ('Masterstudiengang an der Ruhr-Universität Bochum', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L Wiskott, J.-M Fellous, N KrÃ¼ger, C von der Malsburg Face recognition and gender determination Proc. Int. Workshop Autom. Face Gesture Recogn., ZÃ¼rich, Switzerland, June (1995), pp. 92-97
+>>> DOI >>> 10.1109/icip.1997.647401
+>>> URL >>> http://dx.doi.org/10.1109/icip.1997.647401
+>>> year >>> None
+>>> title >>> Face recognition by elastic bunch graph matching
+>>> author >>> L. Wiskott and J.-M. Fellous and N. Kruger and C. von der Malsburg
+>>> reference_count >>> 5.0
+>>> is_referenced_by_count >>> 59.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of International Conference on Image Processing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T12:05:13Z', 'timestamp': 1525349113241}, 'reference-count': 5, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0818681837', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icip.1997.647401', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 23]], 'date-time': '2002-11-23T01:47:57Z', 'timestamp': 1038016077000}, 'source': 'Crossref', 'is-referenced-by-count': 59, 'title': ['Face recognition by elastic bunch graph matching'], 'prefix': '10.1109', 'author': [{'given': 'L.', 'family': 'Wiskott', 'sequence': 'first', 'affiliation': []}, {'given': 'J.-M.', 'family': 'Fellous', 'sequence': 'additional', 'affiliation': []}, {'given': 'N.', 'family': 'Kruger', 'sequence': 'additional', 'affiliation': []}, {'given': 'C.', 'family': 'von der Malsburg', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'International Conference on Image Processing', 'location': 'Santa Barbara, CA, USA', 'acronym': 'ICIP-97'}, 'container-title': ['Proceedings of International Conference on Image Processing'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx3/4998/14092/00647401.pdf?arnumber=647401', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T00:42:24Z', 'timestamp': 1489106544000}, 'score': 66.865005, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0818681837'], 'references-count': 5, 'URL': 'http://dx.doi.org/10.1109/icip.1997.647401'}
+>>> hash >>> ('Face recognition by elastic bunch graph matching', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A Lanitis, C Taylor, T Cootes Automatic interpretation and coding of face images using flexible models IEEE PAMI, 15 (6) (1997), pp. 545-555
+>>> DOI >>> 10.1109/34.598231
+>>> URL >>> http://dx.doi.org/10.1109/34.598231
+>>> year >>> 1997.0
+>>> title >>> Automatic interpretation and coding of face images using flexible models
+>>> author >>> A. Lanitis and C.J. Taylor and T.F. Cootes
+>>> reference_count >>> 39.0
+>>> is_referenced_by_count >>> 326.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 24]], 'date-time': '2018-05-24T20:42:32Z', 'timestamp': 1527194552122}, 'reference-count': 39, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '7', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1997, 7]]}, 'DOI': '10.1109/34.598231', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '743-756', 'source': 'Crossref', 'is-referenced-by-count': 326, 'title': ['Automatic interpretation and coding of face images using flexible models'], 'prefix': '10.1109', 'volume': '19', 'author': [{'given': 'A.', 'family': 'Lanitis', 'sequence': 'first', 'affiliation': []}, {'given': 'C.J.', 'family': 'Taylor', 'sequence': 'additional', 'affiliation': []}, {'given': 'T.F.', 'family': 'Cootes', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/13123/00598231.pdf?arnumber=598231', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:28:42Z', 'timestamp': 1497522522000}, 'score': 82.31576, 'issued': {'date-parts': [[1997, 7]]}, 'references-count': 39, 'journal-issue': {'issue': '7'}, 'URL': 'http://dx.doi.org/10.1109/34.598231', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Automatic interpretation and coding of face images using flexible models', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C NÃ¶lker, H Ritter GREFIT: visual recognition of hand postures Lect. Notes Artif. Intell., 1739 (1999), pp. 61-72
+>>> DOI >>> 10.1007/3-540-46616-9_6
+>>> URL >>> http://dx.doi.org/10.1007/3-540-46616-9_6
+>>> year >>> 1999.0
+>>> title >>> GREFIT: Visual Recognition of Hand Postures
+>>> author >>> Claudia Nölker and Helge Ritter
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Gesture-Based Communication in Human-Computer Interaction', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database75.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:46:28Z', 'timestamp': 1525394788179}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540669357', 'type': 'print'}, {'value': '9783540466161', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1007/3-540-46616-9_6', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 10, 27]], 'date-time': '2007-10-27T17:49:44Z', 'timestamp': 1193507384000}, 'page': '61-72', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['GREFIT: Visual Recognition of Hand Postures'], 'prefix': '10.1007', 'author': [{'given': 'Claudia', 'family': 'Nölker', 'sequence': 'first', 'affiliation': []}, {'given': 'Helge', 'family': 'Ritter', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2001, 12, 20]]}, 'container-title': ['Gesture-Based Communication in Human-Computer Interaction', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-46616-9_6', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 25]], 'date-time': '2014-08-25T15:35:59Z', 'timestamp': 1408980959000}, 'score': 68.005455, 'issued': {'date-parts': [[1999]]}, 'ISBN': ['9783540669357', '9783540466161'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-46616-9_6', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('GREFIT: Visual Recognition of Hand Postures', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

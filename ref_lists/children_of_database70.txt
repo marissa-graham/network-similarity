@@ -1,0 +1,697 @@
+>>> NEW PAPER <<<
+>>> citation >>> Esko Nuutila, An efficient transitive closure algorithm for cyclic digraphs, Information Processing Letters, v.52 n.4, p.207-213, Nov. 25, 1994  [doi>10.1016/0020-0190(94)90128-7]
+>>> DOI >>> 10.1016/0020-0190(94)90128-7
+>>> URL >>> http://dx.doi.org/10.1016/0020-0190(94)90128-7
+>>> year >>> 1994.0
+>>> title >>> An efficient transitive closure algorithm for cyclic digraphs
+>>> author >>> Esko Nuutila
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['Information Processing Letters']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:47:05Z', 'timestamp': 1525312025329}, 'reference-count': 10, 'publisher': 'Elsevier BV', 'issue': '4', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1994, 11, 1]], 'date-time': '1994-11-01T00:00:00Z', 'timestamp': 783648000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Information Processing Letters'], 'published-print': {'date-parts': [[1994, 11]]}, 'DOI': '10.1016/0020-0190(94)90128-7', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T03:37:30Z', 'timestamp': 1027654650000}, 'page': '207-213', 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['An efficient transitive closure algorithm for cyclic digraphs'], 'prefix': '10.1016', 'volume': '52', 'author': [{'given': 'Esko', 'family': 'Nuutila', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Information Processing Letters'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0020019094901287?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0020019094901287?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T04:04:28Z', 'timestamp': 1497499468000}, 'score': 116.28986, 'issued': {'date-parts': [[1994, 11]]}, 'references-count': 10, 'journal-issue': {'published-print': {'date-parts': [[1994, 11]]}, 'issue': '4'}, 'alternative-id': ['0020019094901287'], 'URL': 'http://dx.doi.org/10.1016/0020-0190(94)90128-7', 'ISSN': ['0020-0190'], 'issn-type': [{'value': '0020-0190', 'type': 'print'}]}
+>>> hash >>> ('An efficient transitive closure algorithm for cyclic digraphs', 1994.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Bunke. Graph matching: Theoretical foundations, algorithms, and applications. Vision Interface, 3, 2000.
+>>> DOI >>> 10.1163/156856800741153
+>>> URL >>> http://dx.doi.org/10.1163/156856800741153
+>>> year >>> 2000.0
+>>> title >>> Graph matching for visual object recognition
+>>> author >>> Horst Bunke
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> ['Spatial Vision']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:17:19Z', 'timestamp': 1525335439482}, 'reference-count': 0, 'publisher': 'Brill Academic Publishers', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2000, 11, 1]]}, 'DOI': '10.1163/156856800741153', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T12:01:51Z', 'timestamp': 1027771311000}, 'page': '335-340', 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['Graph matching for visual object recognition'], 'prefix': '10.1163', 'volume': '13', 'author': [{'given': 'Horst', 'family': 'Bunke', 'sequence': 'first', 'affiliation': []}], 'member': '50', 'container-title': ['Spatial Vision'], 'language': 'en', 'deposited': {'date-parts': [[2018, 4, 11]], 'date-time': '2018-04-11T10:50:57Z', 'timestamp': 1523443857000}, 'score': 43.44295, 'issued': {'date-parts': [[2000, 11, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2000, 11, 1]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1163/156856800741153', 'ISSN': ['0169-1015', '1568-5683'], 'issn-type': [{'value': '0169-1015', 'type': 'print'}, {'value': '1568-5683', 'type': 'electronic'}]}
+>>> hash >>> ('Graph matching for visual object recognition', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Lei Zou , Lei Chen , M. Tamer Ã–zsu, Distance-join: pattern match query in a large graph database, Proceedings of the VLDB Endowment, v.2 n.1, August 2009
+>>> DOI >>> 10.14778/1687627.1687727
+>>> URL >>> http://dx.doi.org/10.14778/1687627.1687727
+>>> year >>> 2009.0
+>>> title >>> Distance-join
+>>> author >>> Lei Zou and Lei Chen and M. Tamer Özsu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 53.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:31:32Z', 'timestamp': 1525797092495}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2009, 8, 1]]}, 'DOI': '10.14778/1687627.1687727', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '886-897', 'source': 'Crossref', 'is-referenced-by-count': 53, 'title': ['Distance-join'], 'prefix': '10.14778', 'volume': '2', 'author': [{'given': 'Lei', 'family': 'Zou', 'sequence': 'first', 'affiliation': []}, {'given': 'Lei', 'family': 'Chen', 'sequence': 'additional', 'affiliation': []}, {'given': 'M. Tamer', 'family': 'Özsu', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:22:52Z', 'timestamp': 1403612572000}, 'score': 89.283165, 'subtitle': ['pattern match query in a large graph database'], 'issued': {'date-parts': [[2009, 8, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2009, 8, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.14778/1687627.1687727', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('Distance-join', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Chao Liu , Chen Chen , Jiawei Han , Philip S. Yu, GPLAG: detection of software plagiarism by program dependence graph analysis, Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining, August 20-23, 2006, Philadelphia, PA, USA  [doi>10.1145/1150402.1150522]
+>>> DOI >>> 10.1145/1150402.1150522
+>>> URL >>> http://dx.doi.org/10.1145/1150402.1150522
+>>> year >>> 2006.0
+>>> title >>> GPLAG
+>>> author >>> Chao Liu and Chen Chen and Jiawei Han and Philip S. Yu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 77.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '06"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T04:42:27Z', 'timestamp': 1528260147684}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1595933395', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.1145/1150402.1150522', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 10, 18]], 'date-time': '2006-10-18T22:04:00Z', 'timestamp': 1161209040000}, 'source': 'Crossref', 'is-referenced-by-count': 77, 'title': ['GPLAG'], 'prefix': '10.1145', 'author': [{'given': 'Chao', 'family': 'Liu', 'sequence': 'first', 'affiliation': []}, {'given': 'Chen', 'family': 'Chen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jiawei', 'family': 'Han', 'sequence': 'additional', 'affiliation': []}, {'given': 'Philip S.', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 12th ACM SIGKDD international conference', 'location': 'Philadelphia, PA, USA', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGKDD, ACM Special Interest Group on Knowledge Discovery in Data', 'SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "KDD '06", 'number': '12', 'start': {'date-parts': [[2006, 8, 20]]}, 'end': {'date-parts': [[2006, 8, 23]]}}, 'container-title': ["Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '06"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1150522&amp;ftid=371684&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 12]], 'date-time': '2016-12-12T18:09:33Z', 'timestamp': 1481566173000}, 'score': 128.04822, 'subtitle': ['detection of software plagiarism by program dependence graph analysis'], 'issued': {'date-parts': [[2006]]}, 'ISBN': ['1595933395'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1150402.1150522'}
+>>> hash >>> ('GPLAG', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. Papadimitriou, A. Dasdan, and H. Garcia-Molina. Web graph similarity for anomaly detection. Technical report, 2008.
+>>> DOI >>> 10.1145/1367497.1367709
+>>> URL >>> http://dx.doi.org/10.1145/1367497.1367709
+>>> year >>> 2008.0
+>>> title >>> Web graph similarity for anomaly detection (poster)
+>>> author >>> Panagiotis Papadimitriou and Ali Dasdan and Hector Garcia-Molina
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ["Proceeding of the 17th international conference on World Wide Web  - WWW '08"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T10:00:22Z', 'timestamp': 1525428022156}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605580852', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.1145/1367497.1367709', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 5, 15]], 'date-time': '2008-05-15T18:35:39Z', 'timestamp': 1210876539000}, 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Web graph similarity for anomaly detection (poster)'], 'prefix': '10.1145', 'author': [{'given': 'Panagiotis', 'family': 'Papadimitriou', 'sequence': 'first', 'affiliation': []}, {'given': 'Ali', 'family': 'Dasdan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Hector', 'family': 'Garcia-Molina', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'Proceeding of the 17th international conference', 'location': 'Beijing, China', 'sponsor': ['ACM, Association for Computing Machinery'], 'acronym': "WWW '08", 'number': '17', 'start': {'date-parts': [[2008, 4, 21]]}, 'end': {'date-parts': [[2008, 4, 25]]}}, 'container-title': ["Proceeding of the 17th international conference on World Wide Web  - WWW '08"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1367709&amp;ftid=498210&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T12:17:27Z', 'timestamp': 1481890647000}, 'score': 71.268105, 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9781605580852'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1367497.1367709'}
+>>> hash >>> ('Web graph similarity for anomaly detection (poster)', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Krishna Bharat , Andrei Broder, Mirror, mirror on the Web: a study of host pairs with replicated content, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.31 n.11-16, p.1579-1590, May 17, 1999  [doi>10.1016/S1389-1286(99)00021-3]
+>>> DOI >>> 10.1016/s1389-1286(99)00021-3
+>>> URL >>> http://dx.doi.org/10.1016/s1389-1286(99)00021-3
+>>> year >>> 1999.0
+>>> title >>> Mirror, mirror on the Web: a study of host pairs with replicated content
+>>> author >>> Krishna Bharat and Andrei Broder
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Networks']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:27:44Z', 'timestamp': 1525310864391}, 'reference-count': 16, 'publisher': 'Elsevier BV', 'issue': '11-16', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1999, 5, 1]], 'date-time': '1999-05-01T00:00:00Z', 'timestamp': 925516800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Networks'], 'published-print': {'date-parts': [[1999, 5]]}, 'DOI': '10.1016/s1389-1286(99)00021-3', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T02:32:32Z', 'timestamp': 1027650752000}, 'page': '1579-1590', 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['Mirror, mirror on the Web: a study of host pairs with replicated content'], 'prefix': '10.1016', 'volume': '31', 'author': [{'given': 'Krishna', 'family': 'Bharat', 'sequence': 'first', 'affiliation': []}, {'given': 'Andrei', 'family': 'Broder', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Computer Networks'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1389128699000213?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1389128699000213?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 10, 27]], 'date-time': '2017-10-27T00:29:50Z', 'timestamp': 1509064190000}, 'score': 131.13567, 'issued': {'date-parts': [[1999, 5]]}, 'references-count': 16, 'journal-issue': {'published-print': {'date-parts': [[1999, 5]]}, 'issue': '11-16'}, 'alternative-id': ['S1389128699000213'], 'URL': 'http://dx.doi.org/10.1016/s1389-1286(99)00021-3', 'ISSN': ['1389-1286'], 'issn-type': [{'value': '1389-1286', 'type': 'print'}]}
+>>> hash >>> ('Mirror, mirror on the Web: a study of host pairs with replicated content', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sergey Melnik , Hector Garcia-Molina , Erhard Rahm, Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching, Proceedings of the 18th International Conference on Data Engineering, p.117, February 26-March 01, 2002
+>>> DOI >>> 10.1109/icde.2002.994702
+>>> URL >>> http://dx.doi.org/10.1109/icde.2002.994702
+>>> year >>> None
+>>> title >>> Similarity flooding: a versatile graph matching algorithm and its application to schema matching
+>>> author >>> S. Melnik and H. Garcia-Molina and E. Rahm
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 305.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings 18th International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T17:02:29Z', 'timestamp': 1528304549974}, 'reference-count': 18, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769515312', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icde.2002.994702', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 6, 25]], 'date-time': '2003-06-25T20:23:04Z', 'timestamp': 1056572584000}, 'source': 'Crossref', 'is-referenced-by-count': 305, 'title': ['Similarity flooding: a versatile graph matching algorithm and its application to schema matching'], 'prefix': '10.1109', 'author': [{'given': 'S.', 'family': 'Melnik', 'sequence': 'first', 'affiliation': []}, {'given': 'H.', 'family': 'Garcia-Molina', 'sequence': 'additional', 'affiliation': []}, {'given': 'E.', 'family': 'Rahm', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '18th International Conference on Data Engineering', 'location': 'San Jose, CA, USA', 'acronym': 'ICDE-02'}, 'container-title': ['Proceedings 18th International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/7807/21451/00994702.pdf?arnumber=994702', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T20:00:23Z', 'timestamp': 1489176023000}, 'score': 138.8859, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769515312'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1109/icde.2002.994702'}
+>>> hash >>> ('Similarity flooding: a versatile graph matching algorithm and its application to schema matching', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. M. HalldÃ³rsson. Approximations of weighted independent set and hereditary subset problems. J. Graph Algorithms Appl., 4(1), 2000.
+>>> DOI >>> 10.7155/jgaa.00020
+>>> URL >>> http://dx.doi.org/10.7155/jgaa.00020
+>>> year >>> 2000.0
+>>> title >>> Approximations of Weighted Independent Set and Hereditary Subset Problems
+>>> author >>> Magnús M. Halldórsson
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 43.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Graph Algorithms and Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T14:16:16Z', 'timestamp': 1525529776093}, 'reference-count': 0, 'publisher': 'Journal of Graph Algorithms and Applications', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JGAA', 'J. Graph Algorithms Appl.'], 'DOI': '10.7155/jgaa.00020', 'type': 'journal-article', 'created': {'date-parts': [[2012, 7, 19]], 'date-time': '2012-07-19T08:23:58Z', 'timestamp': 1342686238000}, 'page': '1-16', 'source': 'Crossref', 'is-referenced-by-count': 43, 'title': ['Approximations of Weighted Independent Set and Hereditary Subset Problems'], 'prefix': '10.7155', 'volume': '4', 'author': [{'given': 'Magnús M.', 'family': 'Halldórsson', 'sequence': 'first', 'affiliation': []}], 'member': '4175', 'published-online': {'date-parts': [[2000]]}, 'container-title': ['Journal of Graph Algorithms and Applications'], 'language': 'en', 'deposited': {'date-parts': [[2012, 11, 5]], 'date-time': '2012-11-05T22:18:03Z', 'timestamp': 1352153883000}, 'score': 71.67768, 'issued': {'date-parts': [[2000]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2000]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.7155/jgaa.00020', 'ISSN': ['1526-1719'], 'issn-type': [{'value': '1526-1719', 'type': 'electronic'}]}
+>>> hash >>> ('Approximations of Weighted Independent Set and Hereditary Subset Problems', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Jiefeng Cheng , Jeffrey Xu Yu , Bolin Ding , Philip S. Yu , Haixun Wang, Fast Graph Pattern Matching, Proceedings of the 2008 IEEE 24th International Conference on Data Engineering, p.913-922, April 07-12, 2008  [doi>10.1109/ICDE.2008.4497500]
+>>> DOI >>> 10.1109/icde.2008.4497500
+>>> URL >>> http://dx.doi.org/10.1109/icde.2008.4497500
+>>> year >>> 2008.0
+>>> title >>> Fast Graph Pattern Matching
+>>> author >>> Jiefeng Cheng and Jeffrey Xu Yu and Bolin Ding and Philip S. Yu and Haixun Wang
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 25.0
+>>> subject >>> None
+>>> container_title >>> ['2008 IEEE 24th International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T09:20:05Z', 'timestamp': 1525425605249}, 'reference-count': 32, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424418374', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 4]]}, 'DOI': '10.1109/icde.2008.4497500', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 4, 29]], 'date-time': '2008-04-29T19:04:39Z', 'timestamp': 1209495879000}, 'source': 'Crossref', 'is-referenced-by-count': 25, 'title': ['Fast Graph Pattern Matching'], 'prefix': '10.1109', 'author': [{'given': 'Jiefeng', 'family': 'Cheng', 'sequence': 'first', 'affiliation': []}, {'given': 'Jeffrey Xu', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Bolin', 'family': 'Ding', 'sequence': 'additional', 'affiliation': []}, {'given': 'Philip S.', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Haixun', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2008 IEEE 24th International Conference on Data Engineering (ICDE 2008)', 'location': 'Cancun, Mexico', 'start': {'date-parts': [[2008, 4, 7]]}, 'end': {'date-parts': [[2008, 4, 12]]}}, 'container-title': ['2008 IEEE 24th International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4492792/4497384/04497500.pdf?arnumber=4497500', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T22:48:29Z', 'timestamp': 1489704509000}, 'score': 102.018005, 'issued': {'date-parts': [[2008, 4]]}, 'ISBN': ['9781424418367', '9781424418374'], 'references-count': 32, 'URL': 'http://dx.doi.org/10.1109/icde.2008.4497500'}
+>>> hash >>> ('Fast Graph Pattern Matching', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Wenfei Fan , Philip Bohannon, Information preserving XML schema embedding, ACM Transactions on Database Systems (TODS), v.33 n.1, p.1-44, March 2008  [doi>10.1145/1331904.1331908]
+>>> DOI >>> 10.1145/1331904.1331908
+>>> URL >>> http://dx.doi.org/10.1145/1331904.1331908
+>>> year >>> 2008.0
+>>> title >>> Information preserving XML schema embedding
+>>> author >>> Wenfei Fan and Philip Bohannon
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['ACM Transactions on Database Systems']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T07:49:36Z', 'timestamp': 1525420176714}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['TODS', 'ACM Trans. Database Syst.'], 'published-print': {'date-parts': [[2008, 3, 1]]}, 'DOI': '10.1145/1331904.1331908', 'type': 'journal-article', 'created': {'date-parts': [[2008, 3, 25]], 'date-time': '2008-03-25T14:01:40Z', 'timestamp': 1206453700000}, 'page': '1-44', 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['Information preserving XML schema embedding'], 'prefix': '10.1145', 'volume': '33', 'author': [{'given': 'Wenfei', 'family': 'Fan', 'sequence': 'first', 'affiliation': []}, {'given': 'Philip', 'family': 'Bohannon', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['ACM Transactions on Database Systems'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1331908&amp;ftid=500792&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T16:23:05Z', 'timestamp': 1481905385000}, 'score': 111.52818, 'issued': {'date-parts': [[2008, 3, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2008, 3, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1145/1331904.1331908', 'ISSN': ['0362-5915'], 'issn-type': [{'value': '0362-5915', 'type': 'print'}]}
+>>> hash >>> ('Information preserving XML schema embedding', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Dennis Shasha , Jason T. L. Wang , Rosalba Giugno, Algorithmics and applications of tree and graph searching, Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, June 03-05, 2002, Madison, Wisconsin  [doi>10.1145/543613.543620]
+>>> DOI >>> 10.1145/543613.543620
+>>> URL >>> http://dx.doi.org/10.1145/543613.543620
+>>> year >>> 2002.0
+>>> title >>> Algorithmics and applications of tree and graph searching
+>>> author >>> Dennis Shasha and Jason T. L. Wang and Rosalba Giugno
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 99.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems  - PODS '02"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T03:18:20Z', 'timestamp': 1525403900555}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1581135076', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.1145/543613.543620', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 4, 19]], 'date-time': '2004-04-19T17:18:43Z', 'timestamp': 1082395123000}, 'source': 'Crossref', 'is-referenced-by-count': 99, 'title': ['Algorithmics and applications of tree and graph searching'], 'prefix': '10.1145', 'author': [{'given': 'Dennis', 'family': 'Shasha', 'sequence': 'first', 'affiliation': []}, {'given': 'Jason T. L.', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Rosalba', 'family': 'Giugno', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the twenty-first ACM SIGMOD-SIGACT-SIGART symposium', 'location': 'Madison, Wisconsin', 'sponsor': ['SIGART, ACM Special Interest Group on Artificial Intelligence', 'SIGMOD, ACM Special Interest Group on Management of Data', 'SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "PODS '02", 'number': '21', 'start': {'date-parts': [[2002, 6, 3]]}, 'end': {'date-parts': [[2002, 6, 5]]}}, 'container-title': ["Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems  - PODS '02"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=543620&amp;ftid=71752&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T05:56:43Z', 'timestamp': 1481867803000}, 'score': 126.22739, 'issued': {'date-parts': [[2002]]}, 'ISBN': ['1581135076'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/543613.543620'}
+>>> hash >>> ('Algorithmics and applications of tree and graph searching', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Yuanyuan Tian , Jignesh M. Patel, TALE: A Tool for Approximate Large Graph Matching, Proceedings of the 2008 IEEE 24th International Conference on Data Engineering, p.963-972, April 07-12, 2008  [doi>10.1109/ICDE.2008.4497505]
+>>> DOI >>> 10.1109/icde.2008.4497505
+>>> URL >>> http://dx.doi.org/10.1109/icde.2008.4497505
+>>> year >>> 2008.0
+>>> title >>> TALE: A Tool for Approximate Large Graph Matching
+>>> author >>> Yuanyuan Tian and Jignesh M. Patel
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 85.0
+>>> subject >>> None
+>>> container_title >>> ['2008 IEEE 24th International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T04:02:38Z', 'timestamp': 1527220958446}, 'reference-count': 22, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424418374', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 4]]}, 'DOI': '10.1109/icde.2008.4497505', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 4, 29]], 'date-time': '2008-04-29T19:04:39Z', 'timestamp': 1209495879000}, 'source': 'Crossref', 'is-referenced-by-count': 85, 'title': ['TALE: A Tool for Approximate Large Graph Matching'], 'prefix': '10.1109', 'author': [{'given': 'Yuanyuan', 'family': 'Tian', 'sequence': 'first', 'affiliation': []}, {'given': 'Jignesh M.', 'family': 'Patel', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2008 IEEE 24th International Conference on Data Engineering (ICDE 2008)', 'location': 'Cancun, Mexico', 'start': {'date-parts': [[2008, 4, 7]]}, 'end': {'date-parts': [[2008, 4, 12]]}}, 'container-title': ['2008 IEEE 24th International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4492792/4497384/04497505.pdf?arnumber=4497505', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T23:10:11Z', 'timestamp': 1489705811000}, 'score': 100.48529, 'issued': {'date-parts': [[2008, 4]]}, 'ISBN': ['9781424418367', '9781424418374'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1109/icde.2008.4497505'}
+>>> hash >>> ('TALE: A Tool for Approximate Large Graph Matching', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Xifeng Yan , Philip S. Yu , Jiawei Han, Substructure similarity search in graph databases, Proceedings of the 2005 ACM SIGMOD international conference on Management of data, June 14-16, 2005, Baltimore, Maryland  [doi>10.1145/1066157.1066244]
+>>> DOI >>> 10.1145/1066157.1066244
+>>> URL >>> http://dx.doi.org/10.1145/1066157.1066244
+>>> year >>> 2005.0
+>>> title >>> Substructure similarity search in graph databases
+>>> author >>> Xifeng Yan and Philip S. Yu and Jiawei Han
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 86.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2005 ACM SIGMOD international conference on Management of data  - SIGMOD '05"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T21:02:20Z', 'timestamp': 1525467740194}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1595930604', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1145/1066157.1066244', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 8, 3]], 'date-time': '2005-08-03T08:31:47Z', 'timestamp': 1123057907000}, 'source': 'Crossref', 'is-referenced-by-count': 86, 'title': ['Substructure similarity search in graph databases'], 'prefix': '10.1145', 'author': [{'given': 'Xifeng', 'family': 'Yan', 'sequence': 'first', 'affiliation': []}, {'given': 'Philip S.', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jiawei', 'family': 'Han', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2005 ACM SIGMOD international conference', 'location': 'Baltimore, Maryland', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '05", 'start': {'date-parts': [[2005, 6, 14]]}, 'end': {'date-parts': [[2005, 6, 16]]}}, 'container-title': ["Proceedings of the 2005 ACM SIGMOD international conference on Management of data  - SIGMOD '05"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1066244&amp;ftid=315106&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T06:45:07Z', 'timestamp': 1481870707000}, 'score': 92.10421, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['1595930604'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1066157.1066244'}
+>>> hash >>> ('Substructure similarity search in graph databases', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Z. Zeng, A. K. Tung, J. Wang, J. Feng, and L. Zhou. Edit distance evaluation on graph structures. In VLDB, 2009.
+>>> DOI >>> 10.14778/1687627.1687631
+>>> URL >>> http://dx.doi.org/10.14778/1687627.1687631
+>>> year >>> 2009.0
+>>> title >>> Comparing stars
+>>> author >>> Zhiping Zeng and Anthony K. H. Tung and Jianyong Wang and Jianhua Feng and Lizhu Zhou
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 74.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:31:32Z', 'timestamp': 1525797092006}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2009, 8, 1]]}, 'DOI': '10.14778/1687627.1687631', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '25-36', 'source': 'Crossref', 'is-referenced-by-count': 74, 'title': ['Comparing stars'], 'prefix': '10.14778', 'volume': '2', 'author': [{'given': 'Zhiping', 'family': 'Zeng', 'sequence': 'first', 'affiliation': []}, {'given': 'Anthony K. H.', 'family': 'Tung', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jianyong', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jianhua', 'family': 'Feng', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lizhu', 'family': 'Zhou', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:21:47Z', 'timestamp': 1403612507000}, 'score': 66.162834, 'subtitle': ['on approximating graph edit distance'], 'issued': {'date-parts': [[2009, 8, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2009, 8, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.14778/1687627.1687631', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('Comparing stars', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Vincent D. Blondel , AnahÃ­ Gajardo , Maureen Heymans , Pierre Senellart , Paul Van Dooren, A Measure of Similarity between Graph Vertices: Applications to Synonym Extraction and Web Searching, SIAM Review, v.46 n.4, p.647-666, 2004  [doi>10.1137/S0036144502415960]
+>>> DOI >>> 10.1137/s0036144502415960
+>>> URL >>> http://dx.doi.org/10.1137/s0036144502415960
+>>> year >>> 2004.0
+>>> title >>> A Measure of Similarity between Graph Vertices: Applications to Synonym Extraction and Web Searching
+>>> author >>> Vincent D. Blondel and Anahí Gajardo and Maureen Heymans and Pierre Senellart and Paul Van Dooren
+>>> reference_count >>> 8.0
+>>> is_referenced_by_count >>> 132.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Review']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T07:42:40Z', 'timestamp': 1528443760161}, 'reference-count': 8, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM Rev.'], 'published-print': {'date-parts': [[2004, 1]]}, 'DOI': '10.1137/s0036144502415960', 'type': 'journal-article', 'created': {'date-parts': [[2005, 9, 8]], 'date-time': '2005-09-08T01:00:16Z', 'timestamp': 1126141216000}, 'page': '647-666', 'source': 'Crossref', 'is-referenced-by-count': 132, 'title': ['A Measure of Similarity between Graph Vertices: Applications to Synonym Extraction and Web Searching'], 'prefix': '10.1137', 'volume': '46', 'author': [{'given': 'Vincent D.', 'family': 'Blondel', 'sequence': 'first', 'affiliation': []}, {'given': 'Anahí', 'family': 'Gajardo', 'sequence': 'additional', 'affiliation': []}, {'given': 'Maureen', 'family': 'Heymans', 'sequence': 'additional', 'affiliation': []}, {'given': 'Pierre', 'family': 'Senellart', 'sequence': 'additional', 'affiliation': []}, {'given': 'Paul', 'family': 'Van Dooren', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Review'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/S0036144502415960', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T18:35:50Z', 'timestamp': 1485714950000}, 'score': 154.59367, 'issued': {'date-parts': [[2004, 1]]}, 'references-count': 8, 'journal-issue': {'published-print': {'date-parts': [[2004, 1]]}, 'issue': '4'}, 'alternative-id': ['10.1137/S0036144502415960'], 'URL': 'http://dx.doi.org/10.1137/s0036144502415960', 'ISSN': ['0036-1445', '1095-7200'], 'issn-type': [{'value': '0036-1445', 'type': 'print'}, {'value': '1095-7200', 'type': 'electronic'}]}
+>>> hash >>> ('A Measure of Similarity between Graph Vertices: Applications to Synonym Extraction and Web Searching', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sachindra Joshi , Neeraj Agrawal , Raghu Krishnapuram , Sumit Negi, A bag of paths model for measuring structural similarity in Web documents, Proceedings of the ninth ACM SIGKDD international conference on Knowledge discovery and data mining, August 24-27, 2003, Washington, D.C.  [doi>10.1145/956750.956822]
+>>> DOI >>> 10.1145/956804.956822
+>>> URL >>> http://dx.doi.org/10.1145/956804.956822
+>>> year >>> 2003.0
+>>> title >>> A bag of paths model for measuring structural similarity in Web documents
+>>> author >>> Sachindra Joshi and Neeraj Agrawal and Raghu Krishnapuram and Sumit Negi
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the ninth ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '03"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 30]], 'date-time': '2018-04-30T01:15:26Z', 'timestamp': 1525050926385}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.1145/956804.956822', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 2, 3]], 'date-time': '2004-02-03T17:05:38Z', 'timestamp': 1075827938000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['A bag of paths model for measuring structural similarity in Web documents'], 'prefix': '10.1145', 'author': [{'given': 'Sachindra', 'family': 'Joshi', 'sequence': 'first', 'affiliation': []}, {'given': 'Neeraj', 'family': 'Agrawal', 'sequence': 'additional', 'affiliation': []}, {'given': 'Raghu', 'family': 'Krishnapuram', 'sequence': 'additional', 'affiliation': []}, {'given': 'Sumit', 'family': 'Negi', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the ninth ACM SIGKDD international conference', 'location': 'Washington, D.C.', 'sponsor': ['SIGKDD, ACM Special Interest Group on Knowledge Discovery in Data', 'SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "KDD '03", 'number': '9', 'start': {'date-parts': [[2003, 8, 24]]}, 'end': {'date-parts': [[2003, 8, 27]]}}, 'container-title': ["Proceedings of the ninth ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '03"], 'deposited': {'date-parts': [[2015, 4, 9]], 'date-time': '2015-04-09T23:53:02Z', 'timestamp': 1428623582000}, 'score': 135.35727, 'issued': {'date-parts': [[2003]]}, 'ISBN': ['1581137370'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/956804.956822'}
+>>> hash >>> ('A bag of paths model for measuring structural similarity in Web documents', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ravi Boppana , MagnÃºs M. HalldÃ³rsson, Approximating maximum independent sets by excluding subgraphs, BIT, v.32 n.2, p.180-196, 1992  [doi>10.1007/BF01994876]
+>>> DOI >>> 10.1007/bf01994876
+>>> URL >>> http://dx.doi.org/10.1007/bf01994876
+>>> year >>> 1992.0
+>>> title >>> Approximating maximum independent sets by excluding subgraphs
+>>> author >>> Ravi Boppana and Magnús M. Halldórsson
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 91.0
+>>> subject >>> None
+>>> container_title >>> ['BIT']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T21:10:34Z', 'timestamp': 1525468234549}, 'reference-count': 22, 'publisher': 'Springer Nature', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['BIT'], 'published-print': {'date-parts': [[1992, 6]]}, 'DOI': '10.1007/bf01994876', 'type': 'journal-article', 'created': {'date-parts': [[2005, 8, 4]], 'date-time': '2005-08-04T20:22:09Z', 'timestamp': 1123186929000}, 'page': '180-196', 'source': 'Crossref', 'is-referenced-by-count': 91, 'title': ['Approximating maximum independent sets by excluding subgraphs'], 'prefix': '10.1007', 'volume': '32', 'author': [{'given': 'Ravi', 'family': 'Boppana', 'sequence': 'first', 'affiliation': []}, {'given': 'Magnús M.', 'family': 'Halldórsson', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'BF01994876_CR1', 'first-page': '354', 'volume': '29', 'author': 'M. Ajtai', 'year': '1980', 'unstructured': 'M. Ajtai, J. Komlós, and E. Szemerédi.A note on Ramsey numbers. J. Combin. Theory Ser A, 29: 354–360, 1980.', 'journal-title': 'J. Combin. Theory Ser A'}, {'key': 'BF01994876_CR2', 'unstructured': 'S. Arora and S. Safra.Approximating clique is NP-complete. Manuscript.'}, {'key': 'BF01994876_CR3', 'unstructured': 'R. Bar-Yehuda and S. Even.A 2 — loglogn/2 logn performance ratio for the weighted vertex cover problem. Technical Report #260, Technion, Haifa, Jan. 1983.'}, {'issue': '4', 'key': 'BF01994876_CR4', 'first-page': '459', 'volume': '5', 'author': 'B. Berger', 'year': '1990', 'unstructured': 'B. Berger and J. Rompel.A better performance guarantee for approximate graph coloring. Algorithmica, 5 (4): 459–466, 1990.', 'journal-title': 'Algorithmica'}, {'issue': '1', 'key': 'BF01994876_CR5', 'first-page': '77', 'volume': '96', 'author': 'P. Berman', 'year': '1992', 'unstructured': 'P. Berman and G. Schnitger.On the complexity of approximating the independent set problem. Information and Computation, 96 (1): 77–94, Jan. 1992.', 'journal-title': 'Information and Computation'}, {'key': 'BF01994876_CR6', 'unstructured': 'A. Blum.An O (n 4)approximation algorithm for 3-coloring. In Proc. 22nd Ann. ACM Symp. on Theory of Computing, pages 535–542, 1989. Submitted to J. ACM.'}, {'key': 'BF01994876_CR7', 'unstructured': 'A. Blum.Some tools for approximate 3-coloring. In Proc. 31st Ann. IEEE Symp. on Found. of Comp. Sci., pages 554–562, Oct. 1990.'}, {'key': 'BF01994876_CR8', 'unstructured': 'B. Bollobás.Random Graphs. Academic Press, 1985.'}, {'key': 'BF01994876_CR9', 'unstructured': 'R. B. Boppana and M. M. Halldórsson.Approximating maximum independent sets by excluding subgraphs. In Proc. of 2nd Scand. Workshop on Algorithm Theory. Lecture Notes in Computer Science #447, pages 13–25. Springer-Verlag, July 1990.'}, {'key': 'BF01994876_CR10', 'unstructured': 'V. Chvátal.Determining the stability number of a graph. SIAM J. Comput., 6 (4), Dec. 1977.'}, {'key': 'BF01994876_CR11', 'first-page': '253', 'volume': '16', 'author': 'P. Erdös', 'year': '1967', 'unstructured': 'P. Erdös.Some remarks on chromatic graphs. Colloq. Math., 16: 253–256, 1967.', 'journal-title': 'Colloq. Math.'}, {'key': 'BF01994876_CR12', 'first-page': '463', 'volume': '2', 'author': 'P. Erdös', 'year': '1935', 'unstructured': 'P. Erdös and G. Szekeres.A combinatorial problem in geometry. Compositio Math., 2: 463–470, 1935.', 'journal-title': 'Compositio Math.'}, {'key': 'BF01994876_CR13', 'unstructured': 'U. Feige, S. Goldwasser, L. Lovász, S. Safra and M. Szegedy.Approximating clique is almost NP-complete. In Proc. 32nd Ann. IEEE Symp. on Found. of Comp. Sci., pp. 2–12, Oct. 1991.'}, {'key': 'BF01994876_CR14', 'first-page': '165', 'volume': '8', 'author': 'T. Gallai', 'year': '1963', 'unstructured': 'T. Gallai.Kritische graphen I. Publ. Math. Inst. Hungar. Acad. Sci., 8: 165–192, 1963. (See Bollobás, B.Extremal Graph Theory., Academic Press, 1978, page 285).', 'journal-title': 'Publ. Math. Inst. Hungar. Acad. Sci.'}, {'key': 'BF01994876_CR15', 'unstructured': 'M. R. Garey and D. S. Johnson.Computers and Intractability: A Guide to the Theory of NP-completeness. Freeman, 1979.'}, {'key': 'BF01994876_CR16', 'unstructured': 'M. M. Halldórsson.A still better performance guarantee for approximate graph coloring. Technical Report 90-44, DIMACS, June 1990.'}, {'key': 'BF01994876_CR17', 'unstructured': 'D. S. Johnson.Worst case behaviour of graph coloring algorithms. In Proc. 5th Southeastern Conf. on Combinatorics, Graph Theory, and Computing. Congressus Numerantium X, pages 513–527, 1974.'}, {'key': 'BF01994876_CR18', 'unstructured': 'N. Linial and U. Vazirani.Graph products and chromatic numbers. In Proc. 30th Ann. IEEE Symp. on Found. of Comp. Sci., pages 124–128, 1989.'}, {'key': 'BF01994876_CR19', 'first-page': '115', 'volume': '22', 'author': 'B. Monien', 'year': '1985', 'unstructured': 'B. Monien and E. Speckenmeyer.Ramsey numbers and an approximation algorithm for the vertex cover problem. Acta Inf., 22: 115–123, 1985.', 'journal-title': 'Acta Inf.'}, {'key': 'BF01994876_CR20', 'first-page': '83', 'volume': '46', 'author': 'J. B. Shearer', 'year': '1983', 'unstructured': 'J. B. Shearer.A note on the independence number of triangle-free graphs. Discrete Math., 46: 83–87, 1983.', 'journal-title': 'Discrete Math.'}, {'issue': '4', 'key': 'BF01994876_CR21', 'first-page': '729', 'volume': '30', 'author': 'A. Wigderson', 'year': '1983', 'unstructured': 'A. Wigderson.Improving the performance guarantee for approximate graph coloring. J. ACM, 30 (4): 729–735, 1983.', 'journal-title': 'J. ACM'}, {'key': 'BF01994876_CR22', 'unstructured': 'S. Arora, C. Lund, R. Motwani, M. Sudan and M. Szegedy.On the intractability of approximation problems. Manuscript.'}], 'container-title': ['BIT'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF01994876', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 2, 8]], 'date-time': '2013-02-08T04:03:08Z', 'timestamp': 1360296188000}, 'score': 102.28475, 'issued': {'date-parts': [[1992, 6]]}, 'references-count': 22, 'journal-issue': {'published-print': {'date-parts': [[1992, 6]]}, 'issue': '2'}, 'alternative-id': ['BF01994876'], 'URL': 'http://dx.doi.org/10.1007/bf01994876', 'relation': {'cites': []}, 'ISSN': ['0006-3835', '1572-9125'], 'issn-type': [{'value': '0006-3835', 'type': 'print'}, {'value': '1572-9125', 'type': 'electronic'}]}
+>>> hash >>> ('Approximating maximum independent sets by excluding subgraphs', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Junghoo Cho , Narayanan Shivakumar , Hector Garcia-Molina, Finding replicated Web collections, ACM SIGMOD Record, v.29 n.2, p.355-366, June 2000  [doi>10.1145/335191.335429]
+>>> DOI >>> 10.1145/335191.335429
+>>> URL >>> http://dx.doi.org/10.1145/335191.335429
+>>> year >>> 2000.0
+>>> title >>> Finding replicated Web collections
+>>> author >>> Junghoo Cho and Narayanan Shivakumar and Hector Garcia-Molina
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['ACM SIGMOD Record']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T00:01:49Z', 'timestamp': 1525478509927}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIGMOD Rec.'], 'published-print': {'date-parts': [[2000, 6, 1]]}, 'DOI': '10.1145/335191.335429', 'type': 'journal-article', 'created': {'date-parts': [[2005, 11, 9]], 'date-time': '2005-11-09T22:23:27Z', 'timestamp': 1131575007000}, 'page': '355-366', 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['Finding replicated Web collections'], 'prefix': '10.1145', 'volume': '29', 'author': [{'given': 'Junghoo', 'family': 'Cho', 'sequence': 'first', 'affiliation': []}, {'given': 'Narayanan', 'family': 'Shivakumar', 'sequence': 'additional', 'affiliation': []}, {'given': 'Hector', 'family': 'Garcia-Molina', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['ACM SIGMOD Record'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=335429&amp;ftid=2095&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T22:25:01Z', 'timestamp': 1481840701000}, 'score': 115.904366, 'issued': {'date-parts': [[2000, 6, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2000, 6, 1]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1145/335191.335429', 'ISSN': ['0163-5808'], 'issn-type': [{'value': '0163-5808', 'type': 'print'}]}
+>>> hash >>> ('Finding replicated Web collections', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Thomas H. Cormen , Clifford Stein , Ronald L. Rivest , Charles E. Leiserson, Introduction to Algorithms, McGraw-Hill Higher Education, 2001
+>>> DOI >>> 10.1515/9783110522013
+>>> URL >>> http://dx.doi.org/10.1515/9783110522013
+>>> year >>> 2017.0
+>>> title >>> Algorithmen - Eine Einführung
+>>> author >>> Thomas H. Cormen and Charles E. Leiserson and Ronald Rivest and Clifford Stein
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T10:38:56Z', 'timestamp': 1524047936013}, 'publisher-location': 'Berlin, Boston', 'reference-count': 0, 'publisher': 'De Gruyter', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2017, 1, 31]]}, 'DOI': '10.1515/9783110522013', 'type': 'monograph', 'created': {'date-parts': [[2017, 3, 8]], 'date-time': '2017-03-08T10:01:28Z', 'timestamp': 1488967288000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Algorithmen - Eine Einführung'], 'prefix': '10.1515', 'author': [{'given': 'Thomas H.', 'family': 'Cormen', 'sequence': 'first', 'affiliation': []}, {'given': 'Charles E.', 'family': 'Leiserson', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ronald', 'family': 'Rivest', 'sequence': 'additional', 'affiliation': []}, {'given': 'Clifford', 'family': 'Stein', 'sequence': 'additional', 'affiliation': []}], 'member': '374', 'link': [{'URL': 'http://www.degruyter.com/view/books/9783110522013/9783110522013/9783110522013.xml', 'content-type': 'text/html', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://www.degruyter.com/view/books/9783110522013/9783110522013/9783110522013.xml', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 4, 26]], 'date-time': '2017-04-26T10:02:30Z', 'timestamp': 1493200950000}, 'score': 57.213524, 'issued': {'date-parts': [[2017, 1, 31]]}, 'ISBN': ['9783110522013'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1515/9783110522013'}
+>>> hash >>> ('Algorithmen - Eine Einführung', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Vijay V. Vazirani, Approximation algorithms, Springer-Verlag New York, Inc., New York, NY, 2001
+>>> DOI >>> 10.1002/hed.2890040316
+>>> URL >>> http://dx.doi.org/10.1002/hed.2890040316
+>>> year >>> 1982.0
+>>> title >>> Breathing, speech, and song. By Donald F. Proctor, 176 pp, illus, Springer-Verlag New York, Inc., New York, NY, 1980. $19.80
+>>> author >>> Robert C. Bone
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Head & Neck Surgery']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T11:49:35Z', 'timestamp': 1525348175967}, 'reference-count': 0, 'publisher': 'Wiley', 'issue': '3', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 12206, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Head Neck'], 'published-print': {'date-parts': [[1982, 4]]}, 'DOI': '10.1002/hed.2890040316', 'type': 'journal-article', 'created': {'date-parts': [[2007, 2, 20]], 'date-time': '2007-02-20T20:55:26Z', 'timestamp': 1172004926000}, 'page': '265-265', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Breathing, speech, and song. By Donald F. Proctor, 176 pp, illus, Springer-Verlag New York, Inc., New York, NY, 1980. $19.80'], 'prefix': '10.1002', 'volume': '4', 'author': [{'given': 'Robert C.', 'family': 'Bone', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'container-title': ['Head & Neck Surgery'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fhed.2890040316', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 4, 9]], 'date-time': '2017-04-09T10:35:11Z', 'timestamp': 1491734111000}, 'score': 49.079216, 'issued': {'date-parts': [[1982, 4]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1982, 4]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.1002/hed.2890040316', 'ISSN': ['0148-6403', '1930-2398'], 'issn-type': [{'value': '0148-6403', 'type': 'print'}, {'value': '1930-2398', 'type': 'electronic'}]}
+>>> hash >>> ('Breathing, speech, and song. By Donald F. Proctor, 176 pp, illus, Springer-Verlag New York, Inc., New York, NY, 1980. $19.80', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. R. Henzinger , T. A. Henzinger , P. W. Kopke, Computing simulations on finite and infinite graphs, Proceedings of the 36th Annual Symposium on Foundations of Computer Science, p.453, October 23-25, 1995
+>>> DOI >>> 10.1109/sfcs.1995.492576
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1995.492576
+>>> year >>> None
+>>> title >>> Computing simulations on finite and infinite graphs
+>>> author >>> M.R. Henzinger and T.A. Henzinger and P.W. Kopke
+>>> reference_count >>> 35.0
+>>> is_referenced_by_count >>> 84.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of IEEE 36th Annual Foundations of Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T08:42:27Z', 'timestamp': 1527756147024}, 'reference-count': 35, 'publisher': 'IEEE Comput. Soc. Press', 'isbn-type': [{'value': '0818671831', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/sfcs.1995.492576', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 19]], 'date-time': '2002-11-19T19:50:45Z', 'timestamp': 1037735445000}, 'source': 'Crossref', 'is-referenced-by-count': 84, 'title': ['Computing simulations on finite and infinite graphs'], 'prefix': '10.1109', 'author': [{'given': 'M.R.', 'family': 'Henzinger', 'sequence': 'first', 'affiliation': []}, {'given': 'T.A.', 'family': 'Henzinger', 'sequence': 'additional', 'affiliation': []}, {'given': 'P.W.', 'family': 'Kopke', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'IEEE 36th Annual Foundations of Computer Science', 'location': 'Milwaukee, WI, USA', 'acronym': 'SFCS-95'}, 'container-title': ['Proceedings of IEEE 36th Annual Foundations of Computer Science'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx3/3752/10957/00492576.pdf?arnumber=492576', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T15:05:24Z', 'timestamp': 1497539124000}, 'score': 109.0104, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0818671831'], 'references-count': 35, 'URL': 'http://dx.doi.org/10.1109/sfcs.1995.492576'}
+>>> hash >>> ('Computing simulations on finite and infinite graphs', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Li Chen , Amarnath Gupta , M. Erdem Kurul, Stack-based algorithms for pattern matching on DAGs, Proceedings of the 31st international conference on Very large data bases, August 30-September 02, 2005, Trondheim, Norway
+>>> DOI >>> 10.1109/icde.2005.56
+>>> URL >>> http://dx.doi.org/10.1109/icde.2005.56
+>>> year >>> None
+>>> title >>> Efficient Algorithms for Pattern Matching on Directed Acyclic Graphs
+>>> author >>> None
+>>> reference_count >>> 2.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ["21st International Conference on Data Engineering (ICDE'05)"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T17:38:32Z', 'timestamp': 1525455512698}, 'reference-count': 2, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769522858', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icde.2005.56', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 4, 19]], 'date-time': '2005-04-19T19:05:35Z', 'timestamp': 1113937535000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Efficient Algorithms for Pattern Matching on Directed Acyclic Graphs'], 'prefix': '10.1109', 'author': [{'family': 'Li Chen', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Gupta', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.E.', 'family': 'Kurul', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "21st International Conference on Data Engineering (ICDE'05)", 'location': 'Tokyo, Japan'}, 'container-title': ["21st International Conference on Data Engineering (ICDE'05)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/9680/30564/01410145.pdf?arnumber=1410145', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 14]], 'date-time': '2017-03-14T18:21:00Z', 'timestamp': 1489515660000}, 'score': 60.31973, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769522858'], 'references-count': 2, 'URL': 'http://dx.doi.org/10.1109/icde.2005.56'}
+>>> hash >>> ('Efficient Algorithms for Pattern Matching on Directed Acyclic Graphs', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Manu Aery , Sharma Chakravarthy, eMailSift: Email Classification Based on Structure and Content, Proceedings of the Fifth IEEE International Conference on Data Mining, p.18-25, November 27-30, 2005  [doi>10.1109/ICDM.2005.58]
+>>> DOI >>> 10.1109/icdm.2005.58
+>>> URL >>> http://dx.doi.org/10.1109/icdm.2005.58
+>>> year >>> None
+>>> title >>> eMailSift: Email Classification Based on Structure and Content
+>>> author >>> M. Aery and S. Chakravarthy
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> ["Fifth IEEE International Conference on Data Mining (ICDM'05)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:29:59Z', 'timestamp': 1525483799856}, 'reference-count': 15, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769522785', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icdm.2005.58', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 1, 5]], 'date-time': '2006-01-05T14:52:38Z', 'timestamp': 1136472758000}, 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['eMailSift: Email Classification Based on Structure and Content'], 'prefix': '10.1109', 'author': [{'given': 'M.', 'family': 'Aery', 'sequence': 'first', 'affiliation': []}, {'given': 'S.', 'family': 'Chakravarthy', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "Fifth IEEE International Conference on Data Mining (ICDM'05)", 'location': 'Houston, TX, USA'}, 'container-title': ["Fifth IEEE International Conference on Data Mining (ICDM'05)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10470/33217/01565657.pdf?arnumber=1565657', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 14]], 'date-time': '2017-03-14T21:19:42Z', 'timestamp': 1489526382000}, 'score': 117.69229, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769522785'], 'references-count': 15, 'URL': 'http://dx.doi.org/10.1109/icdm.2005.58'}
+>>> hash >>> ('eMailSift: Email Classification Based on Structure and Content', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Andrei Z. Broder , Steven C. Glassman , Mark S. Manasse , Geoffrey Zweig, Syntactic clustering of the Web, Computer Networks and ISDN Systems, v.29 n.8-13, p.1157-1166, Sep. 1997  [doi>10.1016/S0169-7552(97)00031-7]
+>>> DOI >>> 10.1016/s0169-7552(97)00031-7
+>>> URL >>> http://dx.doi.org/10.1016/s0169-7552(97)00031-7
+>>> year >>> 1997.0
+>>> title >>> Syntactic clustering of the Web
+>>> author >>> Andrei Z. Broder and Steven C. Glassman and Mark S. Manasse and Geoffrey Zweig
+>>> reference_count >>> 6.0
+>>> is_referenced_by_count >>> 287.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Networks and ISDN Systems']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 4]], 'date-time': '2018-06-04T14:02:29Z', 'timestamp': 1528120949787}, 'reference-count': 6, 'publisher': 'Elsevier BV', 'issue': '8-13', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1997, 9, 1]], 'date-time': '1997-09-01T00:00:00Z', 'timestamp': 873072000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Networks and ISDN Systems'], 'published-print': {'date-parts': [[1997, 9]]}, 'DOI': '10.1016/s0169-7552(97)00031-7', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T14:53:54Z', 'timestamp': 1027608834000}, 'page': '1157-1166', 'source': 'Crossref', 'is-referenced-by-count': 287, 'title': ['Syntactic clustering of the Web'], 'prefix': '10.1016', 'volume': '29', 'author': [{'given': 'Andrei Z.', 'family': 'Broder', 'sequence': 'first', 'affiliation': []}, {'given': 'Steven C.', 'family': 'Glassman', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mark S.', 'family': 'Manasse', 'sequence': 'additional', 'affiliation': []}, {'given': 'Geoffrey', 'family': 'Zweig', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Computer Networks and ISDN Systems'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0169755297000317?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0169755297000317?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2015, 9, 3]], 'date-time': '2015-09-03T06:05:33Z', 'timestamp': 1441260333000}, 'score': 125.1499, 'issued': {'date-parts': [[1997, 9]]}, 'references-count': 6, 'journal-issue': {'published-print': {'date-parts': [[1997, 9]]}, 'issue': '8-13'}, 'alternative-id': ['S0169755297000317'], 'URL': 'http://dx.doi.org/10.1016/s0169-7552(97)00031-7', 'ISSN': ['0169-7552'], 'issn-type': [{'value': '0169-7552', 'type': 'print'}]}
+>>> hash >>> ('Syntactic clustering of the Web', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Viggo Kann, On the Approximability of the Maximum Common Subgraph Problem, Proceedings of the 9th Annual Symposium on Theoretical Aspects of Computer Science, p.377-388, February 13-15, 1992
+>>> DOI >>> 10.1007/3-540-55210-3_198
+>>> URL >>> http://dx.doi.org/10.1007/3-540-55210-3_198
+>>> year >>> 1992.0
+>>> title >>> On the approximability of the maximum common subgraph problem
+>>> author >>> Viggo Kann
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['STACS 92', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T04:00:05Z', 'timestamp': 1525492805934}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540552109', 'type': 'print'}, {'value': '9783540467755', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1992]]}, 'DOI': '10.1007/3-540-55210-3_198', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 2, 26]], 'date-time': '2012-02-26T09:53:48Z', 'timestamp': 1330250028000}, 'page': '375-388', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['On the approximability of the maximum common subgraph problem'], 'prefix': '10.1007', 'author': [{'given': 'Viggo', 'family': 'Kann', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2005, 6, 2]]}, 'container-title': ['STACS 92', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/3-540-55210-3_198', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 7]], 'date-time': '2014-01-07T00:03:48Z', 'timestamp': 1389053028000}, 'score': 75.30874, 'issued': {'date-parts': [[1992]]}, 'ISBN': ['9783540552109', '9783540467755'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-55210-3_198', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('On the approximability of the maximum common subgraph problem', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Krishna Bharat , Andrei Broder , Jeffrey Dean , Monika R. Henzinger, A comparison of techniques to find mirrored hosts on the WWW, Journal of the American Society for Information Science, v.51 n.12, p.1114-1122, Oct. 2000  [doi>10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0]
+>>> DOI >>> 10.1002/1097-4571(2000)9999:9999<::aid-asi1025>3.0.co;2-0
+>>> URL >>> http://dx.doi.org/10.1002/1097-4571(2000)9999:9999<::aid-asi1025>3.0.co;2-0
+>>> year >>> 2000.0
+>>> title >>> A comparison of techniques to find mirrored hosts on the WWW
+>>> author >>> Krishna Bharat and Andrei Broder and Jeffrey Dean and Monika R. Henzinger
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 19.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the American Society for Information Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T17:58:04Z', 'timestamp': 1525283884073}, 'reference-count': 19, 'publisher': 'Wiley', 'issue': '12', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 5722, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J. Am. Soc. Inf. Sci.'], 'published-print': {'date-parts': [[2000]]}, 'DOI': '10.1002/1097-4571(2000)9999:9999<::aid-asi1025>3.0.co;2-0', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 25]], 'date-time': '2002-08-25T20:24:15Z', 'timestamp': 1030307055000}, 'page': '1114-1122', 'source': 'Crossref', 'is-referenced-by-count': 19, 'title': ['A comparison of techniques to find mirrored hosts on the WWW'], 'prefix': '10.1002', 'volume': '51', 'author': [{'given': 'Krishna', 'family': 'Bharat', 'sequence': 'first', 'affiliation': []}, {'given': 'Andrei', 'family': 'Broder', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jeffrey', 'family': 'Dean', 'sequence': 'additional', 'affiliation': []}, {'given': 'Monika R.', 'family': 'Henzinger', 'sequence': 'additional', 'affiliation': []}], 'member': '311', 'published-online': {'date-parts': [[2000]]}, 'reference': [{'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB1', 'author': 'Bharat', 'year': '1999', 'unstructured': '& (1999). Mirror, mirror on the web: A study of host pairs with replicated content.', 'volume-title': 'Mirror'}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB2', 'author': 'Bharat', 'year': '1998', 'unstructured': '& (1998). A technique for measuring the relative size and overlap of public web search engines. In Proceedings of the Seventh International World Wide Web Conference (pp. 379-388). Brisbane, Australia. See also URL: http://www.research.digital.com/SRC/whatsnew/sem.html.'}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB3', 'author': 'Bharat', 'year': '1998', 'unstructured': "& (1998). Improved algorithms for topic distillation in hyperlinked environments. In Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'98) (pp. 111-104). Melbourne, Australia."}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB4', 'author': 'Broder', 'year': '1988', 'unstructured': '(1988). On the resemblance and containment of documents. In Proceedings of Compression and Complexity of Sequences 1997 (pp. 21-29). Positano, Italy. IEEE Computer Society.'}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB5', 'author': 'Broder', 'year': '1998', 'unstructured': "(1998). Filtering near-duplicate documents. In Proceedings of FUN 98. Isola d'Elba, Italy."}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB6', 'author': 'Broder', 'year': '1997', 'unstructured': '& (1997). Syntactic clustering of the Web. In Proceedings of the Sixth International World Wide Web Conference (pp. 391-404). Santa Clara, CA.'}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB7', 'author': 'Chakrabarti', 'year': '1998b', 'unstructured': "& (1998b). Experiments in topic distillation. In ACM-SIGIR'98 Post-Conference Workshop on Hypertext Information Retrieval for the Web. Melbourne, Australia. ACM Press."}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB8', 'author': 'Chakrabarti', 'year': '1998', 'unstructured': '& (1998). Automatic resource compilation by analyzing hyperlink structure and associated text. In Proceedings of the Seventh International World Wide Web Conference, (pp. 65-74). Brisbane, Australia.'}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB9', 'author': 'Cho', 'year': '1999', 'unstructured': "& (1999). Computing document clusters on the web. In private communication (submitted to VLDB'99)."}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB10', 'author': 'Kleinberg', 'year': '1998', 'unstructured': '(1998). Authoritative sources in a hyperlinked environment. In Proceedings of the 9th Annual ACM-SIAM Symposium on Discrete Algorithms, (pp. 668-677). Baltimore, MD. ACM Press.'}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB11', 'author': "O'Neill", 'year': '1997', 'unstructured': "& (1997). A methodology for sampling the world wide web. Technical report, OCLC Annual Review of Research, 1997. URL: http://www.oclc.org/oclc/research/publications/review97/oneill/o'neilla%r980213.htm."}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB12', 'author': 'Page', 'year': '1998', 'unstructured': '& (1998). The PageRank citation ranking: Bringing order to the Web. Stanford University Technical Report.'}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB13', 'year': '1998', 'unstructured': 'Proceedings of the Seventh International World Wide Web Conference. (1998). Brisbane, Australia.'}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB14', 'author': 'Rasmussen', 'first-page': '419', 'year': '1992', 'unstructured': '(1992). Clustering algorithms. In and (Eds.), Information Retrieval, Data Structure, and Algorithms (pp. 419-442). Prentice Hall, N.J. 1992.', 'volume-title': 'Information Retrieval, Data Structure, and Algorithms'}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB15', 'author': 'Salton', 'volume': '24', 'first-page': '513', 'year': '1988', 'journal-title': 'Information Processing and Management', 'DOI': '10.1016/0306-4573(88)90021-0', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB16', 'author': 'Shivakumar', 'year': '1998', 'unstructured': "& (1998). Finding near-replicas of documents on the web. In Proceedings of Workshop on Web Databases (WebDB'98)."}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB17', 'author': 'Voorhees', 'year': '1997', 'unstructured': '& (Eds.). (1997). Proceedings of the 6th Text Retrieval Conference (TREC-6), Gaithersburg, MD.'}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB18', 'author': 'Willet', 'volume': '24', 'first-page': '577', 'year': '1988', 'journal-title': 'Information Processing and Management', 'DOI': '10.1016/0306-4573(88)90027-1', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/1097-4571(2000)9999:9999<::AID-ASI1025>3.0.CO;2-0-BIB19', 'author': 'Zamir', 'year': '1998', 'unstructured': "& (1998). Web document clustering: A feasibility demonstration. In Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'98), (pp. 46-53)."}], 'container-title': ['Journal of the American Society for Information Science'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F1097-4571(2000)9999:9999%3C::AID-ASI1025%3E3.0.CO;2-0', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 7, 22]], 'date-time': '2017-07-22T21:46:50Z', 'timestamp': 1500760010000}, 'score': 110.31478, 'issued': {'date-parts': [[2000]]}, 'references-count': 19, 'journal-issue': {'published-print': {'date-parts': [[2000]]}, 'issue': '12'}, 'URL': 'http://dx.doi.org/10.1002/1097-4571(2000)9999:9999<::aid-asi1025>3.0.co;2-0', 'relation': {'cites': []}, 'ISSN': ['0002-8231', '1097-4571'], 'issn-type': [{'value': '0002-8231', 'type': 'print'}, {'value': '1097-4571', 'type': 'electronic'}]}
+>>> hash >>> ('A comparison of techniques to find mirrored hosts on the WWW', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+>>> DOI >>> 10.1137/1024022
+>>> URL >>> http://dx.doi.org/10.1137/1024022
+>>> year >>> 1982.0
+>>> title >>> Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)
+>>> author >>> Juris Hartmanis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Review']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:58:37Z', 'timestamp': 1525445917657}, 'reference-count': 0, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM Rev.'], 'published-print': {'date-parts': [[1982, 1]]}, 'DOI': '10.1137/1024022', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 7]], 'date-time': '2005-03-07T06:58:10Z', 'timestamp': 1110178690000}, 'page': '90-91', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)'], 'prefix': '10.1137', 'volume': '24', 'author': [{'given': 'Juris', 'family': 'Hartmanis', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Review'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/1024022', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T18:00:43Z', 'timestamp': 1485712843000}, 'score': 69.88972, 'issued': {'date-parts': [[1982, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1982, 1]]}, 'issue': '1'}, 'alternative-id': ['10.1137/1024022'], 'URL': 'http://dx.doi.org/10.1137/1024022', 'ISSN': ['0036-1445', '1095-7200'], 'issn-type': [{'value': '0036-1445', 'type': 'print'}, {'value': '1095-7200', 'type': 'electronic'}]}
+>>> hash >>> ('Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> I. Sanz , M. Mesiti , G. Guerrini , R. Berlanga, Fragment-based approximate retrieval in highly heterogeneous XML collections, Data & Knowledge Engineering, v.64 n.1, p.266-293, January, 2008  [doi>10.1016/j.datak.2007.05.008]
+>>> DOI >>> 10.1016/j.datak.2007.05.008
+>>> URL >>> http://dx.doi.org/10.1016/j.datak.2007.05.008
+>>> year >>> 2008.0
+>>> title >>> Fragment-based approximate retrieval in highly heterogeneous XML collections
+>>> author >>> I. Sanz and M. Mesiti and G. Guerrini and R. Berlanga
+>>> reference_count >>> 24.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['Data & Knowledge Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:01:24Z', 'timestamp': 1525384884429}, 'reference-count': 24, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2008, 1, 1]], 'date-time': '2008-01-01T00:00:00Z', 'timestamp': 1199145600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Data & Knowledge Engineering'], 'published-print': {'date-parts': [[2008, 1]]}, 'DOI': '10.1016/j.datak.2007.05.008', 'type': 'journal-article', 'created': {'date-parts': [[2007, 8, 7]], 'date-time': '2007-08-07T12:33:30Z', 'timestamp': 1186490010000}, 'page': '266-293', 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Fragment-based approximate retrieval in highly heterogeneous XML collections'], 'prefix': '10.1016', 'volume': '64', 'author': [{'given': 'I.', 'family': 'Sanz', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Mesiti', 'sequence': 'additional', 'affiliation': []}, {'given': 'G.', 'family': 'Guerrini', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.', 'family': 'Berlanga', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Data & Knowledge Engineering'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0169023X07001450?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0169023X07001450?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T21:47:05Z', 'timestamp': 1497736025000}, 'score': 126.98806, 'issued': {'date-parts': [[2008, 1]]}, 'references-count': 24, 'journal-issue': {'published-print': {'date-parts': [[2008, 1]]}, 'issue': '1'}, 'alternative-id': ['S0169023X07001450'], 'URL': 'http://dx.doi.org/10.1016/j.datak.2007.05.008', 'ISSN': ['0169-023X'], 'issn-type': [{'value': '0169-023X', 'type': 'print'}]}
+>>> hash >>> ('Fragment-based approximate retrieval in highly heterogeneous XML collections', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Schenker, M. Last, H. Bunke, and A. Kandel. Classification of Web documents using graph matching. IJPRAI, 18(3), 2004.
+>>> DOI >>> 10.1142/s0218001404003241
+>>> URL >>> http://dx.doi.org/10.1142/s0218001404003241
+>>> year >>> 2004.0
+>>> title >>> CLASSIFICATION OF WEB DOCUMENTS USING GRAPH MATCHING
+>>> author >>> ADAM SCHENKER and MARK LAST and HORST BUNKE and ABRAHAM KANDEL
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 36.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Pattern Recognition and Artificial Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database70.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T04:28:08Z', 'timestamp': 1525408088135}, 'reference-count': 15, 'publisher': 'World Scientific Pub Co Pte Lt', 'issue': '03', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int. J. Patt. Recogn. Artif. Intell.'], 'published-print': {'date-parts': [[2004, 5]]}, 'DOI': '10.1142/s0218001404003241', 'type': 'journal-article', 'created': {'date-parts': [[2004, 5, 10]], 'date-time': '2004-05-10T10:06:26Z', 'timestamp': 1084183586000}, 'page': '475-496', 'source': 'Crossref', 'is-referenced-by-count': 36, 'title': ['CLASSIFICATION OF WEB DOCUMENTS USING GRAPH MATCHING'], 'prefix': '10.1142', 'volume': '18', 'author': [{'given': 'ADAM', 'family': 'SCHENKER', 'sequence': 'first', 'affiliation': []}, {'given': 'MARK', 'family': 'LAST', 'sequence': 'additional', 'affiliation': []}, {'given': 'HORST', 'family': 'BUNKE', 'sequence': 'additional', 'affiliation': []}, {'given': 'ABRAHAM', 'family': 'KANDEL', 'sequence': 'additional', 'affiliation': []}], 'member': '219', 'reference': [{'key': 'rf1', 'DOI': '10.1145/183422.183423', 'doi-asserted-by': 'publisher'}, {'key': 'rf2', 'DOI': '10.1016/S0167-8655(97)00060-3', 'doi-asserted-by': 'publisher'}, {'key': 'rf4', 'DOI': '10.1016/S0167-8655(97)00179-7', 'doi-asserted-by': 'publisher'}, {'key': 'rf5', 'author': 'Crochemore M.', 'year': '1997', 'volume-title': 'CPM97'}, {'key': 'rf6', 'DOI': '10.1016/S0167-8655(01)00017-4', 'doi-asserted-by': 'publisher'}, {'key': 'rf7', 'DOI': '10.1007/3-540-44522-6_25', 'doi-asserted-by': 'publisher'}, {'key': 'rf8', 'DOI': '10.1007/3-540-45869-7_26', 'doi-asserted-by': 'publisher'}, {'key': 'rf10', 'DOI': '10.1016/0306-4573(90)90026-X', 'doi-asserted-by': 'publisher'}, {'key': 'rf12', 'DOI': '10.1109/34.682179', 'doi-asserted-by': 'publisher'}, {'key': 'rf13', 'author': 'Mitchell T. M.', 'year': '1997', 'volume-title': 'Machine Learning'}, {'key': 'rf14', 'author': 'Russell S.', 'year': '1995', 'volume-title': 'Artificial Intelligence: A Modern Approach'}, {'key': 'rf15', 'author': 'Salton G.', 'year': '1989', 'volume-title': 'Automatic Text Processing: The Transformation, Analysis, and Retrieval of Information by Computer'}, {'key': 'rf16', 'DOI': '10.1142/9789812775375_0001', 'doi-asserted-by': 'publisher'}, {'key': 'rf17', 'DOI': '10.1016/S0306-4573(01)00045-0', 'doi-asserted-by': 'publisher'}, {'key': 'rf18', 'DOI': '10.1016/S0167-8655(01)00022-8', 'doi-asserted-by': 'publisher'}], 'container-title': ['International Journal of Pattern Recognition and Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://www.worldscientific.com/doi/pdf/10.1142/S0218001404003241', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 2]], 'date-time': '2016-12-02T04:47:43Z', 'timestamp': 1480654063000}, 'score': 77.00872, 'issued': {'date-parts': [[2004, 5]]}, 'references-count': 15, 'journal-issue': {'published-print': {'date-parts': [[2004, 5]]}, 'issue': '03'}, 'alternative-id': ['10.1142/S0218001404003241'], 'URL': 'http://dx.doi.org/10.1142/s0218001404003241', 'relation': {'cites': []}, 'ISSN': ['0218-0014', '1793-6381'], 'issn-type': [{'value': '0218-0014', 'type': 'print'}, {'value': '1793-6381', 'type': 'electronic'}]}
+>>> hash >>> ('CLASSIFICATION OF WEB DOCUMENTS USING GRAPH MATCHING', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

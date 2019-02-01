@@ -1,0 +1,721 @@
+>>> NEW PAPER <<<
+>>> citation >>> J. Matas, O. Chum, U. M., T. Pajdla, "Robust wide baseline stereo from maximally stable extremal regions", BMVC, 2002.
+>>> DOI >>> 10.5244/c.16.36
+>>> URL >>> http://dx.doi.org/10.5244/c.16.36
+>>> year >>> 2002.0
+>>> title >>> Robust Wide Baseline Stereo from Maximally Stable Extremal Regions
+>>> author >>> J. Matas and O. Chum and M. Urban and T. Pajdla
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 488.0
+>>> subject >>> None
+>>> container_title >>> ['Procedings of the British Machine Vision Conference 2002']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T22:42:33Z', 'timestamp': 1528324953935}, 'reference-count': 0, 'publisher': 'British Machine Vision Association', 'isbn-type': [{'value': '1901725197', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.5244/c.16.36', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 2, 5]], 'date-time': '2013-02-05T17:20:08Z', 'timestamp': 1360084808000}, 'source': 'Crossref', 'is-referenced-by-count': 488, 'title': ['Robust Wide Baseline Stereo from Maximally Stable Extremal Regions'], 'prefix': '10.5244', 'author': [{'given': 'J.', 'family': 'Matas', 'sequence': 'first', 'affiliation': []}, {'given': 'O.', 'family': 'Chum', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Urban', 'sequence': 'additional', 'affiliation': []}, {'given': 'T.', 'family': 'Pajdla', 'sequence': 'additional', 'affiliation': []}], 'member': '3205', 'event': {'name': 'British Machine Vision Conference 2002', 'theme': 'Machine Vision, Image Processing & Pattern Recognition', 'location': 'Cardiff', 'sponsor': ['British Machine Vision Association'], 'acronym': 'BMVC 2002', 'number': '2002'}, 'container-title': ['Procedings of the British Machine Vision Conference 2002'], 'deposited': {'date-parts': [[2013, 2, 5]], 'date-time': '2013-02-05T17:21:02Z', 'timestamp': 1360084862000}, 'score': 112.201614, 'issued': {'date-parts': [[2002]]}, 'ISBN': ['1901725197'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.5244/c.16.36', 'article-number': '36'}
+>>> hash >>> ('Robust Wide Baseline Stereo from Maximally Stable Extremal Regions', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K. Mikolajczyk, C. Schmid, "A performance evaluation of local descriptors", IEEE T. PAMI, vol. 27, no. 10, pp. 1615-1630, 2005.
+>>> DOI >>> 10.1109/tpami.2005.188
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2005.188
+>>> year >>> 2005.0
+>>> title >>> A performance evaluation of local descriptors
+>>> author >>> K. Mikolajczyk and C. Schmid
+>>> reference_count >>> 45.0
+>>> is_referenced_by_count >>> 3172.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T07:42:40Z', 'timestamp': 1528357360117}, 'reference-count': 45, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '10', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2005, 10]]}, 'DOI': '10.1109/tpami.2005.188', 'type': 'journal-article', 'created': {'date-parts': [[2005, 8, 24]], 'date-time': '2005-08-24T13:57:19Z', 'timestamp': 1124891839000}, 'page': '1615-1630', 'source': 'Crossref', 'is-referenced-by-count': 3172, 'title': ['A performance evaluation of local descriptors'], 'prefix': '10.1109', 'volume': '27', 'author': [{'given': 'K.', 'family': 'Mikolajczyk', 'sequence': 'first', 'affiliation': []}, {'given': 'C.', 'family': 'Schmid', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/32189/01498756.pdf?arnumber=1498756', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T01:41:35Z', 'timestamp': 1510623695000}, 'score': 66.705185, 'issued': {'date-parts': [[2005, 10]]}, 'references-count': 45, 'journal-issue': {'issue': '10'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2005.188', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A performance evaluation of local descriptors', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Konishi, A. L. Yuille, "Statistical cues for domain specific image segmentation with performance analysis", Proc. IEEE Int. Conf. CVPR, pp. 125-132, 2000.
+>>> DOI >>> 10.1109/cvpr.2000.855809
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2000.855809
+>>> year >>> None
+>>> title >>> Statistical cues for domain specific image segmentation with performance analysis
+>>> author >>> S. Konishi and A.L. Yuille
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 29.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings IEEE Conference on Computer Vision and Pattern Recognition. CVPR 2000 (Cat. No.PR00662)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T11:03:14Z', 'timestamp': 1525345394567}, 'reference-count': 13, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769506623', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2000.855809', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 7]], 'date-time': '2002-11-07T22:04:51Z', 'timestamp': 1036706691000}, 'source': 'Crossref', 'is-referenced-by-count': 29, 'title': ['Statistical cues for domain specific image segmentation with performance analysis'], 'prefix': '10.1109', 'author': [{'given': 'S.', 'family': 'Konishi', 'sequence': 'first', 'affiliation': []}, {'given': 'A.L.', 'family': 'Yuille', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'IEEE Conference on Computer Vision and Pattern Recognition. CVPR 2000', 'location': 'Hilton Head Island, SC, USA', 'acronym': 'CVPR-00'}, 'container-title': ['Proceedings IEEE Conference on Computer Vision and Pattern Recognition. CVPR 2000 (Cat. No.PR00662)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6894/18553/00855809.pdf?arnumber=855809', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T13:53:04Z', 'timestamp': 1497534784000}, 'score': 88.51528, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769506623'], 'references-count': 13, 'URL': 'http://dx.doi.org/10.1109/cvpr.2000.855809'}
+>>> hash >>> ('Statistical cues for domain specific image segmentation with performance analysis', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Dalal, B. Triggs, "Histograms of oriented gradients for human detection", CVPR, 2005.
+>>> DOI >>> 10.1109/cvpr.2005.177
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2005.177
+>>> year >>> None
+>>> title >>> Histograms of Oriented Gradients for Human Detection
+>>> author >>> N. Dalal and B. Triggs
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 8295.0
+>>> subject >>> None
+>>> container_title >>> ["2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T18:02:31Z', 'timestamp': 1528394551235}, 'reference-count': 22, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769523722', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2005.177', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 7, 27]], 'date-time': '2005-07-27T17:52:28Z', 'timestamp': 1122486748000}, 'source': 'Crossref', 'is-referenced-by-count': 8295, 'title': ['Histograms of Oriented Gradients for Human Detection'], 'prefix': '10.1109', 'author': [{'given': 'N.', 'family': 'Dalal', 'sequence': 'first', 'affiliation': []}, {'given': 'B.', 'family': 'Triggs', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)", 'location': 'San Diego, CA, USA'}, 'container-title': ["2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/9901/31472/01467360.pdf?arnumber=1467360', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T21:35:47Z', 'timestamp': 1497648947000}, 'score': 71.99005, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769523722'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1109/cvpr.2005.177'}
+>>> hash >>> ('Histograms of Oriented Gradients for Human Detection', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Shao, T. Svoboda, L. Van Gool, ZUBUD-Zurich buildings database for image based recognition, Swiss Federal Institute of Technology, 2003.
+>>> DOI >>> 10.1109/icip.2003.1247350
+>>> URL >>> http://dx.doi.org/10.1109/icip.2003.1247350
+>>> year >>> None
+>>> title >>> Fast indexing for image retrieval based on local appearance with re-ranking
+>>> author >>> None
+>>> reference_count >>> 8.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings 2003 International Conference on Image Processing (Cat. No.03CH37429)']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T05:18:30Z', 'timestamp': 1525411110285}, 'reference-count': 8, 'publisher': 'IEEE', 'isbn-type': [{'value': '0780377508', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icip.2003.1247350', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 6, 3]], 'date-time': '2004-06-03T20:14:56Z', 'timestamp': 1086293696000}, 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Fast indexing for image retrieval based on local appearance with re-ranking'], 'prefix': '10.1109', 'author': [{'family': 'Hao Shao', 'sequence': 'first', 'affiliation': []}, {'given': 'T.', 'family': 'Svoboda', 'sequence': 'additional', 'affiliation': []}, {'given': 'V.', 'family': 'Ferrari', 'sequence': 'additional', 'affiliation': []}, {'given': 'T.', 'family': 'Tuytelaars', 'sequence': 'additional', 'affiliation': []}, {'given': 'L.', 'family': 'Van Gool', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'International Conference on Image Processing', 'location': 'Barcelona, Spain', 'acronym': 'ICIP-03'}, 'container-title': ['Proceedings 2003 International Conference on Image Processing (Cat. No.03CH37429)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8824/27938/01247350.pdf?arnumber=1247350', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 13]], 'date-time': '2017-03-13T18:39:45Z', 'timestamp': 1489430385000}, 'score': 42.30213, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0780377508'], 'references-count': 8, 'URL': 'http://dx.doi.org/10.1109/icip.2003.1247350'}
+>>> hash >>> ('Fast indexing for image retrieval based on local appearance with re-ranking', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Van Gool, M. Proesmans, A. Zisserman, "Planar homologies as a basis for grouping and recognition", Image and Vision Computing, 1998.
+>>> DOI >>> 10.1016/s0262-8856(97)00046-2
+>>> URL >>> http://dx.doi.org/10.1016/s0262-8856(97)00046-2
+>>> year >>> 1998.0
+>>> title >>> Planar homologies as a basis for grouping and recognition
+>>> author >>> Luc Van Gool and Marc Proesmans and Andrew Zisserman
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 20.0
+>>> subject >>> None
+>>> container_title >>> ['Image and Vision Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T21:19:02Z', 'timestamp': 1525295942110}, 'reference-count': 15, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1998, 1, 1]], 'date-time': '1998-01-01T00:00:00Z', 'timestamp': 883612800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Image and Vision Computing'], 'published-print': {'date-parts': [[1998, 1]]}, 'DOI': '10.1016/s0262-8856(97)00046-2', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T12:26:05Z', 'timestamp': 1027599965000}, 'page': '21-26', 'source': 'Crossref', 'is-referenced-by-count': 20, 'title': ['Planar homologies as a basis for grouping and recognition'], 'prefix': '10.1016', 'volume': '16', 'author': [{'given': 'Luc', 'family': 'Van Gool', 'sequence': 'first', 'affiliation': []}, {'given': 'Marc', 'family': 'Proesmans', 'sequence': 'additional', 'affiliation': []}, {'given': 'Andrew', 'family': 'Zisserman', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Image and Vision Computing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0262885697000462?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0262885697000462?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 14]], 'date-time': '2017-06-14T20:22:42Z', 'timestamp': 1497471762000}, 'score': 97.96943, 'issued': {'date-parts': [[1998, 1]]}, 'references-count': 15, 'journal-issue': {'published-print': {'date-parts': [[1998, 1]]}, 'issue': '1'}, 'alternative-id': ['S0262885697000462'], 'URL': 'http://dx.doi.org/10.1016/s0262-8856(97)00046-2', 'ISSN': ['0262-8856'], 'issn-type': [{'value': '0262-8856', 'type': 'print'}]}
+>>> hash >>> ('Planar homologies as a basis for grouping and recognition', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Rajashekhar, Subhasis Chaudhuria, Vinay P. Namboodiri, "Retrieval of images of man-made structures based on projective invariance", Pattern Recognition, vol. 40, no. 1, pp. 296-308, January 2007.
+>>> DOI >>> 10.1016/j.patcog.2006.04.036
+>>> URL >>> http://dx.doi.org/10.1016/j.patcog.2006.04.036
+>>> year >>> 2007.0
+>>> title >>> Retrieval of images of man-made structures based on projective invariance
+>>> author >>> None
+>>> reference_count >>> 43.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:15:45Z', 'timestamp': 1525310145519}, 'reference-count': 43, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2007, 1, 1]], 'date-time': '2007-01-01T00:00:00Z', 'timestamp': 1167609600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[2007, 1]]}, 'DOI': '10.1016/j.patcog.2006.04.036', 'type': 'journal-article', 'created': {'date-parts': [[2006, 7, 7]], 'date-time': '2006-07-07T13:55:31Z', 'timestamp': 1152280531000}, 'page': '296-308', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Retrieval of images of man-made structures based on projective invariance'], 'prefix': '10.1016', 'volume': '40', 'author': [{'family': 'Rajashekhar', 'sequence': 'first', 'affiliation': []}, {'given': 'Subhasis', 'family': 'Chaudhuri', 'sequence': 'additional', 'affiliation': []}, {'given': 'Vinay P.', 'family': 'Namboodiri', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0031320306001671?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0031320306001671?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T07:18:26Z', 'timestamp': 1497683906000}, 'score': 105.31395, 'issued': {'date-parts': [[2007, 1]]}, 'references-count': 43, 'journal-issue': {'published-print': {'date-parts': [[2007, 1]]}, 'issue': '1'}, 'alternative-id': ['S0031320306001671'], 'URL': 'http://dx.doi.org/10.1016/j.patcog.2006.04.036', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Retrieval of images of man-made structures based on projective invariance', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Umeyama, "An eigen-decomposition approach to weighted graph matching problems", IEEE PAMI, vol. 10, pp. 695-703, 1988.
+>>> DOI >>> 10.1109/34.6778
+>>> URL >>> http://dx.doi.org/10.1109/34.6778
+>>> year >>> 1988.0
+>>> title >>> An eigendecomposition approach to weighted graph matching problems
+>>> author >>> S. Umeyama
+>>> reference_count >>> 9.0
+>>> is_referenced_by_count >>> 321.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:37:07Z', 'timestamp': 1525333027300}, 'reference-count': 9, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1988]]}, 'DOI': '10.1109/34.6778', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '695-703', 'source': 'Crossref', 'is-referenced-by-count': 321, 'title': ['An eigendecomposition approach to weighted graph matching problems'], 'prefix': '10.1109', 'volume': '10', 'author': [{'given': 'S.', 'family': 'Umeyama', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/351/00006778.pdf?arnumber=6778', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 8]], 'date-time': '2017-03-08T22:22:02Z', 'timestamp': 1489011722000}, 'score': 66.26792, 'issued': {'date-parts': [[1988]]}, 'references-count': 9, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/34.6778', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('An eigendecomposition approach to weighted graph matching problems', 1988.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Belongie, J. Malik, J. Puzicha, "Shape matching and object recognition using shape contexts", IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 24, no. 4, pp. 509-522, 2002.
+>>> DOI >>> 10.1109/34.993558
+>>> URL >>> http://dx.doi.org/10.1109/34.993558
+>>> year >>> 2002.0
+>>> title >>> Shape matching and object recognition using shape contexts
+>>> author >>> S. Belongie and J. Malik and J. Puzicha
+>>> reference_count >>> 62.0
+>>> is_referenced_by_count >>> 3094.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:50Z', 'timestamp': 1528225370075}, 'reference-count': 62, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2002, 4]]}, 'DOI': '10.1109/34.993558', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T20:14:45Z', 'timestamp': 1030220085000}, 'page': '509-522', 'source': 'Crossref', 'is-referenced-by-count': 3094, 'title': ['Shape matching and object recognition using shape contexts'], 'prefix': '10.1109', 'volume': '24', 'author': [{'given': 'S.', 'family': 'Belongie', 'sequence': 'first', 'affiliation': []}, {'given': 'J.', 'family': 'Malik', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Puzicha', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/21430/00993558.pdf?arnumber=993558', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:31:23Z', 'timestamp': 1497522683000}, 'score': 130.85161, 'issued': {'date-parts': [[2002, 4]]}, 'references-count': 62, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/34.993558', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Shape matching and object recognition using shape contexts', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Vailaya, A. K. Jain, H. J. Zhang, "On image classification: City images vs. landscapes", Pattern Recognition, vol. 31, pp. 1921-1936, 1998.
+>>> DOI >>> 10.1016/s0031-3203(98)00079-x
+>>> URL >>> http://dx.doi.org/10.1016/s0031-3203(98)00079-x
+>>> year >>> 1998.0
+>>> title >>> ON IMAGE CLASSIFICATION: CITY IMAGES VS. LANDSCAPES
+>>> author >>> ADITYA VAILAYA and ANIL JAIN and HONG JIANG ZHANG
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 181.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T22:03:53Z', 'timestamp': 1525298633869}, 'reference-count': 0, 'publisher': 'Elsevier BV', 'issue': '12', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1998, 12, 1]], 'date-time': '1998-12-01T00:00:00Z', 'timestamp': 912470400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[1998, 12]]}, 'DOI': '10.1016/s0031-3203(98)00079-x', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T15:01:39Z', 'timestamp': 1027609299000}, 'page': '1921-1935', 'source': 'Crossref', 'is-referenced-by-count': 181, 'title': ['ON IMAGE CLASSIFICATION: CITY IMAGES VS. LANDSCAPES'], 'prefix': '10.1016', 'volume': '31', 'author': [{'given': 'ADITYA', 'family': 'VAILAYA', 'sequence': 'first', 'affiliation': []}, {'given': 'ANIL', 'family': 'JAIN', 'sequence': 'additional', 'affiliation': []}, {'given': 'HONG JIANG', 'family': 'ZHANG', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S003132039800079X?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S003132039800079X?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2015, 9, 3]], 'date-time': '2015-09-03T07:54:26Z', 'timestamp': 1441266866000}, 'score': 102.56226, 'issued': {'date-parts': [[1998, 12]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1998, 12]]}, 'issue': '12'}, 'alternative-id': ['S003132039800079X'], 'URL': 'http://dx.doi.org/10.1016/s0031-3203(98)00079-x', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('ON IMAGE CLASSIFICATION: CITY IMAGES VS. LANDSCAPES', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Sclaroff, P. Pentland, "Modal matching for correspondence and recognition", IEEE Trans. Pattern Anal. Mach. Intell, vol. 17, no. 6, pp. 545-561, 1995.
+>>> DOI >>> 10.1109/34.387502
+>>> URL >>> http://dx.doi.org/10.1109/34.387502
+>>> year >>> 1995.0
+>>> title >>> Modal matching for correspondence and recognition
+>>> author >>> S. Sclaroff and A.P. Pentland
+>>> reference_count >>> 45.0
+>>> is_referenced_by_count >>> 229.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:42Z', 'timestamp': 1525333542530}, 'reference-count': 45, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1995, 6]]}, 'DOI': '10.1109/34.387502', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '545-561', 'source': 'Crossref', 'is-referenced-by-count': 229, 'title': ['Modal matching for correspondence and recognition'], 'prefix': '10.1109', 'volume': '17', 'author': [{'given': 'S.', 'family': 'Sclaroff', 'sequence': 'first', 'affiliation': []}, {'given': 'A.P.', 'family': 'Pentland', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/8786/00387502.pdf?arnumber=387502', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T09:19:13Z', 'timestamp': 1512983953000}, 'score': 97.33637, 'issued': {'date-parts': [[1995, 6]]}, 'references-count': 45, 'journal-issue': {'issue': '6'}, 'URL': 'http://dx.doi.org/10.1109/34.387502', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Modal matching for correspondence and recognition', 1995.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L.S. Shapiro, J.M. Brady, "Feature-based correspondence- an eigenvector approach", Image and Vision Computing, vol. 10, pp. 283-288, 1992.
+>>> DOI >>> 10.1016/0262-8856(92)90043-3
+>>> URL >>> http://dx.doi.org/10.1016/0262-8856(92)90043-3
+>>> year >>> 1992.0
+>>> title >>> Feature-based correspondence: an eigenvector approach
+>>> author >>> Larry S Shapiro and J Michael Brady
+>>> reference_count >>> 5.0
+>>> is_referenced_by_count >>> 246.0
+>>> subject >>> None
+>>> container_title >>> ['Image and Vision Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T20:33:46Z', 'timestamp': 1525379626412}, 'reference-count': 5, 'publisher': 'Elsevier BV', 'issue': '5', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1992, 6, 1]], 'date-time': '1992-06-01T00:00:00Z', 'timestamp': 707356800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Image and Vision Computing'], 'published-print': {'date-parts': [[1992, 6]]}, 'DOI': '10.1016/0262-8856(92)90043-3', 'type': 'journal-article', 'created': {'date-parts': [[2003, 8, 8]], 'date-time': '2003-08-08T01:31:39Z', 'timestamp': 1060306299000}, 'page': '283-288', 'source': 'Crossref', 'is-referenced-by-count': 246, 'title': ['Feature-based correspondence: an eigenvector approach'], 'prefix': '10.1016', 'volume': '10', 'author': [{'given': 'Larry S', 'family': 'Shapiro', 'sequence': 'first', 'affiliation': []}, {'given': 'J', 'family': 'Michael Brady', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Image and Vision Computing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0262885692900433?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0262885692900433?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2015, 9, 30]], 'date-time': '2015-09-30T16:25:32Z', 'timestamp': 1443630332000}, 'score': 98.5027, 'issued': {'date-parts': [[1992, 6]]}, 'references-count': 5, 'journal-issue': {'published-print': {'date-parts': [[1992, 6]]}, 'issue': '5'}, 'alternative-id': ['0262885692900433'], 'URL': 'http://dx.doi.org/10.1016/0262-8856(92)90043-3', 'ISSN': ['0262-8856'], 'issn-type': [{'value': '0262-8856', 'type': 'print'}]}
+>>> hash >>> ('Feature-based correspondence: an eigenvector approach', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. Schmid, R. Mohr, "Local gray-value invariants for image retrieval", IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 19, no. 5, pp. 530-534, 1997.
+>>> DOI >>> 10.1109/34.589215
+>>> URL >>> http://dx.doi.org/10.1109/34.589215
+>>> year >>> 1997.0
+>>> title >>> Local grayvalue invariants for image retrieval
+>>> author >>> C. Schmid and R. Mohr
+>>> reference_count >>> 36.0
+>>> is_referenced_by_count >>> 680.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:46:53Z', 'timestamp': 1525333613264}, 'reference-count': 36, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1997, 5]]}, 'DOI': '10.1109/34.589215', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '530-535', 'source': 'Crossref', 'is-referenced-by-count': 680, 'title': ['Local grayvalue invariants for image retrieval'], 'prefix': '10.1109', 'volume': '19', 'author': [{'given': 'C.', 'family': 'Schmid', 'sequence': 'first', 'affiliation': []}, {'given': 'R.', 'family': 'Mohr', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx4/34/12904/00589215.pdf?arnumber=589215', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T09:33:29Z', 'timestamp': 1512984809000}, 'score': 87.026085, 'issued': {'date-parts': [[1997, 5]]}, 'references-count': 36, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/34.589215', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Local grayvalue invariants for image retrieval', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Zhe Lin, In So Kweon, "Robust invariant features for object recognition pose estimation and topological navigation", International Journal on Human Friendly Welfare Robotic Systems (IJHWRS), vol. 6, no. 1, Mar. 2005.
+>>> DOI >>> 10.1109/iros.2005.1545589
+>>> URL >>> http://dx.doi.org/10.1109/iros.2005.1545589
+>>> year >>> 2005.0
+>>> title >>> Recognition-based indoor topological navigation using robust invariant features
+>>> author >>> None
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['2005 IEEE/RSJ International Conference on Intelligent Robots and Systems']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T00:55:58Z', 'timestamp': 1525481758037}, 'reference-count': 18, 'publisher': 'IEEE', 'isbn-type': [{'value': '0780389123', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1109/iros.2005.1545589', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 12, 10]], 'date-time': '2005-12-10T20:49:09Z', 'timestamp': 1134247749000}, 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Recognition-based indoor topological navigation using robust invariant features'], 'prefix': '10.1109', 'author': [{'family': 'Zhe Lin', 'sequence': 'first', 'affiliation': []}, {'family': 'Sungho Kim', 'sequence': 'additional', 'affiliation': []}, {'family': 'In So Kweon', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2005 IEEE/RSJ International Conference on Intelligent Robots and Systems', 'location': 'Edmonton, Alta., Canada', 'start': {'date-parts': [[2005, 8, 2]]}, 'end': {'date-parts': [[2005, 8, 2]]}}, 'container-title': ['2005 IEEE/RSJ International Conference on Intelligent Robots and Systems'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10375/32977/01545589.pdf?arnumber=1545589', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T01:37:19Z', 'timestamp': 1497663439000}, 'score': 89.61407, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['0780389123'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1109/iros.2005.1545589'}
+>>> hash >>> ('Recognition-based indoor topological navigation using robust invariant features', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Freeman, E. Adelson, "The design and use of steerable filters", IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 13, no. 9, pp. 891-906, 1991.
+>>> DOI >>> 10.1109/34.93808
+>>> URL >>> http://dx.doi.org/10.1109/34.93808
+>>> year >>> 1991.0
+>>> title >>> The design and use of steerable filters
+>>> author >>> W.T. Freeman and E.H. Adelson
+>>> reference_count >>> 46.0
+>>> is_referenced_by_count >>> 1510.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T23:42:28Z', 'timestamp': 1528328548347}, 'reference-count': 46, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '9', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1991]]}, 'DOI': '10.1109/34.93808', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '891-906', 'source': 'Crossref', 'is-referenced-by-count': 1510, 'title': ['The design and use of steerable filters'], 'prefix': '10.1109', 'volume': '13', 'author': [{'given': 'W.T.', 'family': 'Freeman', 'sequence': 'first', 'affiliation': []}, {'given': 'E.H.', 'family': 'Adelson', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/3067/00093808.pdf?arnumber=93808', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:28:44Z', 'timestamp': 1497522524000}, 'score': 97.16344, 'issued': {'date-parts': [[1991]]}, 'references-count': 46, 'journal-issue': {'issue': '9'}, 'URL': 'http://dx.doi.org/10.1109/34.93808', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('The design and use of steerable filters', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Mayer, "Automatic object extraction from aerial imagerya survey focusing on buildings", Computer Vision and Image Understanding, vol. 74, no. 2, pp. 138-149, 1999.
+>>> DOI >>> 10.1006/cviu.1999.0750
+>>> URL >>> http://dx.doi.org/10.1006/cviu.1999.0750
+>>> year >>> 1999.0
+>>> title >>> Automatic Object Extraction from Aerial Imagery—A Survey Focusing on Buildings
+>>> author >>> Helmut Mayer
+>>> reference_count >>> 83.0
+>>> is_referenced_by_count >>> 170.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision and Image Understanding']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T18:54:55Z', 'timestamp': 1525287295392}, 'reference-count': 83, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1999, 5, 1]], 'date-time': '1999-05-01T00:00:00Z', 'timestamp': 925516800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Vision and Image Understanding'], 'published-print': {'date-parts': [[1999, 5]]}, 'DOI': '10.1006/cviu.1999.0750', 'type': 'journal-article', 'created': {'date-parts': [[2002, 10, 6]], 'date-time': '2002-10-06T22:36:01Z', 'timestamp': 1033943761000}, 'page': '138-149', 'source': 'Crossref', 'is-referenced-by-count': 170, 'title': ['Automatic Object Extraction from Aerial Imagery—A Survey Focusing on Buildings'], 'prefix': '10.1006', 'volume': '74', 'author': [{'given': 'Helmut', 'family': 'Mayer', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Computer Vision and Image Understanding'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1077314299907506?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1077314299907506?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 14]], 'date-time': '2017-06-14T17:16:29Z', 'timestamp': 1497460589000}, 'score': 101.477974, 'issued': {'date-parts': [[1999, 5]]}, 'references-count': 83, 'journal-issue': {'published-print': {'date-parts': [[1999, 5]]}, 'issue': '2'}, 'alternative-id': ['S1077314299907506'], 'URL': 'http://dx.doi.org/10.1006/cviu.1999.0750', 'ISSN': ['1077-3142'], 'issn-type': [{'value': '1077-3142', 'type': 'print'}]}
+>>> hash >>> ('Automatic Object Extraction from Aerial Imagery—A Survey Focusing on Buildings', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T. Tuytelaars, L. Van Gool, "Matching widely separated views based on afne invariant regions", International Journal of Computer Vision, vol. 1, no. 59, pp. 61-85, 2004.
+>>> DOI >>> 10.1023/b:visi.0000020671.28016.e8
+>>> URL >>> http://dx.doi.org/10.1023/b:visi.0000020671.28016.e8
+>>> year >>> 2004.0
+>>> title >>> Matching Widely Separated Views Based on Affine Invariant Regions
+>>> author >>> Tinne Tuytelaars and Luc Van Gool
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 347.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Computer Vision']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T13:02:29Z', 'timestamp': 1527771749430}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['International Journal of Computer Vision'], 'published-print': {'date-parts': [[2004, 8]]}, 'DOI': '10.1023/b:visi.0000020671.28016.e8', 'type': 'journal-article', 'created': {'date-parts': [[2004, 3, 20]], 'date-time': '2004-03-20T15:25:32Z', 'timestamp': 1079796332000}, 'page': '61-85', 'source': 'Crossref', 'is-referenced-by-count': 347, 'title': ['Matching Widely Separated Views Based on Affine Invariant Regions'], 'prefix': '10.1007', 'volume': '59', 'author': [{'given': 'Tinne', 'family': 'Tuytelaars', 'sequence': 'first', 'affiliation': []}, {'given': 'Luc', 'family': 'Van Gool', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['International Journal of Computer Vision'], 'language': 'en', 'deposited': {'date-parts': [[2012, 12, 29]], 'date-time': '2012-12-29T00:52:50Z', 'timestamp': 1356742370000}, 'score': 104.85972, 'issued': {'date-parts': [[2004, 8]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1023/b:visi.0000020671.28016.e8', 'ISSN': ['0920-5691'], 'issn-type': [{'value': '0920-5691', 'type': 'print'}]}
+>>> hash >>> ('Matching Widely Separated Views Based on Affine Invariant Regions', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Carcassoni, E. R. Hancock, "Point pattern matching with robust spectral correspondence", IEEE Conference on Computer Vision and Pattern Recognition, vol. 1, pp. 649-655, June 2000.
+>>> DOI >>> 10.1109/cvpr.2000.855881
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2000.855881
+>>> year >>> None
+>>> title >>> Point pattern matching with robust spectral correspondence
+>>> author >>> M. Carcassoni and E.R. Hancock
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings IEEE Conference on Computer Vision and Pattern Recognition. CVPR 2000 (Cat. No.PR00662)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T11:03:15Z', 'timestamp': 1525345395499}, 'reference-count': 12, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769506623', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2000.855881', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 7]], 'date-time': '2002-11-07T22:04:51Z', 'timestamp': 1036706691000}, 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['Point pattern matching with robust spectral correspondence'], 'prefix': '10.1109', 'author': [{'given': 'M.', 'family': 'Carcassoni', 'sequence': 'first', 'affiliation': []}, {'given': 'E.R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'IEEE Conference on Computer Vision and Pattern Recognition. CVPR 2000', 'location': 'Hilton Head Island, SC, USA', 'acronym': 'CVPR-00'}, 'container-title': ['Proceedings IEEE Conference on Computer Vision and Pattern Recognition. CVPR 2000 (Cat. No.PR00662)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6894/18553/00855881.pdf?arnumber=855881', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T22:43:53Z', 'timestamp': 1489185833000}, 'score': 106.32093, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769506623'], 'references-count': 12, 'URL': 'http://dx.doi.org/10.1109/cvpr.2000.855881'}
+>>> hash >>> ('Point pattern matching with robust spectral correspondence', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. Lin, R. Nevatia, "Building detection and description from a single intensity image", Computer Vision and Image Understanding, vol. 72, pp. 101-121, 1998.
+>>> DOI >>> 10.1006/cviu.1998.0724
+>>> URL >>> http://dx.doi.org/10.1006/cviu.1998.0724
+>>> year >>> 1998.0
+>>> title >>> Building Detection and Description from a Single Intensity Image
+>>> author >>> Chungan Lin and Ramakant Nevatia
+>>> reference_count >>> 29.0
+>>> is_referenced_by_count >>> 163.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision and Image Understanding']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:42:37Z', 'timestamp': 1525333357489}, 'reference-count': 29, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1998, 11, 1]], 'date-time': '1998-11-01T00:00:00Z', 'timestamp': 909878400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Vision and Image Understanding'], 'published-print': {'date-parts': [[1998, 11]]}, 'DOI': '10.1006/cviu.1998.0724', 'type': 'journal-article', 'created': {'date-parts': [[2002, 10, 7]], 'date-time': '2002-10-07T14:19:13Z', 'timestamp': 1034000353000}, 'page': '101-121', 'source': 'Crossref', 'is-referenced-by-count': 163, 'title': ['Building Detection and Description from a Single Intensity Image'], 'prefix': '10.1006', 'volume': '72', 'author': [{'given': 'Chungan', 'family': 'Lin', 'sequence': 'first', 'affiliation': []}, {'given': 'Ramakant', 'family': 'Nevatia', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Computer Vision and Image Understanding'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S107731429890724X?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S107731429890724X?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 14]], 'date-time': '2017-06-14T17:27:00Z', 'timestamp': 1497461220000}, 'score': 102.56815, 'issued': {'date-parts': [[1998, 11]]}, 'references-count': 29, 'journal-issue': {'published-print': {'date-parts': [[1998, 11]]}, 'issue': '2'}, 'alternative-id': ['S107731429890724X'], 'URL': 'http://dx.doi.org/10.1006/cviu.1998.0724', 'ISSN': ['1077-3142'], 'issn-type': [{'value': '1077-3142', 'type': 'print'}]}
+>>> hash >>> ('Building Detection and Description from a Single Intensity Image', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Lowe, "Distinctive image features from scale-invariant keypoints", IJCV, vol. 60, no. 2, pp. 91-110, 2004.
+>>> DOI >>> 10.1023/b:visi.0000029664.99615.94
+>>> URL >>> http://dx.doi.org/10.1023/b:visi.0000029664.99615.94
+>>> year >>> 2004.0
+>>> title >>> Distinctive Image Features from Scale-Invariant Keypoints
+>>> author >>> David G. Lowe
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 20658.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T16:02:27Z', 'timestamp': 1528387347157}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['International Journal of Computer Vision'], 'published-print': {'date-parts': [[2004, 11]]}, 'DOI': '10.1023/b:visi.0000029664.99615.94', 'type': 'journal-article', 'created': {'date-parts': [[2004, 6, 2]], 'date-time': '2004-06-02T04:09:50Z', 'timestamp': 1086149390000}, 'page': '91-110', 'source': 'Crossref', 'is-referenced-by-count': 20658, 'title': ['Distinctive Image Features from Scale-Invariant Keypoints'], 'prefix': '10.1007', 'volume': '60', 'author': [{'given': 'David G.', 'family': 'Lowe', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['International Journal of Computer Vision'], 'language': 'en', 'deposited': {'date-parts': [[2012, 12, 29]], 'date-time': '2012-12-29T00:53:06Z', 'timestamp': 1356742386000}, 'score': 81.65334, 'issued': {'date-parts': [[2004, 11]]}, 'references-count': 0, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1023/b:visi.0000029664.99615.94', 'ISSN': ['0920-5691'], 'issn-type': [{'value': '0920-5691', 'type': 'print'}]}
+>>> hash >>> ('Distinctive Image Features from Scale-Invariant Keypoints', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> X. Feng, C. K. I. Williams, S. N. Felderhof, "Combining belief networks and neural networks for scene segmentation", IEEE Trans. on Pattern Analysis and Machine Intelligence, vol. 24, no. 4, pp. 467-483, 2002.
+>>> DOI >>> 10.1109/34.993555
+>>> URL >>> http://dx.doi.org/10.1109/34.993555
+>>> year >>> 2002.0
+>>> title >>> Combining belief networks and neural networks for scene segmentation
+>>> author >>> None
+>>> reference_count >>> 51.0
+>>> is_referenced_by_count >>> 44.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:47:46Z', 'timestamp': 1525333666586}, 'reference-count': 51, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2002, 4]]}, 'DOI': '10.1109/34.993555', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T20:14:45Z', 'timestamp': 1030220085000}, 'page': '467-483', 'source': 'Crossref', 'is-referenced-by-count': 44, 'title': ['Combining belief networks and neural networks for scene segmentation'], 'prefix': '10.1109', 'volume': '24', 'author': [{'family': 'Xiaojuan Feng', 'sequence': 'first', 'affiliation': []}, {'given': 'C.K.I.', 'family': 'Williams', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.N.', 'family': 'Felderhof', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/21430/00993555.pdf?arnumber=993555', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T09:41:23Z', 'timestamp': 1512985283000}, 'score': 122.07753, 'issued': {'date-parts': [[2002, 4]]}, 'references-count': 51, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/34.993555', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Combining belief networks and neural networks for scene segmentation', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Wei Zhang, Jana Kosecka, "Localization Based on Building Recognition", IEEE Workshop on Computer Vision Applications for the Visually Impaired in conjunction with CVPR, 2005.
+>>> DOI >>> 10.1109/cvpr.2005.489
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2005.489
+>>> year >>> None
+>>> title >>> Localization Based on Building Recognition
+>>> author >>> None
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 20.0
+>>> subject >>> None
+>>> container_title >>> ["2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05) - Workshops"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:29:55Z', 'timestamp': 1525483795635}, 'reference-count': 16, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769523722', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2005.489', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 1, 5]], 'date-time': '2006-01-05T14:52:38Z', 'timestamp': 1136472758000}, 'source': 'Crossref', 'is-referenced-by-count': 20, 'title': ['Localization Based on Building Recognition'], 'prefix': '10.1109', 'author': [{'family': 'Wei Zhang', 'sequence': 'first', 'affiliation': []}, {'given': 'J.', 'family': 'Kosecka', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05) - Workshops", 'location': 'San Diego, CA, USA'}, 'container-title': ["2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05) - Workshops"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10468/33215/01565318.pdf?arnumber=1565318', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 14]], 'date-time': '2017-03-14T20:45:13Z', 'timestamp': 1489524313000}, 'score': 80.0541, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769523722'], 'references-count': 16, 'URL': 'http://dx.doi.org/10.1109/cvpr.2005.489'}
+>>> hash >>> ('Localization Based on Building Recognition', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Jiangjian Xiao, Hui Cheng, Feng Han, H. Sawhney, "Geo-spatial aerial video processing for scene understanding and object tracking", IEEE Conference on Computer Vision and Pattern Recognition, pp. 1-8, June 2008.
+>>> DOI >>> 10.1109/cvpr.2008.4587434
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2008.4587434
+>>> year >>> 2008.0
+>>> title >>> Geo-spatial aerial video processing for scene understanding and object tracking
+>>> author >>> None
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['2008 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:54:23Z', 'timestamp': 1525438463951}, 'reference-count': 21, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424422425', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 6]]}, 'DOI': '10.1109/cvpr.2008.4587434', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 8, 12]], 'date-time': '2008-08-12T14:28:49Z', 'timestamp': 1218551329000}, 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['Geo-spatial aerial video processing for scene understanding and object tracking'], 'prefix': '10.1109', 'author': [{'family': 'Jiangjian Xiao', 'sequence': 'first', 'affiliation': []}, {'family': 'Hui Cheng', 'sequence': 'additional', 'affiliation': []}, {'family': 'Feng Han', 'sequence': 'additional', 'affiliation': []}, {'given': 'Harpreet', 'family': 'Sawhney', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2008 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Anchorage, AK, USA', 'start': {'date-parts': [[2008, 6, 23]]}, 'end': {'date-parts': [[2008, 6, 28]]}}, 'container-title': ['2008 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4558014/4587335/04587434.pdf?arnumber=4587434', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T15:01:48Z', 'timestamp': 1489676508000}, 'score': 137.97742, 'issued': {'date-parts': [[2008, 6]]}, 'ISBN': ['9781424422425'], 'references-count': 21, 'URL': 'http://dx.doi.org/10.1109/cvpr.2008.4587434'}
+>>> hash >>> ('Geo-spatial aerial video processing for scene understanding and object tracking', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Per-Erik ForssÃ©n, David G. Lowe, "Shape descriptors for maximally stable extremal regions", International Conference on Computer Vision (ICCV), October 2007.
+>>> DOI >>> 10.1109/iccv.2007.4409025
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2007.4409025
+>>> year >>> 2007.0
+>>> title >>> Shape Descriptors for Maximally Stable Extremal Regions
+>>> author >>> Per-Erik Forssen and David G. Lowe
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 67.0
+>>> subject >>> None
+>>> container_title >>> ['2007 IEEE 11th International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T11:02:33Z', 'timestamp': 1528369353570}, 'reference-count': 18, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424416301', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.1109/iccv.2007.4409025', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 1, 4]], 'date-time': '2008-01-04T20:34:53Z', 'timestamp': 1199478893000}, 'source': 'Crossref', 'is-referenced-by-count': 67, 'title': ['Shape Descriptors for Maximally Stable Extremal Regions'], 'prefix': '10.1109', 'author': [{'given': 'Per-Erik', 'family': 'Forssen', 'sequence': 'first', 'affiliation': []}, {'given': 'David G.', 'family': 'Lowe', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2007 IEEE 11th International Conference on Computer Vision', 'location': 'Rio de Janeiro, Brazil', 'start': {'date-parts': [[2007, 10, 14]]}, 'end': {'date-parts': [[2007, 10, 21]]}}, 'container-title': ['2007 IEEE 11th International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4408818/4408819/04409025.pdf?arnumber=4409025', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T19:48:24Z', 'timestamp': 1489693704000}, 'score': 82.71624, 'issued': {'date-parts': [[2007]]}, 'ISBN': ['9781424416301'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1109/iccv.2007.4409025'}
+>>> hash >>> ('Shape Descriptors for Maximally Stable Extremal Regions', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G.L. Scott, H.C. Longuet-Higgins, "An algorithm for associating the features of 2 images", Proceedings of the Royal Society of London Series B (Biol.), vol. 244, pp. 21-26, 1991.
+>>> DOI >>> 10.1098/rspb.1991.0045
+>>> URL >>> http://dx.doi.org/10.1098/rspb.1991.0045
+>>> year >>> 1991.0
+>>> title >>> An Algorithm for Associating the Features of Two Images
+>>> author >>> G. L. Scott and H. C. Longuet-Higgins
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 241.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the Royal Society B: Biological Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:31:09Z', 'timestamp': 1525336269850}, 'reference-count': 0, 'publisher': 'The Royal Society', 'issue': '1309', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proceedings of the Royal Society B: Biological Sciences'], 'published-print': {'date-parts': [[1991, 4, 22]]}, 'DOI': '10.1098/rspb.1991.0045', 'type': 'journal-article', 'created': {'date-parts': [[2006, 12, 15]], 'date-time': '2006-12-15T20:32:03Z', 'timestamp': 1166214723000}, 'page': '21-26', 'source': 'Crossref', 'is-referenced-by-count': 241, 'title': ['An Algorithm for Associating the Features of Two Images'], 'prefix': '10.1098', 'volume': '244', 'author': [{'given': 'G. L.', 'family': 'Scott', 'sequence': 'first', 'affiliation': []}, {'given': 'H. C.', 'family': 'Longuet-Higgins', 'sequence': 'additional', 'affiliation': []}], 'member': '175', 'container-title': ['Proceedings of the Royal Society B: Biological Sciences'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1098/rspb.1991.0045', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 23]], 'date-time': '2016-12-23T01:10:03Z', 'timestamp': 1482455403000}, 'score': 63.93519, 'issued': {'date-parts': [[1991, 4, 22]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1991, 4, 22]]}, 'issue': '1309'}, 'URL': 'http://dx.doi.org/10.1098/rspb.1991.0045', 'ISSN': ['0962-8452', '1471-2954'], 'issn-type': [{'value': '0962-8452', 'type': 'print'}, {'value': '1471-2954', 'type': 'electronic'}]}
+>>> hash >>> ('An Algorithm for Associating the Features of Two Images', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Krishnamachari, R. Chellappa, "Delineating buildings by grouping lines with mrfs", IEEE Trans. on Pat. Anal. Mach. Intell., vol. 5, no. 1, pp. 164-168, 1996.
+>>> DOI >>> 10.1109/83.481683
+>>> URL >>> http://dx.doi.org/10.1109/83.481683
+>>> year >>> 1996.0
+>>> title >>> Delineating buildings by grouping lines with MRFs
+>>> author >>> S. Krishnamachari and R. Chellappa
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 44.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Image Processing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:24:56Z', 'timestamp': 1525332296620}, 'reference-count': 12, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. on Image Process.'], 'published-print': {'date-parts': [[1996, 1]]}, 'DOI': '10.1109/83.481683', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T19:31:03Z', 'timestamp': 1030217463000}, 'page': '164-168', 'source': 'Crossref', 'is-referenced-by-count': 44, 'title': ['Delineating buildings by grouping lines with MRFs'], 'prefix': '10.1109', 'volume': '5', 'author': [{'given': 'S.', 'family': 'Krishnamachari', 'sequence': 'first', 'affiliation': []}, {'given': 'R.', 'family': 'Chellappa', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Image Processing'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx4/83/10299/00481683.pdf?arnumber=481683', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 9]], 'date-time': '2017-11-09T21:38:41Z', 'timestamp': 1510263521000}, 'score': 86.49299, 'issued': {'date-parts': [[1996, 1]]}, 'references-count': 12, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1109/83.481683', 'ISSN': ['1057-7149', '1941-0042'], 'issn-type': [{'value': '1057-7149', 'type': 'print'}, {'value': '1941-0042', 'type': 'electronic'}]}
+>>> hash >>> ('Delineating buildings by grouping lines with MRFs', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Lazebnik, C. Schmid, J. Ponce, "Sparse texture representation using afne-invariant neighborhoods", Proceedings of the Conference on Computer Vision and Pattern Recognition, pp. 319-324, 2003.
+>>> DOI >>> 10.1109/cvpr.2003.1211486
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2003.1211486
+>>> year >>> None
+>>> title >>> A sparse texture representation using affine-invariant regions
+>>> author >>> S. Lazebnik and C. Schmid and J. Ponce
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 34.0
+>>> subject >>> None
+>>> container_title >>> ['2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2003. Proceedings.']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T23:53:58Z', 'timestamp': 1525391638284}, 'reference-count': 19, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769519008', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2003.1211486', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 21]], 'date-time': '2003-11-21T01:19:26Z', 'timestamp': 1069377566000}, 'source': 'Crossref', 'is-referenced-by-count': 34, 'title': ['A sparse texture representation using affine-invariant regions'], 'prefix': '10.1109', 'author': [{'given': 'S.', 'family': 'Lazebnik', 'sequence': 'first', 'affiliation': []}, {'given': 'C.', 'family': 'Schmid', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Ponce', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'CVPR 2003: Computer Vision and Pattern Recognition Conference', 'location': 'Madison, WI, USA', 'acronym': 'CVPR-03'}, 'container-title': ['2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2003. Proceedings.'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8603/27266/01211486.pdf?arnumber=1211486', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 13]], 'date-time': '2017-03-13T23:26:07Z', 'timestamp': 1489447567000}, 'score': 99.345894, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769519008'], 'references-count': 19, 'URL': 'http://dx.doi.org/10.1109/cvpr.2003.1211486'}
+>>> hash >>> ('A sparse texture representation using affine-invariant regions', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y. Ke, R. Sukthankar, "PCA-SIFT: a more distinctive representation for local image descriptors", CVPR, 2004.
+>>> DOI >>> 10.1109/cvpr.2004.1315206
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2004.1315206
+>>> year >>> None
+>>> title >>> PCA-SIFT: a more distinctive representation for local image descriptors
+>>> author >>> None
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 103.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2004. CVPR 2004.']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 29]], 'date-time': '2018-05-29T08:02:36Z', 'timestamp': 1527580956903}, 'reference-count': 18, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769521584', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2004.1315206', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 11, 13]], 'date-time': '2004-11-13T00:14:14Z', 'timestamp': 1100304854000}, 'source': 'Crossref', 'is-referenced-by-count': 103, 'title': ['PCA-SIFT: a more distinctive representation for local image descriptors'], 'prefix': '10.1109', 'author': [{'family': 'Yan Ke', 'sequence': 'first', 'affiliation': []}, {'given': 'R.', 'family': 'Sukthankar', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2004. CVPR 2004.', 'location': 'Washington, DC, USA'}, 'container-title': ['Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2004. CVPR 2004.'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/9183/29134/01315206.pdf?arnumber=1315206', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T11:52:40Z', 'timestamp': 1497613960000}, 'score': 89.13742, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769521584'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1109/cvpr.2004.1315206'}
+>>> hash >>> ('PCA-SIFT: a more distinctive representation for local image descriptors', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Kumar, M. Hebert, "Man-Made Structure Detection in Natural Images using a Causal Multiscale Random Field", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2003.
+>>> DOI >>> 10.1109/cvpr.2003.1211345
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2003.1211345
+>>> year >>> None
+>>> title >>> Man-made structure detection in natural images using a causal multiscale random field
+>>> author >>> S. Kumar and M. Hebert
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 56.0
+>>> subject >>> None
+>>> container_title >>> ['2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2003. Proceedings.']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T23:53:57Z', 'timestamp': 1525391637944}, 'reference-count': 19, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769519008', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2003.1211345', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 21]], 'date-time': '2003-11-21T01:19:26Z', 'timestamp': 1069377566000}, 'source': 'Crossref', 'is-referenced-by-count': 56, 'title': ['Man-made structure detection in natural images using a causal multiscale random field'], 'prefix': '10.1109', 'author': [{'given': 'S.', 'family': 'Kumar', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Hebert', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'CVPR 2003: Computer Vision and Pattern Recognition Conference', 'location': 'Madison, WI, USA', 'acronym': 'CVPR-03'}, 'container-title': ['2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2003. Proceedings.'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8603/27265/01211345.pdf?arnumber=1211345', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T02:27:03Z', 'timestamp': 1497580023000}, 'score': 105.149666, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769519008'], 'references-count': 19, 'URL': 'http://dx.doi.org/10.1109/cvpr.2003.1211345'}
+>>> hash >>> ('Man-made structure detection in natural images using a causal multiscale random field', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Sarkar, P. Soundararajan, "Supervised learning of large perceptual organization: Graph spectral partitioning and learning automata", IEEE Trans. on Pat. Anal. Mach. Intell., vol. 22, no. 5, pp. 504-525, 2000.
+>>> DOI >>> 10.1109/34.857006
+>>> URL >>> http://dx.doi.org/10.1109/34.857006
+>>> year >>> 2000.0
+>>> title >>> Supervised learning of large perceptual organization: graph spectral partitioning and learning automata
+>>> author >>> S. Sarkar and P. Soundararajan
+>>> reference_count >>> 47.0
+>>> is_referenced_by_count >>> 113.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database154.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:21:20Z', 'timestamp': 1525332080487}, 'reference-count': 47, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2000, 5]]}, 'DOI': '10.1109/34.857006', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '504-525', 'source': 'Crossref', 'is-referenced-by-count': 113, 'title': ['Supervised learning of large perceptual organization: graph spectral partitioning and learning automata'], 'prefix': '10.1109', 'volume': '22', 'author': [{'given': 'S.', 'family': 'Sarkar', 'sequence': 'first', 'affiliation': []}, {'given': 'P.', 'family': 'Soundararajan', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/18615/00857006.pdf?arnumber=857006', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T09:57:01Z', 'timestamp': 1497520621000}, 'score': 124.44071, 'issued': {'date-parts': [[2000, 5]]}, 'references-count': 47, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/34.857006', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Supervised learning of large perceptual organization: graph spectral partitioning and learning automata', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

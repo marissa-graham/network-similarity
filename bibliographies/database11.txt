@@ -1,184 +1,66 @@
 [0] H. Bunke, Recent developments in graph matching
-[1] 
-H. Almohamed, "A linear programming approach for the weighted graph matching problem", IEEE Trans. PAMI, vol. 15, pp. 522-525, 1993.
-
-[2]  
-K. Börner, E. Pippig, E. Tammer, C. Coulon, "Structural similarity and adaption" in Advances in Case-based Reasoning, Springer, vol. 1168, pp. 58-75, 1996.
-
-[3]  
-H. Bunke, "On a relation between graph edit distance and maximum common subgraph", Pattern Recognition Letters, vol. 18, pp. 689-694, 1997.
-
-[4]  
-H. Bunke, "Error-tolerant graph matching: a formal framework and algorithms" in Advances in Pattern Recognition, Springer Verlag, pp. 1-14, 1998.
-
-[5]  
-H. Bunke, "Error correcting graph matching: On the influence of the underlying cost function", IEEE Trans. PAMI, vol. 21, pp. 917-922, 1999.
-
-[6]  
-H. Bunke, G. Allerman, "A metric on graphs for structural pattern recognition" in Signal Processing II: Theories and Applications, North-Holland:Elsevier Science Publishers B.V., pp. 257-260, 1983.
-[7]  
-H. Bunke, X. Jiang, A. Kandel, "On the minimum common supergraph of two graphs", Computing, 2000.
-
-[8]  
-H. Bunke, A. Kandel, "Mean and maximum common subgraph of two graphs", Pattern Recognition Letters, vol. 21, pp. 163-168, 2000.
-
-[9]  
-V. Cantoni, L. Cinque, C. Guerra, S. Levialdi, L. Lombardi, "2-d object recognition by multiscale tree matching", Pattern Recognition, vol. 31, pp. 1443-1455, 1998.
-
-[10]  
-W. Christmas, J. Kittler, M. Petrou, "Structural matching in computer vision using probabilistic relaxation", IEEE Trans. PAMI, vol. 8, pp. 749-764, 1995.
-
-[11]  
-D. Cook, L. Holder, "Substructure discovery using minimum description length and background knowledge", Journal of Artificial Intelligence Research, pp. 231-255, 1994.
-[12]  
-A. Cross, R. Wilson, E. Hancock, "Genetic search for structural matching", Computer Vision - ECCV '96, vol. 1064, pp. 514-525, 1996.
-
-[13]  
-H. Ehrig, "Introduction to graph grammars with applications to semantic networks", Computers and Mathematics with Applications, vol. 23, pp. 557-572, 1992.
-
-[14]  
-R. Englert, R. Glanz, "Towards the clustering of graphs", Proc. 2nd IAPR-TC-15 Workshop on Graph Based Representations, pp. 125-133, 2000.
-[15]  
-M. Eshera, K. Fu, "A graph distance measure for image analysis", IEEE Trans. SMC, vol. 14, pp. 398-408, 1984.
-
-[16]  
-J. Feng, M. Laumy, M. Dhome, "Inexact matching using neural networks", Pattern Recognition in Practice IV: Multiple Paradigms Comparative Studies and Hybrid Systems, pp. 177-184, 1994.
-
-[17]  
-D. Fisher, "Knowledge acquisition via incremental conceptual clustering" in Readings in Machine Learning, Morgan Kaufmann, pp. 267-283, 1990.
-[18]  
-S. Gold, A. Rangarajan, "A graduate assignment algorithm for graph matching", IEEE Trans. PAMI, vol. 18, pp. 377-388, 1996.
-
-[19]  
-X. Jiang, A. Münger, H. Bunke, "Synthesis of representative symbols by computing generalized median graphs", Proc. Int. Workshop on Graphics Recognition GREC '99, pp. 187-194, 1999.
-
-[20]  
-X. Jiang, A. Münger, H. Bunke, "Computing the generalized median of a set of graphs", Proc. 2nd IAPR-TC-15 Workshop on Graph Based Representations, pp. 115-124, 2000.
-[21]  
-X. Jiang, A. Münger, H. Bunke, "On median graphs: Properties algorithms and applications", Submitted, 2000.
-[22]  
-M. Lazarescu, H. Bunke, S. Venkatesh, "Graph matching: Fast candidate elimination using machine learning techniques", Submitted, 2000.
-
-[23]
-S. Lee, J. Kim, F. Groen, "Translation- rotation- and scale invariant recognition of hand-drawn symbols in schematic diagrams", Journal of Pattern Recognition and Artificial Intelligence, vol. 4, pp. 1-15, 1990.
-
-[24]  
-G. Levi, "A note on the derivation of maximal common subgraphs of two directed or undirected graphs", Calcolo, vol. 9, pp. 341-354, 1972.
-
-[25]  
-T. Lourens, A biologically plausible model for corner-based object recognition from color images, University of Groningen, 1998.
-[26]  
-S. Lu, Y. Ren, C. Suen, "Hierarchical attributed graph representation and recognition of handwritten chinese characters", Pattern Recognition, vol. 24, pp. 617-632, 1991.
-
-[27]  
-S.-Y. Lu, "A tree-to-tree distance and its application to cluster analysis", IEEE Trans. PAMI, vol. 1, pp. 219-224, 1979.
-
-[28]  
-P. Maher, "A similarity measure for conceptual graphs", Int. Journal of Intelligent Systems, vol. 8, pp. 819-837, 1993.
-
-[29]  
-J. McGregor, "Backtrack search algorithms and the maximal common subgraph problem", Software-Practice and Experience, vol. 12, pp. 23-34, 1982.
-
-[30] 
-B. Messmer, Efficient graph matching algorithms for preprocessed model graphs, University of Bern, 1995.
-[31]  
-B. Messmer, H. Bunke, "Automatic learning and recognition of graphical symboles in engineering drawings" in Graphics Recognition, Springer Verlag, vol. 1072, pp. 123-134, 1996.
-
-[32]  
-B. Messmer, H. Bunke, "Error-correcting graph isomorphism using decision trees", Int. Journal of Pattern Recognition and Art. Intelligence, vol. 12, pp. 721-742, 1998.
-
-[33] 
-B. Messmer, H. Bunke, "A new algorithm for error tolerant subgraph isomorphism", IEEE Trans. PAMI, vol. 20, pp. 493-505, 1998.
-
-[34]  
-B. Messmer, H. Bunke, "A decision tree approach to graph and subgraph isomorphism detection", Pattern Recognition, vol. 32, pp. 1979-1998, 1999.
-
-[35]  
-B. Messmer, H. Bunke, "Efficient subgraph isomorphism detection - a decompostion approach", IEEE Trans. on DKE, 2000.
-
-[36]  
-K. Oflazer, "Error-tolerant retrieval of trees", IEEE Trans. PAMI, vol. 19, pp. 1376-1380, 1997.
-
-[37]  
-M. Pelillo, "A unifying framework for relational structure matching", Proc. 14th ICPR, pp. 1316-1319, 1998.
-
-[38]  
-M. Pelillo, K. Siddiqi, S. Zucker, "Matching hierarchical structures using associated graphs", IEEE Trans. PAMI, vol. 21, pp. 1105-1120, 1999.
-
-[39] 
-J. Poole, "Similarity in legal case based reasoning as degree of matching in conceptual graphs", Preproceedings: First European Workshop on Case-Based Reasoning, pp. 54-58, 1993.
-[40]
-J. R. Quinlan, C4.5: Programs for Machine Learning, Morgan Kaufmann Publishers, 1993.
-[41]  
-J. Rekers, A. Schürr, "Defining and parsing visual languages with layered graph grammars", Journal of Visual Languages and Computing, vol. 8, pp. 27-55, 1997.
-
-[42]  
-J. Rocha, T. Pavlidis, "A shape analysis model with applications to a character recognition system", IEEE Trans. PAMI, pp. 393-404, 1994.
-
-[43] 
-P. Rodgers, P. King, "A graph - rewriting visual language for database programming", Journal of Visual Languages and Computing, vol. 8, pp. 641-674, 1997.
-
-[44]  
-K. Sanders, B. Kettler, J. Hendler, "The case for graph-structured representations" in Case-Based Reasoning Research and Development, Springer, vol. 1266, pp. 245-254, 1997.
-
-[45]  
-A. Sanfeliu, K. Fu, "A distance measure between attributed relational graphs for pattern recognition", IEEE Trans. SMC, vol. 13, pp. 353-363, 1983.
-
-[46]  
-K. Sengupta, K. Boyer, "Organizing large structural modelbases", IEEE Trans. PAMI, vol. 17, pp. 321-332, 1995.
-
-[47]  
-D. Seong, H. Kim, K. Park, "Incremental clustering of attributed graphs", IEEE Trans. SMC, vol. 23, pp. 1399-1411, 1993.
-
-[48]  
-L. Shapiro, R. Haralick, "Structural descriptions and inexact matching", IEEE Trans. PAMI, vol. 3, pp. 504-519, 1981.
-
-[49]  
-L. Shapiro, R. Haralick, "Organization of relational models for scene analysis", IEEE Trans. PAMI, vol. 3, pp. 595-602, 1982.
-
-[50]  
-K. Shearer, Indexing and retrieval of video using spatial reasoning techniques, Curtin University of Technology, 1998.
-[51] 
-K. Shearer, H. Bunke, S. Venkatesh, "Video indexing and similarity retrieval by largest common subgraph detection using decision trees", Pattern Recognition, 2000.
-
-[52] 
-P. Shoubridge, M. Krarne, D. Ray, "Detection of abnormal change in dynamic networks", Proc. of IDC'99, pp. 557-562, 1999.
-
-[53]
-P. Suganthan, E. Tesh, D. Mital, "Pattern recognition by graph matching using Potts MFT neural networks", Pattern Recognition, vol. 28, pp. 997-1009, 1995.
-
-[54]  
-W. Tsai, K. Fu, "Error-correcting isomorphisms of attributed relational graphs for pattern recognition", IEEE Trans. SMC, vol. 9, pp. 757-768, 1979.
-
-[55]  
-J. Ullman, "An algorithm for subgraph isomorphism", Journal of the Association for Computing Machinery, vol. 23, no. 1, pp. 31-42, 1976.
-
-[56] 
-S. Umeyama, "An eigendecomposition approach to weighted graph matching problems", IEEE Trans. PAMI, vol. 10, pp. 695-703, 1988.
-
-[57] 
-R. Wagner, M. Fischer, "The string-to-string correction problem", Journal of the Association for Computing Machinery, vol. 21, no. 1, pp. 168-173, 1974.
- 
-[58]  
-I. Wang, K. Zhang, G. Chirn, "The approximate graph matching problem", Proc. of 12th ICPR, pp. 284-288, 1994.
-
-[59]  
-J. Wang, "An algorithm for finding the largest approximately commen substructure of two trees", IEEE Trans. PAMI, vol. 20, pp. 889-895, 1998.
-
-[60]  
-Y.-K. Wang, K.-C. Fan, J.-T. Horng, "Genetic-based search for error-correcting graph isomorphism", IEEE Trans. SMC, vol. 27, no. 4, pp. 588-597, 1997.
-
-[61]  
-M. Williams, R. Wilson, E. Hancock, "Deterministic search for relational graph matching", Pattern Recognition, vol. 32, pp. 1255-1271, 1999.
-
-[62]  
-R. Wilson, E. Hancock, "Graph matching by discrete relaxation", Pattern Recognition in Practice IV: Multiple Paradigms Comparative Studies and Hybrid Systems, pp. 165-176, 1994.
-
-[63]  
-E. Wong, "Three-dimensional object recognition by attributed graphs" in Syntactic and Structural Pattern Recognition- Theory and Applications, World Scientific, pp. 381-414, 1990.
-
-[64]  
-E. Wong, "Model matching in robot vision by subgraph isomorphism", Pattern Recognition, vol. 25, pp. 287-304, 1992.
- 
-[65]  
-L. Xu, E. Oja, Improved simulated annealing Boltzmann machine and attributed graph matching, Springer Verlag, vol. 412, pp. 151-161, 1990.
+[1] H. Almohamed, "A linear programming approach for the weighted graph matching problem", IEEE Trans. PAMI, vol. 15, pp. 522-525, 1993.
+[2] K. Börner, E. Pippig, E. Tammer, C. Coulon, "Structural similarity and adaption" in Advances in Case-based Reasoning, Springer, vol. 1168, pp. 58-75, 1996.
+[3] H. Bunke, "On a relation between graph edit distance and maximum common subgraph", Pattern Recognition Letters, vol. 18, pp. 689-694, 1997.
+[4] H. Bunke, "Error-tolerant graph matching: a formal framework and algorithms" in Advances in Pattern Recognition, Springer Verlag, pp. 1-14, 1998.
+[5] H. Bunke, "Error correcting graph matching: On the influence of the underlying cost function", IEEE Trans. PAMI, vol. 21, pp. 917-922, 1999.
+[6] H. Bunke, G. Allerman, "A metric on graphs for structural pattern recognition" in Signal Processing II: Theories and Applications, North-Holland:Elsevier Science Publishers B.V., pp. 257-260, 1983.
+[7] H. Bunke, X. Jiang, A. Kandel, "On the minimum common supergraph of two graphs", Computing, 2000.
+[8] H. Bunke, A. Kandel, "Mean and maximum common subgraph of two graphs", Pattern Recognition Letters, vol. 21, pp. 163-168, 2000.
+[9] V. Cantoni, L. Cinque, C. Guerra, S. Levialdi, L. Lombardi, "2-d object recognition by multiscale tree matching", Pattern Recognition, vol. 31, pp. 1443-1455, 1998.
+[10] W. Christmas, J. Kittler, M. Petrou, "Structural matching in computer vision using probabilistic relaxation", IEEE Trans. PAMI, vol. 8, pp. 749-764, 1995.
+[11] D. Cook, L. Holder, "Substructure discovery using minimum description length and background knowledge", Journal of Artificial Intelligence Research, pp. 231-255, 1994.
+[12] A. Cross, R. Wilson, E. Hancock, "Genetic search for structural matching", Computer Vision - ECCV '96, vol. 1064, pp. 514-525, 1996.
+[13] H. Ehrig, "Introduction to graph grammars with applications to semantic networks", Computers and Mathematics with Applications, vol. 23, pp. 557-572, 1992.
+[14] R. Englert, R. Glanz, "Towards the clustering of graphs", Proc. 2nd IAPR-TC-15 Workshop on Graph Based Representations, pp. 125-133, 2000.
+[15] M. Eshera, K. Fu, "A graph distance measure for image analysis", IEEE Trans. SMC, vol. 14, pp. 398-408, 1984.
+[16] J. Feng, M. Laumy, M. Dhome, "Inexact matching using neural networks", Pattern Recognition in Practice IV: Multiple Paradigms Comparative Studies and Hybrid Systems, pp. 177-184, 1994.
+[17] D. Fisher, "Knowledge acquisition via incremental conceptual clustering" in Readings in Machine Learning, Morgan Kaufmann, pp. 267-283, 1990.
+[18] S. Gold, A. Rangarajan, "A graduate assignment algorithm for graph matching", IEEE Trans. PAMI, vol. 18, pp. 377-388, 1996.
+[19] X. Jiang, A. Münger, H. Bunke, "Synthesis of representative symbols by computing generalized median graphs", Proc. Int. Workshop on Graphics Recognition GREC '99, pp. 187-194, 1999.
+[20] X. Jiang, A. Münger, H. Bunke, "Computing the generalized median of a set of graphs", Proc. 2nd IAPR-TC-15 Workshop on Graph Based Representations, pp. 115-124, 2000.
+[21] X. Jiang, A. Münger, H. Bunke, "On median graphs: Properties algorithms and applications", Submitted, 2000.
+[22] M. Lazarescu, H. Bunke, S. Venkatesh, "Graph matching: Fast candidate elimination using machine learning techniques", Submitted, 2000.
+[23] S. Lee, J. Kim, F. Groen, "Translation- rotation- and scale invariant recognition of hand-drawn symbols in schematic diagrams", Journal of Pattern Recognition and Artificial Intelligence, vol. 4, pp. 1-15, 1990.
+[24] G. Levi, "A note on the derivation of maximal common subgraphs of two directed or undirected graphs", Calcolo, vol. 9, pp. 341-354, 1972.
+[25] T. Lourens, A biologically plausible model for corner-based object recognition from color images, University of Groningen, 1998.
+[26] S. Lu, Y. Ren, C. Suen, "Hierarchical attributed graph representation and recognition of handwritten chinese characters", Pattern Recognition, vol. 24, pp. 617-632, 1991.
+[27] S.-Y. Lu, "A tree-to-tree distance and its application to cluster analysis", IEEE Trans. PAMI, vol. 1, pp. 219-224, 1979.
+[28] P. Maher, "A similarity measure for conceptual graphs", Int. Journal of Intelligent Systems, vol. 8, pp. 819-837, 1993.
+[29] J. McGregor, "Backtrack search algorithms and the maximal common subgraph problem", Software-Practice and Experience, vol. 12, pp. 23-34, 1982.
+[30] B. Messmer, Efficient graph matching algorithms for preprocessed model graphs, University of Bern, 1995.
+[31] B. Messmer, H. Bunke, "Automatic learning and recognition of graphical symboles in engineering drawings" in Graphics Recognition, Springer Verlag, vol. 1072, pp. 123-134, 1996.
+[32] B. Messmer, H. Bunke, "Error-correcting graph isomorphism using decision trees", Int. Journal of Pattern Recognition and Art. Intelligence, vol. 12, pp. 721-742, 1998.
+[33] B. Messmer, H. Bunke, "A new algorithm for error tolerant subgraph isomorphism", IEEE Trans. PAMI, vol. 20, pp. 493-505, 1998.
+[34] B. Messmer, H. Bunke, "A decision tree approach to graph and subgraph isomorphism detection", Pattern Recognition, vol. 32, pp. 1979-1998, 1999.
+[35] B. Messmer, H. Bunke, "Efficient subgraph isomorphism detection - a decompostion approach", IEEE Trans. on DKE, 2000.
+[36] K. Oflazer, "Error-tolerant retrieval of trees", IEEE Trans. PAMI, vol. 19, pp. 1376-1380, 1997.
+[37] M. Pelillo, "A unifying framework for relational structure matching", Proc. 14th ICPR, pp. 1316-1319, 1998.
+[38] M. Pelillo, K. Siddiqi, S. Zucker, "Matching hierarchical structures using associated graphs", IEEE Trans. PAMI, vol. 21, pp. 1105-1120, 1999.
+[39] J. Poole, "Similarity in legal case based reasoning as degree of matching in conceptual graphs", Preproceedings: First European Workshop on Case-Based Reasoning, pp. 54-58, 1993.
+[40] J. R. Quinlan, C4.5: Programs for Machine Learning, Morgan Kaufmann Publishers, 1993.
+[41] J. Rekers, A. Schürr, "Defining and parsing visual languages with layered graph grammars", Journal of Visual Languages and Computing, vol. 8, pp. 27-55, 1997.
+[42] J. Rocha, T. Pavlidis, "A shape analysis model with applications to a character recognition system", IEEE Trans. PAMI, pp. 393-404, 1994.
+[43] P. Rodgers, P. King, "A graph - rewriting visual language for database programming", Journal of Visual Languages and Computing, vol. 8, pp. 641-674, 1997.
+[44] K. Sanders, B. Kettler, J. Hendler, "The case for graph-structured representations" in Case-Based Reasoning Research and Development, Springer, vol. 1266, pp. 245-254, 1997.
+[45] A. Sanfeliu, K. Fu, "A distance measure between attributed relational graphs for pattern recognition", IEEE Trans. SMC, vol. 13, pp. 353-363, 1983.
+[46] K. Sengupta, K. Boyer, "Organizing large structural modelbases", IEEE Trans. PAMI, vol. 17, pp. 321-332, 1995.
+[47] D. Seong, H. Kim, K. Park, "Incremental clustering of attributed graphs", IEEE Trans. SMC, vol. 23, pp. 1399-1411, 1993.
+[48] L. Shapiro, R. Haralick, "Structural descriptions and inexact matching", IEEE Trans. PAMI, vol. 3, pp. 504-519, 1981.
+[49] L. Shapiro, R. Haralick, "Organization of relational models for scene analysis", IEEE Trans. PAMI, vol. 3, pp. 595-602, 1982.
+[50] K. Shearer, Indexing and retrieval of video using spatial reasoning techniques, Curtin University of Technology, 1998.
+[51] K. Shearer, H. Bunke, S. Venkatesh, "Video indexing and similarity retrieval by largest common subgraph detection using decision trees", Pattern Recognition, 2000.
+[52] P. Shoubridge, M. Krarne, D. Ray, "Detection of abnormal change in dynamic networks", Proc. of IDC'99, pp. 557-562, 1999.
+[53] P. Suganthan, E. Tesh, D. Mital, "Pattern recognition by graph matching using Potts MFT neural networks", Pattern Recognition, vol. 28, pp. 997-1009, 1995.
+[54] W. Tsai, K. Fu, "Error-correcting isomorphisms of attributed relational graphs for pattern recognition", IEEE Trans. SMC, vol. 9, pp. 757-768, 1979.
+[55] J. Ullman, "An algorithm for subgraph isomorphism", Journal of the Association for Computing Machinery, vol. 23, no. 1, pp. 31-42, 1976.
+[56] S. Umeyama, "An eigendecomposition approach to weighted graph matching problems", IEEE Trans. PAMI, vol. 10, pp. 695-703, 1988.
+[57] R. Wagner, M. Fischer, "The string-to-string correction problem", Journal of the Association for Computing Machinery, vol. 21, no. 1, pp. 168-173, 1974.
+[58] I. Wang, K. Zhang, G. Chirn, "The approximate graph matching problem", Proc. of 12th ICPR, pp. 284-288, 1994.
+[59] J. Wang, "An algorithm for finding the largest approximately commen substructure of two trees", IEEE Trans. PAMI, vol. 20, pp. 889-895, 1998.
+[60] Y.-K. Wang, K.-C. Fan, J.-T. Horng, "Genetic-based search for error-correcting graph isomorphism", IEEE Trans. SMC, vol. 27, no. 4, pp. 588-597, 1997.
+[61] M. Williams, R. Wilson, E. Hancock, "Deterministic search for relational graph matching", Pattern Recognition, vol. 32, pp. 1255-1271, 1999.
+[62] R. Wilson, E. Hancock, "Graph matching by discrete relaxation", Pattern Recognition in Practice IV: Multiple Paradigms Comparative Studies and Hybrid Systems, pp. 165-176, 1994.
+[63] E. Wong, "Three-dimensional object recognition by attributed graphs" in Syntactic and Structural Pattern Recognition- Theory and Applications, World Scientific, pp. 381-414, 1990.
+[64] E. Wong, "Model matching in robot vision by subgraph isomorphism", Pattern Recognition, vol. 25, pp. 287-304, 1992.
+[65] L. Xu, E. Oja, Improved simulated annealing Boltzmann machine and attributed graph matching, Springer Verlag, vol. 412, pp. 151-161, 1990.

@@ -1,0 +1,1599 @@
+% Options: [twoside, leqno, 11pt], etc.. leqno is "number equations on the left hand side"
+\RequirePackage{tikz}
+\documentclass[12pt]{thesis}
+\usepackage{setspace}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{longtable}
+\usepackage{subcaption}
+\usepackage{setspace}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{rotating}
+\usepackage{cancel}
+\usepackage{array}
+\usepackage{tikz}
+\usetikzlibrary{matrix, shapes}
+
+\graphicspath{ {C:/Users/Marissa/network-similarity/} }
+
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}\vspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}\vspace{0pt}}m{#1}}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% DOCUMENT PROPERTIES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\author{Marissa Graham}
+
+% Titles must be in mixed case. Style guide: https://www.grammarcheck.net/capitalization-in-titles-101/.
+
+\title{A computationally driven comparative survey of network alignment, graph matching, and network comparison in pattern recognition and systems biology.} 
+
+\degree{Master of Science}
+\university{Brigham Young University}
+\department{Department of Mathematics} 
+\committeechair{Emily Evans} 
+
+%% These are fields that are stored in the PDF but are not visible in the document itself. They are optional.
+\memberA{Benjamin Webb}
+\memberB{Christopher Grant}
+\subject{Writing a thesis using LaTeX} % Subject of your thesis, e.g. algebraic geometry
+\keywords{LaTeX, PDF, BYU, Math, Thesis}
+\month{June}
+\year{2018} 
+
+\pdfbookmarks
+\makeindex
+
+%%%%%%%%%%%%%%%%%%%%%%%%% THEOREM DEFINITIONS AND CUSTOM COMMANDS %%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Define the theorem styles and numbering
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
+
+%% Create shortcut commands for various fonts and common symbols
+\newcommand{\s}[1]{\mathcal{#1}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+
+%% Declare custom math operators
+\DeclareMathOperator{\tr}{tr}
+\DeclareMathOperator{\diag}{diag}
+\DeclareMathOperator*{\argmin}{argmin}
+\DeclareMathOperator*{\argmax}{argmax}
+\DeclareMathOperator{\Span}{Span}
+\DeclareMathOperator{\rank}{rank}
+
+%% Sets and systems
+\newcommand{\br}[1]{\left\langle #1 \right\rangle}
+\newcommand{\paren}[1]{\left(#1\right)}
+\newcommand{\sq}[1]{\left[#1\right]}
+\newcommand{\set}[1]{\left\{\: #1 \:\right\}}
+\newcommand{\setp}[2]{\left\{\, #1\: \middle|\: #2 \, \right\}}
+\newcommand{\abs}[1]{\left| #1 \right|}
+\newcommand{\norm}[1]{\left\| #1 \right\|}
+\newcommand{\system}[1]{\left\{ \begin{array}{rl} #1 \end{array} \right.}
+
+%% referencing commands
+\newcommand{\thmref}[1]{Theorem \ref{#1}}
+\newcommand{\corref}[1]{Corollary \ref{#1}}
+\newcommand{\lemref}[1]{Lemma \ref{#1}}
+\newcommand{\propref}[1]{Proposition \ref{#1}}
+\newcommand{\defref}[1]{Definition \ref{#1}}
+\newcommand{\exampleref}[1]{Example \ref{#1}}
+\newcommand{\exerref}[1]{Exercise \ref{#1}}
+
+\renewcommand{\labelenumi}{(\roman{enumi})}
+
+\begin{document}
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% FRONT MATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+\frontmatter 
+\maketitle 
+
+\begin{abstract}\index{abstract}
+
+Comparative graph and network analysis plays an important role in both systems biology and pattern recognition, but existing surveys on the topic have historically ignored or underserved one or the other of these fields. We present a integrative introduction to the key objectives and methods of graph and network comparison in each, with the intent of remaining accessible to relative novices in order to mitigate the barrier to interdisciplinary idea crossover.
+
+To guide our investigation, and to quantitatively justify our assertions about what the key objectives and methods of each field are, we have constructed a citation network containing 5,793 vertices from the full reference lists of over two hundred relevant papers, which we collected by searching Google Scholar for ten different network comparison-related search terms. This dataset is freely available on Github. We have investigated its basic statistics and community structure, and framed our presentation around the papers found to have high importance according to five different standard centrality measures. We have also made the code framework used to create and analyze our dataset available as documented Python classes and template Mathematica notebooks, so it can be used for a similarly computationally-driven investigation of any field.
+
+\vskip 2.25in
+ 
+\noindent Keywords: % Keywords need to be as close to the bottom of the page as possible without moving to a new page.
+graph matching, graph alignment, graph comparison, graph similarity, graph isomorphism, network matching, network alignment, network comparison, network similarity, network alignment, comparative analysis, local alignment, global alignment, protein network, computational biology, biological networks, protein-protein interactions, computational graph theory, pattern recognition, exact graph matching, inexact graph matching, graph edit distance, graphlets, network motifs, graph matching algorithms, bipartite graph matching, node similarity, graph similarity search, attributed relational graphs
+\end{abstract}
+
+%\begin{acknowledgments} \end{acknowledgments}
+
+\tableofcontents
+\listoftables
+\listoffigures
+\mainmatter
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CHAPTER 1 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+\chapter{Introduction}\label{chapter:introduction_and_background}
+
+\section{Motivation}
+
+\begin{wrapfigure}{L}{0.4\textwidth}
+\centering
+\vspace{-20pt}
+\includegraphics[width=0.38\textwidth]{foodweb.png}
+\scriptsize
+``SimpleFoodWeb" Mathematica sample network.
+\caption{Using a network to represent relationships in a food web.}
+\vspace{-20pt}
+\label{fig:foodweb}
+\end{wrapfigure}
+
+Networks\footnote{The term \textit{network} is sometimes used interchangeably with the term \textit{graph}. While they both refer to the same mathematical object, we attempt to follow the heuristic throughout of using the term \textit{graph} to refer to a purely mathematical object and \textit{network} to refer to a real-world system.} are first and foremost a way to model the relationships between objects, which we do by representing objects as vertices and and relationships as edges. For example, we might use a graph to represent the relationships in a food web, or between characters in a successful movie franchise.
+
+In some cases, using this representation simply to visualize relationships is useful, but we generally would also like to computationally exploit it in order to gain further insight about the system we are modeling. 
+
+\begin{wrapfigure}{r}{0.5\textwidth}
+\centering
+\vspace{-25pt}
+\includegraphics[width=0.48\textwidth,height=0.28\textwidth]{avengers.png}
+\scriptsize
+Diagram from the mic.com article ``Here's How the Marvel Cinematic Universe's Heroes Connect--in One Surprising Map".
+\caption{Using a network to represent relationships between movie characters.}
+\vspace{-20pt}
+\label{fig:avengers}
+\end{wrapfigure}
+
+As a first example, consider what questions we might ask about an infrastructure network such as a road network, phone lines, power grid, or the routers and fiber optic connections of the Internet itself. How do we efficiently get from here to there? How much traffic can flow through the network? What happens if an intersection is clogged, or a power plant fails? 
+
+We can also ask questions about social networks representing relationships between people. Who is the most important? Who controls the flow of information? To what extent do the people you consider your friends consider themselves \textit{your} friend?  How similar are you to your friends? To what extent are your friends friends with each other? How well is everybody connected to each other? To what extent do people form relationships with people who are like them? What do communities and strong friend groups look like, mathematically?
+
+One common question across all of mathematics is how similar objects are to each other. With networks, we can ask this question about individual vertices in a network, but we also frequently want to ask it about networks themselves. For example, we might ask ``How similar are you to other students, based on your friendships at school?", but we can also ask ``Which proteins, protein interactions and groups of interactions are likely to have equivalent functions across species?" \cite{Sharan_2006}
+
+For objects as combinatorially complex as networks, similarity calculation is a difficult problem, the study of which has its roots in the 60s and 70s \cite{Conte_2004} and, as illustrated in Figure \ref{fig:year_distributions}, has gained significant attention in the past twenty years as interesting network data becomes more readily available and computationally feasible.
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.9\textwidth]{year_distribution.png}
+\caption{Distribution of papers published by year in our citation network of network similarity-related papers. Interestingly, year cutoffs for significant percentiles seem to roughly correspond to the spread of computers, personal computers, and the Internet, respectively.}
+\label{fig:year_distributions}
+\end{figure}
+
+The goal of this project is to provide a broad outline of the study of network similarity, but without the help of prior expertise in the field, it is laborious at best and impossible at worst to know which works are important and which are irrelevant. Instead, we use the tools of network theory to study the network of citations between scientific papers on a certain topic. This allows us to use standard network analysis techniques to determine which papers are the most important or influential, and has the additional advantage of bringing transparency to the process. That is, we can quantitatively justify our assertions using standard centrality and community detection measures, rather than relying on existing expertise in the field to give weight to our claims.
+
+The remainder of this work is structured as follows: In the remainder of this chapter, we introduce the necessary mathematical background to inform our analysis of our citation network dataset. In Chapters \ref{chapter:dataset_creation_and_analysis} and \ref{chapter:partitioning}, we introduce our citation network dataset. We analyze its basic structure, find two main fields of application within the study of network comparison, and choose a reading list from the high centrality vertices in our dataset. In Chapters \ref{chapter:pattern_recognition} and \ref{chapter:systems_biology}, we discuss our findings from this reading, and then conclude by discussing potential cross-applications between our two observed fields in Chapter \ref{chapter:conclusion}.
+
+\section{Background}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.9\textwidth]{basic_properties_demo.png}
+\caption{Basic types of networks}
+\label{fig:basic_properties_demo}
+\end{figure}
+
+In this section we introduce the definitions and notation required to give context to our analysis of the citation network. Our presentation follows Newman's \textit{Networks: An Introduction} \cite{newman2010} closely, with the remainder of definitions not otherwise cited sourced from \textit{Algorithms and Models for Network Data and Link Analysis} \cite{fouss2016}
+
+A \textbf{graph}\index{graph} $G(V,E)$ is formally defined as a finite, nonempty set $V$ of \textbf{nodes}\index{nodes} or \textbf{vertices}\index{vertices}, combined with a set $E\subset V\times V$ of \textbf{edges}\index{edges} representing relationships between pairs of vertices. Throughout this work, we denote the number of vertices in a graph by $n$ and the number of edges by $m$ where not otherwise specified.
+
+In this work we will deal with \textbf{simple graphs}\index{simple graph}, which are those that do not have more than one edge between any pair of vertices (that is, a \textbf{multiedge}\index{multiedge}\footnote{A multigraph without edge loops is not simple, but if we represented the number of edges between pairs of vertices as edge weights instead of multiedges, that would be a simple graph.}), and do not have any edges from a vertex to itself (a \textbf{self-edge}\index{self-edge} or \textbf{self-loop}). 
+
+We also are concerned with whether a graph is \textbf{directed}\index{directed graph} or \textbf{undirected}\index{undirected graph}. In an undirected graph, we have an edge \textit{between} two vertices, whereas in a directed graph we have edges \textit{from} one vertex \textit{to} another vertex. Throughout this work, we will use the notation $v_i \leftrightarrow v_j$ for an undirected edge between vertices $v_i$ and $v_j$, and $v_i \rightarrow v_j$ for a directed edge. In either case, the edge $v_i\leftrightarrow v_j$ or $v_i\rightarrow v_j$ is \textbf{incident}\index{incident} to vertices $v_i$ and $v_j$, and vertices $v_i$ and $v_j$ are therefore considered \textbf{neighbors}\index{neighbor}.
+
+A graph can also be \textbf{weighted}\index{weighted graph}, meaning each edge is assigned some real, generally positive value $w_{ij}$ representing the ``strength" of the connection between vertices $v_i$ and $v_j$. 
+
+In an undirected graph, the \textbf{degree}\index{degree} of a vertex is the sum of the weights of the incident edges, and in a directed graph, the \textbf{indegree}\index{indegree} and \textbf{outdegree}\index{outdegree} are the total weight of a vertex's incoming and outgoing edges, respectively. If the graph is unweighted, this is simply the number of adjacent, incoming, or outgoing edges, as the weight of each edge is one.
+
+When studying real-world networks, we also make a distinction between \textbf{deterministic}\index{deterministic} and \textbf{random}\index{random} networks. This distinction is roughly the same as that between a variable and a random variable. The vertices and edges in a deterministic network are ``fixed", while in a random network, they need to be inferred from data using statistical inference methods. For example, our citation network is deterministic, but a network of protein interactions for a given species is not, as it must be inferred from experimental data on a limited number of members of that species.
+
+\subsection{Computational network properties}
+Whether a network is directed or weighted or simple will inform our approach to its analysis, but these properties are generally included as metadata rather than computationally determined. The remainder of the properties we consider in network analysis are determined computationally, with varying degrees of algorithmic complexity.
+
+\subsubsection{Connectivity}
+
+\begin{wrapfigure}{L}{0.3\textwidth}
+\centering
+\vspace{-20pt}
+\includegraphics[width=0.28\textwidth]{path_demo.png}
+\caption{A path of length three on a small network.}
+\vspace{-20pt}
+\label{fig:path_demo}
+\end{wrapfigure}
+
+One example of interesting computational network properties is the question of whether a network is \textbf{connected}\index{connected graph}, as illustrated in Figure \ref{fig:connectivity_demo}; that is, there is a \textbf{path}\index{path} between any pair of vertices, where a path is defined to be a sequence of vertices such that consecutive vertices are connected by an edge. The \textbf{length}\index{path length} of a path is the number of edges connecting the vertices in the sequence. In the case of a directed graph, we make the distinction between weak and strong connectivity. A \textbf{weakly connected graph}\index{weakly connected graph} is one which is connected when each edge is considered as undirected, while a \textbf{strongly connected graph}\index{strongly connected graph} requires a path from every vertex to every other vertex, even while respecting edge directions. 
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.9\textwidth]{connectivity_demo.png}
+\caption{Simple examples of different types of network connectivity.}
+\label{fig:connectivity_demo}
+\end{figure}
+
+If an undirected network is not connected, or a directed network, is not weakly connected, the network has multiple \textbf{connected components}\index{connected component} or \textbf{weakly connected components}\index{weakly connected component}. Each component is a subset of vertices such that there is a path between every pair of member vertices, and no paths between any member and a nonmember. For example, the disconnected graph in Figure \ref{fig:connectivity_demo} has two components. The weakly connected components of a directed graph are the components in the corresponding undirected network.
+
+In a typical real world network, there is generally a single large component or weakly connected component which contains most of the vertices, with the rest of the vertices contained in many small disconnected components. We refer to this large component as the \textbf{giant component}\index{giant component}, and its relative size gives us a measure for how ``close" a network is to being connected; the higher the percentage of vertices are in the giant component, the closer the network is to being connected.
+
+\subsubsection{Assortativity}
+
+\begin{wrapfigure}{L}{0.6\textwidth}
+\centering
+\vspace{-20pt}
+\includegraphics[width=0.58\textwidth]{assortativity_demo.png}
+\scriptsize
+``USPoliticsBooks" Mathematica sample network.
+\caption{A network of U.S. politics books. Vertices categorized as liberal, conservative, or neutral are colored blue, red, and white, respectively, and edges that run between different categories are bolded.}
+\label{fig:assortativity_demo}
+\end{wrapfigure}
+
+We can also consider whether a network is \textbf{assortative}\index{assortative}. That is, if the vertices in the network have some discrete-valued property, we ask whether the edges in the network are more likely to run between vertices of the same type. If all of the edges run between vertices of the same type, the assortativity of the network is 1; if all edges run between edges of different types, the assortativity is $-1$.
+
+For example, the network of U.S. politics books in Figure \ref{fig:assortativity_demo} is strongly assortative with an assortativity value of $0.72$. Most of the connections are between books with the same political classification, which we can visually confirm by coloring the vertices accordingly and highlighting the few edges of the graph that run between books with different classifications.
+
+\subsubsection{Acyclic networks}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.58\textwidth]{acyclic_demo.png}
+\caption{An acyclic directed network (left) vs. one which contains a cycle (right).}
+\label{fig:acyclic_demo}
+\end{figure}
+
+We also consider whether a directed network is \textbf{acyclic}\index{directed acyclic network}, meaning that it contains no \textbf{cycles}\index{cycle} or nontrivial paths from any vertex to itself.
+
+Our most important example of a directed acyclic network is a \textbf{citation network}\index{citation network}. In a citation network, we include an edge from a paper to each reference it cites. Any cycle in this network would require edges both from a newer paper to an older paper, and from an older paper to a newer paper. If we only cite papers which have already been written, which is the case for the papers in our dataset and generally true for academia as a whole, we cannot have any cycles. 
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CHAPTER 2 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+
+\chapter{Creating the citation network}\label{chapter:dataset_creation_and_analysis}
+
+\section{Approach}
+
+Citation network creation is not a trivial task. Although some journals and databases provide a citation network of the references in their own domain, since our approach considers a highly interdisciplinary field, this approach discards large sections of our desired network. As a result of this, and since intellectual property restrictions preclude simply scraping an entire citation network, we constructed the dataset manually by collecting reference lists for relevant papers and then building the network accordingly.
+
+Relevant papers were found by searching google scholar for ``graph" or ``network" +  ``alignment", ``comparison", ``similarity", ``isomorphism", or ``matching"\footnote{Future work should probably include ``graph kernel(s)" in this list.} Topic-relevant papers were initially collected from the first five pages of results for each of the ten search terms on May 4th, 2018, after which new papers published through June 25th, 2018 were collected from a google scholar email alert for those same ten search terms. For each of these papers, we stored the plaintext reference list in a standardized format which could be easily split into the individual freeform citations. Any paper for which we have a reference list is referred to as a ``parent" record, and the references are referred to as the ``child" records. In total, we collected 7,790 child references from 221 parent papers.
+
+In order to create the network, we needed to parse the freeform citations for each reference list to obtain metadata and recognize records as repeatedly cited. This is a difficult problem, as the records in the database span several hundred years and represent a wide variety of citation styles and languages, as well as significant optical character recognition and Unicode-related challenges. Instead of attempting to parse a citation into component parts, we used the REST API to search for each record in the CrossRef database, which already has the metadata parsed for any record it includes. We marked results as duplicate if their metadata matches and both are known to be correct, or if both their metadata and original freeform citation match exactly. 
+
+The results given by the CrossRef API are considered correct if the title of the record can be found in the original freeform citation, and unverified otherwise. We were able to automatically verify results for about 75\% of the parent records, and about half of their children. We are conservative about marking records as duplicate, which means having so many unverified records dramatically misrepresents the structure of the network. We therefore went through the approximately three thousand unverified records by hand.
+
+For unverified parents, we manually corrected or found title, year, author, DOI number if existent, and URL information as well as reference and citation counts. For unverified child references, we first went through and marked any correct but unverified results. We found about half of the unverified child results to be correct, despite being unable to be automatically verified due to punctuation discrepancies, misspellings, unicode issues, or citation styles that do not include the title. Next, results were counted as correct (but noted as ``half-right") if the CrossRef API returned a review, purchase listing or similar for the correct record. For the remaining incorrect references, we manually parsed the author, title, and year from the citation, or looked them up if not included. Finally, we deleted any records which did not refer to a written work of some kind; specifically, references simply citing a website, web service, database, software package/library, programming language, or ``personal communication".
+
+We then wrote the entire citation network to a GML file which can be loaded in Mathematica. By default, the code used to generate the GML file includes the title, year, reference and citation counts for each record as vertex properties. Including further metadata as vertex properties is not difficult, but additional string-valued properties dramatically slow Mathematica's ability to load such a large network\footnote{The network contains 5,793 vertices and 7,491 edges, and takes almost exactly two minutes to load on a 2.6GHz 6th-gen quad core Intel Core i7 CPU with 16GB of RAM running Windows 10 using Mathematica 11.2.}, and a network as large as ours cannot be loaded at all, and so we do not include any more of them than strictly necessary.
+
+The dataset itself and the code and source files used to generate it can be found on GITHUB REPOSITORY LINK, as well as documentation and instructions for using it to generate a similar dataset for any collection of properly-formatted reference list files.
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=0.9\textwidth]{full_citation_network.png}
+\caption{The full citation network of the dataset used for the project.}
+\label{fig:full_database}
+\end{figure}
+
+\section{Basic statistics}
+
+\subsubsection{Construction-related issues}
+
+Our full citation network contains a total of 7,491 references between 5,793 papers. This results in a fairly low mean degree, or average number of references per paper, which is due to an inherent limitation in the construction of almost any citation network. We can include all the references for a small group of papers, but including all the references for \textit{their} references and so on is an exponentially more expensive task, and we therefore generally only include children for a small fraction of the total vertices. 
+
+Since the edges in our network are hand-constructed using individual reference lists, it includes an abnormally small fraction of vertices with children. A typical citation network, such as the SciMet and Zewail datasets which are displayed in Appendix Figures \ref{fig:sciMet} and \ref{fig:zewail}, respectively, and whose analysis is included in Table \ref{tab:network_table}, is constructed by scraping a single database. This results in a much higher fraction of children whose references are included, but any references which are not in the database in question are missed, so the mean degree is still quite low.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|p{0.31\linewidth}||R{0.07\linewidth}|R{0.07\linewidth}|R{0.075\linewidth}|R{0.07\linewidth}|R{0.07\linewidth}|R{0.07\linewidth}|}
+\hline
+ & $G$ & $G_p$ & sciMet & zewail & $R$ & $R_d$ \\ \hline\hline% & $R_{d,p}$ \\ \hline\hline
+Vertices & 5793 & 1062 & 1092 & 3145 & 5793 & 5793 \\ \hline % & 1077 \\ \hline %
+Edges & 7491 & 2775 & 1308 & 3743 & 7491 & 7491\\ \hline % & 2775 \\ \hline
+Mean degree & 1.29 & 2.61 & 1.20 & 1.19 & 1.29 & 1.29 \\ \hline %& 2.58 \\ \hline
+Fraction with children & 0.038 & 0.193 & 0.523 & 0.599 & 0.733 & 0.038 \\ \hline %& 0.202\\ \hline
+Diameter & 10 & 9 & 14 & 22 & 21 & 9\\ \hline % & 7 \\ \hline
+Connected components & 16 & 1 & 114 & 281 & 504 & 3 \\ \hline %& 3\\ \hline
+Fraction in giant component & 0.960 & 1.000 & 0.784 & 0.797 & 0.900 & 0.999 \\ \hline %& 1.000 \\ \hline
+%Assortativity by indegree & 0.113 & 0.016 & 0.055 & 0.158 & 0.007 & -0.008\\ \hline % & -0.007 \\ \hline
+%Assortativity by outdegree & -0.014 & -0.014 & -0.025 & 0.056 & -0.018 & -0.007 \\ \hline %& -0.013 \\ \hline
+\end{tabular}
+\caption{Comparing statistics for our dataset to other networks. The Mathematica code used to load and construct all six networks can be found in Table \ref{tab:network_creation_source_code}.}
+
+\label{tab:network_table}
+\end{table}
+
+\subsubsection{The pruned network $G_p$}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.9\textwidth]{subnetwork.png}
+\caption{The pruned citation network.}
+\label{fig:pruned_network}
+\end{figure}
+
+We also consider the \textit{pruned network}, shown in Figure \ref{fig:pruned_network}, which is defined to be the giant component of the subnetwork of vertices with positive outdegree or indegree greater than one. We do so because the main purpose of our dataset is to determine which papers are important in the field of network similarity, but the vast majority of references in the database are only cited by one paper and frequently have very little relevance to network similarity itself. 
+
+To reduce the influence of off-topic papers on our results, we restrict our network to both our parent vertices, which we have hand-curated to be relevant to network similarity, and all vertices which are cited by more than one parent paper. This shrinks the number of vertices by a factor of almost six, correspondingly raises the fraction of vertices with children, and approximately doubles the mean degree.
+
+\subsubsection{Comparison to other networks}
+In Table \ref{tab:network_table}, we calculate the mean degree, fraction of vertices with children, diameter, number of connected components, and fraction of vertices in the giant component for six different networks: our full network $G$, its pruned version $G_p$, two datasets from the Garfield citation network collection, a uniformly generated directed random graph $R$, and a random graph $R_d$ with the same degree sequences as $G$. The random network $R$ is generated from a uniform distribution. The other, $R_d$, is constructed to match the degree sequence of $G$, by assigning each vertex ``stubs" according to the desired number of incoming and outgoing edges and then matching them by uniformly sampling the available stubs.
+
+\subsubsection{Connectivity}
+
+Our full network displays a high level of connectivity; 96\% of vertices are contained in the giant component, and it has only 16 connected components, compared to 90\% containment in the giant component and 504 connected components for a randomly generated network of the same size. The diameter is also low compared to a random network and to our choices of real-world network. Since our network consists of papers collected on a specific topic, which have an outside reason to cite the same papers, this high level of connectivity is not surprising. 
+
+The construction of the network also explains the high connectivity compared to the real-world datasets, which only have about 80\% of their vertices in their giant components; if the generation of the citation network is limited to a single database, as the sciMet and zewail datasets are, cocitation connections in other databases will be lost. This makes it more difficult for the giant component to fill the network, and results in longer paths between connected vertices.
+
+The only dataset tested with better connectivity than ours is the random network $R_d$, which has almost complete containment--$99.9\%$--in the giant component. This is not surprising. Approximately speaking, in order for a parent vertex to be disconnected from the giant component, its children must all have exactly one parent, and no children.  In a real-world network, this is easier to find, since a paper's references are not randomly selected. A single work from an author or topic which is relatively disconnected to the rest of the network similarity academic community can generate a significant number of references which are not in the giant component. By contrast, since about 82\% of the vertices in $G$ have exactly one parent and no children, the probability of a parent vertex with outdegree $n$ being disconnected from the giant component is $(0.82)^n$, or $(0.82)^{26.2} \approx 0.5\%$ for the mean outdegree of the parents. This probability only shrinks with a higher number of disconnected parent vertices, as fewer single-parent vertices become available compared to the rest.
+
+\section{Centrality}
+
+The main goal in creating the citation network is to determine which papers are most important or \textbf{central}\index{centrality}. The question of which vertices are the most central to a network is widely researched in network theory, and there correspondingly exists a wide variety of centrality measures used to quantify different ideas about importance. For this project, we chose five centrality measures that we expect to coincide with an intuitive definition of which papers in the network are the most relevant.
+
+\subsubsection{Indegree} This measures the number of times each paper was cited by the parent papers in our network. Since the parent papers approximately represent everything determined to be most relevant by google scholar in a search for network comparison-related search terms\footnote{This is somewhat skewed by our inclusion of newly published papers collected from an email alert after the initial search, which may not be the most relevant overall.}, the top values for indegree should give us a rough idea of which papers are formative for the field and therefore more frequently cited by the parent papers.
+
+\subsubsection{Outdegree} Since the pruned network consists of the parent papers as well as the papers that appear in more than one parent's reference list, this measures the number of a parent's references which have been cited by other parents in the network. The top values for outdegree should therefore give us an idea of which papers survey the most well-known topics in the field.
+
+\subsubsection{Betweenness} Betweenness centrality measures the extent to which a vertex lies on paths between other vertices (sentence comes straight from newman). Intuitively, this should correspond to papers which make uncommon connections between other works; either those that are applicable to a wide variety of fields and applications, or those which build on disparate ideas in an original way. Unsurprisingly, we see some overlap between the papers with the highest outdegree and those with the highest betweenness, since the goal of a survey is to discuss a wider variety of ideas than an original paper (which only cites the specific works it builds on) can reasonably include.
+
+\subsubsection{Closeness} 
+
+\begin{wrapfigure}{r}{0.6\textwidth}
+\centering
+\vspace{-25pt}
+\includegraphics[width=0.55\textwidth]{closeness_demo.png}
+\vspace{-10pt}
+\caption{Two graphs with vertices labeled by their geodesic distance from the highlighted vertex.}
+\vspace{-20pt}
+\label{fig:closeness_demo}
+\end{wrapfigure}
+
+Recall that a path between two vertices is a sequence of vertices such that consecutive vertices are connected by an edge; a \textbf{geodesic path}\index{geodesic path} is the shortest possible path between any two vertices, and its length is the geodesic distance. We define \textbf{closeness}\index{closeness centrality} to be the inverse of the average geodesic distance between a vertex and all other vertices in the network. Closeness centrality therefore takes on the highest values for a vertex which is a short average distance from other vertices. For example, in Figure \ref{fig:closeness_demo} the highlighted vertex on the left has closeness centrality 1, since it has a distance of 1 from all other vertices. On the right, the average geodesic distance from the highlighted vertex to the other six is $\frac{1}{6}(1+1+2+2+2+2)=\frac{5}{3}$, so the closeness centrality is 0.6.
+
+In a friendship network, this corresponds to a person who seems to know just about everybody. Similarly, a paper in our citation network will have higher closeness centrality if it only takes a few steps through a paper's reference list or citations to another paper's reference list or citations to get to every other paper in the network. 
+
+\subsubsection{HITS}
+For a directed network such as the citation networks used here, we may want to separately consider the notion that a vertex is important if it points to other important vertices, and the notion that a vertex is important if it is pointed to by other important vertices. This is the goal of the HITS or hyperlink-induced topic search algorithm.  We define two different types of centrality for each vertex. We have \textbf{authority centrality}\index{authority centrality}, which measures whether a specific vertex is being pointed to by vertices with high \textbf{hub centrality}\index{hub centrality}, which in turn measures whether a  specific vertex points to vertices with high authority centrality. By defining the hub and authority centralities of a vertex to be proportional to the sum of the authority and hub centralities, respectively, of its neighbors, this definition reduces to a pair of eigenvalue equations which can be easily solved numerically. 
+
+That is, if $x_i$ is the authority centrality of the $i$-th vertex in a network, $y_i$ is the hub centrality of the $j$-th vertex, $A_{ij}$ is the weight of the edge from $j$ to $i$ if it exists, and 0 otherwise, and $\alpha, \beta$ are proportionality constants, we have
+\[x_i = \alpha \sum_j A_{ij}y_j\text{ and } y_i = \beta \sum_j A_{ji}x_j.\]
+
+\subsection{High centrality vertices}\label{section:high_centrality_vertices}
+
+We can observe that the pruned network, shown in Figure \ref{fig:pruned_network}, seems to contain two clusters of more tightly connected vertices.\footnote{We discuss the motivation behind and significance of this partition in detail in Chapter \ref{chapter:partitioning}.} We would like to collect the important papers for both the network as a whole and for the distinct communities it contains, so we partition the dataset in half using a modularity maximizing partition; that is, we choose two groups of vertices such that the fraction of edges running between vertices in different groups is minimized.
+
+For both the pruned network and the two halves of our partition, we collect the top ten papers according to these five different centrality measures and summarize the results in the following tables. Since the numerical values for indegree and outdegree have intuitive meaning, we report the value itself. However, the values for betweenness, closeness, and the two HITS centralities are unintuitive, context-free real numbers, so we report the rank of each paper with respect to each measure rather than the actual value. We also calculate betweenness and closeness for the undirected version of the network, to allow those rankings to be based on citing relationships in either direction.
+
+The papers in each table are sorted from maximum to minimum according to \[ f(p) = \frac{k^{in}_p}{k^{in}_{max}} + \frac{k^{out}_p}{ k^{out}_{max}} + \sum_{i=1}^4 \frac{1}{r_i(p)}, \] where $k^{in}_p$ and $k^{out}_p$ are the indegree and outdegree of a paper $p$, the maximums of which are taken with respect to the pruned network or partition half in question, and $r_i(p)$ is the rank of a paper $p$ according to the $i$-th of our four centrality metrics, which is defined to be infinity if a paper is not in the top ten for that metric.
+ 
+\begin{table}[H]
+\centering
+\vspace{-.5cm}
+{\setstretch{1}\fontsize{10}{13}\selectfont
+\begin{tabular}{|L{0.7\linewidth}|c|c|c|c|c|c|}
+\hline
+Title & \rotatebox[origin=c]{90}{Indegree} &  \rotatebox[origin=c]{90}{Outdegree} & \rotatebox[origin=c]{90}{Betweenness} &  \rotatebox[origin=c]{90}{Closeness} &  \rotatebox[origin=c]{90}{HITS Auth.} & \rotatebox[origin=c]{90}{HITS Hub} \\ 
+\hline\hline
+$^\Diamond$Thirty Years of Graph Matching in Pattern Recognition  \cite{Conte_2004} & 20* & 109* & 1 & 2 &  & 1 \\ \hline
+$\dagger$Fifty years of graph matching, network alignment and network comparison  \cite{Emmert_Streib_2016} & 6 & 71* & 2 & 1 &  & 3 \\ \hline
+$\dagger$Networks for systems biology: conceptual connection of data and function  \cite{Emmert_Streib_2011} & 2 & 102* & 3 & 3 &  & 2 \\ \hline
+$^\Diamond$An Algorithm for Subgraph Isomorphism  \cite{Ullmann_1976} & 20* & 4 & 7 & 4 & 1 &  \\ \hline
+$\dagger$Modeling cellular machinery through biological network comparison  \cite{Sharan_2006} & 9 & 41* & 8 &  &  &  \\ \hline
+$^\Diamond$Computers and Intractability: A Guide to the Theory of NP-Completeness  \cite{Hartmanis_1982} & 16* & 0 & 4 & 5 &  &  \\ \hline
+$^\Diamond$The graph matching problem  \cite{Livi_2012} & 2 & 55* & 5 & 6 &  & 7 \\ \hline
+$\dagger$A new graph-based method for pairwise global network alignment  \cite{Klau_2009} & 9 & 13 &  & 8 &  &  \\ \hline
+$\dagger$On Graph Kernels: Hardness Results and Efficient Alternatives  \cite{Gartner_2003} & 11 & 10 & 6 &  &  &  \\ \hline
+$^\Diamond$Error correcting graph matching: on the influence of the underlying cost function  \cite{Bunke_1999} & 10 & 16 &  & 7 & 7 & 8 \\ \hline
+$^\Diamond$A graduated assignment algorithm for graph matching  \cite{Gold_1996} & 18* & 0 &  &  & 5 &  \\ \hline
+$^\Diamond$The Hungarian method for the assignment problem  \cite{Kuhn_1955} & 17* & 0 &  &  &  &  \\ \hline
+$^\Diamond$An eigendecomposition approach to weighted graph matching problems  \cite{Umeyama_1988} & 15* & 5 &  &  & 6 &  \\ \hline
+$^\Diamond$Recent developments in graph matching  \cite{Bunke_2000} & 1 & 51* &  &  &  & 4 \\ \hline
+$\dagger$MAGNA: Maximizing Accuracy in Global Network Alignment  \cite{Saraph_2014} & 5 & 35* &  &  &  &  \\ \hline
+$^\Diamond$A distance measure between attributed relational graphs for pattern recognition  \cite{Sanfeliu_1983} & 14* & 0 &  &  & 3 &  \\ \hline
+$\dagger$Pairwise Global Alignment of Protein Interaction Networks by Matching Neighborhood Topology  \cite{Singh_2007} & 13* & 0 &  &  &  &  \\ \hline
+$\dagger$Topological network alignment uncovers biological function and phylogeny  \cite{Bunke_1998} & 12* & 0 &  &  &  &  \\ \hline
+A graph distance metric based on the maximal common subgraph  \cite{Kuchaiev_2010} & 10 & 0 &  & 10 & 4 &  \\ \hline
+$^\Diamond$Efficient Graph Matching Algorithms  \cite{Messmer_1995} & 0 & 43* &  &  &  & 5 \\ \hline
+Local graph alignment and motif search in biological networks  \cite{Berg_2004} & 8 & 10 & 10 &  &  &  \\ \hline
+$\dagger$Global alignment of multiple protein interaction networks with application to functional orthology detection  \cite{Singh_2008} & 11* & 0 &  &  &  &  \\ \hline
+On a relation between graph edit distance and maximum common subgraph  \cite{Bunke_1997} & 11 & 0 &  &  & 2 &  \\ \hline
+$^\Diamond$Graph matching applications in pattern recognition and image processing  \cite{Conte_2003} & 0 & 40* &  &  &  & 6 \\ \hline
+$^\Diamond$Fast and Scalable Approximate Spectral Matching for Higher Order Graph Matching  \cite{Park_2014} & 0 & 41* & 9 &  &  &  \\ \hline
+$^\Diamond$Structural matching in computer vision using probabilistic relaxation  \cite{Christmas_1995} & 9 & 0 &  &  & 10 &  \\ \hline
+$^\Diamond$A new algorithm for subgraph optimal isomorphism  \cite{El_Sonbaty_1998} & 2 & 21 &  &  &  & 9 \\ \hline
+BIG-ALIGN: Fast Bipartite Graph Alignment  \cite{Koutra_2013} & 2 & 21 &  & 9 &  &  \\ \hline
+$^\Diamond$A graph distance measure for image analysis  \cite{Eshera_1984} & 8 & 0 &  &  & 8 &  \\ \hline
+A new algorithm for error-tolerant subgraph isomorphism detection  \cite{Messmer_1998} & 8 & 0 &  &  & 9 &  \\ \hline
+$^\Diamond$A (sub)graph isomorphism algorithm for matching large graphs  \cite{Cordella_2004} & 3 & 16 &  &  &  & 10 \\ \hline
+\end{tabular}
+{\singlespacing\footnotesize$\dagger$Also top for Group 1 (biology dominated); $^\Diamond$Also top for Group 2 (computer science dominated); *Top ten for indegree/outdegree}}
+\vspace{-.25cm}
+\caption{Highest centrality papers for the entire pruned network.}
+\label{tab:toppapers_all}
+\end{table}
+
+\begin{table}[H]
+{\setstretch{1}\fontsize{10.5}{13}\selectfont
+\begin{tabular}{|L{0.7\linewidth}|c|c|c|c|c|c|}
+\hline
+Title & \rotatebox[origin=c]{90}{Indegree} &  \rotatebox[origin=c]{90}{Outdegree} & \rotatebox[origin=c]{90}{Betweenness} &  \rotatebox[origin=c]{90}{Closeness} &  \rotatebox[origin=c]{90}{HITS Auth.} & \rotatebox[origin=c]{90}{HITS Hub} \\ \hline\hline
+$^\Diamond$Networks for systems biology: conceptual connection of data and function  \cite{Emmert_Streib_2011} & 2 & 90* & 1 & 2 &  & 1 \\ \hline
+$^\Diamond$Fifty years of graph matching, network alignment and network comparison  \cite{Emmert_Streib_2016} & 4 & 56* & 2 & 1 &  & 2 \\ \hline
+$^\Diamond$Modeling cellular machinery through biological network comparison  \cite{Sharan_2006} & 9 & 40* & 4 & 3 & 10 & 9 \\ \hline
+$^\Diamond$MAGNA: Maximizing Accuracy in Global Network Alignment  \cite{Saraph_2014} & 5 & 35* & 7 & 6 &  & 3 \\ \hline
+$^\Diamond$On Graph Kernels: Hardness Results and Efficient Alternatives  \cite{Gartner_2003} & 10* & 9 & 3 & 8 &  &  \\ \hline
+Biological network comparison using graphlet degree distribution  \cite{Przulj_2007} & 11* & 0 &  & 7 & 4 & 7 \\ \hline
+$^\Diamond$A new graph-based method for pairwise global network alignment  \cite{Klau_2009} & 8 & 12 & 9 & 4 & 6 &  \\ \hline
+Network Motifs: Simple Building Blocks of Complex Networks  \cite{Milo_2002} & 11* & 0 &  & 9 & 8 &  \\ \hline
+$^\Diamond$Pairwise Global Alignment of Protein Interaction Networks by Matching Neighborhood Topology  \cite{Singh_2007} & 12* & 0 &  &  & 3 &  \\ \hline
+$^\Diamond$Topological network alignment uncovers biological function and phylogeny  \cite{Kuchaiev_2010} & 12* & 0 &  &  & 2 &  \\ \hline
+NETAL: a new graph-based method for global alignment of protein-protein interaction networks  \cite{Neyshabur_2013} & 6 & 26* &  &  &  & 5 \\ \hline
+Collective dynamics of ``small-world" networks  \cite{Watts_1998} & 10* & 0 &  & 10 & 5 &  \\ \hline
+Global network alignment using multiscale spectral signatures  \cite{Patro_2012} & 11* & 0 &  &  & 9 &  \\ \hline
+$^\Diamond$Global alignment of multiple protein interaction networks with application to functional orthology detection  \cite{Singh_2008} & 10* & 0 &  &  &  &  \\ \hline
+Conserved patterns of protein interaction in multiple species  \cite{Sharan_2005} & 10* & 0 &  &  & 7 &  \\ \hline
+Pairwise Alignment of Protein Interaction Networks  \cite{Koyoturk_2006} & 10* & 0 &  &  & 1 &  \\ \hline
+Alignment-free protein interaction network comparison  \cite{Ali_2014} & 2 & 22 & 6 & 5 &  &  \\ \hline
+Graphlet-based measures are suitable for biological network comparison  \cite{Hayes_2013} & 1 & 30* &  &  &  & 8 \\ \hline
+Survey on the Graph Alignment Problem and a Benchmark of Suitable Algorithms  \cite{Dopmann_2013} & 0 & 26 &  &  &  & 4 \\ \hline
+Predicting Graph Categories from Structural Properties  \cite{Canning_2018} & 0 & 30* & 5 &  &  &  \\ \hline
+Fast parallel algorithms for graph similarity and matching  \cite{Kollias_2014} & 1 & 23 &  &  &  & 6 \\ \hline
+Complex network measures of brain connectivity: Uses and interpretations  \cite{Rubinov_2010} & 0 & 28* & 8 &  &  &  \\ \hline
+Graph-based methods for analysing networks in cell biology  \cite{Aittokallio_2006} & 0 & 30* &  &  &  & 10 \\ \hline
+Demadroid: Object Reference Graph-Based Malware Detection in Android  \cite{Wang_2018} & 0 & 25 & 10 &  &  &  \\ \hline
+Early Estimation Model for 3D-Discrete Indian Sign Language Recognition Using Graph Matching  \cite{Kumar_2018a} & 0 & 29* &  &  &  &  \\ \hline
+Indian sign language recognition using graph matching on 3D motion captured signs  \cite{Kumar_2018b} & 0 & 29* &  &  &  &  \\ \hline
+\end{tabular}
+\singlespacing
+$^\Diamond$Also a top-centrality paper for the entire network; ; *Top ten for indegree/outdegree}
+\caption{Highest centrality papers for Group 1 (biology dominated) in our partition of the pruned network.}
+\label{tab:toppapers_bio}
+\end{table}
+
+\begin{table}[H]
+{\setstretch{1}\fontsize{10}{13}\selectfont
+\begin{tabular}{|L{0.7\linewidth}|c|c|c|c|c|c|}
+\hline
+Title & \rotatebox[origin=c]{90}{Indegree} &  \rotatebox[origin=c]{90}{Outdegree} & \rotatebox[origin=c]{90}{Betweenness} &  \rotatebox[origin=c]{90}{Closeness} &  \rotatebox[origin=c]{90}{HITS Auth.} & \rotatebox[origin=c]{90}{HITS Hub} \\ \hline\hline
+$^\Diamond$Thirty Years of Graph Matching in Pattern Recognition  \cite{Conte_2004} & 17* & 107* & 1 & 1 &  & 1 \\ \hline
+$^\Diamond$An Algorithm for Subgraph Isomorphism  \cite{Ullmann_1976} & 15* & 2 & 10 & 5 & 2 &  \\ \hline
+$^\Diamond$A graduated assignment algorithm for graph matching  \cite{Gold_1996} & 18* & 0 & 7 & 4 & 3 &  \\ \hline
+$^\Diamond$An eigendecomposition approach to weighted graph matching problems  \cite{Umeyama_1988} & 15* & 5 &  & 2 & 4 &  \\ \hline
+$^\Diamond$The graph matching problem  \cite{Livi_2012} & 2 & 36* & 3 & 3 &  & 8 \\ \hline
+$^\Diamond$A distance measure between attributed relational graphs for pattern recognition  \cite{Sanfeliu_1983} & 13* & 0 &  & 7 & 1 &  \\ \hline
+$^\Diamond$Recent developments in graph matching  \cite{Bunke_2000} & 0 & 50* & 8 &  &  & 2 \\ \hline
+$^\Diamond$Error correcting graph matching: on the influence of the underlying cost function  \cite{Bunke_1999} & 9* & 16 &  & 8 &  & 6 \\ \hline
+$^\Diamond$Fast and Scalable Approximate Spectral Matching for Higher Order Graph Matching  \cite{Park_2014} & 0 & 41* & 2 &  &  &  \\ \hline
+$^\Diamond$Efficient Graph Matching Algorithms  \cite{Messmer_1995} & 0 & 42* & 5 &  &  & 4 \\ \hline
+$^\Diamond$Computers and Intractability: A Guide to the Theory of NP-Completeness  \cite{Hartmanis_1982} & 11* & 0 & 6 &  &  &  \\ \hline
+$^\Diamond$The Hungarian method for the assignment problem  \cite{Kuhn_1955} & 14* & 0 &  &  &  &  \\ \hline
+$^\Diamond$Graph matching applications in pattern recognition and image processing  \cite{Conte_2003} & 0 & 40* &  &  &  & 3 \\ \hline
+Efficient Graph Similarity Search Over Large Graph Databases  \cite{Zheng_2015} & 0 & 28* & 4 & 6 &  &  \\ \hline
+A linear programming approach for the weighted graph matching problem  \cite{Almohamad_1993} & 8 & 8 &  & 9 & 9 &  \\ \hline
+$^\Diamond$Structural matching in computer vision using probabilistic relaxation  \cite{Christmas_1995} & 9* & 0 &  &  & 5 &  \\ \hline
+$^\Diamond$A graph distance measure for image analysis  \cite{Eshera_1984} & 8 & 0 &  &  & 6 &  \\ \hline
+Inexact graph matching for structural pattern recognition  \cite{Bunke_1983} & 10* & 0 &  &  &  &  \\ \hline
+$^\Diamond$A new algorithm for subgraph optimal isomorphism  \cite{El_Sonbaty_1998} & 2 & 21 &  &  &  & 5 \\ \hline
+Approximate graph edit distance computation by means of bipartite graph matching  \cite{Riesen_2009} & 9 & 0 &  &  &  &  \\ \hline
+Linear time algorithm for isomorphism of planar graphs (Preliminary Report)  \cite{Hopcroft_1974} & 9 & 0 &  &  &  &  \\ \hline
+Structural Descriptions and Inexact Matching  \cite{Shapiro_1981} & 9 & 0 &  &  & 7 &  \\ \hline
+$^\Diamond$A (sub)graph isomorphism algorithm for matching large graphs  \cite{Cordella_2004} & 3 & 16 &  &  &  & 7 \\ \hline
+A Probabilistic Approach to Spectral Graph Matching  \cite{Egozi_2013} & 0 & 25* & 9 & 10 &  &  \\ \hline
+Hierarchical attributed graph representation and recognition of handwritten chinese characters  \cite{Lu_1991} & 6 & 0 &  &  & 8 &  \\ \hline
+Exact and approximate graph matching using random walks  \cite{Gori_2005} & 1 & 14 &  &  &  & 9 \\ \hline
+A shape analysis model with applications to a character recognition system  \cite{Rocha_1994} & 5 & 0 &  &  & 10 &  \\ \hline
+Fast computation of Bipartite graph matching  \cite{Serratosa_2014} & 1 & 23* &  &  &  &  \\ \hline
+Graph Matching Based on Node Signatures  \cite{Jouili_2009} & 0 & 17 &  &  &  & 10 \\ \hline
+Unsupervised Domain Adaptation Using Regularized Hyper-Graph Matching  \cite{Das_2018} & 0 & 22* &  &  &  &  \\ \hline
+\end{tabular}
+$^\Diamond$Also a top-centrality paper for the entire network; ; *Top ten for indegree/outdegree}
+\caption{Highest centrality papers for Group 2 (computer science dominated) in our partition of the pruned network.}
+\label{tab:toppapers_CS}
+\end{table}
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CHAPTER 3 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+
+\chapter{Partitioning the citation network}\label{chapter:partitioning}
+
+\section{The tagging and partitioning process}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.9\textwidth]{subnetwork_partition.png}
+\caption{The two halves of our partition of the pruned network.}
+\label{fig:partitioned_network}
+\end{figure}
+
+In the process of collecting relevant papers for our citation network, we noticed that network similarity applications seem to be almost exclusively found in the fields of biology and computer science\footnote{While the ``computer science" papers in our reading list all fall into the category of ``pattern recognition", this is not necessarily the case for their references, and we therefore use the broader label in our subject tagging process. Similarly, we use ``biology" instead of ``systems biology" when describing our category labels.}, and we would therefore like to investigate the structure of the network with respect to these two categories. 
+
+Unfortunately, the metadata for the papers in our network does not include the subject information we would need to simply partition the network using on these categories; while the CrossRef API does sometimes include a ``subject" category, it is present in less than 1\% of items, and with almost six thousand references in our database, it is impractical to categorize their subjects by hand.
+
+Instead, we partition the network into two categories of equal size. If we choose our partition in a way that minimizes the fraction of edges running between its two groups, it will preserve and separate the two clusters of more densely connected vertices first observed in Figure \ref{fig:pruned_network}, as we can see in Figure \ref{fig:partitioned_network}. We then set out to determine whether these two halves of the network correspond to the two fields of study we noticed while constructing the dataset.
+
+To do this, we need some way to roughly tag papers by their subject. We chose to do according to their journal(s) of publication, since this information is available for over 97\% of the papers in our network\footnote{Journal information was not manually corrected for the papers for which the CrossRef API returned an incorrect result. However, in the vast majority of those cases, the result returned was very similar to the correct one--i.e., written by most of the same authors, or an older paper on the same subject. The subject information should therefore still be accurate enough for our purposes.}. There were a total of 2,285 unique journal names, which we tagged as ``Computer Science", ``Biology", and ``Mathematics" according to the keywords listed in Table \ref{tab:tagging_keywords}. This strategy allowed us to quickly tag the majority of the papers as at least one of these three subjects.
+
+Our journal-based tagging is a drastic improvement over the subject information provided by CrossRef, giving us information for about 67\% of the total papers, and 53\% of those in the pruned network. We found this to be sufficient to confirm our initial suspicions that the two communities observed in the network do in fact correspond to the fields of computer science (primarily pattern recognition) and systems biology. In the remainder this chapter, we show how these categories are reflected in the structure of the dataset, both overall and with respect to our partition, and then discuss the advantages that our dataset and analysis provide in our reading and writing process.
+
+\begin{figure}[p]
+\centering
+\begin{minipage}[c]{0.23\textwidth}
+\includegraphics[width=\textwidth]{color_key.png}
+\end{minipage}
+\hfill
+\begin{minipage}[c]{0.7\textwidth}
+a)\includegraphics[width=\textwidth]{color_coded_full.png}
+\end{minipage}
+\begin{minipage}[c]{0.49\textwidth}
+\includegraphics[width=0.95\textwidth]{color_coded_left.png}
+
+b)
+\vspace{-16pt}
+\end{minipage}
+\hfill
+\begin{minipage}[c]{0.49\textwidth}
+c)\includegraphics[width=0.95\textwidth]{color_coded_right.png}
+\end{minipage}
+\caption{a) The pruned network $G_p$, and b)-c) two halves of its partition $G_p^{(1)}$ and $G_p^{(2)}$, with vertices colored according to their subject label.}
+\label{fig:subject_color_coded}
+\end{figure}
+
+\section{Results}
+
+Our first step is to color code the vertices in the pruned network according to their subject, as shown in Figure \ref{fig:subject_color_coded}, so we can get a visual sense of how our tagged subjects are spread through the network. While the main two categories we are interested in are computer science and biology, we have also tagged the mathematics papers, so that we have a third category of similar size and generality as the other two. This serves as a control group, and allows us to consider and reject the hypothesis that there are three main subnetworks of similar papers instead of two. 
+
+Intuitively, we can see that the red and blue vertices are mostly clustered together on the two halves of the pruned network, confirming our suspicion that the two dense clusters of vertices we see in Figure \ref{fig:pruned_network} correspond to the two categories we observed while constructing the dataset. We also notice that the cluster of blue vertices only fills about half of its side of the partition, indicating that the biology category is significantly smaller than the computer science category. The yellow seems to be about evenly spread across the two halves, meaning that we do not have three distinct meaningful subnetworks of papers. 
+
+There also appear to be significantly more untagged vertices on the biology side of the partition. It is likely that this is not only because the computer science category is inherently larger, but because its papers are more likely to be tagged as such. A full half of the papers in the computer science category are published in an ACM, IEEE, or SIAM\footnote{Both ``SIAM" and ``algorithm" were used as keywords for both math and computer science, which accounts for about half of the overlap between the two categories.} journal (IEEE journals alone represent 35\% of the CS-tagged papers), all of which are easily tagged using these acronyms as a keyword. There were not any analagous dominant organizations with acronym keywords for the biology journals in our dataset, so the tagging relies on topical keywords and therefore can identify fewer of the biology papers using a reasonable number of keywords in our search. As a result of this, the computer science network is more strongly identified as such, and therefore more structurally visible to the partitioning algorithm.
+
+\begin{table}[t]
+\centering
+\begin{tabular}{|l|r|r|r|r|}
+\hline & $G$ & $G_p$ & $G_p^{(1)}$ & $G_p^{(2)}$ \\ \hline
+Total vertices & 5793 & 1062 & 531 & 531 \\ \hline
+Untagged & 1922 & 502 & 311 & 191 \\ \hline
+Tagged & 3871 & 560 & 220 & 340 \\ \hline
+CS & 2533 & 405 & 93 & 312 \\ \hline
+Biology & 984 & 122 & 108 & 14 \\ \hline
+Math & 787 & 97 & 44 & 53 \\ \hline
+Both CS and biology & 108 & 13 & 9 & 4 \\ \hline
+Both CS and math & 305 & 49 & 15 & 34 \\ \hline
+Both biology and math & 24 & 3 & 2 & 1 \\ \hline
+All three & 4 & 1 & 1 & 0 \\ \hline
+\end{tabular}
+\caption{Number of vertices tagged as computer science, biology, math, or some combination of these in $G$, $G_p$, and the two halves of the partition $G_p^{(1)}$ and $G_p^{(2)}$.}
+\label{tab:subject_counts}
+\end{table}
+
+We then count the number of vertices in each color-coded category, as shown in Table \ref{tab:subject_counts}. This confirms what we can intuitively see in Figure \ref{fig:subject_color_coded}. That is, almost all of the biology papers are found on one side of the partition, the majority of the computer science papers are found on the other side, and the math papers are fairly evenly spread between the two. The number of biology papers is much smaller than the number of computer science papers, which helps explain why there are more untagged papers on the biology side, and why there are significantly more computer science papers on the biology side than there are biology papers on the computer science, both by percentage and by total number.
+
+Color codings for the full network and the subnetwork of high centrality papers can be found in Figures \ref{fig:full_subject_color_coded} and \ref{fig:reading_list_subject_colored}, and a table of vertex counts similar to Table \ref{tab:subject_counts} for the high centrality subnetwork can be found in Table \ref{tab:reading_list_subject_counts}.
+
+\subsection{Assortativity results}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|r|r|}
+\hline
+ & $G$ & $G_p$ \\ \hline\hline
+Outdegree & -0.0178 & -0.0141 \\ \hline
+Publication year & 0.0067 & 0.0041 \\ \hline
+Citation count & 0.0006 & 0.0654 \\ \hline
+Reference count & 0.0193 & -0.0061 \\ \hline
+Tagged with any subject & 0.1089 & -0.0094 \\ \hline
+Subject & 0.1837 & 0.0712 \\ \hline
+Subject is CS & 0.2624 & 0.1529 \\ \hline
+Subject is biology & 0.3354 & 0.1773 \\ \hline
+Subject is math & 0.0732 & 0.0164 \\ \hline
+Subject is CS or biology & 0.1500 & 0.0188 \\ \hline
+Subject is CS or math & 0.2458 & 0.1256 \\ \hline
+Subject is biology or math & 0.1713 & 0.0414 \\ \hline
+\end{tabular}
+\caption{Assortativity of the full and pruned citation networks with respect to various network properties.}
+\label{tab:assortativity}
+\end{table}
+
+We would like to calculate the assortativity of the network with respect to our subject tagging, to measure the degree to which papers on a certain topic cite other papers on the same topic. It is unclear how to do so, however, since our vertices can belong to multiple categories, while the assortativity algorithm requires categories to be exclusive. To handle this issue, we report results in Table \ref{tab:assortativity} for multiple strategies for dealing with multiple category membership. We can either define category intersections to be their own, separate category, which was the approach for the ``Subject" row in Table \ref{tab:assortativity}, or we can calculate assortativity with respect to whether a vertex is or is not tagged as a certain subject or group of subjects, which was the approach for the rest of Table \ref{tab:assortativity}.
+
+For non-subject properties, our assortativity values are all very low in absolute value, meaning that vertices are neither more or less likely to cite vertices with similar outdegree, publication year, citation count, or reference counts as themselves.
+
+We do, however notice nontrivial assortativity with respect to several our subject-based properties. The values are much lower than what we observed for the example in Figure \ref{fig:assortativity_demo}, which had an assortativity of 0.72, but this is not surprising. Many of the papers on each of our topics could not be tagged as such, so the assortativity is not as high as it likely would be with perfect subject tagging. We also would not expect to see as much assortativity in the citation network of an interdisciplinary academic research area as we would in a network of non-academic political books, especially when there is significant overlap between our categories. Survey papers in particular will lower the assortativity as they draw connections between work on a similar topic, but in different disciplines.
+
+We first notice that the assortativity values in $G_p$ are lower than their corresponding values in all of $G$. That is, the papers with only one parent, which we have removed in $G_p$, are more likely to have the same subject tag as their parent than those cited by multiple papers. We also observe that there is very little assortativity with respect to whether a paper's subject is mathematics, which justifies our hypothesis that the assortativity with respect to computer science and biology is noteworthy, and not observed in any subject classification.
+
+Finally, we note that the assortativity with respect to whether a paper is either computer science or biology, or neither, is much lower than with respect to either category on its own, and only somewhat higher than the assortativity with respect to whether a paper is tagged at all. Then the assortativity with respect to whether a paper is computer science or math is only slightly lower than with respect to computer science by itself, while the assortativity with respect to whether a paper is computer science or biology is much lower than with respect to biology by itself. That is, the math category is more highly structurally linked to computer science than biology (which is unsurprising, given the relative sizes of its intersections with each category), and biology is the most structurally distinct category overall. 
+
+\section{How centrality and context inform a better survey}
+
+In Section \ref{section:high_centrality_vertices}, we introduced a collection of 61 papers which were found to have high centrality either overall or within one of the sides of our partition of the pruned network. Our goal is to frame our presentation around the most important papers in the network, so they form our primary reading list. 
+
+To facilitate our reading, we collected and tabulated metadata for the high centrality papers, including their author, year, title, DOI number, whether they are a parent in the network, their rank with respect to each of our centrality metrics overall and within each side of the partition, and their overall rank as discussed in Section \ref{section:high_centrality_vertices}. We also considered the subnetwork of our high centrality vertices, which we refer to as $G_R$, and visually organized them as shown in Figure \ref{fig:reading_list} and Figure \ref{fig:reading_list_neighborhood} to allow us to see at a glance the context of each paper in the wider reading list. In Table \ref{tab:neighborhood_partition_counts}, we show how many vertices in each paper's neighborhood within $G_R$ fall on either side of the partition, which we can use as a guide to which papers might be highly interdisciplinary either in the references they cite, or the papers they are cited by. Finally, we can use the Mathematica representation of the network to easily calculate how many and which of a paper's references are in the pruned network and on either side of the partition, and check the intersection of the neighborhoods of two or more papers.
+
+\begin{sidewaysfigure}
+\centering
+\includegraphics[width=0.85\textwidth]{reading_list0pt9crop.png}
+\caption{The subnetwork $S$ of high centrality papers, as listed in Tables \ref{tab:toppapers_all}, \ref{tab:toppapers_bio}, and \ref{tab:toppapers_CS}. Green vertices are in group 1 (biology dominated) of the partition of $G_p$, and blue vertices are in group 2 (CS dominated).}
+\vspace{-12pt}\flushleft\scriptsize Note: ``Unsupervised Domain Adaptation Using Regularized Hyper-Graph Matching" is not in the connected component and is not displayed.
+\label{fig:reading_list}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}
+\centering
+\includegraphics[width=0.85\textwidth]{reading_list_neighborhood0pt9crop.png}
+\caption{The subnetwork $S$ of high centrality vertices, highlighting the neighborhood of ``Fifty years of graph matching, network alignment, and network comparison" \cite{Emmert_Streib_2016}.}
+\vspace{-12pt}\flushleft\scriptsize Note: ``Unsupervised Domain Adaptation Using Regularized Hyper-Graph Matching" is not in the connected component and is not displayed.
+\label{fig:reading_list_neighborhood}
+\end{sidewaysfigure}
+
+At this point, we have a powerful amount of context to guide our reading. We know that there are two main categories of application in our dataset, we know roughly how they inform its structure, and we know which papers are important in each category as well as overall. We know that we are only reading papers which are considered important in some way, we know that they are important within our topic of interest specifically, and we know exactly \textit{how} important they are considered to be in comparison to the rest and why. 
+
+As we read, we can easily check a paper's neighbors against those we have already read to place it within the context of the overall shape of the field , and to compare our computational insights into which of the references included are relevant with the author's choices in how to frame them. We can choose to start by reading the papers with high authority centrality, in order to gain an understanding of concepts before building upon them, and follow both year and forward reference information to track the development of the field over time. We can check for connections in the form of cocitations between papers we might expect to be connected based on the ideas they discuss--which is interesting both when the connections are there, and when they are not--and thereby get a sense of what the idea transfer between the two disciplines has been up to this point, which ideas have found crossover and which have not, and why. 
+
+Overall, we acquire a global sense of the shape of the field of network similarity, which we can trust to be less biased by our own or other author's perceptions of what is important. At this point, it is easy to choose additional papers to read and refer to as needed throughout the reading and writing process, and to use their reference lists to put them in the context of our existing understanding.
+
+As a last remark, we note that our context is based largely on the reading list subnetwork alone--which was formed using an arbitrary cutoff of ``top ten papers"--and that the network mathematics involved is quite basic. Even as helpful as we have found this context to be, we have likely only scratched the surface of the possible benefits of this method of exploration.
+
+In the following chapters, we outline the motivation and approach for our two main categories of application. We begin with pattern recognition in Chapter \ref{chapter:pattern_recognition} and then discuss biology in Chapter \ref{chapter:systems_biology}.
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CHAPTER 4 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+\chapter{Pattern Recognition}\label{chapter:pattern_recognition}
+ 
+\section{Motivation}
+
+The complex, combinatorial nature of graphs makes them computationally very difficult to work with, but it also makes them an incredibly powerful data structure for the representation of various objects and concepts. They are particularly useful in computer vision, where we would often like to recognize certain objects in an image or across images that might seem very different at the pixel level as a result of things like angles, lighting, and image scaling. Since graphs are invariant under positional changes including translations, rotations, and mirroring, they are well suited for this task.
+
+Applications in the area of computer vision include optical character recognition \cite{Lu_1991,Rocha_1994}, biometric identification \cite{isenor1986fingerprint,deng2010retinal} and medical diagnostics \cite{sharma2012determining}, and 3D object recognition \cite{Christmas_1995}. In 2018, work has been published in the computer vision-related areas of Indian sign language recognition \cite{Kumar_2018a,Kumar_2018b}, spotting subgraphs (e.g. certain characters) in comic book images \cite{le2018ssgci}, and stacking MRI image slices \cite{clough2018mri}. A timeline with more comprehensive counts of papers appearing in various applicative areas in pattern recognition through 2002 can be found in \cite{Conte_2004}.
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{motion_capture_demo.png}
+\scriptsize Source: http://ultimatefifa.com/2012/fifa-13-motion-capture-session/
+\caption{A graph-based representation of a human body, with vertices corresponding to the markers on a motion capture suit.}
+\label{motion_capture_demo}
+\end{figure}
+
+In computer vision applications, as well as for pattern recognition in general, we create a graph representation for an image by decomposing it into parts and using edges to represent the relationships between these components. For example, we can describe a person using the relationships between various body parts--head, shoulders, knees, toes, and so on. This is the idea behind motion capture, as illustrated in Figure \ref{motion_capture_demo}. After we have a graph representation of the objects we would like to compare, the problem of recognition, and in particular of database search, is reduced to a graph matching problem. We must compare the input graph for an unknown object to our database of model graphs to determine which is the most similar.
+
+\section{Defining graph matching}\label{section:defining_graph_matching}
+
+In the literature, the term ``graph matching"\index{graph matching} is used far more often than it is explicitly defined. When a definition is given, it is usually tailored to the purposes of a particular author, and specific to a certain \textit{type} of graph matching; i.e. exact, inexact, error-correcting, bipartite, and so on. The distinctions between these can be subtle, and are typically only explicitly addressed in survey papers. Furthermore, we sometimes address the question of finding a matching \textit{in} a graph \cite{wikiMatchingInAGraph}, which is different from but still related to the problem of \textit{graph matching}, in which we want to find a mapping \textit{between} two graphs. And finally, our Google Scholar results return a significant amount of papers about \textbf{elastic graph matching}\index{elastic graph matching}, which is widely used in pattern recognition but is not in fact a form of graph matching \cite{Conte_2003}. Clearly a good taxonomy is needed.
+
+In this section, we give an overview of graph matching-related terms and summarize their distinctions.
+
+\subsection{Preliminary definitions}
+
+Graph isomorphism is the strictest form of graph matching and a natural place to begin our discussion. We therefore give definitions for graph isomorphism and the two main relevant generalizations of the graph isomorphism problem, as well as the temporal complexity-related terms necessary to compare their computational difficulty.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{isomorphism_demos.png}
+\caption{A visual summary of the distinctions between graph isomorphism, subgraph isomorphism, maximum common subgraph, and inexact matching.}
+\label{fig:isomorphism_demos}
+\end{figure}
+
+A decision problem (i.e. one which can be posed as a yes or no question), of which the graph isomorphism problem is an example, is in \textbf{NP}\index{NP} or \textbf{nondeterministic polynomial time} if the instances where the answer is ``yes" can be verified or rejected in polynomial time \cite{Hartmanis_1982,wikiNPComplexity}. It is \textbf{NP-hard}\index{NP-hard} if it is ``at least as difficult as every other NP problem"; that is, every problem which is in NP can be reduced to it in polynomial time. An NP-hard problem does not necessarily have to be in NP itself  \cite{Hartmanis_1982,wikiNPHardness}. If a decision problem is both NP and NP-hard, it is \textbf{NP-complete}\index{NP-complete} \cite{Hartmanis_1982,wikiNPCompleteness}.
+
+An \textbf{induced subgraph}\index{induced subgraph} of a graph is a graph formed from a subset of vertices in the larger graph, and all the edges between them \cite{wikiInducedSubgraph}. By contrast, a \textbf{subgraph}\index{subgraph} is simply a graph formed from a subset of the vertices and edges in the larger graph \cite{wikiSubgraph}.
+
+A \textbf{graph isomorphism}\index{graph isomorphism} is a bijective mapping between the vertices of two graphs of the same size, which is \textbf{edge-preserving}\index{edge-preserving}; that is  that is, if two vertices in the first graph are connected by an edge, they are mapped to two vertices in the second graph which are also connected by an edge \cite{Conte_2004}. The decision problem of determining whether two graphs are isomorphic is neither known to be in NP nor known to be solvable in polynomial time \cite{wikiGraphIsomorphism}.
+
+A \textbf{subgraph isomorphism}\index{subgraph isomorphism} is an edge-preserving injective mapping from the vertices of a smaller graph to the vertices of a larger graph. That is, there is an isomorphism between the smaller graph and some induced subgraph of the larger \cite{Conte_2004}. The decision problem of determining whether a graph contains a subgraph which is isomorphic to some smaller graph is known to be NP-complete \cite{wikiSubgraphIsomorphism}.
+
+Finally, a \textbf{maximum common induced subgraph}\index{maximum common subgraph} (MCS) of two graphs is a graph which is an induced subgraph of both, and has as many vertices as possible  \cite{wikiMaximumCommonSubgraph}. Formulating the MCS problem as a graph matching problem can be done by defining the metric \[d(G_1,G_2) = 1 - \frac{|MCS(G_1,G_2)|}{\max\{|G_1|,|G_2|\}},\] where $|G|$ is the number of vertices in $G$ \cite{Bunke_1998,Bunke_1997}.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|L{0.35\linewidth}|L{0.15\linewidth}|L{0.15\linewidth}|L{0.22\linewidth}|}
+\hline
+ & Graph isomorphism & Subgraph isomorphism & Maximum common induced subgraph \\ \hline
+$G_1$ and $G_2$ must have the same number of vertices & X & & \\ \hline
+Mapping must include all vertices of either $G_1$ or $G_2$ & X & X & \\ \hline
+Mapping must be edge-preserving & X & X & X \\ \hline
+NP-complete & Unknown & X & X* \\ \hline
+\end{tabular}
+\flushleft\footnotesize *The associated decision problem of determining whether $G_1$ and $G_2$ have a common induced subgraph with at least $k$ vertices is NP-complete, but the problem of finding the maximum common induced subgraph (as required for graph matching) is NP-hard \cite{wikiMaximumCommonSubgraph}.
+\caption{A summary of exact graph matching problem formulations.}
+\label{NP_classifications}
+\end{table}
+
+\subsection{Exact and inexact matching}\label{section:exact_and_inexact_matching}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|L{0.16\linewidth}|L{0.13\linewidth}|L{0.11\linewidth}|L{0.12\linewidth}|L{0.105\linewidth}|L{0.165\linewidth}|}
+\hline
+ & Edge preserving? & Result in? & Mapping seeking? & Optimal? & Complexity \\ \hline
+Graph isomorphism & Yes & \{0,1\} & Yes & Yes & Likely between P and NP \\ \hline
+Subgraph isomorphism & Yes & \{0,1\} & Yes & Yes & NP-complete \\ \hline
+MCS computation & Yes & [0,1] & Yes & Yes & NP-hard \\ \hline
+Edit distances (exact) & No & [0,1] & No & Yes & Generally exponential \\ \hline
+Edit distances (approximate) & No & [0,1] & No & No & Generally polynomial \\ \hline
+Other inexact formulations & No & [0,1] & Sometimes & No* & Generally polynomial \\ \hline
+\end{tabular}
+\caption{Summary of the distinctions between exact and inexact graph matching styles.}
+\footnotesize *There may be optimal methods out there, but we did not find any. If they exist, they are almost certainly not polynomial time.
+\label{exact_vs_inexact}
+\end{table}
+
+We define a graph matching method to be \textbf{exact}\index{exact matching} if it seeks to find a mapping between the vertices of two graphs which is edge preserving. Exact matching is also sometimes defined by whether a method seeks a \textit{boolean} evaluation of the similarity of two graphs \cite{Livi_2012,Emmert_Streib_2016}. For graph and subgraph isomorphism, this characterization is equivalent; either they are isomorphic/there is a subgraph in the larger which is isomorphic to the smaller, or they are not. Since the maximum common subgraph problem is edge preserving, we consider it in this work to be an exact matching problem. However, it does not seek a boolean evaluation, and it is therefore sometimes considered to be an inexact matching problem \cite{Livi_2012}. 
+
+In \textbf{inexact matching}\index{inexact matching}, we allow mappings which are not edge-preserving, which allows us to compensate for the inherent variability of the data in an application, as well as the noise and randomness introduced by the process of constructing graph representations of that data. Instead of matchings between vertices being forbidden if edge-preservation requirements are unsatisfied, they are simply penalized in some way. That is, we seek to find a matching that minimizes the sum of this penalty cost. Instead of returning a value in $\{0,1\}$, we return a value in $[0,1]$ measuring the similarity or dissimilarity between two graphs\footnote{Returning 1 for an isomorphism is analagous to a boolean evaluation and would be considered a \textit{similarity} measure. Most algorithms for inexact matching seek to minimize some function, so they would return 0 for an isomorphism and are therefore considered \textit{dissimilarity} measures.}.
+
+Inexact matching algorithms which are based on an explicit cost function or edit distance are often called \textbf{error tolerant}\index{error tolerant} or \textbf{error correcting}\index{error correcting}. 
+
+\subsubsection{Optimal and approximate algorithms}
+
+Generally, the problem formulations used for inexact matching seek to minimize some nonnegative cost function which can be defined to theoretically be zero for two graphs which are isomorphic. An \textbf{optimal}\index{optimal algorithm} algorithm, that is, one which is guaranteed to find the global minimum of this function, is guaranteed to find an isomorphism if it exists, while still handling the problem of graph variability. However, this comes at the cost of making optimal algorithms for inexact matching significantly more expensive than their exact counterparts \cite{Conte_2004}.
+
+Most inexact matching algorithms are therefore \textbf{approximate}\index{approximate algorithm} or \textbf{suboptimal}\index{suboptimal algorithm}. They only find a local minimum of the cost function, which may or may not be close to the true minimum (which may or may not be acceptable in a certain application), but in return are much less expensive to calculate, usually polynomial time  \cite{Conte_2004}.
+
+\subsubsection{Mapping-seeking and non-mapping-seeking algorithms} 
+
+Finally, we can draw the distinction of whether the algorithm seeks primarily to find a mapping between vertices (and returns a result in $\{0,1\}$ or $[0,1]$ as a byproduct), or whether it does not. All exact formulations seek a mapping, and many inexact formulations do as well. Mapping-seeking inexact matching is more commonly referred to as \textbf{alignment}\index{alignment}, and is one of two overwhelmingly dominant comparison strategies we observed in biology applications. Alignment is discussed more fully in Chapter \ref{chapter:systems_biology}.
+
+\subsection{Graph kernels and embeddings}
+
+``The Graph Matching Problem" \cite{Livi_2012}, published in 2012, claims that there are three main approaches to the inexact graph matching problem: edit distances, graph kernels, and graph embeddings. We did not observe this to be the case in our reading, but we still give a brief introduction to graph kernels and embeddings, and discuss our observations.
+
+Graph \textbf{embeddings}\index{graph embedding} are a general strategy of mapping a graph into some metric space or generalized metric space, and performing comparisons there. For example, we could identify a graph with a vector in $\R^n$ containing the seven statistics reported in Table \ref{tab:network_table}, or the eigenvalues of its adjacency matrix, and compare them using Euclidean distance. Mapping a graph into Euclidean space certainly makes comparison easier, but it is not obvious how to create a mapping that preserves graph properties in a sensible way. 
+
+Graph \textbf{kernels}\index{graph kernel} are a special kind of graph embeddings, in which we have a continuous map $k:\mathcal{G}\times \mathcal{G}\rightarrow \R$, where $\mathcal{G}$ is the space of all possible graphs, such that $k$ is symmetric and positive definite or semidefinite \cite{Livi_2012}. Creating a kernel for graphs would allow us to take advantage of the techniques and theory of general kernel methods, but it has been shown that computing a strictly positive definite graph kernel is at least as hard as solving the graph isomorphism problem \cite{Gartner_2003}. We suspect that the amount of work involved in creating a graph kernel with enough desirable properties to take advantage of kernel methods is prohibitive enough in many cases to make this an impractical strategy.
+
+We note that the strategy of using the \textbf{graphlet degree distribution}\index{graphlet degree distribution} and other local and global graph statistics, which we discuss in Chapter \ref{chapter:systems_biology}, is a form of embedding. Furthermore, the graph kernel strategies described in the references of  \cite{Livi_2012} seem to follow the assignment problem-style approach of calculating some sort of similarity notion between pairs of vertices in two graphs, and using that matrix to create the desired alignment or kernel. 
+
+We therefore consider the strategies of graph kernels and graph embeddings to be within the families of other categories which we describe in this work, rather than mainstream approaches in their own right.
+
+\section{Exact matching and graph edit distance}
+
+The field of graph matching is large and well-established, and we cannot hope to give a full overview of all existing techniques without sacrificing our focus on remaining accessible to the relative novice. If the reader is interested in a more comprehensive investigation, the definitive source on graph matching developments through 2004 is ``Thirty Years of Graph Matching In Pattern Recognition" \cite{Conte_2004}. Two of its authors collaborated with various others on a similar survey in 2014 covering the ten years since the prior survey's publication \cite{foggia2014graph}, and in June of 2018 published a large-scale performance comparison of graph matching algorithms on huge graphs \cite{carletti2018comparing} that may also be of interest.
+
+We roughly partition the field into three main approaches: 
+
+\begin{enumerate}
+\item Exact matching methods, which are primarily based around some kind of pruning of the search space
+\item Edit distance-based methods for optimal inexact matching, and 
+\item Continuous optimization-based methods for inexact matching. 
+\end{enumerate}
+
+We present optimization methods in their own section, as they are relevant to our upcoming discussion of systems biology network comparison methods in Chapter \ref{chapter:systems_biology}, and in this section aim to introduce the concept of search space pruning (which is the most dominant approach for exact matching), and the concept of a graph edit path and its corresponding graph edit distance. Our presentation of edit distances is primarily inspired by \cite{Livi_2012} and \cite{Riesen_2009}.
+
+\subsection{Search space pruning}
+
+Most algorithms for exact graph matching are based on some form of tree search with backtracking \cite{Conte_2004}. The process is analagous to  solving a grid-based logic puzzle. We represent all possible matching options in a grid format, and then rule out infeasible possibilities based on clues or heuristics about the problem. When we get to the point where our clues can no longer rule out any further possibilities, we must arbitrarily choose from among the remaining possible options for a certain item and follow through the correspondingly ruled out possibilities until we either complete the puzzle or reach a state where there are no possible solutions remaining. In the latter case, we backtrack, rule out our initial arbitrary choice, and try other possible options for the same certain item until we either find a solution or exhaust all possible choices.
+
+The seminal algorithm for exact matching is found in Ullmann's 1976 paper ``An Algorithm for Subgraph Isomorphism" \cite{Ullmann_1976}, and is applicable to both graph and subgraph isomorphism. We assume two graphs $g_1$ and $g_2$ with vertex counts $m$ and $n$, respectively, and assume without loss of generality that $m\leq n$. This allows us to represent all matching candidate possibilities in a $m\times n$ matrix of zeros and ones.
+
+The Ullmann algorithm\index{subgraph isomorphism algorithm} uses two principles to rule out matching possibilities:
+
+\begin{enumerate}
+\item In a subgraph isomorphism, a vertex in $g_1$ can only be mapped to a vertex in $g_2$ with the same or higher degree. This is used to rule out possibilities initially. 
+
+In Example \ref{ex:ullmann}, degree comparison is able to reduce the number of possible matchings from $8^4=4096$ to $5^*5^*1^*8=200$, a drastic improvement found at a cost of at most $mn$ operations (comparing the degree of each vertex in $g_1$ against the degree of each vertex in $g_2$).
+
+\item For any feasible matching candidate $v_2\in g_2$ for $v_1\in g_1$, the neighbors of $v_1$ must each have a feasible matching candidate among the neighbors of $v_2$. Testing this is called the \textbf{refinement}\index{refinement} procedure, and it forms the heart of the algorithm.
+
+In Example \ref{ex:ullmann}, after a single stage of the refinement process and before we begin backtracking, we have reduced the number of possible matchings down to $3^*3^*1^*3=27$.
+\end{enumerate}
+
+\begin{example}\label{ex:ullmann}
+
+As Ullmann's presentation of his own algorithm is very detail-oriented and does not seek to give a broad intuition for the method, to illustrate the method we follow an example found on StackOverflow \cite{ullmannStackOverflow}. We have two graphs $g_1$ and $g_2$, as shown, and we want to determine if a subgraph isomorphism exists between them.
+
+
+\vspace{-30pt}
+\begin{center}
+\begin{tabular}{C{0.35\textwidth}C{0.6\textwidth}}
+\includegraphics[width=0.95\textwidth]{ullmann_demo_cropped.png} & \\ $g_1$ & $g_2$\\
+\end{tabular}
+\end{center}
+
+First, we use degree comparison to determine the initial candidates for mapping vertices in $g_1$ to vertices in $g_2$. Vertex $d$ has degree 1, so can be mapped to anything in $g_2$. Vertices $a$ and $b$ have degree 2, so they cannot be mapped to vertices $3, 4$, or $8$ in $g_2$, as these vertices have degree 1. Finally, vertex $c$ has degree 3, so it can only be mapped to vertex 6.
+
+\begin{center}
+\begin{tikzpicture}
+\matrix (m)[
+	matrix of math nodes,
+	nodes in empty cells,
+	inner sep=4pt,
+]{ 
+ & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ \hline
+a & 1 & 1 & 0 & 0 & 1 & 1 & 1 & 0 \\
+b & 1 & 1 & 0 & 0 & 1 & 1 & 1 & 0 \\
+c & 0 & 0 & 0 & 0 & 0 & 1 & 0 & 0 \\
+d & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 \\
+};
+\draw (m-5-2.south west) -- (m-1-2.north west);
+\end{tikzpicture}
+\footnotesize\singlespacing Candidate mapping pairs which satisfy degree requirements.
+\end{center}
+\vspace{-5pt}
+
+Next, we begin the refinement procedure. We show two cases of the refinement procedure for the candidates of vertex $a$ in $g_1$: one where the candidate is valid, and another where it is ruled out.
+
+\vspace{-30pt}
+\begin{center}
+\begin{tabular}{C{0.35\textwidth}C{0.6\textwidth}}
+\includegraphics[width=0.95\textwidth]{ullmann_demo_cropped.png} & \\ $g_1$ & $g_2$\\
+\end{tabular}
+\end{center}
+
+\begin{center}
+\begin{minipage}{0.1\textwidth}
+\hfill
+\end{minipage}
+\begin{minipage}{0.3\textwidth}
+\begin{tikzpicture}
+\matrix (m)[
+	matrix of math nodes,
+	nodes in empty cells,
+	inner sep=4pt,
+]{ 
+ & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ \hline
+a & 1 & 1 & 0 & 0 & 1 & 1 & 1 & 0 \\
+b & 1 & 1 & 0 & 0 & 1 & 1 & 1 & 0 \\
+c & 0 & 0 & 0 & 0 & 0 & 1 & 0 & 0 \\
+d & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 \\
+};
+\fill[gray,opacity=0.2] (m-3-2.south west) rectangle (m-3-9.north east);
+\fill[gray,opacity=0.2]  (m-4-2.south west) rectangle (m-4-9.north east);
+\fill[gray,opacity=0.2]  (m-5-3.south west) rectangle (m-2-3.north east);
+\fill[gray,opacity=0.2]  (m-5-7.south west) rectangle (m-2-7.north east);
+\draw (m-5-2.south west) -- (m-1-2.north west);
+\draw[green,thick,radius=6pt] (m-3-3) circle;
+\draw[green,thick,radius=6pt] (m-4-7) circle;
+\end{tikzpicture}
+\footnotesize\singlespacing Vertex 1 is a suitable candidate for vertex $a$.
+\end{minipage}
+\begin{minipage}{0.1\textwidth}
+\hfill
+\end{minipage}
+\begin{minipage}{0.3\textwidth}
+\begin{tikzpicture}
+\matrix (m)[
+	matrix of math nodes,
+	nodes in empty cells,
+	inner sep=4pt,
+]{ 
+ & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ \hline
+a & 1 & \cancel{1} & 0 & 0 & 1 & 1 & 1 & 0 \\
+b & 1 & 1 & 0 & 0 & 1 & 1 & 1 & 0 \\
+c & 0 & 0 & 0 & 0 & 0 & 1 & 0 & 0 \\
+d & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 \\
+};
+\fill[gray,opacity=0.2]  (m-3-2.south west) rectangle (m-3-9.north east);
+\fill[gray,opacity=0.2]  (m-4-2.south west) rectangle (m-4-9.north east);
+\fill[gray,opacity=0.2]  (m-5-2.south west) rectangle (m-2-2.north east);
+\fill[gray,opacity=0.2] (m-5-4.south west) rectangle (m-2-4.north east);
+\draw (m-5-2.south west) -- (m-1-2.north west);
+\draw[green,radius=6pt] (m-3-2) circle;
+\draw[red,radius=6pt] (m-4-2) circle;
+\draw[red,radius=6pt] (m-4-4) circle;
+\end{tikzpicture}
+\footnotesize\singlespacing Vertex 2 is not a suitable candidate for vertex $a$.
+\end{minipage}
+\begin{minipage}{0.1\textwidth}
+\hfill
+\end{minipage}
+\end{center}
+
+\bigskip
+
+On the left, we consider vertex 1 in $g_2$ as a candidate for vertex $a$ in $g_1$. We highlight the rows corresponding to $a$'s neighbors, and the columns corresponding to 1's neighbors. Each neighbor of $a$ must have a candidate among the neighbors of 1; i.e., there must be a 1 somewhere in the intersections of the highlighted columns with each highlighted row. Since this is the case on the left, 1 remains a candidate for $a$. On the right, however, we find that vertex 2 is not a valid candidate for $a$. While there is a candidate for $b$ among the neighbors of 2, there is not a candidate for $c$ among the neighbors of 2.
+
+After performing the refinement process for all candidate pairings, the remaining candidates for each vertex in $g_1$ are as shown below. At this point, it is time to begin backtracking.
+
+\vspace{5pt}
+\begin{center}
+\begin{tikzpicture}
+\matrix (m)[
+	matrix of math nodes,
+	nodes in empty cells,
+	inner sep=4pt,
+]{ 
+ & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ \hline
+a & 1 & 0 & 0 & 0 & 1 & 0 & 1 & 0 \\
+b & 1 & 0 & 0 & 0 & 1 & 0 & 1 & 0 \\
+c & 0 & 0 & 0 & 0 & 0 & 1 & 0 & 0 \\
+d & 1 & 0 & 0 & 0 & 1 & 0 & 1 & 0 \\
+};
+\draw (m-5-2.south west) -- (m-1-2.north west);
+\end{tikzpicture}
+\footnotesize\singlespacing Candidate mapping pairs after the initial refinement procedure.
+\end{center}
+\vspace{-5pt}
+
+For the backtracking procedure, we try mapping a vertex to each of its candidates in turn. At each stage, if we cannot find any viable candidates for a vertex among the neighbors of the candidate in question, we backtrack and try again. The algorithm stops when we either find a subgraph isomorphism, or eliminate all candidates for a vertex.
+
+\vspace{-30pt}
+\begin{center}
+\begin{tabular}{C{0.35\textwidth}C{0.6\textwidth}}
+\includegraphics[width=0.95\textwidth]{ullmann_demo_cropped.png} & \\ $g_1$ & $g_2$\\
+\end{tabular}
+\end{center}
+\begin{minipage}{0.3\textwidth}
+\begin{center}
+\begin{tikzpicture}
+\matrix (m)[
+	matrix of math nodes,
+	nodes in empty cells,
+	inner sep=4pt,
+]{ 
+ & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ \hline
+a & \cancel{1} & 0 & 0 & 0 & 1 & 0 & 1 & 0 \\
+b & 0 & 0 & 0 & 0 & 1 & 0 & 1 & 0 \\
+c & 0 & 0 & 0 & 0 & 0 & 1 & 0 & 0 \\
+d & 0 & 0 & 0 & 0 & 1 & 0 & 1 & 0 \\
+};
+\fill[gray,opacity=0.2]  (m-3-2.south west) rectangle (m-3-9.north east);
+\fill[gray,opacity=0.2]  (m-4-2.south west) rectangle (m-4-9.north east);
+\fill[gray,opacity=0.2]  (m-5-3.south west) rectangle (m-2-3.north east);
+\fill[gray,opacity=0.2] (m-5-7.south west) rectangle (m-2-7.north east);
+\draw (m-5-2.south west) -- (m-1-2.north west);
+\draw[green,radius=6pt] (m-4-7) circle;
+\draw[red,radius=6pt] (m-3-3) circle;
+\draw[red,radius=6pt] (m-3-7) circle;
+\end{tikzpicture}
+\end{center}
+\footnotesize\singlespacing Try mapping $a$ to $1$. There is no viable candidate for $b$ among the neighbors of $1$, so we backtrack and try again.
+\end{minipage}\hfill
+\begin{minipage}{0.3\textwidth}
+\begin{center}
+\begin{tikzpicture}
+\matrix (m)[matrix of math nodes,inner sep=4pt
+]{ 
+ & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ \hline
+a & 0 & 0 & 0 & 0 & \cancel{1} & 0 & 1 & 0 \\
+b & 1 & 0 & 0 & 0 & 0 & 0 & 1 & 0 \\
+c & 0 & 0 & 0 & 0 & 0 & 1 & 0 & 0 \\
+d & 1 & 0 & 0 & 0 & 0 & 0 & 1 & 0 \\
+};
+\draw (m-5-2.south west) -- (m-1-2.north west);
+\fill[gray,opacity=0.2]  (m-3-2.south west) rectangle (m-3-9.north east);
+\fill[gray,opacity=0.2]  (m-4-2.south west) rectangle (m-4-9.north east);
+\fill[gray,opacity=0.2]  (m-5-5.south west) rectangle (m-2-5.north east);
+\fill[gray,opacity=0.2] (m-5-7.south west) rectangle (m-2-7.north east);
+\draw[green,radius=6pt] (m-4-7) circle;
+\draw[red,radius=6pt] (m-3-5) circle;
+\draw[red,radius=6pt] (m-3-7) circle;
+\end{tikzpicture}
+\end{center}
+\footnotesize\singlespacing Try mapping $a$ to 5. There is no viable candidate for $b$ among the neighbors of $5$, so we backtrack and try again.
+\end{minipage}\hfill
+\begin{minipage}{0.3\textwidth}
+\begin{center}
+\begin{tikzpicture}
+\matrix (m)[matrix of math nodes,inner sep=4pt
+]{ 
+ & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ \hline
+a & 0 & 0 & 0 & 0 & 0 & 0 & \cancel{1} & 0 \\
+b & 1 & 0 & 0 & 0 & 1 & 0 & 0 & 0 \\
+c & 0 & 0 & 0 & 0 & 0 & 1 & 0 & 0 \\
+d & 1 & 0 & 0 & 0 & 1 & 0 & 0 & 0 \\
+};
+\draw (m-5-2.south west) -- (m-1-2.north west);
+\fill[gray,opacity=0.2]  (m-3-2.south west) rectangle (m-3-9.north east);
+\fill[gray,opacity=0.2]  (m-4-2.south west) rectangle (m-4-9.north east);
+\fill[gray,opacity=0.2]  (m-5-9.south west) rectangle (m-2-9.north east);
+\fill[gray,opacity=0.2] (m-5-7.south west) rectangle (m-2-7.north east);
+\draw[green,radius=6pt] (m-4-7) circle;
+\draw[red,radius=6pt] (m-3-9) circle;
+\draw[red,radius=6pt] (m-3-7) circle;
+\end{tikzpicture}
+\end{center}
+\footnotesize\singlespacing Try mapping $a$ to 7. There is no viable candidate for $b$ among the neighbors of $7$, and no more candidates for $a$, so we stop.
+\end{minipage}
+
+\vspace{15pt}
+
+We cannot find a suitable candidate for $b$ among the neighbors of any candidate of $a$, so there is no subgraph isomorphism between $g_1$ and $g_2$.
+
+\end{example}
+
+\subsection{Graph edit distance}
+
+\begin{wrapfigure}{R}{0.35\textwidth}
+\begin{tabular}{|lcl|l|}
+\hline
+cat & $\rightarrow$ & ca\textit{r}t & Insertion \\ \hline
+\textit{c}art & $\rightarrow$ & \textit{d}art & Substitution \\ \hline
+\textit{d}art & $\rightarrow$ & art & Deletion \\ \hline
+\textit{ar}t & $\rightarrow$ & \textit{ra}t & Transposition \\ \hline
+\end{tabular}
+\caption{Edit operations for strings.}
+\vspace{-10pt}
+\label{fig:string_edit_operations}
+\end{wrapfigure}
+
+One way to measure the distance between two objects is to measure how much work it takes to turn the first into the second, and take the length of the \textbf{edit path}\index{edit path}. For example, in Figure \ref{fig:string_edit_operations}, we find an edit path of length 4 between ``cat" and ``rat". However, this should clearly not be the \textbf{edit distance}\index{graph edit distance} between ``cat" and ``rat", as we can transform one into the other with a single substitution. The edit distance between two objects is therefore the \textit{minimum} over the lengths of all possible edit paths between them.
+
+\begin{figure}[h]
+\centering
+\begin{tabular}{C{0.18\textwidth}C{0.03\textwidth}C{0.18\textwidth}C{0.03\textwidth}C{0.18\textwidth}C{0.03\textwidth}C{0.18\textwidth}}
+\multicolumn{3}{c}{Vertex insertion} & & \multicolumn{3}{c}{Edge insertion} \\
+\includegraphics[width=0.18\textwidth]{vertex_insertion_left.png} & $\rightarrow$ & 
+\includegraphics[width=0.18\textwidth]{vertex_insertion_right.png} & & 
+\includegraphics[width=0.18\textwidth]{edge_insertion_left.png} & $\rightarrow$ & 
+\includegraphics[width=0.18\textwidth]{edge_insertion_right.png} \\
+\multicolumn{3}{c}{Vertex deletion} & &  \multicolumn{3}{c}{Edge deletion} \\
+\includegraphics[width=0.18\textwidth]{vertex_deletion_left.png} & $\rightarrow$ & 
+\includegraphics[width=0.18\textwidth]{vertex_deletion_right.png} & & 
+\includegraphics[width=0.18\textwidth]{edge_deletion_left.png} & $\rightarrow$ & 
+\includegraphics[width=0.18\textwidth]{edge_deletion_right.png} \\
+\multicolumn{7}{c}{Vertex substitution} \\ & & 
+\includegraphics[width=0.18\textwidth]{vertex_substitution_left.png} & $\rightarrow$ &
+\includegraphics[width=0.18\textwidth]{vertex_substitution_right.png} & & \\
+\end{tabular}
+\caption{Edit operations for graphs.}
+\label{fig:graph_edit_operations}
+\end{figure}
+
+For graphs, the relevant edit operations are \textbf{vertex substitution}\index{graph edit operations}, \textbf{vertex insertion}, \textbf{vertex deletion}, \textbf{edge insertion}, and \textbf{edge deletion}, as illustrated in Figure \ref{fig:graph_edit_operations}. Instead of simply taking the length of the edit path, however, each of these operations is associated with some nonnegative cost function $c(u,v)\in \R^+$ (the ``penalty" mentioned in Section \ref{section:exact_and_inexact_matching}) which avoids rewarding unnecessary edit operations by satisfying the inequality \[c(u,w)\leq c(u,v)+c(v,w),\] where $u, v$, and $w$ are vertices or edges, or sometimes null vertices/edges in the case of insertion and deletion. We also assume that the cost of deleting a vertex with edges is equivalent to that of first deleting each of its edges and then deleting the resultant neighborless vertex. 
+
+%If two graphs are isomorphic to one another, the edit distance between them is the total cost of relabeling--i.e. substituting--all $n$ vertices.
+
+The edit distance is then the total cost of all operations involved in an edit path, and it critically depends on the costs of the underlying edit operations \cite{Bunke_1998}. This can be helpful in some cases, as it allows us to easily tweak parameters in our notion of similarity. It is also sometimes desirable to avoid this dependence on the cost function. This is one motivation for the formulation of inexact graph matching as a continuous optimization problem, which we discuss in the next section.
+
+Finally, we note that it was shown by Bunke in 1999 that the graph isomorphism, subgraph isomorphism, and maximum common subgraph problems are all special cases of the problem of calculating the graph edit distance under certain cost functions \cite{Bunke_1999}. 
+
+\section{Suboptimal methods for inexact matching}
+
+We noted previously that optimal methods for inexact graph matching tend to be very expensive, and therefore only suitable for graphs of small size. To address this issue, Riesen and Bunke in 2008 introduced an algorithm for approximating the graph edit distance in a substantially faster way \cite{Riesen_2009}, which Serratosa published an improved variant of in 2014 \cite{Serratosa_2014}. This is not the only suboptimal inexact matching method in existence with the goal of suboptimally calculating a graph edit distance, but it provides an interesting connection between the seemingly radically different strategies of search space pruning and of casting the problem as one of continuous optimization.
+
+\subsection{The assignment problem}
+
+The key to this connection is the idea of the assignment problem. The following definition is due to Riesen and Bunke \cite{Riesen_2009}:
+
+\begin{definition}
+Consider two sets $A$ and $B$, each of cardinality $n$, together with an $n\times n$ cost matrix $C$ of real numbers, where the matrix elements $c_{i,j}$ correspond to the cost of assigning the $i$-th element of $A$ to the $j$-th element of $B$. The \textbf{assignment problem}\index{assignment problem} is that of finding a permutation $p=\{p_1,\dots,p_n\}$ of the integers $\{1,2,\dots,n\}$ which minimizes $\sum_{i=1}^n c_{i,p_i}$.
+\end{definition}
+
+A brute force algorithm for the assignment problem would require a $O(n!)$ time complexity, which is obviously unreasonable. Instead, we typically use the \textbf{Hungarian method}\index{Hungarian algorithm}\index{Munkres' algorithm}. This algorithm is originally due to Kuhn in 1955 \cite{Kuhn_1955} and solves the problem in maximum time $O(n^3)$ by transforming the original cost matrix into an equivalent matrix with $n$ independent zero elements\footnote{Independent meaning that they are in distinct rows and columns.} which correspond to the optimal assignment pairs. The version of the algorithm described in \cite{Riesen_2009} is a refinement of the original Hungarian algorithm published by Munkres in 1957 \cite{munkres1957algorithms}.
+
+\subsubsection{Relationship to the bipartite graph matching problem}
+
+\begin{figure}[h]
+\centering
+\begin{tabular}{m{0.3\textwidth}m{0.05\textwidth}m{0.3\textwidth}}
+$C = $\bordermatrix{ & 1 & 2 & 3 \cr
+a & 3 & 2 & 1 \cr
+b & 1 & 3 & 4 \cr
+c & 2 & 5 & 2 }
+ & $\Leftrightarrow$ &
+\includegraphics[width=0.3\textwidth]{bipartite_assignment_problem.png} \\
+\multicolumn{3}{c}{$A = \{a,b,c\},  B=\{1,2,3\}$}
+\end{tabular}
+\caption{Reformulating the assignment problem as that of finding an optimal matching in a bipartite graph. The edges and their weight labels in the bipartite graph are colored to make it easier to see which weights belong to which edges.}
+\label{bipartite_reformulation}
+\end{figure}
+
+As noted in Section \ref{section:defining_graph_matching}, we sometimes must address the question of finding a matching \textit{in} a graph. This is defined as a set of edges without common vertices. It is straightforward to reformulate the assignment problem as one of finding an optimal matching within a \textbf{bipartite graph}\index{bipartite graph}, that is, a graph whose vertices can be divided into two disjoint independent sets such that no edges run between vertices of the same type. If $A$ and $B$ are two sets of cardinality $n$ as in the assignment problem, the elements of $A$ form one vertex group, the elements of $B$ form the other, and we define the edge weight between the $i$-th element of $A$ and the $j$-th element of $B$ to be the cost of that assignment, as shown in Figure \ref{bipartite_reformulation}. The assignment problem is therefore also referred to as the \textbf{bipartite graph matching problem}.
+
+\subsubsection{Relationship to graph edit distance}
+
+To connect the assignment problem to graph edit distance computation, we define a cost matrix $C$ such that each $c_{i,j}$ entry corresponds to the cost of substituting the $i$-th vertex in our source graph to the $j$-th vertex in our target graph \cite{Riesen_2009}. We can generalize this approach further to handle graphs with different numbers of vertices by using a modified version of the Hungarian method which applies to rectangular matrices \cite{bourgeois1971extension} by considering vertex insertions and deletions as well as substitutions. 
+
+The resulting cost matrix (again, definition due to Riesen and Bunke \cite{Riesen_2009}) then becomes 
+
+\[
+C = \left[
+\begin{array}{cccc|cccc}
+c_{1,1} & c_{1,2} & \dots & c_{1,m}     &     c_{1,-} & \infty & \dots & \infty \\
+c_{2,1} & c_{2,2} & \dots & c_{2,m}     &     \infty & c_{2,-} & \ddots & \vdots \\
+\vdots & \vdots & \ddots & \vdots          &     \vdots & \ddots & \ddots & \infty \\ 
+c_{n,1} & c_{n,2} & \dots & c_{n,m}     &     \infty & \dots & \infty & c_{n,-} \\ \hline
+
+c_{-,1} & \infty & \dots & \infty             &     0 & 0 & \dots & 0 \\ 
+\infty & c_{-,2} & \ddots & \vdots          &     0 & 0 & \ddots & \vdots \\ 
+\vdots & \ddots & \ddots & \infty           &     \vdots & \ddots & \ddots & 0\\ 
+\infty & \dots & \infty & c_{-,m}            &    0 & \dots & 0 & 0 \\ 
+\end{array}
+\right],
+\]
+
+where $n$ is the number of vertices in the source graph, $m$ the number of vertices in the target, and a $-$ is used to represent null values. The upper left corner of this matrix represents the cost of vertex substitutions, and the bottom left and top right corners represent the costs of vertex insertions and deletions. Since each vertex can be inserted or deleted at most once, the off-diagonal elements of these are set to infinity. Finally, since substitutions of null values should not impose any costs, the bottom right corner of $C$ is set to zero.
+
+This is only a rough approximation of the true edit distance, as it does not consider any information about the costs of edge transformations. We can improve the approximation by adding the minimum sum of edge edit operation costs implied by a vertex substitution to that substitution's entry in the cost matrix, but we still have a suboptimal solution for the graph edit distance problem, even though the assignment problem can be solved optimally in a reasonable amount of time.
+
+\subsubsection{Other suboptimal graph matching methods using the assignment problem}
+
+Approximating the graph edit distance is far from the only graph matching strategy which is based around the assignment problem. Instead of a cost matrix based around the cost function of a graph edit distance measure, we can incorporate other measures of similarity or affinity between vertices. The advantage of this approach is that we can incorporate both topological\footnote{That is, information derived directly from the structure of a network.} and external notions of similarity into our definition. However, this comes at the cost of relying on heuristic notions of similarity, rather than directly incorporating information about edge preservation into our measure of assignment quality. 
+
+Techniques which incorporate external information are much more prevalent in biology, and will be discussed further in Chapter \ref{chapter:systems_biology}.
+
+\subsection{Weighted graph matching vs. the assignment problem}
+
+Most of the suboptimal graph matching methods we observed are based around either the assignment problem, or around some formulation of the \textit{weighted graph matching problem}.
+
+\begin{definition}
+The \textbf{weighted graph matching problem}\index{weighted graph matching problem} (WGMP) is typically defined as finding an optimum permutation matrix which minimizes a distance measure between two weighted graphs; generally, if $A_G$ and $A_H$ are the adjacency matrices of these, both $n\times n$, we seek to minimize $||A_G - PA_HP^T||$ with respect to some norm\cite{Umeyama_1988, Koutra_2013, Almohamad_1993} , or minimize some similarly formulated energy function \cite{Gold_1996}. The specific norm and definition depends on the technique being used to solve the optimization problem.
+\end{definition}
+
+Weighted graph matching is an inexact graph matching method, and its techniques are generally suboptimal, searching for a \textit{local} minimum of the corresponding continuous optimization problem. There is a wide variety of techniques in use, including linear programming \cite{Almohamad_1993}, eigendecomposition \cite{Umeyama_1988}, and graduated assignment \cite{Gold_1996}. Other techniques mentioned in \cite{Almohamad_1993, Umeyama_1988, Gold_1996} and \cite{Conte_2004} for which we do not include specific references include Lagrangian relaxation, symmetric polynomial transformation, replicator equations, other spectral methods, neural networks, and genetic algorithms.
+
+The weighted graph matching problem is similar to the assignment problem in that we seek a permutation between the $n$ vertices of two graphs, but unlike the assignment problem, there is no need to define a cost or similarity matrix ahead of time. Instead, we directly measure the quality of a permutation assignment with respect to the structure of a graph, and optimize this quantity directly to find our matching. This means we can avoid relying on the heuristics inherent in any formulation of a cost or similarity matrix, but it also means we cannot easily incorporate external information into our solution of the problem. Whether weighted graph matching techniques are preferable to assignment problem-based strategies is therefore dependent on the specific problem to be solved.
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CHAPTER 5 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+\chapter{Systems Biology}\label{chapter:systems_biology}
+
+\section{Motivation}
+
+A fundamental goal in biology is to understand complex systems in terms of their interacting components. Network representations of these systems are particularly helpful at the cellular and molecular level, at which we have large-scale, experimentally determined data about the interactions between biomolecules such as proteins, genes, and metabolites. In the past twenty years, there has been an explosion of availability of large-scale interaction data between biomolecules, paralleling the surge of DNA sequence information facilitated by the Human Genome Project\footnote{https://www.genome.gov/12011239/a-brief-history-of-the-human-genome-project/}. Sequence information comparison tools have been revolutionary in advancing our understanding of basic biological processes, including our models of evolutionary processes and disease\footnote{https://www.scq.ubc.ca/the-human-genome-project-the-impact-of-genome-sequencing-technology-on-human-health/ (will fix citation later)}, and the comparative analysis of  biological networks presents a similarly powerful method for organizing large-scale interaction data into models of cellular signaling and regulatory machinery \cite{Sharan_2005}. 
+
+In particular, we can use network comparison to address fundamental biological questions such as ``Which proteins, protein interactions and groups of interactions are likely to have equivalent functions across species?", ``Can we predict new functional information about proteins and interactions that are poorly characterized, based on similarities in their interaction networks?", and ``What do these relationships tell us about the evolution of proteins, networks, and whole species?" \cite{Sharan_2006}. Comparison strategies and metrics are also key to developing mathematical models of biological networks which represent their structure in a statistically meaningful way, which is a key step towards understanding them. In particular, good comparison techniques allow us to model dynamical systems on biological networks \cite{Watts_1998} (e.g. the spread of infectious diseases), and create appropriate null hypotheses for drawing conclusions about experimental networks \cite{Hayes_2013}\footnote{Section 2.3.1 in \cite{Hayes_2013} contains a very good summary of the importance of modelling biological networks.}.
+
+% Chart from ``Modelling cellular machinery": (alignment, integration, querying) x (common application, main goals, limitations)
+% Our chart should be like that big full page diagram
+% Have a sketch of it--draw a bigger sketch, see if Amelia can help with the tikz so it doesn't take as long
+
+\section{Graphlets}
+
+In Table \ref{tab:, we introduced 
+
+\subsection{Introduction to univariate statistics via degree distributions}
+
+That's a good way to introduce the idea of local vs. global statistics--reference all the GLOBAL statistics we already talked about
+
+\subsection{Applications of univariate statistics}
+
+\subsection{Motifs and graphlets are a generalization of degree distributions}
+
+\subsection{They are important both because they can be used to create comparison metrics, and because random models for networks are important}
+
+\section{Alignment}
+
+What's the relationship between alignment and the assignment problem?
+
+\subsection{Why do we want to do it?}
+
+Analogy to sequence alignment goes HERE.
+
+\subsection{What is it exactly?}
+
+What is the actual definition, compared to how we just defined it for CS? Also, external information is very important! Not just topological similarity! We need it very badly!
+
+\subsection{Local vs. global}
+
+\begin{wrapfigure}{L}{0.5\textwidth}
+\centering
+\includegraphics[width=0.5\textwidth]{local_alignment.png}
+\caption{local alignment}
+\label{fig:local_alignment}
+\end{wrapfigure}
+
+\begin{wrapfigure}{L}{0.5\textwidth}
+\centering
+\includegraphics[width=0.5\textwidth]{global_alignment.png}
+\caption{global alignment}
+\label{fig:global_alignment}
+\end{wrapfigure}
+
+\subsection{Two steps of the process: similarity matrix + searching}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|r|r|}
+\hline
+% stuff in here
+\end{tabular}
+\caption{nice table of the named local and global algorithms, their year, their source number in the reference list, their similarity strategy, and their search strategy.}
+\label{tab:alignment_algorithms}
+\end{table}
+
+Because I already talked about this in the CS chapter, I can just do it comparatively here.
+
+\section{Summary of algorithms}
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CHAPTER 6 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+\chapter{Conclusion}\label{chapter:conclusion}
+
+ (probably doesn't need sections, but it's good for at-a-glance structure)
+
+\subsection{The conclusion only counts as one section in terms of time to write it}
+
+\subsection{how CS stuff might be useful for bio, and barriers/limitations to that}
+
+\subsection{how bio stuff might be useful for CS, etc.}
+
+\subsection{complain about the other surveys again and brag on my way}
+ 
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%% GLOSSARY, APPENDIX AND END MATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+% Changes the numbering of chapters and sections for appendices. Any chapters or sections listed here will be treated as part of the appendix
+\appendix
+
+\chapter{Appendices}\label{chapter:appendices}
+
+\section{Additional Figures}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{display_sciMet.png}
+\caption{The sciMet network dataset used in our Table \ref{tab:network_table} comparison to $G$. Note the high number of connected components, and low number of children per parent, in contrast to the ``blooming" behavior in $G$ created by the inclusion of ALL child references from each parent paper.}
+\label{fig:sciMet}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{display_zewail.png}
+\caption{The zewail citation network dataset used in our Table \ref{tab:network_table} comparison to $G$. Note the high number of connected components, and low number of children per parent, in contrast to the ``blooming" behavior in $G$ created by the inclusion of ALL child references from each parent paper.}
+\label{fig:zewail}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{full_network_color_coded.png}
+\caption{The full network $G_p$, with vertices colored according to their subject label as in Figure \ref{fig:subject_color_coded}.}
+\label{fig:full_subject_color_coded}
+\end{figure}
+
+\begin{sidewaysfigure}
+\centering
+\includegraphics[width=0.85\textwidth]{reading_list_subject_colored_CROPPED.png}
+\caption{The subnetwork $S$ of high centrality papers, as listed in Tables \ref{tab:toppapers_all}, \ref{tab:toppapers_bio}, and \ref{tab:toppapers_CS}, with vertices colored according to their subject label. Grey vertices are unlabeled, pink is computer science, blue is biology, yellow is math, orange is both math and computer science, and purple is both computer science and biology.}
+\vspace{-12pt}\flushleft\scriptsize Note: ``Unsupervised Domain Adaptation Using Regularized Hyper-Graph Matching" is not in the connected component and is not displayed.
+\label{fig:reading_list_subject_colored}
+\end{sidewaysfigure}
+
+
+\section{Additional Tables}
+
+\begin{table}[t]
+\centering
+\begin{tabular}{|l|r|r|r|}
+\hline & $G_R$ & $G_R^{(1)}$ & $G_R^{(2)}$ \\ \hline
+Total vertices & 61 & 27 & 34 \\ \hline
+Untagged & 30 & 8 & 22 \\ \hline
+Tagged & 31 & 19 & 12 \\ \hline
+CS & 24 & 2 & 22 \\ \hline
+Biology & 6 & 6 & 0 \\ \hline
+Math & 3 & 1 & 2 \\ \hline
+Both CS and biology & 1 & 1 & 0 \\ \hline
+Both CS and math & 2 & 0 & 2 \\ \hline
+Both biology and math & 0 & 0 & 0 \\ \hline
+All three & 0 & 0 & 0 \\ \hline
+\end{tabular}
+\caption{Number of vertices tagged as computer science, biology, math, or some combination of these in the reading list subnetwork $G_R$, and its intersections $G_R^{(1)}$ and $G_R^{(2)}$ with the two halves of the partition $G_p^{(1)}$ and $G_p^{(2)}$. See Table \ref{tab:subject_counts}.}
+\label{tab:reading_list_subject_counts}
+\end{table}
+
+\begin{singlespace}
+\begin{longtable}{|L{0.095\textwidth}|C{0.04\textwidth}|C{0.045\textwidth}|C{0.045\textwidth}|L{0.7\textwidth}|}
+\hline
+Subject & $N$ & $G_R^{(1)}$ & $G_R^{(2)}$ & Title \\ \hline
+\hline
+\endhead
+None & 22 & 15 & 7 & Fifty years of graph matching, network alignment and network comparison \\ \hline
+None & 15 & 10 & 5 & Networks for systems biology: conceptual connection of data and function \\ \hline
+Biology & 7 & 7 & 0 & Global network alignment using multiscale spectral signatures \\ \hline
+None & 13 & 1 & 12 & Error correcting graph matching: on the influence of the underlying cost function \\ \hline
+None & 10 & 10 & 0 & MAGNA: Maximizing Accuracy in Global Network Alignment \\ \hline
+None & 4 & 4 & 0 & Graphlet-based measures are suitable for biological network comparison \\ \hline
+None & 7 & 6 & 1 & On Graph Kernels: Hardness Results and Efficient Alternatives \\ \hline
+Biology & 8 & 8 & 0 & Pairwise Alignment of Protein Interaction Networks \\ \hline
+None & 6 & 6 & 0 & Alignment-free protein interaction network comparison \\ \hline
+Biology & 7 & 7 & 0 & Biological network comparison using graphlet degree distribution \\ \hline
+None & 10 & 10 & 0 & NETAL: a new graph-based method for global alignment of protein-protein interaction networks \\ \hline
+CS/Math & 10 & 4 & 6 & Computers and Intractability: A Guide to the Theory of NP-Completeness \\ \hline
+None & 16 & 1 & 15 & Recent developments in graph matching \\ \hline
+None & 10 & 10 & 0 & Modeling cellular machinery through biological network comparison \\ \hline
+CS & 7 & 2 & 5 & A graph distance metric based on the maximal common subgraph \\ \hline
+None & 24 & 1 & 23 & Thirty years of graph matching in pattern recognition \\ \hline
+None & 6 & 6 & 0 & Collective dynamics of ``small-world" networks \\ \hline
+None & 13 & 11 & 2 & A new graph-based method for pairwise global network alignment \\ \hline
+None & 12 & 4 & 8 & An Algorithm for Subgraph Isomorphism \\ \hline
+CS & 8 & 2 & 6 & On a relation between graph edit distance and maximum common subgraph \\ \hline
+None & 7 & 7 & 0 & Topological network alignment uncovers biological function and phylogeny \\ \hline
+CS & 7 & 0 & 7 & A linear programming approach for the weighted graph matching problem \\ \hline
+None & 10 & 0 & 10 & An eigendecomposition approach to weighted graph matching problems \\ \hline
+CS & 8 & 0 & 8 & A graduated assignment algorithm for graph matching \\ \hline
+None & 9 & 0 & 9 & A new algorithm for subgraph optimal isomorphism \\ \hline
+CS & 9 & 0 & 9 & A distance measure between attributed relational graphs for pattern recognition \\ \hline
+CS & 5 & 0 & 5 & Inexact graph matching for structural pattern recognition \\ \hline
+CS & 6 & 2 & 4 & A new algorithm for error-tolerant subgraph isomorphism detection \\ \hline
+CS & 6 & 0 & 6 & Structural Descriptions and Inexact Matching \\ \hline
+CS & 6 & 0 & 6 & A shape analysis model with applications to a character recognition system \\ \hline
+CS & 9 & 0 & 9 & A graph distance measure for image analysis \\ \hline
+CS & 8 & 0 & 8 & Structural matching in computer vision using probabilistic relaxation \\ \hline
+CS & 6 & 0 & 6 & Hierarchical attributed graph representation and recognition of handwritten chinese characters \\ \hline
+CS & 4 & 0 & 4 & Linear time algorithm for isomorphism of planar graphs (Preliminary Report) \\ \hline
+CS/Bio & 6 & 5 & 1 & Pairwise Global Alignment of Protein Interaction Networks by Matching Neighborhood Topology \\ \hline
+None & 6 & 6 & 0 & Conserved patterns of protein interaction in multiple species \\ \hline
+None & 5 & 0 & 5 & Approximate graph edit distance computation by means of bipartite graph matching \\ \hline
+None & 8 & 4 & 4 & Local graph alignment and motif search in biological networks \\ \hline
+None & 6 & 6 & 0 & Network Motifs: Simple Building Blocks of Complex Networks \\ \hline
+None & 8 & 1 & 7 & The Hungarian method for the assignment problem \\ \hline
+CS & 9 & 0 & 9 & Graph Matching Based on Node Signatures \\ \hline
+None & 7 & 0 & 7 & Exact and approximate graph matching using random walks \\ \hline
+None & 6 & 6 & 0 & Global alignment of multiple protein interaction networks with application to functional orthology detection \\ \hline
+None & 10 & 9 & 1 & Fast parallel algorithms for graph similarity and matching \\ \hline
+CS & 9 & 0 & 9 & Fast computation of Bipartite graph matching \\ \hline
+CS & 4 & 0 & 4 & Fast and Scalable Approximate Spectral Matching for Higher Order Graph Matching \\ \hline
+CS & 4 & 0 & 4 & A Probabilistic Approach to Spectral Graph Matching \\ \hline
+CS & 3 & 0 & 3 & Graph matching applications in pattern recognition and image processing \\ \hline
+None & 10 & 1 & 9 & The graph matching problem \\ \hline
+Biology & 4 & 4 & 0 & Graph-based methods for analysing networks in cell biology \\ \hline
+CS & 10 & 4 & 6 & BIG-ALIGN: Fast Bipartite Graph Alignment \\ \hline
+None & 7 & 0 & 7 & A (sub)graph isomorphism algorithm for matching large graphs \\ \hline
+Biology & 4 & 4 & 0 & Complex network measures of brain connectivity: Uses and interpretations \\ \hline
+CS & 7 & 0 & 7 & Efficient Graph Similarity Search Over Large Graph Databases \\ \hline
+3 & 4 & 3 & 1 & Demadroid: Object Reference Graph-Based Malware Detection in Android \\ \hline
+None & 2 & 2 & 0 & Indian sign language recognition using graph matching on 3D motion captured signs \\ \hline
+None & 6 & 5 & 1 & Predicting Graph Categories from Structural Properties \\ \hline
+None & 10 & 10 & 0 & Survey on the Graph Alignment Problem and a Benchmark of Suitable Algorithms \\ \hline
+CS/Math & 12 & 0 & 12 & Efficient Graph Matching Algorithms \\ \hline
+CS & 2 & 2 & 0 & Early Estimation Model for 3D-Discrete Indian Sign Language Recognition Using Graph Matching \\ \hline
+None & 1 & 0 & 1 & Unsupervised Domain Adaptation Using Regularized Hyper-Graph Matching \\ \hline
+\caption{Number of vertices in the neighborhood of each paper in $G_R$, and how many vertices in it lie on each side of the partition.}
+\label{tab:neighborhood_partition_counts}
+\end{longtable}
+\end{singlespace}
+
+\section{Code-related}
+
+\begin{table}[t]
+\centering
+\begin{tabular}{| l | l |}
+\hline
+Usage & Package Name(s) \\ \hline
+Mathematical Computation & NumPy \\
+& NetworkX \\
+\hline
+Figure creation* & Matplotlib \\ 
+\hline
+File I/O Handling & csv\\ 
+& glob \\
+& re \\
+\hline
+API Request Handling  & urllib \\
+& Requests \\ 
+& time \\
+\hline
+Interfacing with Google Sheets & gspread$^\Diamond$ \\
+& oauth2client$^\Diamond$ \\
+\hline
+The \verb+defaultdict+ datatype & collections \\
+\hline
+Interfacing my own modules with Jupyter notebooks & importlib$^\Diamond$ \\ 
+\hline
+\end{tabular}
+\caption{Python packages used for the project. All but those marked with a $\Diamond$ are found in either the standard library or available in Anaconda for Python 3.6 on 64-bit Windows in mid-2018, and the remainder can be installed via pip.}
+\footnotesize *Only Figure \ref{fig:year_distributions} was created in Python. The remainder were made with Mathematica.
+\label{tab:python_packages}
+\end{table}
+
+%\begin{figure}[p]
+%\textbf{Initial loading of $G$, sciMet, and zewail GML files}
+%\begin{verbatim}
+%G = Import["citation_network.gml"]
+%sciMet = Import["sciMet_dataset.gml"]
+%zewail = Import["zewail_dataset.gml"]
+%\end{verbatim}
+%\textbf{Creating the pruned network $G_p$.}
+%\begin{verbatim}
+%parents = Position[VertexOutDegree[G], _?(# > 0 &)] // Flatten;
+%popular = Position[VertexInDegree[G], _?(# > 1 &)] // Flatten;
+%pruned = Subgraph[G, Union[parents, popular], Options[G]];
+%Gp = Subgraph[pruned, WeaklyConnectedComponents[pruned][[1]], 
+%    Options[pruned]]
+%\end{verbatim}
+%\textbf{Creating the random network $R$.}
+%\begin{verbatim}
+%R = RandomGraph[{VertexCount[G], EdgeCount[G]}, DirectedEdges -> True]
+%\end{verbatim}
+%\textbf{Creating the random network $R_d$ with the same degree sequences as $G$.}
+%\begin{verbatim}
+%outStubs = VertexOutDegree[G];
+%inStubs = VertexInDegree[G];
+%vertexlist = Range[VertexCount[G]];
+%edgelist = {};
+%For[i = 1, i <= EdgeCount[g], i++,
+% source = RandomSample[outStubs -> vertexlist, 1][[1]];
+% target = RandomSample[inStubs -> vertexlist, 1][[1]];
+% outStubs[[source]] -= 1;
+% inStubs[[target]] -= 1;
+% AppendTo[edgelist, source -> target];]
+%Rd = Graph[vertexlist, edgelist];
+%\end{verbatim}
+%\caption{The Mathematica code used to create the networks analyzed in Table \ref{tab:network_table}.}
+%\label{fig:network_creation_source_code}
+%\end{figure}
+
+\section{Subject Tagging Keywords}
+
+\begin{table}[p]
+\centering
+\begin{tabular}{| l | l | l |}
+\hline
+\textbf{Computer Science} & \textbf{Biology} & \textbf{Mathematics} \\ \hline\hline
+ACM & Biochem- & Algebra \\
+Algorithm & Biocomputing & Algorithm \\
+Artificial Intelligence & Bioengineering & Chaos \\
+CIVR & Bioinformatic & Combinatori- \\
+Computational Intelligence & Biological & Fixed Point \\
+Computational Linguistics & Biology & Fractal \\
+Computer & Biomedic- & Functional Analysis \\
+Computer Graphics & Biosystem & Geometr- \\
+Computer Science & Biotechnology & Graph \\
+Computer Vision & Brain & Kernel \\
+Data & Cancer & Linear Regression \\
+Data Mining & Cardiology & Markov \\
+Document Analysis & Cell & Mathemati- \\
+Electrical Engineering & Disease & Multivariate \\
+Graphics & DNA & Network \\
+IEEE & Drug & Optimization \\
+Image Analysis & Endocrinology & Permutation Group \\
+Image Processing & Epidemiology & Probability \\
+Intelligent System & Genetic & Riemann Surface \\
+Internet & Genome & SIAM \\
+ITiCSE & Genomic & Statistic- \\
+Language Processing & Medical & Topology \\ 
+Learning & Medicinal & Wavelet \\
+Machine Learning & Medicine & \\
+Machine Vision & Metabolic & \\
+Malware & Microbiology & \\
+Neural Network & Molecular & \\
+Pattern Recognition & Neuro- & \\ 
+Robotic & Neurobiological & \\
+Scientific Computing & Pathology & \\
+SIAM & Pathogen & \\
+Signal Processing & Pharma- & \\
+Software & Plant & \\
+World Wide Web & Protein & \\
+ & Proteom- & \\
+ & Psych- & \\
+ & Psychology & \\
+ & Virology & \\
+ & Virus & \\
+\hline
+\end{tabular}
+\caption{Keywords used to tag journal names as various subjects.}
+\vspace{-6pt}\flushleft\footnotesize *Note: Both a term and its plural are considered a match, and hyphens indicate a word with several ending variations which were all considered to be associated with the tag. While the search process was case sensitive in order to avoid false positives for short words like ``ACM", case-insensitive duplicate words have been excluded from the table. The words ``algorithm" and ``SIAM" are considered to be both computer science and mathematics.
+\label{tab:tagging_keywords}
+\end{table}
+
+\section{Reference List Guide}
+
+\begin{table}[p]
+\centering
+\begin{tabular}{|L{0.4\textwidth}|L{0.6\textwidth}|}
+
+\end{tabular}
+\caption{Guide to references in the bibliography}
+\label{tab:bibliography_guide}
+\end{table}
+
+\bibliographystyle{plain}
+\bibliography{thesis_bibliography}
+
+% If you want to include an index, this prints the index at this location. You must have \makeindex uncommented in the preamble
+\printindex
+
+\end{document}

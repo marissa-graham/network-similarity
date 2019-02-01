@@ -1,0 +1,289 @@
+>>> NEW PAPER <<<
+>>> citation >>> A. Ankolekar et al., "DAML-S Coalition. DAML-S: Web service description for the semantic web", ISWC, 2002.
+>>> DOI >>> 10.1007/3-540-48005-6_27
+>>> URL >>> http://dx.doi.org/10.1007/3-540-48005-6_27
+>>> year >>> 2002.0
+>>> title >>> DAML-S: Web Service Description for the Semantic Web
+>>> author >>> Anupriya Ankolekar and Mark Burstein and Jerry R. Hobbs and Ora Lassila and David Martin and Drew McDermott and Sheila A. McIlraith and Srini Narayanan and Massimo Paolucci and Terry Payne and Katia Sycara
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 52.0
+>>> subject >>> None
+>>> container_title >>> ['The Semantic Web — ISWC 2002', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database79.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 28]], 'date-time': '2018-05-28T02:42:29Z', 'timestamp': 1527475349069}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540437604', 'type': 'print'}, {'value': '9783540480051', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.1007/3-540-48005-6_27', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 5, 19]], 'date-time': '2007-05-19T21:15:43Z', 'timestamp': 1179609343000}, 'page': '348-363', 'source': 'Crossref', 'is-referenced-by-count': 52, 'title': ['DAML-S: Web Service Description for the Semantic Web'], 'prefix': '10.1007', 'author': [{'given': 'Anupriya', 'family': 'Ankolekar', 'sequence': 'first', 'affiliation': []}, {'given': 'Mark', 'family': 'Burstein', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jerry R.', 'family': 'Hobbs', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ora', 'family': 'Lassila', 'sequence': 'additional', 'affiliation': []}, {'given': 'David', 'family': 'Martin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Drew', 'family': 'McDermott', 'sequence': 'additional', 'affiliation': []}, {'given': 'Sheila A.', 'family': 'McIlraith', 'sequence': 'additional', 'affiliation': []}, {'given': 'Srini', 'family': 'Narayanan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Massimo', 'family': 'Paolucci', 'sequence': 'additional', 'affiliation': []}, {'given': 'Terry', 'family': 'Payne', 'sequence': 'additional', 'affiliation': []}, {'given': 'Katia', 'family': 'Sycara', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2002, 5, 29]]}, 'container-title': ['The Semantic Web — ISWC 2002', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-48005-6_27', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 20]], 'date-time': '2014-08-20T01:45:05Z', 'timestamp': 1408499105000}, 'score': 75.71292, 'issued': {'date-parts': [[2002]]}, 'ISBN': ['9783540437604', '9783540480051'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-48005-6_27', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('DAML-S: Web Service Description for the Semantic Web', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Jaeger et al., "Ranked matching for service descriptions using DAML-S", Proceedings of CAiSE'04 Workshops, 2004.
+>>> DOI >>> 10.1007/3-540-27301-8_8
+>>> URL >>> http://dx.doi.org/10.1007/3-540-27301-8_8
+>>> year >>> None
+>>> title >>> Ranked Matching for Service Descriptions Using OWL-S
+>>> author >>> Michael C. Jaeger and Gregor Rojec-Goldmann and Christoph Liebetruth and Gero Mühl and Kurt Geihs
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 40.0
+>>> subject >>> None
+>>> container_title >>> ['Kommunikation in Verteilten Systemen (KiVS)', 'Informatik aktuell']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database79.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T23:13:27Z', 'timestamp': 1525475607203}, 'publisher-location': 'Berlin/Heidelberg', 'reference-count': 0, 'publisher': 'Springer-Verlag', 'isbn-type': [{'value': '3540244735', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/3-540-27301-8_8', 'type': 'book-chapter', 'created': {'date-parts': [[2005, 10, 6]], 'date-time': '2005-10-06T23:30:03Z', 'timestamp': 1128641403000}, 'page': '91-102', 'source': 'Crossref', 'is-referenced-by-count': 40, 'title': ['Ranked Matching for Service Descriptions Using OWL-S'], 'prefix': '10.1007', 'author': [{'given': 'Michael C.', 'family': 'Jaeger', 'sequence': 'first', 'affiliation': []}, {'given': 'Gregor', 'family': 'Rojec-Goldmann', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christoph', 'family': 'Liebetruth', 'sequence': 'additional', 'affiliation': []}, {'given': 'Gero', 'family': 'Mühl', 'sequence': 'additional', 'affiliation': []}, {'given': 'Kurt', 'family': 'Geihs', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Kommunikation in Verteilten Systemen (KiVS)', 'Informatik aktuell'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/3-540-27301-8_8', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T19:24:02Z', 'timestamp': 1389036242000}, 'score': 39.648888, 'issued': {'date-parts': [[None]]}, 'ISBN': ['3540244735'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-27301-8_8'}
+>>> hash >>> ('Ranked Matching for Service Descriptions Using OWL-S', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. Sirin et al., "Pellet: An OWL DL reasoner", Journal of Web Semantics, 2005.
+>>> DOI >>> 10.1016/j.websem.2007.03.004
+>>> URL >>> http://dx.doi.org/10.1016/j.websem.2007.03.004
+>>> year >>> 2007.0
+>>> title >>> Pellet: A practical OWL-DL reasoner
+>>> author >>> Evren Sirin and Bijan Parsia and Bernardo Cuenca Grau and Aditya Kalyanpur and Yarden Katz
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 853.0
+>>> subject >>> None
+>>> container_title >>> ['Web Semantics: Science, Services and Agents on the World Wide Web']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database79.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:50Z', 'timestamp': 1528225370058}, 'reference-count': 10, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2007, 6, 1]], 'date-time': '2007-06-01T00:00:00Z', 'timestamp': 1180656000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Web Semantics: Science, Services and Agents on the World Wide Web'], 'published-print': {'date-parts': [[2007, 6]]}, 'DOI': '10.1016/j.websem.2007.03.004', 'type': 'journal-article', 'created': {'date-parts': [[2007, 4, 9]], 'date-time': '2007-04-09T13:03:36Z', 'timestamp': 1176123816000}, 'page': '51-53', 'source': 'Crossref', 'is-referenced-by-count': 853, 'title': ['Pellet: A practical OWL-DL reasoner'], 'prefix': '10.1016', 'volume': '5', 'author': [{'given': 'Evren', 'family': 'Sirin', 'sequence': 'first', 'affiliation': []}, {'given': 'Bijan', 'family': 'Parsia', 'sequence': 'additional', 'affiliation': []}, {'given': 'Bernardo Cuenca', 'family': 'Grau', 'sequence': 'additional', 'affiliation': []}, {'given': 'Aditya', 'family': 'Kalyanpur', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yarden', 'family': 'Katz', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Web Semantics: Science, Services and Agents on the World Wide Web'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1570826807000169?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1570826807000169?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T16:13:00Z', 'timestamp': 1497715980000}, 'score': 54.33926, 'issued': {'date-parts': [[2007, 6]]}, 'references-count': 10, 'journal-issue': {'published-print': {'date-parts': [[2007, 6]]}, 'issue': '2'}, 'alternative-id': ['S1570826807000169'], 'URL': 'http://dx.doi.org/10.1016/j.websem.2007.03.004', 'ISSN': ['1570-8268'], 'issn-type': [{'value': '1570-8268', 'type': 'print'}]}
+>>> hash >>> ('Pellet: A practical OWL-DL reasoner', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Guo et al., "Capability matching of web services based on OWL-S", Proceedings of 16th International Workshop on Database and Expert Systems Applications, 2005.
+>>> DOI >>> 10.1109/dexa.2005.61
+>>> URL >>> http://dx.doi.org/10.1109/dexa.2005.61
+>>> year >>> None
+>>> title >>> Capability Matching of Web Services Based on OWL-S
+>>> author >>> None
+>>> reference_count >>> 14.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ["16th International Workshop on Database and Expert Systems Applications (DEXA'05)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database79.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T05:12:27Z', 'timestamp': 1525324347122}, 'reference-count': 14, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769524249', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/dexa.2005.61', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 10, 11]], 'date-time': '2006-10-11T16:54:11Z', 'timestamp': 1160585651000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Capability Matching of Web Services Based on OWL-S'], 'prefix': '10.1109', 'author': [{'family': 'Ruiqiang Guo', 'sequence': 'first', 'affiliation': []}, {'family': 'Jiajin Le', 'sequence': 'additional', 'affiliation': []}, {'family': 'XiaoLing Xia', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "16th International Workshop on Database and Expert Systems Applications (DEXA'05)", 'location': 'Copenhagen, Denmark'}, 'container-title': ["16th International Workshop on Database and Expert Systems Applications (DEXA'05)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10080/32313/01508347.pdf?arnumber=1508347', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T10:09:05Z', 'timestamp': 1497694145000}, 'score': 87.52895, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769524249'], 'references-count': 14, 'URL': 'http://dx.doi.org/10.1109/dexa.2005.61'}
+>>> hash >>> ('Capability Matching of Web Services Based on OWL-S', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> O. Choi et al., "Extended semantic web services model for automatic integrated framework", NWESP, 2005.
+>>> DOI >>> 10.1109/nwesp.2005.39
+>>> URL >>> http://dx.doi.org/10.1109/nwesp.2005.39
+>>> year >>> None
+>>> title >>> Extended Semantic Web Services Model for Automatic Integrated Framework
+>>> author >>> None
+>>> reference_count >>> 11.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ["International Conference on Next Generation Web Services Practices (NWeSP'05)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database79.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T02:37:52Z', 'timestamp': 1525487872354}, 'reference-count': 11, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769524524', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/nwesp.2005.39', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 2, 15]], 'date-time': '2006-02-15T19:29:31Z', 'timestamp': 1140031771000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Extended Semantic Web Services Model for Automatic Integrated Framework'], 'prefix': '10.1109', 'author': [{'family': 'Okkyung Choi', 'sequence': 'first', 'affiliation': []}, {'family': 'Sangyong Han', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Abraham', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "International Conference on Next Generation Web Services Practices (NWeSP'05)", 'location': 'Seoul, Korea'}, 'container-title': ["International Conference on Next Generation Web Services Practices (NWeSP'05)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10610/33519/01592464.pdf?arnumber=1592464', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 14]], 'date-time': '2017-03-14T20:30:42Z', 'timestamp': 1489523442000}, 'score': 75.24082, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769524524'], 'references-count': 11, 'URL': 'http://dx.doi.org/10.1109/nwesp.2005.39'}
+>>> hash >>> ('Extended Semantic Web Services Model for Automatic Integrated Framework', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Paolucci et al., "Semantic matching of web service capabilities", LNCS International Semantic Web Conference, 2002.
+>>> DOI >>> 10.1007/3-540-48005-6_26
+>>> URL >>> http://dx.doi.org/10.1007/3-540-48005-6_26
+>>> year >>> 2002.0
+>>> title >>> Semantic Matching of Web Services Capabilities
+>>> author >>> Massimo Paolucci and Takahiro Kawamura and Terry R. Payne and Katia Sycara
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 265.0
+>>> subject >>> None
+>>> container_title >>> ['The Semantic Web — ISWC 2002', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database79.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T23:42:28Z', 'timestamp': 1528414948935}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540437604', 'type': 'print'}, {'value': '9783540480051', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.1007/3-540-48005-6_26', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 5, 19]], 'date-time': '2007-05-19T21:15:43Z', 'timestamp': 1179609343000}, 'page': '333-347', 'source': 'Crossref', 'is-referenced-by-count': 265, 'title': ['Semantic Matching of Web Services Capabilities'], 'prefix': '10.1007', 'author': [{'given': 'Massimo', 'family': 'Paolucci', 'sequence': 'first', 'affiliation': []}, {'given': 'Takahiro', 'family': 'Kawamura', 'sequence': 'additional', 'affiliation': []}, {'given': 'Terry R.', 'family': 'Payne', 'sequence': 'additional', 'affiliation': []}, {'given': 'Katia', 'family': 'Sycara', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2002, 5, 29]]}, 'container-title': ['The Semantic Web — ISWC 2002', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-48005-6_26', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 9, 3]], 'date-time': '2014-09-03T22:27:01Z', 'timestamp': 1409783221000}, 'score': 63.207478, 'issued': {'date-parts': [[2002]]}, 'ISBN': ['9783540437604', '9783540480051'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-48005-6_26', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('Semantic Matching of Web Services Capabilities', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Guo et al., "Matching semantic web services across heterogeneous ontologies", International Conference on Computer and Information Technology, 2005.
+>>> DOI >>> 10.1109/cit.2005.140
+>>> URL >>> http://dx.doi.org/10.1109/cit.2005.140
+>>> year >>> 2005.0
+>>> title >>> Matching Semantic Web Services across Heterogeneous Ontologies
+>>> author >>> None
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ["The Fifth International Conference on Computer and Information Technology (CIT'05)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database79.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:29:35Z', 'timestamp': 1525483775685}, 'reference-count': 12, 'publisher': 'IEEE', 'isbn-type': [{'value': '076952432X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1109/cit.2005.140', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 1, 5]], 'date-time': '2006-01-05T14:52:38Z', 'timestamp': 1136472758000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Matching Semantic Web Services across Heterogeneous Ontologies'], 'prefix': '10.1109', 'author': [{'family': 'Ruiqiang Guo', 'sequence': 'first', 'affiliation': []}, {'family': 'Dehua Chen', 'sequence': 'additional', 'affiliation': []}, {'family': 'Jiajin Le', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "The Fifth International Conference on Computer and Information Technology (CIT'05)", 'location': 'Shanghai, China', 'start': {'date-parts': [[2005, 9, 21]]}, 'end': {'date-parts': [[2005, 9, 23]]}}, 'container-title': ["The Fifth International Conference on Computer and Information Technology (CIT'05)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10445/33169/01562661.pdf?arnumber=1562661', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T02:09:17Z', 'timestamp': 1497665357000}, 'score': 80.96946, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['076952432X'], 'references-count': 12, 'URL': 'http://dx.doi.org/10.1109/cit.2005.140'}
+>>> hash >>> ('Matching Semantic Web Services across Heterogeneous Ontologies', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Kuhn, "The Hungarian method for the assignment problem", Naval Research Logistic Quarterly, 1955.
+>>> DOI >>> 10.1002/nav.3800020109
+>>> URL >>> http://dx.doi.org/10.1002/nav.3800020109
+>>> year >>> 1955.0
+>>> title >>> The Hungarian method for the assignment problem
+>>> author >>> H. W. Kuhn
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 2862.0
+>>> subject >>> None
+>>> container_title >>> ['Naval Research Logistics Quarterly']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database79.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T06:02:25Z', 'timestamp': 1528351345849}, 'reference-count': 13, 'publisher': 'Wiley', 'issue': '1-2', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 22099, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Naval Research Logistics'], 'published-print': {'date-parts': [[1955, 3]]}, 'DOI': '10.1002/nav.3800020109', 'type': 'journal-article', 'created': {'date-parts': [[2007, 5, 7]], 'date-time': '2007-05-07T04:06:17Z', 'timestamp': 1178510777000}, 'page': '83-97', 'source': 'Crossref', 'is-referenced-by-count': 2862, 'title': ['The Hungarian method for the assignment problem'], 'prefix': '10.1002', 'volume': '2', 'author': [{'given': 'H. W.', 'family': 'Kuhn', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'reference': [{'key': '10.1002/nav.3800020109-BIB1', 'author': 'König', 'volume': '77', 'first-page': '453', 'year': '1916', 'journal-title': 'Math. Ann.'}, {'key': '10.1002/nav.3800020109-BIB2', 'author': 'Frobenius', 'year': '1917', 'unstructured': '“Über zerlegbare Determinanten,” Sitzungsber., Preuss. Akad. Wiss. (1917) 274–277.'}, {'key': '10.1002/nav.3800020109-BIB3', 'author': 'Egerváry', 'year': '1953', 'unstructured': '“Matrixok kombinatorius tulájdonsigairól.” Mat. Fiz. Lapok (1931) 16–28 (translated as “Combinatorial Properties of Matrices” by H. W. Kuhn, ONR Logistics Project, Princeton (1953), mimeographed).'}, {'key': '10.1002/nav.3800020109-BIB4', 'author': 'Hall', 'volume': '10', 'first-page': '26', 'year': '1935', 'journal-title': 'J. London Math. Soc.'}, {'key': '10.1002/nav.3800020109-BIB5', 'author': 'Easterfield', 'volume': '21', 'first-page': '219', 'year': '1946', 'journal-title': 'J. London Math. Soc.'}, {'key': '10.1002/nav.3800020109-BIB6', 'author': 'Birkhoff', 'volume': 'A5', 'first-page': '147', 'year': '1946', 'journal-title': 'Univ. Nac. Tucumán. Revista'}, {'key': '10.1002/nav.3800020109-BIB7', 'author': 'Thorndike', 'volume': '15', 'first-page': '215', 'year': '1950', 'journal-title': 'Psychometrika'}, {'key': '10.1002/nav.3800020109-BIB8', 'author': 'Dantzig', 'year': '1951', 'unstructured': '“Application of the Simplex Method to a Transportation Problem,” Chapter XXIII in Activity Analysis of Production and Allocation, Cowles Commission Monograph No. 13, ed. T. C. Koopmans, New York, 1951.'}, {'key': '10.1002/nav.3800020109-BIB9', 'author': 'Votaw', 'volume': '10', 'first-page': '155', 'year': '1952', 'journal-title': 'Symposium on Linear Inequalities and Programming, SCOOP'}, {'key': '10.1002/nav.3800020109-BIB10', 'author': 'von Neumann', 'volume': '28', 'first-page': '5', 'year': '1953', 'journal-title': 'Contributions to the Theory of Games II, Ann. Math. Study'}, {'key': '10.1002/nav.3800020109-BIB11', 'author': 'Dwyer', 'volume': '19', 'first-page': '11', 'year': '1954', 'journal-title': 'Psychometrika'}, {'key': '10.1002/nav.3800020109-BIB12', 'author': 'Flood', 'volume': '3', 'first-page': '369', 'year': '1953', 'journal-title': 'Pacific J. Math.', 'DOI': '10.2140/pjm.1953.3.369', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/nav.3800020109-BIB13', 'author': 'Motzkin', 'journal-title': 'Proc. of Sixth Symposium on Applied Mathematics'}], 'container-title': ['Naval Research Logistics Quarterly'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fnav.3800020109', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T17:00:26Z', 'timestamp': 1497718826000}, 'score': 65.782776, 'issued': {'date-parts': [[1955, 3]]}, 'references-count': 13, 'journal-issue': {'published-print': {'date-parts': [[1955, 3]]}, 'issue': '1-2'}, 'URL': 'http://dx.doi.org/10.1002/nav.3800020109', 'relation': {'cites': []}, 'ISSN': ['0028-1441', '1931-9193'], 'issn-type': [{'value': '0028-1441', 'type': 'print'}, {'value': '1931-9193', 'type': 'electronic'}]}
+>>> hash >>> ('The Hungarian method for the assignment problem', 1955.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Martin et al., "OWL-S: Semantic markup for web services", Technical Report Member Submission W3C, 2004.
+>>> DOI >>> 10.21236/ada457387
+>>> URL >>> http://dx.doi.org/10.21236/ada457387
+>>> year >>> 2006.0
+>>> title >>> Semantic Web Services with Web Ontology Language (OWL-S) - Specification of Agent-Services for DARPA Agent Markup Language (DAML)
+>>> author >>> Katia P. Sycara
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database79.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'US Dept of the Air Force', 'place': ['-', '-'], 'department': ['Funding', 'Performing'], 'acronym': ['TR-2006-274', '-']}, 'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T19:45:25Z', 'timestamp': 1525722325754}, 'publisher-location': 'Fort Belvoir, VA', 'reference-count': 0, 'publisher': 'Defense Technical Information Center', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006, 8, 1]]}, 'DOI': '10.21236/ada457387', 'type': 'report', 'created': {'date-parts': [[2017, 8, 1]], 'date-time': '2017-08-01T18:12:36Z', 'timestamp': 1501611156000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Semantic Web Services with Web Ontology Language (OWL-S) - Specification of Agent-Services for DARPA Agent Markup Language (DAML)'], 'prefix': '10.21236', 'author': [{'given': 'Katia P.', 'family': 'Sycara', 'sequence': 'first', 'affiliation': []}], 'member': '9879', 'original-title': [''], 'deposited': {'date-parts': [[2017, 8, 1]], 'date-time': '2017-08-01T18:12:36Z', 'timestamp': 1501611156000}, 'score': 45.520515, 'subtitle': [''], 'issued': {'date-parts': [[2006, 8, 1]]}, 'references-count': 0, 'alternative-id': ['AFRL-IF-RS-TR-2006-274'], 'URL': 'http://dx.doi.org/10.21236/ada457387'}
+>>> hash >>> ('Semantic Web Services with Web Ontology Language (OWL-S) - Specification of Agent-Services for DARPA Agent Markup Language (DAML)', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> I. Horrocks, "Reasoning with expressive Description Logics: Theory and practice", 18th International Conference on Automated Deduction, 2002.
+>>> DOI >>> 10.1007/3-540-45620-1_1
+>>> URL >>> http://dx.doi.org/10.1007/3-540-45620-1_1
+>>> year >>> 2002.0
+>>> title >>> Reasoning with Expressive Description Logics: Theory and Practice
+>>> author >>> Ian Horrocks
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['Automated Deduction—CADE-18', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database79.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:14:00Z', 'timestamp': 1525385640827}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540439318', 'type': 'print'}, {'value': '9783540456209', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.1007/3-540-45620-1_1', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 8, 12]], 'date-time': '2007-08-12T07:18:26Z', 'timestamp': 1186903106000}, 'page': '1-15', 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['Reasoning with Expressive Description Logics: Theory and Practice'], 'prefix': '10.1007', 'author': [{'given': 'Ian', 'family': 'Horrocks', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2002, 7, 4]]}, 'container-title': ['Automated Deduction—CADE-18', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-45620-1_1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 7, 31]], 'date-time': '2014-07-31T03:09:15Z', 'timestamp': 1406776155000}, 'score': 78.95248, 'issued': {'date-parts': [[2002]]}, 'ISBN': ['9783540439318', '9783540456209'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-45620-1_1', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('Reasoning with Expressive Description Logics: Theory and Practice', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. McGuinness et al., The Description Logic handbook: Theory implementation and applications, Cambridge University Press, 2003.
+>>> DOI >>> 10.1017/cbo9780511711787.014
+>>> URL >>> http://dx.doi.org/10.1017/cbo9780511711787.014
+>>> year >>> None
+>>> title >>> Configuration
+>>> author >>> D. L. McGuinness
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['The Description Logic Handbook']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database79.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T06:48:16Z', 'timestamp': 1525330096860}, 'publisher-location': 'Cambridge', 'edition-number': '2', 'reference-count': 0, 'publisher': 'Cambridge University Press', 'isbn-type': [{'value': '9780511711787', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1017/cbo9780511711787.014', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 7, 1]], 'date-time': '2010-07-01T19:07:03Z', 'timestamp': 1278011223000}, 'page': '417-435', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Configuration'], 'prefix': '10.1017', 'author': [{'given': 'D. L.', 'family': 'McGuinness', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'container-title': ['The Description Logic Handbook'], 'deposited': {'date-parts': [[2018, 4, 13]], 'date-time': '2018-04-13T08:18:03Z', 'timestamp': 1523607483000}, 'score': 49.873093, 'editor': [{'given': 'Franz', 'family': 'Baader', 'sequence': 'additional', 'affiliation': []}, {'given': 'Diego', 'family': 'Calvanese', 'sequence': 'additional', 'affiliation': []}, {'given': 'Deborah L.', 'family': 'McGuinness', 'sequence': 'additional', 'affiliation': []}, {'given': 'Daniele', 'family': 'Nardi', 'sequence': 'additional', 'affiliation': []}, {'given': 'Peter F.', 'family': 'Patel-Schneider', 'sequence': 'additional', 'affiliation': []}], 'issued': {'date-parts': [[None]]}, 'ISBN': ['9780511711787'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1017/cbo9780511711787.014'}
+>>> hash >>> ('Configuration', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Phatak et al., "A framework for semantic web services discovery", WIDM, 2005.
+>>> DOI >>> 10.1145/1097047.1097057
+>>> URL >>> http://dx.doi.org/10.1145/1097047.1097057
+>>> year >>> 2005.0
+>>> title >>> A framework for semantic web services discovery
+>>> author >>> Jyotishman Pathak and Neeraj Koul and Doina Caragea and Vasant G. Honavar
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 35.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the seventh ACM international workshop on Web information and data management  - WIDM '05"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database79.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T23:57:25Z', 'timestamp': 1525478245365}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1595931945', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1145/1097047.1097057', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 11, 7]], 'date-time': '2005-11-07T17:34:39Z', 'timestamp': 1131384879000}, 'source': 'Crossref', 'is-referenced-by-count': 35, 'title': ['A framework for semantic web services discovery'], 'prefix': '10.1145', 'author': [{'given': 'Jyotishman', 'family': 'Pathak', 'sequence': 'first', 'affiliation': []}, {'given': 'Neeraj', 'family': 'Koul', 'sequence': 'additional', 'affiliation': []}, {'given': 'Doina', 'family': 'Caragea', 'sequence': 'additional', 'affiliation': []}, {'given': 'Vasant G.', 'family': 'Honavar', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the seventh ACM international workshop', 'location': 'Bremen, Germany', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGIR, ACM Special Interest Group on Information Retrieval'], 'acronym': "WIDM '05", 'number': '7', 'start': {'date-parts': [[2005, 11, 4]]}, 'end': {'date-parts': [[2005, 11, 4]]}}, 'container-title': ["Proceedings of the seventh ACM international workshop on Web information and data management  - WIDM '05"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1097057&amp;ftid=334996&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T11:50:05Z', 'timestamp': 1481889005000}, 'score': 46.99284, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['1595931945'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1097047.1097057'}
+>>> hash >>> ('A framework for semantic web services discovery', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

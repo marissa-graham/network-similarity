@@ -1,0 +1,33 @@
+[0]  Yun Zeng,  Chaohui Wang,  Yang Wang,  Xianfeng Gu,  Dimitris Samaras,  Nikos Paragios, Dense non-rigid surface registration using high-order graph matching
+[1] R. K. Ahuja, T. L. Magnanti, J. B. Orlin, Network Flows: Theory Algorithms and Applications, Prentice Hall, 1993.
+[2] D. Anguelov, P. Srinivasan, H.-C. Pang, D. Koller, S. Thrun, J. Davis, "The correlated correspondence algorithm for unsupervised registration of nonrigid surfaces", NIPS, 2004.
+[3] E. Boros, P. L. Hammer, "Pseudo-boolean optimization", Discrete Applied Mathematics, pp. 1-3, 2002. 
+[4] S. P. Boyd, L. Vandenberghe, Convex Optimization, Cambridge University Press, 2004. 
+[5] A. M. Bronstein, M. M. Bronstein, R. Kimmel, "Generalized multidimensional scaling: a framework for isometry-invariant partial surface matching", Proc. National Academy of Sciences, vol. 103, pp. 1168-1172, 2006. 
+[6] A. M. Bronstein, M. M. Bronstein, R. Kimmel, "Expression invariant representations of faces", IEEE TPAMI, pp. 1042-1053, 2004.
+[7] L. Buatois, G. Caumon, B. Levy, "Concurrent number cruncher: a GPU implementation of a general sparse linear solver", Int. J. Parallel Emerg. Distrib. Syst., vol. 24, no. 3, pp. 205-223, 2009. 
+[8] T. S. Caetano, J. J. McAuley, L. Cheng, Q. V. Le, A. J. Smola, "Learning graph matching", IEEE TPAMI, vol. 31, no. 6, pp. 1048-1058, 2009.
+[9] R. J. Campbell, P. J. Flynn, "A survey of free-form object representation and recognition techniques", Comput. Vis. Image Underst., vol. 81, no. 2, 2001. 
+[10] D. Comaniciu, P. Meer, "Mean shift: A robust approach toward feature space analysis", IEEE TPAMI, vol. 24, no. 5, pp. 603-619, 2002.
+[11] M. Berg de, M. Krefeld van, M. Overmars, O. Schwarzkopf, Computational Geometry: Algorithms and Applications, Springer, 2000.
+[12] M. P. Carmo do, Differential Geometry of Curves and Surfaces, Prentice Hall, 1976.
+[13] O. Duchenne, F. Bach, J. Kweon, J. Ponce, "A tensor-based algorithm for high-order graph matching", CVPR, 2009.
+[14] H. M. Farkas, J. Kra, Riemann Surfaces, Springer, 2004.
+[15] H. Ishikawa, "Higher-order clique reduction in binary graph cut", CVPR, 2009.
+[16] A. Johnson, "Spin-Images: A Representation for 3-D Surface Matching", PhD thesis CMU, 1997.
+[17] V. Kolmogorov, C. Rprint, "Minimizing nonsubmodular functions with graph cuts-a review", IEEE TPAMI, vol. 29, no. 7, pp. 1274-1279, 2007.
+[18] N. Komodakis, N. Paragios, "Beyond pairwise energies: Efficient optimization for higher-order MRFs", CVPR, 2009.
+[19] N. Komodakis, N. Paragios, G. Tziritas, "MRF optimization via dual decomposition: Message-passing revisited", ICCV, 2007.
+[20] N. Komodakis, G. Tziritas, N. Paragios, "Performance vs computational efficiency for optimizing single and dynamic MRFs: Setting the state of the art with primal-dual strategies", Comput. Vis. Image Underst., vol. 112, no. 1, pp. 14-29, 2008. 
+[21] M. Leordeanu, M. Hebert, "A spectral technique for correspondence problems using pairwise constraints", ICCV, pp. 1482-1489, 2005.
+[22] Y. Lipman, T. Funkhouser, "Möbius voting for surface correspondence", ACM Trans. Graph., vol. 28, no. 3, pp. 1-12, 2009.
+[23] U. Pinkall, K. Polthier, "Computing discrete minimal surfaces and their conjugates", Experimental Mathematics, vol. 2, no. 1, pp. 15-36, 1993. 
+[24] A. Sheffer, E. Praun, K. Rose, "Mesh parameterization methods and their applications", Found. Trends. Comput. Graph. Vis., vol. 2, no. 2, pp. 105-171, 2006. 
+[25] R. W. Sumner, J. Popovi Ä, "Deformation transfer for triangle meshes", SIGGRAPH, pp. 399-405, 2004.[26] A. Tevs, M. Bokeloh, M. Wand, A. Schilling, H.-P. Seidel, "Isometric registration of ambiguous and partial data", CVPR, 2009.[27] N. Thorstensen, R. Keriven, "Non-rigid shape matching using geometry and photometry", ACCV, 2009.
+[28] L. Torresani, V. Kolmogorov, C. Rprint, "Feature correspondence via graph matching: Models and global optimization", ECCV, 2008.
+[29] S. Wang, Y. Wang, M. Jin, X. D. Gu, D. Samaras, "Conformal geometry and its applications on 3D shape matching recognition and stitching", IEEE TPAMI, vol. 29, no. 7, pp. 1209-1220, 2007.
+[30] Y. Wang, M. Gupta, S. Zhang, S. Wang, X. Gu, D. Samaras, P. Huang, "High resolution tracking of non-rigid 3D motion of densely sampled data using harmonic maps", ICCV, 2005.
+[31] R. Zass, A. Shashua, "Probabilistic graph and hypergraph matching", CVPR, 2008.
+[32] W. Zeng, Y. Zeng, Y. Wang, X. Yin, X. Gu, D. Samaras, "3D non-rigid surface matching and registration based on holomorphic differentials", ECCV, 2008.
+[33] D. Zhang, M. Hebert, "Harmonic maps and their applications in surface matching", CVPR, 1999.
+[34] H. Zhang, A. Sheffer, D. Cohen-Or, Q. Zhou, O. Kaick van, A. Tagliasacchi, "Deformation-driven shape correspondence", Computer Graphics Forum (SGP), vol. 27, no. 5, pp. 1431-1439, 2008.

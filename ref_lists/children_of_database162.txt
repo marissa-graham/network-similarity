@@ -1,0 +1,721 @@
+>>> NEW PAPER <<<
+>>> citation >>> Harold N. Gabow, Scaling algorithms for network problems, Journal of Computer and System Sciences, v.31 n.2, p.148-168, Sept. 1985  [doi>10.1016/0022-0000(85)90039-X]  	
+>>> DOI >>> 10.1016/0022-0000(85)90039-x
+>>> URL >>> http://dx.doi.org/10.1016/0022-0000(85)90039-x
+>>> year >>> 1985.0
+>>> title >>> Scaling algorithms for network problems
+>>> author >>> Harold N. Garbow
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 82.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Computer and System Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:14:23Z', 'timestamp': 1525392863597}, 'reference-count': 27, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1985, 10, 1]], 'date-time': '1985-10-01T00:00:00Z', 'timestamp': 496972800000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 10151, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Computer and System Sciences'], 'published-print': {'date-parts': [[1985, 10]]}, 'DOI': '10.1016/0022-0000(85)90039-x', 'type': 'journal-article', 'created': {'date-parts': [[2003, 12, 3]], 'date-time': '2003-12-03T11:59:35Z', 'timestamp': 1070452775000}, 'page': '148-168', 'source': 'Crossref', 'is-referenced-by-count': 82, 'title': ['Scaling algorithms for network problems'], 'prefix': '10.1016', 'volume': '31', 'author': [{'given': 'Harold N.', 'family': 'Garbow', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Computer and System Sciences'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:002200008590039X?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:002200008590039X?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T02:39:42Z', 'timestamp': 1497580782000}, 'score': 78.66824, 'issued': {'date-parts': [[1985, 10]]}, 'references-count': 27, 'journal-issue': {'published-print': {'date-parts': [[1985, 10]]}, 'issue': '2'}, 'alternative-id': ['002200008590039X'], 'URL': 'http://dx.doi.org/10.1016/0022-0000(85)90039-x', 'ISSN': ['0022-0000'], 'issn-type': [{'value': '0022-0000', 'type': 'print'}]}
+>>> hash >>> ('Scaling algorithms for network problems', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> EDMONDS, J. Maximum matching and a polyhedron with 0, t-vertices. J. Res. Nat. Bur. Standards 69B (1965), 125-130. 	
+>>> DOI >>> 10.6028/jres.069b.013
+>>> URL >>> http://dx.doi.org/10.6028/jres.069b.013
+>>> year >>> 1965.0
+>>> title >>> Maximum matching and a polyhedron with 0,1-vertices
+>>> author >>> Jack Edmonds
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 598.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Research of the National Bureau of Standards Section B Mathematics and Mathematical Physics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 14]], 'date-time': '2018-05-14T14:02:31Z', 'timestamp': 1526306551443}, 'reference-count': 0, 'publisher': 'National Institute of Standards and Technology (NIST)', 'issue': '1 and 2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J. RES. NATL. BUR. STAN. SECT. B. MATH. MATH. PHYS.'], 'published-print': {'date-parts': [[1965, 1]]}, 'DOI': '10.6028/jres.069b.013', 'type': 'journal-article', 'created': {'date-parts': [[2012, 8, 17]], 'date-time': '2012-08-17T15:49:20Z', 'timestamp': 1345218560000}, 'page': '125', 'source': 'Crossref', 'is-referenced-by-count': 598, 'title': ['Maximum matching and a polyhedron with 0,1-vertices'], 'prefix': '10.6028', 'volume': '69B', 'author': [{'given': 'Jack', 'family': 'Edmonds', 'sequence': 'first', 'affiliation': []}], 'member': '4068', 'container-title': ['Journal of Research of the National Bureau of Standards Section B Mathematics and Mathematical Physics'], 'language': 'en', 'deposited': {'date-parts': [[2018, 3, 6]], 'date-time': '2018-03-06T09:23:28Z', 'timestamp': 1520328208000}, 'score': 64.524376, 'issued': {'date-parts': [[1965, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1965, 1]]}, 'issue': '1 and 2'}, 'URL': 'http://dx.doi.org/10.6028/jres.069b.013', 'ISSN': ['0022-4340'], 'issn-type': [{'value': '0022-4340', 'type': 'print'}]}
+>>> hash >>> ('Maximum matching and a polyhedron with 0,1-vertices', 1965.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Alfred V. Aho , John E. Hopcroft, The Design and Analysis of Computer Algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1974  	
+>>> DOI >>> 10.1002/zamm.19790590233
+>>> URL >>> http://dx.doi.org/10.1002/zamm.19790590233
+>>> year >>> 1979.0
+>>> title >>> Aho, A. V. / Hopcroft, J. E. / Ullman, J. D., The Design and Analysis of Computer Algorithms. London-Amsterdam-Don Mills-Sydney. Addison-Wesley Publ. Comp. 1974 X, 470 S., $ 24,–
+>>> author >>> W. Issel
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['ZAMM - Zeitschrift für Angewandte Mathematik und Mechanik']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T17:44:45Z', 'timestamp': 1525369485974}, 'reference-count': 0, 'publisher': 'Wiley', 'issue': '2', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 13392, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Z. angew. Math. Mech.'], 'published-print': {'date-parts': [[1979]]}, 'DOI': '10.1002/zamm.19790590233', 'type': 'journal-article', 'created': {'date-parts': [[2007, 6, 6]], 'date-time': '2007-06-06T11:48:28Z', 'timestamp': 1181130508000}, 'page': '141-141', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Aho, A. V. / Hopcroft, J. E. / Ullman, J. D., The Design and Analysis of Computer Algorithms. London-Amsterdam-Don Mills-Sydney. Addison-Wesley Publ. Comp. 1974 X, 470 S., $ 24,–'], 'prefix': '10.1002', 'volume': '59', 'author': [{'given': 'W.', 'family': 'Issel', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'container-title': ['ZAMM - Zeitschrift für Angewandte Mathematik und Mechanik'], 'language': 'de', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fzamm.19790590233', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 4, 10]], 'date-time': '2017-04-10T01:26:09Z', 'timestamp': 1491787569000}, 'score': 46.120186, 'issued': {'date-parts': [[1979]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1979]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1002/zamm.19790590233', 'ISSN': ['0044-2267', '1521-4001'], 'issn-type': [{'value': '0044-2267', 'type': 'print'}, {'value': '1521-4001', 'type': 'electronic'}]}
+>>> hash >>> ('Aho, A. V. / Hopcroft, J. E. / Ullman, J. D., The Design and Analysis of Computer Algorithms. London-Amsterdam-Don Mills-Sydney. Addison-Wesley Publ. Comp. 1974 X, 470 S., $ 24,–', 1979.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. V. Goldberg, EFFICIENT GRAPH ALGORITHMS FOR SEQUENTIAL AND PARALLEL COMPUTERS, Massachusetts Institute of Technology, Cambridge, MA, 1987  	
+>>> DOI >>> 10.2172/1018530
+>>> URL >>> http://dx.doi.org/10.2172/1018530
+>>> year >>> 2008.0
+>>> title >>> Massachusetts Institute of Technology Clean Energy Entrepreneurship Prize 2008 Final Report DOE Award # DE-FG36-07GO17110
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'Golden Field Office', 'place': ['Golden, CO (United States)', '-', '-'], 'acronym': ['GFO', '-', '-']}, 'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T09:11:52Z', 'timestamp': 1525425112940}, 'reference-count': 0, 'publisher': 'Office of Scientific and Technical Information  (OSTI)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.2172/1018530', 'type': 'report', 'created': {'date-parts': [[2011, 7, 26]], 'date-time': '2011-07-26T02:09:51Z', 'timestamp': 1311646191000}, 'approved': {'date-parts': [[2011, 7, 25]]}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Massachusetts Institute of Technology Clean Energy Entrepreneurship Prize 2008 Final Report DOE Award # DE-FG36-07GO17110'], 'prefix': '10.2172', 'author': [{'name': 'Massachusetts Institute of Technology, Cambridge, MA', 'sequence': 'first', 'affiliation': []}], 'member': '960', 'published-online': {'date-parts': [[2008, 8, 9]]}, 'deposited': {'date-parts': [[2011, 7, 26]], 'date-time': '2011-07-26T02:09:53Z', 'timestamp': 1311646193000}, 'score': 37.13965, 'issued': {'date-parts': [[2008, 8, 9]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.2172/1018530'}
+>>> hash >>> ('Massachusetts Institute of Technology Clean Energy Entrepreneurship Prize 2008 Final Report DOE Award # DE-FG36-07GO17110', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> BALL, M. O., AND DERIGS, U. An analysis of alternative strategies for lmplementing matching algorithms. Networks 13, 4 (1983), 517-549.  	
+>>> DOI >>> 10.1002/net.3230130406
+>>> URL >>> http://dx.doi.org/10.1002/net.3230130406
+>>> year >>> 1983.0
+>>> title >>> An analysis of alternative strategies for implementing matching algorithms
+>>> author >>> Michael O. Ball and Ulrich Derigs
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 29.0
+>>> subject >>> None
+>>> container_title >>> ['Networks']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T16:17:07Z', 'timestamp': 1525364227924}, 'reference-count': 17, 'publisher': 'Wiley', 'issue': '4', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 11931, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Networks'], 'published-print': {'date-parts': [[1983]]}, 'DOI': '10.1002/net.3230130406', 'type': 'journal-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T17:18:23Z', 'timestamp': 1178903903000}, 'page': '517-549', 'source': 'Crossref', 'is-referenced-by-count': 29, 'title': ['An analysis of alternative strategies for implementing matching algorithms'], 'prefix': '10.1002', 'volume': '13', 'author': [{'given': 'Michael O.', 'family': 'Ball', 'sequence': 'first', 'affiliation': []}, {'given': 'Ulrich', 'family': 'Derigs', 'sequence': 'additional', 'affiliation': []}], 'member': '311', 'reference': [{'key': '10.1002/net.3230130406-BIB1', 'author': 'Aho', 'year': '1974', 'unstructured': ', and , The Design and Analysis of Computer Algorithms. Addison-Wesley, Reading, MA (1974).', 'volume-title': 'The Design and Analysis of Computer Algorithms'}, {'key': '10.1002/net.3230130406-BIB2', 'author': 'Ball', 'unstructured': 'A linear-time algorithm for finding a minimum-weight spanning tree in graphs in which all cycles pass through a single vertex. Unpublished.'}, {'key': '10.1002/net.3230130406-BIB3', 'author': 'Ball', 'unstructured': 'and , A computational study comparing the efficiency of various list structures in matching algorithm. Unpublished.'}, {'key': '10.1002/net.3230130406-BIB4', 'author': 'Ball', 'volume': '17', 'first-page': '4', 'year': '1983', 'journal-title': 'Transportation Sci.'}, {'key': '10.1002/net.3230130406-BIB5', 'author': 'Cunningham', 'volume': '8', 'first-page': '50', 'year': '1976', 'journal-title': 'Math. Programming Study', 'DOI': '10.1007/BFb0121194', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/net.3230130406-BIB6', 'author': 'Derigs', 'volume': '11', 'first-page': '379', 'year': '1981', 'journal-title': 'Networks'}, {'key': '10.1002/net.3230130406-BIB7', 'author': 'Derigs', 'year': '1981', 'unstructured': 'Matching code theory part I: Combinatorial structures and the cardinality matching problem. Working Paper MS/S No. 81–041, College of Business and Management, University of Maryland at College Park (1981).'}, {'key': '10.1002/net.3230130406-BIB8', 'author': 'Derigs', 'year': '1982', 'unstructured': 'Shortest augmenting paths and sensitivity analysis for optimal matchings. Report 82222-OR, Institut für Ökonometrie und Operations Research, Universität Bonn (1982).'}, {'key': '10.1002/net.3230130406-BIB9', 'author': 'Derigs', 'year': '1980', 'unstructured': 'and , On two methods for solving minimal perfect matching problems. In Proceedings of the Second Danish/Polish Mathematical Programming Seminar, J. Krarup and S. Walukiewicz, Eds. (1980), pp. 85–100.'}, {'key': '10.1002/net.3230130406-BIB10', 'author': 'Edmonds', 'volume': '69B', 'first-page': '125', 'year': '1965', 'journal-title': 'J. Res. Natl. Bur. Standards', 'DOI': '10.6028/jres.069B.013', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/net.3230130406-BIB11', 'author': 'Edmonds', 'year': '1974', 'unstructured': 'and , Facets of 1-matching polyhedra. In Hypergraph Seminar, Lecture Notes in Mathematics 411 (1974) 214–242.'}, {'key': '10.1002/net.3230130406-BIB12', 'author': 'Galil', 'year': '1982', 'unstructured': ', and , Priority queries with variable priority and an O(EV log V) algorithm for finding a maximal weighted matching in general graphs. Unpublished manuscript (1982).'}, {'key': '10.1002/net.3230130406-BIB13', 'author': 'Lawler', 'first-page': '217', 'year': '1976', 'unstructured': 'Combinatorial Optimization: Networks and Matroids. Holt, Rinehart and Winston, New York (1976), pp. 217–263.', 'volume-title': 'Combinatorial Optimization: Networks and Matroids'}, {'key': '10.1002/net.3230130406-BIB14', 'author': 'Nemhauser', 'volume': '26', 'first-page': '553', 'year': '1979', 'journal-title': 'Naval Res. Logist. Quart.', 'DOI': '10.1002/nav.3800260401', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/net.3230130406-BIB15', 'author': 'Papadimitriou', 'year': '1976', 'unstructured': 'and , Combinatorial Optimization: Algorithms and Complexity. Prentice-Hall, Englewood Cliffs, NJ (1976).', 'volume-title': 'Combinatorial Optimization: Algorithms and Complexity'}, {'key': '10.1002/net.3230130406-BIB16', 'author': 'Pulleyblank', 'year': '1973', 'unstructured': 'Faces of matching polyhedra. Thesis, University of Waterloo, 1973.'}, {'key': '10.1002/net.3230130406-BIB17', 'author': 'Weber', 'volume': '11', 'first-page': '41', 'year': '1981', 'journal-title': 'Networks'}], 'container-title': ['Networks'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fnet.3230130406', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T17:13:05Z', 'timestamp': 1497719585000}, 'score': 84.847595, 'issued': {'date-parts': [[1983]]}, 'references-count': 17, 'journal-issue': {'published-print': {'date-parts': [[1983]]}, 'issue': '4'}, 'URL': 'http://dx.doi.org/10.1002/net.3230130406', 'relation': {'cites': []}, 'ISSN': ['0028-3045', '1097-0037'], 'issn-type': [{'value': '0028-3045', 'type': 'print'}, {'value': '1097-0037', 'type': 'electronic'}]}
+>>> hash >>> ('An analysis of alternative strategies for implementing matching algorithms', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Harold N. Gabow, Data structures for weighted matching and nearest common ancestors with linking, Proceedings of the first annual ACM-SIAM symposium on Discrete algorithms, p.434-443, January 22-24, 1990, San Francisco, California, USA 	
+>>> DOI >>> 10.1145/3108240
+>>> URL >>> http://dx.doi.org/10.1145/3108240
+>>> year >>> 2017.0
+>>> title >>> A Data Structure for Nearest Common Ancestors with Linking
+>>> author >>> Harold N. Gabow
+>>> reference_count >>> 20.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['ACM Transactions on Algorithms']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T00:23:41Z', 'timestamp': 1525739021493}, 'reference-count': 20, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '4', 'license': [{'URL': 'http://www.acm.org/publications/policies/copyright_policy#Background', 'start': {'date-parts': [[2017, 9, 19]], 'date-time': '2017-09-19T00:00:00Z', 'timestamp': 1505779200000}, 'delay-in-days': 0, 'content-version': 'vor'}], 'funder': [{'name': 'NSF', 'award': ['CCR-8815636']}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['TALG', 'ACM Trans. Algorithms'], 'published-print': {'date-parts': [[2017, 9, 19]]}, 'DOI': '10.1145/3108240', 'type': 'journal-article', 'created': {'date-parts': [[2017, 9, 20]], 'date-time': '2017-09-20T12:35:19Z', 'timestamp': 1505910919000}, 'page': '1-28', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['A Data Structure for Nearest Common Ancestors with Linking'], 'prefix': '10.1145', 'volume': '13', 'author': [{'given': 'Harold N.', 'family': 'Gabow', 'sequence': 'first', 'affiliation': [{'name': 'University of Colorado at Boulder, Boulder, Colorado, USA'}]}], 'member': '320', 'reference': [{'key': 'key-10.1145/3108240-1', 'unstructured': 'A. V. Aho, J. E. Hopcroft, and J. D. Ullman. 1976. On finding lowest common ancestors in trees. SIAM J. Comput. 5 (1976), 115--132', 'DOI': '10.1137/0205011', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3108240-2', 'unstructured': 'M. A. Bender and M. Farach-Colton. 2000. The LCA problem revisited. Latin American Theoretical INformatics (LATIN) 2000 (2000), 88--94.', 'DOI': '10.1007/10719839_9', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3108240-3', 'unstructured': 'O. Berkman and U. Vishkin. 1993. Recursive star-tree parallel data structure. SIAM J. Comput. 22, 2 (1993), 221--242.', 'DOI': '10.1137/0222017', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3108240-4', 'unstructured': 'R. Cole and R. Hariharan. 2005. Dynamic LCA queries on trees. SIAM J. Comput. 34, 4 (2005), 894--923.', 'DOI': '10.1137/S0097539700370539', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3108240-5', 'unstructured': 'T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein. 2001. Introduction to Algorithms (2nd ed.). McGraw--Hill, New York.'}, {'key': 'key-10.1145/3108240-6', 'unstructured': 'J. Edmonds. 1965. Maximum matching and a polyhedron with 0,1-vertices. J. Res. Nat. Bur. Standards 69B (1965), 125--130.', 'DOI': '10.6028/jres.069B.013', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3108240-7', 'unstructured': 'H. N. Gabow. 1985. A scaling algorithm for weighted matching on general graphs. In Proc. 26th Annual Symp. on Found. of Comp. Sci. IEEE Computer Society, Long Beach, CA, 90--100.', 'DOI': '10.1109/SFCS.1985.3', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3108240-8', 'unstructured': 'H. N. Gabow. 1990. Data structures for weighted matching and nearest common ancestors with linking. In Proc. 1st Annual ACM-SIAM Symp. on Disc. Algorithms. SIAM, Philadelphia, PA, 434--443.'}, {'key': 'key-10.1145/3108240-9', 'unstructured': 'H. N. Gabow. 2016. Data structures for weighted matching and extensions to b-matching and f-factors. (2016). Available at https://arxiv.org/abs/1611.07541.'}, {'key': 'key-10.1145/3108240-10', 'unstructured': 'H. N. Gabow and M. Stallmann. 1985. Efficient algorithms for graphic matroid intersection and parity. In Automata, Languages and Programming: 12th Colloquium; Lecture Notes in Computer Science 194, W. Brauer (Ed.). Springer-Verlag, 210--220.', 'DOI': '10.1007/BFb0015746', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3108240-11', 'unstructured': 'H. N. Gabow and R. E. Tarjan. 1985. A linear--time algorithm for a special case of disjoint set union. J. Comp. and System Sci. 30, 2 (1985), 209--221.', 'DOI': '10.1016/0022-0000(85)90014-5', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3108240-12', 'unstructured': 'D. Gusfield. 1999. Algorithms on Strings, Trees, and Sequences. Cambridge University Press, New York.'}, {'key': 'key-10.1145/3108240-13', 'unstructured': 'D. Harel and R. E. Tarjan. 1984. Fast algorithms for finding nearest common ancestors. SIAM J. Comput. 13, 2 (1984), 338--355.', 'DOI': '10.1137/0213024', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3108240-14', 'unstructured': 'J. A. La Poutr&#x000E9;. 1990. New techniques for the union-find problem. In Proc. 1st Annual ACM-SIAM Symp. on Disc. Algorithms. SIAM, Philadelphia, PA, 54--63.'}, {'key': 'key-10.1145/3108240-15', 'unstructured': 'B. Schieber and U. Vishkin. 1988. On finding lowest common ancestors: Simplification and parallelization. SIAM J. Comput. 17, 6 (1988), 1253--1262.', 'DOI': '10.1137/0217079', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3108240-16', 'unstructured': 'A. Schrijver. 2003. Combinatorial Optimization: Polyhedra and Efficiency. Springer, New York.'}, {'key': 'key-10.1145/3108240-17', 'unstructured': 'D. D. Sleator and R. E. Tarjan. 1983. A data structure for dynamic trees. J. Comp. and System Sci. 26 (1983), 362--391.', 'DOI': '10.1016/0022-0000(83)90006-5', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3108240-18', 'unstructured': 'B. Smyth. 2003. Computing Patterns in Strings. Pearson Education Limited, Harlow, England.'}, {'key': 'key-10.1145/3108240-19', 'unstructured': 'R. E. Tarjan. 1979. Applications of path compression on balanced trees. J. ACM 26, 4 (1979), 690--715.', 'DOI': '10.1145/322154.322161', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3108240-20', 'unstructured': 'R. E. Tarjan. 1983. Data Structures and Network Algorithms. SIAM, Philadelphia, PA.', 'DOI': '10.1137/1.9781611970265', 'doi-asserted-by': 'crossref'}], 'container-title': ['ACM Transactions on Algorithms'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=3108240&ftid=1908300&dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 21]], 'date-time': '2017-12-21T17:04:24Z', 'timestamp': 1513875864000}, 'score': 70.565254, 'issued': {'date-parts': [[2017, 9, 19]]}, 'references-count': 20, 'journal-issue': {'published-print': {'date-parts': [[2017, 12, 21]]}, 'issue': '4'}, 'URL': 'http://dx.doi.org/10.1145/3108240', 'relation': {'cites': []}, 'ISSN': ['1549-6325'], 'issn-type': [{'value': '1549-6325', 'type': 'print'}]}
+>>> hash >>> ('A Data Structure for Nearest Common Ancestors with Linking', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. N. Gabow , R. E. Tarjan, Faster scaling algorithms for network problems, SIAM Journal on Computing, v.18 n.5, p.1013-1036, Oct. 1989  [doi>10.1137/0218069]  	
+>>> DOI >>> 10.1137/0218069
+>>> URL >>> http://dx.doi.org/10.1137/0218069
+>>> year >>> 1989.0
+>>> title >>> Faster Scaling Algorithms for Network Problems
+>>> author >>> Harold N. Gabow and Robert E. Tarjan
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 128.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:29:51Z', 'timestamp': 1525444191739}, 'reference-count': 19, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[1989, 10]]}, 'DOI': '10.1137/0218069', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 24]], 'date-time': '2005-02-24T11:32:44Z', 'timestamp': 1109244764000}, 'page': '1013-1036', 'source': 'Crossref', 'is-referenced-by-count': 128, 'title': ['Faster Scaling Algorithms for Network Problems'], 'prefix': '10.1137', 'volume': '18', 'author': [{'given': 'Harold N.', 'family': 'Gabow', 'sequence': 'first', 'affiliation': []}, {'given': 'Robert E.', 'family': 'Tarjan', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0218069', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T16:14:22Z', 'timestamp': 1497629662000}, 'score': 89.34559, 'issued': {'date-parts': [[1989, 10]]}, 'references-count': 19, 'journal-issue': {'published-print': {'date-parts': [[1989, 10]]}, 'issue': '5'}, 'alternative-id': ['10.1137/0218069'], 'URL': 'http://dx.doi.org/10.1137/0218069', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('Faster Scaling Algorithms for Network Problems', 1989.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Andrew V. Goldberg , Robert E. Tarjan, Finding minimum-cost circulations by successive approximation, Mathematics of Operations Research, v.15 n.3, p.430-466, Aug. 1990  [doi>10.1287/moor.15.3.430]  	
+>>> DOI >>> 10.1287/moor.15.3.430
+>>> URL >>> http://dx.doi.org/10.1287/moor.15.3.430
+>>> year >>> 1990.0
+>>> title >>> Finding Minimum-Cost Circulations by Successive Approximation
+>>> author >>> Andrew V. Goldberg and Robert E. Tarjan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 116.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematics of Operations Research']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T15:35:10Z', 'timestamp': 1525448110997}, 'reference-count': 0, 'publisher': 'Institute for Operations Research and the Management Sciences (INFORMS)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Mathematics of OR'], 'published-print': {'date-parts': [[1990, 8]]}, 'DOI': '10.1287/moor.15.3.430', 'type': 'journal-article', 'created': {'date-parts': [[2008, 10, 31]], 'date-time': '2008-10-31T22:43:38Z', 'timestamp': 1225493018000}, 'page': '430-466', 'source': 'Crossref', 'is-referenced-by-count': 116, 'title': ['Finding Minimum-Cost Circulations by Successive Approximation'], 'prefix': '10.1287', 'volume': '15', 'author': [{'given': 'Andrew V.', 'family': 'Goldberg', 'sequence': 'first', 'affiliation': []}, {'given': 'Robert E.', 'family': 'Tarjan', 'sequence': 'additional', 'affiliation': []}], 'member': '109', 'container-title': ['Mathematics of Operations Research'], 'language': 'en', 'link': [{'URL': 'https://pubsonline.informs.org/doi/pdf/10.1287/moor.15.3.430', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 7, 7]], 'date-time': '2017-07-07T15:09:45Z', 'timestamp': 1499440185000}, 'score': 106.58918, 'issued': {'date-parts': [[1990, 8]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1990, 8]]}, 'issue': '3'}, 'alternative-id': ['10.1287/moor.15.3.430'], 'URL': 'http://dx.doi.org/10.1287/moor.15.3.430', 'ISSN': ['0364-765X', '1526-5471'], 'issn-type': [{'value': '0364-765X', 'type': 'print'}, {'value': '1526-5471', 'type': 'electronic'}]}
+>>> hash >>> ('Finding Minimum-Cost Circulations by Successive Approximation', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> HOPCROFT, J., AND KARP, R. An n5'~ algorithm tbr maximum matchings in bipartite graphs, SIAM J. Comput., 2, 4 (1973), 225-231.  	
+>>> DOI >>> 10.1137/0202019
+>>> URL >>> http://dx.doi.org/10.1137/0202019
+>>> year >>> 1973.0
+>>> title >>> An $n^{5/2} $ Algorithm for Maximum Matchings in Bipartite Graphs
+>>> author >>> John E. Hopcroft and Richard M. Karp
+>>> reference_count >>> 5.0
+>>> is_referenced_by_count >>> 1032.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 1]], 'date-time': '2018-06-01T23:22:30Z', 'timestamp': 1527895350940}, 'reference-count': 5, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[1973, 12]]}, 'DOI': '10.1137/0202019', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 24]], 'date-time': '2005-02-24T10:53:55Z', 'timestamp': 1109242435000}, 'page': '225-231', 'source': 'Crossref', 'is-referenced-by-count': 1032, 'title': ['An $n^{5/2} $ Algorithm for Maximum Matchings in Bipartite Graphs'], 'prefix': '10.1137', 'volume': '2', 'author': [{'given': 'John E.', 'family': 'Hopcroft', 'sequence': 'first', 'affiliation': []}, {'given': 'Richard M.', 'family': 'Karp', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0202019', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T16:12:52Z', 'timestamp': 1485706372000}, 'score': 88.7112, 'issued': {'date-parts': [[1973, 12]]}, 'references-count': 5, 'journal-issue': {'published-print': {'date-parts': [[1973, 12]]}, 'issue': '4'}, 'alternative-id': ['10.1137/0202019'], 'URL': 'http://dx.doi.org/10.1137/0202019', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('An $n^{5/2} $ Algorithm for Maximum Matchings in Bipartite Graphs', 1973.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Jack Edmonds , Richard M. Karp, Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems, Journal of the ACM (JACM), v.19 n.2, p.248-264, April 1972  [doi>10.1145/321694.321699] 	
+>>> DOI >>> 10.1145/321694.321699
+>>> URL >>> http://dx.doi.org/10.1145/321694.321699
+>>> year >>> 1972.0
+>>> title >>> Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems
+>>> author >>> Jack Edmonds and Richard M. Karp
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 887.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T08:42:28Z', 'timestamp': 1528447348693}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JACM', 'J. ACM'], 'published-print': {'date-parts': [[1972, 4, 1]]}, 'DOI': '10.1145/321694.321699', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:26:10Z', 'timestamp': 1027769170000}, 'page': '248-264', 'source': 'Crossref', 'is-referenced-by-count': 887, 'title': ['Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems'], 'prefix': '10.1145', 'volume': '19', 'author': [{'given': 'Jack', 'family': 'Edmonds', 'sequence': 'first', 'affiliation': []}, {'given': 'Richard M.', 'family': 'Karp', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['Journal of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=321699&amp;ftid=58475&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T06:07:05Z', 'timestamp': 1481868425000}, 'score': 95.53635, 'issued': {'date-parts': [[1972, 4, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1145/321694.321699', 'ISSN': ['0004-5411'], 'issn-type': [{'value': '0004-5411', 'type': 'print'}]}
+>>> hash >>> ('Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems', 1972.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Zvi Galil , Silvio Micali , Harold Gabow, An O(EV log V) algorithm for finding a maximal weighted matching in general graphs, SIAM Journal on Computing, v.15 n.1, p.120-130, Feb. 1986  [doi>10.1137/0215009]  	
+>>> DOI >>> 10.1137/0215009
+>>> URL >>> http://dx.doi.org/10.1137/0215009
+>>> year >>> 1986.0
+>>> title >>> An $O(EV\log V)$ Algorithm for Finding a Maximal Weighted Matching in General Graphs
+>>> author >>> Zvi Galil and Silvio Micali and Harold Gabow
+>>> reference_count >>> 7.0
+>>> is_referenced_by_count >>> 41.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 4]], 'date-time': '2018-06-04T14:02:29Z', 'timestamp': 1528120949774}, 'reference-count': 7, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[1986, 2]]}, 'DOI': '10.1137/0215009', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 24]], 'date-time': '2005-02-24T11:28:10Z', 'timestamp': 1109244490000}, 'page': '120-130', 'source': 'Crossref', 'is-referenced-by-count': 41, 'title': ['An $O(EV\\log V)$ Algorithm for Finding a Maximal Weighted Matching in General Graphs'], 'prefix': '10.1137', 'volume': '15', 'author': [{'given': 'Zvi', 'family': 'Galil', 'sequence': 'first', 'affiliation': []}, {'given': 'Silvio', 'family': 'Micali', 'sequence': 'additional', 'affiliation': []}, {'given': 'Harold', 'family': 'Gabow', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0215009', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T17:19:28Z', 'timestamp': 1485710368000}, 'score': 124.91614, 'issued': {'date-parts': [[1986, 2]]}, 'references-count': 7, 'journal-issue': {'published-print': {'date-parts': [[1986, 2]]}, 'issue': '1'}, 'alternative-id': ['10.1137/0215009'], 'URL': 'http://dx.doi.org/10.1137/0215009', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('An $O(EV\\log V)$ Algorithm for Finding a Maximal Weighted Matching in General Graphs', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Wr.:BER, G.M. Sensitwaty analysis of optimal match~ngs, Networks 11 (1981), 41-56.
+>>> DOI >>> 10.1002/net.3230110105
+>>> URL >>> http://dx.doi.org/10.1002/net.3230110105
+>>> year >>> 1981.0
+>>> title >>> Sensitivity analysis of optimal matchings
+>>> author >>> G. M. Weber
+>>> reference_count >>> 6.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['Networks']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T16:14:16Z', 'timestamp': 1525364056773}, 'reference-count': 6, 'publisher': 'Wiley', 'issue': '1', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 12661, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Networks'], 'published-print': {'date-parts': [[1981]]}, 'DOI': '10.1002/net.3230110105', 'type': 'journal-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T11:46:54Z', 'timestamp': 1178884014000}, 'page': '41-56', 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['Sensitivity analysis of optimal matchings'], 'prefix': '10.1002', 'volume': '11', 'author': [{'given': 'G. M.', 'family': 'Weber', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'reference': [{'key': '10.1002/net.3230110105-BIB1', 'author': 'Cunningham', 'volume': '8', 'first-page': '50', 'year': '1978', 'journal-title': 'Math. Program. Study', 'DOI': '10.1007/BFb0121194', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/net.3230110105-BIB2', 'author': 'Edmonds', 'volume': '17', 'first-page': '449', 'year': '1965', 'journal-title': 'Canad. J. Math.', 'DOI': '10.4153/CJM-1965-045-4', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/net.3230110105-BIB3', 'author': 'Edmonds', 'volume': '69B', 'first-page': '125', 'year': '1965', 'journal-title': 'J. Res. Nat. Bur. Stand.', 'DOI': '10.6028/jres.069B.013', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/net.3230110105-BIB4', 'author': 'Edmonds', 'year': '1967', 'unstructured': '“An Introduction to Matching,” notes on lecutres given at Ann Arbor, Michigan, 1967.'}, {'key': '10.1002/net.3230110105-BIB5', 'author': 'Edmonds', 'year': '1975', 'unstructured': 'private communication with G. L. Nemhauser, 1975.'}, {'key': '10.1002/net.3230110105-BIB6', 'author': 'Nemhauser', 'volume': '26', 'first-page': '553', 'year': '1979', 'journal-title': 'Nav. Res. Log. Q.', 'DOI': '10.1002/nav.3800260401', 'doi-asserted-by': 'crossref'}], 'container-title': ['Networks'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fnet.3230110105', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T17:11:39Z', 'timestamp': 1497719499000}, 'score': 41.307594, 'issued': {'date-parts': [[1981]]}, 'references-count': 6, 'journal-issue': {'published-print': {'date-parts': [[1981]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1002/net.3230110105', 'relation': {'cites': []}, 'ISSN': ['0028-3045', '1097-0037'], 'issn-type': [{'value': '0028-3045', 'type': 'print'}, {'value': '1097-0037', 'type': 'electronic'}]}
+>>> hash >>> ('Sensitivity analysis of optimal matchings', 1981.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> GABOW, H.N. A scaling algorithm for weighted matching on general graphs. In Proceedings of the 26th Annual Symposium on Foundations of Computer Science. IEEE, New York, 1985, pp. 90-100.  	
+>>> DOI >>> 10.1109/sfcs.1985.3
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1985.3
+>>> year >>> 1985.0
+>>> title >>> A scaling algorithm for weighted matching on general graphs
+>>> author >>> Harold N. Gabow
+>>> reference_count >>> 35.0
+>>> is_referenced_by_count >>> 18.0
+>>> subject >>> None
+>>> container_title >>> ['26th Annual Symposium on Foundations of Computer Science (sfcs 1985)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:30:52Z', 'timestamp': 1525437052704}, 'reference-count': 35, 'publisher': 'IEEE', 'isbn-type': [{'value': '0818606444', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1985]]}, 'DOI': '10.1109/sfcs.1985.3', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 31]], 'date-time': '2008-07-31T15:59:13Z', 'timestamp': 1217519953000}, 'source': 'Crossref', 'is-referenced-by-count': 18, 'title': ['A scaling algorithm for weighted matching on general graphs'], 'prefix': '10.1109', 'author': [{'given': 'Harold N.', 'family': 'Gabow', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'event': {'name': '26th Annual Symposium on Foundations of Computer Science (sfcs 1985)', 'location': 'Portland, OR, USA', 'start': {'date-parts': [[1985, 10, 21]]}, 'end': {'date-parts': [[1985, 10, 23]]}}, 'container-title': ['26th Annual Symposium on Foundations of Computer Science (sfcs 1985)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4568115/4568116/04568132.pdf?arnumber=4568132', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T10:32:10Z', 'timestamp': 1497781930000}, 'score': 96.539055, 'issued': {'date-parts': [[1985]]}, 'ISBN': ['0818606444'], 'references-count': 35, 'URL': 'http://dx.doi.org/10.1109/sfcs.1985.3'}
+>>> hash >>> ('A scaling algorithm for weighted matching on general graphs', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Harold N. Gabow , Zvi Galil , Thomas H. Spencer, Efficient implementation of graph algorithms using contraction, Journal of the ACM (JACM), v.36 n.3, p.540-572, July 1989  [doi>10.1145/65950.65954]  	
+>>> DOI >>> 10.1145/65950.65954
+>>> URL >>> http://dx.doi.org/10.1145/65950.65954
+>>> year >>> 1989.0
+>>> title >>> Efficient implementation of graph algorithms using contraction
+>>> author >>> Harold N. Gabow and Zvi Galil and Thomas H. Spencer
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 22.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:11:49Z', 'timestamp': 1525335109412}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JACM', 'J. ACM'], 'published-print': {'date-parts': [[1989, 7, 1]]}, 'DOI': '10.1145/65950.65954', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:25:57Z', 'timestamp': 1027769157000}, 'page': '540-572', 'source': 'Crossref', 'is-referenced-by-count': 22, 'title': ['Efficient implementation of graph algorithms using contraction'], 'prefix': '10.1145', 'volume': '36', 'author': [{'given': 'Harold N.', 'family': 'Gabow', 'sequence': 'first', 'affiliation': []}, {'given': 'Zvi', 'family': 'Galil', 'sequence': 'additional', 'affiliation': []}, {'given': 'Thomas H.', 'family': 'Spencer', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['Journal of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=65954&amp;ftid=19135&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T20:19:06Z', 'timestamp': 1481833146000}, 'score': 102.02784, 'issued': {'date-parts': [[1989, 7, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1145/65950.65954', 'ISSN': ['0004-5411'], 'issn-type': [{'value': '0004-5411', 'type': 'print'}]}
+>>> hash >>> ('Efficient implementation of graph algorithms using contraction', 1989.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Pravin Vaidya, Geometry helps in matching, Proceedings of the twentieth annual ACM symposium on Theory of computing, p.422-425, May 02-04, 1988, Chicago, Illinois, USA  [doi>10.1145/62212.62253]  	
+>>> DOI >>> 10.1145/62212.62253
+>>> URL >>> http://dx.doi.org/10.1145/62212.62253
+>>> year >>> 1988.0
+>>> title >>> Geometry helps in matching
+>>> author >>> Pravin Vaidya
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the twentieth annual ACM symposium on Theory of computing  - STOC '88"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:43Z', 'timestamp': 1525392403193}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897912640', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1988]]}, 'DOI': '10.1145/62212.62253', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Geometry helps in matching'], 'prefix': '10.1145', 'author': [{'given': 'Pravin', 'family': 'Vaidya', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'event': {'name': 'the twentieth annual ACM symposium', 'location': 'Chicago, Illinois, United States', 'sponsor': ['SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '88", 'number': '20', 'start': {'date-parts': [[1988, 5, 2]]}, 'end': {'date-parts': [[1988, 5, 4]]}}, 'container-title': ["Proceedings of the twentieth annual ACM symposium on Theory of computing  - STOC '88"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=62253&amp;ftid=6028&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T20:43:01Z', 'timestamp': 1481834581000}, 'score': 75.22497, 'issued': {'date-parts': [[1988]]}, 'ISBN': ['0897912640'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/62212.62253'}
+>>> hash >>> ('Geometry helps in matching', 1988.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Harold N. Gabow, An Efficient Implementation of Edmonds' Algorithm for Maximum Matching on Graphs, Journal of the ACM (JACM), v.23 n.2, p.221-234, April 1976  [doi>10.1145/321941.321942]  	
+>>> DOI >>> 10.1145/321941.321942
+>>> URL >>> http://dx.doi.org/10.1145/321941.321942
+>>> year >>> 1976.0
+>>> title >>> An Efficient Implementation of Edmonds' Algorithm for Maximum Matching on Graphs
+>>> author >>> Harold N. Gabow
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 155.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:11:48Z', 'timestamp': 1525335108833}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JACM', 'J. ACM'], 'published-print': {'date-parts': [[1976, 4, 1]]}, 'DOI': '10.1145/321941.321942', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:26:13Z', 'timestamp': 1027769173000}, 'page': '221-234', 'source': 'Crossref', 'is-referenced-by-count': 155, 'title': ["An Efficient Implementation of Edmonds' Algorithm for Maximum Matching on Graphs"], 'prefix': '10.1145', 'volume': '23', 'author': [{'given': 'Harold N.', 'family': 'Gabow', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'container-title': ['Journal of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=321942&amp;ftid=7466&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T20:47:19Z', 'timestamp': 1481834839000}, 'score': 93.49295, 'issued': {'date-parts': [[1976, 4, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1145/321941.321942', 'ISSN': ['0004-5411'], 'issn-type': [{'value': '0004-5411', 'type': 'print'}]}
+>>> hash >>> ("An Efficient Implementation of Edmonds' Algorithm for Maximum Matching on Graphs", 1976.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> CHRISTOFIDES, N. Worst-case analysis of a new heuristic for the travelling salesman problem. Technical Report, Graduate School of Industrial Administration, Carnegie-Mellon Univ., Pittsburgh, Pa., 1976.  	
+>>> DOI >>> 10.2172/5264558
+>>> URL >>> http://dx.doi.org/10.2172/5264558
+>>> year >>> 1980.0
+>>> title >>> Development of a Foam OTEC System. Final technical report for Fiscal Year 1979
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'Oak Ridge National Laboratory (ORNL)', 'place': ['Oak Ridge, TN (United States)', '-', '-'], 'acronym': ['ORNL', '-', '-']}, 'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T19:24:50Z', 'timestamp': 1525721090954}, 'reference-count': 0, 'publisher': 'Office of Scientific and Technical Information  (OSTI)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.2172/5264558', 'type': 'report', 'created': {'date-parts': [[2013, 6, 22]], 'date-time': '2013-06-22T02:36:00Z', 'timestamp': 1371868560000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Development of a Foam OTEC System. Final technical report for Fiscal Year 1979'], 'prefix': '10.2172', 'author': [{'name': 'Carnegie-Mellon Univ., Pittsburgh, PA (USA)', 'sequence': 'first', 'affiliation': []}], 'member': '960', 'published-online': {'date-parts': [[1980, 1, 1]]}, 'deposited': {'date-parts': [[2013, 6, 22]], 'date-time': '2013-06-22T02:36:01Z', 'timestamp': 1371868561000}, 'score': 64.046486, 'issued': {'date-parts': [[1980, 1, 1]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.2172/5264558'}
+>>> hash >>> ('Development of a Foam OTEC System. Final technical report for Fiscal Year 1979', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> CUNNINGHAM, W. H., AND MARSH, A. B. III. A primal algorithm for optimum matching. Math. Prog. Stud. 8 (1978), 50-72.  	
+>>> DOI >>> 10.1007/bfb0121194
+>>> URL >>> http://dx.doi.org/10.1007/bfb0121194
+>>> year >>> 1978.0
+>>> title >>> A primal algorithm for optimum matching
+>>> author >>> W. H. Cunningham and A. B. Marsh
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 71.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematical Programming Studies', 'Polyhedral Combinatorics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T03:42:49Z', 'timestamp': 1525491769476}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642007897', 'type': 'print'}, {'value': '9783642007903', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1978]]}, 'DOI': '10.1007/bfb0121194', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 2, 22]], 'date-time': '2012-02-22T21:58:12Z', 'timestamp': 1329947892000}, 'page': '50-72', 'source': 'Crossref', 'is-referenced-by-count': 71, 'title': ['A primal algorithm for optimum matching'], 'prefix': '10.1007', 'author': [{'given': 'W. H.', 'family': 'Cunningham', 'sequence': 'first', 'affiliation': []}, {'given': 'A. B.', 'family': 'Marsh', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2009, 2, 27]]}, 'container-title': ['Mathematical Programming Studies', 'Polyhedral Combinatorics'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BFb0121194', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2012, 2, 22]], 'date-time': '2012-02-22T21:59:29Z', 'timestamp': 1329947969000}, 'score': 66.49483, 'issued': {'date-parts': [[1978]]}, 'ISBN': ['9783642007897', '9783642007903'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/bfb0121194', 'ISSN': ['0303-3929'], 'issn-type': [{'value': '0303-3929', 'type': 'print'}]}
+>>> hash >>> ('A primal algorithm for optimum matching', 1978.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> MICAL., S., AND V~ZIRAN~, V V. An O( V/{ V} " I El) algorithm for finding maximum matching m general graphs. In Proceedings of the 21st Annual Symposium on the Foundations of Computer Science. IEEE, New York, 1980, pp. I7-27.  	
+>>> DOI >>> 10.1109/sfcs.1980.12
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1980.12
+>>> year >>> 1980.0
+>>> title >>> An O(v|v| c |E|) algoithm for finding maximum matching in general graphs
+>>> author >>> Silvio Micali and Vijay V. Vazirani
+>>> reference_count >>> 8.0
+>>> is_referenced_by_count >>> 31.0
+>>> subject >>> None
+>>> container_title >>> ['21st Annual Symposium on Foundations of Computer Science (sfcs 1980)']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 30]], 'date-time': '2018-05-30T15:22:44Z', 'timestamp': 1527693764302}, 'reference-count': 8, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1980, 10]]}, 'DOI': '10.1109/sfcs.1980.12', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 31]], 'date-time': '2008-07-31T14:36:36Z', 'timestamp': 1217514996000}, 'source': 'Crossref', 'is-referenced-by-count': 31, 'title': ['An O(v|v| c |E|) algoithm for finding maximum matching in general graphs'], 'prefix': '10.1109', 'author': [{'given': 'Silvio', 'family': 'Micali', 'sequence': 'first', 'affiliation': []}, {'given': 'Vijay V.', 'family': 'Vazirani', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '21st Annual Symposium on Foundations of Computer Science (sfcs 1980)', 'location': 'Syracuse, NY, USA', 'start': {'date-parts': [[1980, 10, 13]]}, 'end': {'date-parts': [[1980, 10, 15]]}}, 'container-title': ['21st Annual Symposium on Foundations of Computer Science (sfcs 1980)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4567793/4567794/04567800.pdf?arnumber=4567800', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T10:31:42Z', 'timestamp': 1497781902000}, 'score': 66.70539, 'issued': {'date-parts': [[1980, 10]]}, 'references-count': 8, 'URL': 'http://dx.doi.org/10.1109/sfcs.1980.12'}
+>>> hash >>> ('An O(v|v| c |E|) algoithm for finding maximum matching in general graphs', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> LAWLER, E. L. Combinatorial Optimization: Networks and Matroids. Holt, Rinehart and Winston, New York, 1976.  	
+>>> DOI >>> 10.1207/s15328023top0402_18
+>>> URL >>> http://dx.doi.org/10.1207/s15328023top0402_18
+>>> year >>> 1977.0
+>>> title >>> Principles' PrincipalsBourneL. E.Jr.EkstrandB. R.Psychology: Its Principles and Meanings (2nd ed.). New York: Holt, Rinehart, and Winston, 1976 Pp. 540.McClellandLouInstructor's Manual to accompany Psychology: Its Principles and Meanings (2nd ed.). New York: Holt, Rinehart, and Winston, 1976.SmithDanielDallingerJaneStudent Workbook to accompany Psychology: Its Principles and Meanings (2nd ed.). New York: Holt, Rinehart, and Winston, 1976 Pp. 193.ZellerMichael JWallenDouglasUnit Mastery Workbook to accompany Psychology: Its Principles and Meanings (2nd ed.). New York: Holt, Rinehart and Winston, 1976 Pp. 224.
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['Teaching of Psychology']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:11:28Z', 'timestamp': 1525482688082}, 'reference-count': 0, 'publisher': 'SAGE Publications', 'issue': '2', 'license': [{'URL': 'http://journals.sagepub.com/page/policies/text-and-data-mining-license', 'start': {'date-parts': [[1977, 4, 1]], 'date-time': '1977-04-01T00:00:00Z', 'timestamp': 228700800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Teaching of Psychology'], 'published-print': {'date-parts': [[1977, 4]]}, 'DOI': '10.1207/s15328023top0402_18', 'type': 'journal-article', 'created': {'date-parts': [[2005, 12, 21]], 'date-time': '2005-12-21T19:56:14Z', 'timestamp': 1135194974000}, 'page': '97-99', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ["Principles' PrincipalsBourneL. E.Jr.EkstrandB. R.Psychology: Its Principles and Meanings (2nd ed.). New York: Holt, Rinehart, and Winston, 1976 Pp. 540.McClellandLouInstructor's Manual to accompany Psychology: Its Principles and Meanings (2nd ed.). New York: Holt, Rinehart, and Winston, 1976.SmithDanielDallingerJaneStudent Workbook to accompany Psychology: Its Principles and Meanings (2nd ed.). New York: Holt, Rinehart, and Winston, 1976 Pp. 193.ZellerMichael JWallenDouglasUnit Mastery Workbook to accompany Psychology: Its Principles and Meanings (2nd ed.). New York: Holt, Rinehart and Winston, 1976 Pp. 224."], 'prefix': '10.1177', 'volume': '4', 'member': '179', 'published-online': {'date-parts': [[2016, 8, 26]]}, 'container-title': ['Teaching of Psychology'], 'language': 'en', 'link': [{'URL': 'http://journals.sagepub.com/doi/pdf/10.1207/s15328023top0402_18', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://journals.sagepub.com/doi/pdf/10.1207/s15328023top0402_18', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 1, 23]], 'date-time': '2018-01-23T15:22:58Z', 'timestamp': 1516720978000}, 'score': 48.594833, 'issued': {'date-parts': [[1977, 4]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2016, 8, 26]]}, 'published-print': {'date-parts': [[1977, 4]]}, 'issue': '2'}, 'alternative-id': ['10.1207/s15328023top0402_18'], 'URL': 'http://dx.doi.org/10.1207/s15328023top0402_18', 'ISSN': ['0098-6283', '1532-8023'], 'issn-type': [{'value': '0098-6283', 'type': 'print'}, {'value': '1532-8023', 'type': 'electronic'}]}
+>>> hash >>> ("Principles' PrincipalsBourneL. E.Jr.EkstrandB. R.Psychology: Its Principles and Meanings (2nd ed.). New York: Holt, Rinehart, and Winston, 1976 Pp. 540.McClellandLouInstructor's Manual to accompany Psychology: Its Principles and Meanings (2nd ed.). New York: Holt, Rinehart, and Winston, 1976.SmithDanielDallingerJaneStudent Workbook to accompany Psychology: Its Principles and Meanings (2nd ed.). New York: Holt, Rinehart, and Winston, 1976 Pp. 193.ZellerMichael JWallenDouglasUnit Mastery Workbook to accompany Psychology: Its Principles and Meanings (2nd ed.). New York: Holt, Rinehart and Winston, 1976 Pp. 224.", 1977.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Robert Endre Tarjan, Applications of Path Compression on Balanced Trees, Journal of the ACM (JACM), v.26 n.4, p.690-715, Oct. 1979  [doi>10.1145/322154.322161]  	
+>>> DOI >>> 10.1145/322154.322161
+>>> URL >>> http://dx.doi.org/10.1145/322154.322161
+>>> year >>> 1979.0
+>>> title >>> Applications of Path Compression on Balanced Trees
+>>> author >>> Robert Endre Tarjan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 93.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:12:08Z', 'timestamp': 1525335128847}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JACM', 'J. ACM'], 'published-print': {'date-parts': [[1979, 10, 1]]}, 'DOI': '10.1145/322154.322161', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:26:10Z', 'timestamp': 1027769170000}, 'page': '690-715', 'source': 'Crossref', 'is-referenced-by-count': 93, 'title': ['Applications of Path Compression on Balanced Trees'], 'prefix': '10.1145', 'volume': '26', 'author': [{'given': 'Robert Endre', 'family': 'Tarjan', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'container-title': ['Journal of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=322161&amp;ftid=6915&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T22:49:07Z', 'timestamp': 1481842147000}, 'score': 94.11031, 'issued': {'date-parts': [[1979, 10, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1145/322154.322161', 'ISSN': ['0004-5411'], 'issn-type': [{'value': '0004-5411', 'type': 'print'}]}
+>>> hash >>> ('Applications of Path Compression on Balanced Trees', 1979.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Harold N. Gabow , Robert E. Tarjan, Algorithms for two bottleneck optimization problems, Journal of Algorithms, v.9 n.3, p.411-417, September 1988  [doi>10.1016/0196-6774(88)90031-4]  	
+>>> DOI >>> 10.1016/0196-6774(88)90031-4
+>>> URL >>> http://dx.doi.org/10.1016/0196-6774(88)90031-4
+>>> year >>> 1988.0
+>>> title >>> Algorithms for two bottleneck optimization problems
+>>> author >>> Harold N Gabow and Robert E Tarjan
+>>> reference_count >>> 20.0
+>>> is_referenced_by_count >>> 82.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Algorithms']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T08:50:38Z', 'timestamp': 1525423838410}, 'reference-count': 20, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1988, 9, 1]], 'date-time': '1988-09-01T00:00:00Z', 'timestamp': 589075200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Algorithms'], 'published-print': {'date-parts': [[1988, 9]]}, 'DOI': '10.1016/0196-6774(88)90031-4', 'type': 'journal-article', 'created': {'date-parts': [[2004, 11, 6]], 'date-time': '2004-11-06T18:03:10Z', 'timestamp': 1099764190000}, 'page': '411-417', 'source': 'Crossref', 'is-referenced-by-count': 82, 'title': ['Algorithms for two bottleneck optimization problems'], 'prefix': '10.1016', 'volume': '9', 'author': [{'given': 'Harold N', 'family': 'Gabow', 'sequence': 'first', 'affiliation': []}, {'given': 'Robert E', 'family': 'Tarjan', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Algorithms'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0196677488900314?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0196677488900314?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T11:34:07Z', 'timestamp': 1497612847000}, 'score': 110.848495, 'issued': {'date-parts': [[1988, 9]]}, 'references-count': 20, 'journal-issue': {'published-print': {'date-parts': [[1988, 9]]}, 'issue': '3'}, 'alternative-id': ['0196677488900314'], 'URL': 'http://dx.doi.org/10.1016/0196-6774(88)90031-4', 'ISSN': ['0196-6774'], 'issn-type': [{'value': '0196-6774', 'type': 'print'}]}
+>>> hash >>> ('Algorithms for two bottleneck optimization problems', 1988.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> BERTSEKAS, D.P. Distributed asynchronous relaxation methods for linear network flow problems, LIDS Report P-1606, M.I.T., Cambridge, Mass., 1986; preliminary version. In Proceeding of the 25th Conference on Decision and Control. IEEE, New York, December 1986.  	
+>>> DOI >>> 10.1109/cdc.1986.267433
+>>> URL >>> http://dx.doi.org/10.1109/cdc.1986.267433
+>>> year >>> 1986.0
+>>> title >>> Distributed relaxation methods for linear network flow problems
+>>> author >>> Dimitri Bertsekas
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['1986 25th IEEE Conference on Decision and Control']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T11:58:05Z', 'timestamp': 1525435085000}, 'reference-count': 0, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1986, 12]]}, 'DOI': '10.1109/cdc.1986.267433', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 18]], 'date-time': '2008-07-18T16:02:55Z', 'timestamp': 1216396975000}, 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Distributed relaxation methods for linear network flow problems'], 'prefix': '10.1109', 'author': [{'given': 'Dimitri', 'family': 'Bertsekas', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'event': {'name': '1986 25th IEEE Conference on Decision and Control', 'location': 'Athens, Greece', 'start': {'date-parts': [[1986, 12, 10]]}, 'end': {'date-parts': [[1986, 12, 12]]}}, 'container-title': ['1986 25th IEEE Conference on Decision and Control'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4048689/4048690/04049175.pdf?arnumber=4049175', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 15]], 'date-time': '2017-03-15T23:25:26Z', 'timestamp': 1489620326000}, 'score': 104.017746, 'issued': {'date-parts': [[1986, 12]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1109/cdc.1986.267433'}
+>>> hash >>> ('Distributed relaxation methods for linear network flow problems', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Robert Endre Tarjan, Data structures and network algorithms, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1983 	
+>>> DOI >>> 10.1137/1.9781611970265
+>>> URL >>> http://dx.doi.org/10.1137/1.9781611970265
+>>> year >>> 1983.0
+>>> title >>> Data Structures and Network Algorithms
+>>> author >>> Robert Endre Tarjan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 597.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T16:36:26Z', 'timestamp': 1525451786623}, 'reference-count': 0, 'publisher': 'Society for Industrial and Applied Mathematics', 'isbn-type': [{'value': '9780898711875', 'type': 'print'}, {'value': '9781611970265', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1983, 1]]}, 'DOI': '10.1137/1.9781611970265', 'type': 'monograph', 'created': {'date-parts': [[2011, 10, 21]], 'date-time': '2011-10-21T20:04:13Z', 'timestamp': 1319227453000}, 'source': 'Crossref', 'is-referenced-by-count': 597, 'title': ['Data Structures and Network Algorithms'], 'prefix': '10.1137', 'author': [{'given': 'Robert Endre', 'family': 'Tarjan', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'published-online': {'date-parts': [[2012, 5, 25]]}, 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T13:34:38Z', 'timestamp': 1485696878000}, 'score': 48.64975, 'issued': {'date-parts': [[1983, 1]]}, 'ISBN': ['9780898711875', '9781611970265'], 'references-count': 0, 'alternative-id': ['10.1137/1.9781611970265'], 'URL': 'http://dx.doi.org/10.1137/1.9781611970265'}
+>>> hash >>> ('Data Structures and Network Algorithms', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Low(sz, L., AND PLUYIM~R, M.D. Matching Theory North-Holland Mathematical Studies 121, Annals of Discrete Mathematics 29, North-Holland, New York, 1986.  	
+>>> DOI >>> 10.1016/s0304-0208(08)x7172-5
+>>> URL >>> http://dx.doi.org/10.1016/s0304-0208(08)x7172-5
+>>> year >>> 1986.0
+>>> title >>> Matching Theory
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['North-Holland Mathematics Studies']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 17]], 'date-time': '2018-04-17T06:52:39Z', 'timestamp': 1523947959289}, 'reference-count': 0, 'publisher': 'Elsevier', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1986]]}, 'DOI': '10.1016/s0304-0208(08)x7172-5', 'type': 'book', 'created': {'date-parts': [[2016, 8, 3]], 'date-time': '2016-08-03T21:45:26Z', 'timestamp': 1470260726000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Matching Theory'], 'prefix': '10.1016', 'member': '78', 'container-title': ['North-Holland Mathematics Studies'], 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0304020808X71725?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0304020808X71725?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2016, 8, 3]], 'date-time': '2016-08-03T21:45:26Z', 'timestamp': 1470260726000}, 'score': 72.809784, 'issued': {'date-parts': [[1986]]}, 'ISBN': ['9780444879165'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1016/s0304-0208(08)x7172-5', 'ISSN': ['0304-0208'], 'issn-type': [{'value': '0304-0208', 'type': 'print'}]}
+>>> hash >>> ('Matching Theory', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> EDMONDS, J. Paths, trees and flowers. Canad. J. Math. 17 (1965), 449-467  	
+>>> DOI >>> 10.4153/cjm-1965-045-4
+>>> URL >>> http://dx.doi.org/10.4153/cjm-1965-045-4
+>>> year >>> 1965.0
+>>> title >>> Paths, trees, and flowers
+>>> author >>> Jack Edmonds
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 977.0
+>>> subject >>> None
+>>> container_title >>> ['Journal canadien de mathématiques', 'Canadian Journal of Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 1]], 'date-time': '2018-06-01T23:22:30Z', 'timestamp': 1527895350936}, 'reference-count': 0, 'publisher': 'Canadian Mathematical Society', 'issue': '0', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Canad. J. Math.'], 'published-print': {'date-parts': [[1965, 1, 1]]}, 'DOI': '10.4153/cjm-1965-045-4', 'type': 'journal-article', 'created': {'date-parts': [[2010, 12, 7]], 'date-time': '2010-12-07T23:24:44Z', 'timestamp': 1291764284000}, 'page': '449-467', 'source': 'Crossref', 'is-referenced-by-count': 977, 'title': ['Paths, trees, and flowers '], 'prefix': '10.4153', 'volume': '17', 'author': [{'given': 'Jack', 'family': 'Edmonds', 'sequence': 'first', 'affiliation': []}], 'member': '2643', 'published-online': {'date-parts': [[1965, 1, 1]]}, 'container-title': ['Journal canadien de mathématiques', 'Canadian Journal of Mathematics'], 'language': 'en', 'deposited': {'date-parts': [[2017, 3, 31]], 'date-time': '2017-03-31T20:14:41Z', 'timestamp': 1490991281000}, 'score': 76.46727, 'issued': {'date-parts': [[1965, 1, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1965]]}, 'issue': '0'}, 'URL': 'http://dx.doi.org/10.4153/cjm-1965-045-4', 'ISSN': ['1496-4279', '0008-414X'], 'issn-type': [{'value': '0008-414X', 'type': 'print'}, {'value': '1496-4279', 'type': 'electronic'}]}
+>>> hash >>> ('Paths, trees, and flowers', 1965.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> GABOW, H.N. Duality and parallel algorithms for graph matching, manuscript.  	
+>>> DOI >>> 10.21236/ada215112
+>>> URL >>> http://dx.doi.org/10.21236/ada215112
+>>> year >>> 1989.0
+>>> title >>> Faster Scaling Algorithms for General Graph Matching Problems
+>>> author >>> Harold N. Gabow and Robert E. Tarjan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'US Dept of the Navy', 'place': ['-', '-'], 'department': ['Funding', 'Performing'], 'acronym': ['ONR', '-']}, 'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T23:27:38Z', 'timestamp': 1525735658417}, 'publisher-location': 'Fort Belvoir, VA', 'reference-count': 0, 'publisher': 'Defense Technical Information Center', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1989, 4, 11]]}, 'DOI': '10.21236/ada215112', 'type': 'report', 'created': {'date-parts': [[2017, 9, 11]], 'date-time': '2017-09-11T13:14:07Z', 'timestamp': 1505135647000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Faster Scaling Algorithms for General Graph Matching Problems'], 'prefix': '10.21236', 'author': [{'given': 'Harold N.', 'family': 'Gabow', 'sequence': 'first', 'affiliation': []}, {'given': 'Robert E.', 'family': 'Tarjan', 'sequence': 'first', 'affiliation': []}], 'member': '9879', 'original-title': [''], 'deposited': {'date-parts': [[2017, 9, 11]], 'date-time': '2017-09-11T13:14:08Z', 'timestamp': 1505135648000}, 'score': 42.333927, 'subtitle': [''], 'issued': {'date-parts': [[1989, 4, 11]]}, 'references-count': 0, 'alternative-id': ['CS-TR-222-89'], 'URL': 'http://dx.doi.org/10.21236/ada215112'}
+>>> hash >>> ('Faster Scaling Algorithms for General Graph Matching Problems', 1989.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Christos H. Papadimitriou , Kenneth Steiglitz, Combinatorial optimization: algorithms and complexity, Prentice-Hall, Inc., Upper Saddle River, NJ, 1982  	
+>>> DOI >>> 10.1137/1025101
+>>> URL >>> http://dx.doi.org/10.1137/1025101
+>>> year >>> 1983.0
+>>> title >>> Combinatorial Optimization: Algorithms and Complexity (Christos H. Papadimitriou and Kenneth Steiglitz)
+>>> author >>> Richard T. Wong
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Review']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:58:42Z', 'timestamp': 1525445922154}, 'reference-count': 0, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM Rev.'], 'published-print': {'date-parts': [[1983, 7]]}, 'DOI': '10.1137/1025101', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 7]], 'date-time': '2005-03-07T06:58:10Z', 'timestamp': 1110178690000}, 'page': '424-425', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Combinatorial Optimization: Algorithms and Complexity (Christos H. Papadimitriou and Kenneth Steiglitz)'], 'prefix': '10.1137', 'volume': '25', 'author': [{'given': 'Richard T.', 'family': 'Wong', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Review'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/1025101', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T17:59:45Z', 'timestamp': 1485712785000}, 'score': 72.864784, 'issued': {'date-parts': [[1983, 7]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1983, 7]]}, 'issue': '3'}, 'alternative-id': ['10.1137/1025101'], 'URL': 'http://dx.doi.org/10.1137/1025101', 'ISSN': ['0036-1445', '1095-7200'], 'issn-type': [{'value': '0036-1445', 'type': 'print'}, {'value': '1095-7200', 'type': 'electronic'}]}
+>>> hash >>> ('Combinatorial Optimization: Algorithms and Complexity (Christos H. Papadimitriou and Kenneth Steiglitz)', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ã‰va Tardos, A strongly polynomial minimum cost circulation algorithm, Combinatorica, v.5 n.3, p.247-255, 1985  [doi>10.1007/BF02579369] 	
+>>> DOI >>> 10.1007/bf02579369
+>>> URL >>> http://dx.doi.org/10.1007/bf02579369
+>>> year >>> 1985.0
+>>> title >>> A strongly polynomial minimum cost circulation algorithm
+>>> author >>> Éva Tardos
+>>> reference_count >>> 14.0
+>>> is_referenced_by_count >>> 125.0
+>>> subject >>> None
+>>> container_title >>> ['Combinatorica']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T14:04:23Z', 'timestamp': 1525356263342}, 'reference-count': 14, 'publisher': 'Springer Nature', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Combinatorica'], 'published-print': {'date-parts': [[1985, 9]]}, 'DOI': '10.1007/bf02579369', 'type': 'journal-article', 'created': {'date-parts': [[2007, 3, 22]], 'date-time': '2007-03-22T22:19:33Z', 'timestamp': 1174601973000}, 'page': '247-255', 'source': 'Crossref', 'is-referenced-by-count': 125, 'title': ['A strongly polynomial minimum cost circulation algorithm'], 'prefix': '10.1007', 'volume': '5', 'author': [{'given': 'Éva', 'family': 'Tardos', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'BF02579369_CR1', 'author': 'R. P. Anstee', 'year': '1983', 'unstructured': 'R. P. Anstee, A polynomial algorithm forb-matching: an alternative approach,Research Report CORR 83–22, University Waterloo, Waterloo, Ontario, 1983.', 'volume-title': 'Research Report CORR 83–22'}, {'key': 'BF02579369_CR2', 'first-page': '251', 'volume': '10', 'author': 'W. H. Cunningham', 'year': '1985', 'unstructured': 'W. H. Cunningham andA. Frank, A primal dual algorithm for submodular flows;Mathematics of Operations Research,10 (1985), 251–262.', 'journal-title': 'Mathematics of Operations Research'}, {'key': 'BF02579369_CR3', 'first-page': '1277', 'volume': '11', 'author': 'E. A. Dinits', 'year': '1970', 'unstructured': 'E. A. Dinits, Algorithm for solution of a problem of maximum flow in a network with power estimation;Soviet Math. Dokl.,11 (1970), 1277–1280.', 'journal-title': 'Soviet Math. Dokl.'}, {'key': 'BF02579369_CR4', 'doi-asserted-by': 'crossref', 'first-page': '241', 'DOI': '10.6028/jres.071B.033', 'volume': '71B', 'author': 'J. Edmonds', 'year': '1967', 'unstructured': 'J. Edmonds, Systems of distinct representatives and linear algebra;J. Res. Nat. Bur. Standards,71 B (1967), 241–245.', 'journal-title': 'J. Res. Nat. Bur. Standards'}, {'key': 'BF02579369_CR5', 'author': 'J. Edmonds', 'first-page': '67', 'year': '1970', 'unstructured': 'J. Edmonds, Submodular functions, matroids and certain polyhedra, in:Combinatorial Structures and Applications, (R. K. Guy et al. eds.) 1970 Gordon and Breach, New York 67–87.', 'volume-title': 'Combinatorial Structures and Applications'}, {'key': 'BF02579369_CR6', 'first-page': '185', 'volume': '1', 'author': 'J. Edmonds', 'year': '1977', 'unstructured': 'J. Edmonds andR. Giles, A min-max relation for submodular functions on graphs,Annals of Discrete Math. 1 (1977), 185–204.', 'journal-title': 'Annals of Discrete Math.'}, {'key': 'BF02579369_CR7', 'first-page': '248', 'volume': '19', 'author': 'J. Edmonds', 'year': '1972', 'unstructured': 'J. Edmonds andR. M. Karp, Theoretical improvements in algorithmic efficiency for network flow problems,J. ACM 19 (1972), 248–264.', 'journal-title': 'J. ACM'}, {'key': 'BF02579369_CR8', 'author': 'L. R. Ford Jr.', 'year': '1962', 'unstructured': 'L. R. Ford, jr. andD. R. Fulkerson,Flows in Networks, Princeton University Press, Princeton N. J., 1962.', 'volume-title': 'Flows in Networks'}, {'key': 'BF02579369_CR9', 'first-page': '18', 'volume': '9', 'author': 'D. R. Fulkerson', 'year': '1961', 'unstructured': 'D. R. Fulkerson, An Out-of-Kilter method for minimal cost flow problems,J. Soc. Indust. Appl. Math. 9 (1961), 18–27.', 'journal-title': 'J. Soc. Indust. Appl. Math.'}, {'key': 'BF02579369_CR10', 'first-page': '515', 'volume': '261', 'author': 'A. K. Lenstra', 'year': '1982', 'unstructured': 'A. K. Lenstra, H. W. Lenstra, jr. andL. Lovász, Factoring polynomials with rational coefficients,Math. Ann. 261 (1982), 515–534.', 'journal-title': 'Math. Ann.'}, {'key': 'BF02579369_CR11', 'first-page': '368', 'volume': '17', 'author': 'C. L. Lucchesi', 'year': '1978', 'unstructured': 'C. L. Lucchesi andD. H. Younger, A minimax theorem for directed graphs,J. London Math. Soc. 17 (1978), 368–374.', 'journal-title': 'J. London Math. Soc.'}, {'key': 'BF02579369_CR12', 'first-page': '347', 'volume': '12', 'author': 'N. Megiddo', 'year': '1981', 'unstructured': 'N. Megiddo, Towards a genuinely polynomial algorithm for linear programming,SIAM J. Comput. 12 (1981), 347–353.', 'journal-title': 'SIAM J. Comput.'}, {'key': 'BF02579369_CR13', 'first-page': '194', 'volume': '257', 'author': 'G. J. Minty', 'year': '1960', 'unstructured': 'G. J. Minty, Monotone Networks,Proc. Roy. Soc. London, Ser. A,257 (1960), 194–212.', 'journal-title': 'Proc. Roy. Soc. London, Ser. A'}, {'key': 'BF02579369_CR14', 'author': 'H. Röck', 'first-page': '181', 'year': '1980', 'unstructured': 'H. Röck, Scaling techniques for minimal cost network flows, in:Discrete Structures and Algorithms, (U. Page ed.) 1980, Carl Hanser, München, 181–191.', 'volume-title': 'Discrete Structures and Algorithms'}], 'container-title': ['Combinatorica'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF02579369', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T15:37:14Z', 'timestamp': 1497713834000}, 'score': 91.25777, 'issued': {'date-parts': [[1985, 9]]}, 'references-count': 14, 'journal-issue': {'published-print': {'date-parts': [[1985, 9]]}, 'issue': '3'}, 'alternative-id': ['BF02579369'], 'URL': 'http://dx.doi.org/10.1007/bf02579369', 'relation': {'cites': []}, 'ISSN': ['0209-9683', '1439-6912'], 'issn-type': [{'value': '0209-9683', 'type': 'print'}, {'value': '1439-6912', 'type': 'electronic'}]}
+>>> hash >>> ('A strongly polynomial minimum cost circulation algorithm', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> GABOW, H. N., AND TARJAN, R. E. A linear-time algorithm for a special case of disjoint set union. J. Comp. and System Sci., 30, 2 (I985), 209-221.  	
+>>> DOI >>> 10.1016/0022-0000(85)90014-5
+>>> URL >>> http://dx.doi.org/10.1016/0022-0000(85)90014-5
+>>> year >>> 1985.0
+>>> title >>> A linear-time algorithm for a special case of disjoint set union
+>>> author >>> Harold N. Gabow and Robert Endre Tarjan
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 203.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Computer and System Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database162.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:16:00Z', 'timestamp': 1525392960341}, 'reference-count': 32, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1985, 4, 1]], 'date-time': '1985-04-01T00:00:00Z', 'timestamp': 481161600000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 10334, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Computer and System Sciences'], 'published-print': {'date-parts': [[1985, 4]]}, 'DOI': '10.1016/0022-0000(85)90014-5', 'type': 'journal-article', 'created': {'date-parts': [[2003, 12, 4]], 'date-time': '2003-12-04T12:01:00Z', 'timestamp': 1070539260000}, 'page': '209-221', 'source': 'Crossref', 'is-referenced-by-count': 203, 'title': ['A linear-time algorithm for a special case of disjoint set union'], 'prefix': '10.1016', 'volume': '30', 'author': [{'given': 'Harold N.', 'family': 'Gabow', 'sequence': 'first', 'affiliation': []}, {'given': 'Robert Endre', 'family': 'Tarjan', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Computer and System Sciences'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0022000085900145?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0022000085900145?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2018, 3, 28]], 'date-time': '2018-03-28T00:29:05Z', 'timestamp': 1522196945000}, 'score': 86.13228, 'issued': {'date-parts': [[1985, 4]]}, 'references-count': 32, 'journal-issue': {'published-print': {'date-parts': [[1985, 4]]}, 'issue': '2'}, 'alternative-id': ['0022000085900145'], 'URL': 'http://dx.doi.org/10.1016/0022-0000(85)90014-5', 'ISSN': ['0022-0000'], 'issn-type': [{'value': '0022-0000', 'type': 'print'}]}
+>>> hash >>> ('A linear-time algorithm for a special case of disjoint set union', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

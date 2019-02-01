@@ -1,0 +1,37 @@
+[0] Amir Egozi, Yosi Keller, Hugo Guterman, A Probabilistic Approach to Spectral Graph Matching
+[1] S. Belongie, J. Malik, J. Puzicha, "Shape Matching and Object Recognition Using Shape Contexts", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 24, no. 4, pp. 509-522, Apr. 2002.
+[2] A.C. Berg, T.L. Berg, J. Malik, "Shape Matching and Object Recognition Using Low Distortion Correspondences", Proc. IEEE Conf. Computer Vision and Pattern Recognition, vol. 1, pp. 26-33, 2005-June.
+[3] Y. Boykov, V. Kolmogorov, "An Experimental Comparison of Min-Cut/Max-Flow Algorithms for Energy Minimization in Vision", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 26, no. 9, pp. 1124-1137, Sept. 2004.
+[4] T. Caetano, J. McAuley, L. Cheng, Q. Le, A. Smola, "Learning Graph Matching", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 31, no. 6, pp. 1048-1058, June 2009.
+[5] M. Chertok, Y. Keller, "Efficient High Order Matching", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 32, no. 12, pp. 2205-2215, Dec. 2010.
+[6] M. Chertok, Y. Keller, "Spectral Symmetry Analysis", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 32, no. 7, pp. 1227-1238, July 2010.
+[7] D. Conte, P. Foggia, C. Sansone, M. Vento, "Thirty Years of Graph Matching in Pattern Recognition", Int'l J. Pattern Recognition and Artificial Intelligence, vol. 18, no. 3, pp. 265-298, 2004. 
+[8] T. Cour, J. Shi, "Solving Markov Random Fields with Spectral Relaxation", J. Machine Learning ResearchProc. Track, vol. 2, pp. 75-82, 2007.
+[9] T. Cour, P. Srinivasan, J. Shi, Advances in Neural Information Processing Systems 19, pp. 313-320, 2007.
+[10] A.D. Cross, E.R. Hancock, "Graph Matching with a Dual-Step EM Algorithm", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 20, no. 11, pp. 1236-1253, Nov. 1998.
+[11] S. Dasgupta, C.H. Papadimitriou, U. Vazirani, Algorithms., 2008.
+[12] O. Duchenne, F. Bach, I. Kweon, J. Ponce, "A Tensor-Based Algorithm for High-Order Graph Matching", Proc. IEEE Conf. Computer Vision and Pattern Recognition, 2009-June.
+[13] A. Egozi, Y. Keller, H. Guterman, "Improving Shape Retrieval by Spectral Matching and Meta Similarity", IEEE Trans. Image Processing, vol. 19, no. 5, pp. 1319-1327, May 2010.
+[14] M.R. Garey, D.S. Johnson, Computers and Intractability; A Guide to the Theory of NP-Completeness., 1990.
+[15] S. Gold, A. Rangarajan, "A Graduated Assignment Algorithm for Graph Matching", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 18, no. 4, pp. 377-388, Apr. 1996.
+[16] S. Gold, A. Rangarajan, C.-P. Lu, S. Pappu, E. Mjolsness, "New Algorithms for 2D and 3D Point Matching: Pose Estimation and Correspondence", Pattern Recognition, vol. 31, no. 8, pp. 1019-1031, 1998. 
+[17] G.H. Golub, C.F. van Loan, Matrix Computations, 1996.
+[18] J.H. Hays, M. Leordeanu, A.A. Efros, Y. Liu, "Discovering Texture Regularity via Higher-Order Matching", Proc. Ninth European Conf. Computer Vision, pp. 522-535, 2006-May.
+[19] R.A. Hummel, S.W. Zucker, "On the Foundations of Relaxation Labeling Processes", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 5, no. 3, pp. 267-287, May 1983.
+[20] R. Johnson, "On a Theorem Stated by Eckart and Young", Psychometrika, vol. 28, no. 3, pp. 259-263, Sept. 1963. 
+[21] M. Leordeanu, M. Hebert, "A Spectral Technique for Correspondence Problems Using Pairwise Constraints", Proc. 10thIEEE Int'l Conf. Computer Vision, vol. 2, pp. 1482-1489, 2005-Oct.
+[22] D. Lowe, "Distinctive Image Features from Scale-Invariant Keypoints", Int'l J. Computer Vision, vol. 20, pp. 91-110, 2003. 
+[23] B. Luo, E. Hancock, "Structural Graph Matching Using the EM Algorithm and Singular Value Decomposition", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 23, no. 10, pp. 1120-1136, Oct. 2001.
+[24] E. Mjolsness, "Bayesian Inference on Visual Grammars by Neural Nets that Optimize", May 1991.
+[25] J. Munkres, "Algorithms for the Assignment and Transportation Problems", J. SIAM, vol. 5, no. 1, pp. 32-38, 1957. 
+[26] G.L. Nemhauser, L.A. Wolsey, Integer and Combinatorial Optimization., 1988. 
+[27] A. Raj, R. Zabih, "A Graph Cut Algorithm for Generalized Image Deconvolution", Proc. 10th IEEE Int'l Conf. Computer Vision, pp. 1048-1054, 2005.
+[28] A. Rangarajan, E. Mjolsness, "A Lagrangian Relaxation Network for Graph Matching", IEEE Trans. Neural Networks, no. 6, pp. 1365-1381, Nov. 1996.
+[29] A. Rangarajan, A. Yuille, E. Mjolsness, "Convergence Properties of the Softassign Quadratic Assignment Algorithm", Neural Computation, vol. 11, no. 6, pp. 1455-1474, 1999.
+[30] C. Rother, V. Kolmogorov, A. Blake, "Grabcut Interactive Foreground Extraction Using Iterated Graph Cuts", Proc. ACM Siggraph '04, pp. 309-314, 2004.[31] G. Scott, H. Longuet-Higgins, "An Algorithm for Associating the Features of Two Images", Royal Soc., vol. 244, pp. 21-26, 1991. 
+[32] R. Sinkhorn, P. Knopp, "Concerning Nonnegative Matrices and Doubly Stochastic Matrices", Pacific J. Math., vol. 21, no. 2, pp. 343-348, 1967. 
+[33] L. Torresani, V. Kolmogorov, C. Rother, "Feature Correspondence via Graph Matching: Models and Global Optimization", Proc. 10th European Conf. Computer Vision, pp. 596-609, 2008.
+[34] B. van Wyk, M. van Wyk, "A POCS-Based Graph Matching Algorithm", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 26, no. 11, pp. 1526-1530, Nov. 2004.
+[35] H.F. Wang, E.R. Hancock, "Correspondence Matching Using Kernel Principal Components Analysis and Label Consistency Constraints", Pattern Recognition, vol. 39, no. 6, pp. 1012-1025, 2006. 
+[36] A.L. Yuille, A. Rangarajan, "The Concave-Convex Procedure", Neural Computation, vol. 15, no. 4, pp. 915-936, 2003.
+[37] R. Zass, A. Shashua, "Probabilistic Graph and Hypergraph Matching", Proc. IEEE Conf. Computer Vision and Pattern Recognition, pp. 1-8, 2008-June.

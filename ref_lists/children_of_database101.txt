@@ -1,0 +1,793 @@
+>>> NEW PAPER <<<
+>>> citation >>> T. Cour, P. Srinivasan, and J. Shi, "Balanced graph matching," in Advanced in Neural Information Processing Systems, 2006.
+>>> DOI >>> 10.1007/978-0-387-36594-7
+>>> URL >>> http://dx.doi.org/10.1007/978-0-387-36594-7
+>>> year >>> 2006.0
+>>> title >>> Information Technology For Balanced Manufacturing Systems
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['IFIP International Federation for Information Processing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T12:45:15Z', 'timestamp': 1525351515847}, 'publisher-location': 'Boston, MA', 'reference-count': 0, 'publisher': 'Springer US', 'isbn-type': [{'value': '9780387365909', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.1007/978-0-387-36594-7', 'type': 'book', 'created': {'date-parts': [[2007, 3, 7]], 'date-time': '2007-03-07T17:50:17Z', 'timestamp': 1173289817000}, 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Information Technology For Balanced Manufacturing Systems'], 'prefix': '10.1007', 'member': '297', 'container-title': ['IFIP International Federation for Information Processing'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-0-387-36594-7', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 9, 6]], 'date-time': '2013-09-06T21:14:02Z', 'timestamp': 1378502042000}, 'score': 34.057446, 'issued': {'date-parts': [[2006]]}, 'ISBN': ['9780387365909'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-0-387-36594-7'}
+>>> hash >>> ('Information Technology For Balanced Manufacturing Systems', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ali Can , Hong Shen , J. N. Turner , H. L. Tanenbaum , B. Roysam, Rapid automated tracing and feature extraction from retinal fundus images using direct exploratory algorithms, IEEE Transactions on Information Technology in Biomedicine, v.3 n.2, p.125-138, June 1999  [doi>10.1109/4233.767088]
+>>> DOI >>> 10.1109/4233.767088
+>>> URL >>> http://dx.doi.org/10.1109/4233.767088
+>>> year >>> 1999.0
+>>> title >>> Rapid automated tracing and feature extraction from retinal fundus images using direct exploratory algorithms
+>>> author >>> None
+>>> reference_count >>> 42.0
+>>> is_referenced_by_count >>> 268.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Information Technology in Biomedicine']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365337}, 'reference-count': 42, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Inform. Technol. Biomed.'], 'published-print': {'date-parts': [[1999, 6]]}, 'DOI': '10.1109/4233.767088', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T20:00:39Z', 'timestamp': 1030219239000}, 'page': '125-138', 'source': 'Crossref', 'is-referenced-by-count': 268, 'title': ['Rapid automated tracing and feature extraction from retinal fundus images using direct exploratory algorithms'], 'prefix': '10.1109', 'volume': '3', 'author': [{'family': 'Ali Can', 'sequence': 'first', 'affiliation': []}, {'family': 'Hong Shen', 'sequence': 'additional', 'affiliation': []}, {'family': 'Turner', 'sequence': 'additional', 'affiliation': []}, {'family': 'Tanenbaum', 'sequence': 'additional', 'affiliation': []}, {'family': 'Roysam', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Information Technology in Biomedicine'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4233/16626/00767088.pdf?arnumber=767088', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T14:13:49Z', 'timestamp': 1510668829000}, 'score': 162.80583, 'issued': {'date-parts': [[1999, 6]]}, 'references-count': 42, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1109/4233.767088', 'ISSN': ['1089-7771'], 'issn-type': [{'value': '1089-7771', 'type': 'print'}]}
+>>> hash >>> ('Rapid automated tracing and feature extraction from retinal fundus images using direct exploratory algorithms', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Wang, A. Bhalerao, and R. Wilson, "Analysis of retinal vasculature using a multiresolution hermite model," IEEE Transactions on Medical Imaging, vol. 26, no. 2, pp. 137-152, 2007.
+>>> DOI >>> 10.1109/tmi.2006.889732
+>>> URL >>> http://dx.doi.org/10.1109/tmi.2006.889732
+>>> year >>> 2007.0
+>>> title >>> Analysis of Retinal Vasculature Using a Multiresolution Hermite Model
+>>> author >>> Li Wang and Abhir Bhalerao and Roland Wilson
+>>> reference_count >>> 49.0
+>>> is_referenced_by_count >>> 55.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Medical Imaging']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T11:29:23Z', 'timestamp': 1525346963783}, 'reference-count': 49, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Med. Imaging'], 'published-print': {'date-parts': [[2007, 2]]}, 'DOI': '10.1109/tmi.2006.889732', 'type': 'journal-article', 'created': {'date-parts': [[2007, 2, 9]], 'date-time': '2007-02-09T19:54:50Z', 'timestamp': 1171050890000}, 'page': '137-152', 'source': 'Crossref', 'is-referenced-by-count': 55, 'title': ['Analysis of Retinal Vasculature Using a Multiresolution Hermite Model'], 'prefix': '10.1109', 'volume': '26', 'author': [{'given': 'Li', 'family': 'Wang', 'sequence': 'first', 'affiliation': []}, {'given': 'Abhir', 'family': 'Bhalerao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Roland', 'family': 'Wilson', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Medical Imaging'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/42/4077851/04077864.pdf?arnumber=4077864', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T05:19:46Z', 'timestamp': 1510636786000}, 'score': 98.21352, 'issued': {'date-parts': [[2007, 2]]}, 'references-count': 49, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1109/tmi.2006.889732', 'ISSN': ['0278-0062'], 'issn-type': [{'value': '0278-0062', 'type': 'print'}]}
+>>> hash >>> ('Analysis of Retinal Vasculature Using a Multiresolution Hermite Model', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. L. Fine, "Observations following laser treatment for choroidal neovascularization," Archives of Ophthalmology, vol. 106, no. 11, pp. 1524-1525, 1988.
+>>> DOI >>> 10.1001/archopht.1988.01060140692035
+>>> URL >>> http://dx.doi.org/10.1001/archopht.1988.01060140692035
+>>> year >>> 1988.0
+>>> title >>> Observations Following Laser Treatment for Choroidal Neovascularization
+>>> author >>> Stuart L. Fine
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['Archives of Ophthalmology']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T20:16:44Z', 'timestamp': 1525465004469}, 'reference-count': 0, 'publisher': 'American Medical Association (AMA)', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Arch Ophthalmol'], 'published-print': {'date-parts': [[1988, 11, 1]]}, 'DOI': '10.1001/archopht.1988.01060140692035', 'type': 'journal-article', 'created': {'date-parts': [[2011, 11, 29]], 'date-time': '2011-11-29T04:48:33Z', 'timestamp': 1322542113000}, 'page': '1524', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Observations Following Laser Treatment for Choroidal Neovascularization'], 'prefix': '10.1001', 'volume': '106', 'author': [{'given': 'Stuart L.', 'family': 'Fine', 'sequence': 'first', 'affiliation': []}], 'member': '10', 'container-title': ['Archives of Ophthalmology'], 'language': 'en', 'deposited': {'date-parts': [[2012, 11, 12]], 'date-time': '2012-11-12T22:11:36Z', 'timestamp': 1352758296000}, 'score': 83.41508, 'issued': {'date-parts': [[1988, 11, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1988, 11, 1]]}, 'issue': '11'}, 'URL': 'http://dx.doi.org/10.1001/archopht.1988.01060140692035', 'ISSN': ['0003-9950'], 'issn-type': [{'value': '0003-9950', 'type': 'print'}]}
+>>> hash >>> ('Observations Following Laser Treatment for Choroidal Neovascularization', 1988.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Hoover, "Locating blood vessels in retinal images by piecewise threshold probing of a matched filter response," IEEE Transactions on Medical Imaging, vol. 19, no. 3, pp. 203- 210, 2000.
+>>> DOI >>> 10.1109/42.845178
+>>> URL >>> http://dx.doi.org/10.1109/42.845178
+>>> year >>> 2000.0
+>>> title >>> Locating blood vessels in retinal images by piecewise threshold probing of a matched filter response
+>>> author >>> A.D. Hoover and V. Kouznetsova and M. Goldbaum
+>>> reference_count >>> 23.0
+>>> is_referenced_by_count >>> 732.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Medical Imaging']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T12:22:31Z', 'timestamp': 1528374151414}, 'reference-count': 23, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Med. Imaging'], 'published-print': {'date-parts': [[2000, 3]]}, 'DOI': '10.1109/42.845178', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T17:57:42Z', 'timestamp': 1030211862000}, 'page': '203-210', 'source': 'Crossref', 'is-referenced-by-count': 732, 'title': ['Locating blood vessels in retinal images by piecewise threshold probing of a matched filter response'], 'prefix': '10.1109', 'volume': '19', 'author': [{'given': 'A.D.', 'family': 'Hoover', 'sequence': 'first', 'affiliation': []}, {'given': 'V.', 'family': 'Kouznetsova', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Goldbaum', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Medical Imaging'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/42/18324/00845178.pdf?arnumber=845178', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T20:53:33Z', 'timestamp': 1489179213000}, 'score': 118.51124, 'issued': {'date-parts': [[2000, 3]]}, 'references-count': 23, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/42.845178', 'ISSN': ['0278-0062'], 'issn-type': [{'value': '0278-0062', 'type': 'print'}]}
+>>> hash >>> ('Locating blood vessels in retinal images by piecewise threshold probing of a matched filter response', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Ritter, R. Owens, J. Cooper, R. H. Eikelboom, and P. P. Van Saarloos, "Registration of stereo and temporal images of the retina," IEEE Transactions on Medical Imaging, vol. 18, no. 5, pp. 404-418, 1999.
+>>> DOI >>> 10.1109/42.774168
+>>> URL >>> http://dx.doi.org/10.1109/42.774168
+>>> year >>> 1999.0
+>>> title >>> Registration of stereo and temporal images of the retina
+>>> author >>> N. Ritter and R. Owens and J. Cooper and R.H. Eikelboom and P.P. Van Saarloos
+>>> reference_count >>> 69.0
+>>> is_referenced_by_count >>> 112.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Medical Imaging']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:21:35Z', 'timestamp': 1525332095771}, 'reference-count': 69, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Med. Imaging'], 'published-print': {'date-parts': [[1999, 5]]}, 'DOI': '10.1109/42.774168', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T17:57:42Z', 'timestamp': 1030211862000}, 'page': '404-418', 'source': 'Crossref', 'is-referenced-by-count': 112, 'title': ['Registration of stereo and temporal images of the retina'], 'prefix': '10.1109', 'volume': '18', 'author': [{'given': 'N.', 'family': 'Ritter', 'sequence': 'first', 'affiliation': []}, {'given': 'R.', 'family': 'Owens', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Cooper', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.H.', 'family': 'Eikelboom', 'sequence': 'additional', 'affiliation': []}, {'given': 'P.P.', 'family': 'Van Saarloos', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Medical Imaging'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/42/16801/00774168.pdf?arnumber=774168', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T05:31:21Z', 'timestamp': 1512970281000}, 'score': 120.2654, 'issued': {'date-parts': [[1999, 5]]}, 'references-count': 69, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/42.774168', 'ISSN': ['0278-0062'], 'issn-type': [{'value': '0278-0062', 'type': 'print'}]}
+>>> hash >>> ('Registration of stereo and temporal images of the retina', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. K. Matsopoulos, P. A. Asvestas, N. A. Mouravliansky, and K. K. Delibasis, "Multimodal registration of retinal images using self organizing maps," IEEE Transactions on Medical Imaging, vol. 23, no. 12, pp. 1557-1562, 2004.
+>>> DOI >>> 10.1109/tmi.2004.836547
+>>> URL >>> http://dx.doi.org/10.1109/tmi.2004.836547
+>>> year >>> 2004.0
+>>> title >>> Multimodal Registration of Retinal Images Using Self Organizing Maps
+>>> author >>> G.K. Matsopoulos and P.A. Asvestas and N.A. Mouravliansky and K.K. Delibasis
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 47.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Medical Imaging']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T06:42:43Z', 'timestamp': 1528180963533}, 'reference-count': 13, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '12', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Med. Imaging'], 'published-print': {'date-parts': [[2004, 12]]}, 'DOI': '10.1109/tmi.2004.836547', 'type': 'journal-article', 'created': {'date-parts': [[2004, 11, 30]], 'date-time': '2004-11-30T19:55:46Z', 'timestamp': 1101844546000}, 'page': '1557-1563', 'source': 'Crossref', 'is-referenced-by-count': 47, 'title': ['Multimodal Registration of Retinal Images Using Self Organizing Maps'], 'prefix': '10.1109', 'volume': '23', 'author': [{'given': 'G.K.', 'family': 'Matsopoulos', 'sequence': 'first', 'affiliation': []}, {'given': 'P.A.', 'family': 'Asvestas', 'sequence': 'additional', 'affiliation': []}, {'given': 'N.A.', 'family': 'Mouravliansky', 'sequence': 'additional', 'affiliation': []}, {'given': 'K.K.', 'family': 'Delibasis', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Medical Imaging'], 'language': 'en', 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/42/29860/01362756.pdf?arnumber=1362756', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 14]], 'date-time': '2017-03-14T05:13:02Z', 'timestamp': 1489468382000}, 'score': 133.6595, 'issued': {'date-parts': [[2004, 12]]}, 'references-count': 13, 'journal-issue': {'published-print': {'date-parts': [[2004, 12]]}, 'issue': '12'}, 'URL': 'http://dx.doi.org/10.1109/tmi.2004.836547', 'ISSN': ['0278-0062'], 'issn-type': [{'value': '0278-0062', 'type': 'print'}]}
+>>> hash >>> ('Multimodal Registration of Retinal Images Using Self Organizing Maps', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Richard Myers , Richard C. Wilson , Edwin R. Hancock, Bayesian Graph Edit Distance, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.22 n.6, p.628-635, June 2000  [doi>10.1109/34.862201]
+>>> DOI >>> 10.1109/34.862201
+>>> URL >>> http://dx.doi.org/10.1109/34.862201
+>>> year >>> 2000.0
+>>> title >>> Bayesian graph edit distance
+>>> author >>> R. Myers and R.C. Wison and E.R. Hancock
+>>> reference_count >>> 29.0
+>>> is_referenced_by_count >>> 70.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:42Z', 'timestamp': 1525333542148}, 'reference-count': 29, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2000, 6]]}, 'DOI': '10.1109/34.862201', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '628-635', 'source': 'Crossref', 'is-referenced-by-count': 70, 'title': ['Bayesian graph edit distance'], 'prefix': '10.1109', 'volume': '22', 'author': [{'given': 'R.', 'family': 'Myers', 'sequence': 'first', 'affiliation': []}, {'given': 'R.C.', 'family': 'Wison', 'sequence': 'additional', 'affiliation': []}, {'given': 'E.R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/18692/00862201.pdf?arnumber=862201', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T09:19:06Z', 'timestamp': 1512983946000}, 'score': 97.44562, 'issued': {'date-parts': [[2000, 6]]}, 'references-count': 29, 'journal-issue': {'issue': '6'}, 'URL': 'http://dx.doi.org/10.1109/34.862201', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Bayesian graph edit distance', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kaleem Siddiqi , Ali Shokoufandeh , Sven J. Dickinson , Steven W. Zucker, Shock Graphs and Shape Matching, International Journal of Computer Vision, v.35 n.1, p.13-32, Nov. 1999  [doi>10.1023/A:1008102926703]
+>>> DOI >>> 10.1109/iccv.1998.710722
+>>> URL >>> http://dx.doi.org/10.1109/iccv.1998.710722
+>>> year >>> None
+>>> title >>> Shock graphs and shape matching
+>>> author >>> K. Siddiqi and A. Shokoufandeh and S.J. Dickenson and S.W. Zucker
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 45.0
+>>> subject >>> None
+>>> container_title >>> ['Sixth International Conference on Computer Vision (IEEE Cat. No.98CH36271)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T12:16:15Z', 'timestamp': 1525349775107}, 'reference-count': 19, 'publisher': 'Narosa Publishing House', 'isbn-type': [{'value': '8173192219', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/iccv.1998.710722', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 27]], 'date-time': '2002-11-27T20:42:54Z', 'timestamp': 1038429774000}, 'source': 'Crossref', 'is-referenced-by-count': 45, 'title': ['Shock graphs and shape matching'], 'prefix': '10.1109', 'author': [{'given': 'K.', 'family': 'Siddiqi', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Shokoufandeh', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.J.', 'family': 'Dickenson', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.W.', 'family': 'Zucker', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'IEEE 6th International Conference on Computer Vision', 'location': 'Bombay, India', 'acronym': 'ICCV-98'}, 'container-title': ['Sixth International Conference on Computer Vision (IEEE Cat. No.98CH36271)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx4/5756/15374/00710722.pdf?arnumber=710722', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T20:19:14Z', 'timestamp': 1489090754000}, 'score': 76.87082, 'issued': {'date-parts': [[None]]}, 'ISBN': ['8173192219'], 'references-count': 19, 'URL': 'http://dx.doi.org/10.1109/iccv.1998.710722'}
+>>> hash >>> ('Shock graphs and shape matching', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Steven Gold , Anand Rangarajan, A Graduated Assignment Algorithm for Graph Matching, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.18 n.4, p.377-388, April 1996  [doi>10.1109/34.491619]
+>>> DOI >>> 10.1109/34.491619
+>>> URL >>> http://dx.doi.org/10.1109/34.491619
+>>> year >>> 1996.0
+>>> title >>> A graduated assignment algorithm for graph matching
+>>> author >>> S. Gold and A. Rangarajan
+>>> reference_count >>> 58.0
+>>> is_referenced_by_count >>> 504.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:33Z', 'timestamp': 1525333533505}, 'reference-count': 58, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1996, 4]]}, 'DOI': '10.1109/34.491619', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '377-388', 'source': 'Crossref', 'is-referenced-by-count': 504, 'title': ['A graduated assignment algorithm for graph matching'], 'prefix': '10.1109', 'volume': '18', 'author': [{'given': 'S.', 'family': 'Gold', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Rangarajan', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/10562/00491619.pdf?arnumber=491619', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:28:39Z', 'timestamp': 1497522519000}, 'score': 103.74981, 'issued': {'date-parts': [[1996, 4]]}, 'references-count': 58, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/34.491619', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A graduated assignment algorithm for graph matching', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. V. Stewart, C.-L. Tsai, and B. Roysam, "The dual-bootstrap iterative closest point algorithm with application to retinal image registration," IEEE Transactions onMedical Imaging, vol. 22, no. 11, pp. 1379-1394, 2003.
+>>> DOI >>> 10.1109/tmi.2003.819276
+>>> URL >>> http://dx.doi.org/10.1109/tmi.2003.819276
+>>> year >>> 2003.0
+>>> title >>> The dual-bootstrap iterative closest point algorithm with application to retinal image registration
+>>> author >>> None
+>>> reference_count >>> 88.0
+>>> is_referenced_by_count >>> 186.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Medical Imaging']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T06:42:43Z', 'timestamp': 1528180963527}, 'reference-count': 88, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Med. Imaging'], 'published-print': {'date-parts': [[2003, 11]]}, 'DOI': '10.1109/tmi.2003.819276', 'type': 'journal-article', 'created': {'date-parts': [[2003, 11, 4]], 'date-time': '2003-11-04T16:52:38Z', 'timestamp': 1067964758000}, 'page': '1379-1394', 'source': 'Crossref', 'is-referenced-by-count': 186, 'title': ['The dual-bootstrap iterative closest point algorithm with application to retinal image registration'], 'prefix': '10.1109', 'volume': '22', 'author': [{'given': 'C.V.', 'family': 'Stewart', 'sequence': 'first', 'affiliation': []}, {'family': 'Chia-Ling Tsai', 'sequence': 'additional', 'affiliation': []}, {'given': 'B.', 'family': 'Roysam', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Medical Imaging'], 'language': 'en', 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/42/27839/01242341.pdf?arnumber=1242341', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T01:56:45Z', 'timestamp': 1497578205000}, 'score': 130.22064, 'issued': {'date-parts': [[2003, 11]]}, 'references-count': 88, 'journal-issue': {'published-print': {'date-parts': [[2003, 11]]}, 'issue': '11'}, 'URL': 'http://dx.doi.org/10.1109/tmi.2003.819276', 'ISSN': ['0278-0062'], 'issn-type': [{'value': '0278-0062', 'type': 'print'}]}
+>>> hash >>> ('The dual-bootstrap iterative closest point algorithm with application to retinal image registration', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Gehua Yang , Charles V. Stewart , Michal Sofka , Chia-Ling Tsai, Registration of Challenging Image Pairs: Initialization, Estimation, and Decision, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.29 n.11, p.1973-1989, November 2007  [doi>10.1109/TPAMI.2007.1116]
+>>> DOI >>> 10.1109/tpami.2007.1116
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2007.1116
+>>> year >>> 2007.0
+>>> title >>> Registration of Challenging Image Pairs: Initialization, Estimation, and Decision
+>>> author >>> Gehua Yang and Charles V. Stewart and Michal Sofka and Chia-Ling Tsai
+>>> reference_count >>> 54.0
+>>> is_referenced_by_count >>> 125.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 18]], 'date-time': '2018-05-18T13:42:47Z', 'timestamp': 1526650967243}, 'reference-count': 54, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2007, 11]]}, 'DOI': '10.1109/tpami.2007.1116', 'type': 'journal-article', 'created': {'date-parts': [[2007, 9, 17]], 'date-time': '2007-09-17T19:33:54Z', 'timestamp': 1190057634000}, 'page': '1973-1989', 'source': 'Crossref', 'is-referenced-by-count': 125, 'title': ['Registration of Challenging Image Pairs: Initialization, Estimation, and Decision'], 'prefix': '10.1109', 'volume': '29', 'author': [{'given': 'Gehua', 'family': 'Yang', 'sequence': 'first', 'affiliation': []}, {'given': 'Charles V.', 'family': 'Stewart', 'sequence': 'additional', 'affiliation': []}, {'given': 'Michal', 'family': 'Sofka', 'sequence': 'additional', 'affiliation': []}, {'given': 'Chia-Ling', 'family': 'Tsai', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/4302752/04302762.pdf?arnumber=4302762', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T12:20:34Z', 'timestamp': 1510662034000}, 'score': 128.78265, 'issued': {'date-parts': [[2007, 11]]}, 'references-count': 54, 'journal-issue': {'issue': '11'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2007.1116', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Registration of Challenging Image Pairs: Initialization, Estimation, and Decision', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Ryan, C. Heneghan, and P. De Chazal, "Registration of digital retinal images using landmark correspondence by expectation maximization," Image and Vision Computing, vol. 22, no. 11, pp. 883-898, 2004.
+>>> DOI >>> 10.1016/j.imavis.2004.04.004
+>>> URL >>> http://dx.doi.org/10.1016/j.imavis.2004.04.004
+>>> year >>> 2004.0
+>>> title >>> Registration of digital retinal images using landmark correspondence by expectation maximization
+>>> author >>> Neil Ryan and Conor Heneghan and Philip de Chazal
+>>> reference_count >>> 30.0
+>>> is_referenced_by_count >>> 40.0
+>>> subject >>> None
+>>> container_title >>> ['Image and Vision Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T06:28:54Z', 'timestamp': 1525415334537}, 'reference-count': 30, 'publisher': 'Elsevier BV', 'issue': '11', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2004, 9, 1]], 'date-time': '2004-09-01T00:00:00Z', 'timestamp': 1093996800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Image and Vision Computing'], 'published-print': {'date-parts': [[2004, 9]]}, 'DOI': '10.1016/j.imavis.2004.04.004', 'type': 'journal-article', 'created': {'date-parts': [[2004, 7, 27]], 'date-time': '2004-07-27T21:39:35Z', 'timestamp': 1090964375000}, 'page': '883-898', 'source': 'Crossref', 'is-referenced-by-count': 40, 'title': ['Registration of digital retinal images using landmark correspondence by expectation maximization'], 'prefix': '10.1016', 'volume': '22', 'author': [{'given': 'Neil', 'family': 'Ryan', 'sequence': 'first', 'affiliation': []}, {'given': 'Conor', 'family': 'Heneghan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Philip', 'family': 'de Chazal', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Image and Vision Computing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0262885604001118?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0262885604001118?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T09:06:34Z', 'timestamp': 1497603994000}, 'score': 136.66917, 'issued': {'date-parts': [[2004, 9]]}, 'references-count': 30, 'journal-issue': {'published-print': {'date-parts': [[2004, 9]]}, 'issue': '11'}, 'alternative-id': ['S0262885604001118'], 'URL': 'http://dx.doi.org/10.1016/j.imavis.2004.04.004', 'ISSN': ['0262-8856'], 'issn-type': [{'value': '0262-8856', 'type': 'print'}]}
+>>> hash >>> ('Registration of digital retinal images using landmark correspondence by expectation maximization', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Martin A. Fischler , Robert C. Bolles, Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography, Communications of the ACM, v.24 n.6, p.381-395, June 1981  [doi>10.1145/358669.358692]
+>>> DOI >>> 10.1145/358669.358692
+>>> URL >>> http://dx.doi.org/10.1145/358669.358692
+>>> year >>> 1981.0
+>>> title >>> Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography
+>>> author >>> Martin A. Fischler and Robert C. Bolles
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 8212.0
+>>> subject >>> None
+>>> container_title >>> ['Communications of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T18:02:31Z', 'timestamp': 1528394551237}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Commun. ACM'], 'published-print': {'date-parts': [[1981, 6, 1]]}, 'DOI': '10.1145/358669.358692', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:34:59Z', 'timestamp': 1027769699000}, 'page': '381-395', 'source': 'Crossref', 'is-referenced-by-count': 8212, 'title': ['Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography'], 'prefix': '10.1145', 'volume': '24', 'author': [{'given': 'Martin A.', 'family': 'Fischler', 'sequence': 'first', 'affiliation': []}, {'given': 'Robert C.', 'family': 'Bolles', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['Communications of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=358692&amp;ftid=45637&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T02:35:31Z', 'timestamp': 1481855731000}, 'score': 117.15726, 'issued': {'date-parts': [[1981, 6, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '6'}, 'URL': 'http://dx.doi.org/10.1145/358669.358692', 'ISSN': ['0001-0782'], 'issn-type': [{'value': '0001-0782', 'type': 'print'}]}
+>>> hash >>> ('Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography', 1981.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Zass and A. Shashua, "Probabilistic graph and hypergraph matching," in Proceedings of the 26th IEEE Conference on Computer Vision and Pattern Recognition (CVPR '08), June 2008.
+>>> DOI >>> 10.1109/cvpr.2008.4587500
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2008.4587500
+>>> year >>> 2008.0
+>>> title >>> Probabilistic graph and hypergraph matching
+>>> author >>> Ron Zass and Amnon Shashua
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 129.0
+>>> subject >>> None
+>>> container_title >>> ['2008 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:54:20Z', 'timestamp': 1525438460229}, 'reference-count': 18, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424422425', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 6]]}, 'DOI': '10.1109/cvpr.2008.4587500', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 8, 12]], 'date-time': '2008-08-12T14:28:49Z', 'timestamp': 1218551329000}, 'source': 'Crossref', 'is-referenced-by-count': 129, 'title': ['Probabilistic graph and hypergraph matching'], 'prefix': '10.1109', 'author': [{'given': 'Ron', 'family': 'Zass', 'sequence': 'first', 'affiliation': []}, {'given': 'Amnon', 'family': 'Shashua', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2008 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Anchorage, AK, USA', 'start': {'date-parts': [[2008, 6, 23]]}, 'end': {'date-parts': [[2008, 6, 28]]}}, 'container-title': ['2008 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4558014/4587335/04587500.pdf?arnumber=4587500', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T14:14:04Z', 'timestamp': 1489673644000}, 'score': 110.25463, 'issued': {'date-parts': [[2008, 6]]}, 'ISBN': ['9781424422425'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1109/cvpr.2008.4587500'}
+>>> hash >>> ('Probabilistic graph and hypergraph matching', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> F. Laliberté, L. Gagnon, and Y. Sheng, "Registration and fusion of retinal images-an evaluation study," IEEE Transactions on Medical Imaging, vol. 22, no. 5, pp. 661-673, 2003.
+>>> DOI >>> 10.1109/tmi.2003.812263
+>>> URL >>> http://dx.doi.org/10.1109/tmi.2003.812263
+>>> year >>> 2003.0
+>>> title >>> Registration and fusion of retinal images-an evaluation study
+>>> author >>> None
+>>> reference_count >>> 24.0
+>>> is_referenced_by_count >>> 84.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Medical Imaging']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T19:14:17Z', 'timestamp': 1525374857913}, 'reference-count': 24, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Med. Imaging'], 'published-print': {'date-parts': [[2003, 5]]}, 'DOI': '10.1109/tmi.2003.812263', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 23]], 'date-time': '2003-06-23T19:10:59Z', 'timestamp': 1056395459000}, 'page': '661-673', 'source': 'Crossref', 'is-referenced-by-count': 84, 'title': ['Registration and fusion of retinal images-an evaluation study'], 'prefix': '10.1109', 'volume': '22', 'author': [{'given': 'F.', 'family': 'Laliberte', 'sequence': 'first', 'affiliation': []}, {'given': 'L.', 'family': 'Gagnon', 'sequence': 'additional', 'affiliation': []}, {'family': 'Yunlong Sheng', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Medical Imaging'], 'language': 'en', 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/42/27177/01207401.pdf?arnumber=1207401', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T22:37:46Z', 'timestamp': 1497566266000}, 'score': 87.82102, 'issued': {'date-parts': [[2003, 5]]}, 'references-count': 24, 'journal-issue': {'published-print': {'date-parts': [[2003, 5]]}, 'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/tmi.2003.812263', 'ISSN': ['0278-0062'], 'issn-type': [{'value': '0278-0062', 'type': 'print'}]}
+>>> hash >>> ('Registration and fusion of retinal images-an evaluation study', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T. Chanwimaluang , Guoliang Fan , S. R. Fransen, Hybrid retinal image registration, IEEE Transactions on Information Technology in Biomedicine, v.10 n.1, p.129-142, January 2006  [doi>10.1109/TITB.2005.856859]
+>>> DOI >>> 10.1109/titb.2005.856859
+>>> URL >>> http://dx.doi.org/10.1109/titb.2005.856859
+>>> year >>> 2006.0
+>>> title >>> Hybrid Retinal Image Registration
+>>> author >>> T. Chanwimaluang and G. Fan and S.R. Fransen
+>>> reference_count >>> 48.0
+>>> is_referenced_by_count >>> 91.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Information Technology in Biomedicine']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:38:03Z', 'timestamp': 1525484283851}, 'reference-count': 48, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Inform. Technol. Biomed.'], 'published-print': {'date-parts': [[2006, 1]]}, 'DOI': '10.1109/titb.2005.856859', 'type': 'journal-article', 'created': {'date-parts': [[2006, 1, 11]], 'date-time': '2006-01-11T16:34:00Z', 'timestamp': 1136997240000}, 'page': '129-142', 'source': 'Crossref', 'is-referenced-by-count': 91, 'title': ['Hybrid Retinal Image Registration'], 'prefix': '10.1109', 'volume': '10', 'author': [{'given': 'T.', 'family': 'Chanwimaluang', 'sequence': 'first', 'affiliation': []}, {'given': 'G.', 'family': 'Fan', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.R.', 'family': 'Fransen', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Information Technology in Biomedicine'], 'language': 'en', 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4233/33276/01573715.pdf?arnumber=1573715', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 14]], 'date-time': '2017-03-14T20:36:06Z', 'timestamp': 1489523766000}, 'score': 96.0745, 'issued': {'date-parts': [[2006, 1]]}, 'references-count': 48, 'journal-issue': {'published-print': {'date-parts': [[2006, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1109/titb.2005.856859', 'ISSN': ['1089-7771'], 'issn-type': [{'value': '1089-7771', 'type': 'print'}]}
+>>> hash >>> ('Hybrid Retinal Image Registration', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C.-L. Tsai, C.-Y. Li, G. Yang, and K.-S. Lin, "The edgedriven dual-bootstrap iterative closest point algorithm for registration of multimodal fluorescein angiogram sequence," IEEE Transactions on Medical Imaging, vol. 29, no. 3, pp. 636- 649, 2010.
+>>> DOI >>> 10.1109/tmi.2009.2030324
+>>> URL >>> http://dx.doi.org/10.1109/tmi.2009.2030324
+>>> year >>> 2010.0
+>>> title >>> The Edge-Driven Dual-Bootstrap Iterative Closest Point Algorithm for Registration of Multimodal Fluorescein Angiogram Sequence
+>>> author >>> None
+>>> reference_count >>> 54.0
+>>> is_referenced_by_count >>> 40.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Medical Imaging']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 1]], 'date-time': '2018-06-01T14:22:32Z', 'timestamp': 1527862952628}, 'reference-count': 54, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Med. Imaging'], 'published-print': {'date-parts': [[2010, 3]]}, 'DOI': '10.1109/tmi.2009.2030324', 'type': 'journal-article', 'created': {'date-parts': [[2009, 8, 25]], 'date-time': '2009-08-25T20:13:24Z', 'timestamp': 1251231204000}, 'page': '636-649', 'source': 'Crossref', 'is-referenced-by-count': 40, 'title': ['The Edge-Driven Dual-Bootstrap Iterative Closest Point Algorithm for Registration of Multimodal Fluorescein Angiogram Sequence'], 'prefix': '10.1109', 'volume': '29', 'author': [{'family': 'Chia-Ling Tsai', 'sequence': 'first', 'affiliation': []}, {'family': 'Chun-Yi Li', 'sequence': 'additional', 'affiliation': []}, {'family': 'Gehua Yang', 'sequence': 'additional', 'affiliation': []}, {'family': 'Kai-Shung Lin', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Medical Imaging'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/42/5423284/05223602.pdf?arnumber=5223602', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 13]], 'date-time': '2017-11-13T23:27:42Z', 'timestamp': 1510615662000}, 'score': 110.446495, 'issued': {'date-parts': [[2010, 3]]}, 'references-count': 54, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/tmi.2009.2030324', 'ISSN': ['0278-0062', '1558-254X'], 'issn-type': [{'value': '0278-0062', 'type': 'print'}, {'value': '1558-254X', 'type': 'electronic'}]}
+>>> hash >>> ('The Edge-Driven Dual-Bootstrap Iterative Closest Point Algorithm for Registration of Multimodal Fluorescein Angiogram Sequence', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ali Can , Charles V. Stewart , Badrinath Roysam , Howard L. Tanenbaum, A Feature-Based, Robust, Hierarchical Algorithm for Registering Pairs of Images of the Curved Human Retina, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.24 n.3, p.347-364, March 2002  [doi>10.1109/34.990136]
+>>> DOI >>> 10.1109/34.990136
+>>> URL >>> http://dx.doi.org/10.1109/34.990136
+>>> year >>> 2002.0
+>>> title >>> A feature-based, robust, hierarchical algorithm for registering pairs of images of the curved human retina
+>>> author >>> A. Can and C.V. Stewart and B. Roysam and H.L. Tanenbaum
+>>> reference_count >>> 57.0
+>>> is_referenced_by_count >>> 145.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:47:13Z', 'timestamp': 1525333633003}, 'reference-count': 57, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2002, 3]]}, 'DOI': '10.1109/34.990136', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T20:14:45Z', 'timestamp': 1030220085000}, 'page': '347-364', 'source': 'Crossref', 'is-referenced-by-count': 145, 'title': ['A feature-based, robust, hierarchical algorithm for registering pairs of images of the curved human retina'], 'prefix': '10.1109', 'volume': '24', 'author': [{'given': 'A.', 'family': 'Can', 'sequence': 'first', 'affiliation': []}, {'given': 'C.V.', 'family': 'Stewart', 'sequence': 'additional', 'affiliation': []}, {'given': 'B.', 'family': 'Roysam', 'sequence': 'additional', 'affiliation': []}, {'given': 'H.L.', 'family': 'Tanenbaum', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/21341/00990136.pdf?arnumber=990136', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T09:36:37Z', 'timestamp': 1512984997000}, 'score': 123.81789, 'issued': {'date-parts': [[2002, 3]]}, 'references-count': 57, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/34.990136', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A feature-based, robust, hierarchical algorithm for registering pairs of images of the curved human retina', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. K. Matsopoulos , N. A. Mouravliansky , K. K. Delibasis , K. S. Nikita, Automatic retinal image registration scheme using global optimization techniques, IEEE Transactions on Information Technology in Biomedicine, v.3 n.1, p.47-60, March 1999  [doi>10.1109/4233.748975]
+>>> DOI >>> 10.1109/4233.748975
+>>> URL >>> http://dx.doi.org/10.1109/4233.748975
+>>> year >>> 1999.0
+>>> title >>> Automatic retinal image registration scheme using global optimization techniques
+>>> author >>> G.K. Matsopoulos and N.A. Mouravliansky and K.K. Delibasis and K.S. Nikita
+>>> reference_count >>> 51.0
+>>> is_referenced_by_count >>> 97.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Information Technology in Biomedicine']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:31:21Z', 'timestamp': 1525332681729}, 'reference-count': 51, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Inform. Technol. Biomed.'], 'published-print': {'date-parts': [[1999, 3]]}, 'DOI': '10.1109/4233.748975', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T19:45:59Z', 'timestamp': 1030218359000}, 'page': '47-60', 'source': 'Crossref', 'is-referenced-by-count': 97, 'title': ['Automatic retinal image registration scheme using global optimization techniques'], 'prefix': '10.1109', 'volume': '3', 'author': [{'given': 'G.K.', 'family': 'Matsopoulos', 'sequence': 'first', 'affiliation': []}, {'given': 'N.A.', 'family': 'Mouravliansky', 'sequence': 'additional', 'affiliation': []}, {'given': 'K.K.', 'family': 'Delibasis', 'sequence': 'additional', 'affiliation': []}, {'given': 'K.S.', 'family': 'Nikita', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Information Technology in Biomedicine'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4233/16172/00748975.pdf?arnumber=748975', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T07:02:50Z', 'timestamp': 1512975770000}, 'score': 133.10817, 'issued': {'date-parts': [[1999, 3]]}, 'references-count': 51, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1109/4233.748975', 'ISSN': ['1089-7771'], 'issn-type': [{'value': '1089-7771', 'type': 'print'}]}
+>>> hash >>> ('Automatic retinal image registration scheme using global optimization techniques', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. V. B. Soares, J. J. G. Leandro,R.M.Cesar Jr., H. F. Jelinek, and M. J. Cree, "Retinal vessel segmentation using the 2-D Gabor wavelet and supervised classification," IEEE Transactions on Medical Imaging, vol. 25, no. 9, Article ID 1677727, pp. 1214- 1222, 2006.
+>>> DOI >>> 10.1109/tmi.2006.879967
+>>> URL >>> http://dx.doi.org/10.1109/tmi.2006.879967
+>>> year >>> 2006.0
+>>> title >>> Retinal vessel segmentation using the 2-D Gabor wavelet and supervised classification
+>>> author >>> J.V.B. Soares and J.J.G. Leandro and R.M. Cesar and H.F. Jelinek and M.J. Cree
+>>> reference_count >>> 52.0
+>>> is_referenced_by_count >>> 563.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Medical Imaging']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T09:22:31Z', 'timestamp': 1528363351236}, 'reference-count': 52, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '9', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Med. Imaging'], 'published-print': {'date-parts': [[2006, 9]]}, 'DOI': '10.1109/tmi.2006.879967', 'type': 'journal-article', 'created': {'date-parts': [[2006, 8, 23]], 'date-time': '2006-08-23T15:36:32Z', 'timestamp': 1156347392000}, 'page': '1214-1222', 'source': 'Crossref', 'is-referenced-by-count': 563, 'title': ['Retinal vessel segmentation using the 2-D Gabor wavelet and supervised classification'], 'prefix': '10.1109', 'volume': '25', 'author': [{'given': 'J.V.B.', 'family': 'Soares', 'sequence': 'first', 'affiliation': []}, {'given': 'J.J.G.', 'family': 'Leandro', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.M.', 'family': 'Cesar', 'sequence': 'additional', 'affiliation': []}, {'given': 'H.F.', 'family': 'Jelinek', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.J.', 'family': 'Cree', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Medical Imaging'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/42/35286/01677727.pdf?arnumber=1677727', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T05:18:36Z', 'timestamp': 1510636716000}, 'score': 135.96582, 'issued': {'date-parts': [[2006, 9]]}, 'references-count': 52, 'journal-issue': {'issue': '9'}, 'URL': 'http://dx.doi.org/10.1109/tmi.2006.879967', 'ISSN': ['0278-0062'], 'issn-type': [{'value': '0278-0062', 'type': 'print'}]}
+>>> hash >>> ('Retinal vessel segmentation using the 2-D Gabor wavelet and supervised classification', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Wendy Aguilar , M. Elena Martinez-Perez , Yann Frauel , Francisco Escolano , Miguel Angel Lozano , Arturo Espinosa-Romero, Graph-based methods for retinal mosaicing and vascular characterization, Proceedings of the 6th IAPR-TC-15 international conference on Graph-based representations in pattern recognition, June 11-13, 2007, Alicante, Spain
+>>> DOI >>> 10.1007/978-3-540-72903-7_3
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-72903-7_3
+>>> year >>> None
+>>> title >>> Graph-Based Methods for Retinal Mosaicing and Vascular Characterization
+>>> author >>> Wendy Aguilar and M. Elena Martinez-Perez and Yann Frauel and Francisco Escolano and Miguel Angel Lozano and Arturo Espinosa-Romero
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['Graph-Based Representations in Pattern Recognition', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:29:15Z', 'timestamp': 1525386555196}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540729020', 'type': 'print'}, {'value': '9783540729037', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/978-3-540-72903-7_3', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 8, 20]], 'date-time': '2007-08-20T02:54:03Z', 'timestamp': 1187578443000}, 'page': '25-36', 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['Graph-Based Methods for Retinal Mosaicing and Vascular Characterization'], 'prefix': '10.1007', 'author': [{'given': 'Wendy', 'family': 'Aguilar', 'sequence': 'first', 'affiliation': []}, {'given': 'M. Elena', 'family': 'Martinez-Perez', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yann', 'family': 'Frauel', 'sequence': 'additional', 'affiliation': []}, {'given': 'Francisco', 'family': 'Escolano', 'sequence': 'additional', 'affiliation': []}, {'given': 'Miguel Angel', 'family': 'Lozano', 'sequence': 'additional', 'affiliation': []}, {'given': 'Arturo', 'family': 'Espinosa-Romero', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Graph-Based Representations in Pattern Recognition', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-540-72903-7_3', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 17]], 'date-time': '2014-01-17T20:16:28Z', 'timestamp': 1389989788000}, 'score': 111.779724, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9783540729020', '9783540729037'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-540-72903-7_3', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Graph-Based Methods for Retinal Mosaicing and Vascular Characterization', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Sofka and C. V. Stewart, "Retinal vessel centerline extraction using multiscale matched filters, confidence and edge measures," IEEE Transactions on Medical Imaging, vol. 25, no. 12, pp. 1531-1546, 2006.
+>>> DOI >>> 10.1109/tmi.2006.884190
+>>> URL >>> http://dx.doi.org/10.1109/tmi.2006.884190
+>>> year >>> 2006.0
+>>> title >>> Retinal Vessel Centerline Extraction Using Multiscale Matched Filters, Confidence and Edge Measures
+>>> author >>> Michal Sofka and Charles V. Stewart
+>>> reference_count >>> 72.0
+>>> is_referenced_by_count >>> 171.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Medical Imaging']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365346}, 'reference-count': 72, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '12', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Med. Imaging'], 'published-print': {'date-parts': [[2006, 12]]}, 'DOI': '10.1109/tmi.2006.884190', 'type': 'journal-article', 'created': {'date-parts': [[2006, 12, 1]], 'date-time': '2006-12-01T14:45:33Z', 'timestamp': 1164984333000}, 'page': '1531-1546', 'source': 'Crossref', 'is-referenced-by-count': 171, 'title': ['Retinal Vessel Centerline Extraction Using Multiscale Matched Filters, Confidence and Edge Measures'], 'prefix': '10.1109', 'volume': '25', 'author': [{'given': 'Michal', 'family': 'Sofka', 'sequence': 'first', 'affiliation': []}, {'given': 'Charles V.', 'family': 'Stewart', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Medical Imaging'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/42/4016159/04016172.pdf?arnumber=4016172', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 3, 13]], 'date-time': '2018-03-13T18:19:35Z', 'timestamp': 1520965175000}, 'score': 132.04361, 'issued': {'date-parts': [[2006, 12]]}, 'references-count': 72, 'journal-issue': {'issue': '12'}, 'URL': 'http://dx.doi.org/10.1109/tmi.2006.884190', 'ISSN': ['0278-0062', '1558-254X'], 'issn-type': [{'value': '0278-0062', 'type': 'print'}, {'value': '1558-254X', 'type': 'electronic'}]}
+>>> hash >>> ('Retinal Vessel Centerline Extraction Using Multiscale Matched Filters, Confidence and Edge Measures', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Krystian Mikolajczyk , Cordelia Schmid, A Performance Evaluation of Local Descriptors, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.27 n.10, p.1615-1630, October 2005  [doi>10.1109/TPAMI.2005.188]
+>>> DOI >>> 10.1109/tpami.2005.188
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2005.188
+>>> year >>> 2005.0
+>>> title >>> A performance evaluation of local descriptors
+>>> author >>> K. Mikolajczyk and C. Schmid
+>>> reference_count >>> 45.0
+>>> is_referenced_by_count >>> 3172.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T07:42:40Z', 'timestamp': 1528357360117}, 'reference-count': 45, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '10', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2005, 10]]}, 'DOI': '10.1109/tpami.2005.188', 'type': 'journal-article', 'created': {'date-parts': [[2005, 8, 24]], 'date-time': '2005-08-24T13:57:19Z', 'timestamp': 1124891839000}, 'page': '1615-1630', 'source': 'Crossref', 'is-referenced-by-count': 3172, 'title': ['A performance evaluation of local descriptors'], 'prefix': '10.1109', 'volume': '27', 'author': [{'given': 'K.', 'family': 'Mikolajczyk', 'sequence': 'first', 'affiliation': []}, {'given': 'C.', 'family': 'Schmid', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/32189/01498756.pdf?arnumber=1498756', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T01:41:35Z', 'timestamp': 1510623695000}, 'score': 100.84923, 'issued': {'date-parts': [[2005, 10]]}, 'references-count': 45, 'journal-issue': {'issue': '10'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2005.188', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A performance evaluation of local descriptors', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> F. Zana and J. C. Klein, "A multimodal registration algorithm of eye fundus images using vessels detection and hough transform," IEEE Transactions on Medical Imaging, vol. 18, no. 5, pp. 419-428, 1999.
+>>> DOI >>> 10.1109/42.774169
+>>> URL >>> http://dx.doi.org/10.1109/42.774169
+>>> year >>> 1999.0
+>>> title >>> A multimodal registration algorithm of eye fundus images using vessels detection and Hough transform
+>>> author >>> F. Zana and J.C. Klein
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 155.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Medical Imaging']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365116}, 'reference-count': 28, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Med. Imaging'], 'published-print': {'date-parts': [[1999, 5]]}, 'DOI': '10.1109/42.774169', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T17:57:42Z', 'timestamp': 1030211862000}, 'page': '419-428', 'source': 'Crossref', 'is-referenced-by-count': 155, 'title': ['A multimodal registration algorithm of eye fundus images using vessels detection and Hough transform'], 'prefix': '10.1109', 'volume': '18', 'author': [{'given': 'F.', 'family': 'Zana', 'sequence': 'first', 'affiliation': []}, {'given': 'J.C.', 'family': 'Klein', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Medical Imaging'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/42/16801/00774169.pdf?arnumber=774169', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T19:50:10Z', 'timestamp': 1489175410000}, 'score': 125.93037, 'issued': {'date-parts': [[1999, 5]]}, 'references-count': 28, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/42.774169', 'ISSN': ['0278-0062'], 'issn-type': [{'value': '0278-0062', 'type': 'print'}]}
+>>> hash >>> ('A multimodal registration algorithm of eye fundus images using vessels detection and Hough transform', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. G. DeGrezia and M. Robinson, "Ophthalmic manifestations of HIV: an update," The Journal of the Association of Nurses in AIDS Care, vol. 12, no. 3, pp. 22-32, 2001.
+>>> DOI >>> 10.1016/s1055-3290(06)60142-8
+>>> URL >>> http://dx.doi.org/10.1016/s1055-3290(06)60142-8
+>>> year >>> 2001.0
+>>> title >>> Ophthalmic Manifestations of HIV: An Update
+>>> author >>> Mary G. DeGrezia and Michael Robinson
+>>> reference_count >>> 34.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the Association of Nurses in AIDS Care']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T02:12:05Z', 'timestamp': 1525486325309}, 'reference-count': 34, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2001, 5, 1]], 'date-time': '2001-05-01T00:00:00Z', 'timestamp': 988675200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of the Association of Nurses in AIDS Care'], 'published-print': {'date-parts': [[2001, 5]]}, 'DOI': '10.1016/s1055-3290(06)60142-8', 'type': 'journal-article', 'created': {'date-parts': [[2006, 1, 27]], 'date-time': '2006-01-27T14:55:03Z', 'timestamp': 1138373703000}, 'page': '22-32', 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['Ophthalmic Manifestations of HIV: An Update'], 'prefix': '10.1016', 'volume': '12', 'author': [{'given': 'Mary G.', 'family': 'DeGrezia', 'sequence': 'first', 'affiliation': []}, {'given': 'Michael', 'family': 'Robinson', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of the Association of Nurses in AIDS Care'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1055329006601428?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1055329006601428?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T02:48:47Z', 'timestamp': 1497667727000}, 'score': 91.44316, 'issued': {'date-parts': [[2001, 5]]}, 'references-count': 34, 'journal-issue': {'published-print': {'date-parts': [[2001, 5]]}, 'issue': '3'}, 'alternative-id': ['S1055329006601428'], 'URL': 'http://dx.doi.org/10.1016/s1055-3290(06)60142-8', 'ISSN': ['1055-3290'], 'issn-type': [{'value': '1055-3290', 'type': 'print'}]}
+>>> hash >>> ('Ophthalmic Manifestations of HIV: An Update', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Rusinkiewicz and M. Levoy, "Efficient variants of the ICP algorithm," in Proceedings of the 3rd International Conference on 3-D Digital Imaging and Modeling, pp. 145-152, 2001.
+>>> DOI >>> 10.1109/im.2001.924423
+>>> URL >>> http://dx.doi.org/10.1109/im.2001.924423
+>>> year >>> None
+>>> title >>> Efficient variants of the ICP algorithm
+>>> author >>> S. Rusinkiewicz and M. Levoy
+>>> reference_count >>> 30.0
+>>> is_referenced_by_count >>> 1021.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings Third International Conference on 3-D Digital Imaging and Modeling']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T09:02:43Z', 'timestamp': 1528275763865}, 'reference-count': 30, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769509843', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/im.2001.924423', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 13]], 'date-time': '2002-11-13T15:01:54Z', 'timestamp': 1037199714000}, 'source': 'Crossref', 'is-referenced-by-count': 1021, 'title': ['Efficient variants of the ICP algorithm'], 'prefix': '10.1109', 'author': [{'given': 'S.', 'family': 'Rusinkiewicz', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Levoy', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Third International Conference on 3-D Digital Imaging and Modeling', 'location': 'Quebec City, Que., Canada', 'acronym': 'IM-01'}, 'container-title': ['Proceedings Third International Conference on 3-D Digital Imaging and Modeling'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/7363/19984/00924423.pdf?arnumber=924423', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T14:54:49Z', 'timestamp': 1497538489000}, 'score': 79.41309, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769509843'], 'references-count': 30, 'URL': 'http://dx.doi.org/10.1109/im.2001.924423'}
+>>> hash >>> ('Efficient variants of the ICP algorithm', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Gregory D. Hager , Peter N. Belhumeur, Efficient Region Tracking With Parametric Models of Geometry and Illumination, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.20 n.10, p.1025-1039, October 1998  [doi>10.1109/34.722606]
+>>> DOI >>> 10.1109/34.722606
+>>> URL >>> http://dx.doi.org/10.1109/34.722606
+>>> year >>> 1998.0
+>>> title >>> Efficient region tracking with parametric models of geometry and illumination
+>>> author >>> G.D. Hager and P.N. Belhumeur
+>>> reference_count >>> 44.0
+>>> is_referenced_by_count >>> 613.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:32Z', 'timestamp': 1525333532210}, 'reference-count': 44, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '10', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1998]]}, 'DOI': '10.1109/34.722606', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '1025-1039', 'source': 'Crossref', 'is-referenced-by-count': 613, 'title': ['Efficient region tracking with parametric models of geometry and illumination'], 'prefix': '10.1109', 'volume': '20', 'author': [{'given': 'G.D.', 'family': 'Hager', 'sequence': 'first', 'affiliation': []}, {'given': 'P.N.', 'family': 'Belhumeur', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx4/34/15627/00722606.pdf?arnumber=722606', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T09:17:08Z', 'timestamp': 1512983828000}, 'score': 122.80561, 'issued': {'date-parts': [[1998]]}, 'references-count': 44, 'journal-issue': {'issue': '10'}, 'URL': 'http://dx.doi.org/10.1109/34.722606', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Efficient region tracking with parametric models of geometry and illumination', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Paul J. Besl , Neil D. McKay, A Method for Registration of 3-D Shapes, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.14 n.2, p.239-256, February 1992  [doi>10.1109/34.121791]
+>>> DOI >>> 10.1109/34.121791
+>>> URL >>> http://dx.doi.org/10.1109/34.121791
+>>> year >>> 1992.0
+>>> title >>> A method for registration of 3-D shapes
+>>> author >>> P.J. Besl and Neil D. McKay
+>>> reference_count >>> 62.0
+>>> is_referenced_by_count >>> 6645.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T18:02:31Z', 'timestamp': 1528394551239}, 'reference-count': 62, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[1992, 2]]}, 'DOI': '10.1109/34.121791', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '239-256', 'source': 'Crossref', 'is-referenced-by-count': 6645, 'title': ['A method for registration of 3-D shapes'], 'prefix': '10.1109', 'volume': '14', 'author': [{'given': 'P.J.', 'family': 'Besl', 'sequence': 'first', 'affiliation': []}, {'given': 'Neil D.', 'family': 'McKay', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/3469/00121791.pdf?arnumber=121791', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T09:57:13Z', 'timestamp': 1497520633000}, 'score': 87.48005, 'issued': {'date-parts': [[1992, 2]]}, 'references-count': 62, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1109/34.121791', 'ISSN': ['0162-8828', '2160-9292'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}, {'value': '2160-9292', 'type': 'electronic'}]}
+>>> hash >>> ('A method for registration of 3-D shapes', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> B. Fang and Y. Y. Tang, "Elastic registration for retinal images based on reconstructed vascular trees," IEEE Transactions on Biomedical Engineering, vol. 53, no. 6, Article ID 1634512, pp. 1183-1187, 2006.
+>>> DOI >>> 10.1109/tbme.2005.863927
+>>> URL >>> http://dx.doi.org/10.1109/tbme.2005.863927
+>>> year >>> 2006.0
+>>> title >>> Elastic Registration for Retinal Images Based on Reconstructed Vascular Trees
+>>> author >>> B. Fang and Y.Y. Tang
+>>> reference_count >>> 14.0
+>>> is_referenced_by_count >>> 33.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Biomedical Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T22:38:21Z', 'timestamp': 1525300701475}, 'reference-count': 14, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Biomed. Eng.'], 'published-print': {'date-parts': [[2006, 6]]}, 'DOI': '10.1109/tbme.2005.863927', 'type': 'journal-article', 'created': {'date-parts': [[2006, 5, 25]], 'date-time': '2006-05-25T19:20:43Z', 'timestamp': 1148584843000}, 'page': '1183-1187', 'source': 'Crossref', 'is-referenced-by-count': 33, 'title': ['Elastic Registration for Retinal Images Based on Reconstructed Vascular Trees'], 'prefix': '10.1109', 'volume': '53', 'author': [{'given': 'B.', 'family': 'Fang', 'sequence': 'first', 'affiliation': []}, {'given': 'Y.Y.', 'family': 'Tang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Biomedical Engineering'], 'language': 'en', 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10/34273/01634512.pdf?arnumber=1634512', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 15]], 'date-time': '2017-03-15T04:46:32Z', 'timestamp': 1489553192000}, 'score': 100.35659, 'issued': {'date-parts': [[2006, 6]]}, 'references-count': 14, 'journal-issue': {'published-print': {'date-parts': [[2006, 6]]}, 'issue': '6'}, 'URL': 'http://dx.doi.org/10.1109/tbme.2005.863927', 'ISSN': ['0018-9294'], 'issn-type': [{'value': '0018-9294', 'type': 'print'}]}
+>>> hash >>> ('Elastic Registration for Retinal Images Based on Reconstructed Vascular Trees', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. C. Nunes , Y. Bouaoune , E. Delechelle , Ph. Bunel, A multiscale elastic registration scheme for retinal angiograms, Computer Vision and Image Understanding, v.95 n.2, p.129-149, August 2004  [doi>10.1016/j.cviu.2004.03.007]
+>>> DOI >>> 10.1016/j.cviu.2004.03.007
+>>> URL >>> http://dx.doi.org/10.1016/j.cviu.2004.03.007
+>>> year >>> 2004.0
+>>> title >>> A multiscale elastic registration scheme for retinal angiograms
+>>> author >>> J.C. Nunes and Y. Bouaoune and E. Delechelle and Ph. Bunel
+>>> reference_count >>> 38.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision and Image Understanding']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 2]], 'date-time': '2018-06-02T18:40:01Z', 'timestamp': 1527964801596}, 'reference-count': 38, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2004, 8, 1]], 'date-time': '2004-08-01T00:00:00Z', 'timestamp': 1091318400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Vision and Image Understanding'], 'published-print': {'date-parts': [[2004, 8]]}, 'DOI': '10.1016/j.cviu.2004.03.007', 'type': 'journal-article', 'created': {'date-parts': [[2004, 6, 18]], 'date-time': '2004-06-18T17:35:57Z', 'timestamp': 1087580157000}, 'page': '129-149', 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['A multiscale elastic registration scheme for retinal angiograms'], 'prefix': '10.1016', 'volume': '95', 'author': [{'given': 'J.C.', 'family': 'Nunes', 'sequence': 'first', 'affiliation': []}, {'given': 'Y.', 'family': 'Bouaoune', 'sequence': 'additional', 'affiliation': []}, {'given': 'E.', 'family': 'Delechelle', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ph.', 'family': 'Bunel', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Computer Vision and Image Understanding'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S107731420400044X?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S107731420400044X?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2018, 6, 2]], 'date-time': '2018-06-02T18:26:11Z', 'timestamp': 1527963971000}, 'score': 141.45897, 'issued': {'date-parts': [[2004, 8]]}, 'references-count': 38, 'journal-issue': {'published-print': {'date-parts': [[2004, 8]]}, 'issue': '2'}, 'alternative-id': ['S107731420400044X'], 'URL': 'http://dx.doi.org/10.1016/j.cviu.2004.03.007', 'ISSN': ['1077-3142'], 'issn-type': [{'value': '1077-3142', 'type': 'print'}]}
+>>> hash >>> ('A multiscale elastic registration scheme for retinal angiograms', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Zheng, J. Tian, Y. Dai, K. Deng, and J. Chen, "Retinal image registration based on salient feature regions," in Proceedings of the 31st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC '09), pp. 102-105, 2009.
+>>> DOI >>> 10.1109/iembs.2009.5334778
+>>> URL >>> http://dx.doi.org/10.1109/iembs.2009.5334778
+>>> year >>> 2009.0
+>>> title >>> Retinal image registration based on salient feature regions
+>>> author >>> None
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['2009 Annual International Conference of the IEEE Engineering in Medicine and Biology Society']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T19:34:56Z', 'timestamp': 1525289696803}, 'reference-count': 13, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 9]]}, 'DOI': '10.1109/iembs.2009.5334778', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 12, 9]], 'date-time': '2009-12-09T20:58:10Z', 'timestamp': 1260392290000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Retinal image registration based on salient feature regions'], 'prefix': '10.1109', 'author': [{'family': 'Jian Zheng', 'sequence': 'first', 'affiliation': []}, {'family': 'Jie Tian', 'sequence': 'additional', 'affiliation': []}, {'family': 'Yakang Dai', 'sequence': 'additional', 'affiliation': []}, {'family': 'Kexin Deng', 'sequence': 'additional', 'affiliation': []}, {'family': 'Jian Chen', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 Annual International Conference of the IEEE Engineering in Medicine and Biology Society', 'location': 'Minneapolis, MN', 'start': {'date-parts': [[2009, 9, 3]]}, 'end': {'date-parts': [[2009, 9, 6]]}}, 'container-title': ['2009 Annual International Conference of the IEEE Engineering in Medicine and Biology Society'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5307844/5332379/05334778.pdf?arnumber=5334778', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 19]], 'date-time': '2017-03-19T02:09:00Z', 'timestamp': 1489889340000}, 'score': 101.3093, 'issued': {'date-parts': [[2009, 9]]}, 'references-count': 13, 'URL': 'http://dx.doi.org/10.1109/iembs.2009.5334778'}
+>>> hash >>> ('Retinal image registration based on salient feature regions', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Wendy Aguilar , Yann Frauel , Francisco Escolano , M. Elena Martinez-Perez , Arturo Espinosa-Romero , Miguel Angel Lozano, A robust Graph Transformation Matching for non-rigid registration, Image and Vision Computing, v.27 n.7, p.897-910, June, 2009  [doi>10.1016/j.imavis.2008.05.004]
+>>> DOI >>> 10.1016/j.imavis.2008.05.004
+>>> URL >>> http://dx.doi.org/10.1016/j.imavis.2008.05.004
+>>> year >>> 2009.0
+>>> title >>> A robust Graph Transformation Matching for non-rigid registration
+>>> author >>> Wendy Aguilar and Yann Frauel and Francisco Escolano and M. Elena Martinez-Perez and Arturo Espinosa-Romero and Miguel Angel Lozano
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 79.0
+>>> subject >>> None
+>>> container_title >>> ['Image and Vision Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database101.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T10:10:48Z', 'timestamp': 1525428648811}, 'reference-count': 21, 'publisher': 'Elsevier BV', 'issue': '7', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2009, 6, 1]], 'date-time': '2009-06-01T00:00:00Z', 'timestamp': 1243814400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Image and Vision Computing'], 'published-print': {'date-parts': [[2009, 6]]}, 'DOI': '10.1016/j.imavis.2008.05.004', 'type': 'journal-article', 'created': {'date-parts': [[2008, 5, 21]], 'date-time': '2008-05-21T19:11:16Z', 'timestamp': 1211397076000}, 'page': '897-910', 'source': 'Crossref', 'is-referenced-by-count': 79, 'title': ['A robust Graph Transformation Matching for non-rigid registration'], 'prefix': '10.1016', 'volume': '27', 'author': [{'given': 'Wendy', 'family': 'Aguilar', 'sequence': 'first', 'affiliation': []}, {'given': 'Yann', 'family': 'Frauel', 'sequence': 'additional', 'affiliation': []}, {'given': 'Francisco', 'family': 'Escolano', 'sequence': 'additional', 'affiliation': []}, {'given': 'M. Elena', 'family': 'Martinez-Perez', 'sequence': 'additional', 'affiliation': []}, {'given': 'Arturo', 'family': 'Espinosa-Romero', 'sequence': 'additional', 'affiliation': []}, {'given': 'Miguel Angel', 'family': 'Lozano', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Image and Vision Computing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0262885608001078?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0262885608001078?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T08:27:12Z', 'timestamp': 1497774432000}, 'score': 120.33296, 'issued': {'date-parts': [[2009, 6]]}, 'references-count': 21, 'journal-issue': {'published-print': {'date-parts': [[2009, 6]]}, 'issue': '7'}, 'alternative-id': ['S0262885608001078'], 'URL': 'http://dx.doi.org/10.1016/j.imavis.2008.05.004', 'ISSN': ['0262-8856'], 'issn-type': [{'value': '0262-8856', 'type': 'print'}]}
+>>> hash >>> ('A robust Graph Transformation Matching for non-rigid registration', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

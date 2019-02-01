@@ -1,0 +1,769 @@
+>>> NEW PAPER <<<
+>>> citation >>> R.M. Lipton, The beacon set approach to graph isomorphism, SIAM J. Comp. 9 /1980/.
+>>> DOI >>> 10.1137/0209047
+>>> URL >>> http://dx.doi.org/10.1137/0209047
+>>> year >>> 1980.0
+>>> title >>> Random Graph Isomorphism
+>>> author >>> László Babai and Paul Erdo\u02dds and Stanley M. Selkow
+>>> reference_count >>> 5.0
+>>> is_referenced_by_count >>> 71.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 15]], 'date-time': '2018-05-15T12:42:26Z', 'timestamp': 1526388146848}, 'reference-count': 5, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[1980, 8]]}, 'DOI': '10.1137/0209047', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 24]], 'date-time': '2005-02-24T11:21:58Z', 'timestamp': 1109244118000}, 'page': '628-635', 'source': 'Crossref', 'is-referenced-by-count': 71, 'title': ['Random Graph Isomorphism'], 'prefix': '10.1137', 'volume': '9', 'author': [{'given': 'László', 'family': 'Babai', 'sequence': 'first', 'affiliation': []}, {'given': 'Paul', 'family': 'Erdo\u02dds', 'sequence': 'additional', 'affiliation': []}, {'given': 'Stanley M.', 'family': 'Selkow', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0209047', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T17:14:34Z', 'timestamp': 1485710074000}, 'score': 35.91802, 'issued': {'date-parts': [[1980, 8]]}, 'references-count': 5, 'journal-issue': {'published-print': {'date-parts': [[1980, 8]]}, 'issue': '3'}, 'alternative-id': ['10.1137/0209047'], 'URL': 'http://dx.doi.org/10.1137/0209047', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('Random Graph Isomorphism', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Deo, J.M. Davis, R.E. Lord, A new algorithm for digraph isomorphism, BIT 17 /1977/ 16â€“30.
+>>> DOI >>> 10.1007/bf01932396
+>>> URL >>> http://dx.doi.org/10.1007/bf01932396
+>>> year >>> 1977.0
+>>> title >>> A new algorithm for digraph isomorphism
+>>> author >>> Narsingh Deo and J. M. Davis and R. E. Lord
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['BIT']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T20:50:56Z', 'timestamp': 1525467056998}, 'reference-count': 19, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['BIT'], 'published-print': {'date-parts': [[1977, 3]]}, 'DOI': '10.1007/bf01932396', 'type': 'journal-article', 'created': {'date-parts': [[2005, 7, 30]], 'date-time': '2005-07-30T19:45:07Z', 'timestamp': 1122752707000}, 'page': '16-30', 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['A new algorithm for digraph isomorphism'], 'prefix': '10.1007', 'volume': '17', 'author': [{'given': 'Narsingh', 'family': 'Deo', 'sequence': 'first', 'affiliation': []}, {'given': 'J. M.', 'family': 'Davis', 'sequence': 'additional', 'affiliation': []}, {'given': 'R. E.', 'family': 'Lord', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'BF01932396_CR1', 'unstructured': 'A. V. Aho, J. E. Hopcroft and J. D. Ullman,The Design and Analysis of Computer Algorithms. Addison-Wesley. (1974).'}, {'issue': '3', 'key': 'BF01932396_CR2', 'first-page': '365', 'volume': '20', 'author': 'A. T. Berztiss', 'year': '1973', 'unstructured': 'A. T. Berztiss,A backtrack procedure for isomorphism of directed graphs, JACM 20, 3 (July 1973) 365–377.', 'journal-title': 'JACM'}, {'key': 'BF01932396_CR3', 'unstructured': 'K. S. Booth,Problems Polynomially Equivalent to Graph Isomorphism, Proc. of Symposium on Analytic Computational Complexity, Carnegie-Mellon University, (1976), 36.'}, {'key': 'BF01932396_CR4', 'author': 'D. G. Corneil', 'year': '1968', 'unstructured': 'D. G. Corneil,Graph Isomorphism, Ph.D. th., U. of Toronto, Toronto, Ontario, Canada, 1968.', 'volume-title': 'Graph Isomorphism'}, {'issue': '1', 'key': 'BF01932396_CR5', 'first-page': '51', 'volume': '17', 'author': 'D. G. Corneil', 'year': '1970', 'unstructured': 'D. G. Corneil and C. C. Gotlieb,An efficient algorithm for graph isomorphism, J.ACM 17, 1 (Jan. 1970), 51–64.', 'journal-title': 'J.ACM'}, {'key': 'BF01932396_CR6', 'author': 'D. G. Corneil', 'year': '1974', 'unstructured': 'D. G. Corneil,The analysis of graph theoretic algorithms, Technical Report No. 65, Department of Computer Science, University of Toronto, Ontario, Canada (April 1974).', 'series-title': 'Technical Report', 'volume-title': 'The analysis of graph theoretic algorithms'}, {'key': 'BF01932396_CR7', 'author': 'N. Deo', 'year': '1974', 'unstructured': 'N. Deo,Graph Theory with Applications to Engineering and Computer Science. Prentice-Hall, Englewood Cliffs, N.J., 1974.', 'volume-title': 'Graph Theory with Applications to Engineering and Computer Science'}, {'key': 'BF01932396_CR8', 'author': 'F. Harary', 'year': '1969', 'unstructured': 'F. Harary,Graph Theory. Addison-Wesley, Reading, Mass., 1969.', 'volume-title': 'Graph Theory'}, {'key': 'BF01932396_CR9', 'first-page': '321', 'volume': '3', 'author': 'F. Harary', 'year': '1971', 'unstructured': 'F. Harary, C. A. King, A. Mowshowitz and R. C. Read,Cospectral graphs and digraphs, Bulletin Lond. Math. Soc., 3, (1971), 321–328.', 'journal-title': 'Bulletin Lond. Math. Soc.'}, {'key': 'BF01932396_CR10', 'unstructured': 'J. E. Hopcroft and R. E. Tarjan,Isomorphism of planar graphs, Complexity of Computer Computations, Ed. R. E. Miller and J. W. Tatcher, Plenum (1972), 131–152.'}, {'issue': '6', 'key': 'BF01932396_CR11', 'doi-asserted-by': 'crossref', 'first-page': '372', 'DOI': '10.1145/362248.362272', 'volume': '16', 'author': 'J. E. Hopcroft', 'year': '1973', 'unstructured': 'J. E. Hopcroft and R. E. Tarjan,Efficient algorithms for graph manipulation — Algorithm 447, CACM 16, 6 (June 1973) 372–378.', 'journal-title': 'CACM'}, {'key': 'BF01932396_CR12', 'author': 'R. M. Karp', 'first-page': '85', 'year': '1972', 'unstructured': 'R. M. Karp,Reducibility among combinatorial problems, In Complexity of Computer Computations, R. E. Miller and J. W. Tatcher, Eds. Plenum Press, New York, 1972, 85–103.', 'volume-title': 'Complexity of Computer Computations', 'DOI': '10.1007/978-1-4684-2001-2_9', 'doi-asserted-by': 'crossref'}, {'key': 'BF01932396_CR13', 'author': 'J. Lederberg', 'first-page': '37', 'year': '1969', 'unstructured': 'J. Lederberg,Topology of molecules, in The Mathematical Sciences, M.I.T. Press, Cambridge, Mass., 1969, 37–51.', 'volume-title': 'The Mathematical Sciences'}, {'key': 'BF01932396_CR14', 'first-page': '291', 'volume': '12', 'author': 'G. Levi', 'year': '1974', 'unstructured': 'G. Levi,Graph isomorphism: a heuristic edge-partitioning-oriented program, Computing, 12, (1974), 291–313.', 'journal-title': 'Computing'}, {'key': 'BF01932396_CR15', 'first-page': '209', 'volume': '14', 'author': 'A. Proskurowski', 'year': '1974', 'unstructured': 'A. Proskurowski,Search for a Unique Incidence Matrix of a Graph, BIT, 14 (1974), 209–226.', 'journal-title': 'BIT'}, {'issue': '1', 'key': 'BF01932396_CR16', 'first-page': '36', 'volume': '5', 'author': 'E. Sussenguth Jr.', 'year': '1965', 'unstructured': 'E. Sussenguth, Jr.,A graph theoretical algorithm for matching chemical structures, J. Chem. Doc. 5, 1 (February 1965) 36–43.', 'journal-title': 'J. Chem. Doc.'}, {'issue': '2', 'key': 'BF01932396_CR17', 'first-page': '146', 'volume': '1', 'author': 'R. E. Tarjan', 'year': '1972', 'unstructured': 'R. E. Tarjan,Depth-first search and linear graph algorithms, SIAM J. Comput. 1, 2 (1972) 146–160.', 'journal-title': 'SIAM J. Comput.'}, {'key': 'BF01932396_CR18', 'first-page': '31', 'volume': '23', 'author': 'J. R. Ullman', 'year': '1976', 'unstructured': 'J. R. Ullman,An Algorithm for Subgraph Isomorphism, J. ACM, 23 (1976), 31–42.', 'journal-title': 'J. ACM'}, {'issue': '1', 'key': 'BF01932396_CR19', 'first-page': '26', 'volume': '7', 'author': 'S. H. Unger', 'year': '1964', 'unstructured': 'S. H. Unger,GIT—A heuristic program for testing pairs of directed line graphs for isomorphism, Comm. ACM 7, 1 (Jan. 1964), 26–34.', 'journal-title': 'Comm. ACM'}], 'container-title': ['BIT'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF01932396', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T21:44:03Z', 'timestamp': 1497649443000}, 'score': 85.56208, 'issued': {'date-parts': [[1977, 3]]}, 'references-count': 19, 'journal-issue': {'published-print': {'date-parts': [[1977, 3]]}, 'issue': '1'}, 'alternative-id': ['BF01932396'], 'URL': 'http://dx.doi.org/10.1007/bf01932396', 'relation': {'cites': []}, 'ISSN': ['0006-3835', '1572-9125'], 'issn-type': [{'value': '0006-3835', 'type': 'print'}, {'value': '1572-9125', 'type': 'electronic'}]}
+>>> hash >>> ('A new algorithm for digraph isomorphism', 1977.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> â€”, On the order of uniprimitive permutation groups, Ann. Math. 109 /1981/.
+>>> DOI >>> 10.2307/2006997
+>>> URL >>> http://dx.doi.org/10.2307/2006997
+>>> year >>> 1981.0
+>>> title >>> On the Order of Uniprimitive Permutation Groups
+>>> author >>> Laszlo Babai
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 48.0
+>>> subject >>> None
+>>> container_title >>> ['The Annals of Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T04:22:28Z', 'timestamp': 1525839748197}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['The Annals of Mathematics'], 'published-print': {'date-parts': [[1981, 5]]}, 'DOI': '10.2307/2006997', 'type': 'journal-article', 'created': {'date-parts': [[2006, 4, 24]], 'date-time': '2006-04-24T12:29:52Z', 'timestamp': 1145881792000}, 'page': '553', 'source': 'Crossref', 'is-referenced-by-count': 48, 'title': ['On the Order of Uniprimitive Permutation Groups'], 'prefix': '10.2307', 'volume': '113', 'author': [{'given': 'Laszlo', 'family': 'Babai', 'sequence': 'first', 'affiliation': []}], 'member': '1121', 'container-title': ['The Annals of Mathematics'], 'deposited': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T22:55:13Z', 'timestamp': 1525820113000}, 'score': 46.955807, 'issued': {'date-parts': [[1981, 5]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1981, 5]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.2307/2006997', 'ISSN': ['0003-486X'], 'issn-type': [{'value': '0003-486X', 'type': 'print'}]}
+>>> hash >>> ('On the Order of Uniprimitive Permutation Groups', 1981.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> â€”, On algorithms of graph identification /Russian/, Questions of Cybernetics 15, Proc. 2nd All-Union Seminar on Combinat. Math., Moscow /1975/ 33â€“41.
+>>> DOI >>> 10.1007/bf01069379
+>>> URL >>> http://dx.doi.org/10.1007/bf01069379
+>>> year >>> 1978.0
+>>> title >>> All-Union Seminar ?Questions of Organization of Dialogue Systems?
+>>> author >>> Yu. V. Kapitonova
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Cybernetics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T13:31:44Z', 'timestamp': 1525440704105}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Cybern Syst Anal'], 'published-print': {'date-parts': [[1978]]}, 'DOI': '10.1007/bf01069379', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 2]], 'date-time': '2005-02-02T10:04:12Z', 'timestamp': 1107338652000}, 'page': '313-313', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['All-Union Seminar ?Questions of Organization of Dialogue Systems?'], 'prefix': '10.1007', 'volume': '14', 'author': [{'given': 'Yu. V.', 'family': 'Kapitonova', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Cybernetics'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF01069379', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 1, 21]], 'date-time': '2013-01-21T21:44:32Z', 'timestamp': 1358804672000}, 'score': 36.856766, 'issued': {'date-parts': [[1978]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1978]]}, 'issue': '2'}, 'alternative-id': ['BF01069379'], 'URL': 'http://dx.doi.org/10.1007/bf01069379', 'ISSN': ['0011-4235', '1573-8337'], 'issn-type': [{'value': '0011-4235', 'type': 'print'}, {'value': '1573-8337', 'type': 'electronic'}]}
+>>> hash >>> ('All-Union Seminar ?Questions of Organization of Dialogue Systems?', 1978.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> â€”, Isomorphism testing and symmetry of graphs, in: Ann. Discr. Math. 8 /1980/ 101â€“109.
+>>> DOI >>> 10.1016/s0167-5060(08)70857-4
+>>> URL >>> http://dx.doi.org/10.1016/s0167-5060(08)70857-4
+>>> year >>> 1980.0
+>>> title >>> Isomorphism Testing and Symmetry of Graphs
+>>> author >>> László Babai
+>>> reference_count >>> 37.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> ['Combinatorics 79 Part I', 'Annals of Discrete Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T09:43:28Z', 'timestamp': 1525427008214}, 'reference-count': 37, 'publisher': 'Elsevier', 'isbn-type': [{'value': '9780444861108', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1980]]}, 'DOI': '10.1016/s0167-5060(08)70857-4', 'type': 'book-chapter', 'created': {'date-parts': [[2008, 5, 8]], 'date-time': '2008-05-08T12:40:59Z', 'timestamp': 1210250459000}, 'page': '101-109', 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['Isomorphism Testing and Symmetry of Graphs'], 'prefix': '10.1016', 'author': [{'given': 'László', 'family': 'Babai', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Combinatorics 79 Part I', 'Annals of Discrete Mathematics'], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T07:59:22Z', 'timestamp': 1497772762000}, 'score': 44.838184, 'issued': {'date-parts': [[1980]]}, 'ISBN': ['9780444861108'], 'references-count': 37, 'URL': 'http://dx.doi.org/10.1016/s0167-5060(08)70857-4', 'ISSN': ['0167-5060'], 'issn-type': [{'value': '0167-5060', 'type': 'print'}]}
+>>> hash >>> ('Isomorphism Testing and Symmetry of Graphs', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> â€”, Polynomial algorithm of identification of almost all graphs /Russian/, Karelian Branch of the Acad. Sci. USSR, in print.
+>>> DOI >>> 10.1109/iscas.1991.176571
+>>> URL >>> http://dx.doi.org/10.1109/iscas.1991.176571
+>>> year >>> None
+>>> title >>> An almost always polynomial time algorithm for the ( alpha , beta )-cover problem in bipartite graphs
+>>> author >>> C.P. Low and H.W. Leong
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['1991., IEEE International Sympoisum on Circuits and Systems']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T12:36:21Z', 'timestamp': 1525350981636}, 'reference-count': 10, 'publisher': 'IEEE', 'isbn-type': [{'value': '0780300505', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/iscas.1991.176571', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 12, 9]], 'date-time': '2002-12-09T21:54:19Z', 'timestamp': 1039470859000}, 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['An almost always polynomial time algorithm for the ( alpha , beta )-cover problem in bipartite graphs'], 'prefix': '10.1109', 'author': [{'given': 'C.P.', 'family': 'Low', 'sequence': 'first', 'affiliation': []}, {'given': 'H.W.', 'family': 'Leong', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '1991., IEEE International Sympoisum on Circuits and Systems', 'location': 'Singapore'}, 'container-title': ['1991., IEEE International Sympoisum on Circuits and Systems'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/555/4470/00176571.pdf?arnumber=176571', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T03:02:01Z', 'timestamp': 1489028521000}, 'score': 31.008501, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0780300505'], 'references-count': 10, 'URL': 'http://dx.doi.org/10.1109/iscas.1991.176571'}
+>>> hash >>> ('An almost always polynomial time algorithm for the ( alpha , beta )-cover problem in bipartite graphs', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Wielandt, Finite Permutation groups, Acad. Press, London 1964.
+>>> DOI >>> 10.1016/b978-0-12-749650-4.50007-2
+>>> URL >>> http://dx.doi.org/10.1016/b978-0-12-749650-4.50007-2
+>>> year >>> 1964.0
+>>> title >>> Multiply Transitive Groups
+>>> author >>> HELMUT WIELANDT
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Finite Permutation Groups']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:55:02Z', 'timestamp': 1525798502149}, 'reference-count': 0, 'publisher': 'Elsevier', 'isbn-type': [{'value': '9780127496504', 'type': 'print'}], 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1964, 1, 1]], 'date-time': '1964-01-01T00:00:00Z', 'timestamp': -189388800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1964]]}, 'DOI': '10.1016/b978-0-12-749650-4.50007-2', 'type': 'book-chapter', 'created': {'date-parts': [[2014, 7, 1]], 'date-time': '2014-07-01T03:51:16Z', 'timestamp': 1404186676000}, 'page': '19-43', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Multiply Transitive Groups'], 'prefix': '10.1016', 'author': [{'given': 'HELMUT', 'family': 'WIELANDT', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Finite Permutation Groups'], 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:B9780127496504500072?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:B9780127496504500072?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2014, 11, 22]], 'date-time': '2014-11-22T05:34:12Z', 'timestamp': 1416634452000}, 'score': 53.692455, 'issued': {'date-parts': [[1964]]}, 'ISBN': ['9780127496504'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1016/b978-0-12-749650-4.50007-2'}
+>>> hash >>> ('Multiply Transitive Groups', 1964.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> â€”, D.Yu. Grigoryev, Isomorphism testing for graphs with bounded eigenvalue multiplicities, in preparation.
+>>> DOI >>> 10.1145/800070.802206
+>>> URL >>> http://dx.doi.org/10.1145/800070.802206
+>>> year >>> 1982.0
+>>> title >>> Isomorphism of graphs with bounded eigenvalue multiplicity
+>>> author >>> László Babai and D. Yu. Grigoryev and David M. Mount
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 24.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the fourteenth annual ACM symposium on Theory of computing  - STOC '82"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:38Z', 'timestamp': 1525392398421}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897910702', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1982]]}, 'DOI': '10.1145/800070.802206', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 24, 'title': ['Isomorphism of graphs with bounded eigenvalue multiplicity'], 'prefix': '10.1145', 'author': [{'given': 'László', 'family': 'Babai', 'sequence': 'first', 'affiliation': []}, {'given': 'D. Yu.', 'family': 'Grigoryev', 'sequence': 'additional', 'affiliation': []}, {'given': 'David M.', 'family': 'Mount', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the fourteenth annual ACM symposium', 'location': 'San Francisco, California, United States', 'sponsor': ['SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '82", 'start': {'date-parts': [[1982, 5, 5]]}, 'end': {'date-parts': [[1982, 5, 7]]}}, 'container-title': ["Proceedings of the fourteenth annual ACM symposium on Theory of computing  - STOC '82"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=802206&amp;ftid=54194&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T00:40:53Z', 'timestamp': 1481848853000}, 'score': 41.778633, 'issued': {'date-parts': [[1982]]}, 'ISBN': ['0897910702'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/800070.802206'}
+>>> hash >>> ('Isomorphism of graphs with bounded eigenvalue multiplicity', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> â€”, On the complexity of canonical labelling of strongly regular graphs, SIAM J. Comp. 9 /1980/ 212â€“216.
+>>> DOI >>> 10.1137/0209018
+>>> URL >>> http://dx.doi.org/10.1137/0209018
+>>> year >>> 1980.0
+>>> title >>> On the Complexity of Canonical Labeling of Strongly Regular Graphs
+>>> author >>> László Babai
+>>> reference_count >>> 3.0
+>>> is_referenced_by_count >>> 30.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:29:45Z', 'timestamp': 1525444185477}, 'reference-count': 3, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[1980, 2]]}, 'DOI': '10.1137/0209018', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 24]], 'date-time': '2005-02-24T11:21:58Z', 'timestamp': 1109244118000}, 'page': '212-216', 'source': 'Crossref', 'is-referenced-by-count': 30, 'title': ['On the Complexity of Canonical Labeling of Strongly Regular Graphs'], 'prefix': '10.1137', 'volume': '9', 'author': [{'given': 'László', 'family': 'Babai', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0209018', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T16:14:14Z', 'timestamp': 1497629654000}, 'score': 56.00875, 'issued': {'date-parts': [[1980, 2]]}, 'references-count': 3, 'journal-issue': {'published-print': {'date-parts': [[1980, 2]]}, 'issue': '1'}, 'alternative-id': ['10.1137/0209018'], 'URL': 'http://dx.doi.org/10.1137/0209018', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('On the Complexity of Canonical Labeling of Strongly Regular Graphs', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M.K. Goldberg, A nonfactorial algorithm for testing isomorphism of two graphs, preprint 1981.
+>>> DOI >>> 10.1016/0166-218x(83)90078-1
+>>> URL >>> http://dx.doi.org/10.1016/0166-218x(83)90078-1
+>>> year >>> 1983.0
+>>> title >>> A nonfactorial algorithm for testing isomorphism of two graphs
+>>> author >>> Mark.K. Goldberg
+>>> reference_count >>> 7.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['Discrete Applied Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:48:24Z', 'timestamp': 1525312104172}, 'reference-count': 7, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1983, 9, 1]], 'date-time': '1983-09-01T00:00:00Z', 'timestamp': 431222400000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 10912, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Discrete Applied Mathematics'], 'published-print': {'date-parts': [[1983, 9]]}, 'DOI': '10.1016/0166-218x(83)90078-1', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T03:43:34Z', 'timestamp': 1027655014000}, 'page': '229-236', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['A nonfactorial algorithm for testing isomorphism of two graphs'], 'prefix': '10.1016', 'volume': '6', 'author': [{'given': 'Mark.K.', 'family': 'Goldberg', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Discrete Applied Mathematics'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0166218X83900781?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0166218X83900781?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T04:06:23Z', 'timestamp': 1497499583000}, 'score': 61.069347, 'issued': {'date-parts': [[1983, 9]]}, 'references-count': 7, 'journal-issue': {'published-print': {'date-parts': [[1983, 9]]}, 'issue': '3'}, 'alternative-id': ['0166218X83900781'], 'URL': 'http://dx.doi.org/10.1016/0166-218x(83)90078-1', 'ISSN': ['0166-218X'], 'issn-type': [{'value': '0166-218X', 'type': 'print'}]}
+>>> hash >>> ('A nonfactorial algorithm for testing isomorphism of two graphs', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P.P. PÃ¡lfy, On the order of primitive solvable groups, J. Algebra, submitted.
+>>> DOI >>> 10.1016/0021-8693(75)90128-3
+>>> URL >>> http://dx.doi.org/10.1016/0021-8693(75)90128-3
+>>> year >>> 1975.0
+>>> title >>> Primitive solvable groups
+>>> author >>> T.R Berger
+>>> reference_count >>> 6.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Algebra']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T06:24:22Z', 'timestamp': 1525415062530}, 'reference-count': 6, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1975, 1, 1]], 'date-time': '1975-01-01T00:00:00Z', 'timestamp': 157766400000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 14077, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Algebra'], 'published-print': {'date-parts': [[1975, 1]]}, 'DOI': '10.1016/0021-8693(75)90128-3', 'type': 'journal-article', 'created': {'date-parts': [[2004, 7, 22]], 'date-time': '2004-07-22T15:34:04Z', 'timestamp': 1090510444000}, 'page': '9-21', 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['Primitive solvable groups'], 'prefix': '10.1016', 'volume': '33', 'author': [{'given': 'T.R', 'family': 'Berger', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Algebra'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0021869375901283?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0021869375901283?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T08:58:28Z', 'timestamp': 1497603508000}, 'score': 38.72737, 'issued': {'date-parts': [[1975, 1]]}, 'references-count': 6, 'journal-issue': {'published-print': {'date-parts': [[1975, 1]]}, 'issue': '1'}, 'alternative-id': ['0021869375901283'], 'URL': 'http://dx.doi.org/10.1016/0021-8693(75)90128-3', 'ISSN': ['0021-8693'], 'issn-type': [{'value': '0021-8693', 'type': 'print'}]}
+>>> hash >>> ('Primitive solvable groups', 1975.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J.E. Hopcroft, R.E. Tarjan, Efficient planarity testing, J. ACM 21 /1974/ 549â€“568.
+>>> DOI >>> 10.1145/321850.321852
+>>> URL >>> http://dx.doi.org/10.1145/321850.321852
+>>> year >>> 1974.0
+>>> title >>> Efficient Planarity Testing
+>>> author >>> John Hopcroft and Robert Tarjan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 436.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:11:59Z', 'timestamp': 1525335119301}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JACM', 'J. ACM'], 'published-print': {'date-parts': [[1974, 10, 1]]}, 'DOI': '10.1145/321850.321852', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:26:10Z', 'timestamp': 1027769170000}, 'page': '549-568', 'source': 'Crossref', 'is-referenced-by-count': 436, 'title': ['Efficient Planarity Testing'], 'prefix': '10.1145', 'volume': '21', 'author': [{'given': 'John', 'family': 'Hopcroft', 'sequence': 'first', 'affiliation': []}, {'given': 'Robert', 'family': 'Tarjan', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['Journal of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=321852&amp;ftid=8080&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T21:53:15Z', 'timestamp': 1481838795000}, 'score': 76.35359, 'issued': {'date-parts': [[1974, 10, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1145/321850.321852', 'ISSN': ['0004-5411'], 'issn-type': [{'value': '0004-5411', 'type': 'print'}]}
+>>> hash >>> ('Efficient Planarity Testing', 1974.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A.J. Weir, Sylow p-subgroups of the classical groups over finite fields with characteristic prime to p, Proc. A.M.S. 6 /1955/ 529â€“533.
+>>> DOI >>> 10.1090/s0002-9939-1955-0072143-9
+>>> URL >>> http://dx.doi.org/10.1090/s0002-9939-1955-0072143-9
+>>> year >>> 1955.0
+>>> title >>> Sylow $p$-subgroups of the classical groups over finite fields with characteristic prime to $p$
+>>> author >>> A. J. Weir
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the American Mathematical Society']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T06:39:40Z', 'timestamp': 1525329580773}, 'reference-count': 0, 'publisher': 'American Mathematical Society (AMS)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. Amer. Math. Soc.'], 'published-print': {'date-parts': [[1955, 4, 1]]}, 'DOI': '10.1090/s0002-9939-1955-0072143-9', 'type': 'journal-article', 'created': {'date-parts': [[2010, 6, 30]], 'date-time': '2010-06-30T18:49:09Z', 'timestamp': 1277923749000}, 'page': '529-529', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Sylow $p$-subgroups of the classical groups over finite fields with characteristic prime to $p$'], 'prefix': '10.1090', 'volume': '6', 'author': [{'given': 'A. J.', 'family': 'Weir', 'sequence': 'first', 'affiliation': []}], 'member': '14', 'container-title': ['Proceedings of the American Mathematical Society'], 'language': 'en', 'deposited': {'date-parts': [[2010, 6, 30]], 'date-time': '2010-06-30T18:50:08Z', 'timestamp': 1277923808000}, 'score': 80.54677, 'issued': {'date-parts': [[1955, 4, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1955, 4, 1]]}, 'issue': '4'}, 'alternative-id': ['S00029939195500721439'], 'URL': 'http://dx.doi.org/10.1090/s0002-9939-1955-0072143-9', 'ISSN': ['0002-9939'], 'issn-type': [{'value': '0002-9939', 'type': 'print'}]}
+>>> hash >>> ('Sylow $p$-subgroups of the classical groups over finite fields with characteristic prime to $p$', 1955.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G.L. Miller, Isomorphism testing for graphs of bounded genus, Proc. 12th ACM Symp. Th. Comp. /1980/ 225â€“235.
+>>> DOI >>> 10.1145/800141.804670
+>>> URL >>> http://dx.doi.org/10.1145/800141.804670
+>>> year >>> 1980.0
+>>> title >>> Isomorphism testing for graphs of bounded genus
+>>> author >>> Gary Miller
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 19.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the twelfth annual ACM symposium on Theory of computing  - STOC '80"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:22Z', 'timestamp': 1525392382828}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897910176', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1980]]}, 'DOI': '10.1145/800141.804670', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 19, 'title': ['Isomorphism testing for graphs of bounded genus'], 'prefix': '10.1145', 'author': [{'given': 'Gary', 'family': 'Miller', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'event': {'name': 'the twelfth annual ACM symposium', 'location': 'Los Angeles, California, United States', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '80", 'start': {'date-parts': [[1980, 4, 28]]}, 'end': {'date-parts': [[1980, 4, 30]]}}, 'container-title': ["Proceedings of the twelfth annual ACM symposium on Theory of computing  - STOC '80"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=804670&amp;ftid=54041&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T04:02:37Z', 'timestamp': 1481860957000}, 'score': 59.675434, 'issued': {'date-parts': [[1980]]}, 'ISBN': ['0897910176'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/800141.804670'}
+>>> hash >>> ('Isomorphism testing for graphs of bounded genus', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> â€”, Determination of isomorphism of graphs /Russian/, in Mathem. Problems of Modelling Complex Objects, Karelian Branch of the Acad. Sci. USSR, Petrozavodsk 1979, 57â€“64.
+>>> DOI >>> 10.17580/gzh.2017.10.17
+>>> URL >>> http://dx.doi.org/10.17580/gzh.2017.10.17
+>>> year >>> 2017.0
+>>> title >>> Prospects for introduction of mining and geological heritage objects in the tourism infrastructure of a region
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Gornyi Zhurnal']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T05:15:06Z', 'timestamp': 1525756506867}, 'reference-count': 0, 'publisher': 'Ore and Metals Publishing House', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['gzh'], 'published-print': {'date-parts': [[2017, 10, 31]]}, 'DOI': '10.17580/gzh.2017.10.17', 'type': 'journal-article', 'created': {'date-parts': [[2017, 11, 15]], 'date-time': '2017-11-15T17:03:26Z', 'timestamp': 1510765406000}, 'page': '83-88', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Prospects for introduction of mining and geological heritage objects in the tourism infrastructure of a region'], 'prefix': '10.17580', 'author': [{'given': 'S. A.', 'family': 'Svetov', 'sequence': 'first', 'affiliation': []}, {'name': 'Institute of Geology, Karelian Research Center, Russian Academy of Sciences, Petrozavodsk, Russia', 'sequence': 'first', 'affiliation': []}, {'given': 'N. G.', 'family': 'Kolesnikov', 'sequence': 'additional', 'affiliation': []}, {'given': 'N. V.', 'family': 'Kolesnikova', 'sequence': 'additional', 'affiliation': []}, {'name': 'Institute of Economy, Karelian Research Center, Russian Academy of Sciences, Petrozavodsk, Russia', 'sequence': 'additional', 'affiliation': []}, {'name': 'Petrozavodsk State University Petrozavodsk, Russia', 'sequence': 'additional', 'affiliation': []}], 'member': '7019', 'published-online': {'date-parts': [[2017, 10, 31]]}, 'container-title': ['Gornyi Zhurnal'], 'deposited': {'date-parts': [[2017, 11, 15]], 'date-time': '2017-11-15T17:03:35Z', 'timestamp': 1510765415000}, 'score': 42.321693, 'issued': {'date-parts': [[2017, 10, 31]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.17580/gzh.2017.10.17', 'ISSN': ['0017-2278'], 'issn-type': [{'value': '0017-2278', 'type': 'print'}]}
+>>> hash >>> ('Prospects for introduction of mining and geological heritage objects in the tourism infrastructure of a region', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D.A. Suprunenko, R.F. Apatenok, Nilpotent irreducible groups of matrices over a finite field /Russian/, Doklady Akad. Nauk Belorus. SSR 5 /1961/ 535â€“537.
+>>> DOI >>> 10.1016/0021-8693(79)90114-5
+>>> URL >>> http://dx.doi.org/10.1016/0021-8693(79)90114-5
+>>> year >>> 1979.0
+>>> title >>> Irreducible projective representations of finite nilpotent groups over number fields
+>>> author >>> Hans Opolka
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Algebra']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T13:46:44Z', 'timestamp': 1525441604047}, 'reference-count': 17, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1979, 9, 1]], 'date-time': '1979-09-01T00:00:00Z', 'timestamp': 304992000000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 12373, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Algebra'], 'published-print': {'date-parts': [[1979, 9]]}, 'DOI': '10.1016/0021-8693(79)90114-5', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 9]], 'date-time': '2005-02-09T07:23:49Z', 'timestamp': 1107933829000}, 'page': '181-198', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Irreducible projective representations of finite nilpotent groups over number fields'], 'prefix': '10.1016', 'volume': '60', 'author': [{'given': 'Hans', 'family': 'Opolka', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Algebra'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0021869379901145?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0021869379901145?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T15:32:24Z', 'timestamp': 1497627144000}, 'score': 39.288925, 'issued': {'date-parts': [[1979, 9]]}, 'references-count': 17, 'journal-issue': {'published-print': {'date-parts': [[1979, 9]]}, 'issue': '1'}, 'alternative-id': ['0021869379901145'], 'URL': 'http://dx.doi.org/10.1016/0021-8693(79)90114-5', 'ISSN': ['0021-8693'], 'issn-type': [{'value': '0021-8693', 'type': 'print'}]}
+>>> hash >>> ('Irreducible projective representations of finite nilpotent groups over number fields', 1979.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> â€”, P. ErdÅ‘s, S.M. Selkow, Random graph isomorphism, SIAM J. Comp. 9 /1980/ 628â€“635.
+>>> DOI >>> 10.1137/0209047
+>>> URL >>> http://dx.doi.org/10.1137/0209047
+>>> year >>> 1980.0
+>>> title >>> Random Graph Isomorphism
+>>> author >>> László Babai and Paul Erdo\u02dds and Stanley M. Selkow
+>>> reference_count >>> 5.0
+>>> is_referenced_by_count >>> 71.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 15]], 'date-time': '2018-05-15T12:42:26Z', 'timestamp': 1526388146848}, 'reference-count': 5, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[1980, 8]]}, 'DOI': '10.1137/0209047', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 24]], 'date-time': '2005-02-24T11:21:58Z', 'timestamp': 1109244118000}, 'page': '628-635', 'source': 'Crossref', 'is-referenced-by-count': 71, 'title': ['Random Graph Isomorphism'], 'prefix': '10.1137', 'volume': '9', 'author': [{'given': 'László', 'family': 'Babai', 'sequence': 'first', 'affiliation': []}, {'given': 'Paul', 'family': 'Erdo\u02dds', 'sequence': 'additional', 'affiliation': []}, {'given': 'Stanley M.', 'family': 'Selkow', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0209047', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T17:14:34Z', 'timestamp': 1485710074000}, 'score': 65.21807, 'issued': {'date-parts': [[1980, 8]]}, 'references-count': 5, 'journal-issue': {'published-print': {'date-parts': [[1980, 8]]}, 'issue': '3'}, 'alternative-id': ['10.1137/0209047'], 'URL': 'http://dx.doi.org/10.1137/0209047', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('Random Graph Isomorphism', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W.T. Tutte, A family of cubical graphs, Proc. Cambr. Phil. Soc. 43 /1947/ 459â€“474
+>>> DOI >>> 10.1017/s0305004100023720
+>>> URL >>> http://dx.doi.org/10.1017/s0305004100023720
+>>> year >>> 1947.0
+>>> title >>> A family of cubical graphs
+>>> author >>> W. T. Tutte
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 210.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematical Proceedings of the Cambridge Philosophical Society']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T15:58:42Z', 'timestamp': 1525449522696}, 'reference-count': 0, 'publisher': 'Cambridge University Press (CUP)', 'issue': '04', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Math. Proc. Camb. Phil. Soc.'], 'published-print': {'date-parts': [[1947, 10]]}, 'DOI': '10.1017/s0305004100023720', 'type': 'journal-article', 'created': {'date-parts': [[2008, 11, 7]], 'date-time': '2008-11-07T15:56:30Z', 'timestamp': 1226073390000}, 'page': '459', 'source': 'Crossref', 'is-referenced-by-count': 210, 'title': ['A family of cubical graphs'], 'prefix': '10.1017', 'volume': '43', 'author': [{'given': 'W. T.', 'family': 'Tutte', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'published-online': {'date-parts': [[2008, 10, 24]]}, 'container-title': ['Mathematical Proceedings of the Cambridge Philosophical Society'], 'language': 'en', 'link': [{'URL': 'https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0305004100023720', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 4, 21]], 'date-time': '2017-04-21T18:14:33Z', 'timestamp': 1492798473000}, 'score': 61.731056, 'issued': {'date-parts': [[1947, 10]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1947, 10]]}, 'issue': '04'}, 'alternative-id': ['S0305004100023720'], 'URL': 'http://dx.doi.org/10.1017/s0305004100023720', 'ISSN': ['0305-0041', '1469-8064'], 'issn-type': [{'value': '0305-0041', 'type': 'print'}, {'value': '1469-8064', 'type': 'electronic'}]}
+>>> hash >>> ('A family of cubical graphs', 1947.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M.L. Furst, J.E. Hopcroft, E.M. Luks, Polynomial time algorithms for permutation groups, Proc. 21st IEEE FOCS Symp. /1980/ 36â€“41.
+>>> DOI >>> 10.1109/sfcs.1980.34
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1980.34
+>>> year >>> 1980.0
+>>> title >>> Polynomial-time algorithms for permutation groups
+>>> author >>> Merrick Furst and John Hopcroft and Eugene Luks
+>>> reference_count >>> 7.0
+>>> is_referenced_by_count >>> 47.0
+>>> subject >>> None
+>>> container_title >>> ['21st Annual Symposium on Foundations of Computer Science (sfcs 1980)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:30:27Z', 'timestamp': 1525437027008}, 'reference-count': 7, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1980, 10]]}, 'DOI': '10.1109/sfcs.1980.34', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 31]], 'date-time': '2008-07-31T14:36:36Z', 'timestamp': 1217514996000}, 'source': 'Crossref', 'is-referenced-by-count': 47, 'title': ['Polynomial-time algorithms for permutation groups'], 'prefix': '10.1109', 'author': [{'given': 'Merrick', 'family': 'Furst', 'sequence': 'first', 'affiliation': []}, {'given': 'John', 'family': 'Hopcroft', 'sequence': 'additional', 'affiliation': []}, {'given': 'Eugene', 'family': 'Luks', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '21st Annual Symposium on Foundations of Computer Science (sfcs 1980)', 'location': 'Syracuse, NY, USA', 'start': {'date-parts': [[1980, 10, 13]]}, 'end': {'date-parts': [[1980, 10, 15]]}}, 'container-title': ['21st Annual Symposium on Foundations of Computer Science (sfcs 1980)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4567793/4567794/04567802.pdf?arnumber=4567802', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T19:30:30Z', 'timestamp': 1489692630000}, 'score': 85.081474, 'issued': {'date-parts': [[1980, 10]]}, 'references-count': 7, 'URL': 'http://dx.doi.org/10.1109/sfcs.1980.34'}
+>>> hash >>> ('Polynomial-time algorithms for permutation groups', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> â€”, J. Wong, Linear time algorithm for isomorphism of planar graphs, Proc. Sixth ACM Symp. Th. Comp. /1974/ 172â€“184.
+>>> DOI >>> 10.1145/800119.803896
+>>> URL >>> http://dx.doi.org/10.1145/800119.803896
+>>> year >>> 1974.0
+>>> title >>> Linear time algorithm for isomorphism of planar graphs (Preliminary Report)
+>>> author >>> J. E. Hopcroft and J. K. Wong
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 35.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the sixth annual ACM symposium on Theory of computing  - STOC '74"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:07Z', 'timestamp': 1525392367739}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1974]]}, 'DOI': '10.1145/800119.803896', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 35, 'title': ['Linear time algorithm for isomorphism of planar graphs (Preliminary Report)'], 'prefix': '10.1145', 'author': [{'given': 'J. E.', 'family': 'Hopcroft', 'sequence': 'first', 'affiliation': []}, {'given': 'J. K.', 'family': 'Wong', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the sixth annual ACM symposium', 'location': 'Seattle, Washington, United States', 'sponsor': ['SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '74", 'number': '6', 'start': {'date-parts': [[1974, 4, 30]]}, 'end': {'date-parts': [[1974, 5, 2]]}}, 'container-title': ["Proceedings of the sixth annual ACM symposium on Theory of computing  - STOC '74"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=803896&amp;ftid=53755&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T01:41:18Z', 'timestamp': 1481852478000}, 'score': 61.1185, 'issued': {'date-parts': [[1974]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/800119.803896'}
+>>> hash >>> ('Linear time algorithm for isomorphism of planar graphs (Preliminary Report)', 1974.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> â€”, On the order of doubly transitive permutation groups, submitted
+>>> DOI >>> 10.1017/cbo9780511721243.005
+>>> URL >>> http://dx.doi.org/10.1017/cbo9780511721243.005
+>>> year >>> None
+>>> title >>> Doubly Transitive A(\u2126)
+>>> author >>> A. M. W. Glass
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Ordered Permutation Groups']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T09:28:34Z', 'timestamp': 1525339714427}, 'publisher-location': 'Cambridge', 'reference-count': 0, 'publisher': 'Cambridge University Press', 'isbn-type': [{'value': '9780511721243', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1017/cbo9780511721243.005', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 8, 2]], 'date-time': '2010-08-02T12:46:16Z', 'timestamp': 1280753176000}, 'page': '38-75', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Doubly Transitive A(\u2126)'], 'prefix': '10.1017', 'author': [{'given': 'A. M. W.', 'family': 'Glass', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'container-title': ['Ordered Permutation Groups'], 'deposited': {'date-parts': [[2018, 4, 13]], 'date-time': '2018-04-13T03:23:48Z', 'timestamp': 1523589828000}, 'score': 43.117798, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9780511721243'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1017/cbo9780511721243.005'}
+>>> hash >>> ('Doubly Transitive A(\\u2126)', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> â€”, P.J. Cameron, P.P. PÃ¡lfy, On the order of primitive permutation groups with bounded nonabelian composition factors, in preparation.
+>>> DOI >>> 10.1016/0021-8693(82)90323-4
+>>> URL >>> http://dx.doi.org/10.1016/0021-8693(82)90323-4
+>>> year >>> 1982.0
+>>> title >>> On the orders of primitive groups with restricted nonabelian composition factors
+>>> author >>> L Babai and P.J Cameron and P.P Pálfy
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 25.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Algebra']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T13:46:38Z', 'timestamp': 1525441598073}, 'reference-count': 13, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1982, 11, 1]], 'date-time': '1982-11-01T00:00:00Z', 'timestamp': 404956800000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 11216, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Algebra'], 'published-print': {'date-parts': [[1982, 11]]}, 'DOI': '10.1016/0021-8693(82)90323-4', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 9]], 'date-time': '2005-02-09T09:14:44Z', 'timestamp': 1107940484000}, 'page': '161-168', 'source': 'Crossref', 'is-referenced-by-count': 25, 'title': ['On the orders of primitive groups with restricted nonabelian composition factors'], 'prefix': '10.1016', 'volume': '79', 'author': [{'given': 'L', 'family': 'Babai', 'sequence': 'first', 'affiliation': []}, {'given': 'P.J', 'family': 'Cameron', 'sequence': 'additional', 'affiliation': []}, {'given': 'P.P', 'family': 'Pálfy', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Algebra'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0021869382903234?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0021869382903234?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T15:32:13Z', 'timestamp': 1497627133000}, 'score': 40.87599, 'issued': {'date-parts': [[1982, 11]]}, 'references-count': 13, 'journal-issue': {'published-print': {'date-parts': [[1982, 11]]}, 'issue': '1'}, 'alternative-id': ['0021869382903234'], 'URL': 'http://dx.doi.org/10.1016/0021-8693(82)90323-4', 'ISSN': ['0021-8693'], 'issn-type': [{'value': '0021-8693', 'type': 'print'}]}
+>>> hash >>> ('On the orders of primitive groups with restricted nonabelian composition factors', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E.M. Luks, Isomorphism of graphs of bounded valence can be tested in polynomial time, Proc. 21st IEEE FOCS Symp. /1980/ 42â€“49.
+>>> DOI >>> 10.1109/sfcs.1980.24
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1980.24
+>>> year >>> 1980.0
+>>> title >>> Isomorphism of graphs of bounded valence can be tested in polynomial time
+>>> author >>> Eugene M. Luks
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['21st Annual Symposium on Foundations of Computer Science (sfcs 1980)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:30:27Z', 'timestamp': 1525437027016}, 'reference-count': 13, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1980, 10]]}, 'DOI': '10.1109/sfcs.1980.24', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 31]], 'date-time': '2008-07-31T14:36:36Z', 'timestamp': 1217514996000}, 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['Isomorphism of graphs of bounded valence can be tested in polynomial time'], 'prefix': '10.1109', 'author': [{'given': 'Eugene M.', 'family': 'Luks', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'event': {'name': '21st Annual Symposium on Foundations of Computer Science (sfcs 1980)', 'location': 'Syracuse, NY, USA', 'start': {'date-parts': [[1980, 10, 13]]}, 'end': {'date-parts': [[1980, 10, 15]]}}, 'container-title': ['21st Annual Symposium on Foundations of Computer Science (sfcs 1980)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4567793/4567794/04567803.pdf?arnumber=4567803', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T10:31:42Z', 'timestamp': 1497781902000}, 'score': 90.856094, 'issued': {'date-parts': [[1980, 10]]}, 'references-count': 13, 'URL': 'http://dx.doi.org/10.1109/sfcs.1980.24'}
+>>> hash >>> ('Isomorphism of graphs of bounded valence can be tested in polynomial time', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Babai, Monte-Carlo algorithms in graph isomorphism testing, preprint 1979.
+>>> DOI >>> 10.1201/9781584887195.ch5
+>>> URL >>> http://dx.doi.org/10.1201/9781584887195.ch5
+>>> year >>> 2006.0
+>>> title >>> Graph Isomorphism Testing
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Discrete Mathematics and Its Applications', 'A Java Library of Graph Algorithms and Optimization']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:55:04Z', 'timestamp': 1525334104952}, 'reference-count': 0, 'publisher': 'Chapman and Hall/CRC', 'isbn-type': [{'value': '9781584887188', 'type': 'print'}, {'value': '9781584887195', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006, 10, 20]]}, 'DOI': '10.1201/9781584887195.ch5', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 7, 19]], 'date-time': '2010-07-19T15:11:58Z', 'timestamp': 1279552318000}, 'page': '195-205', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Graph Isomorphism Testing'], 'prefix': '10.1201', 'member': '301', 'published-online': {'date-parts': [[2010, 1, 31]]}, 'container-title': ['Discrete Mathematics and Its Applications', 'A Java Library of Graph Algorithms and Optimization'], 'deposited': {'date-parts': [[2012, 9, 12]], 'date-time': '2012-09-12T16:15:32Z', 'timestamp': 1347466532000}, 'score': 33.61818, 'issued': {'date-parts': [[2006, 10, 20]]}, 'ISBN': ['9781584887188', '9781584887195'], 'references-count': 0, 'alternative-id': ['10.1201/9781584887195.ch5', '10.1201/CHDISMTHAPP', '10.1201/9781584887195'], 'URL': 'http://dx.doi.org/10.1201/9781584887195.ch5', 'ISSN': ['2154-459X'], 'issn-type': [{'value': '2154-459X', 'type': 'print'}]}
+>>> hash >>> ('Graph Isomorphism Testing', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P.J. Cameron, Finite permutation groups and finite simple groups, Bull. Lond. Math. Soc. 13 /1981/ 1â€“22.
+>>> DOI >>> 10.1112/blms/13.1.1
+>>> URL >>> http://dx.doi.org/10.1112/blms/13.1.1
+>>> year >>> 1981.0
+>>> title >>> Finite Permutation Groups and Finite Simple Groups
+>>> author >>> Peter J. Cameron
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 225.0
+>>> subject >>> None
+>>> container_title >>> ['Bulletin of the London Mathematical Society']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T17:22:32Z', 'timestamp': 1528392152025}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': '1', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[1981, 1, 1]], 'date-time': '1981-01-01T00:00:00Z', 'timestamp': 347155200000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://onlinelibrary.wiley.com/termsAndConditions#vor', 'start': {'date-parts': [[2016, 12, 23]], 'date-time': '2016-12-23T00:00:00Z', 'timestamp': 1482451200000}, 'delay-in-days': 13140, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Bulletin of the London Mathematical Society'], 'published-print': {'date-parts': [[1981, 1]]}, 'DOI': '10.1112/blms/13.1.1', 'type': 'journal-article', 'created': {'date-parts': [[2007, 2, 14]], 'date-time': '2007-02-14T02:46:39Z', 'timestamp': 1171421199000}, 'page': '1-22', 'source': 'Crossref', 'is-referenced-by-count': 225, 'title': ['Finite Permutation Groups and Finite Simple Groups'], 'prefix': '10.1112', 'volume': '13', 'author': [{'given': 'Peter J.', 'family': 'Cameron', 'sequence': 'first', 'affiliation': []}], 'member': '286', 'published-online': {'date-parts': [[2016, 12, 23]]}, 'container-title': ['Bulletin of the London Mathematical Society'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1112%2Fblms%2F13.1.1', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://onlinelibrary.wiley.com/wol1/doi/10.1112/blms/13.1.1/fullpdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:09:34Z', 'timestamp': 1525385374000}, 'score': 65.31801, 'issued': {'date-parts': [[1981, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1981, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1112/blms/13.1.1', 'archive': ['Portico'], 'ISSN': ['0024-6093'], 'issn-type': [{'value': '0024-6093', 'type': 'print'}]}
+>>> hash >>> ('Finite Permutation Groups and Finite Simple Groups', 1981.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> â€”,â€”, Isomorphism of planar graphs, in Complexity of Computations /Miller, Thatcher, eds./ Plenum Press, N.Y. 1972, 143â€“150.
+>>> DOI >>> 10.1007/978-1-4684-2001-2_13
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4684-2001-2_13
+>>> year >>> 1972.0
+>>> title >>> Isomorphism of Planar Graphs (Working Paper)
+>>> author >>> J. E. Hopcroft and R. E. Tarjan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 29.0
+>>> subject >>> None
+>>> container_title >>> ['Complexity of Computer Computations']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T07:32:31Z', 'timestamp': 1525505551302}, 'publisher-location': 'Boston, MA', 'reference-count': 0, 'publisher': 'Springer US', 'isbn-type': [{'value': '9781468420036', 'type': 'print'}, {'value': '9781468420012', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1972]]}, 'DOI': '10.1007/978-1-4684-2001-2_13', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 4, 8]], 'date-time': '2012-04-08T04:48:06Z', 'timestamp': 1333860486000}, 'page': '131-152', 'source': 'Crossref', 'is-referenced-by-count': 29, 'title': ['Isomorphism of Planar Graphs (Working Paper)'], 'prefix': '10.1007', 'author': [{'given': 'J. E.', 'family': 'Hopcroft', 'sequence': 'first', 'affiliation': []}, {'given': 'R. E.', 'family': 'Tarjan', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Complexity of Computer Computations'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-1-4684-2001-2_13', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 10]], 'date-time': '2014-01-10T17:40:13Z', 'timestamp': 1389375613000}, 'score': 49.741703, 'issued': {'date-parts': [[1972]]}, 'ISBN': ['9781468420036', '9781468420012'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4684-2001-2_13'}
+>>> hash >>> ('Isomorphism of Planar Graphs (Working Paper)', 1972.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Lichtenstein, Isomorphism for graphs embeddable on the projective plane, Proc. 12th ACM Symp. Th. Comp. /1980/ 218â€“224.
+>>> DOI >>> 10.1145/800141.804669
+>>> URL >>> http://dx.doi.org/10.1145/800141.804669
+>>> year >>> 1980.0
+>>> title >>> Isomorphism for graphs embeddable on the projective plane
+>>> author >>> David Lichtenstein
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the twelfth annual ACM symposium on Theory of computing  - STOC '80"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:22Z', 'timestamp': 1525392382824}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897910176', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1980]]}, 'DOI': '10.1145/800141.804669', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Isomorphism for graphs embeddable on the projective plane'], 'prefix': '10.1145', 'author': [{'given': 'David', 'family': 'Lichtenstein', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'event': {'name': 'the twelfth annual ACM symposium', 'location': 'Los Angeles, California, United States', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '80", 'start': {'date-parts': [[1980, 4, 28]]}, 'end': {'date-parts': [[1980, 4, 30]]}}, 'container-title': ["Proceedings of the twelfth annual ACM symposium on Theory of computing  - STOC '80"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=804669&amp;ftid=54038&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T04:02:30Z', 'timestamp': 1481860950000}, 'score': 70.946655, 'issued': {'date-parts': [[1980]]}, 'ISBN': ['0897910176'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/800141.804669'}
+>>> hash >>> ('Isomorphism for graphs embeddable on the projective plane', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> V.N. Zemlyachenko, Canonical numbering of trees /Russian/, Proc. Seminar on Comb. Anal. at Moscow State Univ., Moscow 1970.
+>>> DOI >>> 10.17922/2071-5323-2017-16-2-117-124
+>>> URL >>> http://dx.doi.org/10.17922/2071-5323-2017-16-2-117-124
+>>> year >>> 2017.0
+>>> title >>> Self-Presentation of Children of Senior Preschool Age With Speech Disorders
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Uchenye Zapiski RGSU']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T18:37:35Z', 'timestamp': 1525718255736}, 'reference-count': 0, 'publisher': 'Russian State Social University', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['U\u0441h. zap. Ross. gos. soc. univ.'], 'published-print': {'date-parts': [[2017, 4, 28]]}, 'DOI': '10.17922/2071-5323-2017-16-2-117-124', 'type': 'journal-article', 'created': {'date-parts': [[2017, 7, 19]], 'date-time': '2017-07-19T10:40:27Z', 'timestamp': 1500460827000}, 'page': '117-124', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Self-Presentation of Children of Senior Preschool Age With Speech Disorders'], 'prefix': '10.17922', 'volume': '16', 'author': [{'given': 'E.A.', 'family': 'Petrova', 'sequence': 'first', 'affiliation': []}, {'name': 'Russian State Social University, Moscow', 'sequence': 'first', 'affiliation': []}, {'given': 'D.A. ', 'family': 'Dontsov', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.V. ', 'family': 'Kozyakov', 'sequence': 'additional', 'affiliation': []}, {'given': 'E.A. ', 'family': 'Polyakov', 'sequence': 'additional', 'affiliation': []}, {'name': 'Lomonosov Moscow State University, Moscow', 'sequence': 'additional', 'affiliation': []}, {'name': 'Russian State Social University, Moscow', 'sequence': 'additional', 'affiliation': []}, {'name': 'Russian State Social University, Moscow', 'sequence': 'additional', 'affiliation': []}], 'member': '7204', 'container-title': ['Uchenye Zapiski RGSU'], 'original-title': ['\u0421\u0430\u043c\u043e\u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u044f \u0434\u0435\u0442\u0435\u0439 \u0441\u0442\u0430\u0440\u0448\u0435\u0433\u043e \u0434\u043e\u0448\u043a\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430 \u0441 \u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0438\u044f\u043c\u0438 \u0440\u0435\u0447\u0438'], 'deposited': {'date-parts': [[2017, 7, 19]], 'date-time': '2017-07-19T10:40:35Z', 'timestamp': 1500460835000}, 'score': 44.19788, 'issued': {'date-parts': [[2017, 4, 28]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2017, 4, 28]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.17922/2071-5323-2017-16-2-117-124', 'ISSN': ['2071-5323'], 'issn-type': [{'value': '2071-5323', 'type': 'print'}]}
+>>> hash >>> ('Self-Presentation of Children of Senior Preschool Age With Speech Disorders', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> I.S. Filotti, J.N. Mayer, A polynomial-time algorithm for determining the isomorphism of graphs of fixed genus, Proc. 12th ACM Symp. Th. Comp. /1980/ 236â€“243.
+>>> DOI >>> 10.1145/800141.804671
+>>> URL >>> http://dx.doi.org/10.1145/800141.804671
+>>> year >>> 1980.0
+>>> title >>> A polynomial-time algorithm for determining the isomorphism of graphs of fixed genus
+>>> author >>> I. S. Filotti and Jack N. Mayer
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 17.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the twelfth annual ACM symposium on Theory of computing  - STOC '80"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:22Z', 'timestamp': 1525392382847}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897910176', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1980]]}, 'DOI': '10.1145/800141.804671', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 17, 'title': ['A polynomial-time algorithm for determining the isomorphism of graphs of fixed genus'], 'prefix': '10.1145', 'author': [{'given': 'I. S.', 'family': 'Filotti', 'sequence': 'first', 'affiliation': []}, {'given': 'Jack N.', 'family': 'Mayer', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the twelfth annual ACM symposium', 'location': 'Los Angeles, California, United States', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '80", 'start': {'date-parts': [[1980, 4, 28]]}, 'end': {'date-parts': [[1980, 4, 30]]}}, 'container-title': ["Proceedings of the twelfth annual ACM symposium on Theory of computing  - STOC '80"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=804671&amp;ftid=54045&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T04:02:46Z', 'timestamp': 1481860966000}, 'score': 83.70309, 'issued': {'date-parts': [[1980]]}, 'ISBN': ['0897910176'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/800141.804671'}
+>>> hash >>> ('A polynomial-time algorithm for determining the isomorphism of graphs of fixed genus', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> â€”, L. LovÃ¡sz, Permutation groups and almost regular graphs, Studia Sci. Math. Hungar. 8 /1973/ 141â€“150.
+>>> DOI >>> 10.1007/s10958-018-3727-y
+>>> URL >>> http://dx.doi.org/10.1007/s10958-018-3727-y
+>>> year >>> 2018.0
+>>> title >>> Groups with Almost Regular and Almost Perfect Involutions
+>>> author >>> O. A. Korobov
+>>> reference_count >>> 9.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Mathematical Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 17]], 'date-time': '2018-04-17T14:17:14Z', 'timestamp': 1523974634931}, 'reference-count': 9, 'publisher': 'Springer Nature', 'issue': '1', 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2018, 2, 26]], 'date-time': '2018-02-26T00:00:00Z', 'timestamp': 1519603200000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': ['link.springer.com'], 'crossmark-restriction': False}, 'short-container-title': ['J Math Sci'], 'published-print': {'date-parts': [[2018, 4]]}, 'DOI': '10.1007/s10958-018-3727-y', 'type': 'journal-article', 'created': {'date-parts': [[2018, 2, 26]], 'date-time': '2018-02-26T06:17:39Z', 'timestamp': 1519625859000}, 'page': '60-66', 'update-policy': 'http://dx.doi.org/10.1007/springer_crossmark_policy', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Groups with Almost Regular and Almost Perfect Involutions'], 'prefix': '10.1007', 'volume': '230', 'author': [{'given': 'O. A.', 'family': 'Korobov', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2018, 2, 26]]}, 'reference': [{'key': '3727_CR1', 'doi-asserted-by': 'crossref', 'first-page': '260', 'DOI': '10.1007/BF02219098', 'volume': '11', 'author': 'VP Shunkov', 'year': '1972', 'unstructured': 'V. P. Shunkov, “On periodic groups with an almost regular involution,” Algebra Logic 11, 260–272 (1972).', 'journal-title': 'Algebra Logic'}, {'key': '3727_CR2', 'unstructured': 'V. V. Belyaev, “Groups with an almost regular involution,” Algebra Logic 26, No. 5, 315–317 (1987).', 'DOI': '10.1007/BF01978688', 'doi-asserted-by': 'crossref'}, {'key': '3727_CR3', 'unstructured': 'A. I. Sozutov, “Groups with an almost regular involution,” Algebra Logic 46, No. 3, 195–199 (2007).', 'DOI': '10.1007/s10469-007-0018-y', 'doi-asserted-by': 'crossref'}, {'key': '3727_CR4', 'unstructured': 'A. I. Sozutov, N. M. Suchkov, and N. G. Suchkova, Infinite Groups with Involutions [in Russian], Sib. Fed. Univ. Press, Krasnoyarsk (2011).'}, {'key': '3727_CR5', 'author': 'MI Kargapolov', 'year': '1979', 'unstructured': 'M. I. Kargapolov and Yu. I. Merzlyakov, Fundamentals of the Theory of Groups, Springer, New York etc. (1979).', 'volume-title': 'Fundamentals of the Theory of Groups', 'DOI': '10.1007/978-1-4612-9964-6', 'doi-asserted-by': 'crossref'}, {'key': '3727_CR6', 'author': 'OH Kegel', 'year': '1973', 'unstructured': 'O. H. Kegel and B. A. F. Wehrfritz, Locally Finite Groups, North-Holland, Amsterdam etc. (1973).', 'volume-title': 'Locally Finite Groups'}, {'issue': '1', 'key': '3727_CR7', 'doi-asserted-by': 'crossref', 'first-page': '285', 'DOI': '10.1016/0021-8693(80)90147-7', 'volume': '64', 'author': 'B Hartley', 'year': '1980', 'unstructured': 'B. Hartley and Th. Meixner, “Periodic groups in which the centralizer of an involution has bounded order,” J. Algebra 64, No. 1, 285–291 (1980).', 'journal-title': 'J. Algebra'}, {'key': '3727_CR8', 'unstructured': 'I. H. Isaacs, Character Theory of Finite Groups, Am. Math. Soc., Providence, RI (2006).'}, {'key': '3727_CR9', 'author': 'YM Gorchakov', 'year': '1978', 'unstructured': 'Yu. M. Gorchakov, Groups with Finite Classes of Conjugate Elements [in Russian], Nauka, Moscow (1978).', 'volume-title': 'Groups with Finite Classes of Conjugate Elements [in Russian]'}], 'container-title': ['Journal of Mathematical Sciences'], 'language': 'en', 'link': [{'URL': 'http://link.springer.com/article/10.1007/s10958-018-3727-y/fulltext.html', 'content-type': 'text/html', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://link.springer.com/content/pdf/10.1007/s10958-018-3727-y.pdf', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://link.springer.com/content/pdf/10.1007/s10958-018-3727-y.pdf', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 3, 7]], 'date-time': '2018-03-07T05:17:00Z', 'timestamp': 1520399820000}, 'score': 36.114395, 'issued': {'date-parts': [[2018, 2, 26]]}, 'references-count': 9, 'journal-issue': {'published-print': {'date-parts': [[2018, 4]]}, 'issue': '1'}, 'alternative-id': ['3727'], 'URL': 'http://dx.doi.org/10.1007/s10958-018-3727-y', 'relation': {'cites': []}, 'ISSN': ['1072-3374', '1573-8795'], 'issn-type': [{'value': '1072-3374', 'type': 'print'}, {'value': '1573-8795', 'type': 'electronic'}]}
+>>> hash >>> ('Groups with Almost Regular and Almost Perfect Involutions', 2018.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> â€”, L. Ku<cera, Canonical labelling of graphs in linear average time, Proc. 20th IEEE FOCS Symp. /1979/ 39â€“46.
+>>> DOI >>> 10.1109/sfcs.1979.8
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1979.8
+>>> year >>> 1979.0
+>>> title >>> Canonical labelling of graphs in linear average time
+>>> author >>> Laszlo Babai and Ludik Kucera
+>>> reference_count >>> 8.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ['20th Annual Symposium on Foundations of Computer Science (sfcs 1979)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:30:36Z', 'timestamp': 1525437036873}, 'reference-count': 8, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1979, 10]]}, 'DOI': '10.1109/sfcs.1979.8', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 31]], 'date-time': '2008-07-31T15:46:42Z', 'timestamp': 1217519202000}, 'source': 'Crossref', 'is-referenced-by-count': 8, 'title': ['Canonical labelling of graphs in linear average time'], 'prefix': '10.1109', 'author': [{'given': 'Laszlo', 'family': 'Babai', 'sequence': 'first', 'affiliation': []}, {'given': 'Ludik', 'family': 'Kucera', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '20th Annual Symposium on Foundations of Computer Science (sfcs 1979)', 'location': 'San Juan, Puerto Rico', 'start': {'date-parts': [[1979, 10, 29]]}, 'end': {'date-parts': [[1979, 10, 31]]}}, 'container-title': ['20th Annual Symposium on Foundations of Computer Science (sfcs 1979)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4567990/4567991/04567999.pdf?arnumber=4567999', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T19:22:40Z', 'timestamp': 1489692160000}, 'score': 60.00097, 'issued': {'date-parts': [[1979, 10]]}, 'references-count': 8, 'URL': 'http://dx.doi.org/10.1109/sfcs.1979.8'}
+>>> hash >>> ('Canonical labelling of graphs in linear average time', 1979.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R.M. Karp, Probabilistic analysis of a canonical numbering algorithm for graphs, Proc. Symp. Pure Math. 34, AMS 1979, 365â€“378.
+>>> DOI >>> 10.1090/pspum/034/525336
+>>> URL >>> http://dx.doi.org/10.1090/pspum/034/525336
+>>> year >>> 1979.0
+>>> title >>> Probabilistic analysis of a canonical numbering algorithm for graphs
+>>> author >>> Richard M. Karp
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> ['Relations between Combinatorics and Other Parts of Mathematics', 'Proceedings of Symposia in Pure Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database73.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 6]], 'date-time': '2018-05-06T02:04:31Z', 'timestamp': 1525572271536}, 'publisher-location': 'Providence, Rhode Island', 'reference-count': 0, 'publisher': 'American Mathematical Society', 'isbn-type': [{'value': '9780821814345', 'type': 'print'}, {'value': '9780821893227', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1979]]}, 'DOI': '10.1090/pspum/034/525336', 'type': 'other', 'created': {'date-parts': [[2013, 1, 23]], 'date-time': '2013-01-23T20:40:07Z', 'timestamp': 1358973607000}, 'page': '365-378', 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['Probabilistic analysis of a canonical numbering algorithm for graphs'], 'prefix': '10.1090', 'author': [{'given': 'Richard M.', 'family': 'Karp', 'sequence': 'first', 'affiliation': []}], 'member': '14', 'container-title': ['Relations between Combinatorics and Other Parts of Mathematics', 'Proceedings of Symposia in Pure Mathematics'], 'deposited': {'date-parts': [[2013, 1, 23]], 'date-time': '2013-01-23T20:11:15Z', 'timestamp': 1358971875000}, 'score': 66.39679, 'issued': {'date-parts': [[1979]]}, 'ISBN': ['9780821814345', '9780821893227'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1090/pspum/034/525336', 'ISSN': ['2324-707X', '0082-0717'], 'issn-type': [{'value': '0082-0717', 'type': 'print'}, {'value': '2324-707X', 'type': 'electronic'}]}
+>>> hash >>> ('Probabilistic analysis of a canonical numbering algorithm for graphs', 1979.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

@@ -1,0 +1,47 @@
+[0] Jianlin Cheng, Hiroto Saigo, Pierre Baldi, Large‐scale prediction of disulphide bridges using kernel methods two‐dimensional recursive neural networks and weighted graph matching
+[1] Abkevich VI, Shankhnovich EI. What can disulfide bonds tell us about protein energetics, function and folding: simulations and bioinformatics analysis. J Mol Biol 2000; 300: 975–985.
+[2] Matsumura M, Signor G, Matthews BW. Substantial increase of protein stability by multiple disulfide bonds. Nature 1989; 342: 291–293.
+[3] Clarke J, Fersht AR. Engineered disulfide bonds as probes of the folding pathway of barnase–increasing stability of proteins against the rate of denaturation. Biochemistry 1993; 32: 4322–4329.
+[4] Klink TA, Woycechosky KJ, Taylor KM, Raines RT. Contribution of disulfide bonds to the conformational stability and catalytic activity of ribonuclease A. Eur J Biochem 2000; 267: 566–572.
+[5] Betz S. Disulfide bonds and the stability of globular proteins. Proteins 1993; 21: 167–195.
+[6] Doig A, Sternberg M. Side chains, conformational entropy in protein folding. Protein Sci 1995; 4: 2247–2251.
+[7] Wedemeyer WJ, Welkler E, Narayan M, Scheraga HA. Disulfide bonds and protein‐folding. Biochemistry 2000; 39: 4207–4216.
+[8] Demetrius L. Thermodynamics and kinetics of protein folding: an evolutionary perspective. J Theor Biol 2000; 217: 397–411.
+[9] Harrison PM, Sternberg MJE. Analysis and classification of disulfide connectivity in proteins. J Mol Biol 1994; 244: 448–463.
+[10] Fariselli P, adio R. Prediction of disulfide connectivity in proteins. Bioinformatics 2001; 17: 957–964.
+[11] Fariselli P, Martelli PL, adio R. A neural network‐based method for predicting the disulfide connectivity in proteins. 6th International Conference on Knowledge‐Based Intelligent and Engineering Systems 2002.
+[12] Klepeis JL, Floudas CA. Prediction of β‐sheet topology and disulfide bridges in polypeptides. J Comput Chem 2003; 24: 191–208.
+[13] Vullo A, Frasconi P. Disulfide connectivity prediction using recursive neural networks and evolutionary information. Bioinformatics 2004; 20: 653–659.
+[14] Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig, H, Shindyalov IN, Bourne PE. The Protein Data Bank. Nucl Acids Res 2000; 28: 235–242.
+[15] Frasconi P, Gori M, Sperduti A. A general framework for adaptive processing of data structures. IEEE Trans Neural Networks 1998; 9: 768–786.
+[16] Fariselli P, Riccobelli P, adio R. Role of evolutionary information in predicting the disulfide‐bonding state of cysteine in proteins. Proteins 1999; 36: 340–346.
+[17] Fiser A, Simon I. Predicting the oxidation state of cysteines by multiple sequence alignment. Bioinformatics 2000; 16: 251–256.
+[18] Martelli PL, Fariselli P, Malaguti L, adio R. Prediction of the disulfide‐bonding state of cysteines in proteins at 88% accuracy. Protein Sci 2002; 11: 2735–2739.
+[19] Frasconi P, Passerini A, Vullo A. A two stage SVM architecture for predicting the disulfide bonding state of cysteines. In Proceedings of IEEE Neural Network for signal processing conference. Piscataway, NJ: IEEE Press; 2002. p 287–295.
+[20] Ceroni A, Frasconi P, Passerini A, Vullo A. Predicting the disulphide bonding state of cysteines with combinations of kernel machines. VLSI Signal Processing 2003; 35.
+[21] Bairoch A, Apweiler R. The SWISS‐PROT protein sequence database and its supplement TrEMBL. Nucleic Acids Res 2000; 28: 45–48.
+[22] Hobhom U, Scharf M, Schneider P, Sander C. Selection of representative protein data sets. Prot Sci 1992; 1: 409–417.
+[23] Smith TF, Waterman MS. Identification of common molecular subsequences. J Mol Biol 1981; 147: 195–197.
+[24] Abagyan, Batalov. J Mol Biol 1997; 273: 355–368.
+[25] Hobohm U, Sander C. Adaptive mixtures of local experts. Protein Sci 1994; 3.
+[26] Westbrook J, Fitzgerald PM. The pdb format, mmcif formats and other data formats. Structural Bioinformatics 2003.
+[27] Mika S, Rost B. Uniqueprot: creating representative protein‐sequence sets. Nucleic Acids Res 2003; 31: 3789–3791.
+[28] Sander C. Schneider R. Database of homology‐derived protein structures and the structural meaning of sequence alignment. Proteins 1991; 9: 56–68.
+[29] Kabsch W, Sander C. Dictionary of protein secondary structure: pattern recognition of hydrogen‐bonded and geometrical features. Biopolymers 1983; 22: 2577–2637.
+[30] Cristianini N and Shawe‐Taylor J. An introduction to support vector machines. Cambridge, UK: Cambridge University Press; 2000.
+[31] Müller, K‐R, Rätsch G, Mika S, Tsuda K, Schölkopf B. An introduction to kernel‐based learning algorithms. IEEE Neural Networks 2001; 12: 181–201.[32] Schölkopf B, Smola AJ. Learning with kernels: support vector machines, regularization, optimization, and beyond. Cambridge, MA: MIT Press; 2002.
+[33] Jaakkola T, Diekhans M, Haussler D. A discriminative framework for detecting remote protein homologies. J Computa Biol 2000; 7(1,2): 95–114.[34] Leslie C, Eskin E, Cohen A, Weston J, Noble W. Mismatch string kernels for discriminative protein classification. Bioinformatics 2004; 20: 467–476.
+[35] Liao L, Noble WS. Combining pairwise sequence similarity and support vector machines for remote protein homology detection. In Proceedings of the Sixth International Conference on Computational Molecular Biology. New York: ACM Press; 2002.
+[36] Schölkopf B, Tsuda K, Vert J‐P. Support vector machine applications in computational biology. Cambridge, MA: MIT Press; 2004.
+[37] Lanckriet GRG, Cristianini N, Jordan MI, Noble WS. Kernel‐based integration of genomic data using semidefinite programming. In kernel methods in computational biology. Cambridge, MA: MIT Press, 2004.
+[38] Leslie C, Eskin E, Noble WS. The spectrum kernel: A string kernel for SVM protein classification. In: Altman RB, Dunker AK, Hunter L, Lauerdale K, Klein T, editors. Proceedings of the Pacific Symposium on Biocomputing 2002. River Edge, NJ: World Scientific; 2002. p 564–575.
+[39] Kuang R, Ie E, Wang K, Siddiqi M, Freund Y, Leslie C. Profile‐based string kernels for detection of remote homologs and discriminative motifs. J Bioinform Computa Biol 2005; 3: 527–550.
+[40] Altschul SF, Madden TL, Schaffer AA. Gapped blast and psi‐blast: a new generation of protein database search programs. Nucleic Acid Res 1997; 25: 3389–3402.
+[41] Saigo H, Vert J‐P, Ueda N, Akutsu T. Protein homology detection using string alignment kernels. Bioinformatics 2004; 20: 1682–1689.
+[42] Baldi P, Brunak S. Bioinformatics: the machine learning approach. Cambridge, MA: MIT Press; 2001.
+[43] Baldi P, Pollastri G. The principled design of large‐scale recursive neural network architectures‐DAG‐RNNs and the protein structure prediction problem. J Machine Learning Res 2003; 4: 575–602.
+[44] Baldi, P. Rosen‐Zvi, M. On the relationship between deterministic and probabilistic directed graphical models: from Bayesian networks to recursive neural networks and back. Neural Networks 2005. Forthcoming.[45] Pollastri G, Przybylski D, Rost B, Baldi P. Improving the prediction of protein secondary strucure in three and eight classes using recurrent neural networks and profiles. Proteins 2001; 47: 228–235.[46] Cheng J, Randall, AZ, Sweredoski M, Baldi P. SCRATCH: a protein structure and structural feature prediction server. Nucleic Acids Res 2005; 33: W72–W76.
+[47] Edmonds J. Paths, trees, and flowers. Canadian J Mathematics, 1965; 17: 449–467.
+[48] Gabow HN. An efficient implementation of Edmond's algorithm for maximum weight matching on graphs. J ACM 1976; 23: 221–234.
+[49] Ferre F, Clote P. Disulfide connectivity prediction using secondary structure information and diresidue frquencies. Bioinformatics 2005; 21: 2336–2346.
+[50] Cheng J, Baldi, P. Three‐stage prediction of protein beta‐sheets by neural networks, alignments, and graph algorithms. Bioinformatics 2005; 21(Suppl. 1): 175–184.

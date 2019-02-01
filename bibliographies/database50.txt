@@ -1,0 +1,116 @@
+[0] Michele Berlingerio, Danai Koutra, Tina Eliassi-Rad, Christos Faloutsos, NetSimile: A Scalable Approach to Size-Independent Network Similarity
+[1] K. Henderson, B. Gallagher, L. Li, L. Akoglu, T. Eliassi-Rad, H. Tong,
+and C. Faloutsos, "It's who you know: graph mining using recursive
+structural features," in Proceedings of the 17th ACM International
+Conference on Knowledge Discovery and Data Mining (SIGKDD), San
+Diego, CA, 2011, pp. 663–671.
+[2] H. B. Mann and D. R. Whitney, "On a test of whether one of two
+random variables in stochastically larger than the other," vol. 18, no. 1,
+pp. 50–60, 1947.
+[3] M. A. Stephens, "Edf statistics for goodness of fit and some comparisons,"
+Journal of the American Statistical Association, vol. 69, no. 347,
+pp. 730–737, 1974.
+[4] A. Reka and Barabasi, "Statistical mechanics of complex networks,"
+Reviews of Modern Physics, vol. 74, pp. 47–97, June 2002. [Online].
+Available: http://arxiv.org/abs/cond-mat/0106096
+[5] J. Leskovec, J. M. Kleinberg, and C. Faloutsos, "Graphs over time:
+densification laws, shrinking diameters and possible explanations," in
+Proceedings of the 11th ACM International Conference on Knowledge
+Discovery and Data Mining (SIGKDD), Chicago, IL, 2005, pp. 177–187.
+[6] P. Erdos and A. R ˝ enyi, "On random graphs I," Publicationes Mathematicae
+Debrecen, vol. 6, pp. 290–297, 1959.
+[7] D. J. Watts and S. H. Strogatz, "Collective dynamics of 'small-world'
+networks," Nature, vol. 393, no. 6684, pp. 440–442, June 1998.
+[8] M. Berlingerio, F. Bonchi, B. Bringmann, and A. Gionis, "Mining
+graph evolution rules," in Proceedings of the European Conference on
+Machine Learning and Principles and Practice of Knowledge Discovery
+in Databases (ECML PKDD), Bled, Slovenia.
+[9] S.-H. Cha, "Comprehensive survey on distance / similarity measures
+between probability density functions," International Journal of Mathematical
+Models & Methods in Applied Sciences, vol. 1, no. 4, pp. 300–
+307, 2007.
+[10] M. E. J. Newman, "The structure and function of complex networks,"
+Society for Industrial and Applied Mathematics (SIAM) Review, vol. 45,
+pp. 167–256, 2003.
+[11] T. Hastie, R. Tibshirani, and J. Friedman, The Elements of Statistical
+Learning, 5th ed. Springer, 2011, pp. 520–528.
+[12] D. Pelleg and A. Moore, "X-means: Extending k-means with efficient
+estimation of the number of clusters," in Proceedings of the 17th International
+Conference on Machine Learning (ICML), Stanford University,
+CA, 2000, pp. 727–734.
+[13] D. Sousa, L. Sarmento, and E. Mendes Rodrigues, "Characterization
+of the twitter @replies network: are user ties social or topical?" in
+Proceedings of the 2nd international workshop on Search and Mining
+User-generated Contents, Toronto, CA. ACM, 2010, pp. 63–70.
+[14] E. Baikousi, G. Rogkakos, and P. Vassiliadis, "Similarity measures for
+multidimensional data," Proceedings of the 27th International Conference
+on Data Engineering (ICDE), Hannover, Germany, vol. 0, pp. 171–
+182, 2011.
+[15] K. Faust, "Comparing social networks: Size, density and local structure,"
+Advances in Methodology and Statistics, vol. 3, no. 2, pp. 185–216,
+2006.
+[16] O. Macindoe and W. Richards, "Graph comparison using fine structure
+analysis," vol. 0. Los Alamitos, CA, USA: IEEE Computer Society,
+2010, pp. 193–200.
+[17] P. Papadimitriou, A. Dasdan, and H. Garcia-Molina, "Web graph similarity
+for anomaly detection," in Proceedings of the 17th International
+Conference on World Wide Web (WWW), Beijing, China, 2008, pp. 1167–
+1168.
+[18] H. Hu, X. Yan, Y. Huang, J. Han, and X. J. Zhou, "Mining coherent
+dense subgraphs across massive biological networks for functional
+discovery," Bioinformatics, vol. 21, pp. 213–221, January 2005.
+[19] M. Pelillo, "Replicator equations, maximal cliques, and graph isomorphism."
+Neural Computation, vol. 11, no. 8, pp. 1933–1955, 1999.
+[20] J. R. Ullmann, "An algorithm for subgraph isomorphism," Journal of
+ACM, vol. 23, no. 1, pp. 31–42, 1976.
+[21] G. Chartrand, G. Kubicki, and M. Schultz, "Graph similarity and
+distance in graphs," Aequationes Mathematicae, vol. 55, no. 1-2, pp.
+129–145, 1998.
+[22] M.-L. Fernandez and G. Valiente, "A graph distance metric combin- ´
+ing maximum common subgraph and minimum common supergraph,"
+Pattern Recognition Letters, vol. 22, no. 6/7, pp. 753–758, 2001.
+[23] H. Bunke, "Error correcting graph matching: On the influence of the
+underlying cost function," IEEE Transactions on Pattern Analysis and
+Machine Intelligence, vol. 21, no. 9, pp. 917–922, 1999.
+[24] X. Gao, B. Xiao, D. Tao, and X. Li, "A survey of graph edit distance,"
+Journal of Pattern Analysis and Applications, vol. 13, no. 1, pp. 113–
+129, 2010.
+[25] G. Jeh and J. Widom, "SimRank: A measure of structural-context
+similarity," in Proceedings of the 8th ACM International Conference on
+Knowledge Discovery and Data Mining (SIGKDD), Edmonton, Alberta,
+New York, NY, USA, 2002, pp. 538–543.
+[26] S. Melnik, H. Garcia-Molina, and E. Rahm, "Similarity flooding:
+A versatile graph matching algorithm and its application to schema
+matching," in Proceedings of the 18th International Conference on Data
+Engineering (ICDE), San Jose, CA, 2002, pp. 117–128.
+[27] L. A. Zager and G. C. Verghese, "Graph similarity scoring and matching,"
+Applied Mathematics Letters, vol. 21, no. 1, pp. 86–94, 2008.
+[28] R. Gupta, G. Fang, B. Field, M. Steinbach, and V. Kumar, "Quantitative
+evaluation of approximate frequent pattern mining algorithms," in
+Proceedings of the 14th ACM International Conference on Knowledge
+Discovery and Data Mining (SIGKDD), Las Vegas, NV, 2008, pp. 301–
+309.
+[29] M. Kuramochi and G. Karypis, "Finding frequent patterns in a large
+sparse graph," Proceedings of the ACM SIGMOD Workshop on Research
+Issues in Data Mining and Knowledge Discovery (DMKD), Baltimore,
+ML, vol. 11, no. 3, pp. 243–271, 2005.
+[30] X. Yan and J. Han, "gSpan: Graph-based substructure pattern mining,"
+in Proceedings of the 2nd IEEE International Conference on Data
+Mining (ICDM), Maebashi City, Japan. Los Alamitos, CA, USA: IEEE
+Computer Society, 2002, pp. 721–724.
+[31] R. Giugno and D. Shasha, "Graphgrep: A fast and universal method for
+querying graphs," in Proceedings of the 16th International Conference
+on Pattern Recognition (ICPR), Quebec, Canada, 2002, pp. 112–115.
+[32] H. Jiang, H. Wang, P. S. Yu, and S. Zhou, "Gstring: A novel approach
+for efficient search in graph databases," in Proceedings of the 23rd
+International Conference on Data Engineering (ICDE), Istanbul, Turkey,
+2007, pp. 566–575.
+[33] X. Wang, A. M. Smalter, J. Huan, and G. H. Lushington, "G-hash:
+towards fast kernel-based similarity search in large graph databases,"
+in Proceedings of the 12th International Conference on Extending
+Database Technology (EDBT), Saint-Petersburg, Russia, 2009, pp. 472–
+480.
+[34] G. Li, M. Semerci, B. Yener, and M. J. Zaki, "Graph classification via
+topological and label attributes," in Proceedings of the 9th International
+Workshop on Mining and Learning with Graphs (MLG), San Diego,
+USA, Aug 2011.

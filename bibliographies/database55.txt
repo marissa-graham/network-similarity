@@ -1,0 +1,225 @@
+[0] Milena Vujošević-Janičić, Mladen Nikolić, DušanTošić, ViktorKuncak, Software verification and graph similarity for automated evaluation of students' assignments
+[1] A. Pears, S. Seidman, L. Malmi, L. Mannila, E. Adams, J. Bennedsen, M. Devlin, J. Paterson
+A survey of literature on the teaching of introductory programming
+Working Group Reports on ITiCSE on Innovation and Technology in Computer Science Education, ITiCSE-WGR ’07, ACM (2007), pp. 204-223
+[2] T. Nipkow, Teaching semantics with a proof assistant: no more LSD trip proofs, in: Verification, Model Checking, and Abstract Interpretation (VMCAI), pp. 24–38.
+[3] M. Vujošević-Janičić, D. Tošić
+The role of programming paradigms in the first programming courses
+The Teaching of Mathematics XI (2008), pp. 63-83
+[4] I.E. Allen, J. Seaman, Learning on demand: online education in the United States, 2009, Technical Report, The Sloan Consortium, 2010.
+[5] C. Douce, D. Livingstone, J. Orwell
+Automatic test-based assessment of programming: a review
+Journal on Educational Resources in Computing, 5 (2005)
+[6] W. Afzal, R. Torkar, R. Feldt
+A systematic review of search-based testing for non-functional system properties
+Information and Software Technology, 51 (2009), pp. 957-976
+[7] N. Tillmann, J. Halleux
+Pex white box test generation for .NET
+Proceedings of TAP 2008, the 2nd International Conference on Tests and Proofs of LNCS, 4966, Springer (2008), pp. 134-153
+[8] C. Cadar, D. Dunbar, D. Engler
+KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs
+Proceedings of the 8th USENIX Conference on Operating Systems Design and Implementation (OSDI), USENIX Association Berkeley (2008), pp. 209-224
+[9] V. Chipounov, V. Kuznetsov, G. Candea
+S2E: a platform for in-vivo multi-path analysis of software systems
+ACM SIGARCH Computer Architecture News, 39 (2011), pp. 265-278
+[10] E. Clarke, D. Kroening, F. Lerda
+A tool for checking ANSI-C programs
+Tools and Algorithms for the Construction and Analysis of Systems (TACAS), Springer (2004), pp. 168-176
+[11] L. Cordeiro, B. Fischer, J. Marques-Silva
+SMT-based bounded model checking for embedded ANSI-C software
+International Conference on Automated Software Engineering (ASE) (2009), pp. 137-148
+[12] F. Merz, S. Falke, C. Sinz
+LLBMC: bounded model checking of C and C++ programs using a compiler IR
+Verified Software: Theories, Tools and Experiments (VSTTE), LNCS, Springer (2012), pp. 146-161
+[13] M. Vujošević-Janičić, V. Kuncak
+Development and evaluation of LAV: an SMT-based error finding platform
+Verified Software: Theories, Tools and Experiments (VSTTE), LNCS, Springer (2012), pp. 98-113
+[14] T. Wang, X. Su, Y. Wang, P. Ma
+Semantic similarity-based grading of student programs
+Information and Software Technology, 49 (2007), pp. 99-107
+[15] K.A. Naudé, J.H. Greyling, D. Vogts
+Marking student programs using graph similarity
+Computers and Education, 54 (2010), pp. 545-561
+[16] K.M. Ala-Mutka
+A survey of automated assessment approaches for programming assignments
+Computer Science Education, 15 (2005), pp. 83-102
+[17] P. Ihantola, T. Ahoniemi, V. Karavirta, O. Seppälä
+Review of recent systems for automatic assessment of programming assignments
+Proceedings of the 10th Koli Calling International Conference on Computing Education Research, Koli Calling ’10, ACM (2010), pp. 86-93
+[18] M. Nikolić, Measuring similarity of graph nodes by neighbor matching, Intelligent Data Analysis, submitted for publication.
+[19] C. Lattner, V. Adve
+The LLVM Instruction Set and Compilation Strategy (2002)
+[20] C. Lattner, The LLVM Compiler Infrastructure, 2012. <http://www.llvm.org/>.
+[21] D. Dhurjati, S. Kowshik, V. Adve
+SAFECode: enforcing alias analysis for weakly typed languages
+Proceedings of the 2006 ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), ACM, New York, NY, USA (2006), pp. 144-157
+[22] M.R., LLVM-py: Python Bindings for LLVM, 2012. <http://www.mdevan.org/llvm-py/>.
+[23] T. Bagby, LLVM Ruby, 2012. <http://www.llvmruby.org/>.
+[24] Haskell, LLVM, 2012. <http://www.haskell.org/haskellwiki/LLVM>.
+[25] VMKit, A Substrate for Virtual Machines, 2012. <http://www.vmkit.llvm.org/>.
+[26] D, LLVM D Compiler, 2012. <http://www.ohloh.net/p/ldc>.
+[27] LLVM Pure, The Pure Programming Language, 2012. <http://www.code.google.com/p/pure-lang/>.
+[28] G. Reedy, Compiling Scala to LLVM, 2012. <http:www.//greedy.github.com/scala-llvm/>.
+[29] Lua, JIT/Static Compiler for Lua using LLVM on the Backend, 2012. <http://www.code.google.com/p/llvm-lua/>.
+[30] G. Tassey, The Economic Impacts of Inadequate Infrastructure For Software Testing, Technical Report, National Institute of Standards and Technology, 2002.
+[31] J.C. King
+Symbolic execution and program testing
+Communications of the ACM, 19 (1976), pp. 385-394
+[32] E.M. Clarke
+25 Years of Model Checking—The Birth of Model Checking
+LNCS, Springer (2008)
+[33] P. Cousot, R. Cousot
+Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints
+Symposium on Principles of Programming Languages (POPL), ACM Press (1977), pp. 238-252
+[34] C. Barrett, R. Sebastiani, S.A. Seshia, C. Tinelli
+Satisfiability modulo theories
+Handbook of Satisfiability, Frontiers in Artificial Intelligence and Applications, vol. 185, IOS Press (2009), pp. 825-885
+[35] F.E. Allen
+Control flow analysis
+Proceedings of a Symposium on Compiler Optimization, ACM, New York, NY, USA (1970), pp. 1-19
+[36] J.M. Kleinberg
+Authoritative sources in a hyperlinked environment
+Journal of the ACM, 46 (1999), pp. 604-632
+[37] M. Heymans, A. Singh
+Deriving phylogenetic trees from the similarity analysis of metabolic pathways
+Bioinformatics, 19 (2003), pp. 138-146
+[38] V.D. Blondel, A. Gajardo, M. Heymans, P. Snellart, P. van Dooren
+A measure of similarity between graph vertices: applications to synonym extraction and web searching
+SIAM Review, 46 (2004), pp. 647-666
+[39] H.W. Kuhn
+The Hungarian method for the assignment problem
+Naval Research Logistics Quarterly, 2 (1955), pp. 83-97
+[40] J. Edmonds, R.M. Karp
+Theoretical improvements in algorithmic efficiency for network flow problems
+Journal of the ACM, 19 (1972), pp. 248-264
+[41] M.L. Fredman, R.E. Tarjan
+Fibonacci heaps and their uses in improved network optimization algorithms
+Journal of the ACM, 34 (1987), pp. 596-615
+[42] A.K. Mandal, C.A. Mandal, C. Reade
+A system for automatic evaluation of C programs: features and interfaces
+International Journal of Web-Based Learning and Teaching Technologies, 2 (2007), pp. 24-39
+[43] P. Loo, W. Tsai
+Random testing revisited
+Information and Software Technology, 30 (1988), pp. 402-417
+[44] P. Godefroid, M.Y. Levin, D.A. Molnar
+SAGE: whitebox fuzzing for security testing
+ACM Queue, 10 (2012), p. 20
+[45] B.P. Miller, L. Fredriksen, B. So
+An empirical study of the reliability of UNIX utilities
+Communications of ACM, 33 (1990), pp. 32-44
+[46] J.W. Duran, S.C. Ntafos
+An evaluation of random testing
+IEEE Transactions of Software Engineering, 10 (1984), pp. 438-444
+[47] P. Godefroid, N. Klarlund, K. Sen
+DART: directed automated random testing
+Proceedings of the 2005 ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), ACM, New York, NY, USA (2005), pp. 213-223
+[48] K. Sen, D. Marinov, G. Agha
+CUTE: a concolic unit testing engine for C
+Proceedings of the 10th European Software Engineering Conference Held Jointly with 13th ACM SIGSOFT International Symposium on Foundations of Software Engineering, ESEC/FSE-13, ACM, New York, NY, USA (2005), pp. 263-272
+[49] M. Zalewski, Bunny the Fuzzer, 2008. <http://www.code.google.com/p/bunny-the-fuzzer/>.
+[50] O. Ruwase, M.S. Lam, A practical dynamic buffer overflow detector, in: Proceedings of the 11th Annual Network and Distributed System Security Symposium, pp. 159–169.
+[51] J. Condit, M. Harren, S. McPeak, G.C. Necula, W. Weimer
+CCured in the real world
+Proceedings of the 2003 ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), ACM (2003), pp. 232-244
+[52] N. Nethercote, J. Seward
+Valgrind: a framework for heavyweight dynamic binary instrumentation
+SIGPLAN Not., 42 (2007), pp. 89-100
+[53] S.H. Yong, S. Horwitz
+Using static analysis to reduce dynamic analysis overhead
+Formal Methods in System Design, 27 (2005), pp. 313-334
+[54] D.G. Thorburn, G.W.A. Rowe
+PASS: an automated system for program assessment
+Computers & Education, 29 (1997), pp. 195-206
+[55] V.I. Levenshtein
+Binary codes capable of correcting deletions, insertions, and reversals
+Soviet Physics Doklady, 10 (1966), pp. 707-710
+[56] J. Gross
+Linear Regression
+Springer (2003)
+[57] M.L. Mitchell, J.M. Jolley, Research Design Explained, Wadsworth Cengage Learning, 2012.
+[58] J.W. Howatt
+On criteria for grading student programs
+SIGCSE Bulletin, 26 (1994), pp. 3-7
+[59] J.B. Hext, J.W. Winings
+An automatic grading scheme for simple programming exercises
+Communications of ACM, 12 (1969), pp. 272-275
+[60] W.H. Fleming, K.A. Redish, W.F. Smyth
+Comparison of manual and automated marking of student programs
+Information and Software Technology, 30 (1988), pp. 547-552
+[61] U.V. Matt
+Kassandra: the automatic grading system
+SIGCUE Outlook, 22 (1994), pp. 22-26
+[62] R. Saikkonen, L. Malmi, A. Korhonen
+Fully automatic assessment of programming exercises
+ACM Sigcse Bulletin, 33 (2001), pp. 133-136
+[63] K.A. Reek
+The TRY system -or- how to avoid testing student programs
+SIGCSE Bulletin, 21 (1989), pp. 112-116
+[64] D.S. Morris
+Automatically grading Java programming assignments via reflection, inheritance, and regular expressions
+Frontiers in Education Conference, 1 (2002), pp. T3G-22
+[65] D. Morris, Automatic grading of student’s programming assignments: an interactive process and suit of programs, in: Proceedings of the Frontiers in Education Conference, vol. 3, pp. 1–6.
+[66] J. English
+Automated assessment of GUI programs using JEWL
+SIGCSE Bulletin, 36 (2004), pp. 137-141
+[67] M. Wick, D. Stevenson, P. Wagner
+Using testing and JUnit across the curriculum
+SIGCSE Bulletin, 37 (2005), pp. 236-240
+[68] B. Cheang, A. Kurnia, A. Lim, W.-C. Oon
+On automated grading of programming assignments in an academic institution
+Computers and Education, 41 (2003), pp. 121-131
+[69] D. Arnow, O. Barshay
+WebToTeach: an interactive focused programming exercise system
+Frontiers in Education, Annual, 1 (1999)
+12A9/39-12A9/44
+[70] C.C. Ellsworth, J.B. Fenwick Jr., B.L. Kurtz
+The quiver system
+Proceedings of the 35th SIGCSE Technical Symposium on Computer Science Education, SIGCSE ’04, ACM (2004), pp. 205-209
+[71] A. Zeller
+Making students read and review code
+ITiCSE ’00: Proceedings of the 5th Annual SIGCSE/SIGCUE ITiCSE Conference on Innovation and Technology in Computer Science Education, ACM Press (2000), pp. 89-92
+[72] S.H. Edwards, Rethinking computer science education from a test-first perspective, in: Companion of the 2003 ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications, pp. 148–155.
+[73] L. Huang, M. Holcombe
+Empirical investigation towards the effectiveness of test first programming
+Information and Software Technology, 51 (2009), pp. 182-194
+[74] J. Spacco, D. Hovemeyer, W. Pugh, J. Hollingsworth, N. Padua-Perez, F. Emad
+Experiences with marmoset: designing and using an advanced submission and testing system for programming courses
+Proceedings of the 11th Annual Conference on Innovation and Technology in Computer Science Education (ITiCSE), ACM Press (2006), pp. 13-17
+[75] D. Jackson, M. Usher
+Grading student programs using ASSYST
+SIGCSE Bulletin, 29 (1997), pp. 335-339
+[76] M. Joy, N. Griffiths, R. Boyatt
+The BOSS online submission and assessment system
+Journal of Educational Resources in Computing, 5 (2005)
+[77] C.A. Higgins, G. Gray, P. Symeonidis, A. Tsintsifas
+Automated assessment and experiences of teaching programming
+Journal on Educational Resources in Computing, 5 (2005)
+[78] M. Blumenstein, S. Green, S. Fogelman, A. Nguyen, V. Muthukkumarasamy
+Performance analysis of GAME: a generic automated marking environment
+Computers & Education, 50 (2008), pp. 1203-1216
+[79] S. Horwitz, T. Reps
+The use of program dependence graphs in software engineering
+Proceedings of the 14th International Conference on Software Engineering, ICSE ’92, ACM (1992), pp. 392-411
+[80] T. Wang, X. Su, P. Ma, Y. Wang, K. Wang
+Ability-training-oriented automated assessment in introductory programming course
+Computers and Education, 56 (2011), pp. 220-226
+[81] J. Li, W. Pan, R. Zhang, F. Chen, S. Nie, X. He
+Design and implementation of semantic matching based automatic scoring system for C programming language
+Proceedings of the Entertainment for Education, and 5th International Conference on E-learning and Games, Springer (2010), pp. 247-257
+[82] N. Truong, P. Roe, P. Bancroft
+Automated feedback for fill in the gap programming exercises
+Proceedings of the 7th Australasian Conference on Computing Education, ACE ’05, vol. 42, Australian Computer Society, Inc. (2005), pp. 117-126
+[83] N. Zamin, E.E. Mustapha, S.K. Sugathan, M. Mehat, E. Anuar, Development of a web-based automated grading system for programming assignments using static analysis approach, in: International Conference on Technology and Operations Management, Institute Technology Bandung, 2006.
+[84] A.R. Khirulnizam, A. Syarbaini, J.N. Md, The design of an automated C programming assessment using pseudo-code comparison technique, in: National Conference on Software Engineering and Computer Systems, Pahang, Malaysia, 2007.
+[85] S. Schleimer, D.S. Wilkerson, A. Aiken
+Winnowing: local algorithms for document fingerprinting
+Proceedings of the 2003 ACM SIGMOD International Conference on Management of Data, ACM (2003), pp. 76-85
+[86] P. Ihantola
+Creating and visualizing test data from programming exercises
+Informatics in Education, 6 (2007), pp. 81-102
+[87] H. Garavel
+OPEN/CÆSAR: an open software architecture for verification, simulation, and testing
+Tools and Algorithms for the Construction and Analysis of Systems (TACAS), LNCS, vol. 1384, Springer (1998), pp. 68-84
+[88] N. Ayewah, W. Pugh, J.D. Morgenthaler, J. Penix, Y. Zhou
+Evaluating static analysis defect warnings on production software
+Proceedings of the 7th ACM SIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering, PASTE ’07, ACM (2007), pp. 1-8

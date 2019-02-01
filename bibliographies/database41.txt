@@ -1,0 +1,87 @@
+[0] Christoph Dopmann, Survey on the Graph Alignment Problem and a Benchmark of Suitable Algorithms
+[1] Paul Erdős and Alfréd Rényi. "On random graphs". In: Publicationes Mathematicae
+Debrecen 6 (1959), pp. 290–297.
+[2] Stanley Fields and Ok-kyu Song. "A novel genetic system to detect protein protein
+interactions". In: Nature 340 (1989), pp. 245–246.
+[3] Stephen F Altschul et al. "Basic local alignment search tool". In: Journal of molecular
+biology 215.3 (1990), pp. 403–410.
+[4] Duncan J Watts and Steven H Strogatz. "Collective dynamics of small-world
+networks". In: Nature 393.6684 (1998), pp. 440–442.
+[5] Albert-László Barabási and Réka Albert. "Emergence of scaling in random networks".
+In: Science 286.5439 (1999), pp. 509–512.
+[6] Maido Remm, Christian E. V. Storm, Erik L. L. Sonnhammer, et al. "Automatic
+clustering of orthologs and in-paralogs from pairwise species comparisons". In: Journal
+of molecular biology 314.5 (2001), pp. 1041–1052.
+[7] Mathew Penrose. Random geometric graphs. Vol. 5. Oxford University Press Oxford,
+2003.
+[8] Lun Li et al. "Towards a theory of scale-free graphs: Definition, properties, and
+implications". In: Internet Mathematics 2.4 (2005), pp. 431–523.
+[9] Roded Sharan et al. "Conserved patterns of protein interaction in multiple species".
+In: Proceedings of the National Academy of Sciences of the United States of America
+102.6 (2005), pp. 1974–1979.
+[10] Jason Flannick et al. "Græmlin: general and robust alignment of multiple large
+interaction networks". In: Genome research 16.9 (2006), pp. 1169–1181.
+[11] Mehmet Koyutürk et al. "Pairwise alignment of protein interaction networks". In:
+Journal of Computational Biology 13.2 (2006), pp. 182–199.
+[12] Zhi Liang et al. "Comparison of protein interaction networks reveals species conservation
+and divergence". In: BMC bioinformatics 7.1 (2006), p. 457.
+[13] Roded Sharan and Trey Ideker. "Modeling cellular machinery through biological
+network comparison". In: Nature biotechnology 24.4 (2006), pp. 427–433.
+[14] Banu Dost et al. "QNet: a tool for querying protein interaction networks". In:
+Research in Computational Molecular Biology. Springer. 2007, pp. 1–15.
+[15] Nataša Pržulj. "Biological network comparison using graphlet degree distribution".
+In: Bioinformatics 23.2 (2007), e177–e183.
+[16] Jason Flannick. "Algorithms for biological network alignment". PhD thesis. Stanford
+University, 2008.
+[17] Jason Flannick et al. "Automatic parameter learning for multiple network alignment".
+In: Research in Computational Molecular Biology. Springer. 2008, pp. 214–
+231.
+[18] Tijana Milenkoviæ and Nataša Pržulj. "Uncovering biological network function via
+graphlet degree signatures". In: Cancer informatics 6 (2008), p. 257.
+[19] Rohit Singh, Jinbo Xu, and Bonnie Berger. "Global alignment of multiple protein
+interaction networks with application to functional orthology detection". In:
+Proceedings of the National Academy of Sciences 105.35 (2008), pp. 12763–12768.
+[20] Chung-Shou Liao et al. "IsoRankN: spectral methods for global alignment of multiple
+protein networks". In: Bioinformatics 25.12 (2009), pp. i253–i258.
+[21] Daniel Spielman. "Spectral graph theory". In: Lecture Notes, Yale University
+(2009).
+[22] Mikhail Zaslavskiy, Francis Bach, and Jean-Philippe Vert. "Global alignment of
+protein–protein interaction networks by graph matching methods". In: Bioinformatics
+25.12 (2009), pp. i259–1267.
+[23] Xinbo Gao et al. "A survey of graph edit distance". In: Pattern Analysis and applications
+13.1 (2010), pp. 113–129.
+[24] Oleksii Kuchaiev et al. "Topological network alignment uncovers biological function
+and phylogeny". In: Journal of the Royal Society Interface 7.50 (2010), pp. 1341–
+1354.
+[25] Tijana Milenković et al. "Optimal network alignment with graphlet degree vectors".
+In: Cancer informatics 9 (2010), p. 121.
+[26] Günhan Gülsoy and Tamer Kahveci. "RINQ: Reference-based indexing for network
+queries". In: Bioinformatics 27.13 (2011), pp. i149–i158.
+[27] Mohammed El-Kebir, Jaap Heringa, and Gunnar W Klau. "Lagrangian relaxation
+applied to sparse global network alignment". In: Pattern Recognition in Bioinformatics.
+Springer, 2011, pp. 225–236.
+[28] Oleksii Kuchaiev and Nataša Pržulj. "Integrative network alignment reveals large
+regions of global network similarity in yeast and human". In: Bioinformatics 27.10
+(2011), pp. 1390–1396.
+[29] Anirban Banerjee. "Structural distance and evolutionary relationship of networks".
+In: Biosystems 107.3 (2012), pp. 186–196.
+[30] National Institute of General Medical Sciences. National Centers for Systems Biology.
+Aug. 2012. url: http://www.nigms.nih.gov/Research/FeaturedPrograms/
+SysBio/ (visited on 05/09/2013).
+[31] Vesna Memišević and Nataša Pržulj. "C-GRAAL: Common-neighbors-based global
+GRAph ALignment of biological networks". In: Integrative Biology 4.7 (2012),
+pp. 734–743.
+[32] Rob Patro and Carl Kingsford. "Global network alignment using multiscale spectral
+signatures". In: Bioinformatics 28.23 (2012), pp. 3105–3114.
+[33] Hang TT Phan, Michael JE Stemberg, and Eroi Gelenbe. "Aligning proteinprotein
+interaction networks using random neural networks". In: Bioinformatics
+and Biomedicine (BIBM), 2012 IEEE International Conference on. IEEE. 2012,
+pp. 1–6.
+[34] Hang TT Phan and Michael JE Sternberg. "PINALOG: a novel approach to align
+protein interaction networks—implications for complex detection and function prediction".
+In: Bioinformatics 28.9 (2012), pp. 1239–1245.
+[35] Ahmet E Aladağ and Cesim Erten. "SPINAL: scalable protein interaction network
+alignment". In: Bioinformatics (2013).
+[36] Behnam Neyshabur et al. "NETAL: a new graph-based method for global alignment
+of protein–protein interaction networks". In: Bioinformatics 29.13 (2013), pp. 1654–
+1662.

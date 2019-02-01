@@ -1,0 +1,19 @@
+[0] Alain Darte, Yves Robert, A Graph-Theoretic Approach to the Alignment Problem
+[1] Uptal Banerjee. Loop Transformations for Restructuring Compilers - The Foundations.Kluwer Academic Publishers, 1993.
+[2] Alain Darte, Tanguy Risset, and Yves Robert. Loop nest scheduling and transformations. InJ.J. Dongarra and B. Tourancheau, editors, Environments and Tools for Parallel Scienti c Computing, volume 6 of Advances in Parallel Computing, pages 309{332. North Holland, 1993.
+[3] Paul Feautrier. Data ow analysis of array and scalar references. Int. J. Parallel Program- ming, 20(1):23{51, 1991. 
+[4] Paul Feautrier. Some e cient solutions to the a ne scheduling problem, part i, one-dimensional time. Technical Report 92-28, Laboratoire MASI, Universit e Pierre et MarieCurie, Paris, May 1992. to appear in Int. J. Parallel Programming.
+[5] Paul Feautrier. Some e cient solutions to the a ne scheduling problem, part ii, multi-dimensional time. Technical Report 92-78, Laboratoire MASI, Universit e Pierre et MarieCurie, Paris, October 1992. to appear in Int. J. Parallel Programming.
+[6] Paul Feautrier. Towards automatic distribution. Technical Report 92-95, LaboratoireMASI, Institut Blaise Pascal, Paris, December 1992.
+[7] Hich Performance Fortran Forum. High performance fortran language speci cation. Tech-nical report, Rice University, January 1993.
+[8] Gelernter, Nicolau, and Padua, editors. Languages and Compilers for Parallel Computing.The MIT Press, Cambridge, Massachusetts, 1990.
+[9] M. Gondran and M. Minoux. Graphs and Algorithms. John Wiley, 1984
+[10] Seema Hiranandani, Ken Kennedy, and Chau-Wen Tseng. Compiler optimizations forFORTRAN D on MIMD distributed-memory machines. In Supercomputing 91, pages 86{100. IEEE Computer Society Press, nov 1991.
+[11] Seema Hiranandani, Ken Kennedy, and Chau-Wen Tseng. Compiling Fortran D for MIMDdistributed-memory machines. Communications of the ACM, 35(8):66{80, 1992.
+[12] C.H. Huang and P. Sadayappan. Communication-free hyperplane partitioning of nestedloops. In Banerjee, Gelernter, Nicolau, and Padua, editors, Languages and Compilers for Parallel Computing, volume 589 of Lecture Notes in Computer Science, pages 186{200. Springer Verlag, 1991.
+[13] Jingke Li and Marina Chen. The data alignment phase in compiling programs for dis-tributed memory machines. Journal Parallel Distributed Computing, 13:213{221, 1991.
+[14] Jaon D. Lukas and Kathleen Knobe. Data optimization and its e ect on communicationcosts in MIMD fortran code. In Dongarra, Kennedy, Messina, Sorensen, and Voigt, editors, Fifth SIAM Conference on Parallel Processing for Scienti c Computing, pages 478{483. SIAM Press, 1992.
+[15] Michael O'Boyle. Program and Data Transformations for E cient Execution on Distributed Memory Architectures. PhD thesis, University of Manchester, January 1992. 
+[16] Michael O'Boyle and G.A. Hedayat. Data alignment: Transformations to reduce commu-nications on distributed memory architectures. In Scalable High-performance Computing Conference SHPCC-92, pages 366{371. IEEE Computer Society Press, 1992. 
+[17] J. Ramanujam and P. Sadayappan. Compile-time techniques for data distribution in dis-tributed memory machines. IEEE Trans. Parallel Distributed Systems, 2(4):472{482, 1991.
+[18] Hans Zima and Barbara Chapman. Supercompilers for Parallel and Vector Computers.ACM Press, 1990.

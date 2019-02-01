@@ -1,0 +1,1081 @@
+>>> NEW PAPER <<<
+>>> citation >>> M. F. Demirci, â€œGraph-based shape indexing,â€\x9d Mach. Vis. Appl., vol. 23, no. 3, pp. 541â€“555, 2012.
+>>> DOI >>> 10.1007/s00138-010-0290-z
+>>> URL >>> http://dx.doi.org/10.1007/s00138-010-0290-z
+>>> year >>> 2010.0
+>>> title >>> Graph-based shape indexing
+>>> author >>> M. Fatih Demirci
+>>> reference_count >>> 62.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Machine Vision and Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T10:09:03Z', 'timestamp': 1525342143597}, 'reference-count': 62, 'publisher': 'Springer Nature', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Machine Vision and Applications'], 'published-print': {'date-parts': [[2012, 5]]}, 'DOI': '10.1007/s00138-010-0290-z', 'type': 'journal-article', 'created': {'date-parts': [[2010, 8, 10]], 'date-time': '2010-08-10T07:37:41Z', 'timestamp': 1281425861000}, 'page': '541-555', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Graph-based shape indexing'], 'prefix': '10.1007', 'volume': '23', 'author': [{'given': 'M. Fatih', 'family': 'Demirci', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2010, 8, 11]]}, 'reference': [{'key': '290_CR1', 'unstructured': 'Agarwal, P., Erickson, J.: Geometric range searching and its relatives. In: Chazelle, B., Goodman, R., Pollack, J.E. (eds.) Advances in Discrete and Computational Geometry. Contemporary Mathematics. American Mathematical Society Press, Providence, vol. 23\xa0pp. 1–56 (1999)'}, {'issue': '5', 'key': '290_CR2', 'doi-asserted-by': 'crossref', 'first-page': '522', 'DOI': '10.1109/34.211474', 'volume': '15', 'author': 'H.A. Almohamad', 'year': '1993', 'unstructured': 'Almohamad H.A., Duffuaa S.O.: A linear programming approach for the weighted graph matching problem. IEEE Trans. Pattern Anal. Mach. Intell. 15(5), 522–525 (1993)', 'journal-title': 'IEEE Trans. Pattern Anal. Mach. Intell.'}, {'key': '290_CR3', 'unstructured': 'Amir, A., Lipsky, O., Porat, E., Umanski, J.: Approximate matching in the L1 metric. In: Proceedings of the 16th Annual Symposium on Combinatorial Pattern Matching, pp. 91–103. Springer, Berlin (2005)'}, {'issue': '3–4', 'key': '290_CR4', 'doi-asserted-by': 'crossref', 'first-page': '135', 'DOI': '10.1016/S0925-7721(00)00022-5', 'volume': '17', 'author': 'S. Arya', 'year': '2000', 'unstructured': 'Arya S., Mount D.: Approximate range searching. Comput. Geom. Theory Appl. 17(3–4), 135–152 (2000)', 'journal-title': 'Comput. Geom. Theory Appl.'}, {'issue': '2–3', 'key': '290_CR5', 'first-page': '127', 'volume': '19', 'author': 'M. Attene', 'year': '2003', 'unstructured': 'Attene M., Biasotti S., Spagnuolo M.: Shape understanding by contour-driven retiling. Vis Comput 19(2–3), 127–138 (2003)', 'journal-title': 'Vis Comput'}, {'key': '290_CR6', 'author': 'R. Bhatia', 'year': '1997', 'unstructured': 'Bhatia R.: Matrix Analysis. Springer, Berlin (1997)', 'volume-title': 'Matrix Analysis', 'DOI': '10.1007/978-1-4612-0653-8', 'doi-asserted-by': 'crossref'}, {'key': '290_CR7', 'unstructured': 'Biasotti, S.: Reeb graph representation of surfaces with boundary. In: SMI ’04: Proceedings of the Shape Modeling International 2004, pp. 371–374, Washington, DC, USA. IEEE Computer Society (2004)'}, {'issue': '9', 'key': '290_CR8', 'doi-asserted-by': 'crossref', 'first-page': '1002', 'DOI': '10.1016/j.cad.2006.07.003', 'volume': '38', 'author': 'S. Biasottia', 'year': '2006', 'unstructured': 'Biasottia S., Marini S., Spagnuoloa M., Falcidieno B.: Sub-part correspondence by structural descriptors of 3D shapes. Comput. Aided Design 38(9), 1002–1019 (2006)', 'journal-title': 'Comput. Aided Design'}, {'issue': '2', 'key': '290_CR9', 'doi-asserted-by': 'crossref', 'first-page': '205', 'DOI': '10.1016/0022-5193(73)90175-6', 'volume': '38', 'author': 'H. Blum', 'year': '1973', 'unstructured': 'Blum H.: Biological shape and visual science (part I). J. Theoret. Biol. 38(2), 205–287 (1973)', 'journal-title': 'J. Theoret. Biol.'}, {'issue': '9', 'key': '290_CR10', 'doi-asserted-by': 'crossref', 'first-page': '917', 'DOI': '10.1109/34.790431', 'volume': '21', 'author': 'H. Bunke', 'year': '1999', 'unstructured': 'Bunke H.: Error correcting graph matching: on the influence of the underlying cost function. IEEE Trans. Pattern Anal. Mach. Intell. 21(9), 917–922 (1999)', 'journal-title': 'IEEE Trans. Pattern Anal. Mach. Intell.'}, {'issue': '2', 'key': '290_CR11', 'doi-asserted-by': 'crossref', 'first-page': '168', 'DOI': '10.1002/net.20152', 'volume': '49', 'author': 'J. Cáceres', 'year': '2007', 'unstructured': 'Cáceres J., Grima C.I., Márquez A., Moreno-González A.: Dilation-free graphs in the l1 metric. Network 49(2), 168–174 (2007)', 'journal-title': 'Network'}, {'key': '290_CR12', 'unstructured': 'Chen, Q., Lim, A., Ong, K.: D(k)-index: an adaptive structural summary for graph-structured data. In: Proceedings of the 2003 ACM SIGMOD international conference on Management of data, pp. 134–144. ACM, New York (2003)'}, {'issue': '11', 'key': '290_CR13', 'doi-asserted-by': 'crossref', 'first-page': '1241', 'DOI': '10.1109/34.888709', 'volume': '22', 'author': 'J. Chuang', 'year': '2000', 'unstructured': 'Chuang J., Tsai C., Ko M.: Skeletonization of three-dimensional object using generalized potential field. IEEE Trans. Pattern Anal. Mach. Intell. 22(11), 1241–1251 (2000)', 'journal-title': 'IEEE Trans. Pattern Anal. Mach. Intell.'}, {'key': '290_CR14', 'unstructured': 'Cole-McLaughlin, K., Edelsbrunner, H., Harer, J., Natarajan, V., Pascucci, V.: Loops in Reeb graphs of 2-manifolds. In: Discrete and Computational Geometry, pp. 231–244 (2004)'}, {'key': '290_CR15', 'unstructured': 'Costa, M.S., Shapiro, L.G.: Relational indexing. In: SSPR ’96: Proceedings of the 6th International Workshop on Advances in Structural and Syntactical Pattern Recognition, pp. 130–139, London, UK, 1996. Springer, Berlin (1996)'}, {'issue': '3', 'key': '290_CR16', 'doi-asserted-by': 'crossref', 'first-page': '312', 'DOI': '10.1016/j.cviu.2007.09.012', 'volume': '110', 'author': 'M.F. Demirci', 'year': '2008', 'unstructured': 'Demirci M.F., van Leuken R.H., Veltkamp R.C.: Indexing through laplacian spectra. Comput. Vis. Image Underst. 110(3), 312–325 (2008)', 'journal-title': 'Comput. Vis. Image Underst.'}, {'key': '290_CR17', 'unstructured': 'Fortin, S.: The graph isomorphism problem. Technical report, The University of Alberta, Edmonton, Alberta, Canada (1996)'}, {'key': '290_CR18', 'unstructured': 'Gabow, H., Bentley, J., Tarjan, R.: Scaling and related techniques for geometry problems. In: Proceedings of the Sixteenth Annual ACM Symposium on Theory of Computing, pp. 135–143. ACM, New York (1984)'}, {'key': '290_CR19', 'author': 'M.R. Garey', 'year': '1979', 'unstructured': 'Garey M.R., Johnson D.S.: Computers and Intractability: A Guide to the Theory of NP-Completeness. W. H. Freeman, New York (1979)', 'volume-title': 'Computers and Intractability: A Guide to the Theory of NP-Completeness'}, {'issue': '1–3', 'key': '290_CR20', 'doi-asserted-by': 'crossref', 'first-page': '143', 'DOI': '10.1023/A:1023761518825', 'volume': '54', 'author': 'P. Giblin', 'year': '2003', 'unstructured': 'Giblin P., Kimia B.: On the local form and transitions of symmetry sets, medial axes, and shocks. Int. J. Comput. Vis. 54(1–3), 143–156 (2003)', 'journal-title': 'Int. J. Comput. Vis.'}, {'key': '290_CR21', 'unstructured': 'Godsil, C.D., McKay, B.D.: Constructing cospectral graphs. In: Aequationes Mathematicae, vol. 25, pp. 257–268. Birkhãuser Basel (1982)'}, {'key': '290_CR22', 'unstructured': 'Gohberg, J.C., Krein, M.G.: Introduction to the theory of linear non-selfadjoint operators. In: Translations of Mathematical Monographs, vol. 18. AMS, New York (1969)'}, {'key': '290_CR23', 'doi-asserted-by': 'crossref', 'first-page': '377', 'DOI': '10.1109/34.491619', 'volume': '18', 'author': 'S. Gold', 'year': '1996', 'unstructured': 'Gold S., Rangarajan A.: A graduated assignment algorithm for graph matching. IEEE Trans. Pattern Anal. Mach. Intell. 18, 377–388 (1996)', 'journal-title': 'IEEE Trans. Pattern Anal. Mach. Intell.'}, {'key': '290_CR24', 'unstructured': 'Goldman, R., Widom, J.: Dataguides: Enabling query formulation and optimization in semistructured databases. In Proceedings of 23rd International Conference on Very Large Data Bases, August 25–29, 1997, pp. 436–445. Morgan Kaufmann, Menlo Park (1997)'}, {'key': '290_CR25', 'author': 'W.E.L. Grimson', 'year': '1990', 'unstructured': 'Grimson W.E.L., Lozano-Perez T., Huttenlocher D.P.: Object Recognition by Computer: The Role of Geometric Constraints. MIT Press, Cambridge (1990)', 'volume-title': 'Object Recognition by Computer: The Role of Geometric Constraints'}, {'issue': '2', 'key': '290_CR26', 'doi-asserted-by': 'crossref', 'first-page': '199', 'DOI': '10.1016/S0195-6698(03)00100-8', 'volume': '25', 'author': 'W.H. Haemers', 'year': '2004', 'unstructured': 'Haemers W.H., Spence E.: Enumeration of cospectral graphs. Eur. J. Comb. 25(2), 199–211 (2004)', 'journal-title': 'Eur. J. Comb.'}, {'key': '290_CR27', 'author': 'G.H. Hardy', 'year': '1959', 'unstructured': 'Hardy G.H., Littlewood J.E., Pólya G.: Inequalities. Cambridge University Press, Cambridge (1959)', 'volume-title': 'Inequalities'}, {'key': '290_CR28', 'unstructured': 'Hilaga, M., Shinagawa, Y., Kohmura, T., Kunii, T.L.: Topology matching for fully automatic similarity estimation of 3D shapes. In: SIGGRAPH ’01: Proceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, pp. 203–212. ACM Press, New York (2001)'}, {'key': '290_CR29', 'unstructured': 'Horaud, R., Skordas, T.: Structural matching for stereo vision. In: Nineth International Conference on Pattern Recognition, pp. 439–445, Rome, Italy (1988)'}, {'key': '290_CR30', 'author': 'R.A. Horn', 'year': '1999', 'unstructured': 'Horn R.A., Johnson C.R.: Topics in Matrix Analysis. Cambridge University Press, New York (1999)', 'volume-title': 'Topics in Matrix Analysis'}, {'key': '290_CR31', 'unstructured': 'Kittler, J., Christmas, W.J., Petrou, M.: Probabilistic relaxation for matching of symbolic structures. In: Workshop Structural and Syntactic Pattern Recognition, pp. 471–480, Bern, Switzerland (1992)'}, {'issue': '1', 'key': '290_CR32', 'doi-asserted-by': 'crossref', 'first-page': '15', 'DOI': '10.1137/060649070', 'volume': '29', 'author': 'A.V. Knyazev', 'year': '2006', 'unstructured': 'Knyazev A.V., Argentati M.E.: Majorization for changes in angles between subspaces, ritz values, and graph laplacian spectra. SIAM J. Matrix Anal. Appl. 29(1), 15–32 (2006)', 'journal-title': 'SIAM J. Matrix Anal. Appl.'}, {'key': '290_CR33', 'doi-asserted-by': 'crossref', 'first-page': '137', 'DOI': '10.1016/0167-8655(89)90046-9', 'volume': '9', 'author': 'S.W. Lee', 'year': '1989', 'unstructured': 'Lee S.W., Kim J.H.: Attributed stroke graph matching for seal imprint verification. Pattern Recognit. Lett. 9, 137–145 (1989)', 'journal-title': 'Pattern Recognit. Lett.'}, {'key': '290_CR34', 'unstructured': 'Lueker, G.S.: A data structure for orthogonal range queries. In: Proceedings of 19th IEEE Symposium on Foundations of Computer Science, pp. 28–34 (1978)'}, {'key': '290_CR35', 'author': 'A.W. Marshall', 'year': '1979', 'unstructured': 'Marshall A.W., Olkin I.: Inequalities: Theory of Majorization and Its Applications. Mathematics in Science and Engineering, vol. 143. Academic Press, New York (1979)', 'volume-title': 'Inequalities: Theory of Majorization and Its Applications. Mathematics in Science and Engineering, vol. 143'}, {'key': '290_CR36', 'doi-asserted-by': 'crossref', 'first-page': '143', 'DOI': '10.1016/0024-3795(94)90486-3', 'volume': '197', 'author': 'R. Merris', 'year': '1994', 'unstructured': 'Merris R.: Laplacian matrices of graphs: a survey. Linear Algebra Appl. 197, 143–176 (1994)', 'journal-title': 'Linear Algebra Appl.'}, {'issue': '12', 'key': '290_CR37', 'doi-asserted-by': 'crossref', 'first-page': '1979', 'DOI': '10.1016/S0031-3203(98)90142-X', 'volume': '32', 'author': 'B.T. Messmer', 'year': '1999', 'unstructured': 'Messmer B.T., Bunke H.: A decision tree approach to graph and subgraph isomorphism detection. Pattern Recognit. 32(12), 1979–1998 (1999)', 'journal-title': 'Pattern Recognit.'}, {'issue': '6', 'key': '290_CR38', 'doi-asserted-by': 'crossref', 'first-page': '467', 'DOI': '10.1016/j.is.2004.04.003', 'volume': '30', 'author': 'J. Min', 'year': '2005', 'unstructured': 'Min J., Chung C., Shim K.: An adaptive path index for xml data using the query workload. Inf. Syst. 30(6), 467–487 (2005)', 'journal-title': 'Inf. Syst.'}, {'key': '290_CR39', 'unstructured': 'Mohar, B.: The Laplacian spectrum of graphs. In: Sixth International Conference on the Theory and Applications of Graphs, pp. 871–898 (1988)'}, {'issue': '1–3', 'key': '290_CR40', 'doi-asserted-by': 'crossref', 'first-page': '171', 'DOI': '10.1016/0012-365X(92)90288-Q', 'volume': '109', 'author': 'B. Mohar', 'year': '1992', 'unstructured': 'Mohar B.: Laplace eigenvalues of graphs: a survey. Discrete Math 109(1–3), 171–183 (1992)', 'journal-title': 'Discrete Math'}, {'key': '290_CR41', 'unstructured': 'Nievergelt, J., Widmayer, P.: Spatial data structures: Concepts and design choices. In: Algorithmic Foundations of Geographic Information Systems, this book originated from the CISM Advanced School on the Algorithmic Foundations of Geographic Information Systems, pp. 153–197, London, UK. Springer, Berlin (1997)'}, {'issue': '2', 'key': '290_CR42', 'doi-asserted-by': 'crossref', 'first-page': '177', 'DOI': '10.1006/cviu.1997.0631', 'volume': '70', 'author': 'K. Sengupta', 'year': '1998', 'unstructured': 'Sengupta K., Boyer K.L.: Modelbase partitioning using property matrix spectra. Comput. Vis. Image Underst. 70(2), 177–196 (1998)', 'journal-title': 'Comput. Vis. Image Underst.'}, {'issue': '5', 'key': '290_CR43', 'doi-asserted-by': 'crossref', 'first-page': '504', 'DOI': '10.1109/TPAMI.1981.4767144', 'volume': '3', 'author': 'L.G. Shapiro', 'year': '1981', 'unstructured': 'Shapiro L.G., Haralick R.M.: Structural descriptions and inexact matching. IEEE Trans. Pattern Anal. Mach. Intell. 3(5), 504–519 (1981)', 'journal-title': 'IEEE Trans. Pattern Anal. Mach. Intell.'}, {'issue': '5', 'key': '290_CR44', 'doi-asserted-by': 'crossref', 'first-page': '283', 'DOI': '10.1016/0262-8856(92)90043-3', 'volume': '10', 'author': 'L.S. Shapiro', 'year': '1992', 'unstructured': 'Shapiro L.S., Brady J.M.: Feature-based correspondence: an eigenvector approach. Image Vision Computing 10(5), 283–288 (1992)', 'journal-title': 'Image Vision Computing'}, {'key': '290_CR45', 'unstructured': 'Shasha, D., Wang, J., Giugno, R.: Algorithmics and applications of tree and graph searching. In: Proceedings of the 21st ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, pp. 39–52. ACM, New York (2002)'}, {'issue': '8', 'key': '290_CR46', 'doi-asserted-by': 'crossref', 'first-page': '888', 'DOI': '10.1109/34.868688', 'volume': '22', 'author': 'J. Shi', 'year': '2000', 'unstructured': 'Shi J., Malik J.: Normalized cuts and image segmentation. IEEE Trans. Pattern Anal. Mach. Intell. 22(8), 888–905 (2000)', 'journal-title': 'IEEE Trans. Pattern Anal. Mach. Intell.'}, {'key': '290_CR47', 'unstructured': 'Shmulevich, I., Yli-harja, O., Coyle, E.: Perceptual issues in music pattern recognition—complexity of rhythm and key finding. In: Computers and the Humanities, pp. 23–35 (2001)'}, {'issue': '7', 'key': '290_CR48', 'doi-asserted-by': 'crossref', 'first-page': '1125', 'DOI': '10.1109/TPAMI.2005.142', 'volume': '27', 'author': 'A. Shokoufandeh', 'year': '2005', 'unstructured': 'Shokoufandeh A., Macrini D., Dickinson S., Siddiqi K., Zucker S.W.: Indexing hierarchical structures using graph spectra. IEEE Trans. Pattern Anal. Mach. Intell. 27(7), 1125–1140 (2005)', 'journal-title': 'IEEE Trans. Pattern Anal. Mach. Intell.'}, {'issue': '1', 'key': '290_CR49', 'doi-asserted-by': 'crossref', 'first-page': '13', 'DOI': '10.1023/A:1008102926703', 'volume': '35', 'author': 'K. Siddiqi', 'year': '1999', 'unstructured': 'Siddiqi K., Shokoufandeh A., Dickinson S., Zucker S.: Shock graphs and shape matching. Int. J. Comput. Vis. 35(1), 13–32 (1999)', 'journal-title': 'Int. J. Comput. Vis.'}, {'key': '290_CR50', 'unstructured': 'Sossa, H., Horaud, R.: Model indexing: the graph-hashing approach. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 811–814, Champaign, IL, USA (1992)'}, {'key': '290_CR51', 'unstructured': 'Sparaggis, P.D., Cassandras C.G., Towsley, D.: Very weak, p-weak majorization and their application. In: Proceedings of the 31st IEEE Conference on Decision and Control, Tucson, AZ, USA (1992)'}, {'issue': '1', 'key': '290_CR52', 'doi-asserted-by': 'crossref', 'first-page': '71', 'DOI': '10.1162/jocn.1991.3.1.71', 'volume': '3', 'author': 'M. Turk', 'year': '1991', 'unstructured': 'Turk M., Pentland A.P.: Eigenfaces for recognition. J. Cognit. Neurosci. 3(1), 71–86 (1991)', 'journal-title': 'J. Cognit. Neurosci.'}, {'issue': '5', 'key': '290_CR53', 'doi-asserted-by': 'crossref', 'first-page': '695', 'DOI': '10.1109/34.6778', 'volume': '10', 'author': 'S. Umeyama', 'year': '1988', 'unstructured': 'Umeyama S.: An eigendecomposition approach to weighted graph matching problems. IEEE Trans. Pattern Anal. Mach. Intell. 10(5), 695–703 (1988)', 'journal-title': 'IEEE Trans. Pattern Anal. Mach. Intell.'}, {'key': '290_CR54', 'unstructured': 'Valiente, G.: A general method for graph isomorphism. In: Proceedings of the 13th International Symposium on Fundamentals of Computation Theory, pp. 428–431, London, UK. Springer, Berlin (2001)'}, {'key': '290_CR55', 'unstructured': 'Veltkamp, R., ter Haar, F.: Shrec 2007: 3D Shape Retrieval Contest. Technical Report UU-CS-2007-015, Department of Information and Computing Sciences, Utrecht University (2007)'}, {'key': '290_CR56', 'unstructured': 'Wang, Y.K., Fan, KC., Horng, JT.: Genetic-based search for error-correcting graph isomorphism. IEEE Trans. Syst. Man Cybernet. 27 (1997)'}, {'issue': '1', 'key': '290_CR57', 'doi-asserted-by': 'crossref', 'first-page': '232', 'DOI': '10.1137/0214019', 'volume': '14', 'author': 'D.E. Willard', 'year': '1985', 'unstructured': 'Willard D.E.: New data structures for orthogonal range queries. SIAM J. Comput. 14(1), 232–253 (1985)', 'journal-title': 'SIAM J. Comput.'}, {'issue': '7', 'key': '290_CR58', 'doi-asserted-by': 'crossref', 'first-page': '1255', 'DOI': '10.1016/S0031-3203(98)00152-6', 'volume': '32', 'author': 'M.L. Williams', 'year': '1999', 'unstructured': 'Williams M.L., Wilson R.C., Hancock E.R.: Deterministic search for relational graph matching. Pattern Recognit. 32(7), 1255–1271 (1999)', 'journal-title': 'Pattern Recognit.'}, {'key': '290_CR59', 'doi-asserted-by': 'crossref', 'first-page': '634', 'DOI': '10.1109/34.601251', 'volume': '19', 'author': 'R. Wilson', 'year': '1997', 'unstructured': 'Wilson R., Hancock E.: Structural matching by discrete relaxation. IEEE Trans. Pattern Anal. Mach. Intell. 19, 634–648 (1997)', 'journal-title': 'IEEE Trans. Pattern Anal. Mach. Intell.'}, {'issue': '3', 'key': '290_CR60', 'doi-asserted-by': 'crossref', 'first-page': '287', 'DOI': '10.1016/0031-3203(92)90111-U', 'volume': '25', 'author': 'E.K. Wong', 'year': '1992', 'unstructured': 'Wong E.K.: Model matching in robot vision by subgraph isomorphism. Pattern Recognit. 25(3), 287–303 (1992)', 'journal-title': 'Pattern Recognit.'}, {'key': '290_CR61', 'unstructured': 'Yan, X., Yu, P., Han, J.: Graph indexing: a frequent structure-based approach. In: Proceedings of the 2004 ACM SIGMOD International Conference on Management of data, pp. 335–346. ACM, New York (2004)'}, {'key': '290_CR62', 'unstructured': 'Zhang, J., Siddiqi, K., Macrini, D., Shokoufandeh, A., Dickinson, S.J.: Retrieving articulated 3D models using medial surfaces and their graph spectra. In: International Workshop on Energy Minimization Methods in Computer Vision and Pattern Recognition, pp. 285–300, St. Augustine, FL, USA (2005)'}], 'container-title': ['Machine Vision and Applications'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s00138-010-0290-z', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T12:21:13Z', 'timestamp': 1497874873000}, 'score': 45.71904, 'issued': {'date-parts': [[2010, 8, 11]]}, 'references-count': 62, 'journal-issue': {'published-print': {'date-parts': [[2012, 5]]}, 'issue': '3'}, 'alternative-id': ['290'], 'URL': 'http://dx.doi.org/10.1007/s00138-010-0290-z', 'relation': {'cites': []}, 'ISSN': ['0932-8092', '1432-1769'], 'issn-type': [{'value': '0932-8092', 'type': 'print'}, {'value': '1432-1769', 'type': 'electronic'}]}
+>>> hash >>> ('Graph-based shape indexing', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> V. Subramaniam, Programming Concurrency on the JVM: Mastering Synchronization, STM, and Actors. Raleigh, NC, USA: The Pragmatic Programmers, 2011.
+>>> DOI >>> 10.6026/97320630012036
+>>> URL >>> http://dx.doi.org/10.6026/97320630012036
+>>> year >>> 2016.0
+>>> title >>> Optimizing k-mer size using a variant grid search to enhance de novo genome assembly
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Bioinformation']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T01:20:58Z', 'timestamp': 1525828858400}, 'reference-count': 0, 'publisher': 'Biomedical Informatics', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Bioinformation'], 'DOI': '10.6026/97320630012036', 'type': 'journal-article', 'created': {'date-parts': [[2016, 7, 22]], 'date-time': '2016-07-22T06:06:55Z', 'timestamp': 1469167615000}, 'page': '36-40', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Optimizing k-mer size using a variant grid search to enhance de novo genome assembly'], 'prefix': '10.6026', 'volume': '12', 'author': [{'given': 'Soyeon', 'family': 'Cha', 'sequence': 'first', 'affiliation': []}, {'name': 'Bioinformatics Research Center and Department of Plant Pathology, NC State University, Raleigh, NC, USA', 'sequence': 'first', 'affiliation': []}, {'given': 'David', 'family': 'McKBird', 'sequence': 'additional', 'affiliation': []}, {'name': 'Bioinformatics Research Center and Department of Plant Pathology, NC State University, Raleigh, NC, USA', 'sequence': 'additional', 'affiliation': []}], 'member': '4070', 'published-online': {'date-parts': [[2016, 4, 10]]}, 'container-title': ['Bioinformation'], 'deposited': {'date-parts': [[2016, 7, 22]], 'date-time': '2016-07-22T06:06:57Z', 'timestamp': 1469167617000}, 'score': 31.773424, 'issued': {'date-parts': [[2016, 4, 10]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2016, 4, 10]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.6026/97320630012036', 'ISSN': ['0973-8894', '0973-2063'], 'issn-type': [{'value': '0973-8894', 'type': 'print'}, {'value': '0973-2063', 'type': 'electronic'}]}
+>>> hash >>> ('Optimizing k-mer size using a variant grid search to enhance de novo genome assembly', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y. Tian and J. Patel, â€œTALE: A tool for approximate large graph matching,â€\x9d in Proc. IEEE 24th Int. Conf. Data Eng., 2008, pp. 963â€“972.
+>>> DOI >>> 10.1109/icde.2008.4497505
+>>> URL >>> http://dx.doi.org/10.1109/icde.2008.4497505
+>>> year >>> 2008.0
+>>> title >>> TALE: A Tool for Approximate Large Graph Matching
+>>> author >>> Yuanyuan Tian and Jignesh M. Patel
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 85.0
+>>> subject >>> None
+>>> container_title >>> ['2008 IEEE 24th International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T04:02:38Z', 'timestamp': 1527220958446}, 'reference-count': 22, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424418374', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 4]]}, 'DOI': '10.1109/icde.2008.4497505', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 4, 29]], 'date-time': '2008-04-29T19:04:39Z', 'timestamp': 1209495879000}, 'source': 'Crossref', 'is-referenced-by-count': 85, 'title': ['TALE: A Tool for Approximate Large Graph Matching'], 'prefix': '10.1109', 'author': [{'given': 'Yuanyuan', 'family': 'Tian', 'sequence': 'first', 'affiliation': []}, {'given': 'Jignesh M.', 'family': 'Patel', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2008 IEEE 24th International Conference on Data Engineering (ICDE 2008)', 'location': 'Cancun, Mexico', 'start': {'date-parts': [[2008, 4, 7]]}, 'end': {'date-parts': [[2008, 4, 12]]}}, 'container-title': ['2008 IEEE 24th International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4492792/4497384/04497505.pdf?arnumber=4497505', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T23:10:11Z', 'timestamp': 1489705811000}, 'score': 71.67636, 'issued': {'date-parts': [[2008, 4]]}, 'ISBN': ['9781424418367', '9781424418374'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1109/icde.2008.4497505'}
+>>> hash >>> ('TALE: A Tool for Approximate Large Graph Matching', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Z. Yang, A. W.-C. Fu, and R. Liu, â€œDiversified top-k subgraph querying in a large graph,â€\x9d in Proc. ACM SIGMOD Int. Conf. Manag. Data, 2016, pp. 1167â€“1182.
+>>> DOI >>> 10.1145/2882903.2915216
+>>> URL >>> http://dx.doi.org/10.1145/2882903.2915216
+>>> year >>> 2016.0
+>>> title >>> Diversified Top-k Subgraph Querying in a Large Graph
+>>> author >>> Zhengwei Yang and Ada Wai-Chee Fu and Ruifeng Liu
+>>> reference_count >>> 38.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2016 International Conference on Management of Data - SIGMOD '16"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T15:37:50Z', 'timestamp': 1525793870505}, 'publisher-location': 'New York, New York, USA', 'reference-count': 38, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450335317', 'type': 'print'}], 'license': [{'URL': 'http://www.acm.org/publications/policies/copyright_policy#Background', 'start': {'date-parts': [[2016, 6, 14]], 'date-time': '2016-06-14T00:00:00Z', 'timestamp': 1465862400000}, 'delay-in-days': 165, 'content-version': 'vor'}], 'funder': [{'name': 'Hong Kong Research Grants Council', 'award': ['General Research Fund 412313 - 2150758']}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2016]]}, 'DOI': '10.1145/2882903.2915216', 'type': 'proceedings-article', 'created': {'date-parts': [[2016, 6, 16]], 'date-time': '2016-06-16T19:01:52Z', 'timestamp': 1466103712000}, 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['Diversified Top-k Subgraph Querying in a Large Graph'], 'prefix': '10.1145', 'author': [{'given': 'Zhengwei', 'family': 'Yang', 'sequence': 'first', 'affiliation': [{'name': 'The Chinese University of Hong Kong, Hong Kong, China'}]}, {'given': 'Ada Wai-Chee', 'family': 'Fu', 'sequence': 'additional', 'affiliation': [{'name': 'The Chinese University of Hong Kong, Hong Kong, China'}]}, {'given': 'Ruifeng', 'family': 'Liu', 'sequence': 'additional', 'affiliation': [{'name': 'The Chinese University of Hong Kong, Hong Kong, China'}]}], 'member': '320', 'reference': [{'key': 'key-10.1145/2882903.2915216-1', 'unstructured': 'N. Alon. On the number of subgraphs of presribed type of graphs with a given number of edges. Israel Journal of Mathematics, 38(1--1):116--130, 1981.'}, {'key': 'key-10.1145/2882903.2915216-2', 'unstructured': 'A. Angel and N. Koudas. Efficient diversity-aware search. In SIGMOD, 2011.', 'DOI': '10.1145/1989323.1989405', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-3', 'unstructured': 'G. Ausiello, N. Boria, A. Giannakos, G. Lucarelli, and V. T. Paschos. Online maximum k-coverage. Discrete Applied Mathematics, 160(13--14):1901--1913, 2012.'}, {'key': 'key-10.1145/2882903.2915216-4', 'unstructured': 'J. Cheng, Y. Ke, W. Ng, and A. Lu. Fg-index: towards verification-free query processing on graph databases. In SIGMOD, 2007.', 'DOI': '10.1145/1247480.1247574', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-5', 'unstructured': 'S. A. Cook. The complexity of theorem-proving procedures. In Proceedings of the third annual ACM symposium on Theory of computing, pages 151--158. ACM, 1971.', 'DOI': '10.1145/800157.805047', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-6', 'unstructured': 'L. P. Cordella, P. Foggia, C. Sansone, and M. Vento. A (sub) graph isomorphism algorithm for matching large graphs. IEEE Transactions on Pattern Analysis and Machine Intelligence, 26(10):1367--1372, 2004.', 'DOI': '10.1109/TPAMI.2004.75', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-7', 'unstructured': 'M. Drosou and E. Pitoura. Search result diversification. SIGMOD Record, 39(1):41--47, 2010.', 'DOI': '10.1145/1860702.1860709', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-8', 'unstructured': 'M. Drosou and E. Pitoura. Disc diversity: Result diversification based on dissimilarity and coverage. In VLDB, 2013.'}, {'key': 'key-10.1145/2882903.2915216-9', 'unstructured': 'W. Fan, J. Li, X. Wang, and Y. Wu. Query preserving graph compression. In SIGMOD, pages 157--168. ACM, 2012.', 'DOI': '10.1145/2213836.2213855', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-10', 'unstructured': 'W. Fan, X. Wang, and Y. Wu. Diversified top-k graph pattern matching. VLDB, 6(13):1510--1521, 2013.', 'DOI': '10.14778/2536258.2536263', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-11', 'unstructured': 'W. Fan, X. Wang, and Y. Wu. Querying big graphs within bounded resources. In SIGMOD, pages 301--312. ACM, 2014.', 'DOI': '10.1145/2588555.2610513', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-12', 'unstructured': 'U. Feige. A threshold of ln n for approximating set cover. JACM, 45(4):634--652, 1998.', 'DOI': '10.1145/285055.285059', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-13', 'unstructured': 'P. Fraternali, D. Martinenghi, and M. Tagliasacchi. Top-k bounded diversification. In SIGMOD, 2012.', 'DOI': '10.1145/2213836.2213884', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-14', 'unstructured': 'M. Gupta, J. Gao, X. Yan, H. Cam, and J. Han. Top-k interesting subgraph discovery in information networks. In ICDE, pages 820--831. IEEE, 2014.', 'DOI': '10.1109/ICDE.2014.6816703', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-15', 'unstructured': 'W.-S. Han, J. Lee, and J.-H. Lee. Turbo iso: towards ultrafast and robust subgraph isomorphism search in large graph databases. In SIGMOD, pages 337--348. ACM, 2013.'}, {'key': 'key-10.1145/2882903.2915216-16', 'unstructured': 'H. He and A. K. Singh. Graphs-at-a-time: query language and access methods for graph databases. In SIGMOD, pages 405--418. ACM, 2008.', 'DOI': '10.1145/1376616.1376660', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-17', 'unstructured': 'I. F. Ilyas, G. Beskales, and M. A. Soliman. A survey of top-k query processing techniques in relational database systems. ACM Comput. Surv., 40(4), 2008.', 'DOI': '10.1145/1391729.1391730', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-18', 'unstructured': 'A. Khan, Y. Wu, C. C. Aggarwal, and X. Yan. Nema: Fast graph search with label similarity. In VLDB, 2013.'}, {'key': 'key-10.1145/2882903.2915216-19', 'unstructured': 'J. Kim, H. Shin, and W.S.Han. Taming subgraph isomorphism for RDF query processing. In VLDB, 2015.', 'DOI': '10.14778/2809974.2809985', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-20', 'unstructured': 'L. Lai, L. Qin, X. Lin, and L. Chang. Scalable subgraph enumeration in mapreduce. In VLDB, 2015.', 'DOI': '10.14778/2794367.2794368', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-21', 'unstructured': 'J. Lee, W.-S. Han, R. Kasperovics, and J.-H. Lee. An in-depth comparison of subgraph isomorphism algorithms in graph databases. In VLDB, volume 6, pages 133--144. VLDB Endowment, 2012.', 'DOI': '10.14778/2535568.2448946', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-22', 'unstructured': 'S. Ma, Y. Cao, W. Fan, J. Huai, and T. Wo. Capturing topology in graph pattern matching. VLDB, 5(4):310--321, 2011.', 'DOI': '10.14778/2095686.2095690', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-23', 'unstructured': 'D. Mottin, F. Bonchi, and F. Gullo. Graph query reformulation with diversity. In SIGKDD, 2015.', 'DOI': '10.1145/2783258.2783343', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-24', 'unstructured': 'X. Ren and J. Wang. Exploiting vertex relationships in speeding up subgraph isomorphism over large graphs. VLDB, 8(5), 2015.'}, {'key': 'key-10.1145/2882903.2915216-25', 'unstructured': 'B. Saha and L. Getoor. On maximum coverage in the streaming model and application to multi-topic blog-watch. In SDM, 2009.', 'DOI': '10.1137/1.9781611972795.60', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-26', 'unstructured': 'H. Shang, Y. Zhang, X. Lin, and J. X. Yu. Taming verification hardness: an efficient algorithm for testing subgraph isomorphism. VLDB, 1(1):364--375, 2008.', 'DOI': '10.14778/1453856.1453899', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-27', 'unstructured': 'Z. Sun, H. Wang, H. Wang, B. Shao, and J. Li. Efficient subgraph matching on billion node graphs. VLDB, 5(9):788--799, 2012.', 'DOI': '10.14778/2311906.2311907', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-28', 'unstructured': 'J. R. Ullmann. An algorithm for subgraph isomorphism. Journal of the ACM (JACM), 23(1):31--42, 1976.', 'DOI': '10.1145/321921.321925', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-29', 'unstructured': 'J. Wang, J. Cheng, and A. Fu. Redundancy-aware maximal cliques. In KDD. ACM, 2013.', 'DOI': '10.1145/2487575.2487689', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-30', 'unstructured': 'X. Yan, P. S. Yu, and J. Han. Graph indexing: a frequent structure-based approach. In SIGMOD, pages 335--346. ACM, 2004.', 'DOI': '10.1145/1007568.1007607', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-31', 'unstructured': 'C. Yu, L. Lakshmanan, and S. Amer-Yahia. It takes variety to make a world: Diverisification in recommender systems. In EDBT, 2009.'}, {'key': 'key-10.1145/2882903.2915216-32', 'unstructured': 'D. Yuan, P. Mitra, H. Yu, and C. Giles. Updating graph indices with a one-pass algorithm. In SIGMOD, 2015.', 'DOI': '10.1145/2723372.2746482', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-33', 'unstructured': 'L. Yuan, L. Qin, X. Lin, L. Chang, and W. Zhang. Diversified top-k clique search. In ICDE, 2015.', 'DOI': '10.1109/ICDE.2015.7113300', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2915216-34', 'unstructured': 'S. Zhang, J. Yang, and W. Jin. Sapper: subgraph indexing and approximate matching in large graphs. VLDB, 3(1--2):1185--1194, 2010.'}, {'key': 'key-10.1145/2882903.2915216-35', 'unstructured': 'P. Zhao and J. Han. On graph query optimization in large networks. VLDB, 3(1--2):340--351, 2010.'}, {'key': 'key-10.1145/2882903.2915216-36', 'unstructured': 'P. Zhao, J. X. Yu, and P. S. Yu. Graph indexing: tree'}, {'key': 'key-10.1145/2882903.2915216-37', 'unstructured': 'delta<= graph. In VLDB, pages 938--949. VLDB Endowment, 2007.'}, {'key': 'key-10.1145/2882903.2915216-38', 'unstructured': 'L. Zou, L. Chen, and Y. Lu. Top-k subgraph matching query in a large graph. In Proceedings of the ACM Ph. D. workshop in CIKM, pages 139--146. ACM, 2007.', 'DOI': '10.1145/1316874.1316897', 'doi-asserted-by': 'crossref'}], 'event': {'name': 'the 2016 International Conference', 'location': 'San Francisco, California, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '16", 'number': '2016', 'start': {'date-parts': [[2016, 6, 26]]}, 'end': {'date-parts': [[2016, 7, 1]]}}, 'container-title': ["Proceedings of the 2016 International Conference on Management of Data - SIGMOD '16"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2915216&amp;ftid=1744225&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 24]], 'date-time': '2017-06-24T16:31:18Z', 'timestamp': 1498321878000}, 'score': 67.21341, 'issued': {'date-parts': [[2016]]}, 'ISBN': ['9781450335317'], 'references-count': 38, 'URL': 'http://dx.doi.org/10.1145/2882903.2915216', 'relation': {'cites': []}}
+>>> hash >>> ('Diversified Top-k Subgraph Querying in a Large Graph', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Fan, C. Hu, and C. Tian, â€œIncremental graph computations: Doable and undoable,â€\x9d in Proc. ACM SIGMOD Int. Conf. Manag. Data, 2017, pp. 155â€“169.
+>>> DOI >>> 10.1145/3035918.3035944
+>>> URL >>> http://dx.doi.org/10.1145/3035918.3035944
+>>> year >>> 2017.0
+>>> title >>> Incremental Graph Computations
+>>> author >>> Wenfei Fan and Chunming Hu and Chao Tian
+>>> reference_count >>> 46.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2017 ACM International Conference on Management of Data  - SIGMOD '17"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T11:03:31Z', 'timestamp': 1525691011628}, 'publisher-location': 'New York, New York, USA', 'reference-count': 46, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450341974', 'type': 'print'}], 'license': [{'URL': 'http://www.acm.org/publications/policies/copyright_policy#Background', 'start': {'date-parts': [[2017, 5, 9]], 'date-time': '2017-05-09T00:00:00Z', 'timestamp': 1494288000000}, 'delay-in-days': 128, 'content-version': 'vor'}], 'funder': [{'DOI': '10.13039/501100000781', 'name': 'European Research Council', 'doi-asserted-by': 'publisher', 'award': ['652976']}, {'DOI': '10.13039/501100001809', 'name': 'National Natural Science Foundation of China', 'doi-asserted-by': 'publisher', 'award': ['61133002 and 61602023']}, {'name': '973 Program', 'award': ['2014CB340302']}, {'name': 'Beijing Advanced Innovation Center for Big Data and Brain Computing', 'award': []}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2017]]}, 'DOI': '10.1145/3035918.3035944', 'type': 'proceedings-article', 'created': {'date-parts': [[2017, 5, 10]], 'date-time': '2017-05-10T18:09:00Z', 'timestamp': 1494439740000}, 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Incremental Graph Computations'], 'prefix': '10.1145', 'author': [{'given': 'Wenfei', 'family': 'Fan', 'sequence': 'first', 'affiliation': [{'name': 'University of Edinburgh & Beihang University, Edinburgh, United Kingdom'}]}, {'given': 'Chunming', 'family': 'Hu', 'sequence': 'additional', 'affiliation': [{'name': 'Beihang University, Beijing, China'}]}, {'given': 'Chao', 'family': 'Tian', 'sequence': 'additional', 'affiliation': [{'name': 'University of Edinburgh & Beihang University, Edinburgh, United Kingdom'}]}], 'member': '320', 'reference': [{'key': 'key-10.1145/3035918.3035944-1', 'unstructured': 'DBpedia.sl http://wiki.dbpedia.org/Downloads2014.'}, {'key': 'key-10.1145/3035918.3035944-2', 'unstructured': 'Full version.sl http://homepages.inf.ed.ac.uk/s1368930/inc-full.pdf.'}, {'key': 'key-10.1145/3035918.3035944-3', 'unstructured': 'SNAP.sl http://snap.stanford.edu/data/index.html.'}, {'key': 'key-10.1145/3035918.3035944-4', 'unstructured': 'S. Abiteboul, J. McHugh, M. Rys, V. Vassalos, and J. L. Wiener. Incremental maintenance for materialized views over semistructured data. In VLDB, 1998.'}, {'key': 'key-10.1145/3035918.3035944-5', 'unstructured': 'U. A. Acar. Self-Adjusting Computation. PhD thesis, Carnegie Mellon University, 2005.'}, {'key': 'key-10.1145/3035918.3035944-6', 'unstructured': 'U. A. Acar, G. E. Blelloch, and R. Harper. Adaptive functional programming. In POPL, 2002.', 'DOI': '10.1145/503272.503296', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-7', 'unstructured': 'V. M. Antimirov. Partial derivatives of regular expressions and finite automaton constructions. TCS, 155(2), 1996.'}, {'key': 'key-10.1145/3035918.3035944-8', 'unstructured': 'G. Bhalotia, A. Hulgeri, C. Nakhe, S. Chakrabarti, and S. Sudarshan. Keyword searching and browsing in databases using BANKS. In ICDE, 2002.', 'DOI': '10.1109/ICDE.2002.994756', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-9', 'unstructured': 'P. Bhatotia, A. Wieder, R. Rodrigues, U. A. Acar, and R. Pasquin. Incoop: MapReduce for incremental computations. In SOCC, 2011.'}, {'key': 'key-10.1145/3035918.3035944-10', 'unstructured': 'P. K. Bhatotia. Incremental Parallel and Distributed Systems. PhD thesis, Saarland University, 2015.'}, {'key': 'key-10.1145/3035918.3035944-11', 'unstructured': 'A. Bonifati, M. H. Goodfellow, I. Manolescu, and D. Sileo. Algebraic incremental maintenance of XML views. TODS, 38(3):14, 2013.', 'DOI': '10.1145/2508020.2508021', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-12', 'unstructured': 'R. Bramandia, B. Choi, and W. K. Ng. On incremental maintenance of 2-hop labeling of graphs. In WWW, 2008.'}, {'key': 'key-10.1145/3035918.3035944-13', 'unstructured': 'P. Burkhardt and C. Waring. An NSA big graph experiment. Technical Report NSA-RD-2013-056002v1, U.S. National Security Agency, 2013.'}, {'key': 'key-10.1145/3035918.3035944-14', 'unstructured': 'L. S. Colby, T. Griffin, L. Libkin, I. S. Mumick, and H. Trickey. Algorithms for deferred view maintenance. In SIGMOD, 1996.', 'DOI': '10.1145/233269.233364', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-15', 'unstructured': 'L. P. Cordella, P. Foggia, C. Sansone, and M. Vento. A (sub)graph isomorphism algorithm for matching large graphs. IEEE Trans. Pattern Anal. Mach. Intell., 26(10):1367--1372, 2004.', 'DOI': '10.1109/TPAMI.2004.75', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-16', 'unstructured': 'C. Demetrescu, D. Eppstein, Z. Galil, and G. F. Italiano. Dynamic graph algorithms. In Algorithms and theory of computation handbook. Chapman &#38; Hall/CRC, 2010.'}, {'key': 'key-10.1145/3035918.3035944-17', 'unstructured': 'W. Fan, X. Wang, and Y. Wu. Incremental graph pattern matching. TODS, 38(3), 2013.'}, {'key': 'key-10.1145/3035918.3035944-18', 'unstructured': 'W. Fan, X. Wang, and Y. Wu. Distributed graph simulation: Impossibility and possibility. PVLDB, 7(12), 2014.'}, {'key': 'key-10.1145/3035918.3035944-19', 'unstructured': 'W. Fan, X. Wang, and Y. Wu. Querying big graphs within bounded resources. In SIGMOD, 2014.', 'DOI': '10.1145/2588555.2610513', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-20', 'unstructured': 'W. Fan, Y. Wu, and J. Xu. Functional dependencies for graphs. In SIGMOD, 2016.', 'DOI': '10.1145/2882903.2915232', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-21', 'unstructured': 'W. Fan, J. Xu, Y. Wu, W. Yu, J. Jiang, Z. Zheng, B. Zhang, Y. Cao, and C. Tian. Parallelizing sequential graph computations. In SIGMOD, 2017.'}, {'key': 'key-10.1145/3035918.3035944-22', 'unstructured': 'M. A. Gallego, J. D. Fern&#225;ndez, M. A. Mart&#237;nez-Prieto, and P. de la Fuente. An empirical study of real-world SPARQL queries. In USEWOD workshop, 2011.'}, {'key': 'key-10.1145/3035918.3035944-23', 'unstructured': 'I. Grujic, S. Bogdanovic-Dinic, and L. Stoimenov. Collecting and analyzing data from e-government facebook pages. In ICT Innovations, 2014.'}, {'key': 'key-10.1145/3035918.3035944-24', 'unstructured': 'A. Gupta, H. V. Jagadish, and I. S. Mumick. Data integration using self-maintainable views. In EDBT, 1996.', 'DOI': '10.1007/BFb0014149', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-25', 'unstructured': 'A. Gupta, I. S. Mumick, and V. S. Subrahmanian. Maintaining views incrementally. In SIGMOD, 1993.', 'DOI': '10.1145/170035.170066', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-26', 'unstructured': 'B. Haeupler, T. Kavitha, R. Mathew, S. Sen, and R. E. Tarjan. Incremental cycle detection, topological ordering, and strong component maintenance. ACM Trans. Algorithms, 8(1):3, 2012.', 'DOI': '10.1145/2071379.2071382', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-27', 'unstructured': 'H. He, H. Wang, J. Yang, and P. S. Yu. Blinks: ranked keyword searches on graphs. In SIGMOD, 2007.'}, {'key': 'key-10.1145/3035918.3035944-28', 'unstructured': 'M. R. Henzinger and V. King. Maintaining minimum spanning trees in dynamic graphs. In ICALP, 1997.', 'DOI': '10.1007/3-540-63165-8_214', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-29', 'unstructured': 'J. Hromkovic, S. Seibert, and T. Wilke. Translating regular expressions into small &#949;-free nondeterministic finite automata. J. Comput. Syst. Sci., 62(4):565--588, 2001.', 'DOI': '10.1006/jcss.2001.1748', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-30', 'unstructured': 'V. Kacholia, S. Pandit, S. Chakrabarti, S. Sudarshan, R. Desai, and H. Karambelkar. Bidirectional expansion for keyword search on graph databases. In VLDB, 2005.'}, {'key': 'key-10.1145/3035918.3035944-31', 'unstructured': 'H. A. Kuno and E. A. Rundensteiner. Incremental maintenance of materialized object-oriented views in multiview: Strategies and performance evaluation. TKDE, 10(5):768--792, 1998.', 'DOI': '10.1109/69.729731', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-32', 'unstructured': 'J. Lacki. Improved deterministic algorithms for decremental reachability and strongly connected components. ACM Trans. Algorithms, 9(3):27, 2013.', 'DOI': '10.1145/2483699.2483707', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-33', 'unstructured': 'A. O. Mendelzon and P. T. Wood. Finding regular simple paths in graph databases. SICOMP, 24(6), 1995.'}, {'key': 'key-10.1145/3035918.3035944-34', 'unstructured': "A. Ntoulas, J. Cho, and C. Olston. What's new on the Web? The evolution of the Web from a search engine perspective. In WWW, 2004."}, {'key': 'key-10.1145/3035918.3035944-35', 'unstructured': 'C. H. Papadimitriou. Computational Complexity. Addison-Wesley, 1994.'}, {'key': 'key-10.1145/3035918.3035944-36', 'unstructured': 'W. Pugh and T. Teitelbaum. Incremental computation via function caching. In POPL, 1989.', 'DOI': '10.1145/75277.75305', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-37', 'unstructured': 'L. Qin, J. X. Yu, L. Chang, H. Cheng, C. Zhang, and X. Lin. Scalable big graph processing in mapreduce. In SIGMOD, 2014.', 'DOI': '10.1145/2588555.2593661', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-38', 'unstructured': 'G. Ramalingam and T. Reps. On the computational complexity of dynamic graph problems. TCS, 158(1--2), 1996.', 'DOI': '10.1016/0304-3975(95)00079-8', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-39', 'unstructured': 'G. Ramalingam and T. W. Reps. An incremental algorithm for a generalization of the shortest-path problem. J. Algorithms, 21(2):267--305, 1996.', 'DOI': '10.1006/jagm.1996.0046', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-40', 'unstructured': 'L. Roditty and U. Zwick. A fully dynamic reachability algorithm for directed graphs with an almost linear update time. In STOC, 2004.', 'DOI': '10.1145/1007352.1007387', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-41', 'unstructured': 'D. Saha. An incremental bisimulation algorithm. In FSTTCS, 2007.', 'DOI': '10.1007/978-3-540-77050-3_17', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-42', 'unstructured': 'A. Stotz, R. Nagi, and M. Sudit. Incremental graph matching for situation awareness. FUSION, 2009.'}, {'key': 'key-10.1145/3035918.3035944-43', 'unstructured': 'R. Tarjan. Depth-first search and linear graph algorithms. SICOMP, 1(2):146--160, 1972.', 'DOI': '10.1137/0201010', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-44', 'unstructured': 'T. Teitelbaum and T. W. Reps. The cornell program synthesizer: A syntax-directed programming environment. Commun. ACM, 24(9):563--573, 1981.', 'DOI': '10.1145/358746.358755', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/3035918.3035944-45', 'unstructured': 'J. X. Yu, L. Qin, and L. Chang. Keyword search in relational databases: A survey. IEEE Data Eng. Bull., 33(1), 2010.'}, {'key': 'key-10.1145/3035918.3035944-46', 'unstructured': 'Y. Zhuge and H. Garcia-Molina. Graph structured views and their incremental maintenance. In ICDE, 1998.', 'DOI': '10.1109/ICDE.1998.655767', 'doi-asserted-by': 'crossref'}], 'event': {'name': 'the 2017 ACM International Conference', 'location': 'Chicago, Illinois, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '17", 'number': '2017', 'start': {'date-parts': [[2017, 5, 14]]}, 'end': {'date-parts': [[2017, 5, 19]]}}, 'container-title': ["Proceedings of the 2017 ACM International Conference on Management of Data  - SIGMOD '17"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=3035944&ftid=1872647&dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 5, 10]], 'date-time': '2017-05-10T18:17:18Z', 'timestamp': 1494440238000}, 'score': 93.47203, 'subtitle': ['Doable and Undoable'], 'issued': {'date-parts': [[2017]]}, 'ISBN': ['9781450341974'], 'references-count': 46, 'URL': 'http://dx.doi.org/10.1145/3035918.3035944', 'relation': {'cites': []}}
+>>> hash >>> ('Incremental Graph Computations', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Ma, Y. Cao, W. Fan, J. Huai, and T. Wo, â€œCapturing topology in graph pattern matching,â€\x9d in Proc. 30th Int. Conf. Very Large Data Bases, 2011, pp. 310â€“321.
+>>> DOI >>> 10.14778/2095686.2095690
+>>> URL >>> http://dx.doi.org/10.14778/2095686.2095690
+>>> year >>> 2011.0
+>>> title >>> Capturing topology in graph pattern matching
+>>> author >>> Shuai Ma and Yang Cao and Wenfei Fan and Jinpeng Huai and Tianyu Wo
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 28.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T08:42:27Z', 'timestamp': 1527756147015}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2011, 12, 1]]}, 'DOI': '10.14778/2095686.2095690', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '310-321', 'source': 'Crossref', 'is-referenced-by-count': 28, 'title': ['Capturing topology in graph pattern matching'], 'prefix': '10.14778', 'volume': '5', 'author': [{'given': 'Shuai', 'family': 'Ma', 'sequence': 'first', 'affiliation': []}, {'given': 'Yang', 'family': 'Cao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Wenfei', 'family': 'Fan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jinpeng', 'family': 'Huai', 'sequence': 'additional', 'affiliation': []}, {'given': 'Tianyu', 'family': 'Wo', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:27:52Z', 'timestamp': 1403612872000}, 'score': 73.94611, 'issued': {'date-parts': [[2011, 12, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2011, 12, 1]]}, 'issue': '4'}, 'URL': 'http://dx.doi.org/10.14778/2095686.2095690', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('Capturing topology in graph pattern matching', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Yildirim, V. Chaoji, and M. J. Zaki, â€œGRAIL: Scalable reachability index for large graphs,â€\x9d in Proc. 30th Int. Conf. Very Large Data Bases, 2010, pp. 276â€“284.
+>>> DOI >>> 10.14778/1920841.1920879
+>>> URL >>> http://dx.doi.org/10.14778/1920841.1920879
+>>> year >>> 2010.0
+>>> title >>> GRAIL
+>>> author >>> Hilmi Yildirim and Vineet Chaoji and Mohammed J. Zaki
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 21.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:31:32Z', 'timestamp': 1525797092865}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '1-2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2010, 9, 1]]}, 'DOI': '10.14778/1920841.1920879', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '276-284', 'source': 'Crossref', 'is-referenced-by-count': 21, 'title': ['GRAIL'], 'prefix': '10.14778', 'volume': '3', 'author': [{'given': 'Hilmi', 'family': 'Yildirim', 'sequence': 'first', 'affiliation': []}, {'given': 'Vineet', 'family': 'Chaoji', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mohammed J.', 'family': 'Zaki', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:23:46Z', 'timestamp': 1403612626000}, 'score': 82.78697, 'subtitle': ['scalable reachability index for large graphs'], 'issued': {'date-parts': [[2010, 9, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2010, 9, 1]]}, 'issue': '1-2'}, 'URL': 'http://dx.doi.org/10.14778/1920841.1920879', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('GRAIL', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y. Shao, B. Cui, L. Chen, L. Ma, J. Yao, and N. Xu, â€œParallel subgraph listing in a large-scale graph,â€\x9d in Proc. ACM SIGMOD Int. Conf. Manag. Data, 2014, pp. 625â€“636.
+>>> DOI >>> 10.1145/2588555.2588557
+>>> URL >>> http://dx.doi.org/10.1145/2588555.2588557
+>>> year >>> 2014.0
+>>> title >>> Parallel subgraph listing in a large-scale graph
+>>> author >>> Yingxia Shao and Bin Cui and Lei Chen and Lin Ma and Junjie Yao and Ning Xu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 24.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2014 ACM SIGMOD international conference on Management of data - SIGMOD '14"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T13:22:34Z', 'timestamp': 1527254554848}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450323765', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2014]]}, 'DOI': '10.1145/2588555.2588557', 'type': 'proceedings-article', 'created': {'date-parts': [[2014, 6, 20]], 'date-time': '2014-06-20T13:06:05Z', 'timestamp': 1403269565000}, 'source': 'Crossref', 'is-referenced-by-count': 24, 'title': ['Parallel subgraph listing in a large-scale graph'], 'prefix': '10.1145', 'author': [{'given': 'Yingxia', 'family': 'Shao', 'sequence': 'first', 'affiliation': []}, {'given': 'Bin', 'family': 'Cui', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lei', 'family': 'Chen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lin', 'family': 'Ma', 'sequence': 'additional', 'affiliation': []}, {'given': 'Junjie', 'family': 'Yao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ning', 'family': 'Xu', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2014 ACM SIGMOD international conference', 'location': 'Snowbird, Utah, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '14", 'number': '2014', 'start': {'date-parts': [[2014, 6, 22]]}, 'end': {'date-parts': [[2014, 6, 27]]}}, 'container-title': ["Proceedings of the 2014 ACM SIGMOD international conference on Management of data - SIGMOD '14"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2588557&amp;ftid=1474623&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T00:39:18Z', 'timestamp': 1481071158000}, 'score': 90.22848, 'issued': {'date-parts': [[2014]]}, 'ISBN': ['9781450323765'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/2588555.2588557'}
+>>> hash >>> ('Parallel subgraph listing in a large-scale graph', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Fan, J. Li, S. Ma, N. Tang, and Y. Wu, â€œAdding regular expressions to graph reachability and pattern queries,â€\x9d in Proc. IEEE 25th Int. Conf. Data Eng., 2011, pp. 39â€“50.
+>>> DOI >>> 10.1109/icde.2011.5767858
+>>> URL >>> http://dx.doi.org/10.1109/icde.2011.5767858
+>>> year >>> 2011.0
+>>> title >>> Adding regular expressions to graph reachability and pattern queries
+>>> author >>> Wenfei Fan and Jianzhong Li and Shuai Ma and Nan Tang and Yinghui Wu
+>>> reference_count >>> 37.0
+>>> is_referenced_by_count >>> 31.0
+>>> subject >>> None
+>>> container_title >>> ['2011 IEEE 27th International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T18:22:40Z', 'timestamp': 1528222960798}, 'reference-count': 37, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424489596', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011, 4]]}, 'DOI': '10.1109/icde.2011.5767858', 'type': 'proceedings-article', 'created': {'date-parts': [[2011, 5, 17]], 'date-time': '2011-05-17T20:45:21Z', 'timestamp': 1305665121000}, 'source': 'Crossref', 'is-referenced-by-count': 31, 'title': ['Adding regular expressions to graph reachability and pattern queries'], 'prefix': '10.1109', 'author': [{'given': 'Wenfei', 'family': 'Fan', 'sequence': 'first', 'affiliation': []}, {'given': 'Jianzhong', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}, {'given': 'Shuai', 'family': 'Ma', 'sequence': 'additional', 'affiliation': []}, {'given': 'Nan', 'family': 'Tang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yinghui', 'family': 'Wu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2011 IEEE International Conference on Data Engineering (ICDE 2011)', 'location': 'Hannover, Germany', 'start': {'date-parts': [[2011, 4, 11]]}, 'end': {'date-parts': [[2011, 4, 16]]}}, 'container-title': ['2011 IEEE 27th International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5765035/5767827/05767858.pdf?arnumber=5767858', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 21]], 'date-time': '2017-03-21T07:41:34Z', 'timestamp': 1490082094000}, 'score': 77.7311, 'issued': {'date-parts': [[2011, 4]]}, 'ISBN': ['9781424489596'], 'references-count': 37, 'URL': 'http://dx.doi.org/10.1109/icde.2011.5767858'}
+>>> hash >>> ('Adding regular expressions to graph reachability and pattern queries', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Milgram, â€œThe small world problem,â€\x9d Psychology Today, vol. 2, no. 60, pp. 60â€“67, 1967.
+>>> DOI >>> 10.1037/e400002009-005
+>>> URL >>> http://dx.doi.org/10.1037/e400002009-005
+>>> year >>> 1967.0
+>>> title >>> The small-world problem
+>>> author >>> Stanley Milgram
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['PsycEXTRA Dataset']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'institution': {'name': 'American Psychological Association', 'place': ['-'], 'acronym': ['APA']}, 'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T12:59:39Z', 'timestamp': 1525697979814}, 'reference-count': 0, 'publisher': 'American Psychological Association (APA)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1967]]}, 'DOI': '10.1037/e400002009-005', 'type': 'dataset', 'created': {'date-parts': [[2013, 2, 23]], 'date-time': '2013-02-23T17:46:31Z', 'timestamp': 1361641591000}, 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['The small-world problem'], 'prefix': '10.1037', 'author': [{'given': 'Stanley', 'family': 'Milgram', 'sequence': 'first', 'affiliation': []}], 'member': '15', 'container-title': ['PsycEXTRA Dataset'], 'deposited': {'date-parts': [[2013, 2, 23]], 'date-time': '2013-02-23T17:53:15Z', 'timestamp': 1361641995000}, 'score': 40.22149, 'subtitle': ['(400002009-005)'], 'issued': {'date-parts': [[1967]]}, 'references-count': 0, 'alternative-id': ['400002009-005'], 'URL': 'http://dx.doi.org/10.1037/e400002009-005'}
+>>> hash >>> ('The small-world problem', 1967.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Hassin, â€œApproximation schemes for the restricted shortest path problem,â€\x9d Math. Operations Res., vol. 17, no. 1, pp. 36â€“42, 1992.
+>>> DOI >>> 10.1287/moor.17.1.36
+>>> URL >>> http://dx.doi.org/10.1287/moor.17.1.36
+>>> year >>> 1992.0
+>>> title >>> Approximation Schemes for the Restricted Shortest Path Problem
+>>> author >>> Refael Hassin
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 266.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematics of Operations Research']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T16:42:28Z', 'timestamp': 1527266548454}, 'reference-count': 0, 'publisher': 'Institute for Operations Research and the Management Sciences (INFORMS)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Mathematics of OR'], 'published-print': {'date-parts': [[1992, 2]]}, 'DOI': '10.1287/moor.17.1.36', 'type': 'journal-article', 'created': {'date-parts': [[2008, 10, 31]], 'date-time': '2008-10-31T22:43:38Z', 'timestamp': 1225493018000}, 'page': '36-42', 'source': 'Crossref', 'is-referenced-by-count': 266, 'title': ['Approximation Schemes for the Restricted Shortest Path Problem'], 'prefix': '10.1287', 'volume': '17', 'author': [{'given': 'Refael', 'family': 'Hassin', 'sequence': 'first', 'affiliation': []}], 'member': '109', 'container-title': ['Mathematics of Operations Research'], 'language': 'en', 'link': [{'URL': 'https://pubsonline.informs.org/doi/pdf/10.1287/moor.17.1.36', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 7, 7]], 'date-time': '2017-07-07T15:10:12Z', 'timestamp': 1499440212000}, 'score': 74.19233, 'issued': {'date-parts': [[1992, 2]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1992, 2]]}, 'issue': '1'}, 'alternative-id': ['10.1287/moor.17.1.36'], 'URL': 'http://dx.doi.org/10.1287/moor.17.1.36', 'ISSN': ['0364-765X', '1526-5471'], 'issn-type': [{'value': '0364-765X', 'type': 'print'}, {'value': '1526-5471', 'type': 'electronic'}]}
+>>> hash >>> ('Approximation Schemes for the Restricted Shortest Path Problem', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. Liu, Y. Wang, and M. A. Orgun, â€œOptimal social trust path selection in complex social networks,â€\x9d in Proc. 26th AAAI Conf. Artif. Intell., 2010, pp. 1391â€“1398.
+>>> DOI >>> 10.1109/cse.2009.248
+>>> URL >>> http://dx.doi.org/10.1109/cse.2009.248
+>>> year >>> 2009.0
+>>> title >>> Trust Inference in Complex Trust-Oriented Social Networks
+>>> author >>> Guanfeng Liu and Yan Wang and Mehmet Orgun
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['2009 International Conference on Computational Science and Engineering']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T05:47:18Z', 'timestamp': 1525499238558}, 'reference-count': 21, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424453344', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1109/cse.2009.248', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 10, 12]], 'date-time': '2009-10-12T19:50:02Z', 'timestamp': 1255377002000}, 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['Trust Inference in Complex Trust-Oriented Social Networks'], 'prefix': '10.1109', 'author': [{'given': 'Guanfeng', 'family': 'Liu', 'sequence': 'first', 'affiliation': []}, {'given': 'Yan', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mehmet', 'family': 'Orgun', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 International Conference on Computational Science and Engineering', 'location': 'Vancouver, BC, Canada', 'start': {'date-parts': [[2009, 8, 29]]}, 'end': {'date-parts': [[2009, 8, 31]]}}, 'container-title': ['2009 International Conference on Computational Science and Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5282954/5282960/05283759.pdf?arnumber=5283759', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T00:35:37Z', 'timestamp': 1497832537000}, 'score': 51.96257, 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781424453344'], 'references-count': 21, 'URL': 'http://dx.doi.org/10.1109/cse.2009.248'}
+>>> hash >>> ('Trust Inference in Complex Trust-Oriented Social Networks', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Libkin and D. Vrgoc, â€œRegular path queries on graphs with data,â€\x9d in Proc. IEEE 25th Int. Conf. Data Eng., 2011, pp. 74â€“85.
+>>> DOI >>> 10.1145/2274576.2274585
+>>> URL >>> http://dx.doi.org/10.1145/2274576.2274585
+>>> year >>> 2012.0
+>>> title >>> Regular path queries on graphs with data
+>>> author >>> Leonid Libkin and Domagoj Vrgo\u010d
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 12.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 15th International Conference on Database Theory - ICDT '12"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T11:58:22Z', 'timestamp': 1525521502243}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450307918', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012]]}, 'DOI': '10.1145/2274576.2274585', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 6, 15]], 'date-time': '2012-06-15T15:32:03Z', 'timestamp': 1339774323000}, 'source': 'Crossref', 'is-referenced-by-count': 12, 'title': ['Regular path queries on graphs with data'], 'prefix': '10.1145', 'author': [{'given': 'Leonid', 'family': 'Libkin', 'sequence': 'first', 'affiliation': []}, {'given': 'Domagoj', 'family': 'Vrgo\u010d', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 15th International Conference', 'location': 'Berlin, Germany', 'acronym': "ICDT '12", 'number': '15', 'start': {'date-parts': [[2012, 3, 26]]}, 'end': {'date-parts': [[2012, 3, 29]]}}, 'container-title': ["Proceedings of the 15th International Conference on Database Theory - ICDT '12"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2274585&amp;ftid=1242702&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T20:03:05Z', 'timestamp': 1481918585000}, 'score': 60.04986, 'issued': {'date-parts': [[2012]]}, 'ISBN': ['9781450307918'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/2274576.2274585'}
+>>> hash >>> ('Regular path queries on graphs with data', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. Liu, Y. Wang, and M. A. Orgun, â€œTrust transitivity in complex social networks,â€\x9d in Proc. 26th AAAI Conf. Artif. Intell., 2011, pp. 1222â€“1229.
+>>> DOI >>> 10.1109/icws.2011.81
+>>> URL >>> http://dx.doi.org/10.1109/icws.2011.81
+>>> year >>> 2011.0
+>>> title >>> Finding K Optimal Social Trust Paths for the Selection of Trustworthy Service Providers in Complex Social Networks
+>>> author >>> Guanfeng Liu and Yan Wang and Mehmet A. Orgun
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['2011 IEEE International Conference on Web Services']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 30]], 'date-time': '2018-05-30T16:22:41Z', 'timestamp': 1527697361510}, 'reference-count': 32, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781457708428', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011, 7]]}, 'DOI': '10.1109/icws.2011.81', 'type': 'proceedings-article', 'created': {'date-parts': [[2011, 9, 20]], 'date-time': '2011-09-20T16:06:19Z', 'timestamp': 1316534779000}, 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['Finding K Optimal Social Trust Paths for the Selection of Trustworthy Service Providers in Complex Social Networks'], 'prefix': '10.1109', 'author': [{'given': 'Guanfeng', 'family': 'Liu', 'sequence': 'first', 'affiliation': []}, {'given': 'Yan', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mehmet A.', 'family': 'Orgun', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2011 IEEE International Conference on Web Services (ICWS)', 'location': 'Washington, DC, USA', 'start': {'date-parts': [[2011, 7, 4]]}, 'end': {'date-parts': [[2011, 7, 9]]}}, 'container-title': ['2011 IEEE International Conference on Web Services'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6009137/6009354/06009370.pdf?arnumber=6009370', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T06:39:37Z', 'timestamp': 1497940777000}, 'score': 37.407272, 'issued': {'date-parts': [[2011, 7]]}, 'ISBN': ['9781457708428'], 'references-count': 32, 'URL': 'http://dx.doi.org/10.1109/icws.2011.81'}
+>>> hash >>> ('Finding K Optimal Social Trust Paths for the Selection of Trustworthy Service Providers in Complex Social Networks', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Fan, X.Wang, and Y.Wu, â€œAnswering graph pattern queries using views,â€\x9d in Proc. IEEE 25th Int. Conf. Data Eng., 2014, pp. 184â€“195.
+>>> DOI >>> 10.1109/icde.2014.6816650
+>>> URL >>> http://dx.doi.org/10.1109/icde.2014.6816650
+>>> year >>> 2014.0
+>>> title >>> Answering graph pattern queries using views
+>>> author >>> Wenfei Fan and Xin Wang and Yinghui Wu
+>>> reference_count >>> 38.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['2014 IEEE 30th International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T14:18:21Z', 'timestamp': 1525789101277}, 'reference-count': 38, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781479925551', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2014, 3]]}, 'DOI': '10.1109/icde.2014.6816650', 'type': 'proceedings-article', 'created': {'date-parts': [[2014, 5, 30]], 'date-time': '2014-05-30T18:28:25Z', 'timestamp': 1401474505000}, 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['Answering graph pattern queries using views'], 'prefix': '10.1109', 'author': [{'given': 'Wenfei', 'family': 'Fan', 'sequence': 'first', 'affiliation': []}, {'given': 'Xin', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yinghui', 'family': 'Wu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2014 IEEE 30th International Conference on Data Engineering (ICDE)', 'location': 'Chicago, IL, USA', 'start': {'date-parts': [[2014, 3, 31]]}, 'end': {'date-parts': [[2014, 4, 4]]}}, 'container-title': ['2014 IEEE 30th International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6811095/6816620/06816650.pdf?arnumber=6816650', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 23]], 'date-time': '2017-03-23T21:33:50Z', 'timestamp': 1490304830000}, 'score': 61.80272, 'issued': {'date-parts': [[2014, 3]]}, 'ISBN': ['9781479925551'], 'references-count': 38, 'URL': 'http://dx.doi.org/10.1109/icde.2014.6816650'}
+>>> hash >>> ('Answering graph pattern queries using views', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> F. N. Afrati, D. Fotakis, and J. D. Ullman, â€œEnumerating subgraph instances using map-reduce,â€\x9d in Proc. IEEE 25th Int. Conf. Data Eng., 2013, pp. 62â€“73.
+>>> DOI >>> 10.1109/icde.2013.6544814
+>>> URL >>> http://dx.doi.org/10.1109/icde.2013.6544814
+>>> year >>> 2013.0
+>>> title >>> Enumerating subgraph instances using map-reduce
+>>> author >>> F. N. Afrati and D. Fotakis and J. D. Ullman
+>>> reference_count >>> 23.0
+>>> is_referenced_by_count >>> 24.0
+>>> subject >>> None
+>>> container_title >>> ['2013 IEEE 29th International Conference on Data Engineering (ICDE)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 14]], 'date-time': '2018-05-14T14:42:26Z', 'timestamp': 1526308946705}, 'reference-count': 23, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467349093', 'type': 'print'}, {'value': '9781467349086', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013, 4]]}, 'DOI': '10.1109/icde.2013.6544814', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 6, 26]], 'date-time': '2013-06-26T19:02:52Z', 'timestamp': 1372273372000}, 'source': 'Crossref', 'is-referenced-by-count': 24, 'title': ['Enumerating subgraph instances using map-reduce'], 'prefix': '10.1109', 'author': [{'given': 'F. N.', 'family': 'Afrati', 'sequence': 'first', 'affiliation': []}, {'given': 'D.', 'family': 'Fotakis', 'sequence': 'additional', 'affiliation': []}, {'given': 'J. D.', 'family': 'Ullman', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2013 29th IEEE International Conference on Data Engineering (ICDE 2013)', 'location': 'Brisbane, QLD', 'start': {'date-parts': [[2013, 4, 8]]}, 'end': {'date-parts': [[2013, 4, 12]]}}, 'container-title': ['2013 IEEE 29th International Conference on Data Engineering (ICDE)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6530811/6544790/06544814.pdf?arnumber=6544814', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 22]], 'date-time': '2017-03-22T19:09:08Z', 'timestamp': 1490209748000}, 'score': 91.20978, 'issued': {'date-parts': [[2013, 4]]}, 'ISBN': ['9781467349109', '9781467349093', '9781467349086'], 'references-count': 23, 'URL': 'http://dx.doi.org/10.1109/icde.2013.6544814'}
+>>> hash >>> ('Enumerating subgraph instances using map-reduce', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Milner, Communication and Concurrency. Upper Saddle River, NJ, USA: Prentice Hall, 1989.
+>>> DOI >>> 10.1177/1080569911432552
+>>> URL >>> http://dx.doi.org/10.1177/1080569911432552
+>>> year >>> 2012.0
+>>> title >>> Book Review: Intercultural Business CommunicationChaneyL. H.MartinJ. S. (2011). Intercultural Business Communication (5th ed.). Upper Saddle River, NJ: Prentice Hall. 301 pp.
+>>> author >>> Audrey M. Ostendorf
+>>> reference_count >>> 4.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Business Communication Quarterly']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T09:43:40Z', 'timestamp': 1525513420438}, 'reference-count': 4, 'publisher': 'SAGE Publications', 'issue': '2', 'license': [{'URL': 'http://journals.sagepub.com/page/policies/text-and-data-mining-license', 'start': {'date-parts': [[2012, 5, 11]], 'date-time': '2012-05-11T00:00:00Z', 'timestamp': 1336694400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': ['journals.sagepub.com'], 'crossmark-restriction': True}, 'short-container-title': ['Business Communication Quarterly'], 'published-print': {'date-parts': [[2012, 6]]}, 'DOI': '10.1177/1080569911432552', 'type': 'journal-article', 'created': {'date-parts': [[2012, 5, 11]], 'date-time': '2012-05-11T16:55:24Z', 'timestamp': 1336755324000}, 'page': '221-224', 'update-policy': 'http://dx.doi.org/10.1177/sage-journals-update-policy', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Book Review: Intercultural Business CommunicationChaneyL. H.MartinJ. S. (2011). Intercultural Business Communication (5th ed.). Upper Saddle River, NJ: Prentice Hall. 301 pp.'], 'prefix': '10.1177', 'volume': '75', 'author': [{'given': 'Audrey M.', 'family': 'Ostendorf', 'sequence': 'first', 'affiliation': [{'name': 'Northern Kentucky University, USA'}]}], 'member': '179', 'published-online': {'date-parts': [[2012, 5, 11]]}, 'reference': [{'key': 'bibr1-1080569911432552', 'author': 'Guffey M. E.', 'year': '2011', 'edition': '7', 'volume-title': 'Business communication: Process and product'}, {'key': 'bibr2-1080569911432552', 'author': 'Locker K. O.', 'year': '2010', 'edition': '9', 'volume-title': 'Business and administrative communication'}, {'key': 'bibr3-1080569911432552', 'author': 'Ritzer G.', 'year': '2007', 'edition': '2', 'volume-title': 'The globalization of nothing'}, {'key': 'bibr4-1080569911432552', 'author': 'Robertson R.', 'first-page': '458', 'year': '2001', 'volume-title': 'Handbook of social theory', 'DOI': '10.4135/9781848608351.n34', 'doi-asserted-by': 'crossref'}], 'container-title': ['Business Communication Quarterly'], 'language': 'en', 'link': [{'URL': 'http://journals.sagepub.com/doi/pdf/10.1177/1080569911432552', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://journals.sagepub.com/doi/full-xml/10.1177/1080569911432552', 'content-type': 'application/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://journals.sagepub.com/doi/pdf/10.1177/1080569911432552', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 21]], 'date-time': '2017-12-21T15:44:58Z', 'timestamp': 1513871098000}, 'score': 50.058308, 'issued': {'date-parts': [[2012, 5, 11]]}, 'references-count': 4, 'journal-issue': {'published-online': {'date-parts': [[2012, 5, 11]]}, 'published-print': {'date-parts': [[2012, 6]]}, 'issue': '2'}, 'alternative-id': ['10.1177/1080569911432552'], 'URL': 'http://dx.doi.org/10.1177/1080569911432552', 'relation': {'cites': []}, 'ISSN': ['1080-5699', '1552-4191'], 'issn-type': [{'value': '1080-5699', 'type': 'print'}, {'value': '1552-4191', 'type': 'electronic'}]}
+>>> hash >>> ('Book Review: Intercultural Business CommunicationChaneyL. H.MartinJ. S. (2011). Intercultural Business Communication (5th ed.). Upper Saddle River, NJ: Prentice Hall. 301 pp.', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Brynielsson, J. Hogberg, L. Kaati, C. Martenson, and P. Svenson, â€œDetecting social positions using simulation,â€\x9d in Proc. Int. Conf. Adv. Soc. Netw. Anal. Mining, 2010, pp. 48â€“55.
+>>> DOI >>> 10.1109/asonam.2010.52
+>>> URL >>> http://dx.doi.org/10.1109/asonam.2010.52
+>>> year >>> 2010.0
+>>> title >>> Detecting Social Positions Using Simulation
+>>> author >>> Joel Brynielsson and Johanna Högberg and Lisa Kaati and Christian Mårtenson and Pontus Svenson
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['2010 International Conference on Advances in Social Networks Analysis and Mining']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T08:42:27Z', 'timestamp': 1527756147007}, 'reference-count': 12, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424477876', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010, 8]]}, 'DOI': '10.1109/asonam.2010.52', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 9, 8]], 'date-time': '2010-09-08T20:22:55Z', 'timestamp': 1283977375000}, 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['Detecting Social Positions Using Simulation'], 'prefix': '10.1109', 'author': [{'given': 'Joel', 'family': 'Brynielsson', 'sequence': 'first', 'affiliation': []}, {'given': 'Johanna', 'family': 'Högberg', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lisa', 'family': 'Kaati', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christian', 'family': 'Mårtenson', 'sequence': 'additional', 'affiliation': []}, {'given': 'Pontus', 'family': 'Svenson', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2010 International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2010)', 'location': 'Odense, Denmark', 'start': {'date-parts': [[2010, 8, 9]]}, 'end': {'date-parts': [[2010, 8, 11]]}}, 'container-title': ['2010 International Conference on Advances in Social Networks Analysis and Mining'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5562738/5562740/05562789.pdf?arnumber=5562789', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 18]], 'date-time': '2017-03-18T23:55:43Z', 'timestamp': 1489881343000}, 'score': 101.88138, 'issued': {'date-parts': [[2010, 8]]}, 'ISBN': ['9781424477876'], 'references-count': 12, 'URL': 'http://dx.doi.org/10.1109/asonam.2010.52'}
+>>> hash >>> ('Detecting Social Positions Using Simulation', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> X. Yan, P. S. Yu, and J. Han, â€œSubstructure similarity search in graph databases,â€\x9d in Proc. ACM SIGMOD Int. Conf. Manag. Data, 2005, pp. 766â€“777.
+>>> DOI >>> 10.1145/1066157.1066244
+>>> URL >>> http://dx.doi.org/10.1145/1066157.1066244
+>>> year >>> 2005.0
+>>> title >>> Substructure similarity search in graph databases
+>>> author >>> Xifeng Yan and Philip S. Yu and Jiawei Han
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 86.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2005 ACM SIGMOD international conference on Management of data  - SIGMOD '05"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T21:02:20Z', 'timestamp': 1525467740194}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1595930604', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1145/1066157.1066244', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 8, 3]], 'date-time': '2005-08-03T08:31:47Z', 'timestamp': 1123057907000}, 'source': 'Crossref', 'is-referenced-by-count': 86, 'title': ['Substructure similarity search in graph databases'], 'prefix': '10.1145', 'author': [{'given': 'Xifeng', 'family': 'Yan', 'sequence': 'first', 'affiliation': []}, {'given': 'Philip S.', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jiawei', 'family': 'Han', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2005 ACM SIGMOD international conference', 'location': 'Baltimore, Maryland', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '05", 'start': {'date-parts': [[2005, 6, 14]]}, 'end': {'date-parts': [[2005, 6, 16]]}}, 'container-title': ["Proceedings of the 2005 ACM SIGMOD international conference on Management of data  - SIGMOD '05"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1066244&amp;ftid=315106&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T06:45:07Z', 'timestamp': 1481870707000}, 'score': 68.48339, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['1595930604'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1066157.1066244'}
+>>> hash >>> ('Substructure similarity search in graph databases', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. Liu, Y. Wang, and M. A. Orgun, â€œSocial context-aware trust network discovery in complex contextual social networks,â€\x9d in Proc. 26th AAAI Conf. Artif. Intell., 2012, pp. 101â€“107.
+>>> DOI >>> 10.1109/icws.2016.22
+>>> URL >>> http://dx.doi.org/10.1109/icws.2016.22
+>>> year >>> 2016.0
+>>> title >>> Strong Social Component-Aware Trust Sub-network Extraction in Contextual Social Networks
+>>> author >>> Guanfeng Liu and Yan Wang and Mehmet A. Orgun and Xiaoming Zheng and An Liu and Zhixu Li and Kai Zheng
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['2016 IEEE International Conference on Web Services (ICWS)']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T04:12:35Z', 'timestamp': 1525839155313}, 'reference-count': 28, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2016, 6]]}, 'DOI': '10.1109/icws.2016.22', 'type': 'proceedings-article', 'created': {'date-parts': [[2016, 9, 2]], 'date-time': '2016-09-02T01:14:13Z', 'timestamp': 1472778853000}, 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Strong Social Component-Aware Trust Sub-network Extraction in Contextual Social Networks'], 'prefix': '10.1109', 'author': [{'given': 'Guanfeng', 'family': 'Liu', 'sequence': 'first', 'affiliation': []}, {'given': 'Yan', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mehmet A.', 'family': 'Orgun', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xiaoming', 'family': 'Zheng', 'sequence': 'additional', 'affiliation': []}, {'given': 'An', 'family': 'Liu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Zhixu', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}, {'given': 'Kai', 'family': 'Zheng', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2016 IEEE International Conference on Web Services (ICWS)', 'location': 'San Francisco, CA, USA', 'start': {'date-parts': [[2016, 6, 27]]}, 'end': {'date-parts': [[2016, 7, 2]]}}, 'container-title': ['2016 IEEE International Conference on Web Services (ICWS)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/7557851/7557967/07557991.pdf?arnumber=7557991', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 9, 29]], 'date-time': '2016-09-29T16:27:40Z', 'timestamp': 1475166460000}, 'score': 56.07948, 'issued': {'date-parts': [[2016, 6]]}, 'ISBN': ['9781509026753'], 'references-count': 28, 'URL': 'http://dx.doi.org/10.1109/icws.2016.22'}
+>>> hash >>> ('Strong Social Component-Aware Trust Sub-network Extraction in Contextual Social Networks', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Shang, X. Lin, Y. Zhang, J. X. Yu, and W. Wang, â€œConnected substructure similarity search,â€\x9d in Proc. ACM SIGMOD Int. Conf. Manag. Data, 2010, pp. 903â€“914.
+>>> DOI >>> 10.1145/1807167.1807264
+>>> URL >>> http://dx.doi.org/10.1145/1807167.1807264
+>>> year >>> 2010.0
+>>> title >>> Connected substructure similarity search
+>>> author >>> Haichuan Shang and Xuemin Lin and Ying Zhang and Jeffrey Xu Yu and Wei Wang
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2010 international conference on Management of data - SIGMOD '10"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T05:22:06Z', 'timestamp': 1525324926815}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450300322', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.1145/1807167.1807264', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 6, 8]], 'date-time': '2010-06-08T12:37:34Z', 'timestamp': 1276000654000}, 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['Connected substructure similarity search'], 'prefix': '10.1145', 'author': [{'given': 'Haichuan', 'family': 'Shang', 'sequence': 'first', 'affiliation': []}, {'given': 'Xuemin', 'family': 'Lin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ying', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jeffrey Xu', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Wei', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2010 international conference', 'location': 'Indianapolis, Indiana, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '10", 'number': '2010', 'start': {'date-parts': [[2010, 6, 6]]}, 'end': {'date-parts': [[2010, 6, 10]]}}, 'container-title': ["Proceedings of the 2010 international conference on Management of data - SIGMOD '10"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1807264&amp;ftid=805326&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T22:48:15Z', 'timestamp': 1481064495000}, 'score': 62.908367, 'issued': {'date-parts': [[2010]]}, 'ISBN': ['9781450300322'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1807167.1807264'}
+>>> hash >>> ('Connected substructure similarity search', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Milano, R. Baggio, and R. Piattelli, â€œThe effects of online social media on tourism websites,â€\x9d in Proc. Inf. Commun. Technol. Tourism, 2011, pp. 471â€“483.
+>>> DOI >>> 10.1007/978-3-7091-0503-0_38
+>>> URL >>> http://dx.doi.org/10.1007/978-3-7091-0503-0_38
+>>> year >>> 2011.0
+>>> title >>> The effects of online social media on tourism websites
+>>> author >>> Roberta Milano and Rodolfo Baggio and Robert Piattelli
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['Information and Communication Technologies in Tourism 2011']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T04:02:38Z', 'timestamp': 1527220958429}, 'publisher-location': 'Vienna', 'reference-count': 0, 'publisher': 'Springer Vienna', 'isbn-type': [{'value': '9783709105023', 'type': 'print'}, {'value': '9783709105030', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011]]}, 'DOI': '10.1007/978-3-7091-0503-0_38', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 8, 5]], 'date-time': '2011-08-05T10:03:25Z', 'timestamp': 1312538605000}, 'page': '471-483', 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['The effects of online social media on tourism websites'], 'prefix': '10.1007', 'author': [{'given': 'Roberta', 'family': 'Milano', 'sequence': 'first', 'affiliation': []}, {'given': 'Rodolfo', 'family': 'Baggio', 'sequence': 'additional', 'affiliation': []}, {'given': 'Robert', 'family': 'Piattelli', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Information and Communication Technologies in Tourism 2011'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-7091-0503-0_38', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2011, 8, 5]], 'date-time': '2011-08-05T10:03:29Z', 'timestamp': 1312538609000}, 'score': 94.707016, 'issued': {'date-parts': [[2011]]}, 'ISBN': ['9783709105023', '9783709105030'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-7091-0503-0_38'}
+>>> hash >>> ('The effects of online social media on tourism websites', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. R. Henzinger, T. Henzinger, and P. Kopke, â€œComputing simulations on finite and infinite graphs,â€\x9d in Proc. 47th Annu. IEEE Symp. Found. Comput. Sci., 1995, pp. 453â€“462.
+>>> DOI >>> 10.1109/sfcs.1995.492576
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1995.492576
+>>> year >>> None
+>>> title >>> Computing simulations on finite and infinite graphs
+>>> author >>> M.R. Henzinger and T.A. Henzinger and P.W. Kopke
+>>> reference_count >>> 35.0
+>>> is_referenced_by_count >>> 84.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of IEEE 36th Annual Foundations of Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T08:42:27Z', 'timestamp': 1527756147024}, 'reference-count': 35, 'publisher': 'IEEE Comput. Soc. Press', 'isbn-type': [{'value': '0818671831', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/sfcs.1995.492576', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 19]], 'date-time': '2002-11-19T19:50:45Z', 'timestamp': 1037735445000}, 'source': 'Crossref', 'is-referenced-by-count': 84, 'title': ['Computing simulations on finite and infinite graphs'], 'prefix': '10.1109', 'author': [{'given': 'M.R.', 'family': 'Henzinger', 'sequence': 'first', 'affiliation': []}, {'given': 'T.A.', 'family': 'Henzinger', 'sequence': 'additional', 'affiliation': []}, {'given': 'P.W.', 'family': 'Kopke', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'IEEE 36th Annual Foundations of Computer Science', 'location': 'Milwaukee, WI, USA', 'acronym': 'SFCS-95'}, 'container-title': ['Proceedings of IEEE 36th Annual Foundations of Computer Science'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx3/3752/10957/00492576.pdf?arnumber=492576', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T15:05:24Z', 'timestamp': 1497539124000}, 'score': 78.268524, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0818671831'], 'references-count': 35, 'URL': 'http://dx.doi.org/10.1109/sfcs.1995.492576'}
+>>> hash >>> ('Computing simulations on finite and infinite graphs', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Fan, J. Li, X. Wang, and Y. Wu, â€œQuery preserving graph compression,â€\x9d in Proc. ACM SIGMOD Int. Conf. Manag. Data, 2012, pp. 157â€“168.
+>>> DOI >>> 10.1145/2213836.2213855
+>>> URL >>> http://dx.doi.org/10.1145/2213836.2213855
+>>> year >>> 2012.0
+>>> title >>> Query preserving graph compression
+>>> author >>> Wenfei Fan and Jianzhong Li and Xin Wang and Yinghui Wu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 47.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2012 international conference on Management of Data - SIGMOD '12"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T04:02:38Z', 'timestamp': 1527220958441}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450312479', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012]]}, 'DOI': '10.1145/2213836.2213855', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 5, 21]], 'date-time': '2012-05-21T15:20:35Z', 'timestamp': 1337613635000}, 'source': 'Crossref', 'is-referenced-by-count': 47, 'title': ['Query preserving graph compression'], 'prefix': '10.1145', 'author': [{'given': 'Wenfei', 'family': 'Fan', 'sequence': 'first', 'affiliation': []}, {'given': 'Jianzhong', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xin', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yinghui', 'family': 'Wu', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2012 international conference', 'location': 'Scottsdale, Arizona, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '12", 'number': '2012', 'start': {'date-parts': [[2012, 5, 20]]}, 'end': {'date-parts': [[2012, 5, 24]]}}, 'container-title': ["Proceedings of the 2012 international conference on Management of Data - SIGMOD '12"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2213855&amp;ftid=1221299&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T18:51:36Z', 'timestamp': 1481914296000}, 'score': 62.643677, 'issued': {'date-parts': [[2012]]}, 'ISBN': ['9781450312479'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/2213836.2213855'}
+>>> hash >>> ('Query preserving graph compression', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Z. Sun, H. Wang, H. Wang, B. Shao, and J. Li, â€œEfficient subgraph matching on billion node graphs,â€\x9d in Proc. 30th Int. Conf. Very Large Data Bases, 2012, pp. 788â€“799.
+>>> DOI >>> 10.14778/2311906.2311907
+>>> URL >>> http://dx.doi.org/10.14778/2311906.2311907
+>>> year >>> 2012.0
+>>> title >>> Efficient subgraph matching on billion node graphs
+>>> author >>> Zhao Sun and Hongzhi Wang and Haixun Wang and Bin Shao and Jianzhong Li
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 70.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:31:38Z', 'timestamp': 1525797098151}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '9', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2012, 5, 1]]}, 'DOI': '10.14778/2311906.2311907', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '788-799', 'source': 'Crossref', 'is-referenced-by-count': 70, 'title': ['Efficient subgraph matching on billion node graphs'], 'prefix': '10.14778', 'volume': '5', 'author': [{'given': 'Zhao', 'family': 'Sun', 'sequence': 'first', 'affiliation': []}, {'given': 'Hongzhi', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Haixun', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Bin', 'family': 'Shao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jianzhong', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:28:29Z', 'timestamp': 1403612909000}, 'score': 79.26254, 'issued': {'date-parts': [[2012, 5, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2012, 5, 1]]}, 'issue': '9'}, 'URL': 'http://dx.doi.org/10.14778/2311906.2311907', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('Efficient subgraph matching on billion node graphs', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Fan, X. Wang, and Y. Wu, â€œExpFinder: Finding experts by graph pattern matching,â€\x9d in Proc. IEEE 25th Int. Conf. Data Eng., 2013, pp. 1316â€“1319.
+>>> DOI >>> 10.1109/icde.2013.6544933
+>>> URL >>> http://dx.doi.org/10.1109/icde.2013.6544933
+>>> year >>> 2013.0
+>>> title >>> ExpFinder: Finding experts by graph pattern matching
+>>> author >>> None
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['2013 IEEE 29th International Conference on Data Engineering (ICDE)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T19:42:02Z', 'timestamp': 1525722122584}, 'reference-count': 12, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467349093', 'type': 'print'}, {'value': '9781467349086', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013, 4]]}, 'DOI': '10.1109/icde.2013.6544933', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 6, 26]], 'date-time': '2013-06-26T19:02:52Z', 'timestamp': 1372273372000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['ExpFinder: Finding experts by graph pattern matching'], 'prefix': '10.1109', 'author': [{'family': 'Wenfei Fan', 'sequence': 'first', 'affiliation': []}, {'family': 'Xin Wang', 'sequence': 'additional', 'affiliation': []}, {'family': 'Yinghui Wu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2013 29th IEEE International Conference on Data Engineering (ICDE 2013)', 'location': 'Brisbane, QLD', 'start': {'date-parts': [[2013, 4, 8]]}, 'end': {'date-parts': [[2013, 4, 12]]}}, 'container-title': ['2013 IEEE 29th International Conference on Data Engineering (ICDE)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6530811/6544790/06544933.pdf?arnumber=6544933', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 22]], 'date-time': '2017-03-22T19:17:56Z', 'timestamp': 1490210276000}, 'score': 67.0228, 'issued': {'date-parts': [[2013, 4]]}, 'ISBN': ['9781467349109', '9781467349093', '9781467349086'], 'references-count': 12, 'URL': 'http://dx.doi.org/10.1109/icde.2013.6544933'}
+>>> hash >>> ('ExpFinder: Finding experts by graph pattern matching', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. Berger and T. Luckmann, The Social Construction of Reality: A Treatise in the Sociology of Knowledge. New York, NY, USA: Anchor Books, 1966.
+>>> DOI >>> 10.2307/2091739
+>>> URL >>> http://dx.doi.org/10.2307/2091739
+>>> year >>> 1967.0
+>>> title >>> The Social Construction of Reality: A Treatise in the Sociology of Knowledge.
+>>> author >>> George Simpson and Peter L. Berger and Thomas Luckmann
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ['American Sociological Review']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T21:33:26Z', 'timestamp': 1525296806905}, 'reference-count': 0, 'publisher': 'SAGE Publications', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['American Sociological Review'], 'published-print': {'date-parts': [[1967, 2]]}, 'DOI': '10.2307/2091739', 'type': 'journal-article', 'created': {'date-parts': [[2006, 5, 7]], 'date-time': '2006-05-07T13:57:57Z', 'timestamp': 1147010277000}, 'page': '137', 'source': 'Crossref', 'is-referenced-by-count': 8, 'title': ['The Social Construction of Reality: A Treatise in the Sociology of Knowledge.'], 'prefix': '10.1177', 'volume': '32', 'author': [{'given': 'George', 'family': 'Simpson', 'sequence': 'first', 'affiliation': []}, {'given': 'Peter L.', 'family': 'Berger', 'sequence': 'additional', 'affiliation': []}, {'given': 'Thomas', 'family': 'Luckmann', 'sequence': 'additional', 'affiliation': []}], 'member': '179', 'container-title': ['American Sociological Review'], 'deposited': {'date-parts': [[2007, 2, 13]], 'date-time': '2007-02-13T20:56:13Z', 'timestamp': 1171400173000}, 'score': 51.71206, 'issued': {'date-parts': [[1967, 2]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1967, 2]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.2307/2091739', 'ISSN': ['0003-1224'], 'issn-type': [{'value': '0003-1224', 'type': 'print'}]}
+>>> hash >>> ('The Social Construction of Reality: A Treatise in the Sociology of Knowledge.', 1967.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Jin, Y. Xiang, N. Ruan, and D. Fuhry, â€œ3-hop: A high compression indexing scheme for reachability query,â€\x9d in Proc. ACM SIGMOD Int. Conf. Manag. Data, 2009, pp. 813â€“826.
+>>> DOI >>> 10.1145/1559845.1559930
+>>> URL >>> http://dx.doi.org/10.1145/1559845.1559930
+>>> year >>> 2009.0
+>>> title >>> 3-HOP
+>>> author >>> Ruoming Jin and Yang Xiang and Ning Ruan and David Fuhry
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 38.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 35th SIGMOD international conference on Management of data - SIGMOD '09"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T02:10:44Z', 'timestamp': 1525486244109}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605585512', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1145/1559845.1559930', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 7, 8]], 'date-time': '2009-07-08T17:34:19Z', 'timestamp': 1247074459000}, 'source': 'Crossref', 'is-referenced-by-count': 38, 'title': ['3-HOP'], 'prefix': '10.1145', 'author': [{'given': 'Ruoming', 'family': 'Jin', 'sequence': 'first', 'affiliation': []}, {'given': 'Yang', 'family': 'Xiang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ning', 'family': 'Ruan', 'sequence': 'additional', 'affiliation': []}, {'given': 'David', 'family': 'Fuhry', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 35th SIGMOD international conference', 'location': 'Providence, Rhode Island, USA', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '09", 'number': '35', 'start': {'date-parts': [[2009, 6, 29]]}, 'end': {'date-parts': [[2009, 7, 2]]}}, 'container-title': ["Proceedings of the 35th SIGMOD international conference on Management of data - SIGMOD '09"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1559930&amp;ftid=627789&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T04:52:41Z', 'timestamp': 1481086361000}, 'score': 101.62296, 'subtitle': ['a high-compression indexing scheme for reachability query'], 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781605585512'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1559845.1559930'}
+>>> hash >>> ('3-HOP', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Huang, K. Venkatraman, and D. J. Abadi, â€œQuery optimization of distributed pattern matching,â€\x9d in Proc. IEEE 25th Int. Conf. Data Eng., 2014, pp. 64â€“75.
+>>> DOI >>> 10.1109/icde.2014.6816640
+>>> URL >>> http://dx.doi.org/10.1109/icde.2014.6816640
+>>> year >>> 2014.0
+>>> title >>> Query optimization of distributed pattern matching
+>>> author >>> Jiewen Huang and Kartik Venkatraman and Daniel J. Abadi
+>>> reference_count >>> 39.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['2014 IEEE 30th International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T14:18:21Z', 'timestamp': 1525789101327}, 'reference-count': 39, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781479925551', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2014, 3]]}, 'DOI': '10.1109/icde.2014.6816640', 'type': 'proceedings-article', 'created': {'date-parts': [[2014, 5, 30]], 'date-time': '2014-05-30T18:28:25Z', 'timestamp': 1401474505000}, 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Query optimization of distributed pattern matching'], 'prefix': '10.1109', 'author': [{'given': 'Jiewen', 'family': 'Huang', 'sequence': 'first', 'affiliation': []}, {'given': 'Kartik', 'family': 'Venkatraman', 'sequence': 'additional', 'affiliation': []}, {'given': 'Daniel J.', 'family': 'Abadi', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2014 IEEE 30th International Conference on Data Engineering (ICDE)', 'location': 'Chicago, IL, USA', 'start': {'date-parts': [[2014, 3, 31]]}, 'end': {'date-parts': [[2014, 4, 4]]}}, 'container-title': ['2014 IEEE 30th International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6811095/6816620/06816640.pdf?arnumber=6816640', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T14:07:11Z', 'timestamp': 1498140431000}, 'score': 65.813324, 'issued': {'date-parts': [[2014, 3]]}, 'ISBN': ['9781479925551'], 'references-count': 39, 'URL': 'http://dx.doi.org/10.1109/icde.2014.6816640'}
+>>> hash >>> ('Query optimization of distributed pattern matching', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Cheng, J. X. Yu, B. Ding, P. S. Yu, and H. Wang, â€œFast graph pattern matching,â€\x9d in Proc. IEEE 25th Int. Conf. Data Eng., 2008, pp. 913â€“922.
+>>> DOI >>> 10.1109/icde.2008.4497500
+>>> URL >>> http://dx.doi.org/10.1109/icde.2008.4497500
+>>> year >>> 2008.0
+>>> title >>> Fast Graph Pattern Matching
+>>> author >>> Jiefeng Cheng and Jeffrey Xu Yu and Bolin Ding and Philip S. Yu and Haixun Wang
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 25.0
+>>> subject >>> None
+>>> container_title >>> ['2008 IEEE 24th International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T09:20:05Z', 'timestamp': 1525425605249}, 'reference-count': 32, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424418374', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 4]]}, 'DOI': '10.1109/icde.2008.4497500', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 4, 29]], 'date-time': '2008-04-29T19:04:39Z', 'timestamp': 1209495879000}, 'source': 'Crossref', 'is-referenced-by-count': 25, 'title': ['Fast Graph Pattern Matching'], 'prefix': '10.1109', 'author': [{'given': 'Jiefeng', 'family': 'Cheng', 'sequence': 'first', 'affiliation': []}, {'given': 'Jeffrey Xu', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Bolin', 'family': 'Ding', 'sequence': 'additional', 'affiliation': []}, {'given': 'Philip S.', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Haixun', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2008 IEEE 24th International Conference on Data Engineering (ICDE 2008)', 'location': 'Cancun, Mexico', 'start': {'date-parts': [[2008, 4, 7]]}, 'end': {'date-parts': [[2008, 4, 12]]}}, 'container-title': ['2008 IEEE 24th International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4492792/4497384/04497500.pdf?arnumber=4497500', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T22:48:29Z', 'timestamp': 1489704509000}, 'score': 66.90214, 'issued': {'date-parts': [[2008, 4]]}, 'ISBN': ['9781424418367', '9781424418374'], 'references-count': 32, 'URL': 'http://dx.doi.org/10.1109/icde.2008.4497500'}
+>>> hash >>> ('Fast Graph Pattern Matching', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Fan, X. Wang, and Y. Wu, â€œDiversified top-k graph pattern matching,â€\x9d in Proc. 30th Int. Conf. Very Large Data Bases, 2014, pp. 1510â€“1521.
+>>> DOI >>> 10.14778/2536258.2536263
+>>> URL >>> http://dx.doi.org/10.14778/2536258.2536263
+>>> year >>> 2013.0
+>>> title >>> Diversified top-k graph pattern matching
+>>> author >>> Wenfei Fan and Xin Wang and Yinghui Wu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 20.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T18:02:38Z', 'timestamp': 1527271358187}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '13', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2013, 8, 29]]}, 'DOI': '10.14778/2536258.2536263', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '1510-1521', 'source': 'Crossref', 'is-referenced-by-count': 20, 'title': ['Diversified top-k graph pattern matching'], 'prefix': '10.14778', 'volume': '6', 'author': [{'given': 'Wenfei', 'family': 'Fan', 'sequence': 'first', 'affiliation': []}, {'given': 'Xin', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yinghui', 'family': 'Wu', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:32:21Z', 'timestamp': 1403613141000}, 'score': 55.900093, 'issued': {'date-parts': [[2013, 8, 29]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2013, 8, 29]]}, 'issue': '13'}, 'URL': 'http://dx.doi.org/10.14778/2536258.2536263', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('Diversified top-k graph pattern matching', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. M. Jaffe, â€œAlgorithms for finding paths with multiple constraints,â€\x9d Netw., vol. 14, pp. 95â€“116, 1984.
+>>> DOI >>> 10.1002/net.3230140109
+>>> URL >>> http://dx.doi.org/10.1002/net.3230140109
+>>> year >>> 1984.0
+>>> title >>> Algorithms for finding paths with multiple constraints
+>>> author >>> Jeffrey M. Jaffe
+>>> reference_count >>> 6.0
+>>> is_referenced_by_count >>> 221.0
+>>> subject >>> None
+>>> container_title >>> ['Networks']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 17]], 'date-time': '2018-05-17T02:02:27Z', 'timestamp': 1526522547702}, 'reference-count': 6, 'publisher': 'Wiley', 'issue': '1', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 11566, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Networks'], 'published-print': {'date-parts': [[1984]]}, 'DOI': '10.1002/net.3230140109', 'type': 'journal-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T17:23:15Z', 'timestamp': 1178904195000}, 'page': '95-116', 'source': 'Crossref', 'is-referenced-by-count': 221, 'title': ['Algorithms for finding paths with multiple constraints'], 'prefix': '10.1002', 'volume': '14', 'author': [{'given': 'Jeffrey M.', 'family': 'Jaffe', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'reference': [{'key': '10.1002/net.3230140109-BIB1', 'author': 'Aho', 'year': '1974', 'unstructured': ', and , The Design and Analysis of Computer Algorithms. Addison-Wesley, Reading, MA (1974).', 'volume-title': 'The Design and Analysis of Computer Algorithms'}, {'key': '10.1002/net.3230140109-BIB2', 'author': 'Dwight', 'year': '1961', 'unstructured': 'Tables of Integrals and Other Mathematical Data. MacMillan, NY (1961).', 'volume-title': 'Tables of Integrals and Other Mathematical Data'}, {'key': '10.1002/net.3230140109-BIB3', 'author': 'Garey', 'year': '1979', 'unstructured': 'and , Computers and Intractability, A Guide to the Theory of NP-Completeness. Freeman, San Francisco (1979).', 'volume-title': 'Computers and Intractability, A Guide to the Theory of NP-Completeness'}, {'key': '10.1002/net.3230140109-BIB4', 'author': 'Jaffe', 'year': '1980', 'unstructured': '“Algorithms for finding paths with multiple constraints”. IBM RC 8205, April, 1980.'}, {'key': '10.1002/net.3230140109-BIB5', 'author': 'Merlin', 'year': '1979', 'unstructured': 'and , “A failsafe distributed routing protocol”. IEEE Trans. Comm. COM-27 (1979) 1230–1237.'}, {'key': '10.1002/net.3230140109-BIB6', 'author': 'Tajibnapis', 'volume': '20', 'first-page': '477', 'year': '1977', 'journal-title': 'Comm. ACM'}], 'container-title': ['Networks'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fnet.3230140109', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 4, 9]], 'date-time': '2017-04-09T01:58:48Z', 'timestamp': 1491703128000}, 'score': 55.467735, 'issued': {'date-parts': [[1984]]}, 'references-count': 6, 'journal-issue': {'published-print': {'date-parts': [[1984]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1002/net.3230140109', 'relation': {'cites': []}, 'ISSN': ['0028-3045', '1097-0037'], 'issn-type': [{'value': '0028-3045', 'type': 'print'}, {'value': '1097-0037', 'type': 'electronic'}]}
+>>> hash >>> ('Algorithms for finding paths with multiple constraints', 1984.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Biggs, E. Lloyd, and R. Wilson, Graph Theory. Oxford, U.K.: Oxford University Press, 1986.
+>>> DOI >>> 10.1017/s0025557200108976
+>>> URL >>> http://dx.doi.org/10.1017/s0025557200108976
+>>> year >>> 1987.0
+>>> title >>> Graph theory 1736-1936, by N. L. Biggs, E. K. Lloyd and R. J. Wilson. Pp 239. £15 (paperback). 1986. ISBN 0-19-853916-9 (Oxford University Press)
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['The Mathematical Gazette']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 17]], 'date-time': '2018-04-17T07:21:55Z', 'timestamp': 1523949715128}, 'reference-count': 0, 'publisher': 'Cambridge University Press (CUP)', 'issue': '456', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Math. Gaz.'], 'published-print': {'date-parts': [[1987, 6]]}, 'DOI': '10.1017/s0025557200108976', 'type': 'journal-article', 'created': {'date-parts': [[2016, 8, 8]], 'date-time': '2016-08-08T02:43:12Z', 'timestamp': 1470624192000}, 'page': '177', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Graph theory 1736-1936, by N. L. Biggs, E. K. Lloyd and R. J. Wilson. Pp 239. £15 (paperback). 1986. ISBN 0-19-853916-9 (Oxford University Press)'], 'prefix': '10.1017', 'volume': '71', 'member': '56', 'published-online': {'date-parts': [[2016, 8, 1]]}, 'container-title': ['The Mathematical Gazette'], 'language': 'en', 'link': [{'URL': 'https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0025557200108976', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 4, 21]], 'date-time': '2017-04-21T17:21:33Z', 'timestamp': 1492795293000}, 'score': 42.991135, 'issued': {'date-parts': [[1987, 6]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1987, 6]]}, 'issue': '456'}, 'alternative-id': ['S0025557200108976'], 'URL': 'http://dx.doi.org/10.1017/s0025557200108976', 'ISSN': ['0025-5572', '2056-6328'], 'issn-type': [{'value': '0025-5572', 'type': 'print'}, {'value': '2056-6328', 'type': 'electronic'}]}
+>>> hash >>> ('Graph theory 1736-1936, by N. L. Biggs, E. K. Lloyd and R. J. Wilson. Pp 239. £15 (paperback). 1986. ISBN 0-19-853916-9 (Oxford University Press)', 1987.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Tang, J. Zhang, L. Yan, J. Li, L. Zhang, and Z. Su, â€œArnetMiner: Extraction and mining of academic social networks,â€\x9d in Proc. 17th ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining, 2008, pp. 990â€“998.
+>>> DOI >>> 10.1145/1401890.1402008
+>>> URL >>> http://dx.doi.org/10.1145/1401890.1402008
+>>> year >>> 2008.0
+>>> title >>> ArnetMiner
+>>> author >>> Jie Tang and Jing Zhang and Limin Yao and Juanzi Li and Li Zhang and Zhong Su
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 350.0
+>>> subject >>> None
+>>> container_title >>> ['Proceeding of the 14th ACM SIGKDD international conference on Knowledge discovery and data mining - KDD 08']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T09:42:30Z', 'timestamp': 1528278150465}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605581934', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.1145/1401890.1402008', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 8, 27]], 'date-time': '2008-08-27T11:56:41Z', 'timestamp': 1219838201000}, 'source': 'Crossref', 'is-referenced-by-count': 350, 'title': ['ArnetMiner'], 'prefix': '10.1145', 'author': [{'given': 'Jie', 'family': 'Tang', 'sequence': 'first', 'affiliation': []}, {'given': 'Jing', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Limin', 'family': 'Yao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Juanzi', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}, {'given': 'Li', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Zhong', 'family': 'Su', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 14th ACM SIGKDD international conference', 'location': 'Las Vegas, Nevada, USA', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGKDD, ACM Special Interest Group on Knowledge Discovery in Data', 'SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "KDD '08", 'number': '14', 'start': {'date-parts': [[2008, 8, 24]]}, 'end': {'date-parts': [[2008, 8, 27]]}}, 'container-title': ['Proceeding of the 14th ACM SIGKDD international conference on Knowledge discovery and data mining - KDD 08'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1402008&amp;ftid=524640&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T10:42:30Z', 'timestamp': 1481884950000}, 'score': 88.85673, 'subtitle': ['extraction and mining of academic social networks'], 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9781605581934'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1401890.1402008'}
+>>> hash >>> ('ArnetMiner', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y. Zhu, L. Qin, J. X. Xu, and H. Cheng, â€œFinding top-k similar graphs in graph databases,â€\x9d in Proc. 15th Int. Conf. Extending Database Technol., 2012, pp. 456â€“467.
+>>> DOI >>> 10.1145/2247596.2247650
+>>> URL >>> http://dx.doi.org/10.1145/2247596.2247650
+>>> year >>> 2012.0
+>>> title >>> Finding top-k similar graphs in graph databases
+>>> author >>> Yuanyuan Zhu and Lu Qin and Jeffrey Xu Yu and Hong Cheng
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 14.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 15th International Conference on Extending Database Technology - EDBT '12"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T04:02:38Z', 'timestamp': 1527220958432}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450307901', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012]]}, 'DOI': '10.1145/2247596.2247650', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 6, 11]], 'date-time': '2012-06-11T13:03:31Z', 'timestamp': 1339419811000}, 'source': 'Crossref', 'is-referenced-by-count': 14, 'title': ['Finding top-k similar graphs in graph databases'], 'prefix': '10.1145', 'author': [{'given': 'Yuanyuan', 'family': 'Zhu', 'sequence': 'first', 'affiliation': []}, {'given': 'Lu', 'family': 'Qin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jeffrey Xu', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Hong', 'family': 'Cheng', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 15th International Conference', 'location': 'Berlin, Germany', 'acronym': "EDBT '12", 'number': '15', 'start': {'date-parts': [[2012, 3, 27]]}, 'end': {'date-parts': [[2012, 3, 30]]}}, 'container-title': ["Proceedings of the 15th International Conference on Extending Database Technology - EDBT '12"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2247650&amp;ftid=1233252&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T22:23:16Z', 'timestamp': 1481062996000}, 'score': 74.21612, 'issued': {'date-parts': [[2012]]}, 'ISBN': ['9781450307901'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/2247596.2247650'}
+>>> hash >>> ('Finding top-k similar graphs in graph databases', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Cheng, X. Zeng, and J. X. Yu, â€œTop-k graph pattern matching over large graphs,â€\x9d in Proc. IEEE 25th Int. Conf. Data Eng., 2013, pp. 1033â€“1044.
+>>> DOI >>> 10.1109/icde.2013.6544895
+>>> URL >>> http://dx.doi.org/10.1109/icde.2013.6544895
+>>> year >>> 2013.0
+>>> title >>> Top-k graph pattern matching over large graphs
+>>> author >>> None
+>>> reference_count >>> 40.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['2013 IEEE 29th International Conference on Data Engineering (ICDE)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T19:42:03Z', 'timestamp': 1525722123630}, 'reference-count': 40, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467349093', 'type': 'print'}, {'value': '9781467349086', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013, 4]]}, 'DOI': '10.1109/icde.2013.6544895', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 6, 26]], 'date-time': '2013-06-26T19:02:52Z', 'timestamp': 1372273372000}, 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Top-k graph pattern matching over large graphs'], 'prefix': '10.1109', 'author': [{'family': 'Jiefeng Cheng', 'sequence': 'first', 'affiliation': []}, {'family': 'Xianggang Zeng', 'sequence': 'additional', 'affiliation': []}, {'given': 'J. X.', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2013 29th IEEE International Conference on Data Engineering (ICDE 2013)', 'location': 'Brisbane, QLD', 'start': {'date-parts': [[2013, 4, 8]]}, 'end': {'date-parts': [[2013, 4, 12]]}}, 'container-title': ['2013 IEEE 29th International Conference on Data Engineering (ICDE)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6530811/6544790/06544895.pdf?arnumber=6544895', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 21]], 'date-time': '2017-06-21T15:18:46Z', 'timestamp': 1498058326000}, 'score': 72.203545, 'issued': {'date-parts': [[2013, 4]]}, 'ISBN': ['9781467349109', '9781467349093', '9781467349086'], 'references-count': 40, 'URL': 'http://dx.doi.org/10.1109/icde.2013.6544895'}
+>>> hash >>> ('Top-k graph pattern matching over large graphs', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Fan, X. Wang, and Y. Wu, â€œQuerying big graphs within bounded resources,â€\x9d in Proc. ACM SIGMOD Int. Conf. Manag. Data, 2014, pp. 301â€“312.
+>>> DOI >>> 10.1145/2588555.2610513
+>>> URL >>> http://dx.doi.org/10.1145/2588555.2610513
+>>> year >>> 2014.0
+>>> title >>> Querying big graphs within bounded resources
+>>> author >>> Wenfei Fan and Xin Wang and Yinghui Wu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 14.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2014 ACM SIGMOD international conference on Management of data - SIGMOD '14"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T13:22:34Z', 'timestamp': 1527254554858}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450323765', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2014]]}, 'DOI': '10.1145/2588555.2610513', 'type': 'proceedings-article', 'created': {'date-parts': [[2014, 6, 20]], 'date-time': '2014-06-20T13:06:05Z', 'timestamp': 1403269565000}, 'source': 'Crossref', 'is-referenced-by-count': 14, 'title': ['Querying big graphs within bounded resources'], 'prefix': '10.1145', 'author': [{'given': 'Wenfei', 'family': 'Fan', 'sequence': 'first', 'affiliation': []}, {'given': 'Xin', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yinghui', 'family': 'Wu', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2014 ACM SIGMOD international conference', 'location': 'Snowbird, Utah, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '14", 'number': '2014', 'start': {'date-parts': [[2014, 6, 22]]}, 'end': {'date-parts': [[2014, 6, 27]]}}, 'container-title': ["Proceedings of the 2014 ACM SIGMOD international conference on Management of data - SIGMOD '14"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2610513&amp;ftid=1474595&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T00:39:17Z', 'timestamp': 1481071157000}, 'score': 70.34441, 'issued': {'date-parts': [[2014]]}, 'ISBN': ['9781450323765'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/2588555.2610513'}
+>>> hash >>> ('Querying big graphs within bounded resources', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Reutter, M. Romero, and M. Y. Vardi, â€œRegular queries on graph databases,â€\x9d in Proc. IEEE 25th Int. Conf. Data Eng., 2015, pp. 1â€“18.
+>>> DOI >>> 10.1007/s00224-016-9676-2
+>>> URL >>> http://dx.doi.org/10.1007/s00224-016-9676-2
+>>> year >>> 2016.0
+>>> title >>> Regular Queries on Graph Databases
+>>> author >>> Juan L. Reutter and Miguel Romero and Moshe Y. Vardi
+>>> reference_count >>> 46.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['Theory of Computing Systems']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T14:22:44Z', 'timestamp': 1527258164162}, 'reference-count': 46, 'publisher': 'Springer Nature', 'issue': '1', 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2016, 4, 16]], 'date-time': '2016-04-16T00:00:00Z', 'timestamp': 1460764800000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': ['link.springer.com'], 'crossmark-restriction': False}, 'short-container-title': ['Theory Comput Syst'], 'published-print': {'date-parts': [[2017, 7]]}, 'DOI': '10.1007/s00224-016-9676-2', 'type': 'journal-article', 'created': {'date-parts': [[2016, 4, 16]], 'date-time': '2016-04-16T04:16:23Z', 'timestamp': 1460780183000}, 'page': '31-83', 'update-policy': 'http://dx.doi.org/10.1007/springer_crossmark_policy', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Regular Queries on Graph Databases'], 'prefix': '10.1007', 'volume': '61', 'author': [{'given': 'Juan L.', 'family': 'Reutter', 'sequence': 'first', 'affiliation': []}, {'given': 'Miguel', 'family': 'Romero', 'sequence': 'additional', 'affiliation': []}, {'given': 'Moshe Y.', 'family': 'Vardi', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2016, 4, 16]]}, 'reference': [{'key': '9676_CR1', 'unstructured': 'Abiteboul, S., Hull, R., Vianu, V.: Foundations of databases Addison-Wesley (1995)'}, {'key': '9676_CR2', 'unstructured': 'Angles, R., Gutierrez, C.: Survey of graph database models. ACM Comput. Surv 40(1) (2008)', 'DOI': '10.1145/1322432.1322433', 'doi-asserted-by': 'crossref'}, {'issue': '4', 'key': '9676_CR3', 'doi-asserted-by': 'crossref', 'first-page': '6', 'DOI': '10.1145/2430456.2430458', 'volume': '41', 'author': 'M Arenas', 'year': '2013', 'unstructured': 'Arenas, M., Gutierrez, C., Miranker, D.P., Pérez, J., Sequeda, J.F.: Querying semantic data on the web? ACM SIGMOD Rec 41(4), 6–17 (2013)', 'journal-title': 'ACM SIGMOD Rec'}, {'key': '9676_CR4', 'unstructured': 'Arenas, M., Pérez, J.: Querying semantic web data with sparql. In: PODS, pp 305–316 (2011)', 'DOI': '10.1145/1989284.1989312', 'doi-asserted-by': 'crossref'}, {'issue': '4', 'key': '9676_CR5', 'doi-asserted-by': 'crossref', 'first-page': '31', 'DOI': '10.1145/2389241.2389250', 'volume': '37', 'author': 'P Barcelo', 'year': '2012', 'unstructured': 'Barcelo, P., Libkin, L., Lin, A.W., Wood, P.T.: Expressive languages for path queries over graph-structured data. ACM TODS 37(4), 31 (2012)', 'journal-title': 'ACM TODS'}, {'key': '9676_CR6', 'unstructured': 'Barceló, P., Pérez, J., Reutter, J.L.: Relative expressiveness of nested regular expressions. In: AMW, pp 180–195 (2012)'}, {'key': '9676_CR7', 'unstructured': 'Barcelo, P., Romero, M., Vardi, M.Y.: Semantic acyclicity on graph databases. In: PODS, pp 237–248 (2013)'}, {'key': '9676_CR8', 'unstructured': 'Barceló Baeza, P.: Querying graph databases. In: PODS, pp 175–188 (2013)', 'DOI': '10.1145/2463664.2465216', 'doi-asserted-by': 'crossref'}, {'key': '9676_CR9', 'unstructured': 'Bienvenu, M., Calvanese, D., Ortiz, M., Simkus, M.: Nested regular path queries in description logics. In: KR (2014)'}, {'key': '9676_CR10', 'unstructured': 'Bienvenu, M., Ortiz, M., Šimkus, M.: Conjunctive regular path queries in lightweight description logics. In: IJCAI, pp 761–767 (2013)'}, {'key': '9676_CR11', 'unstructured': 'Bienvenu, M., Ortiz, M., Šimkus, M.: Navigational queries based on frontier-guarded datalog Preliminary results. In: Alberto Mendelzon International Workshop on Foundations of Data Management, p 162 (2015)'}, {'key': '9676_CR12', 'unstructured': 'Bourhis, P., Krötzsch, M., Rudolph, S.: How to best nest regular path queries. In: Description Logics (2014)'}, {'key': '9676_CR13', 'unstructured': 'Bourhis, P., Krötzsch, M., Rudolph, S.: Query containment for highly expressive datalog fragments. preprint arXiv: \n                        1406.7801\n                        \n                     (2014)'}, {'key': '9676_CR14', 'unstructured': 'Bourhis, P., Krötzsch, M., Rudolph, S.: Reasonable highly expressive query languages. In: IJCAI, pp 2826–2832 (2015)'}, {'key': '9676_CR15', 'unstructured': 'Buneman, P.: Semistructured data. In: Proceedings of the sixteenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, pp 117–121 (1997)', 'DOI': '10.1145/263661.263675', 'doi-asserted-by': 'crossref'}, {'issue': '2', 'key': '9676_CR16', 'doi-asserted-by': 'crossref', 'first-page': '505', 'DOI': '10.1145/235968.233368', 'volume': '25', 'author': 'P Buneman', 'year': '1996', 'unstructured': 'Buneman, P., Davidson, S., Hillebrand, G., Suciu, D.: A query language and optimization techniques for unstructured data. ACM SIGMOD Rec 25(2), 505–516 (1996)', 'journal-title': 'ACM SIGMOD Rec'}, {'key': '9676_CR17', 'unstructured': 'Calvanese, D., De Giacomo, G., Lenzerini, M., Vardi, M.: Containment of conjunctive regular path queries with inverse. In: 7th International Conference on Principles of Knowledge Representation and Reasoning (KR), pp 176–185 (2000)'}, {'issue': '3', 'key': '9676_CR18', 'doi-asserted-by': 'crossref', 'first-page': '443', 'DOI': '10.1006/jcss.2001.1805', 'volume': '64', 'author': 'D Calvanese', 'year': '2002', 'unstructured': 'Calvanese, D., De Giacomo, G., Lenzerini, M., Vardi, M.: Rewriting of regular expressions and regular path queries. J. Comput. Syst. Sci 64(3), 443–465 (2002)', 'journal-title': 'J. Comput. Syst. Sci'}, {'issue': '1', 'key': '9676_CR19', 'doi-asserted-by': 'crossref', 'first-page': '33', 'DOI': '10.1016/j.tcs.2004.10.031', 'volume': '336', 'author': 'D Calvanese', 'year': '2005', 'unstructured': 'Calvanese, D., De Giacomo, G., Vardi, M.Y.: Decidable containment of recursive queries. Theor. Comput. Sci 336(1), 33–56 (2005)', 'journal-title': 'Theor. Comput. Sci'}, {'key': '9676_CR20', 'unstructured': 'Calvanese, D., Giacomo, G.D., Lenzerini, M.: Conjunctive query containment and answering under description logic constraints. ACM Trans. Comput. Log 9(3) (2008)', 'DOI': '10.1145/1352582.1352590', 'doi-asserted-by': 'crossref'}, {'key': '9676_CR21', 'unstructured': 'Chandra, A.K., Merlin, P.M.: Optimal implementation of conjunctive queries in relational data bases. In: Proceedings of the ninth annual ACM symposium on Theory of computing, pp 77–90 (1977)', 'DOI': '10.1145/800105.803397', 'doi-asserted-by': 'crossref'}, {'key': '9676_CR22', 'unstructured': 'Chaudhuri, S., Krishnamurthy, R., Potamianos, S., Shim, K.: Optimizing queries with materialized views. In: 2013 IEEE 29Th International Conference on Data Engineering (ICDE), p 1995', 'DOI': '10.1109/ICDE.1995.380392', 'doi-asserted-by': 'crossref'}, {'key': '9676_CR23', 'unstructured': 'Chaudhuri, S., Vardi, M.Y.: On the equivalence of recursive and nonrecursive datalog programs. In: Proceedings of the eleventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, pp 55–66 (1992)', 'DOI': '10.1145/137097.137109', 'doi-asserted-by': 'crossref'}, {'issue': '2', 'key': '9676_CR24', 'doi-asserted-by': 'crossref', 'first-page': '211', 'DOI': '10.1016/S0304-3975(99)00220-0', 'volume': '239', 'author': 'C Chekuri', 'year': '2000', 'unstructured': 'Chekuri, C., Rajaraman, A.: Conjunctive query containment revisited. Theor. Comput. Sci 239(2), 211–229 (2000)', 'journal-title': 'Theor. Comput. Sci'}, {'key': '9676_CR25', 'unstructured': 'Consens, M., Mendelzon, A.: Graphlog: A visual forMalism for real life recursion. In: 9th ACM Symposium on Principles of Database Systems (PODS), pp 404–416 (1990)', 'DOI': '10.1145/298514.298591', 'doi-asserted-by': 'crossref'}, {'issue': '1', 'key': '9676_CR26', 'doi-asserted-by': 'crossref', 'first-page': '12', 'DOI': '10.1016/0890-5401(90)90043-H', 'volume': '85', 'author': 'B Courcelle', 'year': '1990', 'unstructured': 'Courcelle, B.: The monadic second-order logic of graphs. i. recognizable sets of finite graphs. Inf. Comput 85(1), 12–75 (1990)', 'journal-title': 'Inf. Comput'}, {'issue': '1', 'key': '9676_CR27', 'doi-asserted-by': 'crossref', 'first-page': '217', 'DOI': '10.1016/0304-3975(51)90009-6', 'volume': '78', 'author': 'B Courcelle', 'year': '1991', 'unstructured': 'Courcelle, B.: Recursive queries and context-free graph grammars. Theor. Comput. Sci 78(1), 217–244 (1991)', 'journal-title': 'Theor. Comput. Sci'}, {'key': '9676_CR28', 'unstructured': 'Cruz, I., Mendelzon, A., Wood, P.: A graphical query language supporting recursion. In: ACM Special Interest Group on Management of Data 1987 Annual Conference (SIGMOD), pp 323–330 (1987)', 'DOI': '10.1145/38713.38749', 'doi-asserted-by': 'crossref'}, {'key': '9676_CR29', 'unstructured': 'Dalmau, V., Kolaitis, P.G., Vardi, M.Y.: Constraint satisfaction, bounded treewidth, and finite-variable logics. In: Principles and Practice of Constraint Programming-CP 2002, pp 310–326. Springer (2002)', 'DOI': '10.1007/3-540-46135-3_21', 'doi-asserted-by': 'crossref'}, {'key': '9676_CR30', 'unstructured': 'Fagin, R., Vardi, M.Y.: The theory of data dependenciesan overview. In: Automata, Languages and Programming, pp 1–22. Springer (1984)'}, {'key': '9676_CR31', 'unstructured': 'Fan, W.: Graph pattern matching revised for social network analysis. In: Proceedings of the 15th International Conference on Database Theory, pp 8–21 (2012)', 'DOI': '10.1145/2274576.2274578', 'doi-asserted-by': 'crossref'}, {'key': '9676_CR32', 'unstructured': 'Fernandez, M., Florescu, D., Levy, A., Suciu, D.: Verifying integrity constraints on web sites. In: IJCAI, vol. 99, pp 614–619 (1999)'}, {'key': '9676_CR33', 'doi-asserted-by': 'crossref', 'first-page': '390', 'DOI': '10.1016/j.ins.2014.11.031', 'volume': '298', 'author': 'GH Fletcher', 'year': '2015', 'unstructured': 'Fletcher, G.H., Gyssens, M., Leinders, D., Surinx, D., Van den Bussche, J., Van Gucht, D., Vansummeren, S., Wu, Y.: Relative expressive power of navigational querying on graphs. Inf. Sci 298, 390–406 (2015)', 'journal-title': 'Inf. Sci'}, {'issue': '3', 'key': '9676_CR34', 'doi-asserted-by': 'crossref', 'first-page': '59', 'DOI': '10.1145/290593.290605', 'volume': '27', 'author': 'D Florescu', 'year': '1998', 'unstructured': 'Florescu, D., Levy, A.Y., Mendelzon, A.O.: Database techniques for the world-wide web: A survey. SIGMOD Rec 27(3), 59–74 (1998)', 'journal-title': 'SIGMOD Rec'}, {'key': '9676_CR35', 'first-page': '67', 'volume': '1999', 'author': 'M Friedman', 'year': '1999', 'unstructured': 'Friedman, M., Levy, A.Y., Millstein, T.D., etal: Navigational plans for data integration. AAAI/IAAI 1999, 67–73 (1999)', 'journal-title': 'AAAI/IAAI'}, {'issue': '4', 'key': '9676_CR36', 'doi-asserted-by': 'crossref', 'first-page': '761', 'DOI': '10.1145/1634.1886', 'volume': '31', 'author': 'T Imielinski', 'year': '1984', 'unstructured': 'Imielinski, T., Lipski, W.: Incomplete information in relational databases. J. ACM 31(4), 761–791 (1984)', 'journal-title': 'J. ACM'}, {'key': '9676_CR37', 'unstructured': 'Kostylev, E.V., Reutter, J.L., Vrgoc, D.: Containment of data graph queries. In: ICDT, pp 131–142 (2014)'}, {'key': '9676_CR38', 'unstructured': 'Lacroix, Z., Murthy, H., Naumann, F., Raschid, L.: Links and paths through life sciences data sources. In: Data Integration in the Life Sciences, pp 203–211. Springer (2004)', 'DOI': '10.1007/978-3-540-24745-6_14', 'doi-asserted-by': 'crossref'}, {'key': '9676_CR39', 'unstructured': 'Libkin, L., Martens, W., Vrgo\u010d, D.: Querying graph databases with xpath. In: Proceedings of the 16th International Conference on Database Theory, pp 129–140 (2013)', 'DOI': '10.1145/2448496.2448513', 'doi-asserted-by': 'crossref'}, {'key': '9676_CR40', 'unstructured': 'Libkin, L., Reutter, J., Vrgo\u010d, D.: Trial for rdf: adapting graph query languages for rdf data. In: PODS, pp 201–212 (2013)', 'DOI': '10.1145/2463664.2465226', 'doi-asserted-by': 'crossref'}, {'issue': '4', 'key': '9676_CR41', 'doi-asserted-by': 'crossref', 'first-page': '255', 'DOI': '10.1016/j.websem.2010.01.002', 'volume': '8', 'author': 'J Pérez', 'year': '2010', 'unstructured': 'Pérez, J., Arenas, M., Gutierrez, C.: nSPARQL: A navigational language for RDF. J. Web Semant 8(4), 255–270 (2010)', 'journal-title': 'J. Web Semant'}, {'key': '9676_CR42', 'unstructured': 'Reutter, J.L., Romero, M., Vardi, M.Y.: Regular queries on graph databases. In: 18th International Conference on Database Theory (ICDT 2015), vol. 31, pp 177–194 (2015)'}, {'key': '9676_CR43', 'unstructured': 'Rudolph, S., Krötzsch, M.: Flag & check: Data access with monadically defined queries. In: Proceedings of the 32nd symposium on Principles of database systems, pp 151–162 (2013)', 'DOI': '10.1145/2463664.2465227', 'doi-asserted-by': 'crossref'}, {'issue': '4', 'key': '9676_CR44', 'doi-asserted-by': 'crossref', 'first-page': '633', 'DOI': '10.1145/322217.322221', 'volume': '27', 'author': 'Y Sagiv', 'year': '1980', 'unstructured': 'Sagiv, Y., Yannakakis, M.: Equivalences among relational expressions with the union and difference operators. J. ACM (JACM) 27(4), 633–655 (1980)', 'journal-title': 'J. ACM (JACM)'}, {'key': '9676_CR45', 'unstructured': 'Ullman, J.D.: Principles of database and Knowledge-Base systems computer science press (1989)'}, {'key': '9676_CR46', 'unstructured': 'Vorobyov, S., Voronkov, A.: Complexity of nonrecursive logic programs with complex values. In: PODS, pp 244–253 (1998)', 'DOI': '10.1145/275487.275515', 'doi-asserted-by': 'crossref'}], 'container-title': ['Theory of Computing Systems'], 'language': 'en', 'link': [{'URL': 'http://link.springer.com/article/10.1007/s00224-016-9676-2/fulltext.html', 'content-type': 'text/html', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://link.springer.com/content/pdf/10.1007/s00224-016-9676-2.pdf', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://link.springer.com/content/pdf/10.1007/s00224-016-9676-2', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}, {'URL': 'http://link.springer.com/content/pdf/10.1007/s00224-016-9676-2.pdf', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 5, 31]], 'date-time': '2017-05-31T01:01:08Z', 'timestamp': 1496192468000}, 'score': 46.345463, 'issued': {'date-parts': [[2016, 4, 16]]}, 'references-count': 46, 'journal-issue': {'published-print': {'date-parts': [[2017, 7]]}, 'issue': '1'}, 'alternative-id': ['9676'], 'URL': 'http://dx.doi.org/10.1007/s00224-016-9676-2', 'relation': {'cites': []}, 'ISSN': ['1432-4350', '1433-0490'], 'issn-type': [{'value': '1432-4350', 'type': 'print'}, {'value': '1433-0490', 'type': 'electronic'}]}
+>>> hash >>> ('Regular Queries on Graph Databases', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. Liu, et al., â€œMulti-constrained graph pattern matching in largescale contextual social graphs,â€\x9d in Proc. IEEE 25th Int. Conf. Data Eng., 2015, pp. 351â€“362.
+>>> DOI >>> 10.1109/icde.2015.7113297
+>>> URL >>> http://dx.doi.org/10.1109/icde.2015.7113297
+>>> year >>> 2015.0
+>>> title >>> Multi-Constrained Graph Pattern Matching in large-scale contextual social graphs
+>>> author >>> Guanfeng Liu and Kai Zheng and Yan Wang and Mehmet A. Orgun and An Liu and Lei Zhao and Xiaofang Zhou
+>>> reference_count >>> 34.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ['2015 IEEE 31st International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T04:02:38Z', 'timestamp': 1527220958430}, 'reference-count': 34, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781479979646', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2015, 4]]}, 'DOI': '10.1109/icde.2015.7113297', 'type': 'proceedings-article', 'created': {'date-parts': [[2015, 6, 3]], 'date-time': '2015-06-03T19:23:28Z', 'timestamp': 1433359408000}, 'source': 'Crossref', 'is-referenced-by-count': 8, 'title': ['Multi-Constrained Graph Pattern Matching in large-scale contextual social graphs'], 'prefix': '10.1109', 'author': [{'given': 'Guanfeng', 'family': 'Liu', 'sequence': 'first', 'affiliation': []}, {'given': 'Kai', 'family': 'Zheng', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yan', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mehmet A.', 'family': 'Orgun', 'sequence': 'additional', 'affiliation': []}, {'given': 'An', 'family': 'Liu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lei', 'family': 'Zhao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xiaofang', 'family': 'Zhou', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2015 IEEE 31st International Conference on Data Engineering (ICDE)', 'location': 'Seoul, South Korea', 'start': {'date-parts': [[2015, 4, 13]]}, 'end': {'date-parts': [[2015, 4, 17]]}}, 'container-title': ['2015 IEEE 31st International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/7109453/7113253/07113297.pdf?arnumber=7113297', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 24]], 'date-time': '2017-03-24T19:23:41Z', 'timestamp': 1490383421000}, 'score': 59.958965, 'issued': {'date-parts': [[2015, 4]]}, 'ISBN': ['9781479979646'], 'references-count': 34, 'URL': 'http://dx.doi.org/10.1109/icde.2015.7113297'}
+>>> hash >>> ('Multi-Constrained Graph Pattern Matching in large-scale contextual social graphs', 2015.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> F. L. S. Yoo, Y. Yang and I. Moon, â€œMining social networks for personalized email prioritization,â€\x9d in Proc. 17th ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining, 2009, pp. 967â€“976.
+>>> DOI >>> 10.1145/1557019.1557124
+>>> URL >>> http://dx.doi.org/10.1145/1557019.1557124
+>>> year >>> 2009.0
+>>> title >>> Mining social networks for personalized email prioritization
+>>> author >>> Shinjae Yoo and Yiming Yang and Frank Lin and Il-Chul Moon
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 39.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining - KDD '09"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T04:02:38Z', 'timestamp': 1527220958423}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605584959', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1145/1557019.1557124', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 6, 30]], 'date-time': '2009-06-30T13:10:54Z', 'timestamp': 1246367454000}, 'source': 'Crossref', 'is-referenced-by-count': 39, 'title': ['Mining social networks for personalized email prioritization'], 'prefix': '10.1145', 'author': [{'given': 'Shinjae', 'family': 'Yoo', 'sequence': 'first', 'affiliation': []}, {'given': 'Yiming', 'family': 'Yang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Frank', 'family': 'Lin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Il-Chul', 'family': 'Moon', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 15th ACM SIGKDD international conference', 'location': 'Paris, France', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGKDD, ACM Special Interest Group on Knowledge Discovery in Data', 'SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "KDD '09", 'number': '15', 'start': {'date-parts': [[2009, 6, 28]]}, 'end': {'date-parts': [[2009, 7, 1]]}}, 'container-title': ["Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining - KDD '09"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1557124&amp;ftid=644189&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T21:06:46Z', 'timestamp': 1481058406000}, 'score': 87.44129, 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781605584959'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1557019.1557124'}
+>>> hash >>> ('Mining social networks for personalized email prioritization', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Gao, C. Zhou, J. Zhou, and J. X. Yu, â€œContinuous pattern detection over billion-edge graph using distributed framework,â€\x9d in Proc. IEEE 25th Int. Conf. Data Eng., 2014, pp. 556â€“567.
+>>> DOI >>> 10.1109/icde.2014.6816681
+>>> URL >>> http://dx.doi.org/10.1109/icde.2014.6816681
+>>> year >>> 2014.0
+>>> title >>> Continuous pattern detection over billion-edge graph using distributed framework
+>>> author >>> Jun Gao and Chang Zhou and Jiashuai Zhou and Jeffrey Xu Yu
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['2014 IEEE 30th International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T14:18:19Z', 'timestamp': 1525789099091}, 'reference-count': 22, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781479925551', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2014, 3]]}, 'DOI': '10.1109/icde.2014.6816681', 'type': 'proceedings-article', 'created': {'date-parts': [[2014, 5, 30]], 'date-time': '2014-05-30T18:28:25Z', 'timestamp': 1401474505000}, 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['Continuous pattern detection over billion-edge graph using distributed framework'], 'prefix': '10.1109', 'author': [{'given': 'Jun', 'family': 'Gao', 'sequence': 'first', 'affiliation': []}, {'given': 'Chang', 'family': 'Zhou', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jiashuai', 'family': 'Zhou', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jeffrey Xu', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2014 IEEE 30th International Conference on Data Engineering (ICDE)', 'location': 'Chicago, IL, USA', 'start': {'date-parts': [[2014, 3, 31]]}, 'end': {'date-parts': [[2014, 4, 4]]}}, 'container-title': ['2014 IEEE 30th International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6811095/6816620/06816681.pdf?arnumber=6816681', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 23]], 'date-time': '2017-03-23T21:26:24Z', 'timestamp': 1490304384000}, 'score': 84.99882, 'issued': {'date-parts': [[2014, 3]]}, 'ISBN': ['9781479925551'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1109/icde.2014.6816681'}
+>>> hash >>> ('Continuous pattern detection over billion-edge graph using distributed framework', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y. Fang, R. Cheng, S. Luo, and J. Hu, â€œEffective community search for large attributed graphs,â€\x9d Proc. VLDB Endowment, vol. 9, no. 12, pp. 1233â€“1244, 2016.
+>>> DOI >>> 10.14778/2994509.2994538
+>>> URL >>> http://dx.doi.org/10.14778/2994509.2994538
+>>> year >>> 2016.0
+>>> title >>> Effective community search for large attributed graphs
+>>> author >>> Yixiang Fang and Reynold Cheng and Siqiang Luo and Jiafeng Hu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 10.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T13:42:28Z', 'timestamp': 1527255748182}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '12', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2016, 8, 1]]}, 'DOI': '10.14778/2994509.2994538', 'type': 'journal-article', 'created': {'date-parts': [[2016, 9, 6]], 'date-time': '2016-09-06T15:27:03Z', 'timestamp': 1473175623000}, 'page': '1233-1244', 'source': 'Crossref', 'is-referenced-by-count': 10, 'title': ['Effective community search for large attributed graphs'], 'prefix': '10.14778', 'volume': '9', 'author': [{'given': 'Yixiang', 'family': 'Fang', 'sequence': 'first', 'affiliation': []}, {'given': 'Reynold', 'family': 'Cheng', 'sequence': 'additional', 'affiliation': []}, {'given': 'Siqiang', 'family': 'Luo', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jiafeng', 'family': 'Hu', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2016, 9, 6]], 'date-time': '2016-09-06T15:27:09Z', 'timestamp': 1473175629000}, 'score': 94.13776, 'issued': {'date-parts': [[2016, 8, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2016, 8, 1]]}, 'issue': '12'}, 'URL': 'http://dx.doi.org/10.14778/2994509.2994538', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('Effective community search for large attributed graphs', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. M. Jaffe, â€œAlgorithms for finding paths with multiple constraints,â€\x9d Netw., vol. 14, pp. 91â€“116, 1984.
+>>> DOI >>> 10.1002/net.3230140109
+>>> URL >>> http://dx.doi.org/10.1002/net.3230140109
+>>> year >>> 1984.0
+>>> title >>> Algorithms for finding paths with multiple constraints
+>>> author >>> Jeffrey M. Jaffe
+>>> reference_count >>> 6.0
+>>> is_referenced_by_count >>> 221.0
+>>> subject >>> None
+>>> container_title >>> ['Networks']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 17]], 'date-time': '2018-05-17T02:02:27Z', 'timestamp': 1526522547702}, 'reference-count': 6, 'publisher': 'Wiley', 'issue': '1', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 11566, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Networks'], 'published-print': {'date-parts': [[1984]]}, 'DOI': '10.1002/net.3230140109', 'type': 'journal-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T17:23:15Z', 'timestamp': 1178904195000}, 'page': '95-116', 'source': 'Crossref', 'is-referenced-by-count': 221, 'title': ['Algorithms for finding paths with multiple constraints'], 'prefix': '10.1002', 'volume': '14', 'author': [{'given': 'Jeffrey M.', 'family': 'Jaffe', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'reference': [{'key': '10.1002/net.3230140109-BIB1', 'author': 'Aho', 'year': '1974', 'unstructured': ', and , The Design and Analysis of Computer Algorithms. Addison-Wesley, Reading, MA (1974).', 'volume-title': 'The Design and Analysis of Computer Algorithms'}, {'key': '10.1002/net.3230140109-BIB2', 'author': 'Dwight', 'year': '1961', 'unstructured': 'Tables of Integrals and Other Mathematical Data. MacMillan, NY (1961).', 'volume-title': 'Tables of Integrals and Other Mathematical Data'}, {'key': '10.1002/net.3230140109-BIB3', 'author': 'Garey', 'year': '1979', 'unstructured': 'and , Computers and Intractability, A Guide to the Theory of NP-Completeness. Freeman, San Francisco (1979).', 'volume-title': 'Computers and Intractability, A Guide to the Theory of NP-Completeness'}, {'key': '10.1002/net.3230140109-BIB4', 'author': 'Jaffe', 'year': '1980', 'unstructured': '“Algorithms for finding paths with multiple constraints”. IBM RC 8205, April, 1980.'}, {'key': '10.1002/net.3230140109-BIB5', 'author': 'Merlin', 'year': '1979', 'unstructured': 'and , “A failsafe distributed routing protocol”. IEEE Trans. Comm. COM-27 (1979) 1230–1237.'}, {'key': '10.1002/net.3230140109-BIB6', 'author': 'Tajibnapis', 'volume': '20', 'first-page': '477', 'year': '1977', 'journal-title': 'Comm. ACM'}], 'container-title': ['Networks'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fnet.3230140109', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 4, 9]], 'date-time': '2017-04-09T01:58:48Z', 'timestamp': 1491703128000}, 'score': 55.467735, 'issued': {'date-parts': [[1984]]}, 'references-count': 6, 'journal-issue': {'published-print': {'date-parts': [[1984]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1002/net.3230140109', 'relation': {'cites': []}, 'ISSN': ['0028-3045', '1097-0037'], 'issn-type': [{'value': '0028-3045', 'type': 'print'}, {'value': '1097-0037', 'type': 'electronic'}]}
+>>> hash >>> ('Algorithms for finding paths with multiple constraints', 1984.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Zou, L. Chen, and M. T. Ozsu, â€œDistance-join: Pattern match query in a large graph database,â€\x9d in Proc. 30th Int. Conf. Very Large Data Bases, 2009, pp. 886â€“897.
+>>> DOI >>> 10.14778/1687627.1687727
+>>> URL >>> http://dx.doi.org/10.14778/1687627.1687727
+>>> year >>> 2009.0
+>>> title >>> Distance-join
+>>> author >>> Lei Zou and Lei Chen and M. Tamer Özsu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 53.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:31:32Z', 'timestamp': 1525797092495}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2009, 8, 1]]}, 'DOI': '10.14778/1687627.1687727', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '886-897', 'source': 'Crossref', 'is-referenced-by-count': 53, 'title': ['Distance-join'], 'prefix': '10.14778', 'volume': '2', 'author': [{'given': 'Lei', 'family': 'Zou', 'sequence': 'first', 'affiliation': []}, {'given': 'Lei', 'family': 'Chen', 'sequence': 'additional', 'affiliation': []}, {'given': 'M. Tamer', 'family': 'Özsu', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:22:52Z', 'timestamp': 1403612572000}, 'score': 89.58109, 'subtitle': ['pattern match query in a large graph database'], 'issued': {'date-parts': [[2009, 8, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2009, 8, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.14778/1687627.1687727', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('Distance-join', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Fan, J. Li, S. Ma, N. Tang, Y. Wu, and Y. Wu, â€œGraph pattern matching: From intractable to polynomial time,â€\x9d in Proc. 30th Int. Conf. Very Large Data Bases, 2010, pp. 264â€“275.
+>>> DOI >>> 10.14778/1920841.1920878
+>>> URL >>> http://dx.doi.org/10.14778/1920841.1920878
+>>> year >>> 2010.0
+>>> title >>> Graph pattern matching
+>>> author >>> Wenfei Fan and Jianzhong Li and Shuai Ma and Nan Tang and Yinghui Wu and Yunpeng Wu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 68.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database174.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T08:42:27Z', 'timestamp': 1527756147011}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '1-2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2010, 9, 1]]}, 'DOI': '10.14778/1920841.1920878', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '264-275', 'source': 'Crossref', 'is-referenced-by-count': 68, 'title': ['Graph pattern matching'], 'prefix': '10.14778', 'volume': '3', 'author': [{'given': 'Wenfei', 'family': 'Fan', 'sequence': 'first', 'affiliation': []}, {'given': 'Jianzhong', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}, {'given': 'Shuai', 'family': 'Ma', 'sequence': 'additional', 'affiliation': []}, {'given': 'Nan', 'family': 'Tang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yinghui', 'family': 'Wu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yunpeng', 'family': 'Wu', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:23:45Z', 'timestamp': 1403612625000}, 'score': 81.4452, 'subtitle': ['from intractable to polynomial time'], 'issued': {'date-parts': [[2010, 9, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2010, 9, 1]]}, 'issue': '1-2'}, 'URL': 'http://dx.doi.org/10.14778/1920841.1920878', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('Graph pattern matching', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

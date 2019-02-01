@@ -1,0 +1,697 @@
+>>> NEW PAPER <<<
+>>> citation >>> L. Babai, W. Kantor, E. M. Luks, "Computational complexity and the classification of finite simple groups", Proc. 24th IEEE FOCS, pp. 162-171, 1983.
+>>> DOI >>> 10.1109/sfcs.1983.10
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1983.10
+>>> year >>> 1983.0
+>>> title >>> Computational complexity and the classification of finite simple groups
+>>> author >>> L. Babai and W. M. Kantor and E. M. Luks
+>>> reference_count >>> 40.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['24th Annual Symposium on Foundations of Computer Science (sfcs 1983)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:30:36Z', 'timestamp': 1525437036907}, 'reference-count': 40, 'publisher': 'IEEE', 'isbn-type': [{'value': '0818605081', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1983, 11]]}, 'DOI': '10.1109/sfcs.1983.10', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 31]], 'date-time': '2008-07-31T15:47:04Z', 'timestamp': 1217519224000}, 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['Computational complexity and the classification of finite simple groups'], 'prefix': '10.1109', 'author': [{'given': 'L.', 'family': 'Babai', 'sequence': 'first', 'affiliation': []}, {'given': 'W. M.', 'family': 'Kantor', 'sequence': 'additional', 'affiliation': []}, {'given': 'E. M.', 'family': 'Luks', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '24th Annual Symposium on Foundations of Computer Science (sfcs 1983)', 'location': 'Tucson, AZ, USA', 'start': {'date-parts': [[1983, 11, 7]]}, 'end': {'date-parts': [[1983, 11, 9]]}}, 'container-title': ['24th Annual Symposium on Foundations of Computer Science (sfcs 1983)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4568048/4568049/04568073.pdf?arnumber=4568073', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T10:32:02Z', 'timestamp': 1497781922000}, 'score': 76.369934, 'issued': {'date-parts': [[1983, 11]]}, 'ISBN': ['0818605081'], 'references-count': 40, 'URL': 'http://dx.doi.org/10.1109/sfcs.1983.10'}
+>>> hash >>> ('Computational complexity and the classification of finite simple groups', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Babai, "A Las Vegas - NC algorithm for isomorphism of graphs with bounded multiplicity of eigenvalues", Proc. 27th IEEE FOCS, 1986.
+>>> DOI >>> 10.1109/sfcs.1986.1
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1986.1
+>>> year >>> 1986.0
+>>> title >>> A Las Vegas - NC algorithm for isomorphism of graphs with bounded multiplicity of eigenvalues
+>>> author >>> Laszlo Babai
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['27th Annual Symposium on Foundations of Computer Science (sfcs 1986)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:30:37Z', 'timestamp': 1525437037836}, 'reference-count': 32, 'publisher': 'IEEE', 'isbn-type': [{'value': '0818607408', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1986, 10]]}, 'DOI': '10.1109/sfcs.1986.1', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 31]], 'date-time': '2008-07-31T15:47:56Z', 'timestamp': 1217519276000}, 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['A Las Vegas - NC algorithm for isomorphism of graphs with bounded multiplicity of eigenvalues'], 'prefix': '10.1109', 'author': [{'given': 'Laszlo', 'family': 'Babai', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'event': {'name': '27th Annual Symposium on Foundations of Computer Science (sfcs 1986)', 'location': 'Toronto, ON, Canada', 'start': {'date-parts': [[1986, 10, 27]]}, 'end': {'date-parts': [[1986, 10, 29]]}}, 'container-title': ['27th Annual Symposium on Foundations of Computer Science (sfcs 1986)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4568183/4568184/04568221.pdf?arnumber=4568221', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T10:32:03Z', 'timestamp': 1497781923000}, 'score': 107.73017, 'issued': {'date-parts': [[1986, 10]]}, 'ISBN': ['0818607408'], 'references-count': 32, 'URL': 'http://dx.doi.org/10.1109/sfcs.1986.1'}
+>>> hash >>> ('A Las Vegas - NC algorithm for isomorphism of graphs with bounded multiplicity of eigenvalues', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K. Mulmuley, "A fast parallel algorithm to compute the rank of a matrix over an arbitrary field", Proc. 18th STOC, pp. 338-339, 1986.
+>>> DOI >>> 10.1145/12130.12164
+>>> URL >>> http://dx.doi.org/10.1145/12130.12164
+>>> year >>> 1986.0
+>>> title >>> A fast parallel algorithm to compute the rank of a matrix over an arbitrary field
+>>> author >>> K Mulmuley
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the eighteenth annual ACM symposium on Theory of computing  - STOC '86"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:42Z', 'timestamp': 1525392402546}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897911938', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1986]]}, 'DOI': '10.1145/12130.12164', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['A fast parallel algorithm to compute the rank of a matrix over an arbitrary field'], 'prefix': '10.1145', 'author': [{'given': 'K', 'family': 'Mulmuley', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'event': {'name': 'the eighteenth annual ACM symposium', 'location': 'Berkeley, California, United States', 'sponsor': ['SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '86", 'number': '18', 'start': {'date-parts': [[1986, 5, 28]]}, 'end': {'date-parts': [[1986, 5, 30]]}}, 'container-title': ["Proceedings of the eighteenth annual ACM symposium on Theory of computing  - STOC '86"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=12164&amp;ftid=55795&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T00:08:14Z', 'timestamp': 1481846894000}, 'score': 83.00367, 'issued': {'date-parts': [[1986]]}, 'ISBN': ['0897911938'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/12130.12164'}
+>>> hash >>> ('A fast parallel algorithm to compute the rank of a matrix over an arbitrary field', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. A. Cook, "The classification of problems which have fast parallel algorithms", Proc. 1983 Intern. FCT Conf. Lecture Notes in Comp. Sci., vol. 158, pp. 78-93.
+>>> DOI >>> 10.1007/3-540-12689-9_95
+>>> URL >>> http://dx.doi.org/10.1007/3-540-12689-9_95
+>>> year >>> 1983.0
+>>> title >>> The classification of problems which have fast parallel algorithms
+>>> author >>> Stephen A. Cook
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['Foundations of Computation Theory', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T03:58:05Z', 'timestamp': 1525492685417}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540126898', 'type': 'print'}, {'value': '9783540386827', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1983]]}, 'DOI': '10.1007/3-540-12689-9_95', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 2, 25]], 'date-time': '2012-02-25T17:53:44Z', 'timestamp': 1330192424000}, 'page': '78-93', 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['The classification of problems which have fast parallel algorithms'], 'prefix': '10.1007', 'author': [{'given': 'Stephen A.', 'family': 'Cook', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2005, 5, 31]]}, 'container-title': ['Foundations of Computation Theory', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/3-540-12689-9_95', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T18:04:51Z', 'timestamp': 1389031491000}, 'score': 69.989586, 'issued': {'date-parts': [[1983]]}, 'ISBN': ['9783540126898', '9783540386827'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-12689-9_95', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('The classification of problems which have fast parallel algorithms', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. J. Berkowitz, On computing the determinant in small parallel time using a small number of processors, Univ. of Toronto, 1983.
+>>> DOI >>> 10.1016/0020-0190(84)90018-8
+>>> URL >>> http://dx.doi.org/10.1016/0020-0190(84)90018-8
+>>> year >>> 1984.0
+>>> title >>> On computing the determinant in small parallel time using a small number of processors
+>>> author >>> Stuart J. Berkowitz
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 130.0
+>>> subject >>> None
+>>> container_title >>> ['Information Processing Letters']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:56:31Z', 'timestamp': 1525312591661}, 'reference-count': 10, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1984, 3, 1]], 'date-time': '1984-03-01T00:00:00Z', 'timestamp': 446947200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Information Processing Letters'], 'published-print': {'date-parts': [[1984, 3]]}, 'DOI': '10.1016/0020-0190(84)90018-8', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T04:11:21Z', 'timestamp': 1027656681000}, 'page': '147-150', 'source': 'Crossref', 'is-referenced-by-count': 130, 'title': ['On computing the determinant in small parallel time using a small number of processors'], 'prefix': '10.1016', 'volume': '18', 'author': [{'given': 'Stuart J.', 'family': 'Berkowitz', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Information Processing Letters'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0020019084900188?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0020019084900188?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T04:16:58Z', 'timestamp': 1497500218000}, 'score': 60.78948, 'issued': {'date-parts': [[1984, 3]]}, 'references-count': 10, 'journal-issue': {'published-print': {'date-parts': [[1984, 3]]}, 'issue': '3'}, 'alternative-id': ['0020019084900188'], 'URL': 'http://dx.doi.org/10.1016/0020-0190(84)90018-8', 'ISSN': ['0020-0190'], 'issn-type': [{'value': '0020-0190', 'type': 'print'}]}
+>>> hash >>> ('On computing the determinant in small parallel time using a small number of processors', 1984.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Furst, J. Hopcroft, E. Luks, A subexponential algorithm for trivalent graph isomorphism, 1980.
+>>> DOI >>> 10.1109/sfcs.1980.34
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1980.34
+>>> year >>> 1980.0
+>>> title >>> Polynomial-time algorithms for permutation groups
+>>> author >>> Merrick Furst and John Hopcroft and Eugene Luks
+>>> reference_count >>> 7.0
+>>> is_referenced_by_count >>> 47.0
+>>> subject >>> None
+>>> container_title >>> ['21st Annual Symposium on Foundations of Computer Science (sfcs 1980)']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:30:27Z', 'timestamp': 1525437027008}, 'reference-count': 7, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1980, 10]]}, 'DOI': '10.1109/sfcs.1980.34', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 31]], 'date-time': '2008-07-31T14:36:36Z', 'timestamp': 1217514996000}, 'source': 'Crossref', 'is-referenced-by-count': 47, 'title': ['Polynomial-time algorithms for permutation groups'], 'prefix': '10.1109', 'author': [{'given': 'Merrick', 'family': 'Furst', 'sequence': 'first', 'affiliation': []}, {'given': 'John', 'family': 'Hopcroft', 'sequence': 'additional', 'affiliation': []}, {'given': 'Eugene', 'family': 'Luks', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '21st Annual Symposium on Foundations of Computer Science (sfcs 1980)', 'location': 'Syracuse, NY, USA', 'start': {'date-parts': [[1980, 10, 13]]}, 'end': {'date-parts': [[1980, 10, 15]]}}, 'container-title': ['21st Annual Symposium on Foundations of Computer Science (sfcs 1980)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4567793/4567794/04567802.pdf?arnumber=4567802', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T19:30:30Z', 'timestamp': 1489692630000}, 'score': 41.475292, 'issued': {'date-parts': [[1980, 10]]}, 'references-count': 7, 'URL': 'http://dx.doi.org/10.1109/sfcs.1980.34'}
+>>> hash >>> ('Polynomial-time algorithms for permutation groups', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. M. Karp, A. Wigderson, "A fast parallel algorithm for the maximal independent set problem", Proc. 16th ACM STOC, pp. 266-272, 1984.
+>>> DOI >>> 10.1145/800057.808690
+>>> URL >>> http://dx.doi.org/10.1145/800057.808690
+>>> year >>> 1984.0
+>>> title >>> A fast parallel algorithm for the maximal independent set problem
+>>> author >>> Richard M. Karp and Avi Wigderson
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 19.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the sixteenth annual ACM symposium on Theory of computing  - STOC '84"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:39Z', 'timestamp': 1525392399098}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897911334', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1984]]}, 'DOI': '10.1145/800057.808690', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 19, 'title': ['A fast parallel algorithm for the maximal independent set problem'], 'prefix': '10.1145', 'author': [{'given': 'Richard M.', 'family': 'Karp', 'sequence': 'first', 'affiliation': []}, {'given': 'Avi', 'family': 'Wigderson', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the sixteenth annual ACM symposium', 'location': 'Not Known', 'sponsor': ['SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '84", 'start': {'date-parts': [[1984]]}}, 'container-title': ["Proceedings of the sixteenth annual ACM symposium on Theory of computing  - STOC '84"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=808690&amp;ftid=84958&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T02:26:41Z', 'timestamp': 1481855201000}, 'score': 80.93225, 'issued': {'date-parts': [[1984]]}, 'ISBN': ['0897911334'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/800057.808690'}
+>>> hash >>> ('A fast parallel algorithm for the maximal independent set problem', 1984.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. L. Scott, "The Santa Crus Conference on Finite Groups", Amer. Math. Soc., pp. 319-322, 1980.
+>>> DOI >>> 10.1090/s0002-9939-1980-0550487-6
+>>> URL >>> http://dx.doi.org/10.1090/s0002-9939-1980-0550487-6
+>>> year >>> 1980.0
+>>> title >>> On finite presentations for groups
+>>> author >>> R. Craggs
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the American Mathematical Society']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T06:41:49Z', 'timestamp': 1525329709701}, 'reference-count': 0, 'publisher': 'American Mathematical Society (AMS)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. Amer. Math. Soc.'], 'published-print': {'date-parts': [[1980, 2, 1]]}, 'DOI': '10.1090/s0002-9939-1980-0550487-6', 'type': 'journal-article', 'created': {'date-parts': [[2010, 6, 30]], 'date-time': '2010-06-30T19:49:39Z', 'timestamp': 1277927379000}, 'page': '170-170', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['On finite presentations for groups'], 'prefix': '10.1090', 'volume': '78', 'author': [{'given': 'R.', 'family': 'Craggs', 'sequence': 'first', 'affiliation': []}], 'member': '14', 'container-title': ['Proceedings of the American Mathematical Society'], 'language': 'en', 'deposited': {'date-parts': [[2010, 6, 30]], 'date-time': '2010-06-30T19:49:58Z', 'timestamp': 1277927398000}, 'score': 36.952007, 'issued': {'date-parts': [[1980, 2, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1980, 2, 1]]}, 'issue': '2'}, 'alternative-id': ['S00029939198005504876'], 'URL': 'http://dx.doi.org/10.1090/s0002-9939-1980-0550487-6', 'ISSN': ['0002-9939'], 'issn-type': [{'value': '0002-9939', 'type': 'print'}]}
+>>> hash >>> ('On finite presentations for groups', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Hall, The Theory of Groups, Macmillan, 1959.
+>>> DOI >>> 10.1090/pspum/001/0116051
+>>> URL >>> http://dx.doi.org/10.1090/pspum/001/0116051
+>>> year >>> 1959.0
+>>> title >>> Current studies on permutation groups
+>>> author >>> Marshall Hall
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of Symposia in Pure Mathematics', 'Finite Groups']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 6]], 'date-time': '2018-05-06T02:04:12Z', 'timestamp': 1525572252675}, 'publisher-location': 'Providence, Rhode Island', 'reference-count': 0, 'publisher': 'American Mathematical Society', 'isbn-type': [{'value': '9780821814017', 'type': 'print'}, {'value': '9780821892862', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1959]]}, 'DOI': '10.1090/pspum/001/0116051', 'type': 'other', 'created': {'date-parts': [[2013, 1, 23]], 'date-time': '2013-01-23T19:54:58Z', 'timestamp': 1358970898000}, 'page': '29-41', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Current studies on permutation groups'], 'prefix': '10.1090', 'author': [{'suffix': 'Jr.', 'given': 'Marshall', 'family': 'Hall', 'sequence': 'first', 'affiliation': []}], 'member': '14', 'container-title': ['Proceedings of Symposia in Pure Mathematics', 'Finite Groups'], 'deposited': {'date-parts': [[2013, 1, 23]], 'date-time': '2013-01-23T20:38:56Z', 'timestamp': 1358973536000}, 'score': 23.629276, 'issued': {'date-parts': [[1959]]}, 'ISBN': ['9780821814017', '9780821892862'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1090/pspum/001/0116051', 'ISSN': ['2324-707X', '0082-0717'], 'issn-type': [{'value': '0082-0717', 'type': 'print'}, {'value': '2324-707X', 'type': 'electronic'}]}
+>>> hash >>> ('Current studies on permutation groups', 1959.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Luby, "A simple parallel algorithm for the maximal independent set problem", Proc. 17th IEEE FOCS, pp. 1-10, 1985.
+>>> DOI >>> 10.1145/22145.22146
+>>> URL >>> http://dx.doi.org/10.1145/22145.22146
+>>> year >>> 1985.0
+>>> title >>> A simple parallel algorithm for the maximal independent set problem
+>>> author >>> M Luby
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 69.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the seventeenth annual ACM symposium on Theory of computing  - STOC '85"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T02:42:38Z', 'timestamp': 1525747358855}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897911512', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1985]]}, 'DOI': '10.1145/22145.22146', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 69, 'title': ['A simple parallel algorithm for the maximal independent set problem'], 'prefix': '10.1145', 'author': [{'given': 'M', 'family': 'Luby', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'event': {'name': 'the seventeenth annual ACM symposium', 'location': 'Providence, Rhode Island, United States', 'sponsor': ['SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '85", 'number': '17', 'start': {'date-parts': [[1985, 5, 6]]}, 'end': {'date-parts': [[1985, 5, 8]]}}, 'container-title': ["Proceedings of the seventeenth annual ACM symposium on Theory of computing  - STOC '85"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=22146&amp;ftid=36422&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 12]], 'date-time': '2016-12-12T16:35:47Z', 'timestamp': 1481560547000}, 'score': 65.44392, 'issued': {'date-parts': [[1985]]}, 'ISBN': ['0897911512'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/22145.22146'}
+>>> hash >>> ('A simple parallel algorithm for the maximal independent set problem', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. M. Laks, Computing the composition factors of a permutation group in polynomial time, 1985.
+>>> DOI >>> 10.1007/bf02579204
+>>> URL >>> http://dx.doi.org/10.1007/bf02579204
+>>> year >>> 1987.0
+>>> title >>> Computing the composition factors of a permutation group in polynomial time
+>>> author >>> Eugene M. Luks
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 20.0
+>>> subject >>> None
+>>> container_title >>> ['Combinatorica']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T14:03:28Z', 'timestamp': 1525356208096}, 'reference-count': 15, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Combinatorica'], 'published-print': {'date-parts': [[1987, 3]]}, 'DOI': '10.1007/bf02579204', 'type': 'journal-article', 'created': {'date-parts': [[2007, 3, 22]], 'date-time': '2007-03-22T21:14:06Z', 'timestamp': 1174598046000}, 'page': '87-99', 'source': 'Crossref', 'is-referenced-by-count': 20, 'title': ['Computing the composition factors of a permutation group in polynomial time'], 'prefix': '10.1007', 'volume': '7', 'author': [{'given': 'Eugene M.', 'family': 'Luks', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'BF02579204_CR1', 'author': 'A. V. Aho', 'year': '1974', 'unstructured': 'A. V. Aho, E. Hopcroft andJ. D. Ullman,The Design and Analysis of Computer Algorithms, Addison-Wesley, Reading, Mass., 1974.', 'volume-title': 'The Design and Analysis of Computer Algorithms'}, {'key': 'BF02579204_CR2', 'first-page': '911', 'volume': '29', 'author': 'M. D. Atkinson', 'year': '1975', 'unstructured': 'M. D. Atkinson, An algorithm for finding the blocks of a permutation group,Math. Comp.,29 (1975), 911–913.', 'journal-title': 'Math. Comp.'}, {'key': 'BF02579204_CR3', 'unstructured': 'L. Babai, Monte Carlo algorithms in graph isomorphism testing,Tech. Rep. 79-10, Dép. Math. et Stat., Univ. de Montréal, 1979.'}, {'key': 'BF02579204_CR4', 'unstructured': 'L. Babai, E. M. Luks, andÁ. Seress, Permutation groups in NC,to appear in Proc. 19 th Ann, ACM Symp. on Theory of computing (1987).'}, {'key': 'BF02579204_CR5', 'unstructured': 'L. Babai, W. M. Kantor andE. M. Luks, Computational complexity and the classification of finite simple groups,Proc. 24 th IEEE Symp. Found. Comp. Sci. (1983), 162–171.'}, {'key': 'BF02579204_CR6', 'first-page': '1', 'volume': '13', 'author': 'P. Cameron', 'year': '1981', 'unstructured': 'P. Cameron, Finite permutation groups and finite simple groups,Bull. London Math. Soc. 13 (1981), 1–22.', 'journal-title': 'Bull. London Math. Soc.'}, {'key': 'BF02579204_CR7', 'doi-asserted-by': 'crossref', 'first-page': '775', 'DOI': '10.2140/pjm.1963.13.775', 'volume': '13', 'author': 'W. Feit', 'year': '1963', 'unstructured': 'W. Feit andJ. G. Thompson, Solvability of groups of odd order,Pacific J. Math.,13 (1963), 775–1029.', 'journal-title': 'Pacific J. Math.'}, {'key': 'BF02579204_CR8', 'unstructured': 'M. Furst, J. Hopcroft andE. M. Luks, Polynomial-time algorithms for permutation groups,Proc. 21 st IEEE Symp. Found. Comp. Sci. (1980), 36–41.'}, {'key': 'BF02579204_CR9', 'author': 'C. M. Hoffman', 'year': '1982', 'unstructured': 'C. M. Hoffman,Group-Theoretic Algorithms and Graph Isomorphism, Lecture Notes in Comp. Sci.,136, Springer, Berlin, 1982.', 'series-title': 'Lecture Notes in Comp. Sci.', 'volume-title': 'Group-Theoretic Algorithms and Graph Isomorphism', 'DOI': '10.1007/3-540-11493-9', 'doi-asserted-by': 'crossref'}, {'key': 'BF02579204_CR10', 'first-page': '359', 'volume': '30', 'author': 'W. M. Kantor', 'year': '1985', 'unstructured': 'W. M. Kantor, Sylow’s theorem in polynomial time,J. Comp. Syst. Sci.,30 (1985), 359–394.', 'journal-title': 'J. Comp. Syst. Sci.'}, {'key': 'BF02579204_CR11', 'first-page': '478', 'volume': '6', 'author': 'W. M. Kantor', 'year': '1985', 'unstructured': 'W. M. Kantor, Polynomial-time algorithms for finding elements of prime order and Sylow subgroups,J. Algorithms,6 (1985), 478–514.', 'journal-title': 'J. Algorithms'}, {'key': 'BF02579204_CR12', 'unstructured': 'W. M. Kantor andD. E. Taylor, Polynomial-time versions of Sylow’s theorem,J. Algorithms, to appear.'}, {'key': 'BF02579204_CR13', 'first-page': '42', 'volume': '25', 'author': 'E. M. Luks', 'year': '1982', 'unstructured': 'E. M. Luks, Isomorphism of graphs of bounded valence can be tested in polynomial time,J. Comp. Syst. Sci.,25 (1982), 42–65.', 'journal-title': 'J. Comp. Syst. Sci.'}, {'key': 'BF02579204_CR14', 'unstructured': 'E. M. Luks, The complexity of fixed valence graph isomorphism and the implications for general graph isomorphism,in preparation.'}, {'key': 'BF02579204_CR15', 'author': 'C. C. Sims', 'first-page': '169', 'year': '1970', 'unstructured': 'C. C. Sims, Computational methods in the study of permutation groups,in: Computational Problems in Abstract Algebra, (ed.: N. J. Leech), Pergamon, New York, 1970, 169–183.', 'volume-title': 'Computational Problems in Abstract Algebra', 'DOI': '10.1016/B978-0-08-012975-4.50020-5', 'doi-asserted-by': 'crossref'}], 'container-title': ['Combinatorica'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF02579204', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T15:37:02Z', 'timestamp': 1497713822000}, 'score': 45.508133, 'issued': {'date-parts': [[1987, 3]]}, 'references-count': 15, 'journal-issue': {'published-print': {'date-parts': [[1987, 3]]}, 'issue': '1'}, 'alternative-id': ['BF02579204'], 'URL': 'http://dx.doi.org/10.1007/bf02579204', 'relation': {'cites': []}, 'ISSN': ['0209-9683', '1439-6912'], 'issn-type': [{'value': '0209-9683', 'type': 'print'}, {'value': '1439-6912', 'type': 'electronic'}]}
+>>> hash >>> ('Computing the composition factors of a permutation group in polynomial time', 1987.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. M. Luke, P. McKenzie, "Fast parallel computation with permutation groups", Proc. 26th IEEE FOCS, pp. 505-514, 1985.
+>>> DOI >>> 10.1109/sfcs.1985.26
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1985.26
+>>> year >>> 1985.0
+>>> title >>> Fast parallel computation with permutation groups
+>>> author >>> Eugene M. Luks and Pierre Mckenzie
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['26th Annual Symposium on Foundations of Computer Science (sfcs 1985)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:30:53Z', 'timestamp': 1525437053213}, 'reference-count': 22, 'publisher': 'IEEE', 'isbn-type': [{'value': '0818606444', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1985]]}, 'DOI': '10.1109/sfcs.1985.26', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 31]], 'date-time': '2008-07-31T15:59:13Z', 'timestamp': 1217519953000}, 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['Fast parallel computation with permutation groups'], 'prefix': '10.1109', 'author': [{'given': 'Eugene M.', 'family': 'Luks', 'sequence': 'first', 'affiliation': []}, {'given': 'Pierre', 'family': 'Mckenzie', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '26th Annual Symposium on Foundations of Computer Science (sfcs 1985)', 'location': 'Portland, OR, USA', 'start': {'date-parts': [[1985, 10, 21]]}, 'end': {'date-parts': [[1985, 10, 23]]}}, 'container-title': ['26th Annual Symposium on Foundations of Computer Science (sfcs 1985)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4568115/4568116/04568177.pdf?arnumber=4568177', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T14:59:46Z', 'timestamp': 1489676386000}, 'score': 60.43311, 'issued': {'date-parts': [[1985]]}, 'ISBN': ['0818606444'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1109/sfcs.1985.26'}
+>>> hash >>> ('Fast parallel computation with permutation groups', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Furst, J. Hopcroft, E. Luks, "Polynomial time algorithms for permutation groups", Proc 21st IEEE FOCS, pp. 36-41, 1980.
+>>> DOI >>> 10.1109/sfcs.1980.34
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1980.34
+>>> year >>> 1980.0
+>>> title >>> Polynomial-time algorithms for permutation groups
+>>> author >>> Merrick Furst and John Hopcroft and Eugene Luks
+>>> reference_count >>> 7.0
+>>> is_referenced_by_count >>> 47.0
+>>> subject >>> None
+>>> container_title >>> ['21st Annual Symposium on Foundations of Computer Science (sfcs 1980)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:30:27Z', 'timestamp': 1525437027008}, 'reference-count': 7, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1980, 10]]}, 'DOI': '10.1109/sfcs.1980.34', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 31]], 'date-time': '2008-07-31T14:36:36Z', 'timestamp': 1217514996000}, 'source': 'Crossref', 'is-referenced-by-count': 47, 'title': ['Polynomial-time algorithms for permutation groups'], 'prefix': '10.1109', 'author': [{'given': 'Merrick', 'family': 'Furst', 'sequence': 'first', 'affiliation': []}, {'given': 'John', 'family': 'Hopcroft', 'sequence': 'additional', 'affiliation': []}, {'given': 'Eugene', 'family': 'Luks', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '21st Annual Symposium on Foundations of Computer Science (sfcs 1980)', 'location': 'Syracuse, NY, USA', 'start': {'date-parts': [[1980, 10, 13]]}, 'end': {'date-parts': [[1980, 10, 15]]}}, 'container-title': ['21st Annual Symposium on Foundations of Computer Science (sfcs 1980)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4567793/4567794/04567802.pdf?arnumber=4567802', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T19:30:30Z', 'timestamp': 1489692630000}, 'score': 85.07646, 'issued': {'date-parts': [[1980, 10]]}, 'references-count': 7, 'URL': 'http://dx.doi.org/10.1109/sfcs.1980.34'}
+>>> hash >>> ('Polynomial-time algorithms for permutation groups', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. Mckenzie, S. A. Cook, "The parallel complexity of the abelian permutation group membership problem", Proc. 24th IEEE FOCS, pp. 154-161, 1983.
+>>> DOI >>> 10.1109/sfcs.1983.74
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1983.74
+>>> year >>> 1983.0
+>>> title >>> The parallel complexity of the abelian permutation group membership problem
+>>> author >>> Pierre McKenzie and Stephen A. Cook
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['24th Annual Symposium on Foundations of Computer Science (sfcs 1983)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:30:38Z', 'timestamp': 1525437038246}, 'reference-count': 22, 'publisher': 'IEEE', 'isbn-type': [{'value': '0818605081', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1983, 11]]}, 'DOI': '10.1109/sfcs.1983.74', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 31]], 'date-time': '2008-07-31T15:47:04Z', 'timestamp': 1217519224000}, 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['The parallel complexity of the abelian permutation group membership problem'], 'prefix': '10.1109', 'author': [{'given': 'Pierre', 'family': 'McKenzie', 'sequence': 'first', 'affiliation': []}, {'given': 'Stephen A.', 'family': 'Cook', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '24th Annual Symposium on Foundations of Computer Science (sfcs 1983)', 'location': 'Tucson, AZ, USA', 'start': {'date-parts': [[1983, 11, 7]]}, 'end': {'date-parts': [[1983, 11, 9]]}}, 'container-title': ['24th Annual Symposium on Foundations of Computer Science (sfcs 1983)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4568048/4568049/04568072.pdf?arnumber=4568072', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T10:32:03Z', 'timestamp': 1497781923000}, 'score': 84.41724, 'issued': {'date-parts': [[1983, 11]]}, 'ISBN': ['0818605081'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1109/sfcs.1983.74'}
+>>> hash >>> ('The parallel complexity of the abelian permutation group membership problem', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Csanky, "Fast parallel matrix inversion algorithms", SIAM J. Comp., vol. 5, pp. 618-623, 1976.
+>>> DOI >>> 10.1137/0205040
+>>> URL >>> http://dx.doi.org/10.1137/0205040
+>>> year >>> 1976.0
+>>> title >>> Fast Parallel Matrix Inversion Algorithms
+>>> author >>> L. Csanky
+>>> reference_count >>> 4.0
+>>> is_referenced_by_count >>> 182.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 14]], 'date-time': '2018-05-14T08:42:23Z', 'timestamp': 1526287343548}, 'reference-count': 4, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[1976, 12]]}, 'DOI': '10.1137/0205040', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 24]], 'date-time': '2005-02-24T10:57:56Z', 'timestamp': 1109242676000}, 'page': '618-623', 'source': 'Crossref', 'is-referenced-by-count': 182, 'title': ['Fast Parallel Matrix Inversion Algorithms'], 'prefix': '10.1137', 'volume': '5', 'author': [{'given': 'L.', 'family': 'Csanky', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0205040', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T17:17:17Z', 'timestamp': 1485710237000}, 'score': 82.83855, 'issued': {'date-parts': [[1976, 12]]}, 'references-count': 4, 'journal-issue': {'published-print': {'date-parts': [[1976, 12]]}, 'issue': '4'}, 'alternative-id': ['10.1137/0205040'], 'URL': 'http://dx.doi.org/10.1137/0205040', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('Fast Parallel Matrix Inversion Algorithms', 1976.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Babai, Monte Carlo algorithms in graph isomorphism testing, 1979.
+>>> DOI >>> 10.1201/9781584887195.ch5
+>>> URL >>> http://dx.doi.org/10.1201/9781584887195.ch5
+>>> year >>> 2006.0
+>>> title >>> Graph Isomorphism Testing
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Discrete Mathematics and Its Applications', 'A Java Library of Graph Algorithms and Optimization']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:55:04Z', 'timestamp': 1525334104952}, 'reference-count': 0, 'publisher': 'Chapman and Hall/CRC', 'isbn-type': [{'value': '9781584887188', 'type': 'print'}, {'value': '9781584887195', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006, 10, 20]]}, 'DOI': '10.1201/9781584887195.ch5', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 7, 19]], 'date-time': '2010-07-19T15:11:58Z', 'timestamp': 1279552318000}, 'page': '195-205', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Graph Isomorphism Testing'], 'prefix': '10.1201', 'member': '301', 'published-online': {'date-parts': [[2010, 1, 31]]}, 'container-title': ['Discrete Mathematics and Its Applications', 'A Java Library of Graph Algorithms and Optimization'], 'deposited': {'date-parts': [[2012, 9, 12]], 'date-time': '2012-09-12T16:15:32Z', 'timestamp': 1347466532000}, 'score': 33.61383, 'issued': {'date-parts': [[2006, 10, 20]]}, 'ISBN': ['9781584887188', '9781584887195'], 'references-count': 0, 'alternative-id': ['10.1201/9781584887195.ch5', '10.1201/CHDISMTHAPP', '10.1201/9781584887195'], 'URL': 'http://dx.doi.org/10.1201/9781584887195.ch5', 'ISSN': ['2154-459X'], 'issn-type': [{'value': '2154-459X', 'type': 'print'}]}
+>>> hash >>> ('Graph Isomorphism Testing', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Pippenger, "On simultaneous resource bounds", Proc 20th IEEE FOCS, pp. 307-311, 1979.
+>>> DOI >>> 10.1109/sfcs.1979.29
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1979.29
+>>> year >>> 1979.0
+>>> title >>> On simultaneous resource bounds
+>>> author >>> Nicholas Pippenger
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 36.0
+>>> subject >>> None
+>>> container_title >>> ['20th Annual Symposium on Foundations of Computer Science (sfcs 1979)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:30:36Z', 'timestamp': 1525437036471}, 'reference-count': 13, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1979, 10]]}, 'DOI': '10.1109/sfcs.1979.29', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 31]], 'date-time': '2008-07-31T15:46:42Z', 'timestamp': 1217519202000}, 'source': 'Crossref', 'is-referenced-by-count': 36, 'title': ['On simultaneous resource bounds'], 'prefix': '10.1109', 'author': [{'given': 'Nicholas', 'family': 'Pippenger', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'event': {'name': '20th Annual Symposium on Foundations of Computer Science (sfcs 1979)', 'location': 'San Juan, Puerto Rico', 'start': {'date-parts': [[1979, 10, 29]]}, 'end': {'date-parts': [[1979, 10, 31]]}}, 'container-title': ['20th Annual Symposium on Foundations of Computer Science (sfcs 1979)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4567990/4567991/04568025.pdf?arnumber=4568025', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T16:02:37Z', 'timestamp': 1489680157000}, 'score': 55.744755, 'issued': {'date-parts': [[1979, 10]]}, 'references-count': 13, 'URL': 'http://dx.doi.org/10.1109/sfcs.1979.29'}
+>>> hash >>> ('On simultaneous resource bounds', 1979.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Z. Galil, C. M. Hoffmann, E. M. Luks, C. P. Schnorr, A. Weber, "An O(n3 log n) deterministic and an O(n3) probabilistic isomorphism test for trivalent graphs", Proc. 23rd IEEE FOCS, pp. 118-125, 1982.
+>>> DOI >>> 10.1109/sfcs.1982.62
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1982.62
+>>> year >>> 1982.0
+>>> title >>> An O(n3 log n) deterministic and an O (n 3) probabilistic isomorphism test for trivalent graphs
+>>> author >>> Zvi Galil and Christof M. Hoffmann and Eugene M. Luks and Claus P. Schnorr and Andreas Weber
+>>> reference_count >>> 7.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['23rd Annual Symposium on Foundations of Computer Science (sfcs 1982)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:30:41Z', 'timestamp': 1525437041421}, 'reference-count': 7, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1982, 11]]}, 'DOI': '10.1109/sfcs.1982.62', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 31]], 'date-time': '2008-07-31T15:49:45Z', 'timestamp': 1217519385000}, 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['An O(n3 log n) deterministic and an O (n 3) probabilistic isomorphism test for trivalent graphs'], 'prefix': '10.1109', 'author': [{'given': 'Zvi', 'family': 'Galil', 'sequence': 'first', 'affiliation': []}, {'given': 'Christof M.', 'family': 'Hoffmann', 'sequence': 'additional', 'affiliation': []}, {'given': 'Eugene M.', 'family': 'Luks', 'sequence': 'additional', 'affiliation': []}, {'given': 'Claus P.', 'family': 'Schnorr', 'sequence': 'additional', 'affiliation': []}, {'given': 'Andreas', 'family': 'Weber', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '23rd Annual Symposium on Foundations of Computer Science', 'location': 'Chicago, IL, USA', 'start': {'date-parts': [[1982, 11, 3]]}, 'end': {'date-parts': [[1982, 11, 5]]}}, 'container-title': ['23rd Annual Symposium on Foundations of Computer Science (sfcs 1982)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4568363/4568364/04568383.pdf?arnumber=4568383', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T14:17:32Z', 'timestamp': 1489673852000}, 'score': 99.99392, 'issued': {'date-parts': [[1982, 11]]}, 'references-count': 7, 'URL': 'http://dx.doi.org/10.1109/sfcs.1982.62'}
+>>> hash >>> ('An O(n3 log n) deterministic and an O (n 3) probabilistic isomorphism test for trivalent graphs', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. McKenzie, Parallel Complexity and Permutation Groups, Univ. of Toronto, 1984.
+>>> DOI >>> 10.1109/sfcs.1983.74
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1983.74
+>>> year >>> 1983.0
+>>> title >>> The parallel complexity of the abelian permutation group membership problem
+>>> author >>> Pierre McKenzie and Stephen A. Cook
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['24th Annual Symposium on Foundations of Computer Science (sfcs 1983)']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:30:38Z', 'timestamp': 1525437038246}, 'reference-count': 22, 'publisher': 'IEEE', 'isbn-type': [{'value': '0818605081', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1983, 11]]}, 'DOI': '10.1109/sfcs.1983.74', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 31]], 'date-time': '2008-07-31T15:47:04Z', 'timestamp': 1217519224000}, 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['The parallel complexity of the abelian permutation group membership problem'], 'prefix': '10.1109', 'author': [{'given': 'Pierre', 'family': 'McKenzie', 'sequence': 'first', 'affiliation': []}, {'given': 'Stephen A.', 'family': 'Cook', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '24th Annual Symposium on Foundations of Computer Science (sfcs 1983)', 'location': 'Tucson, AZ, USA', 'start': {'date-parts': [[1983, 11, 7]]}, 'end': {'date-parts': [[1983, 11, 9]]}}, 'container-title': ['24th Annual Symposium on Foundations of Computer Science (sfcs 1983)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4568048/4568049/04568072.pdf?arnumber=4568072', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T10:32:03Z', 'timestamp': 1497781923000}, 'score': 32.513306, 'issued': {'date-parts': [[1983, 11]]}, 'ISBN': ['0818605081'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1109/sfcs.1983.74'}
+>>> hash >>> ('The parallel complexity of the abelian permutation group membership problem', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. C. Sims, "Computational methods in the study of permutation groups" in Computational Problems in Abstract Algebra, Pergamon Press, pp. 169-183, 1970.
+>>> DOI >>> 10.1016/b978-0-08-012975-4.50020-5
+>>> URL >>> http://dx.doi.org/10.1016/b978-0-08-012975-4.50020-5
+>>> year >>> 1970.0
+>>> title >>> Computational methods in the study of permutation groups††This research was supported in part by the National Science Foundation.
+>>> author >>> CHARLES C. SIMS
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 48.0
+>>> subject >>> None
+>>> container_title >>> ['Computational Problems in Abstract Algebra']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:45:53Z', 'timestamp': 1525797953993}, 'reference-count': 17, 'publisher': 'Elsevier', 'isbn-type': [{'value': '9780080129754', 'type': 'print'}], 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1970, 1, 1]], 'date-time': '1970-01-01T00:00:00Z', 'timestamp': 0}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1970]]}, 'DOI': '10.1016/b978-0-08-012975-4.50020-5', 'type': 'book-chapter', 'created': {'date-parts': [[2014, 6, 30]], 'date-time': '2014-06-30T00:11:27Z', 'timestamp': 1404087087000}, 'page': '169-183', 'source': 'Crossref', 'is-referenced-by-count': 48, 'title': ['Computational methods in the study of permutation groups††This research was supported in part by the National Science Foundation.'], 'prefix': '10.1016', 'author': [{'given': 'CHARLES C.', 'family': 'SIMS', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Computational Problems in Abstract Algebra'], 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:B9780080129754500205?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:B9780080129754500205?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T15:43:24Z', 'timestamp': 1498146204000}, 'score': 74.850716, 'issued': {'date-parts': [[1970]]}, 'ISBN': ['9780080129754'], 'references-count': 17, 'URL': 'http://dx.doi.org/10.1016/b978-0-08-012975-4.50020-5'}
+>>> hash >>> ('Computational methods in the study of permutation groups††This research was supported in part by the National Science Foundation.', 1970.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Babai, P. J. Cameron, P. PÃ¡lfy, "On the order of primitive groups with restricted nonabelian composition factors", J. Algebra, vol. 79, pp. 161-168, 1982.
+>>> DOI >>> 10.1016/0021-8693(82)90323-4
+>>> URL >>> http://dx.doi.org/10.1016/0021-8693(82)90323-4
+>>> year >>> 1982.0
+>>> title >>> On the orders of primitive groups with restricted nonabelian composition factors
+>>> author >>> L Babai and P.J Cameron and P.P Pálfy
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 25.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Algebra']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T13:46:38Z', 'timestamp': 1525441598073}, 'reference-count': 13, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1982, 11, 1]], 'date-time': '1982-11-01T00:00:00Z', 'timestamp': 404956800000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 11216, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Algebra'], 'published-print': {'date-parts': [[1982, 11]]}, 'DOI': '10.1016/0021-8693(82)90323-4', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 9]], 'date-time': '2005-02-09T09:14:44Z', 'timestamp': 1107940484000}, 'page': '161-168', 'source': 'Crossref', 'is-referenced-by-count': 25, 'title': ['On the orders of primitive groups with restricted nonabelian composition factors'], 'prefix': '10.1016', 'volume': '79', 'author': [{'given': 'L', 'family': 'Babai', 'sequence': 'first', 'affiliation': []}, {'given': 'P.J', 'family': 'Cameron', 'sequence': 'additional', 'affiliation': []}, {'given': 'P.P', 'family': 'Pálfy', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Algebra'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0021869382903234?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0021869382903234?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T15:32:13Z', 'timestamp': 1497627133000}, 'score': 89.15136, 'issued': {'date-parts': [[1982, 11]]}, 'references-count': 13, 'journal-issue': {'published-print': {'date-parts': [[1982, 11]]}, 'issue': '1'}, 'alternative-id': ['0021869382903234'], 'URL': 'http://dx.doi.org/10.1016/0021-8693(82)90323-4', 'ISSN': ['0021-8693'], 'issn-type': [{'value': '0021-8693', 'type': 'print'}]}
+>>> hash >>> ('On the orders of primitive groups with restricted nonabelian composition factors', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Borodin, J. von zur Gathen, J. Hopcroft, "Fast parallel matrix and GCD computations", Information and Control, vol. 52, pp. 241-256, 1982.
+>>> DOI >>> 10.1016/s0019-9958(82)90766-5
+>>> URL >>> http://dx.doi.org/10.1016/s0019-9958(82)90766-5
+>>> year >>> 1982.0
+>>> title >>> Fast parallel matrix and GCD computations
+>>> author >>> Allan Borodin and Joachim von zur Gathen and John Hopcroft
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 82.0
+>>> subject >>> None
+>>> container_title >>> ['Information and Control']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T11:12:28Z', 'timestamp': 1525432348079}, 'reference-count': 21, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1982, 3, 1]], 'date-time': '1982-03-01T00:00:00Z', 'timestamp': 383788800000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 18]], 'date-time': '2013-07-18T00:00:00Z', 'timestamp': 1374105600000}, 'delay-in-days': 11462, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Information and Control'], 'published-print': {'date-parts': [[1982, 3]]}, 'DOI': '10.1016/s0019-9958(82)90766-5', 'type': 'journal-article', 'created': {'date-parts': [[2004, 12, 15]], 'date-time': '2004-12-15T09:12:12Z', 'timestamp': 1103101932000}, 'page': '241-256', 'source': 'Crossref', 'is-referenced-by-count': 82, 'title': ['Fast parallel matrix and GCD computations'], 'prefix': '10.1016', 'volume': '52', 'author': [{'given': 'Allan', 'family': 'Borodin', 'sequence': 'first', 'affiliation': []}, {'given': 'Joachim', 'family': 'von zur Gathen', 'sequence': 'additional', 'affiliation': []}, {'given': 'John', 'family': 'Hopcroft', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Information and Control'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0019995882907665?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0019995882907665?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T13:17:50Z', 'timestamp': 1497619070000}, 'score': 125.4449, 'issued': {'date-parts': [[1982, 3]]}, 'references-count': 21, 'journal-issue': {'published-print': {'date-parts': [[1982, 3]]}, 'issue': '3'}, 'alternative-id': ['S0019995882907665'], 'URL': 'http://dx.doi.org/10.1016/s0019-9958(82)90766-5', 'ISSN': ['0019-9958'], 'issn-type': [{'value': '0019-9958', 'type': 'print'}]}
+>>> hash >>> ('Fast parallel matrix and GCD computations', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. J. Cameron, "Finite permutation groups and finite simple groups", Bull. London Math. Soc., vol. 13, pp. 1-22, 1981.
+>>> DOI >>> 10.1112/blms/13.1.1
+>>> URL >>> http://dx.doi.org/10.1112/blms/13.1.1
+>>> year >>> 1981.0
+>>> title >>> Finite Permutation Groups and Finite Simple Groups
+>>> author >>> Peter J. Cameron
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 225.0
+>>> subject >>> None
+>>> container_title >>> ['Bulletin of the London Mathematical Society']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T17:22:32Z', 'timestamp': 1528392152025}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': '1', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[1981, 1, 1]], 'date-time': '1981-01-01T00:00:00Z', 'timestamp': 347155200000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://onlinelibrary.wiley.com/termsAndConditions#vor', 'start': {'date-parts': [[2016, 12, 23]], 'date-time': '2016-12-23T00:00:00Z', 'timestamp': 1482451200000}, 'delay-in-days': 13140, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Bulletin of the London Mathematical Society'], 'published-print': {'date-parts': [[1981, 1]]}, 'DOI': '10.1112/blms/13.1.1', 'type': 'journal-article', 'created': {'date-parts': [[2007, 2, 14]], 'date-time': '2007-02-14T02:46:39Z', 'timestamp': 1171421199000}, 'page': '1-22', 'source': 'Crossref', 'is-referenced-by-count': 225, 'title': ['Finite Permutation Groups and Finite Simple Groups'], 'prefix': '10.1112', 'volume': '13', 'author': [{'given': 'Peter J.', 'family': 'Cameron', 'sequence': 'first', 'affiliation': []}], 'member': '286', 'published-online': {'date-parts': [[2016, 12, 23]]}, 'container-title': ['Bulletin of the London Mathematical Society'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1112%2Fblms%2F13.1.1', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://onlinelibrary.wiley.com/wol1/doi/10.1112/blms/13.1.1/fullpdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:09:34Z', 'timestamp': 1525385374000}, 'score': 72.507744, 'issued': {'date-parts': [[1981, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1981, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1112/blms/13.1.1', 'archive': ['Portico'], 'ISSN': ['0024-6093'], 'issn-type': [{'value': '0024-6093', 'type': 'print'}]}
+>>> hash >>> ('Finite Permutation Groups and Finite Simple Groups', 1981.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. L. Miller, "Isomorphism of graphs which are pairwise k-separable", Information and Control, vol. 56, pp. 21-33, 1983.
+>>> DOI >>> 10.1016/s0019-9958(83)80048-5
+>>> URL >>> http://dx.doi.org/10.1016/s0019-9958(83)80048-5
+>>> year >>> 1983.0
+>>> title >>> Isomorphism of graphs which are pairwise k-separable
+>>> author >>> Gary L. Miller
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ['Information and Control']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T18:18:52Z', 'timestamp': 1525457932184}, 'reference-count': 28, 'publisher': 'Elsevier BV', 'issue': '1-2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1983, 1, 1]], 'date-time': '1983-01-01T00:00:00Z', 'timestamp': 410227200000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 18]], 'date-time': '2013-07-18T00:00:00Z', 'timestamp': 1374105600000}, 'delay-in-days': 11156, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Information and Control'], 'published-print': {'date-parts': [[1983, 1]]}, 'DOI': '10.1016/s0019-9958(83)80048-5', 'type': 'journal-article', 'created': {'date-parts': [[2005, 5, 6]], 'date-time': '2005-05-06T20:43:56Z', 'timestamp': 1115412236000}, 'page': '21-33', 'source': 'Crossref', 'is-referenced-by-count': 8, 'title': ['Isomorphism of graphs which are pairwise k-separable'], 'prefix': '10.1016', 'volume': '56', 'author': [{'given': 'Gary L.', 'family': 'Miller', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Information and Control'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0019995883800485?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0019995883800485?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T19:11:04Z', 'timestamp': 1497640264000}, 'score': 84.898865, 'issued': {'date-parts': [[1983, 1]]}, 'references-count': 28, 'journal-issue': {'published-print': {'date-parts': [[1983, 1]]}, 'issue': '1-2'}, 'alternative-id': ['S0019995883800485'], 'URL': 'http://dx.doi.org/10.1016/s0019-9958(83)80048-5', 'ISSN': ['0019-9958'], 'issn-type': [{'value': '0019-9958', 'type': 'print'}]}
+>>> hash >>> ('Isomorphism of graphs which are pairwise k-separable', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. FÃ¼rer, W. Schnyder, E. Specker, "Normal forms for trivalent graphs and graphs of bounded valence", Proc. 15th ACM STOC, pp. 161-170, 1983.
+>>> DOI >>> 10.1145/800061.808745
+>>> URL >>> http://dx.doi.org/10.1145/800061.808745
+>>> year >>> 1983.0
+>>> title >>> Normal forms for trivalent graphs and graphs of bounded valence
+>>> author >>> Martin Fürer and Walter Schnyder and Ernst Specker
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the fifteenth annual ACM symposium on Theory of computing  - STOC '83"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:08Z', 'timestamp': 1525392368176}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897910990', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1983]]}, 'DOI': '10.1145/800061.808745', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['Normal forms for trivalent graphs and graphs of bounded valence'], 'prefix': '10.1145', 'author': [{'given': 'Martin', 'family': 'Fürer', 'sequence': 'first', 'affiliation': []}, {'given': 'Walter', 'family': 'Schnyder', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ernst', 'family': 'Specker', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the fifteenth annual ACM symposium', 'location': 'Not Known', 'sponsor': ['SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '83", 'number': '15', 'start': {'date-parts': [[1983]]}}, 'container-title': ["Proceedings of the fifteenth annual ACM symposium on Theory of computing  - STOC '83"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=808745&amp;ftid=81800&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T00:47:00Z', 'timestamp': 1481849220000}, 'score': 94.146736, 'issued': {'date-parts': [[1983]]}, 'ISBN': ['0897910990'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/800061.808745'}
+>>> hash >>> ('Normal forms for trivalent graphs and graphs of bounded valence', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. M. Luks, "Isomorphism of graphs of bounded valence can be tested in polynomial time", J. Comp. Sys. Sci., vol. 25, pp. 42-65, 1982.
+>>> DOI >>> 10.1016/0022-0000(82)90009-5
+>>> URL >>> http://dx.doi.org/10.1016/0022-0000(82)90009-5
+>>> year >>> 1982.0
+>>> title >>> Isomorphism of graphs of bounded valence can be tested in polynomial time
+>>> author >>> Eugene M. Luks
+>>> reference_count >>> 25.0
+>>> is_referenced_by_count >>> 207.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Computer and System Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:16:04Z', 'timestamp': 1525392964008}, 'reference-count': 25, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1982, 8, 1]], 'date-time': '1982-08-01T00:00:00Z', 'timestamp': 397008000000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 11308, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Computer and System Sciences'], 'published-print': {'date-parts': [[1982, 8]]}, 'DOI': '10.1016/0022-0000(82)90009-5', 'type': 'journal-article', 'created': {'date-parts': [[2003, 12, 4]], 'date-time': '2003-12-04T12:01:00Z', 'timestamp': 1070539260000}, 'page': '42-65', 'source': 'Crossref', 'is-referenced-by-count': 207, 'title': ['Isomorphism of graphs of bounded valence can be tested in polynomial time'], 'prefix': '10.1016', 'volume': '25', 'author': [{'given': 'Eugene M.', 'family': 'Luks', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Computer and System Sciences'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0022000082900095?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0022000082900095?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T02:42:14Z', 'timestamp': 1497580934000}, 'score': 84.29718, 'issued': {'date-parts': [[1982, 8]]}, 'references-count': 25, 'journal-issue': {'published-print': {'date-parts': [[1982, 8]]}, 'issue': '1'}, 'alternative-id': ['0022000082900095'], 'URL': 'http://dx.doi.org/10.1016/0022-0000(82)90009-5', 'ISSN': ['0022-0000'], 'issn-type': [{'value': '0022-0000', 'type': 'print'}]}
+>>> hash >>> ('Isomorphism of graphs of bounded valence can be tested in polynomial time', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Babai, E. M. Luks, "Canonical labeling of graphs", Proc. 15th ACM STOC, pp. 171-183, 1983.
+>>> DOI >>> 10.1145/800061.808746
+>>> URL >>> http://dx.doi.org/10.1145/800061.808746
+>>> year >>> 1983.0
+>>> title >>> Canonical labeling of graphs
+>>> author >>> László Babai and Eugene M. Luks
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 65.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the fifteenth annual ACM symposium on Theory of computing  - STOC '83"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T18:22:40Z', 'timestamp': 1528222960785}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897910990', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1983]]}, 'DOI': '10.1145/800061.808746', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 65, 'title': ['Canonical labeling of graphs'], 'prefix': '10.1145', 'author': [{'given': 'László', 'family': 'Babai', 'sequence': 'first', 'affiliation': []}, {'given': 'Eugene M.', 'family': 'Luks', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the fifteenth annual ACM symposium', 'location': 'Not Known', 'sponsor': ['SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '83", 'number': '15', 'start': {'date-parts': [[1983]]}}, 'container-title': ["Proceedings of the fifteenth annual ACM symposium on Theory of computing  - STOC '83"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=808746&amp;ftid=81801&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T00:47:02Z', 'timestamp': 1481849222000}, 'score': 73.630424, 'issued': {'date-parts': [[1983]]}, 'ISBN': ['0897910990'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/800061.808746'}
+>>> hash >>> ('Canonical labeling of graphs', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. L. Miller, "Isomorphism of k-contractible graphs a generalization of bounded valence and bounded genus", Information and Control, vol. 56, pp. 1-20, 1983.
+>>> DOI >>> 10.1016/s0019-9958(83)80047-3
+>>> URL >>> http://dx.doi.org/10.1016/s0019-9958(83)80047-3
+>>> year >>> 1983.0
+>>> title >>> Isomorphism of k-contractible graphs. A generalization of bounded valence and bounded genus
+>>> author >>> Gary L. Miller
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['Information and Control']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T18:18:52Z', 'timestamp': 1525457932179}, 'reference-count': 27, 'publisher': 'Elsevier BV', 'issue': '1-2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1983, 1, 1]], 'date-time': '1983-01-01T00:00:00Z', 'timestamp': 410227200000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 18]], 'date-time': '2013-07-18T00:00:00Z', 'timestamp': 1374105600000}, 'delay-in-days': 11156, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Information and Control'], 'published-print': {'date-parts': [[1983, 1]]}, 'DOI': '10.1016/s0019-9958(83)80047-3', 'type': 'journal-article', 'created': {'date-parts': [[2005, 5, 6]], 'date-time': '2005-05-06T20:43:56Z', 'timestamp': 1115412236000}, 'page': '1-20', 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Isomorphism of k-contractible graphs. A generalization of bounded valence and bounded genus'], 'prefix': '10.1016', 'volume': '56', 'author': [{'given': 'Gary L.', 'family': 'Miller', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Information and Control'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0019995883800473?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0019995883800473?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T19:11:04Z', 'timestamp': 1497640264000}, 'score': 99.95081, 'issued': {'date-parts': [[1983, 1]]}, 'references-count': 27, 'journal-issue': {'published-print': {'date-parts': [[1983, 1]]}, 'issue': '1-2'}, 'alternative-id': ['S0019995883800473'], 'URL': 'http://dx.doi.org/10.1016/s0019-9958(83)80047-3', 'ISSN': ['0019-9958'], 'issn-type': [{'value': '0019-9958', 'type': 'print'}]}
+>>> hash >>> ('Isomorphism of k-contractible graphs. A generalization of bounded valence and bounded genus', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Babai, D. Y. Grigoryev, D. M. Mount, "Isomorphism of graphs with bounded eigenvalue multiplicity", Proc. 14th ACM STOC, pp. 310-324, 1982.
+>>> DOI >>> 10.1145/800070.802206
+>>> URL >>> http://dx.doi.org/10.1145/800070.802206
+>>> year >>> 1982.0
+>>> title >>> Isomorphism of graphs with bounded eigenvalue multiplicity
+>>> author >>> László Babai and D. Yu. Grigoryev and David M. Mount
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 24.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the fourteenth annual ACM symposium on Theory of computing  - STOC '82"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database106.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:38Z', 'timestamp': 1525392398421}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897910702', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1982]]}, 'DOI': '10.1145/800070.802206', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 24, 'title': ['Isomorphism of graphs with bounded eigenvalue multiplicity'], 'prefix': '10.1145', 'author': [{'given': 'László', 'family': 'Babai', 'sequence': 'first', 'affiliation': []}, {'given': 'D. Yu.', 'family': 'Grigoryev', 'sequence': 'additional', 'affiliation': []}, {'given': 'David M.', 'family': 'Mount', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the fourteenth annual ACM symposium', 'location': 'San Francisco, California, United States', 'sponsor': ['SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '82", 'start': {'date-parts': [[1982, 5, 5]]}, 'end': {'date-parts': [[1982, 5, 7]]}}, 'container-title': ["Proceedings of the fourteenth annual ACM symposium on Theory of computing  - STOC '82"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=802206&amp;ftid=54194&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T00:40:53Z', 'timestamp': 1481848853000}, 'score': 89.20681, 'issued': {'date-parts': [[1982]]}, 'ISBN': ['0897910702'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/800070.802206'}
+>>> hash >>> ('Isomorphism of graphs with bounded eigenvalue multiplicity', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

@@ -1,0 +1,60 @@
+[0] Edouard Grave, Armand Joulin, Quentin Berthet, Unsupervised Alignment of Embeddings with Wasserstein Procrustes
+[1] Absil, P.-A., Mahony, R., and Sepulchre, R. (2009). Optimization algorithms on matrix manifolds. Princeton University Press.
+[2] Aflalo, Y., Bronstein, A., and Kimmel, R. (2014). Graph matching: relax or not? arXiv preprint arXiv:1401.7623.
+[3] Aho, A. V. and Hopcroft, J. E. (1974). The design and analysis of computer algorithms. Pearson Education India.
+[4] Almohamad, H. and Duffuaa, S. O. (1993). A linear programming approach for the weighted graph matching problem. IEEE Transactions on pattern analysis and machine intelligence, 15(5):522–525.
+[5] Altschuler, J., Weed, J., and Rigollet, P. (2017). Near-linear time approximation algorithms for optimal transport via sinkhorn iteration.
+[6] Artetxe, M., Labaka, G., and Agirre, E. (2016). Learning principled bilingual mappings of word embeddings while preserving monolingual invariance. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pages 2289–2294.
+[7] Artetxe, M., Labaka, G., and Agirre, E. (2017). Learning bilingual word embeddings with (almost) no bilingual data. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), volume 1, pages 451–462.
+[8] Aucouturier, J.-J. and Pachet, F. (2008). A scale-free distribution of false positives for a large class of audio similarity measures. Pattern recognition, 41(1):272–284.
+[9] Bernton, E., Jacob, P. E., Gerber, M., and Robert, C. P. (2017). Inference in generative models using the wasserstein distance.
+[10] Besl, P. J. and McKay, N. D. (1992). Method for registration of 3-d shapes. In Sensor Fusion IV: Control Paradigms and Data Structures, volume 1611, pages 586–607. International Society for Optics and Photonics.
+[11] Bojanowski, P., Grave, E., Joulin, A., and Mikolov, T. (2016). Enriching word vectors with subword information. arXiv preprint arXiv:1607.04606.
+[12] Bojanowski, P. and Joulin, A. (2017). Unsupervised learning by predicting noise. In International Conference on Machine Learning, pages 517–526.
+[13] Cao, H., Zhao, T., Zhang, S., and Meng, Y. (2016). A distribution-based model to learn bilingual word embeddings. In Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers, pages 1818–1827.
+[14] Conneau, A., Lample, G., Ranzato, M., Denoyer, L., and Jégou, H. (2017). Word translation without parallel data. arXiv preprint arXiv:1710.04087.
+[15] Conte, D., Foggia, P., Sansone, C., and Vento, M. (2004). Thirty years of graph matching in pattern recognition. International journal of pattern recognition and artificial intelligence, 18(03):265–298.
+[16] Cootes, T. F., Taylor, C. J., Cooper, D. H., and Graham, J. (1995). Active shape models-their training and application. Computer vision and image understanding, 61(1):38–59.
+[17] Cuturi, M. (2013). Sinkhorn distances: Lightspeed computation of optimal transport. In Advances in neural information processing systems, pages 2292–2300.
+[18] Dinu, G., Lazaridou, A., and Baroni, M. (2014). Improving zero-shot learning by mitigating the hubness problem. arXiv preprint arXiv:1412.6568.
+[19] Doddington, G., Liggett, W., Martin, A., Przybocki, M., and Reynolds, D. (1998). Sheep, goats, lambs and wolves: A statistical analysis of speaker performance in the nist 1998 speaker recognition evaluation. Technical report.
+[20] Dudley, R. (1969). The speed of mean glivenko-cantelli convergence. The Annals of Mathematical Statistics, 40(1):40–50.
+[21] Fischler, M. A. and Bolles, R. C. (1987). Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography. In Readings in computer vision, pages 726–740. Elsevier.
+[22] Flamary, R., Cuturi, M., Courty, N., and Rakotomamonjy, A. (2016). Wasserstein discriminant analysis.
+[23] Foggia, P., Percannella, G., and Vento, M. (2014). Graph matching and learning in pattern recognition in the last 10 years. International Journal of Pattern Recognition and Artificial Intelligence,28(01):1450001.
+[24] Frank, M. and Wolfe, P. (1956). An algorithm for quadratic programming. Naval Research Logistics (NRL), 3(1-2):95–110.
+[25] Fung, P. (1995). Compiling bilingual lexicon entries from a non-parallel english-chinese corpus. In Third Workshop on Very Large Corpora.
+[26] Garey, M. R. and Johnson, D. S. (2002). Computers and intractability, volume 29. wh freeman New York.
+[27] Genevay, A., Peyré, G., and Cuturi, M. (2018). Learning generative models with sinkhorn divergences. In International Conference on Artificial Intelligence and Statistics, pages 1608–1617.
+[28] Gold, S. and Rangarajan, A. (1996). A graduated assignment algorithm for graph matching. IEEE Transactions on pattern analysis and machine intelligence, 18(4):377–388.
+[29] Goodall, C. (1991). Procrustes methods in the statistical analysis of shape. Journal of the Royal Statistical Society. Series B (Methodological), pages 285–339.
+[30] Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., and Bengio, Y. (2014). Generative adversarial nets. In Advances in neural information processing systems, pages 2672–2680.
+[31] Hopcroft, J. E. and Wong, J.-K. (1974). Linear time algorithm for isomorphism of planar graphs (preliminary report). In Proceedings of the sixth annual ACM symposium on Theory of computing, pages 172–184. ACM.
+[32] Hoshen, Y. and Wolf, L. (2018). An iterative closest point method for unsupervised word translation. arXiv preprint arXiv:1801.06126.
+[33] Jegou, H., Schmid, C., Harzallah, H., and Verbeek, J. (2010). Accurate image search using the contextual dissimilarity measure. IEEE Transactions on Pattern Analysis and Machine Intelligence,32(1):2–11.
+[34] Kuhn, H. W. (1955). The hungarian method for the assignment problem. Naval Research Logistics (NRL), 2(1-2):83–97.
+[35] Kusner, M., Sun, Y., Kolkin, N., and Weinberger, K. (2015). From word embeddings to document distances. In International Conference on Machine Learning, pages 957–966.
+[36] Leordeanu, M. and Hebert, M. (2005). A spectral technique for correspondence problems using pairwise constraints. In Computer Vision, 2005. ICCV 2005. Tenth IEEE International Conference on, volume 2, pages 1482–1489. IEEE.
+[37] Liu, C., Yuen, J., Torralba, A., Sivic, J., and Freeman, W. T. (2008). Sift flow: Dense correspondence across different scenes. In European conference on computer vision, pages 28–42. Springer.
+[38] Lyzinski, V., Fishkind, D. E., Fiori, M., Vogelstein, J. T., Priebe, C. E., and Sapiro, G. (2016). Graph matching: Relax at your own risk. IEEE transactions on pattern analysis and machine intelligence,38(1):60–73.
+[39] Mémoli, F. (2007). On the use of gromov-hausdorff distances for shape comparison.
+[40] Mikolov, T., Le, Q. V., and Sutskever, I. (2013). Exploiting similarities among languages for machine translation. arXiv preprint arXiv:1309.4168.
+[41] Pachet, F. and Aucouturier, J.-J. (2004). Improving timbre similarity: How high is the sky. Journal of negative results in speech and audio sciences, 1(1):1–13.
+[42] Panaretos, V. M., Zemel, Y., et al. (2016). Amplitude and phase variation of point processes. The Annals of Statistics, 44(2):771–812.
+[43] Peyré, G. and Cuturi, M. (2017). Computational Optimal Transport.
+[44] Radovanovic, M., Nanopoulos, A., and Ivanovi ´ c, M. (2010). Hubs in space: Popular nearest neighbors ´ in high-dimensional data. Journal of Machine Learning Research, 11(Sep):2487–2531.
+[45] Rapp, R. (1995). Identifying word translations in non-parallel texts. In Proceedings of the 33rd annual meeting on Association for Computational Linguistics, pages 320–322. Association for Computational Linguistics.
+[46] Rolet, A., Cuturi, M., and Peyré, G. (2016). Fast dictionary learning with a smoothed wasserstein loss. In Artificial Intelligence and Statistics, pages 630–638.
+[47] Rubner, Y., Tomasi, C., and Guibas, L. J. (1998). A metric for distributions with applications to image databases. In Computer Vision, 1998. Sixth International Conference on, pages 59–66. IEEE.
+[48] Schönemann, P. H. (1966). A generalized solution of the orthogonal procrustes problem. Psychometrika,31(1):1–10.
+[49] Smith, S. L., Turban, D. H., Hamblin, S., and Hammerla, N. Y. (2017). Offline bilingual word vectors, orthogonal transformations and the inverted softmax. arXiv preprint arXiv:1702.03859.
+[50] Solomon, J., Peyré, G., Kim, V. G., and Sra, S. (2016). Entropic metric alignment for correspondence problems. ACM Transactions on Graphics (TOG), 35(4):72.
+[51] Sommerfeld, M., Schrieber, J., and Munk, A. (2018). Optimal transport: Fast probabilistic approximation with exact solvers.
+[52] Tameling, C., Sommerfeld, M., and Munk, A. (2017). Empirical optimal transport on countable metric spaces: Distributional limits and statistical applications.
+[53] Tomasi, C. and Kanade, T. (1992). Shape and motion from image streams under orthography: a factorization method. International Journal of Computer Vision, 9(2):137–154.
+[54] Weed, J. and Bach, F. (2017). Sharp asymptotic and finite-sample rates of convergence of empirical measures in wasserstein distance. arXiv preprint arXiv:1707.00087.
+[55] Xing, C., Wang, D., Liu, C., and Lin, Y. (2015). Normalized word embedding and orthogonal transform for bilingual word translation. In Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages1006–1011.
+[56] Zaslavskiy, M., Bach, F., and Vert, J.-P. (2009). A path following algorithm for the graph matching problem. IEEE Transactions on Pattern Analysis and Machine Intelligence, 31(12):2227–2242.
+[57] Zemel, Y. and Panaretos, V. M. (2017). Fréchet means and procrustes analysis in wasserstein space.
+[58] Zhang, M., Liu, Y., Luan, H., and Sun, M. (2017a). Adversarial training for unsupervised bilingual lexicon induction. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), volume 1, pages 1959–1970.
+[59] Zhang, M., Liu, Y., Luan, H., and Sun, M. (2017b). Earth mover’s distance minimization for unsupervised bilingual lexicon induction. In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pages 1934–1945.

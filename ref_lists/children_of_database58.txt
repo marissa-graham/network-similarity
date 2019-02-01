@@ -1,0 +1,913 @@
+>>> NEW PAPER <<<
+>>> citation >>> Shi, J., Malik, J.: Normalised cuts and image segmentation. IEEE Transactions on Pattern Matching and Machine Intelligence 22, 888â€“905 (2000)
+>>> DOI >>> 10.1109/34.868688
+>>> URL >>> http://dx.doi.org/10.1109/34.868688
+>>> year >>> 2000.0
+>>> title >>> Normalized cuts and image segmentation
+>>> author >>> None
+>>> reference_count >>> 25.0
+>>> is_referenced_by_count >>> 5074.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T22:42:28Z', 'timestamp': 1528411348084}, 'reference-count': 25, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '8', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2000]]}, 'DOI': '10.1109/34.868688', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '888-905', 'source': 'Crossref', 'is-referenced-by-count': 5074, 'title': ['Normalized cuts and image segmentation'], 'prefix': '10.1109', 'volume': '22', 'author': [{'family': 'Jianbo Shi', 'sequence': 'first', 'affiliation': []}, {'given': 'J.', 'family': 'Malik', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/18808/00868688.pdf?arnumber=868688', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:28:48Z', 'timestamp': 1497522528000}, 'score': 77.67343, 'issued': {'date-parts': [[2000]]}, 'references-count': 25, 'journal-issue': {'issue': '8'}, 'URL': 'http://dx.doi.org/10.1109/34.868688', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Normalized cuts and image segmentation', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Belkin, M., Niyogi, P.: Laplacian eigenmaps for dimensionality reduction and data representation. Neural Computation 15, 1373â€“1396 (2003)
+>>> DOI >>> 10.1162/089976603321780317
+>>> URL >>> http://dx.doi.org/10.1162/089976603321780317
+>>> year >>> 2003.0
+>>> title >>> Laplacian Eigenmaps for Dimensionality Reduction and Data Representation
+>>> author >>> Mikhail Belkin and Partha Niyogi
+>>> reference_count >>> 9.0
+>>> is_referenced_by_count >>> 2716.0
+>>> subject >>> None
+>>> container_title >>> ['Neural Computation']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365340}, 'reference-count': 9, 'publisher': 'MIT Press - Journals', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Neural Computation'], 'published-print': {'date-parts': [[2003, 6]]}, 'DOI': '10.1162/089976603321780317', 'type': 'journal-article', 'created': {'date-parts': [[2003, 5, 22]], 'date-time': '2003-05-22T00:10:22Z', 'timestamp': 1053562222000}, 'page': '1373-1396', 'source': 'Crossref', 'is-referenced-by-count': 2716, 'title': ['Laplacian Eigenmaps for Dimensionality Reduction and Data Representation'], 'prefix': '10.1162', 'volume': '15', 'author': [{'given': 'Mikhail', 'family': 'Belkin', 'sequence': 'first', 'affiliation': []}, {'given': 'Partha', 'family': 'Niyogi', 'sequence': 'additional', 'affiliation': []}], 'member': '281', 'reference': [{'key': 'p_4', 'DOI': '10.4310/CAG.2000.v8.n5.a2', 'doi-asserted-by': 'publisher'}, {'key': 'p_5', 'DOI': '10.1109/43.144852', 'doi-asserted-by': 'publisher'}, {'key': 'p_10', 'DOI': '10.2307/1969840', 'doi-asserted-by': 'publisher'}, {'key': 'p_11', 'DOI': '10.2307/1969989', 'doi-asserted-by': 'publisher'}, {'key': 'p_14', 'DOI': '10.1126/science.290.5500.2323', 'doi-asserted-by': 'publisher'}, {'key': 'p_15', 'DOI': '10.1162/089976698300017467', 'doi-asserted-by': 'publisher'}, {'key': 'p_16', 'DOI': '10.1126/science.290.5500.2268', 'doi-asserted-by': 'publisher'}, {'key': 'p_18', 'DOI': '10.1016/0956-0521(91)90014-V', 'doi-asserted-by': 'publisher'}, {'key': 'p_19', 'DOI': '10.1126/science.290.5500.2319', 'doi-asserted-by': 'publisher'}], 'container-title': ['Neural Computation'], 'language': 'en', 'link': [{'URL': 'http://www.mitpressjournals.org/doi/pdf/10.1162/089976603321780317', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T17:49:13Z', 'timestamp': 1481046553000}, 'score': 109.760155, 'issued': {'date-parts': [[2003, 6]]}, 'references-count': 9, 'journal-issue': {'published-print': {'date-parts': [[2003, 6]]}, 'issue': '6'}, 'alternative-id': ['10.1162/089976603321780317'], 'URL': 'http://dx.doi.org/10.1162/089976603321780317', 'relation': {'cites': []}, 'ISSN': ['0899-7667', '1530-888X'], 'issn-type': [{'value': '0899-7667', 'type': 'print'}, {'value': '1530-888X', 'type': 'electronic'}]}
+>>> hash >>> ('Laplacian Eigenmaps for Dimensionality Reduction and Data Representation', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Buckley, F., Harary, F.: Distance in graphs. Addison-Wesley Publishing Company, Reading (1990)
+>>> DOI >>> 10.1207/s15328023top0504_16
+>>> URL >>> http://dx.doi.org/10.1207/s15328023top0504_16
+>>> year >>> 1978.0
+>>> title >>> Behavior BazaarHaberA.RunyonR. E.Fundamentals of Psychology (2nd ed.). Reading, Massachusetts: Addison-Wesley Publishing Company, 1978.RunyonR. E.Instructor's resource guide for Fundamentals of Psychology (2nd ed.) Reading, Massachusetts: Addison-Wesley Publishing Company, 1978.ReeseP.HaberA.RunyonR. E.Student workbook for Fundamentals of Psychology (2nd ed.). Reading, Massachusetts: Addison-Wesley Publishing Company, 1978.
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['Teaching of Psychology']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:11:27Z', 'timestamp': 1525482687621}, 'reference-count': 0, 'publisher': 'SAGE Publications', 'issue': '4', 'license': [{'URL': 'http://journals.sagepub.com/page/policies/text-and-data-mining-license', 'start': {'date-parts': [[1978, 12, 1]], 'date-time': '1978-12-01T00:00:00Z', 'timestamp': 281318400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Teaching of Psychology'], 'published-print': {'date-parts': [[1978, 12]]}, 'DOI': '10.1207/s15328023top0504_16', 'type': 'journal-article', 'created': {'date-parts': [[2005, 12, 21]], 'date-time': '2005-12-21T19:53:24Z', 'timestamp': 1135194804000}, 'page': '225-226', 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ["Behavior BazaarHaberA.RunyonR. E.Fundamentals of Psychology (2nd ed.). Reading, Massachusetts: Addison-Wesley Publishing Company, 1978.RunyonR. E.Instructor's resource guide for Fundamentals of Psychology (2nd ed.) Reading, Massachusetts: Addison-Wesley Publishing Company, 1978.ReeseP.HaberA.RunyonR. E.Student workbook for Fundamentals of Psychology (2nd ed.). Reading, Massachusetts: Addison-Wesley Publishing Company, 1978."], 'prefix': '10.1177', 'volume': '5', 'member': '179', 'published-online': {'date-parts': [[2016, 8, 26]]}, 'container-title': ['Teaching of Psychology'], 'language': 'en', 'link': [{'URL': 'http://journals.sagepub.com/doi/pdf/10.1207/s15328023top0504_16', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://journals.sagepub.com/doi/pdf/10.1207/s15328023top0504_16', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 1, 22]], 'date-time': '2018-01-22T01:26:43Z', 'timestamp': 1516584403000}, 'score': 51.76839, 'issued': {'date-parts': [[1978, 12]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2016, 8, 26]]}, 'published-print': {'date-parts': [[1978, 12]]}, 'issue': '4'}, 'alternative-id': ['10.1207/s15328023top0504_16'], 'URL': 'http://dx.doi.org/10.1207/s15328023top0504_16', 'ISSN': ['0098-6283', '1532-8023'], 'issn-type': [{'value': '0098-6283', 'type': 'print'}, {'value': '1532-8023', 'type': 'electronic'}]}
+>>> hash >>> ("Behavior BazaarHaberA.RunyonR. E.Fundamentals of Psychology (2nd ed.). Reading, Massachusetts: Addison-Wesley Publishing Company, 1978.RunyonR. E.Instructor's resource guide for Fundamentals of Psychology (2nd ed.) Reading, Massachusetts: Addison-Wesley Publishing Company, 1978.ReeseP.HaberA.RunyonR. E.Student workbook for Fundamentals of Psychology (2nd ed.). Reading, Massachusetts: Addison-Wesley Publishing Company, 1978.", 1978.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kleinberg, J.M.: Authoritative sources in a hyperlinked environment. Journal of the ACM 46(5), 604â€“632 (1999)
+>>> DOI >>> 10.1145/324133.324140
+>>> URL >>> http://dx.doi.org/10.1145/324133.324140
+>>> year >>> 1999.0
+>>> title >>> Authoritative sources in a hyperlinked environment
+>>> author >>> Jon M. Kleinberg
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2679.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T23:02:34Z', 'timestamp': 1528326154002}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JACM', 'J. ACM'], 'published-print': {'date-parts': [[1999, 9, 1]]}, 'DOI': '10.1145/324133.324140', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:26:13Z', 'timestamp': 1027769173000}, 'page': '604-632', 'source': 'Crossref', 'is-referenced-by-count': 2679, 'title': ['Authoritative sources in a hyperlinked environment'], 'prefix': '10.1145', 'volume': '46', 'author': [{'given': 'Jon M.', 'family': 'Kleinberg', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'container-title': ['Journal of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=324140&amp;ftid=13689&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T22:08:29Z', 'timestamp': 1481839709000}, 'score': 76.77424, 'issued': {'date-parts': [[1999, 9, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1145/324133.324140', 'ISSN': ['0004-5411'], 'issn-type': [{'value': '0004-5411', 'type': 'print'}]}
+>>> hash >>> ('Authoritative sources in a hyperlinked environment', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kemeny, J.G., Snell, J.L.: Finite Markov Chains. Springer, Heidelberg (1960)
+>>> DOI >>> 10.2307/2309264
+>>> URL >>> http://dx.doi.org/10.2307/2309264
+>>> year >>> 1960.0
+>>> title >>> Finite Markov Chains.
+>>> author >>> K. A. Bush and J. G. Kemeny and J. L. Snell
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['The American Mathematical Monthly']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T19:32:15Z', 'timestamp': 1525289535451}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '10', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['The American Mathematical Monthly'], 'published-print': {'date-parts': [[1960, 12]]}, 'DOI': '10.2307/2309264', 'type': 'journal-article', 'created': {'date-parts': [[2006, 4, 23]], 'date-time': '2006-04-23T08:01:53Z', 'timestamp': 1145779313000}, 'page': '1039', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Finite Markov Chains.'], 'prefix': '10.2307', 'volume': '67', 'author': [{'given': 'K. A.', 'family': 'Bush', 'sequence': 'first', 'affiliation': []}, {'given': 'J. G.', 'family': 'Kemeny', 'sequence': 'additional', 'affiliation': []}, {'given': 'J. L.', 'family': 'Snell', 'sequence': 'additional', 'affiliation': []}], 'member': '1121', 'container-title': ['The American Mathematical Monthly'], 'deposited': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T07:45:02Z', 'timestamp': 1524037502000}, 'score': 51.07218, 'issued': {'date-parts': [[1960, 12]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1960, 12]]}, 'issue': '10'}, 'URL': 'http://dx.doi.org/10.2307/2309264', 'ISSN': ['0002-9890'], 'issn-type': [{'value': '0002-9890', 'type': 'print'}]}
+>>> hash >>> ('Finite Markov Chains.', 1960.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Deerweester, S., Dumais, S., Furnas, G., Landauer, T., Harshman, R.: Indexing by latent semantic analysis. Journal of the American Society for Information Science 41, 391â€“407 (1990)
+>>> DOI >>> 10.1002/(sici)1097-4571(199009)41:6<391::aid-asi1>3.0.co;2-9
+>>> URL >>> http://dx.doi.org/10.1002/(sici)1097-4571(199009)41:6<391::aid-asi1>3.0.co;2-9
+>>> year >>> 1990.0
+>>> title >>> Indexing by latent semantic analysis
+>>> author >>> Scott Deerwester and Susan T. Dumais and George W. Furnas and Thomas K. Landauer and Richard Harshman
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2913.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the American Society for Information Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T23:42:28Z', 'timestamp': 1528328548333}, 'reference-count': 0, 'publisher': 'Wiley', 'issue': '6', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 9131, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J. Am. Soc. Inf. Sci.'], 'published-print': {'date-parts': [[1990, 9]]}, 'DOI': '10.1002/(sici)1097-4571(199009)41:6<391::aid-asi1>3.0.co;2-9', 'type': 'journal-article', 'created': {'date-parts': [[2004, 11, 23]], 'date-time': '2004-11-23T10:21:26Z', 'timestamp': 1101205286000}, 'page': '391-407', 'source': 'Crossref', 'is-referenced-by-count': 2913, 'title': ['Indexing by latent semantic analysis'], 'prefix': '10.1002', 'volume': '41', 'author': [{'given': 'Scott', 'family': 'Deerwester', 'sequence': 'first', 'affiliation': []}, {'given': 'Susan T.', 'family': 'Dumais', 'sequence': 'additional', 'affiliation': []}, {'given': 'George W.', 'family': 'Furnas', 'sequence': 'additional', 'affiliation': []}, {'given': 'Thomas K.', 'family': 'Landauer', 'sequence': 'additional', 'affiliation': []}, {'given': 'Richard', 'family': 'Harshman', 'sequence': 'additional', 'affiliation': []}], 'member': '311', 'container-title': ['Journal of the American Society for Information Science'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F(SICI)1097-4571(199009)41:6%3C391::AID-ASI1%3E3.0.CO;2-9', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 4, 7]], 'date-time': '2017-04-07T23:58:54Z', 'timestamp': 1491609534000}, 'score': 75.2566, 'issued': {'date-parts': [[1990, 9]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1990, 9]]}, 'issue': '6'}, 'URL': 'http://dx.doi.org/10.1002/(sici)1097-4571(199009)41:6<391::aid-asi1>3.0.co;2-9', 'ISSN': ['0002-8231', '1097-4571'], 'issn-type': [{'value': '0002-8231', 'type': 'print'}, {'value': '1097-4571', 'type': 'electronic'}]}
+>>> hash >>> ('Indexing by latent semantic analysis', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bollobas, B.: Modern graph theory. Springer, Heidelberg (1998)
+>>> DOI >>> 10.1007/978-1-4612-0619-4
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4612-0619-4
+>>> year >>> 1998.0
+>>> title >>> Modern Graph Theory
+>>> author >>> Béla Bollobás
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 864.0
+>>> subject >>> None
+>>> container_title >>> ['Graduate Texts in Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T04:02:36Z', 'timestamp': 1528430556226}, 'publisher-location': 'New York, NY', 'reference-count': 0, 'publisher': 'Springer New York', 'isbn-type': [{'value': '9780387984889', 'type': 'print'}, {'value': '9781461206194', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[1998, 1, 1]], 'date-time': '1998-01-01T00:00:00Z', 'timestamp': 883612800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1998]]}, 'DOI': '10.1007/978-1-4612-0619-4', 'type': 'book', 'created': {'date-parts': [[2011, 7, 27]], 'date-time': '2011-07-27T23:19:33Z', 'timestamp': 1311808773000}, 'source': 'Crossref', 'is-referenced-by-count': 864, 'title': ['Modern Graph Theory'], 'prefix': '10.1007', 'author': [{'given': 'Béla', 'family': 'Bollobás', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Graduate Texts in Mathematics'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-1-4612-0619-4', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 8, 10]], 'date-time': '2016-08-10T17:50:51Z', 'timestamp': 1470851451000}, 'score': 42.690334, 'issued': {'date-parts': [[1998]]}, 'ISBN': ['9780387984889', '9781461206194'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4612-0619-4', 'ISSN': ['0072-5285'], 'issn-type': [{'value': '0072-5285', 'type': 'print'}]}
+>>> hash >>> ('Modern Graph Theory', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Doyle, P.G., Snell, J.L.: Random Walks and Electric Networks. The Mathematical Association of America (1984)
+>>> DOI >>> 10.5948/upo9781614440222.004
+>>> URL >>> http://dx.doi.org/10.5948/upo9781614440222.004
+>>> year >>> None
+>>> title >>> RANDOM WALKS ON MORE GENERAL NETWORKS
+>>> author >>> Peter G. Doyle and J. Laurie Snell
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Random Walks and Electric Networks']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T00:24:46Z', 'timestamp': 1525479886797}, 'publisher-location': 'Washington DC', 'reference-count': 0, 'publisher': 'The Mathematical Association of America', 'isbn-type': [{'value': '9781614440222', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.5948/upo9781614440222.004', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 1, 10]], 'date-time': '2012-01-10T05:32:45Z', 'timestamp': 1326173565000}, 'page': '39-64', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['RANDOM WALKS ON MORE GENERAL NETWORKS'], 'prefix': '10.5948', 'author': [{'given': 'Peter G.', 'family': 'Doyle', 'sequence': 'first', 'affiliation': []}, {'given': 'J. Laurie', 'family': 'Snell', 'sequence': 'additional', 'affiliation': []}], 'member': '56', 'container-title': ['Random Walks and Electric Networks'], 'deposited': {'date-parts': [[2018, 4, 13]], 'date-time': '2018-04-13T09:47:23Z', 'timestamp': 1523612843000}, 'score': 59.228775, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9781614440222'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.5948/upo9781614440222.004'}
+>>> hash >>> ('RANDOM WALKS ON MORE GENERAL NETWORKS', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Page, L., Brin, S., Motwani, R., Winograd, T.: The pagerank citation ranking: Bringing order to the web. Technical Report, Computer System Laboratory, Stanford University (1998)
+>>> DOI >>> 10.1007/springerreference_57796
+>>> URL >>> http://dx.doi.org/10.1007/springerreference_57796
+>>> year >>> None
+>>> title >>> PageRank Algorithm, 1998; Brin, Page
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['SpringerReference']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T11:34:30Z', 'timestamp': 1525433670345}, 'publisher-location': 'Berlin/Heidelberg', 'reference-count': 0, 'publisher': 'Springer-Verlag', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/springerreference_57796', 'type': 'reference-entry', 'created': {'date-parts': [[2011, 8, 29]], 'date-time': '2011-08-29T16:11:46Z', 'timestamp': 1314634306000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['PageRank Algorithm, 1998; Brin, Page'], 'prefix': '10.1007', 'member': '297', 'container-title': ['SpringerReference'], 'deposited': {'date-parts': [[2011, 8, 29]], 'date-time': '2011-08-29T16:14:29Z', 'timestamp': 1314634469000}, 'score': 49.617413, 'issued': {'date-parts': [[None]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/springerreference_57796'}
+>>> hash >>> ('PageRank Algorithm, 1998; Brin, Page', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Belkin, M., Niyogi, P.: Laplacian eigenmaps and spectral techniques for embedding and clustering. In: Dietterich, T.G., Becker, S., Ghahramani, Z. (eds.) Advances in Neural Information Processing Systems, vol. 14, pp. 585â€“591. MIT Press, Cambridge (2001)
+>>> DOI >>> 10.1162/089976603321780317
+>>> URL >>> http://dx.doi.org/10.1162/089976603321780317
+>>> year >>> 2003.0
+>>> title >>> Laplacian Eigenmaps for Dimensionality Reduction and Data Representation
+>>> author >>> Mikhail Belkin and Partha Niyogi
+>>> reference_count >>> 9.0
+>>> is_referenced_by_count >>> 2716.0
+>>> subject >>> None
+>>> container_title >>> ['Neural Computation']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365340}, 'reference-count': 9, 'publisher': 'MIT Press - Journals', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Neural Computation'], 'published-print': {'date-parts': [[2003, 6]]}, 'DOI': '10.1162/089976603321780317', 'type': 'journal-article', 'created': {'date-parts': [[2003, 5, 22]], 'date-time': '2003-05-22T00:10:22Z', 'timestamp': 1053562222000}, 'page': '1373-1396', 'source': 'Crossref', 'is-referenced-by-count': 2716, 'title': ['Laplacian Eigenmaps for Dimensionality Reduction and Data Representation'], 'prefix': '10.1162', 'volume': '15', 'author': [{'given': 'Mikhail', 'family': 'Belkin', 'sequence': 'first', 'affiliation': []}, {'given': 'Partha', 'family': 'Niyogi', 'sequence': 'additional', 'affiliation': []}], 'member': '281', 'reference': [{'key': 'p_4', 'DOI': '10.4310/CAG.2000.v8.n5.a2', 'doi-asserted-by': 'publisher'}, {'key': 'p_5', 'DOI': '10.1109/43.144852', 'doi-asserted-by': 'publisher'}, {'key': 'p_10', 'DOI': '10.2307/1969840', 'doi-asserted-by': 'publisher'}, {'key': 'p_11', 'DOI': '10.2307/1969989', 'doi-asserted-by': 'publisher'}, {'key': 'p_14', 'DOI': '10.1126/science.290.5500.2323', 'doi-asserted-by': 'publisher'}, {'key': 'p_15', 'DOI': '10.1162/089976698300017467', 'doi-asserted-by': 'publisher'}, {'key': 'p_16', 'DOI': '10.1126/science.290.5500.2268', 'doi-asserted-by': 'publisher'}, {'key': 'p_18', 'DOI': '10.1016/0956-0521(91)90014-V', 'doi-asserted-by': 'publisher'}, {'key': 'p_19', 'DOI': '10.1126/science.290.5500.2319', 'doi-asserted-by': 'publisher'}], 'container-title': ['Neural Computation'], 'language': 'en', 'link': [{'URL': 'http://www.mitpressjournals.org/doi/pdf/10.1162/089976603321780317', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T17:49:13Z', 'timestamp': 1481046553000}, 'score': 54.795883, 'issued': {'date-parts': [[2003, 6]]}, 'references-count': 9, 'journal-issue': {'published-print': {'date-parts': [[2003, 6]]}, 'issue': '6'}, 'alternative-id': ['10.1162/089976603321780317'], 'URL': 'http://dx.doi.org/10.1162/089976603321780317', 'relation': {'cites': []}, 'ISSN': ['0899-7667', '1530-888X'], 'issn-type': [{'value': '0899-7667', 'type': 'print'}, {'value': '1530-888X', 'type': 'electronic'}]}
+>>> hash >>> ('Laplacian Eigenmaps for Dimensionality Reduction and Data Representation', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Pothen, A., Simon, H., Liou, K.-P.: Partitioning sparse matrices with eigenvectors of graphs. SIAM Journal of Matrix Analysis 11(3), 430â€“452 (1990)
+>>> DOI >>> 10.1137/0611030
+>>> URL >>> http://dx.doi.org/10.1137/0611030
+>>> year >>> 1990.0
+>>> title >>> Partitioning Sparse Matrices with Eigenvectors of Graphs
+>>> author >>> Alex Pothen and Horst D. Simon and Kang-Pu Liou
+>>> reference_count >>> 45.0
+>>> is_referenced_by_count >>> 725.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Matrix Analysis and Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T14:22:35Z', 'timestamp': 1528294955078}, 'reference-count': 45, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Matrix Anal. & Appl.'], 'published-print': {'date-parts': [[1990, 7]]}, 'DOI': '10.1137/0611030', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 27]], 'date-time': '2005-02-27T12:09:47Z', 'timestamp': 1109506187000}, 'page': '430-452', 'source': 'Crossref', 'is-referenced-by-count': 725, 'title': ['Partitioning Sparse Matrices with Eigenvectors of Graphs'], 'prefix': '10.1137', 'volume': '11', 'author': [{'given': 'Alex', 'family': 'Pothen', 'sequence': 'first', 'affiliation': []}, {'given': 'Horst D.', 'family': 'Simon', 'sequence': 'additional', 'affiliation': []}, {'given': 'Kang-Pu', 'family': 'Liou', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Matrix Analysis and Applications'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0611030', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 10, 2]], 'date-time': '2017-10-02T16:12:26Z', 'timestamp': 1506960746000}, 'score': 99.08517, 'issued': {'date-parts': [[1990, 7]]}, 'references-count': 45, 'journal-issue': {'published-print': {'date-parts': [[1990, 7]]}, 'issue': '3'}, 'alternative-id': ['10.1137/0611030'], 'URL': 'http://dx.doi.org/10.1137/0611030', 'ISSN': ['0895-4798', '1095-7162'], 'issn-type': [{'value': '0895-4798', 'type': 'print'}, {'value': '1095-7162', 'type': 'electronic'}]}
+>>> hash >>> ('Partitioning Sparse Matrices with Eigenvectors of Graphs', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Meila, M., Shi, J.: A random walks view of spectral segmentation. In: Proceedings of AISTATS (2001)
+>>> DOI >>> 10.1515/9783110198089.2.487
+>>> URL >>> http://dx.doi.org/10.1515/9783110198089.2.487
+>>> year >>> 2004.0
+>>> title >>> Random walks, spectral radii, and Ramanujan graphs
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Random Walks and Geometry']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 17]], 'date-time': '2018-04-17T11:04:26Z', 'timestamp': 1523963066491}, 'publisher-location': 'Berlin, New York', 'reference-count': 0, 'publisher': 'Walter de Gruyter', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004, 1, 26]]}, 'DOI': '10.1515/9783110198089.2.487', 'type': 'book-chapter', 'created': {'date-parts': [[2016, 9, 8]], 'date-time': '2016-09-08T10:01:57Z', 'timestamp': 1473328917000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Random walks, spectral radii, and Ramanujan graphs'], 'prefix': '10.1515', 'member': '374', 'container-title': ['Random Walks and Geometry'], 'link': [{'URL': 'http://www.degruyter.com/view/books/9783110198089/9783110198089.2.487/9783110198089.2.487.xml', 'content-type': 'text/html', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'https://www.degruyter.com/view/books/9783110198089/9783110198089.2.487/9783110198089.2.487.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 5, 18]], 'date-time': '2017-05-18T19:21:02Z', 'timestamp': 1495135262000}, 'score': 29.78949, 'editor': [{'given': 'Vadim A.', 'family': 'Kaimanovich', 'sequence': 'first', 'affiliation': []}], 'issued': {'date-parts': [[2004, 1, 26]]}, 'ISBN': ['9783110198089'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1515/9783110198089.2.487'}
+>>> hash >>> ('Random walks, spectral radii, and Ramanujan graphs', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kamvar, S., Klein, D., Manning, C.: Spectral learning. In: Proceedings of the International Joint Conference of Artificial Intelligence (April 2003)
+>>> DOI >>> 10.24963/ijcai.2017/757
+>>> URL >>> http://dx.doi.org/10.24963/ijcai.2017/757
+>>> year >>> 2017.0
+>>> title >>> Curriculum Learning in Reinforcement Learning
+>>> author >>> Sanmit Narvekar
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T19:27:06Z', 'timestamp': 1525721226653}, 'publisher-location': 'California', 'reference-count': 0, 'publisher': 'International Joint Conferences on Artificial Intelligence Organization', 'isbn-type': [{'value': '9780999241103', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2017, 8]]}, 'abstract': '<jats:p>Transfer learning in reinforcement learning is an area of research that seeks to speed up or improve learning of a complex target task, by leveraging knowledge from one or more source tasks. This thesis will extend the concept of transfer learning to curriculum learning, where the goal is to design a sequence of source tasks for an agent to train on, such that final performance or learning speed is improved. We discuss completed work on this topic, including methods for semi-automatically generating source tasks tailored to an agent and the characteristics of a target domain, and automatically sequencing such tasks into a curriculum. Finally, we also present ideas for future work.</jats:p>', 'DOI': '10.24963/ijcai.2017/757', 'type': 'proceedings-article', 'created': {'date-parts': [[2017, 7, 28]], 'date-time': '2017-07-28T09:14:07Z', 'timestamp': 1501233247000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Curriculum Learning in Reinforcement Learning'], 'prefix': '10.24963', 'author': [{'given': 'Sanmit', 'family': 'Narvekar', 'sequence': 'first', 'affiliation': [{'name': 'University of Texas at Austin'}]}], 'member': '10584', 'event': {'name': 'Twenty-Sixth International Joint Conference on Artificial Intelligence', 'theme': 'Artificial Intelligence', 'location': 'Melbourne, Australia', 'sponsor': ['International Joint Conferences on Artificial Intelligence Organization (IJCAI)', 'University of Technology Sydney (UTS)', 'Australian Computer Society (ACS)'], 'acronym': 'IJCAI-2017', 'number': '26', 'start': {'date-parts': [[2017, 8, 19]]}, 'end': {'date-parts': [[2017, 8, 26]]}}, 'container-title': ['Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence'], 'deposited': {'date-parts': [[2017, 7, 28]], 'date-time': '2017-07-28T11:55:27Z', 'timestamp': 1501242927000}, 'score': 34.854607, 'issued': {'date-parts': [[2017, 8]]}, 'ISBN': ['9780999241103'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.24963/ijcai.2017/757'}
+>>> hash >>> ('Curriculum Learning in Reinforcement Learning', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kannan, V.R., Vempala, S.: On clusterings: Good, bad and spectral. In: Proceedings of the 41st Annual Symposium on Foundations of Computer Science (2000)
+>>> DOI >>> 10.1109/sfcs.2000.892125
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.2000.892125
+>>> year >>> None
+>>> title >>> On clusterings-good, bad and spectral
+>>> author >>> R. Kannan and S. Vempala and A. Veta
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 61.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings 41st Annual Symposium on Foundations of Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 2]], 'date-time': '2018-06-02T09:42:28Z', 'timestamp': 1527932548673}, 'reference-count': 16, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769508502', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/sfcs.2000.892125', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 8]], 'date-time': '2002-11-08T02:03:12Z', 'timestamp': 1036720992000}, 'source': 'Crossref', 'is-referenced-by-count': 61, 'title': ['On clusterings-good, bad and spectral'], 'prefix': '10.1109', 'author': [{'given': 'R.', 'family': 'Kannan', 'sequence': 'first', 'affiliation': []}, {'given': 'S.', 'family': 'Vempala', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Veta', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '41st Annual Symposium on Foundations of Computer Science', 'location': 'Redondo Beach, CA, USA', 'acronym': 'SFCS-00'}, 'container-title': ['Proceedings 41st Annual Symposium on Foundations of Computer Science'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/7164/19278/00892125.pdf?arnumber=892125', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T13:56:54Z', 'timestamp': 1497535014000}, 'score': 94.03353, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769508502'], 'references-count': 16, 'URL': 'http://dx.doi.org/10.1109/sfcs.2000.892125'}
+>>> hash >>> ('On clusterings-good, bad and spectral', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Fiedler, M.: A property of eigenvectors of nonnegative symmetric matrices and its applications to graph theory. Czech. Math. J. 25(100), 619â€“633 (1975)
+>>> DOI >>> 10.1016/0024-3795(74)90031-7
+>>> URL >>> http://dx.doi.org/10.1016/0024-3795(74)90031-7
+>>> year >>> 1974.0
+>>> title >>> Eigenvalues of nonnegative symmetric matrices
+>>> author >>> Miroslav Fiedler
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 77.0
+>>> subject >>> None
+>>> container_title >>> ['Linear Algebra and its Applications']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T17:22:30Z', 'timestamp': 1525454550099}, 'reference-count': 10, 'publisher': 'Elsevier BV', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1974, 1, 1]], 'date-time': '1974-01-01T00:00:00Z', 'timestamp': 126230400000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 14442, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Linear Algebra and its Applications'], 'published-print': {'date-parts': [[1974]]}, 'DOI': '10.1016/0024-3795(74)90031-7', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T03:59:34Z', 'timestamp': 1027655974000}, 'page': '119-142', 'source': 'Crossref', 'is-referenced-by-count': 77, 'title': ['Eigenvalues of nonnegative symmetric matrices'], 'prefix': '10.1016', 'volume': '9', 'author': [{'given': 'Miroslav', 'family': 'Fiedler', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Linear Algebra and its Applications'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0024379574900317?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0024379574900317?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T04:12:36Z', 'timestamp': 1497499956000}, 'score': 47.98414, 'issued': {'date-parts': [[1974]]}, 'references-count': 10, 'alternative-id': ['0024379574900317'], 'URL': 'http://dx.doi.org/10.1016/0024-3795(74)90031-7', 'ISSN': ['0024-3795'], 'issn-type': [{'value': '0024-3795', 'type': 'print'}]}
+>>> hash >>> ('Eigenvalues of nonnegative symmetric matrices', 1974.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Lay, D.: Linear algebra and its applications, 3rd edn. Addison-Wesley, Reading (2003)
+>>> DOI >>> 10.11120/msor.2003.03030051
+>>> URL >>> http://dx.doi.org/10.11120/msor.2003.03030051
+>>> year >>> 2003.0
+>>> title >>> Linear Algebra and its Applications (Third edition)Title: Linear Algebra and its Applications ( Third edition ) Author: David C. Lay Addison Wesley 2003 , ISBN: 0-201-70970-8
+>>> author >>> Hugh Porteous
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['MSOR Connections']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T15:38:42Z', 'timestamp': 1525707522682}, 'reference-count': 0, 'publisher': 'Educational Development Unit, University of Greenwich', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['MSOR Connections'], 'published-print': {'date-parts': [[2003, 8]]}, 'DOI': '10.11120/msor.2003.03030051', 'type': 'journal-article', 'created': {'date-parts': [[2013, 4, 10]], 'date-time': '2013-04-10T18:55:40Z', 'timestamp': 1365620140000}, 'page': '51-51', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Linear Algebra and its Applications (Third edition)Title: Linear Algebra and its Applications ( Third edition ) Author: David C. Lay Addison Wesley 2003 , ISBN: 0-201-70970-8'], 'prefix': '10.21100', 'volume': '3', 'author': [{'given': 'Hugh', 'family': 'Porteous', 'sequence': 'first', 'affiliation': []}], 'member': '8854', 'container-title': ['MSOR Connections'], 'language': 'en', 'deposited': {'date-parts': [[2017, 7, 10]], 'date-time': '2017-07-10T15:28:42Z', 'timestamp': 1499700522000}, 'score': 47.602047, 'issued': {'date-parts': [[2003, 8]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2003, 8]]}, 'issue': '3'}, 'alternative-id': ['10.11120/msor.2003.03030051'], 'URL': 'http://dx.doi.org/10.11120/msor.2003.03030051', 'ISSN': ['1473-4869', '2051-4220'], 'issn-type': [{'value': '1473-4869', 'type': 'print'}, {'value': '2051-4220', 'type': 'electronic'}]}
+>>> hash >>> ('Linear Algebra and its Applications (Third edition)Title: Linear Algebra and its Applications ( Third edition ) Author: David C. Lay Addison Wesley 2003 , ISBN: 0-201-70970-8', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Mohar, B.: Laplace eigenvalues of graphs â€“ a survey. Discrete Mathematics 109, 171â€“183 (1992)
+>>> DOI >>> 10.1016/0012-365x(92)90288-q
+>>> URL >>> http://dx.doi.org/10.1016/0012-365x(92)90288-q
+>>> year >>> 1992.0
+>>> title >>> Laplace eigenvalues of graphs—a survey
+>>> author >>> Bojan Mohar
+>>> reference_count >>> 93.0
+>>> is_referenced_by_count >>> 101.0
+>>> subject >>> None
+>>> container_title >>> ['Discrete Mathematics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:48:50Z', 'timestamp': 1525312130023}, 'reference-count': 93, 'publisher': 'Elsevier BV', 'issue': '1-3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1992, 11, 1]], 'date-time': '1992-11-01T00:00:00Z', 'timestamp': 720576000000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 7563, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Discrete Mathematics'], 'published-print': {'date-parts': [[1992, 11]]}, 'DOI': '10.1016/0012-365x(92)90288-q', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T03:43:34Z', 'timestamp': 1027655014000}, 'page': '171-183', 'source': 'Crossref', 'is-referenced-by-count': 101, 'title': ['Laplace eigenvalues of graphs—a survey'], 'prefix': '10.1016', 'volume': '109', 'author': [{'given': 'Bojan', 'family': 'Mohar', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Discrete Mathematics'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0012365X9290288Q?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0012365X9290288Q?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T04:06:56Z', 'timestamp': 1497499616000}, 'score': 79.516174, 'issued': {'date-parts': [[1992, 11]]}, 'references-count': 93, 'journal-issue': {'published-print': {'date-parts': [[1992, 11]]}, 'issue': '1-3'}, 'alternative-id': ['0012365X9290288Q'], 'URL': 'http://dx.doi.org/10.1016/0012-365x(92)90288-q', 'ISSN': ['0012-365X'], 'issn-type': [{'value': '0012-365X', 'type': 'print'}]}
+>>> hash >>> ('Laplace eigenvalues of graphs—a survey', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Chandra, K., Raghavan, P., Ruzzo, W.L., Smolensky, R., Tiwari, P.: The electrical resistance of a graph captures its commute and cover times. In: Annual ACM Symposium on Theory of Computing, pp. 574â€“586 (1989)
+>>> DOI >>> 10.1145/73007.73062
+>>> URL >>> http://dx.doi.org/10.1145/73007.73062
+>>> year >>> 1989.0
+>>> title >>> The electrical resistance of a graph captures its commute and cover times
+>>> author >>> A. K. Chandra and P. Raghavan and W. L. Ruzzo and R. Smolensky
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 53.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the twenty-first annual ACM symposium on Theory of computing  - STOC '89"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:17Z', 'timestamp': 1525392377481}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897913078', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1989]]}, 'DOI': '10.1145/73007.73062', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 53, 'title': ['The electrical resistance of a graph captures its commute and cover times'], 'prefix': '10.1145', 'author': [{'given': 'A. K.', 'family': 'Chandra', 'sequence': 'first', 'affiliation': []}, {'given': 'P.', 'family': 'Raghavan', 'sequence': 'additional', 'affiliation': []}, {'given': 'W. L.', 'family': 'Ruzzo', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.', 'family': 'Smolensky', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the twenty-first annual ACM symposium', 'location': 'Seattle, Washington, United States', 'sponsor': ['SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '89", 'number': '21', 'start': {'date-parts': [[1989, 5, 14]]}, 'end': {'date-parts': [[1989, 5, 17]]}}, 'container-title': ["Proceedings of the twenty-first annual ACM symposium on Theory of computing  - STOC '89"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=73062&amp;ftid=41&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T22:52:03Z', 'timestamp': 1481842323000}, 'score': 118.3217, 'issued': {'date-parts': [[1989]]}, 'ISBN': ['0897913078'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/73007.73062'}
+>>> hash >>> ('The electrical resistance of a graph captures its commute and cover times', 1989.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Zheng, A.X., Ng, A.Y., Jordan, M.I.: Stable eigenvector algorithms for link analysis. In: Proceedings of the 24th International Conference on Research and Development in Information Retrieval, pp. 258â€“296 (2001)
+>>> DOI >>> 10.1145/383952.384003
+>>> URL >>> http://dx.doi.org/10.1145/383952.384003
+>>> year >>> 2001.0
+>>> title >>> Stable algorithms for link analysis
+>>> author >>> Andrew Y. Ng and Alice X. Zheng and Michael I. Jordan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 36.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 24th annual international ACM SIGIR conference on Research and development in information retrieval  - SIGIR '01"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T23:24:15Z', 'timestamp': 1525389855890}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1581133316', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.1145/383952.384003', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 13]], 'date-time': '2003-11-13T18:06:04Z', 'timestamp': 1068746764000}, 'source': 'Crossref', 'is-referenced-by-count': 36, 'title': ['Stable algorithms for link analysis'], 'prefix': '10.1145', 'author': [{'given': 'Andrew Y.', 'family': 'Ng', 'sequence': 'first', 'affiliation': []}, {'given': 'Alice X.', 'family': 'Zheng', 'sequence': 'additional', 'affiliation': []}, {'given': 'Michael I.', 'family': 'Jordan', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 24th annual international ACM SIGIR conference', 'location': 'New Orleans, Louisiana, United States', 'sponsor': ['SIGIR, ACM Special Interest Group on Information Retrieval'], 'acronym': "SIGIR '01", 'start': {'date-parts': [[2001]]}}, 'container-title': ["Proceedings of the 24th annual international ACM SIGIR conference on Research and development in information retrieval  - SIGIR '01"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=384003&amp;ftid=61568&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T04:29:42Z', 'timestamp': 1481862582000}, 'score': 73.96377, 'issued': {'date-parts': [[2001]]}, 'ISBN': ['1581133316'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/383952.384003'}
+>>> hash >>> ('Stable algorithms for link analysis', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Saerens, M., Pirotte, A., Fouss, F.: Computing dissimilarities between nodes of a graph: Application to collaborative filtering. Technical Report, IAG, Universite catholique de Louvain (2004), http://www.isys.ucl.ac.be/staff/francois/Articles
+>>> DOI >>> 10.1109/wi.2005.9
+>>> URL >>> http://dx.doi.org/10.1109/wi.2005.9
+>>> year >>> None
+>>> title >>> A Novel Way of Computing Similarities between Nodes of a Graph, with Application to Collaborative Recommendation
+>>> author >>> F. Fouss and A. Pirotte and M. Saerens
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 22.0
+>>> subject >>> None
+>>> container_title >>> ["The 2005 IEEE/WIC/ACM International Conference on Web Intelligence (WI'05)"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T23:28:33Z', 'timestamp': 1525476513752}, 'reference-count': 15, 'publisher': 'IEEE', 'isbn-type': [{'value': '076952415X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/wi.2005.9', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 10, 18]], 'date-time': '2005-10-18T13:56:04Z', 'timestamp': 1129643764000}, 'source': 'Crossref', 'is-referenced-by-count': 22, 'title': ['A Novel Way of Computing Similarities between Nodes of a Graph, with Application to Collaborative Recommendation'], 'prefix': '10.1109', 'author': [{'given': 'F.', 'family': 'Fouss', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Pirotte', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Saerens', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "The 2005 IEEE/WIC/ACM International Conference on Web Intelligence (WI'05)", 'location': 'Compiegne, France'}, 'container-title': ["The 2005 IEEE/WIC/ACM International Conference on Web Intelligence (WI'05)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10179/32502/01517907.pdf?arnumber=1517907', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 14]], 'date-time': '2017-03-14T22:25:16Z', 'timestamp': 1489530316000}, 'score': 67.40796, 'issued': {'date-parts': [[None]]}, 'ISBN': ['076952415X'], 'references-count': 15, 'URL': 'http://dx.doi.org/10.1109/wi.2005.9'}
+>>> hash >>> ('A Novel Way of Computing Similarities between Nodes of a Graph, with Application to Collaborative Recommendation', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Campbell, S., Meyer, C.: Generalized inverses of linear transformations. Pitman Publishing Company (1979)
+>>> DOI >>> 10.1137/1.9780898719048
+>>> URL >>> http://dx.doi.org/10.1137/1.9780898719048
+>>> year >>> 2009.0
+>>> title >>> Generalized Inverses of Linear Transformations
+>>> author >>> Stephen L. Campbell and Carl D. Meyer
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 53.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 4]], 'date-time': '2018-06-04T17:02:31Z', 'timestamp': 1528131751240}, 'reference-count': 0, 'publisher': 'Society for Industrial and Applied Mathematics', 'isbn-type': [{'value': '9780898716719', 'type': 'print'}, {'value': '9780898719048', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 1]]}, 'DOI': '10.1137/1.9780898719048', 'type': 'monograph', 'created': {'date-parts': [[2011, 2, 1]], 'date-time': '2011-02-01T19:20:28Z', 'timestamp': 1296588028000}, 'source': 'Crossref', 'is-referenced-by-count': 53, 'title': ['Generalized Inverses of Linear Transformations'], 'prefix': '10.1137', 'author': [{'given': 'Stephen L.', 'family': 'Campbell', 'sequence': 'first', 'affiliation': []}, {'given': 'Carl D.', 'family': 'Meyer', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'published-online': {'date-parts': [[2012, 5, 25]]}, 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T15:07:27Z', 'timestamp': 1485702447000}, 'score': 54.72415, 'issued': {'date-parts': [[2009, 1]]}, 'ISBN': ['9780898716719', '9780898719048'], 'references-count': 0, 'alternative-id': ['10.1137/1.9780898719048'], 'URL': 'http://dx.doi.org/10.1137/1.9780898719048'}
+>>> hash >>> ('Generalized Inverses of Linear Transformations', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Chung, F.R.: Spectral Graph Theory. American Mathematical Society, Providence (1997)
+>>> DOI >>> 10.1016/s0166-218x(97)81413-8
+>>> URL >>> http://dx.doi.org/10.1016/s0166-218x(97)81413-8
+>>> year >>> 1997.0
+>>> title >>> Different aspects of coding theory (Robert Calderhank (eds.), (American mathematical society, Providence, RI, 1995) 239 pages
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Discrete Applied Mathematics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T19:37:47Z', 'timestamp': 1525376267656}, 'reference-count': 0, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1997, 3, 1]], 'date-time': '1997-03-01T00:00:00Z', 'timestamp': 857174400000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 5982, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Discrete Applied Mathematics'], 'published-print': {'date-parts': [[1997, 3]]}, 'DOI': '10.1016/s0166-218x(97)81413-8', 'type': 'journal-article', 'created': {'date-parts': [[2003, 7, 9]], 'date-time': '2003-07-09T16:14:27Z', 'timestamp': 1057767267000}, 'page': '191', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Different aspects of coding theory (Robert Calderhank (eds.), (American mathematical society, Providence, RI, 1995) 239 pages'], 'prefix': '10.1016', 'volume': '73', 'member': '78', 'container-title': ['Discrete Applied Mathematics'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0166218X97814138?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0166218X97814138?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2015, 3, 28]], 'date-time': '2015-03-28T21:54:35Z', 'timestamp': 1427579675000}, 'score': 28.80703, 'issued': {'date-parts': [[1997, 3]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1997, 3]]}, 'issue': '2'}, 'alternative-id': ['S0166218X97814138'], 'URL': 'http://dx.doi.org/10.1016/s0166-218x(97)81413-8', 'ISSN': ['0166-218X'], 'issn-type': [{'value': '0166-218X', 'type': 'print'}]}
+>>> hash >>> ('Different aspects of coding theory (Robert Calderhank (eds.), (American mathematical society, Providence, RI, 1995) 239 pages', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Zha, H., Ding, C., Gu, M., He, X., Simon, H.: Spectral relaxation for K-means clustering. In: Dietterich, T., Becker, S., Ghahramani, Z. (eds.) Advances in Neural Information Processing Systems, Vancouver, Canada, vol. 14, pp. 1057â€“1064. MIT Press, Cambridge (2001)
+>>> DOI >>> 10.2172/816202
+>>> URL >>> http://dx.doi.org/10.2172/816202
+>>> year >>> 2001.0
+>>> title >>> Bipartite graph partitioning and data clustering
+>>> author >>> Hongyuan Zha and Xiaofeng He and Chris Ding and Ming Gu and Horst D. Simon
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'Lawrence Berkeley National Laboratory (LBNL)', 'place': ['Berkeley, CA', '-'], 'acronym': ['LBNL', '-']}, 'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T15:06:38Z', 'timestamp': 1525359998866}, 'reference-count': 0, 'publisher': 'Office of Scientific and Technical Information  (OSTI)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.2172/816202', 'type': 'report', 'created': {'date-parts': [[2007, 4, 13]], 'date-time': '2007-04-13T14:52:35Z', 'timestamp': 1176475955000}, 'approved': {'date-parts': [[2004, 11, 7]]}, 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['Bipartite graph partitioning and data clustering'], 'prefix': '10.2172', 'author': [{'given': 'Hongyuan', 'family': 'Zha', 'sequence': 'first', 'affiliation': []}, {'given': 'Xiaofeng', 'family': 'He', 'sequence': 'additional', 'affiliation': []}, {'given': 'Chris', 'family': 'Ding', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ming', 'family': 'Gu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Horst D.', 'family': 'Simon', 'sequence': 'additional', 'affiliation': []}], 'member': '960', 'published-online': {'date-parts': [[2001, 5, 7]]}, 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 53.92165, 'issued': {'date-parts': [[2001, 5, 7]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.2172/816202'}
+>>> hash >>> ('Bipartite graph partitioning and data clustering', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ng, Y., Jordan, M.I., Weiss, Y.: On spectral clustering: Analysis and an algorithm. In: Dietterich, T., Becker, S., Ghahramani, Z. (eds.) Advances in Neural Information Processing Systems, Vancouver, Canada, vol. 14, pp. 849â€“856. MIT Press, Cambridge (2001)
+>>> DOI >>> 10.1086/380055
+>>> URL >>> http://dx.doi.org/10.1086/380055
+>>> year >>> 2003.0
+>>> title >>> Advances in Neural Information Processing Systems 14. Based on the annual Neural Information Processing Systems (NIPS) Conference, held in British Columbia, Canada, 3–8 December 2001. Volumes 1 and 2. Edited by Thomas G  Dietterich, Suzanna  Becker, and Zoubin  Ghahramani. A Bradford Book. Cambridge (Massachusetts): MIT Press. $90.00 (2\u2010volume set). (1) xxiii + 808 p; ill.; index of authors and keyword index. (2) xxiii + pp 809–1594; ill.; index of authors and keyword index. ISBN: 0\u2010262\u201004206\u20101 (Volume 1); 0\u2010262\u201004207\u2010X (Volume 2); 0\u2010262\u201004208\u20108 (2\u2010volume set). 2002.
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['The Quarterly Review of Biology']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T21:43:06Z', 'timestamp': 1525383786651}, 'reference-count': 0, 'publisher': 'University of Chicago Press', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['The Quarterly Review of Biology'], 'published-print': {'date-parts': [[2003, 9]]}, 'DOI': '10.1086/380055', 'type': 'journal-article', 'created': {'date-parts': [[2003, 9, 26]], 'date-time': '2003-09-26T18:42:33Z', 'timestamp': 1064601753000}, 'page': '377-377', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Advances in Neural Information Processing Systems 14. Based on the annual Neural Information Processing Systems (NIPS) Conference, held in British Columbia, Canada, 3–8 December 2001. Volumes 1 and 2. Edited by Thomas\xa0G\xa0 Dietterich, Suzanna\xa0 Becker, and Zoubin\xa0 Ghahramani. A Bradford Book. Cambridge (Massachusetts): MIT Press. $90.00 (2\u2010volume set). (1) xxiii + 808 p; ill.; index of authors and keyword index. (2) xxiii + pp 809–1594; ill.; index of authors and keyword index. ISBN: 0\u2010262\u201004206\u20101 (Volume 1); 0\u2010262\u201004207\u2010X (Volume 2); 0\u2010262\u201004208\u20108 (2\u2010volume set). 2002.'], 'prefix': '10.1086', 'volume': '78', 'member': '200', 'container-title': ['The Quarterly Review of Biology'], 'language': 'en', 'link': [{'URL': 'http://www.journals.uchicago.edu/doi/pdf/10.1086/380055', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 4, 7]], 'date-time': '2018-04-07T02:25:04Z', 'timestamp': 1523067904000}, 'score': 37.475307, 'issued': {'date-parts': [[2003, 9]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2003, 9]]}, 'issue': '3'}, 'alternative-id': ['10.1086/380055'], 'URL': 'http://dx.doi.org/10.1086/380055', 'ISSN': ['0033-5770', '1539-7718'], 'issn-type': [{'value': '0033-5770', 'type': 'print'}, {'value': '1539-7718', 'type': 'electronic'}]}
+>>> hash >>> ('Advances in Neural Information Processing Systems 14. Based on the annual Neural Information Processing Systems (NIPS) Conference, held in British Columbia, Canada, 3–8 December 2001. Volumes 1 and 2. Edited by Thomas\xa0G\xa0 Dietterich, Suzanna\xa0 Becker, and Zoubin\xa0 Ghahramani. A Bradford Book. Cambridge (Massachusetts): MIT Press. $90.00 (2\\u2010volume set). (1) xxiii + 808 p; ill.; index of authors and keyword index. (2) xxiii + pp 809–1594; ill.; index of authors and keyword index. ISBN: 0\\u2010262\\u201004206\\u20101 (Volume 1); 0\\u2010262\\u201004207\\u2010X (Volume 2); 0\\u2010262\\u201004208\\u20108 (2\\u2010volume set). 2002.', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Norris, J.: Markov Chains. Cambridge University Press, Cambridge (1997)
+>>> DOI >>> 10.1017/cbo9780511810633
+>>> URL >>> http://dx.doi.org/10.1017/cbo9780511810633
+>>> year >>> 1997.0
+>>> title >>> Markov Chains
+>>> author >>> J. R. Norris
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 346.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 2]], 'date-time': '2018-06-02T07:22:28Z', 'timestamp': 1527924148041}, 'publisher-location': 'Cambridge', 'reference-count': 0, 'publisher': 'Cambridge University Press', 'isbn-type': [{'value': '9780511810633', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1997]]}, 'DOI': '10.1017/cbo9780511810633', 'type': 'monograph', 'created': {'date-parts': [[2013, 3, 13]], 'date-time': '2013-03-13T16:13:44Z', 'timestamp': 1363191224000}, 'source': 'Crossref', 'is-referenced-by-count': 346, 'title': ['Markov Chains'], 'prefix': '10.1017', 'author': [{'given': 'J. R.', 'family': 'Norris', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'published-online': {'date-parts': [[2009]]}, 'deposited': {'date-parts': [[2016, 10, 15]], 'date-time': '2016-10-15T15:33:13Z', 'timestamp': 1476545593000}, 'score': 39.364025, 'issued': {'date-parts': [[1997]]}, 'ISBN': ['9780511810633'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1017/cbo9780511810633'}
+>>> hash >>> ('Markov Chains', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Joachims, T.: Transductive learning via spectral graph partitioning. In: Proceedings of the 20th International Conference on Machine Learning, Washington DC (2003)
+>>> DOI >>> 10.1145/1143844.1143894
+>>> URL >>> http://dx.doi.org/10.1145/1143844.1143894
+>>> year >>> 2006.0
+>>> title >>> An analysis of graph cut size for transductive learning
+>>> author >>> Steve Hanneke
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 23rd international conference on Machine learning  - ICML '06"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:51:48Z', 'timestamp': 1525312308019}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1595933832', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.1145/1143844.1143894', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 7, 24]], 'date-time': '2006-07-24T16:53:01Z', 'timestamp': 1153759981000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['An analysis of graph cut size for transductive learning'], 'prefix': '10.1145', 'author': [{'given': 'Steve', 'family': 'Hanneke', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 23rd international conference', 'location': 'Pittsburgh, Pennsylvania', 'sponsor': ['undetermined'], 'acronym': "ICML '06", 'number': '23', 'start': {'date-parts': [[2006, 6, 25]]}, 'end': {'date-parts': [[2006, 6, 29]]}}, 'container-title': ["Proceedings of the 23rd international conference on Machine learning  - ICML '06"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1143894&amp;ftid=364551&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T16:02:09Z', 'timestamp': 1481904129000}, 'score': 47.39101, 'issued': {'date-parts': [[2006]]}, 'ISBN': ['1595933832'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1143844.1143894'}
+>>> hash >>> ('An analysis of graph cut size for transductive learning', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Klein, D.J., Randic, M.: Resistance distance. Journal of Mathematical Chemistry 12, 81â€“95 (1993)
+>>> DOI >>> 10.1007/bf01164627
+>>> URL >>> http://dx.doi.org/10.1007/bf01164627
+>>> year >>> 1993.0
+>>> title >>> Resistance distance
+>>> author >>> D. J. Klein and M. Randi\u0107
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 484.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Mathematical Chemistry']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 1]], 'date-time': '2018-06-01T17:02:32Z', 'timestamp': 1527872552267}, 'reference-count': 13, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J Math Chem'], 'published-print': {'date-parts': [[1993, 12]]}, 'DOI': '10.1007/bf01164627', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 3]], 'date-time': '2005-02-03T10:28:09Z', 'timestamp': 1107426489000}, 'page': '81-95', 'source': 'Crossref', 'is-referenced-by-count': 484, 'title': ['Resistance distance'], 'prefix': '10.1007', 'volume': '12', 'author': [{'given': 'D. J.', 'family': 'Klein', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Randi\u0107', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'BF01164627_CR1', 'author': 'F. Harary', 'year': '1969', 'unstructured': 'F. Harary,Graph Theory (Addison-Wesley, Reading, 1969).', 'volume-title': 'Graph Theory'}, {'key': 'BF01164627_CR2', 'author': 'F. Buckley', 'year': '1989', 'unstructured': 'F. Buckley and F. Harary,Distance in Graphs (Addison-Wesley, Reading, 1989).', 'volume-title': 'Distance in Graphs'}, {'key': 'BF01164627_CR3', 'author': 'P.G. Doyle', 'year': '1984', 'unstructured': 'P.G. Doyle and J.L. Snell,Random walks and Electric Networks (Math. Assoc. Am., Washington, 1984).', 'volume-title': 'Random walks and Electric Networks'}, {'key': 'BF01164627_CR4', 'first-page': '181', 'volume': '55', 'author': 'C.St.J.A. Nash-Williams', 'year': '1959', 'unstructured': 'C.St.J.A. Nash-Williams, Proc. Camb. Phil. Soc. 55 (1959)181.', 'journal-title': 'Proc. Camb. Phil. Soc.'}, {'key': 'BF01164627_CR5', 'first-page': '497', 'volume': '72', 'author': 'G. Kirschhoff', 'year': '1847', 'unstructured': 'G. Kirschhoff, Ann. Phys. Chem. 72 (1847)497; for a reprint (Engl. transl.), see: IRE Trans. Cit. Th. 5(1958)4.', 'journal-title': 'Ann. Phys. Chem.'}, {'key': 'BF01164627_CR6', 'author': 'S. Seshu', 'year': '1961', 'unstructured': 'S. Seshu and M.B. Reed,Linear Graphs and Electical Networks (Addison-Wesley, Reading, 1961); J. Ponstein, Matrices in Graph and Network Theory (Van Gorcum, Assen, 1966); J.A. Edminster, Electric Circuits (McGraw-Hill, New York, 1965).', 'volume-title': 'Linear Graphs and Electical Networks'}, {'key': 'BF01164627_CR7', 'author': 'F.R. Gammacher', 'year': '1959', 'unstructured': 'F.R. Gammacher,The Theory of Matrices (Chelsea, New York, 1959) ch. 13.', 'volume-title': 'The Theory of Matrices'}, {'key': 'BF01164627_CR8', 'doi-asserted-by': 'crossref', 'first-page': '8', 'DOI': '10.1109/TCT.1958.1086427', 'volume': '5', 'author': 'L. Weinberg', 'year': '1958', 'unstructured': 'L. Weinberg, IRE Trans. Cir. Th. 5 (1958)8.', 'journal-title': 'IRE Trans. Cir. Th.'}, {'key': 'BF01164627_CR9', 'first-page': '60', 'volume': '29', 'author': 'R.L. Graham', 'year': '1978', 'unstructured': 'R.L. Graham and L. Lovasz, Adv. Math. 29 (1978)60.', 'journal-title': 'Adv. Math'}, {'key': 'BF01164627_CR10', 'first-page': '85', 'volume': '1', 'author': 'R.L. Graham', 'year': '1977', 'unstructured': 'R.L. Graham, A.J. Hoffman and H. Hosoya, J.Graph Theory 1 (1977)85.', 'journal-title': 'J.Graph Theory'}, {'key': 'BF01164627_CR11', 'first-page': '357', 'volume': '28', 'author': 'E.G.P. Krivka', 'year': '1983', 'unstructured': 'E.G.P. Krivka and N. Trinajsti\u0107, Aplik. Mat. 28 (1983)357.', 'journal-title': 'Aplik. Mat.'}, {'key': 'BF01164627_CR12', 'author': 'D.H. Rouvray', 'first-page': '295', 'year': '1986', 'unstructured': 'D.H. Rouvray, in:Mathematical and Computational Concepts in Chemistry, ed. N. Trinajsti\u0107 (Ellis Horwood, Chichester, 1986) pp. 295–306; J. Comput. Chem. 8(1987)470.', 'volume-title': 'Mathematical and Computational Concepts in Chemistry'}, {'key': 'BF01164627_CR13', 'first-page': '17', 'volume': '69', 'author': 'H. Wiener', 'year': '1947', 'unstructured': 'H. Wiener, J. Am. Chem. Soc. 69 (1947)17, 2636.', 'journal-title': 'J. Am. Chem. Soc.'}], 'container-title': ['Journal of Mathematical Chemistry'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF01164627', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T15:23:41Z', 'timestamp': 1497626621000}, 'score': 56.848175, 'issued': {'date-parts': [[1993, 12]]}, 'references-count': 13, 'journal-issue': {'published-print': {'date-parts': [[1993, 12]]}, 'issue': '1'}, 'alternative-id': ['BF01164627'], 'URL': 'http://dx.doi.org/10.1007/bf01164627', 'relation': {'cites': []}, 'ISSN': ['0259-9791', '1572-8897'], 'issn-type': [{'value': '0259-9791', 'type': 'print'}, {'value': '1572-8897', 'type': 'electronic'}]}
+>>> hash >>> ('Resistance distance', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Gan, H., Fera, D., Zorn, J., Shiffeldrim, N., Tang, M., Laserson, U., Kim, N., Schlick, T.: RAG: RNA-As-Graphs Database - Concepts, Analysis, and Features. Bioinformatics (2004) (to appear)
+>>> DOI >>> 10.1093/bioinformatics/bth084
+>>> URL >>> http://dx.doi.org/10.1093/bioinformatics/bth084
+>>> year >>> 2004.0
+>>> title >>> RAG: RNA-As-Graphs database--concepts, analysis, and features
+>>> author >>> H. H. Gan and D. Fera and J. Zorn and N. Shiffeldrim and M. Tang and U. Laserson and N. Kim and T. Schlick
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 32.0
+>>> subject >>> None
+>>> container_title >>> ['Bioinformatics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T15:03:36Z', 'timestamp': 1525791816919}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': '8', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Bioinformatics'], 'published-print': {'date-parts': [[2004, 5, 22]]}, 'DOI': '10.1093/bioinformatics/bth084', 'type': 'journal-article', 'created': {'date-parts': [[2004, 3, 2]], 'date-time': '2004-03-02T21:41:06Z', 'timestamp': 1078263666000}, 'page': '1285-1291', 'source': 'Crossref', 'is-referenced-by-count': 32, 'title': ['RAG: RNA-As-Graphs database--concepts, analysis, and features'], 'prefix': '10.1093', 'volume': '20', 'author': [{'given': 'H. H.', 'family': 'Gan', 'sequence': 'first', 'affiliation': []}, {'given': 'D.', 'family': 'Fera', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Zorn', 'sequence': 'additional', 'affiliation': []}, {'given': 'N.', 'family': 'Shiffeldrim', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Tang', 'sequence': 'additional', 'affiliation': []}, {'given': 'U.', 'family': 'Laserson', 'sequence': 'additional', 'affiliation': []}, {'given': 'N.', 'family': 'Kim', 'sequence': 'additional', 'affiliation': []}, {'given': 'T.', 'family': 'Schlick', 'sequence': 'additional', 'affiliation': []}], 'member': '286', 'published-online': {'date-parts': [[2004, 2, 12]]}, 'container-title': ['Bioinformatics'], 'language': 'en', 'link': [{'URL': 'http://academic.oup.com/bioinformatics/article-pdf/20/8/1285/553107/bth084.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 22]], 'date-time': '2017-08-22T16:20:02Z', 'timestamp': 1503418802000}, 'score': 128.33208, 'issued': {'date-parts': [[2004, 2, 12]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2004, 5, 20]]}, 'published-print': {'date-parts': [[2004, 5, 22]]}, 'issue': '8'}, 'URL': 'http://dx.doi.org/10.1093/bioinformatics/bth084', 'ISSN': ['1367-4803', '1460-2059'], 'issn-type': [{'value': '1367-4803', 'type': 'print'}, {'value': '1460-2059', 'type': 'electronic'}]}
+>>> hash >>> ('RAG: RNA-As-Graphs database--concepts, analysis, and features', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Szummer, M., Jaakkola, T.: Partially labeled classification with markov random walks. In: Dietterich, T., Becker, S., Ghahramani, Z. (eds.) Advances in Neural Information Processing Systems, Vancouver, Canada, vol. 14, MIT Press, Vancouver (2001)
+>>> DOI >>> 10.7551/mitpress/9780262036573.003.0007
+>>> URL >>> http://dx.doi.org/10.7551/mitpress/9780262036573.003.0007
+>>> year >>> 2018.0
+>>> title >>> From Hippie to Hip: City Governance and Two Eras of Street Vending in Vancouver, Canada
+>>> author >>> Amy Hanser
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['The MIT Press']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 29]], 'date-time': '2018-05-29T12:10:32Z', 'timestamp': 1527595832781}, 'reference-count': 0, 'publisher': 'The MIT Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2018, 5, 24]]}, 'abstract': '<p>This chapter examines the contrast between street vending and city regulatory responses in Vancouver, Canada during two time periods—the 1970s and the 2010s. The comparison of “hippy” vending in the 1970s and “hip” food carts and trucks four decades later illustrates the contradictory impulses that shape regulation of commercial activity on city streets. First, there is a process of “formalization” that seeks to tame the informality and messiness of street vending through new rules, standards and regulations. But by the 2010s, a second, contradictory, impulse appears: an embrace of informality reflecting new ideas about “vital” city streets and identifying street vending, in the form of food trucks and carts, as “hip.” But the apparent embrace of the informal has unfolded through highly formalized procedures, and the vitality associated with vending in Vancouver is acceptable precisely because it has been (re)introduced in a highly formalized, regulated form.</p>', 'DOI': '10.7551/mitpress/9780262036573.003.0007', 'type': 'book', 'created': {'date-parts': [[2018, 5, 24]], 'date-time': '2018-05-24T14:58:23Z', 'timestamp': 1527173903000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['From Hippie to Hip: City Governance and Two Eras of Street Vending in Vancouver, Canada'], 'prefix': '10.7551', 'author': [{'given': 'Amy', 'family': 'Hanser', 'sequence': 'first', 'affiliation': []}], 'member': '281', 'container-title': ['The MIT Press'], 'original-title': ['From Hippie to Hip: City Governance and Two Eras of Street Vending in Vancouver, Canada'], 'deposited': {'date-parts': [[2018, 5, 29]], 'date-time': '2018-05-29T11:35:06Z', 'timestamp': 1527593706000}, 'score': 47.068333, 'issued': {'date-parts': [[2018, 5, 24]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.7551/mitpress/9780262036573.003.0007'}
+>>> hash >>> ('From Hippie to Hip: City Governance and Two Eras of Street Vending in Vancouver, Canada', 2018.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Scholkopf, B., Smola, A.: Learning with kernels. The MIT Press, Cambridge (2002)
+>>> DOI >>> 10.1145/1027914.1027921
+>>> URL >>> http://dx.doi.org/10.1145/1027914.1027921
+>>> year >>> 2004.0
+>>> title >>> Review of "Learning Kernel Classifiers: Theory and Algorithms by Ralf Herbrich." MIT Press, Cambridge, Mass., 2002. ISBN 026208306X, 384 pages; and Review of "Learning with Kernels: Support Vector Machines, Regularization Optimization and Beyond by Bernhard Scholkopf and Alexander J. Smola." IT Press, Cambridge, Mass., 2002, ISBN 0262194759, 644 pages.
+>>> author >>> Luc T. Wille
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['ACM SIGACT News']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T13:18:56Z', 'timestamp': 1525439936325}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIGACT News'], 'published-print': {'date-parts': [[2004, 9, 1]]}, 'DOI': '10.1145/1027914.1027921', 'type': 'journal-article', 'created': {'date-parts': [[2005, 1, 26]], 'date-time': '2005-01-26T16:49:14Z', 'timestamp': 1106758154000}, 'page': '13', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Review of "Learning Kernel Classifiers: Theory and Algorithms by Ralf Herbrich." MIT Press, Cambridge, Mass., 2002. ISBN 026208306X, 384 pages; and Review of "Learning with Kernels: Support Vector Machines, Regularization Optimization and Beyond by Bernhard Scholkopf and Alexander J. Smola." IT Press, Cambridge, Mass., 2002, ISBN 0262194759, 644 pages.'], 'prefix': '10.1145', 'volume': '35', 'author': [{'given': 'Luc T.', 'family': 'Wille', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'container-title': ['ACM SIGACT News'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1027921&amp;ftid=288515&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T11:07:51Z', 'timestamp': 1481886471000}, 'score': 50.012707, 'issued': {'date-parts': [[2004, 9, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2004, 9, 1]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.1145/1027914.1027921', 'ISSN': ['0163-5700'], 'issn-type': [{'value': '0163-5700', 'type': 'print'}]}
+>>> hash >>> ('Review of "Learning Kernel Classifiers: Theory and Algorithms by Ralf Herbrich." MIT Press, Cambridge, Mass., 2002. ISBN 026208306X, 384 pages; and Review of "Learning with Kernels: Support Vector Machines, Regularization Optimization and Beyond by Bernhard Scholkopf and Alexander J. Smola." IT Press, Cambridge, Mass., 2002, ISBN 0262194759, 644 pages.', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Gobel, F., Jagers, A.: Random walks on graphs. Stochastic Processes and their Applications 2, 311â€“336 (1974)
+>>> DOI >>> 10.1016/0304-4149(74)90001-5
+>>> URL >>> http://dx.doi.org/10.1016/0304-4149(74)90001-5
+>>> year >>> 1974.0
+>>> title >>> Random walks on graphs
+>>> author >>> F. Göbel and A.A. Jagers
+>>> reference_count >>> 3.0
+>>> is_referenced_by_count >>> 66.0
+>>> subject >>> None
+>>> container_title >>> ['Stochastic Processes and their Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:50:04Z', 'timestamp': 1525312204629}, 'reference-count': 3, 'publisher': 'Elsevier BV', 'issue': '4', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1974, 10, 1]], 'date-time': '1974-10-01T00:00:00Z', 'timestamp': 149817600000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 14169, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Stochastic Processes and their Applications'], 'published-print': {'date-parts': [[1974, 10]]}, 'DOI': '10.1016/0304-4149(74)90001-5', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T03:47:32Z', 'timestamp': 1027655252000}, 'page': '311-336', 'source': 'Crossref', 'is-referenced-by-count': 66, 'title': ['Random walks on graphs'], 'prefix': '10.1016', 'volume': '2', 'author': [{'given': 'F.', 'family': 'Göbel', 'sequence': 'first', 'affiliation': []}, {'given': 'A.A.', 'family': 'Jagers', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Stochastic Processes and their Applications'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0304414974900015?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0304414974900015?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2015, 3, 21]], 'date-time': '2015-03-21T08:09:00Z', 'timestamp': 1426925340000}, 'score': 84.6726, 'issued': {'date-parts': [[1974, 10]]}, 'references-count': 3, 'journal-issue': {'published-print': {'date-parts': [[1974, 10]]}, 'issue': '4'}, 'alternative-id': ['0304414974900015'], 'URL': 'http://dx.doi.org/10.1016/0304-4149(74)90001-5', 'ISSN': ['0304-4149'], 'issn-type': [{'value': '0304-4149', 'type': 'print'}]}
+>>> hash >>> ('Random walks on graphs', 1974.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bremaud, P.: Markov Chains: Gibbs Fields, Monte Carlo Simulation, and Queues. Springer, Heidelberg (1999)
+>>> DOI >>> 10.1007/978-1-4757-3124-8_7
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4757-3124-8_7
+>>> year >>> 1999.0
+>>> title >>> Gibbs Fields and Monte Carlo Simulation
+>>> author >>> Pierre Brémaud
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 12.0
+>>> subject >>> None
+>>> container_title >>> ['Markov Chains']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T04:50:37Z', 'timestamp': 1525755037381}, 'publisher-location': 'New York, NY', 'reference-count': 0, 'publisher': 'Springer New York', 'isbn-type': [{'value': '9781441931313', 'type': 'print'}, {'value': '9781475731248', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1007/978-1-4757-3124-8_7', 'type': 'book-chapter', 'created': {'date-parts': [[2013, 12, 29]], 'date-time': '2013-12-29T21:46:32Z', 'timestamp': 1388353592000}, 'page': '253-322', 'source': 'Crossref', 'is-referenced-by-count': 12, 'title': ['Gibbs Fields and Monte Carlo Simulation'], 'prefix': '10.1007', 'author': [{'given': 'Pierre', 'family': 'Brémaud', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Markov Chains'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-1-4757-3124-8_7', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 11]], 'date-time': '2014-01-11T01:27:04Z', 'timestamp': 1389403624000}, 'score': 84.30306, 'issued': {'date-parts': [[1999]]}, 'ISBN': ['9781441931313', '9781475731248'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4757-3124-8_7'}
+>>> hash >>> ('Gibbs Fields and Monte Carlo Simulation', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Smola, J., Kondor, R.: Kernels and regularization on graphs. In: Warmuth, M., SchÃ¶lkopf, B. (eds.) Proceedings of the Conference on Learning Theory and Kernels Workshop (2003)
+>>> DOI >>> 10.1007/978-3-540-45167-9_12
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-45167-9_12
+>>> year >>> 2003.0
+>>> title >>> Kernels and Regularization on Graphs
+>>> author >>> Alexander J. Smola and Risi Kondor
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 123.0
+>>> subject >>> None
+>>> container_title >>> ['Learning Theory and Kernel Machines', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 23]], 'date-time': '2018-05-23T11:22:30Z', 'timestamp': 1527074550941}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540407201', 'type': 'print'}, {'value': '9783540451679', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.1007/978-3-540-45167-9_12', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 7, 22]], 'date-time': '2010-07-22T23:10:53Z', 'timestamp': 1279840253000}, 'page': '144-158', 'source': 'Crossref', 'is-referenced-by-count': 123, 'title': ['Kernels and Regularization on Graphs'], 'prefix': '10.1007', 'author': [{'given': 'Alexander J.', 'family': 'Smola', 'sequence': 'first', 'affiliation': []}, {'given': 'Risi', 'family': 'Kondor', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Learning Theory and Kernel Machines', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-540-45167-9_12', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 31]], 'date-time': '2014-08-31T06:55:53Z', 'timestamp': 1409468153000}, 'score': 66.65603, 'issued': {'date-parts': [[2003]]}, 'ISBN': ['9783540407201', '9783540451679'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-540-45167-9_12', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Kernels and Regularization on Graphs', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Barnett, S.: Matrices: Methods and Applications. Oxford University Press, Oxford (1992)
+>>> DOI >>> 10.1093/gmo/9781561592630.article.20622
+>>> URL >>> http://dx.doi.org/10.1093/gmo/9781561592630.article.20622
+>>> year >>> 2001.0
+>>> title >>> Oxford University Press
+>>> author >>> Peter Ward Jones
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Oxford Music Online']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T09:50:10Z', 'timestamp': 1525773010487}, 'reference-count': 0, 'publisher': 'Oxford University Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.1093/gmo/9781561592630.article.20622', 'type': 'reference-book', 'created': {'date-parts': [[2017, 12, 13]], 'date-time': '2017-12-13T14:27:06Z', 'timestamp': 1513175226000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Oxford University Press'], 'prefix': '10.1093', 'author': [{'given': 'Peter Ward', 'family': 'Jones', 'sequence': 'first', 'affiliation': []}], 'member': '286', 'container-title': ['Oxford Music Online'], 'original-title': ['Oxford University Press'], 'deposited': {'date-parts': [[2017, 12, 13]], 'date-time': '2017-12-13T14:27:07Z', 'timestamp': 1513175227000}, 'score': 36.15649, 'issued': {'date-parts': [[2001]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1093/gmo/9781561592630.article.20622'}
+>>> hash >>> ('Oxford University Press', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Noble, B., Daniels, J.: Applied linear algebra, 3rd edn. Prentice-Hall, Englewood Cliffs (1988)
+>>> DOI >>> 10.1207/s15328023top1003_30
+>>> URL >>> http://dx.doi.org/10.1207/s15328023top1003_30
+>>> year >>> 1983.0
+>>> title >>> Tonto's FriendTonto's FriendSilvermanR. E.Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 573 + xxi pp.Tonto's FriendDavisS. F.Instructor's manual: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 168 pp.Tonto's FriendSilvermanR. E.Test item file: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 169 pp. (File includes 972 questions.)Tonto's FriendWinsten-VelenL.Study guide and workbook: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 315 pp.
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Teaching of Psychology']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:12:39Z', 'timestamp': 1525482759711}, 'reference-count': 0, 'publisher': 'SAGE Publications', 'issue': '3', 'license': [{'URL': 'http://journals.sagepub.com/page/policies/text-and-data-mining-license', 'start': {'date-parts': [[1983, 10, 1]], 'date-time': '1983-10-01T00:00:00Z', 'timestamp': 433814400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Teaching of Psychology'], 'published-print': {'date-parts': [[1983, 10]]}, 'DOI': '10.1207/s15328023top1003_30', 'type': 'journal-article', 'created': {'date-parts': [[2005, 12, 22]], 'date-time': '2005-12-22T16:56:47Z', 'timestamp': 1135270607000}, 'page': '189-190', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ["Tonto's FriendTonto's FriendSilvermanR. E.Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 573 + xxi pp.Tonto's FriendDavisS. F.Instructor's manual: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 168 pp.Tonto's FriendSilvermanR. E.Test item file: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 169 pp. (File includes 972 questions.)Tonto's FriendWinsten-VelenL.Study guide and workbook: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 315 pp."], 'prefix': '10.1177', 'volume': '10', 'member': '179', 'published-online': {'date-parts': [[2016, 8, 26]]}, 'container-title': ['Teaching of Psychology'], 'language': 'en', 'link': [{'URL': 'http://journals.sagepub.com/doi/pdf/10.1207/s15328023top1003_30', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://journals.sagepub.com/doi/pdf/10.1207/s15328023top1003_30', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 1, 21]], 'date-time': '2018-01-21T16:13:39Z', 'timestamp': 1516551219000}, 'score': 47.57218, 'issued': {'date-parts': [[1983, 10]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2016, 8, 26]]}, 'published-print': {'date-parts': [[1983, 10]]}, 'issue': '3'}, 'alternative-id': ['10.1207/s15328023top1003_30'], 'URL': 'http://dx.doi.org/10.1207/s15328023top1003_30', 'ISSN': ['0098-6283', '1532-8023'], 'issn-type': [{'value': '0098-6283', 'type': 'print'}, {'value': '1532-8023', 'type': 'electronic'}]}
+>>> hash >>> ("Tonto's FriendTonto's FriendSilvermanR. E.Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 573 + xxi pp.Tonto's FriendDavisS. F.Instructor's manual: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 168 pp.Tonto's FriendSilvermanR. E.Test item file: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 169 pp. (File includes 972 questions.)Tonto's FriendWinsten-VelenL.Study guide and workbook: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 315 pp.", 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Weiss, Y.: Segmentation using eigenvectors: a unifying view. In: International Conference on Computer Vision (1999)
+>>> DOI >>> 10.1109/iccv.1999.790354
+>>> URL >>> http://dx.doi.org/10.1109/iccv.1999.790354
+>>> year >>> 1999.0
+>>> title >>> Segmentation using eigenvectors: a unifying view
+>>> author >>> Y. Weiss
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 237.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the Seventh IEEE International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T14:42:43Z', 'timestamp': 1527000163158}, 'reference-count': 12, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769501648', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1109/iccv.1999.790354', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 6, 27]], 'date-time': '2008-06-27T13:02:18Z', 'timestamp': 1214571738000}, 'source': 'Crossref', 'is-referenced-by-count': 237, 'title': ['Segmentation using eigenvectors: a unifying view'], 'prefix': '10.1109', 'author': [{'given': 'Y.', 'family': 'Weiss', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'event': {'name': 'Proceedings of the Seventh IEEE International Conference on Computer Vision', 'location': 'Kerkyra, Greece', 'start': {'date-parts': [[1999, 9, 20]]}, 'end': {'date-parts': [[1999, 9, 27]]}}, 'container-title': ['Proceedings of the Seventh IEEE International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6412/17141/00790354.pdf?arnumber=790354', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T09:29:57Z', 'timestamp': 1497778197000}, 'score': 76.31203, 'issued': {'date-parts': [[1999]]}, 'ISBN': ['0769501648'], 'references-count': 12, 'URL': 'http://dx.doi.org/10.1109/iccv.1999.790354'}
+>>> hash >>> ('Segmentation using eigenvectors: a unifying view', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Rao, C., Mitra, S.: Generalized inverse of matrices and its applications. John Wiley and Sons, Chichester (1971)
+>>> DOI >>> 10.2307/1266840
+>>> URL >>> http://dx.doi.org/10.2307/1266840
+>>> year >>> 1973.0
+>>> title >>> Generalized Inverse of Matrices and Its Applications
+>>> author >>> K. S. Banerjee and C. Radhakrishna Rao and Sujit Kumar Mitra
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Technometrics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 29]], 'date-time': '2018-04-29T08:41:28Z', 'timestamp': 1524991288051}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Technometrics'], 'published-print': {'date-parts': [[1973, 2]]}, 'DOI': '10.2307/1266840', 'type': 'journal-article', 'created': {'date-parts': [[2006, 5, 9]], 'date-time': '2006-05-09T15:01:23Z', 'timestamp': 1147186883000}, 'page': '197', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Generalized Inverse of Matrices and Its Applications'], 'prefix': '10.2307', 'volume': '15', 'author': [{'given': 'K. S.', 'family': 'Banerjee', 'sequence': 'first', 'affiliation': []}, {'given': 'C. Radhakrishna', 'family': 'Rao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Sujit Kumar', 'family': 'Mitra', 'sequence': 'additional', 'affiliation': []}], 'member': '1121', 'container-title': ['Technometrics'], 'deposited': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T07:20:21Z', 'timestamp': 1524036021000}, 'score': 46.8594, 'issued': {'date-parts': [[1973, 2]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1973, 2]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.2307/1266840', 'ISSN': ['0040-1706'], 'issn-type': [{'value': '0040-1706', 'type': 'print'}]}
+>>> hash >>> ('Generalized Inverse of Matrices and Its Applications', 1973.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Mohar, B.: The Laplacian spectrum of graphs. In: Alavi, Y., Chartrand, G., Oellermann, A.S.O.R. (eds.) Graph Theory, Combinatorics, and Applications, vol. 2, pp. 871â€“898. Wiley, Chichester (1991)
+>>> DOI >>> 10.1007/978-3-642-46908-4_22
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-46908-4_22
+>>> year >>> 1990.0
+>>> title >>> On Peripheral Vertices in Graphs
+>>> author >>> G. Chartrand and G. Johns and O. R. Oellermann
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Topics in Combinatorics and Graph Theory']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database58.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T06:44:18Z', 'timestamp': 1525502658760}, 'publisher-location': 'Heidelberg', 'reference-count': 0, 'publisher': 'Physica-Verlag HD', 'isbn-type': [{'value': '9783642469107', 'type': 'print'}, {'value': '9783642469084', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1990]]}, 'DOI': '10.1007/978-3-642-46908-4_22', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 3, 31]], 'date-time': '2012-03-31T12:49:17Z', 'timestamp': 1333198157000}, 'page': '193-199', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['On Peripheral Vertices in Graphs'], 'prefix': '10.1007', 'author': [{'given': 'G.', 'family': 'Chartrand', 'sequence': 'first', 'affiliation': []}, {'given': 'G.', 'family': 'Johns', 'sequence': 'additional', 'affiliation': []}, {'given': 'O. R.', 'family': 'Oellermann', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Topics in Combinatorics and Graph Theory'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-46908-4_22', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 24]], 'date-time': '2014-01-24T17:24:00Z', 'timestamp': 1390584240000}, 'score': 54.76802, 'issued': {'date-parts': [[1990]]}, 'ISBN': ['9783642469107', '9783642469084'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-46908-4_22'}
+>>> hash >>> ('On Peripheral Vertices in Graphs', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

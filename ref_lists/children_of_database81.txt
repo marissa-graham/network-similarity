@@ -1,0 +1,817 @@
+>>> NEW PAPER <<<
+>>> citation >>> A. Johnson, "Spin-Images: A Representation for 3-D Surface Matching", PhD thesis CMU, 1997.
+>>> DOI >>> 10.1038/npre.2010.5164.1
+>>> URL >>> http://dx.doi.org/10.1038/npre.2010.5164.1
+>>> year >>> 2010.0
+>>> title >>> BioSilicoSystems – A Multipronged Approach Towards Analysis and Representation of Biological Data (PhD Thesis)
+>>> author >>> Sridhar Hariharaputran and Sridhar Hariharaputran
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Nature Precedings']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T15:27:13Z', 'timestamp': 1525361233646}, 'reference-count': 0, 'publisher': 'Springer Nature', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Nature Precedings'], 'DOI': '10.1038/npre.2010.5164.1', 'type': 'journal-article', 'created': {'date-parts': [[2010, 11, 2]], 'date-time': '2010-11-02T21:54:50Z', 'timestamp': 1288734890000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['BioSilicoSystems – A Multipronged Approach Towards Analysis and Representation of Biological Data (PhD Thesis)'], 'prefix': '10.1038', 'author': [{'given': 'Sridhar', 'family': 'Hariharaputran', 'sequence': 'first', 'affiliation': []}, {'given': 'Sridhar', 'family': 'Hariharaputran', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2010, 11, 2]]}, 'container-title': ['Nature Precedings'], 'deposited': {'date-parts': [[2016, 3, 14]], 'date-time': '2016-03-14T18:42:09Z', 'timestamp': 1457980929000}, 'score': 25.97876, 'issued': {'date-parts': [[2010, 11, 2]]}, 'references-count': 0, 'alternative-id': ['10.1038/npre.2010.5164.1'], 'URL': 'http://dx.doi.org/10.1038/npre.2010.5164.1', 'ISSN': ['1756-0357'], 'issn-type': [{'value': '1756-0357', 'type': 'print'}]}
+>>> hash >>> ('BioSilicoSystems – A Multipronged Approach Towards Analysis and Representation of Biological Data (PhD Thesis)', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y. Wang, M. Gupta, S. Zhang, S. Wang, X. Gu, D. Samaras, P. Huang, "High resolution tracking of non-rigid 3D motion of densely sampled data using harmonic maps", ICCV, 2005.
+>>> DOI >>> 10.1109/iccv.2005.113
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2005.113
+>>> year >>> 2005.0
+>>> title >>> High resolution tracking of non-rigid 3D motion of densely sampled data using harmonic maps
+>>> author >>> None
+>>> reference_count >>> 39.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ["Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T00:55:38Z', 'timestamp': 1525481738370}, 'reference-count': 39, 'publisher': 'IEEE', 'isbn-type': [{'value': '076952334X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1109/iccv.2005.113', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 12, 10]], 'date-time': '2005-12-10T20:49:09Z', 'timestamp': 1134247749000}, 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['High resolution tracking of non-rigid 3D motion of densely sampled data using harmonic maps'], 'prefix': '10.1109', 'author': [{'family': 'Yang Wang', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Gupta', 'sequence': 'additional', 'affiliation': []}, {'family': 'Song Zhang', 'sequence': 'additional', 'affiliation': []}, {'family': 'Sen Wang', 'sequence': 'additional', 'affiliation': []}, {'family': 'Xianfeng Gu', 'sequence': 'additional', 'affiliation': []}, {'given': 'D.', 'family': 'Samaras', 'sequence': 'additional', 'affiliation': []}, {'family': 'Peisen Huang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1", 'location': 'Beijing, China', 'start': {'date-parts': [[2005, 10, 17]]}, 'end': {'date-parts': [[2005, 10, 21]]}}, 'container-title': ["Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10347/32910/01541282.pdf?arnumber=1541282', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T01:36:46Z', 'timestamp': 1497663406000}, 'score': 101.41591, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['076952334X'], 'references-count': 39, 'URL': 'http://dx.doi.org/10.1109/iccv.2005.113'}
+>>> hash >>> ('High resolution tracking of non-rigid 3D motion of densely sampled data using harmonic maps', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. K. Ahuja, T. L. Magnanti, J. B. Orlin, Network Flows: Theory Algorithms and Applications, Prentice Hall, 1993.
+>>> DOI >>> 10.21236/ada594171
+>>> URL >>> http://dx.doi.org/10.21236/ada594171
+>>> year >>> 1988.0
+>>> title >>> Network Flows
+>>> author >>> Ravindra K. Ahuja and Thomas L. Magnanti and James B. Orlin
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'institution': {'name': 'US Dept of the Air Force', 'place': ['-', '-'], 'department': ['Funding', 'Performing'], 'acronym': ['AFOSR', '-']}, 'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T16:02:30Z', 'timestamp': 1527004950183}, 'publisher-location': 'Fort Belvoir, VA', 'reference-count': 0, 'publisher': 'Defense Technical Information Center', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1988, 12, 1]]}, 'DOI': '10.21236/ada594171', 'type': 'report', 'created': {'date-parts': [[2017, 7, 25]], 'date-time': '2017-07-25T17:15:45Z', 'timestamp': 1501002945000}, 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Network Flows'], 'prefix': '10.21236', 'author': [{'given': 'Ravindra K.', 'family': 'Ahuja', 'sequence': 'first', 'affiliation': []}, {'given': 'Thomas L.', 'family': 'Magnanti', 'sequence': 'first', 'affiliation': []}, {'given': 'James B.', 'family': 'Orlin', 'sequence': 'first', 'affiliation': []}], 'member': '9879', 'original-title': [''], 'deposited': {'date-parts': [[2017, 7, 25]], 'date-time': '2017-07-25T17:15:45Z', 'timestamp': 1501002945000}, 'score': 58.184814, 'subtitle': [''], 'issued': {'date-parts': [[1988, 12, 1]]}, 'references-count': 0, 'alternative-id': ['MIT-WP-2059-88'], 'URL': 'http://dx.doi.org/10.21236/ada594171'}
+>>> hash >>> ('Network Flows', 1988.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. W. Sumner, J. Popovi Ã„, "Deformation transfer for triangle meshes", SIGGRAPH, pp. 399-405, 2004.
+>>> DOI >>> 10.1145/1186562.1015736
+>>> URL >>> http://dx.doi.org/10.1145/1186562.1015736
+>>> year >>> 2004.0
+>>> title >>> Deformation transfer for triangle meshes
+>>> author >>> Robert W. Sumner and Jovan Popovi\u0107
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 75.0
+>>> subject >>> None
+>>> container_title >>> ["ACM SIGGRAPH 2004 Papers on   - SIGGRAPH '04"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T10:17:54Z', 'timestamp': 1525342674718}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1145/1186562.1015736', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 1, 17]], 'date-time': '2007-01-17T01:15:56Z', 'timestamp': 1168996556000}, 'source': 'Crossref', 'is-referenced-by-count': 75, 'title': ['Deformation transfer for triangle meshes'], 'prefix': '10.1145', 'author': [{'given': 'Robert W.', 'family': 'Sumner', 'sequence': 'first', 'affiliation': []}, {'given': 'Jovan', 'family': 'Popovi\u0107', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'ACM SIGGRAPH 2004 Papers', 'location': 'Los Angeles, California', 'sponsor': ['SIGGRAPH, ACM Special Interest Group on Computer Graphics and Interactive Techniques'], 'acronym': "SIGGRAPH '04", 'number': '2004', 'start': {'date-parts': [[2004, 8, 8]]}, 'end': {'date-parts': [[2004, 8, 12]]}}, 'container-title': ["ACM SIGGRAPH 2004 Papers on   - SIGGRAPH '04"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1015736&amp;ftid=273278&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T08:53:44Z', 'timestamp': 1481878424000}, 'score': 66.33344, 'issued': {'date-parts': [[2004]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1186562.1015736'}
+>>> hash >>> ('Deformation transfer for triangle meshes', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Zhang, M. Hebert, "Harmonic maps and their applications in surface matching", CVPR, 1999.
+>>> DOI >>> 10.1109/cvpr.1999.784731
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.1999.784731
+>>> year >>> None
+>>> title >>> Harmonic maps and their applications in surface matching
+>>> author >>> None
+>>> reference_count >>> 24.0
+>>> is_referenced_by_count >>> 10.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings. 1999 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (Cat. No PR00149)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T14:11:51Z', 'timestamp': 1525356711622}, 'reference-count': 24, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769501494', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.1999.784731', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 1, 20]], 'date-time': '2003-01-20T19:03:59Z', 'timestamp': 1043089439000}, 'source': 'Crossref', 'is-referenced-by-count': 10, 'title': ['Harmonic maps and their applications in surface matching'], 'prefix': '10.1109', 'author': [{'family': 'Dongmei Zhang', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Hebert', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Proceedings. 1999 IEEE Computer Society Conference on Computer Vision and Pattern Recognition', 'location': 'Fort Collins, CO, USA', 'acronym': 'CVPR-99'}, 'container-title': ['Proceedings. 1999 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (Cat. No PR00149)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6370/17024/00784731.pdf?arnumber=784731', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T17:25:46Z', 'timestamp': 1497547546000}, 'score': 50.021965, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769501494'], 'references-count': 24, 'URL': 'http://dx.doi.org/10.1109/cvpr.1999.784731'}
+>>> hash >>> ('Harmonic maps and their applications in surface matching', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Komodakis, N. Paragios, "Beyond pairwise energies: Efficient optimization for higher-order MRFs", CVPR, 2009.
+>>> DOI >>> 10.1109/cvprw.2009.5206846
+>>> URL >>> http://dx.doi.org/10.1109/cvprw.2009.5206846
+>>> year >>> 2009.0
+>>> title >>> Beyond pairwise energies: Efficient optimization for higher-order MRFs
+>>> author >>> N. Komodakis and N. Paragios
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['2009 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 28]], 'date-time': '2018-04-28T05:40:17Z', 'timestamp': 1524894017489}, 'reference-count': 0, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 6]]}, 'DOI': '10.1109/cvprw.2009.5206846', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 8, 24]], 'date-time': '2009-08-24T15:11:50Z', 'timestamp': 1251126710000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Beyond pairwise energies: Efficient optimization for higher-order MRFs'], 'prefix': '10.1109', 'author': [{'given': 'N.', 'family': 'Komodakis', 'sequence': 'first', 'affiliation': []}, {'given': 'N.', 'family': 'Paragios', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Miami, FL, USA', 'start': {'date-parts': [[2009, 6, 20]]}, 'end': {'date-parts': [[2009, 6, 25]]}}, 'container-title': ['2009 IEEE Conference on Computer Vision and Pattern Recognition'], 'deposited': {'date-parts': [[2014, 11, 4]], 'date-time': '2014-11-04T17:59:42Z', 'timestamp': 1415123982000}, 'score': 95.22755, 'issued': {'date-parts': [[2009, 6]]}, 'ISBN': ['9781424439928'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1109/cvprw.2009.5206846'}
+>>> hash >>> ('Beyond pairwise energies: Efficient optimization for higher-order MRFs', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. M. Farkas, J. Kra, Riemann Surfaces, Springer, 2004.
+>>> DOI >>> 10.1007/978-1-4612-2034-3_4
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4612-2034-3_4
+>>> year >>> 1992.0
+>>> title >>> Compact Riemann Surfaces
+>>> author >>> Hershel M. Farkas and Irwin Kra
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Riemann Surfaces', 'Graduate Texts in Mathematics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T04:52:52Z', 'timestamp': 1525409572975}, 'publisher-location': 'New York, NY', 'reference-count': 0, 'publisher': 'Springer New York', 'isbn-type': [{'value': '9781461273912', 'type': 'print'}, {'value': '9781461220343', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1992]]}, 'DOI': '10.1007/978-1-4612-2034-3_4', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 5, 27]], 'date-time': '2011-05-27T04:50:06Z', 'timestamp': 1306471806000}, 'page': '54-165', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Compact Riemann Surfaces'], 'prefix': '10.1007', 'author': [{'given': 'Hershel M.', 'family': 'Farkas', 'sequence': 'first', 'affiliation': []}, {'given': 'Irwin', 'family': 'Kra', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Riemann Surfaces', 'Graduate Texts in Mathematics'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-1-4612-2034-3_4', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 9]], 'date-time': '2014-01-09T04:06:41Z', 'timestamp': 1389240401000}, 'score': 43.116352, 'issued': {'date-parts': [[1992]]}, 'ISBN': ['9781461273912', '9781461220343'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4612-2034-3_4', 'ISSN': ['0072-5285'], 'issn-type': [{'value': '0072-5285', 'type': 'print'}]}
+>>> hash >>> ('Compact Riemann Surfaces', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Zeng, Y. Zeng, Y. Wang, X. Yin, X. Gu, D. Samaras, "3D non-rigid surface matching and registration based on holomorphic differentials", ECCV, 2008.
+>>> DOI >>> 10.1007/978-3-540-88690-7_1
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-88690-7_1
+>>> year >>> 2008.0
+>>> title >>> 3D Non-rigid Surface Matching and Registration Based on Holomorphic Differentials
+>>> author >>> Wei Zeng and Yun Zeng and Yang Wang and Xiaotian Yin and Xianfeng Gu and Dimitris Samaras
+>>> reference_count >>> 30.0
+>>> is_referenced_by_count >>> 10.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:45:39Z', 'timestamp': 1525445139399}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 30, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540886891', 'type': 'print'}, {'value': '9783540886907', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2008, 1, 1]], 'date-time': '2008-01-01T00:00:00Z', 'timestamp': 1199145600000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.1007/978-3-540-88690-7_1', 'type': 'book-chapter', 'created': {'date-parts': [[2008, 10, 10]], 'date-time': '2008-10-10T16:11:47Z', 'timestamp': 1223655107000}, 'page': '1-14', 'source': 'Crossref', 'is-referenced-by-count': 10, 'title': ['3D Non-rigid Surface Matching and Registration Based on Holomorphic Differentials'], 'prefix': '10.1007', 'author': [{'given': 'Wei', 'family': 'Zeng', 'sequence': 'first', 'affiliation': []}, {'given': 'Yun', 'family': 'Zeng', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yang', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xiaotian', 'family': 'Yin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xianfeng', 'family': 'Gu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Dimitris', 'family': 'Samaras', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': '1_CR1', 'doi-asserted-by': 'publisher', 'first-page': '166', 'DOI': '10.1006/cviu.2000.0889', 'volume': '81', 'author': 'R.J. Campbell', 'year': '2001', 'unstructured': 'Campbell, R.J., Flynn, P.J.: A survey of free-form object representation and recognition techniques. Computer Vision and Image Understanding\xa081, 166–210 (2001)', 'journal-title': 'Computer Vision and Image Understanding'}, {'key': '1_CR2', 'unstructured': 'Ruiz-Correa, S., Shapiro, L., Meila, M.: A new paradigm for recognizing 3d object shapes from range data. In: ICCV, pp. 1126–1133 (2003)'}, {'key': '1_CR3', 'unstructured': 'Huber, D., Kapuria, A., Donamukkala, R., Hebert, M.: Parts-based 3d object classification. In: CVPR, vol.\xa0II, pp. 82–89 (June 2004)'}, {'key': '1_CR4', 'doi-asserted-by': 'publisher', 'first-page': '107', 'DOI': '10.1016/0262-8856(86)90029-6', 'volume': '4', 'author': 'B. Vemuri', 'year': '1986', 'unstructured': 'Vemuri, B., Mitiche, A., Aggarwal, J.: Curvature-based representation of objects from range data. Image and Vision Computing\xa04, 107–114 (1986)', 'journal-title': 'Image and Vision Computing'}, {'key': '1_CR5', 'unstructured': 'Xiao, P., Barnes, N., Caetano, T., Lieby, P.: An mrf and gaussian curvature based shape representation for shape matching. In: CVPR (2007)', 'DOI': '10.1109/CVPR.2007.383359', 'doi-asserted-by': 'crossref'}, {'key': '1_CR6', 'unstructured': 'Sun, Y., Abidi, M.: Surface matching by 3d point’s fingerprint. In: ICCV, vol.\xa0II, pp. 263–269 (2001)'}, {'key': '1_CR7', 'series-title': 'Lecture Notes in Computer Science', 'doi-asserted-by': 'publisher', 'first-page': '224', 'DOI': '10.1007/978-3-540-24672-5_18', 'volume-title': 'Computer Vision - ECCV 2004', 'author': 'A. Frome', 'year': '2004', 'unstructured': 'Frome, A., Huber, D., Kolluri, R., Bulow, T., Malik, J.: Recognizing objects in range data using regional point descriptors. In: Pajdla, T., Matas, J(G.) (eds.) ECCV 2004. LNCS, vol.\xa03023, pp. 224–237. Springer, Heidelberg (2004)'}, {'key': '1_CR8', 'unstructured': 'Funkhouser, T., Min, P., Kazhdan, M., Chen, J., Halderman, A., Dobkin, D., Jacobs, D.: A search engine for 3d models. In: ACM TOG, pp. 83–105 (2003)'}, {'key': '1_CR9', 'unstructured': 'Osada, R., Funkhouser, T., Chazelle, B., Dobkin, D.: Shape distributions. In: ACM TOG, vol.\xa021, pp. 807–832 (2002)', 'DOI': '10.1145/571647.571648', 'doi-asserted-by': 'crossref'}, {'issue': '1', 'key': '1_CR10', 'doi-asserted-by': 'publisher', 'first-page': '188', 'DOI': '10.1109/TIP.2006.884940', 'volume': '16', 'author': 'A.M. Bronstein', 'year': '2007', 'unstructured': 'Bronstein, A.M., Bronstein, M.M., Kimmel, R.: Expression-invariant representations of faces. IEEE Trans. Image Processing\xa016(1), 188–197 (2007)', 'journal-title': 'IEEE Trans. Image Processing'}, {'key': '1_CR11', 'unstructured': 'Starck, J., Hilton, A.: Correspondence labelling for wide-timeframe free-form surface matching. In: ICCV (2007)', 'DOI': '10.1109/ICCV.2007.4409108', 'doi-asserted-by': 'crossref'}, {'key': '1_CR12', 'unstructured': 'Lin, W.Y., Wong, K.C., Boston, N., Yu, H.H.: Fusion of summation invariants in 3d human face recognition. In: CVPR (2006)'}, {'key': '1_CR13', 'unstructured': 'Dalal, P., Munsell, B.C., Wang, S., Tang, J., Oliver, K., Ninomiya, H., Zhou, X., Fujita, H.: A fast 3d correspondence method for statistical shape modeling. In: CVPR (2007)', 'DOI': '10.1109/CVPR.2007.383143', 'doi-asserted-by': 'crossref'}, {'key': '1_CR14', 'doi-asserted-by': 'publisher', 'first-page': '91', 'DOI': '10.1016/0004-3702(88)90080-X', 'volume': '35', 'author': 'D. Terzopoulos', 'year': '1988', 'unstructured': 'Terzopoulos, D., Witkin, A., Kass, M.: Constraints on deformable models: Recovering 3d shape and nonrigid motion. Artificial Intelligence\xa035, 91–123 (1988)', 'journal-title': 'Artificial Intelligence'}, {'key': '1_CR15', 'series-title': 'Lecture Notes in Computer Science', 'doi-asserted-by': 'publisher', 'first-page': '926', 'DOI': '10.1007/978-3-540-39903-2_113', 'volume-title': 'Medical Image Computing and Computer-Assisted Intervention - MICCAI 2003', 'author': 'X. Huang', 'year': '2003', 'unstructured': 'Huang, X., Paragios, N., Metaxas, D.: Establishing local correspondences towards compact representations of anatomical structures. In: Ellis, R.E., Peters, T.M. (eds.) MICCAI 2003. LNCS, vol.\xa02878, pp. 926–934. Springer, Heidelberg (2003)'}, {'issue': '2/3', 'key': '1_CR16', 'doi-asserted-by': 'publisher', 'first-page': '269', 'DOI': '10.1007/BF00119843', 'volume': '6', 'author': 'R. Malladi', 'year': '1996', 'unstructured': 'Malladi, R., Sethian, J.A., Vemuri, B.C.: A fast level set based algorithm for topology-independent shape modeling. JMIV\xa06(2/3), 269–290 (1996)', 'journal-title': 'JMIV'}, {'key': '1_CR17', 'unstructured': 'Zhang, D., Hebert, M.: Harmonic maps and their applications in surface matching. In: CVPR 1999, vol.\xa0II, pp. 524–530 (1999)'}, {'key': '1_CR18', 'unstructured': 'Wang, Y., Gupta, M., Zhang, S., Wang, S., Gu, X., Samaras, D., Huang, P.: High resolution tracking of non-rigid 3d motion of densely sampled data using harmonic maps. In: ICCV 2005, vol.\xa0I, pp. 388–395 (2005)'}, {'key': '1_CR19', 'unstructured': 'Gu, X., Wang, Y., Chan, T.F., Thompson, P.M., Yaun, S.: Genus zero surface conformal mapping and its application to brain surface mapping. TMI\xa023(7) (2004)'}, {'key': '1_CR20', 'unstructured': 'Levy, B., Petitjean, S., Ray, N., Maillot, J.: Least squares conformal maps for automatic texture atlas generation. In: SIGGRAPH, pp. 362–371 (2002)', 'DOI': '10.1145/566570.566590', 'doi-asserted-by': 'crossref'}, {'key': '1_CR21', 'unstructured': 'Sharon, E., Mumford, D.: 2d-shape analysis using conformal mapping. In: CVPR 2004, vol.\xa0II, pp. 350–357 (2004)'}, {'issue': '7', 'key': '1_CR22', 'doi-asserted-by': 'publisher', 'first-page': '1209', 'DOI': '10.1109/TPAMI.2007.1050', 'volume': '29', 'author': 'S. Wang', 'year': '2007', 'unstructured': 'Wang, S., Wang, Y., Jin, M., Gu, X.D., Samaras, D.: Conformal geometry and its applications on 3d shape matching, recognition, and stitching. PAMI\xa029(7), 1209–1220 (2007)', 'journal-title': 'PAMI'}, {'key': '1_CR23', 'unstructured': 'Gu, X., Wang, S., Kim, J., Zeng, Y., Wang, Y., Qin, H., Samaras, D.: Ricci flow for 3d sahpe analysis. In: ICCV (2007)'}, {'issue': '2', 'key': '1_CR24', 'doi-asserted-by': 'publisher', 'first-page': '91', 'DOI': '10.1023/B:VISI.0000029664.99615.94', 'volume': '60', 'author': 'D. Lowe', 'year': '2004', 'unstructured': 'Lowe, D.: Distinctive image features from scale-invariant keypoints. IJCV\xa060(2), 91–110 (2004)', 'journal-title': 'IJCV'}, {'key': '1_CR25', 'unstructured': 'Athitsos, V., Alon, J., Sclaroff, S., Kollios, G.: Boostmap: A method for efficient approximate similarity rankings. In: CVPR 2004, vol.\xa0II, pp. 268–275 (2004)', 'DOI': '10.1109/CVPR.2004.1315173', 'doi-asserted-by': 'crossref'}, {'key': '1_CR26', 'unstructured': 'Yin, X., Dai, J., Yau, S.T., Gu, X.: Slit map: Conformal parameterization for multiply connected surfaces. In: Geometric Modeling and Processing (2008)'}, {'key': '1_CR27', 'series-title': 'Lecture Notes in Computer Science', 'doi-asserted-by': 'publisher', 'first-page': '771', 'DOI': '10.1007/978-3-540-30135-6_94', 'volume-title': 'Medical Image Computing and Computer-Assisted Intervention – MICCAI 2004', 'author': 'X. Gu', 'year': '2004', 'unstructured': 'Gu, X., Vemuri, B.C.: Matching 3d shapes using 2d conformal representations. In: Barillot, C., Haynor, D.R., Hellier, P. (eds.) MICCAI 2004. LNCS, vol.\xa03216, pp. 771–780. Springer, Heidelberg (2004)'}, {'key': '1_CR28', 'unstructured': 'Lowe, D.: Object recognition from local scale-invariant features. In: ICCV 1999, pp. 1150–1157 (1999)', 'DOI': '10.1109/ICCV.1999.790410', 'doi-asserted-by': 'crossref'}, {'key': '1_CR29', 'unstructured': 'Hernández, C., Vogiatzis, G., Brostow, G.J., Stenger, B., Cipolla, R.: Non-rigid photometric stereo with colored lights. In: ICCV, vol.\xa01 (2007)'}, {'issue': '2', 'key': '1_CR30', 'doi-asserted-by': 'publisher', 'first-page': '239', 'DOI': '10.1109/34.121791', 'volume': '14', 'author': 'P.J. Besl', 'year': '1992', 'unstructured': 'Besl, P.J., McKay, N.D.: A method for registration of 3-D shapes. PAMI\xa014(2), 239–256 (1992)', 'journal-title': 'PAMI'}], 'container-title': ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-540-88690-7_1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 9, 11]], 'date-time': '2017-09-11T11:02:13Z', 'timestamp': 1505127733000}, 'score': 89.612305, 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9783540886891', '9783540886907'], 'references-count': 30, 'URL': 'http://dx.doi.org/10.1007/978-3-540-88690-7_1', 'relation': {'cites': []}, 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('3D Non-rigid Surface Matching and Registration Based on Holomorphic Differentials', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. Boros, P. L. Hammer, "Pseudo-boolean optimization", Discrete Applied Mathematics, pp. 1-3, 2002.
+>>> DOI >>> 10.1016/s0166-218x(01)00341-9
+>>> URL >>> http://dx.doi.org/10.1016/s0166-218x(01)00341-9
+>>> year >>> 2002.0
+>>> title >>> Pseudo-Boolean optimization
+>>> author >>> Endre Boros and Peter L. Hammer
+>>> reference_count >>> 168.0
+>>> is_referenced_by_count >>> 259.0
+>>> subject >>> None
+>>> container_title >>> ['Discrete Applied Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T17:02:29Z', 'timestamp': 1528304549989}, 'reference-count': 168, 'publisher': 'Elsevier BV', 'issue': '1-3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2002, 11, 1]], 'date-time': '2002-11-01T00:00:00Z', 'timestamp': 1036108800000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 3911, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Discrete Applied Mathematics'], 'published-print': {'date-parts': [[2002, 11]]}, 'DOI': '10.1016/s0166-218x(01)00341-9', 'type': 'journal-article', 'created': {'date-parts': [[2010, 9, 18]], 'date-time': '2010-09-18T08:38:53Z', 'timestamp': 1284799133000}, 'page': '155-225', 'source': 'Crossref', 'is-referenced-by-count': 259, 'title': ['Pseudo-Boolean optimization'], 'prefix': '10.1016', 'volume': '123', 'author': [{'given': 'Endre', 'family': 'Boros', 'sequence': 'first', 'affiliation': []}, {'given': 'Peter L.', 'family': 'Hammer', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Discrete Applied Mathematics'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0166218X01003419?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0166218X01003419?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T14:10:29Z', 'timestamp': 1497881429000}, 'score': 70.90549, 'issued': {'date-parts': [[2002, 11]]}, 'references-count': 168, 'journal-issue': {'published-print': {'date-parts': [[2002, 11]]}, 'issue': '1-3'}, 'alternative-id': ['S0166218X01003419'], 'URL': 'http://dx.doi.org/10.1016/s0166-218x(01)00341-9', 'ISSN': ['0166-218X'], 'issn-type': [{'value': '0166-218X', 'type': 'print'}]}
+>>> hash >>> ('Pseudo-Boolean optimization', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Anguelov, P. Srinivasan, H.-C. Pang, D. Koller, S. Thrun, J. Davis, "The correlated correspondence algorithm for unsupervised registration of nonrigid surfaces", NIPS, 2004.
+>>> DOI >>> 10.1145/1186822.1073207
+>>> URL >>> http://dx.doi.org/10.1145/1186822.1073207
+>>> year >>> 2005.0
+>>> title >>> SCAPE
+>>> author >>> Dragomir Anguelov and Praveen Srinivasan and Daphne Koller and Sebastian Thrun and Jim Rodgers and James Davis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 66.0
+>>> subject >>> None
+>>> container_title >>> ["ACM SIGGRAPH 2005 Papers on   - SIGGRAPH '05"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T10:17:59Z', 'timestamp': 1525342679564}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1145/1186822.1073207', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 1, 17]], 'date-time': '2007-01-17T01:15:56Z', 'timestamp': 1168996556000}, 'source': 'Crossref', 'is-referenced-by-count': 66, 'title': ['SCAPE'], 'prefix': '10.1145', 'author': [{'given': 'Dragomir', 'family': 'Anguelov', 'sequence': 'first', 'affiliation': []}, {'given': 'Praveen', 'family': 'Srinivasan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Daphne', 'family': 'Koller', 'sequence': 'additional', 'affiliation': []}, {'given': 'Sebastian', 'family': 'Thrun', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jim', 'family': 'Rodgers', 'sequence': 'additional', 'affiliation': []}, {'given': 'James', 'family': 'Davis', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'ACM SIGGRAPH 2005 Papers', 'location': 'Los Angeles, California', 'sponsor': ['SIGGRAPH, ACM Special Interest Group on Computer Graphics and Interactive Techniques'], 'acronym': "SIGGRAPH '05", 'number': '2005', 'start': {'date-parts': [[2005, 7, 31]]}, 'end': {'date-parts': [[2005, 8, 4]]}}, 'container-title': ["ACM SIGGRAPH 2005 Papers on   - SIGGRAPH '05"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1073207&amp;ftid=321863&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T08:55:35Z', 'timestamp': 1481878535000}, 'score': 49.737106, 'subtitle': ['shape completion and animation of people'], 'issued': {'date-parts': [[2005]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1186822.1073207'}
+>>> hash >>> ('SCAPE', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. M. Bronstein, M. M. Bronstein, R. Kimmel, "Expression invariant representations of faces", IEEE TPAMI, pp. 1042-1053, 2004.
+>>> DOI >>> 10.1109/tip.2006.884940
+>>> URL >>> http://dx.doi.org/10.1109/tip.2006.884940
+>>> year >>> 2007.0
+>>> title >>> Expression-Invariant Representations of Faces
+>>> author >>> Alexander M. Bronstein and Michael M. Bronstein and Ron Kimmel
+>>> reference_count >>> 39.0
+>>> is_referenced_by_count >>> 82.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Image Processing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 30]], 'date-time': '2018-05-30T15:22:44Z', 'timestamp': 1527693764277}, 'reference-count': 39, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. on Image Process.'], 'published-print': {'date-parts': [[2007, 1]]}, 'DOI': '10.1109/tip.2006.884940', 'type': 'journal-article', 'created': {'date-parts': [[2006, 12, 19]], 'date-time': '2006-12-19T21:38:13Z', 'timestamp': 1166564293000}, 'page': '188-197', 'source': 'Crossref', 'is-referenced-by-count': 82, 'title': ['Expression-Invariant Representations of Faces'], 'prefix': '10.1109', 'volume': '16', 'author': [{'given': 'Alexander M.', 'family': 'Bronstein', 'sequence': 'first', 'affiliation': []}, {'given': 'Michael M.', 'family': 'Bronstein', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ron', 'family': 'Kimmel', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Image Processing'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/83/4032799/04032804.pdf?arnumber=4032804', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 13]], 'date-time': '2017-11-13T21:32:22Z', 'timestamp': 1510608742000}, 'score': 65.58199, 'issued': {'date-parts': [[2007, 1]]}, 'references-count': 39, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1109/tip.2006.884940', 'ISSN': ['1057-7149'], 'issn-type': [{'value': '1057-7149', 'type': 'print'}]}
+>>> hash >>> ('Expression-Invariant Representations of Faces', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Tevs, M. Bokeloh, M. Wand, A. Schilling, H.-P. Seidel, "Isometric registration of ambiguous and partial data", CVPR, 2009.
+>>> DOI >>> 10.1109/cvprw.2009.5206775
+>>> URL >>> http://dx.doi.org/10.1109/cvprw.2009.5206775
+>>> year >>> 2009.0
+>>> title >>> Isometric registration of ambiguous and partial data
+>>> author >>> A. Tevs and M. Bokeloh and M. Wand and A. Schilling and H.-P. Seidel
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['2009 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 28]], 'date-time': '2018-04-28T05:40:19Z', 'timestamp': 1524894019449}, 'reference-count': 0, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 6]]}, 'DOI': '10.1109/cvprw.2009.5206775', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 8, 24]], 'date-time': '2009-08-24T15:11:50Z', 'timestamp': 1251126710000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Isometric registration of ambiguous and partial data'], 'prefix': '10.1109', 'author': [{'given': 'A.', 'family': 'Tevs', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Bokeloh', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Wand', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Schilling', 'sequence': 'additional', 'affiliation': []}, {'given': 'H.-P.', 'family': 'Seidel', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Miami, FL, USA', 'start': {'date-parts': [[2009, 6, 20]]}, 'end': {'date-parts': [[2009, 6, 25]]}}, 'container-title': ['2009 IEEE Conference on Computer Vision and Pattern Recognition'], 'deposited': {'date-parts': [[2014, 11, 4]], 'date-time': '2014-11-04T18:01:09Z', 'timestamp': 1415124069000}, 'score': 103.452446, 'issued': {'date-parts': [[2009, 6]]}, 'ISBN': ['9781424439928'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1109/cvprw.2009.5206775'}
+>>> hash >>> ('Isometric registration of ambiguous and partial data', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Ishikawa, "Higher-order clique reduction in binary graph cut", CVPR, 2009.
+>>> DOI >>> 10.1109/cvprw.2009.5206689
+>>> URL >>> http://dx.doi.org/10.1109/cvprw.2009.5206689
+>>> year >>> 2009.0
+>>> title >>> Higher-order clique reduction in binary graph cut
+>>> author >>> H. Ishikawa
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['2009 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 28]], 'date-time': '2018-04-28T05:40:14Z', 'timestamp': 1524894014574}, 'reference-count': 0, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 6]]}, 'DOI': '10.1109/cvprw.2009.5206689', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 8, 24]], 'date-time': '2009-08-24T15:11:50Z', 'timestamp': 1251126710000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Higher-order clique reduction in binary graph cut'], 'prefix': '10.1109', 'author': [{'given': 'H.', 'family': 'Ishikawa', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Miami, FL, USA', 'start': {'date-parts': [[2009, 6, 20]]}, 'end': {'date-parts': [[2009, 6, 25]]}}, 'container-title': ['2009 IEEE Conference on Computer Vision and Pattern Recognition'], 'deposited': {'date-parts': [[2014, 11, 4]], 'date-time': '2014-11-04T18:13:09Z', 'timestamp': 1415124789000}, 'score': 72.48475, 'issued': {'date-parts': [[2009, 6]]}, 'ISBN': ['9781424439928'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1109/cvprw.2009.5206689'}
+>>> hash >>> ('Higher-order clique reduction in binary graph cut', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Zass, A. Shashua, "Probabilistic graph and hypergraph matching", CVPR, 2008.
+>>> DOI >>> 10.1109/cvpr.2008.4587500
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2008.4587500
+>>> year >>> 2008.0
+>>> title >>> Probabilistic graph and hypergraph matching
+>>> author >>> Ron Zass and Amnon Shashua
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 129.0
+>>> subject >>> None
+>>> container_title >>> ['2008 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:54:20Z', 'timestamp': 1525438460229}, 'reference-count': 18, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424422425', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 6]]}, 'DOI': '10.1109/cvpr.2008.4587500', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 8, 12]], 'date-time': '2008-08-12T14:28:49Z', 'timestamp': 1218551329000}, 'source': 'Crossref', 'is-referenced-by-count': 129, 'title': ['Probabilistic graph and hypergraph matching'], 'prefix': '10.1109', 'author': [{'given': 'Ron', 'family': 'Zass', 'sequence': 'first', 'affiliation': []}, {'given': 'Amnon', 'family': 'Shashua', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2008 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Anchorage, AK, USA', 'start': {'date-parts': [[2008, 6, 23]]}, 'end': {'date-parts': [[2008, 6, 28]]}}, 'container-title': ['2008 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4558014/4587335/04587500.pdf?arnumber=4587500', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T14:14:04Z', 'timestamp': 1489673644000}, 'score': 76.15289, 'issued': {'date-parts': [[2008, 6]]}, 'ISBN': ['9781424422425'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1109/cvpr.2008.4587500'}
+>>> hash >>> ('Probabilistic graph and hypergraph matching', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Leordeanu, M. Hebert, "A spectral technique for correspondence problems using pairwise constraints", ICCV, pp. 1482-1489, 2005.
+>>> DOI >>> 10.1109/iccv.2005.20
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2005.20
+>>> year >>> 2005.0
+>>> title >>> A spectral technique for correspondence problems using pairwise constraints
+>>> author >>> M. Leordeanu and M. Hebert
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 380.0
+>>> subject >>> None
+>>> container_title >>> ["Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 30]], 'date-time': '2018-05-30T15:22:49Z', 'timestamp': 1527693769259}, 'reference-count': 17, 'publisher': 'IEEE', 'isbn-type': [{'value': '076952334X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1109/iccv.2005.20', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 12, 10]], 'date-time': '2005-12-10T20:49:09Z', 'timestamp': 1134247749000}, 'source': 'Crossref', 'is-referenced-by-count': 380, 'title': ['A spectral technique for correspondence problems using pairwise constraints'], 'prefix': '10.1109', 'author': [{'given': 'M.', 'family': 'Leordeanu', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Hebert', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1", 'location': 'Beijing, China', 'start': {'date-parts': [[2005, 10, 17]]}, 'end': {'date-parts': [[2005, 10, 21]]}}, 'container-title': ["Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10347/32976/01544893.pdf?arnumber=1544893', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 14]], 'date-time': '2017-03-14T15:55:27Z', 'timestamp': 1489506927000}, 'score': 86.390526, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['076952334X'], 'references-count': 17, 'URL': 'http://dx.doi.org/10.1109/iccv.2005.20'}
+>>> hash >>> ('A spectral technique for correspondence problems using pairwise constraints', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Zhang, A. Sheffer, D. Cohen-Or, Q. Zhou, O. Kaick van, A. Tagliasacchi, "Deformation-driven shape correspondence", Computer Graphics Forum (SGP), vol. 27, no. 5, pp. 1431-1439, 2008.
+>>> DOI >>> 10.1111/j.1467-8659.2008.01283.x
+>>> URL >>> http://dx.doi.org/10.1111/j.1467-8659.2008.01283.x
+>>> year >>> 2008.0
+>>> title >>> Deformation-Driven Shape Correspondence
+>>> author >>> H. Zhang and A. Sheffer and D. Cohen-Or and Q. Zhou and O. van Kaick and A. Tagliasacchi
+>>> reference_count >>> 38.0
+>>> is_referenced_by_count >>> 74.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Graphics Forum']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365108}, 'reference-count': 38, 'publisher': 'Wiley', 'issue': '5', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 2618, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 7]]}, 'DOI': '10.1111/j.1467-8659.2008.01283.x', 'type': 'journal-article', 'created': {'date-parts': [[2008, 9, 29]], 'date-time': '2008-09-29T16:35:27Z', 'timestamp': 1222706127000}, 'page': '1431-1439', 'source': 'Crossref', 'is-referenced-by-count': 74, 'title': ['Deformation-Driven Shape Correspondence'], 'prefix': '10.1111', 'volume': '27', 'author': [{'given': 'H.', 'family': 'Zhang', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Sheffer', 'sequence': 'additional', 'affiliation': []}, {'given': 'D.', 'family': 'Cohen-Or', 'sequence': 'additional', 'affiliation': []}, {'given': 'Q.', 'family': 'Zhou', 'sequence': 'additional', 'affiliation': []}, {'given': 'O.', 'family': 'van Kaick', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Tagliasacchi', 'sequence': 'additional', 'affiliation': []}], 'member': '311', 'reference': [{'key': '10.1111/j.1467-8659.2008.01283.x-BIB1', 'unstructured': '[ACOL00] Alexa M. , Cohen-Or D. , Levin D. : As-rigid-as-possible shape interpolation. In SIGGRAPH (2000), pp. 157-164.'}, {'issue': '3', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB2', 'first-page': '587', 'article-title': 'The space of human body shapes: reconstruction and parameterization of range scans', 'volume': '22', 'author': 'Allen', 'year': '2003', 'journal-title': 'ACM Trans. on Graphics'}, {'issue': '3', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB3', 'first-page': '408', 'article-title': 'Scape: shape completion and animation of people', 'volume': '24', 'author': 'Anguelov', 'year': '2005', 'journal-title': 'ACM Trans. on Graphics'}, {'issue': '2', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB4', 'first-page': '239', 'article-title': 'A method for registration of 3-d shapes', 'volume': '14', 'author': 'Besl', 'year': '1992', 'journal-title': 'IEEE Trans. Pat. Ana. & Mach. Int.'}, {'issue': '9', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB5', 'first-page': '1002', 'article-title': 'Sub-part correspondence by structural descriptors of 3d shapes', 'volume': '38', 'author': 'Biasotti', 'year': '2006', 'journal-title': 'Computer-Aided Design'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB6', 'unstructured': '[BV99] Blanz V. , Vetter T. : A morphable model for the synthesis of 3d faces. In SIGGRAPH (1999), pp. 187-194.'}, {'issue': '2', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB7', 'first-page': '116', 'article-title': 'Three-dimensional distance field metamorphosis', 'volume': '17', 'author': 'Cohen-Or', 'year': '1998', 'journal-title': 'ACM Trans. on Graphics'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB8', 'first-page': '114', 'article-title': 'A new point matching algorithm for non-rigid registration', 'volume': '89', 'author': 'Chui', 'year': '2003', 'journal-title': 'Computer Vision and Image Understanding'}, {'issue': '10', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB9', 'first-page': '1285', 'article-title': 'On bending invariant signatures for surfaces', 'volume': '25', 'author': 'Elad', 'year': '2003', 'journal-title': 'IEEE Trans. Pat. Ana. & Mach. Int.'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB10', 'unstructured': '[FS06] Funkhouser T. , Shilane P. : Partial matching of 3d shapes with priority-driven search. In Proc. Eurographics Symp. on Geometry Processing (2006), pp. 131-142.'}, {'issue': '1', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB11', 'first-page': '130', 'article-title': 'Salient geometric features for partial shape matching and similarity', 'volume': '25', 'author': 'Gal', 'year': '2006', 'journal-title': 'ACM Trans. on Graphics'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB12', 'unstructured': '[GGGZ05] Gatzke T. , Grimm C. , Garland M. , Zelinka S. : Curvature maps for local shape comparison. In Proc. IEEE Conf. on Shape Modeling and Applications (2005).'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB13', 'unstructured': '[GMGP05] Gelfand N. , Mitra N. , Guibas L. , Pottmann H. : Robust global registration. In Proc. Eurographics Symp. on Geometry Processing (2005), pp. 197-206.'}, {'issue': '4', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB14', 'first-page': '377', 'article-title': 'A graduated assignment algorithm for graph matching', 'volume': '18', 'author': 'Gold', 'year': '1996', 'journal-title': 'IEEE Trans. Pat. Ana. & Mach. Int.'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB15', 'unstructured': '[GSL*98] Gregory A. D. , State A. , Lin M. C. , Manocha D. , Livingston M. A. : Feature-based surface decomposition for correspondence and morphing between polyhedra. In Proc. Computer Animation (1998), pp. 64-71.'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB16', 'author': 'Hebb', 'year': '1949', 'volume-title': 'The Organization of Behavior'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB17', 'unstructured': '[HFG*06] Huang Q.-X. , Flöry S. , Gelfand N. , Hofer M. , Pottmann H. : Reassembling fractured objects by geometric matching. In SIGGRAPH (2006), pp. 569-578.'}, {'issue': '7', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB18', 'first-page': '637', 'article-title': 'Fully automatic registration of multiple 3d data sets', 'volume': '21', 'author': 'Huber', 'year': '2003', 'journal-title': 'Image and Vision Computing'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB19', 'unstructured': '[HSKK01] Hilaga M. , Shinagawa Y. , Kohmura T. , Kunii T. L. : Topology matching for fully automatic similarity estimation of 3d shapes. In SIGGRAPH (2001), pp. 203-212.'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB20', 'first-page': '8', 'article-title': 'Mesh segmentation using feature point and core extraction', 'volume': '21', 'author': 'Katz', 'year': '2005', 'journal-title': 'The Visual Computer (Pacific Graphics)'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB21', 'unstructured': '[KS04] Kraevoy V. , Sheffer A. : Cross-parameterization and compatible remeshing of 3D models. In SIGGRAPH (2004), pp. 861-869.'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB22', 'first-page': '1', 'article-title': 'Mean-value geometry encoding', 'volume': '12', 'author': 'Kraevoy', 'year': '2006', 'journal-title': 'International Journal of Shape Modeling'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB23', 'unstructured': '[LG05] Li X. , Guskov I. : Multi-scale features for approximate alignment of point-based surfaces. In Proc. Eurographics Symp. on Geometry Processing (2005), pp. 217-226.'}, {'issue': '2', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB24', 'first-page': '224', 'article-title': 'Scale-space theory: A basic tool for analysing structures at different scales', 'volume': '21', 'author': 'Lindeberg', 'year': '1994', 'journal-title': 'J. of Applied Statistics'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB25', 'unstructured': '[LSLCO05] Lipman Y. , Sorkine O. , Levin D. , Cohen-Or D. : Linear rotation-invariant coordinates for meshes. In SIG-GRAPH (2005), pp. 479-487.'}, {'issue': '1', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB26', 'first-page': '34', 'article-title': 'Robust feature classification and editing', 'volume': '13', 'author': 'Lai', 'year': '2007', 'journal-title': 'IEEE Trans. Vis. & Mach. Comp. Graphics'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB27', 'unstructured': '[OBS04] Ohtake Y. , Belyaev A. , Seidel H.-P. :Ridge-valley lines on meshes via implicit surface fitting. In SIGGRAPH (2004), pp. 609-612.'}, {'issue': '6', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB28', 'first-page': '420', 'article-title': 'Scene labelling by relaxation operations', 'volume': '6', 'author': 'Rosenfeld', 'year': '1976', 'journal-title': 'IEEE Trans. Systems, Man, & Cybernetics'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB29', 'unstructured': '[SAPH04] Schreiner J. , Asirvatham A. , Praun E. , Hoppe H. : Inter-surface mapping. In SIGGRAPH (2004), pp. 870-877.'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB30', 'unstructured': '[SG92] Sederberg T. W. , Greenwood E. : A physically based approach to 2-D shape blending. In SIGGRAPH (1992), pp. 25-34.'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB31', 'unstructured': '[SH81] Shapiro L. , Haralick R. M. : Structural descriptions and inexact matching. IEEE Trans. Pat. Ana. & Mach. Int. (1981), 504-519.'}, {'issue': '1', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB32', 'first-page': '75', 'article-title': 'Morphable surface models', 'volume': '38', 'author': 'Shelton', 'year': '2000', 'journal-title': 'Int. J. Comput. Vision'}, {'issue': '3', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB33', 'first-page': '399', 'article-title': 'Deformation transfer for triangle meshes', 'volume': '23', 'author': 'Sumner', 'year': '2004', 'journal-title': 'ACM Trans. on Graphics'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB34', 'unstructured': '[SSGD03] Sundar H. , Silver D. , Gagvani N. , Dickinson S. : Skeleton based shape matching and retrieval. In Proc. IEEE Conf. on Shape Modeling and Applications (2003), pp. 130-142.'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB35', 'unstructured': '[TS04] Tung T. , Schmitt F. : Augmented reeb graphs for content-based retrieval of 3d mesh models. In Proc. IEEE Conf. on Shape Modeling and Applications (2004), pp. 157-166.'}, {'key': '10.1111/j.1467-8659.2008.01283.x-BIB36', 'unstructured': '[VG05] Vaillant M. , Glaunés J. : Surface matching via currents. In Info. Proc. in Med. Imaging (2005), pp. 381-392.'}, {'issue': '1', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB37', 'first-page': '1', 'article-title': 'Feature-based surface parameterization and texture mapping', 'volume': '24', 'author': 'Zhang', 'year': '2005', 'journal-title': 'ACM Trans. on Graphics'}, {'issue': '3', 'key': '10.1111/j.1467-8659.2008.01283.x-BIB38', 'first-page': '601', 'article-title': 'Harmonic guidance for surface deformation', 'volume': '24', 'author': 'Zayer', 'year': '2005', 'journal-title': 'Computer Graphics Forum'}], 'container-title': ['Computer Graphics Forum'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1467-8659.2008.01283.x', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 3, 31]], 'date-time': '2017-03-31T07:01:24Z', 'timestamp': 1490943684000}, 'score': 110.09762, 'issued': {'date-parts': [[2008, 7]]}, 'references-count': 38, 'journal-issue': {'published-print': {'date-parts': [[2008, 7]]}, 'issue': '5'}, 'URL': 'http://dx.doi.org/10.1111/j.1467-8659.2008.01283.x', 'relation': {'cites': []}, 'ISSN': ['0167-7055', '1467-8659'], 'issn-type': [{'value': '0167-7055', 'type': 'print'}, {'value': '1467-8659', 'type': 'electronic'}]}
+>>> hash >>> ('Deformation-Driven Shape Correspondence', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> U. Pinkall, K. Polthier, "Computing discrete minimal surfaces and their conjugates", Experimental Mathematics, vol. 2, no. 1, pp. 15-36, 1993.
+>>> DOI >>> 10.1080/10586458.1993.10504266
+>>> URL >>> http://dx.doi.org/10.1080/10586458.1993.10504266
+>>> year >>> 1993.0
+>>> title >>> Computing Discrete Minimal Surfaces and Their Conjugates
+>>> author >>> Ulrich Pinkall and Konrad Polthier
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 453.0
+>>> subject >>> None
+>>> container_title >>> ['Experimental Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 1]], 'date-time': '2018-06-01T01:42:29Z', 'timestamp': 1527817349809}, 'reference-count': 18, 'publisher': 'Informa UK Limited', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Experimental Mathematics'], 'published-print': {'date-parts': [[1993, 1]]}, 'DOI': '10.1080/10586458.1993.10504266', 'type': 'journal-article', 'created': {'date-parts': [[2012, 4, 3]], 'date-time': '2012-04-03T20:09:12Z', 'timestamp': 1333483752000}, 'page': '15-36', 'source': 'Crossref', 'is-referenced-by-count': 453, 'title': ['Computing Discrete Minimal Surfaces and Their Conjugates'], 'prefix': '10.1080', 'volume': '2', 'author': [{'given': 'Ulrich', 'family': 'Pinkall', 'sequence': 'first', 'affiliation': []}, {'given': 'Konrad', 'family': 'Polthier', 'sequence': 'additional', 'affiliation': []}], 'member': '301', 'reference': [{'key': 'CIT0001', 'author': 'Brakke K. A.', 'volume': '1', 'first-page': '141', 'year': '1992', 'journal-title': 'Experimental Math.', 'DOI': '10.1080/10586458.1992.10504253', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0002', 'DOI': '10.1090/S0025-5718-1967-0229394-6', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0003', 'author': 'Courant R.', 'year': '1950', 'volume-title': "Dirichlet's Principle, Conformal Mapping, and Minimal Surfaces"}, {'key': 'CIT0004', 'author': 'Douglas J.', 'volume': '33', 'first-page': '263', 'year': '1931', 'journal-title': 'Trans. Amer. Math. Soc.', 'DOI': '10.1090/S0002-9947-1931-1501590-9', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0005', 'author': 'Dziuk G.', 'volume': '58', 'first-page': '603', 'year': '1991', 'journal-title': 'Numer. Math.', 'DOI': '10.1007/BF01385643', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0006', 'author': 'Hutchinson J. E.', 'volume': '26', 'first-page': '140', 'year': '1991', 'journal-title': 'Proc. Centr. Math. Anal. (Canberra)'}, {'key': 'CIT0007', 'DOI': '10.1016/0040-9383(83)90032-0', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0008', 'DOI': '10.1007/BF01258269', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0009', 'DOI': '10.1007/BF01165824', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0010', 'author': 'Karcher H.', 'volume': '28', 'first-page': '169', 'year': '1988', 'journal-title': 'J. Diff. Geom.', 'DOI': '10.4310/jdg/1214442276', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0011', 'DOI': '10.2307/1970625', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0012', 'author': 'Plateau J. A. F.', 'year': '1873', 'volume-title': 'Statique Expéerimentale et Théorétique des Liquides Soumis aux Seules Forces Moléculaires'}, {'key': 'CIT0013', 'author': 'Polthier K.', 'volume': '26', 'first-page': '201', 'year': '1991', 'journal-title': 'Proc. Centr. Math. Anal. (Canberra)'}, {'key': 'CIT0014', 'author': 'Radó T.', 'volume': '32', 'first-page': '763', 'year': '1930', 'journal-title': 'Math. Zeit.', 'DOI': '10.1007/BF01194665', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0015', 'author': 'Smyth B.', 'volume': '76', 'first-page': '411', 'year': '1984', 'journal-title': 'Invent. Math.', 'DOI': '10.1007/BF01388467', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0016', 'author': 'Sullivan J. M.', 'year': '1990', 'series-title': 'Ph.D. dissertation', 'volume-title': '“A crystalline approximation theorem for hypersurfaces”'}, {'key': 'CIT0017', 'author': 'Wilson W. L.', 'volume': '3', 'first-page': '359', 'year': '1961', 'journal-title': 'Num. Math.', 'DOI': '10.1007/BF01386035', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0018', 'author': 'Wohlrab O.', 'year': '1985', 'series-title': 'Dissertation', 'volume-title': '“Zur numerischen Behandlung von parametrischen Minimalfläachen mit halbfreien Räandern”'}], 'container-title': ['Experimental Mathematics'], 'language': 'en', 'link': [{'URL': 'http://www.tandfonline.com/doi/pdf/10.1080/10586458.1993.10504266', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T16:39:52Z', 'timestamp': 1497976792000}, 'score': 92.84367, 'issued': {'date-parts': [[1993, 1]]}, 'references-count': 18, 'journal-issue': {'published-print': {'date-parts': [[1993, 1]]}, 'issue': '1'}, 'alternative-id': ['10.1080/10586458.1993.10504266'], 'URL': 'http://dx.doi.org/10.1080/10586458.1993.10504266', 'relation': {'cites': []}, 'ISSN': ['1058-6458', '1944-950X'], 'issn-type': [{'value': '1058-6458', 'type': 'print'}, {'value': '1944-950X', 'type': 'electronic'}]}
+>>> hash >>> ('Computing Discrete Minimal Surfaces and Their Conjugates', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Berg de, M. Krefeld van, M. Overmars, O. Schwarzkopf, Computational Geometry: Algorithms and Applications, Springer, 2000.
+>>> DOI >>> 10.1007/978-3-662-04245-8_14
+>>> URL >>> http://dx.doi.org/10.1007/978-3-662-04245-8_14
+>>> year >>> 2000.0
+>>> title >>> Quadtrees
+>>> author >>> Mark de Berg and Marc van Kreveld and Mark Overmars and Otfried Cheong Schwarzkopf
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['Computational Geometry']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 4]], 'date-time': '2018-06-04T06:02:25Z', 'timestamp': 1528092145122}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783662042472', 'type': 'print'}, {'value': '9783662042458', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2000]]}, 'DOI': '10.1007/978-3-662-04245-8_14', 'type': 'book-chapter', 'created': {'date-parts': [[2013, 4, 12]], 'date-time': '2013-04-12T04:02:50Z', 'timestamp': 1365739370000}, 'page': '291-306', 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['Quadtrees'], 'prefix': '10.1007', 'author': [{'given': 'Mark', 'family': 'de Berg', 'sequence': 'first', 'affiliation': []}, {'given': 'Marc', 'family': 'van Kreveld', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mark', 'family': 'Overmars', 'sequence': 'additional', 'affiliation': []}, {'given': 'Otfried Cheong', 'family': 'Schwarzkopf', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Computational Geometry'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-662-04245-8_14', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 7, 18]], 'date-time': '2014-07-18T03:23:44Z', 'timestamp': 1405653824000}, 'score': 64.381584, 'issued': {'date-parts': [[2000]]}, 'ISBN': ['9783662042472', '9783662042458'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-662-04245-8_14'}
+>>> hash >>> ('Quadtrees', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Comaniciu, P. Meer, "Mean shift: A robust approach toward feature space analysis", IEEE TPAMI, vol. 24, no. 5, pp. 603-619, 2002.
+>>> DOI >>> 10.1109/34.1000236
+>>> URL >>> http://dx.doi.org/10.1109/34.1000236
+>>> year >>> 2002.0
+>>> title >>> Mean shift: a robust approach toward feature space analysis
+>>> author >>> D. Comaniciu and P. Meer
+>>> reference_count >>> 67.0
+>>> is_referenced_by_count >>> 5004.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T09:42:31Z', 'timestamp': 1528364551100}, 'reference-count': 67, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2002, 5]]}, 'DOI': '10.1109/34.1000236', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T20:14:45Z', 'timestamp': 1030220085000}, 'page': '603-619', 'source': 'Crossref', 'is-referenced-by-count': 5004, 'title': ['Mean shift: a robust approach toward feature space analysis'], 'prefix': '10.1109', 'volume': '24', 'author': [{'given': 'D.', 'family': 'Comaniciu', 'sequence': 'first', 'affiliation': []}, {'given': 'P.', 'family': 'Meer', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/21601/01000236.pdf?arnumber=1000236', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T09:37:48Z', 'timestamp': 1512985068000}, 'score': 90.22445, 'issued': {'date-parts': [[2002, 5]]}, 'references-count': 67, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/34.1000236', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Mean shift: a robust approach toward feature space analysis', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Wang, Y. Wang, M. Jin, X. D. Gu, D. Samaras, "Conformal geometry and its applications on 3D shape matching recognition and stitching", IEEE TPAMI, vol. 29, no. 7, pp. 1209-1220, 2007.
+>>> DOI >>> 10.1109/tpami.2007.1050
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2007.1050
+>>> year >>> 2007.0
+>>> title >>> Conformal Geometry and Its Applications on 3D Shape Matching, Recognition, and Stitching
+>>> author >>> Sen Wang and Yang Wang and Miao Jin and Xianfeng David Gu and Dimitris Samaras
+>>> reference_count >>> 52.0
+>>> is_referenced_by_count >>> 72.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365361}, 'reference-count': 52, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '7', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2007, 7]]}, 'DOI': '10.1109/tpami.2007.1050', 'type': 'journal-article', 'created': {'date-parts': [[2007, 6, 1]], 'date-time': '2007-06-01T20:00:40Z', 'timestamp': 1180728040000}, 'page': '1209-1220', 'source': 'Crossref', 'is-referenced-by-count': 72, 'title': ['Conformal Geometry and Its Applications on 3D Shape Matching, Recognition, and Stitching'], 'prefix': '10.1109', 'volume': '29', 'author': [{'given': 'Sen', 'family': 'Wang', 'sequence': 'first', 'affiliation': []}, {'given': 'Yang', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Miao', 'family': 'Jin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xianfeng David', 'family': 'Gu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Dimitris', 'family': 'Samaras', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/4204153/04204163.pdf?arnumber=4204163', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T09:14:13Z', 'timestamp': 1510650853000}, 'score': 89.93136, 'issued': {'date-parts': [[2007, 7]]}, 'references-count': 52, 'journal-issue': {'issue': '7'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2007.1050', 'ISSN': ['0162-8828', '2160-9292'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}, {'value': '2160-9292', 'type': 'electronic'}]}
+>>> hash >>> ('Conformal Geometry and Its Applications on 3D Shape Matching, Recognition, and Stitching', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> V. Kolmogorov, C. Rprint, "Minimizing nonsubmodular functions with graph cuts-a review", IEEE TPAMI, vol. 29, no. 7, pp. 1274-1279, 2007.
+>>> DOI >>> 10.1109/tpami.2007.1031
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2007.1031
+>>> year >>> 2007.0
+>>> title >>> Minimizing Nonsubmodular Functions with Graph Cuts-A Review
+>>> author >>> Vladimir Kolmogorov and Carsten Rother
+>>> reference_count >>> 38.0
+>>> is_referenced_by_count >>> 171.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T17:32:00Z', 'timestamp': 1525368720816}, 'reference-count': 38, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '7', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2007, 7]]}, 'DOI': '10.1109/tpami.2007.1031', 'type': 'journal-article', 'created': {'date-parts': [[2007, 6, 1]], 'date-time': '2007-06-01T20:00:40Z', 'timestamp': 1180728040000}, 'page': '1274-1279', 'source': 'Crossref', 'is-referenced-by-count': 171, 'title': ['Minimizing Nonsubmodular Functions with Graph Cuts-A Review'], 'prefix': '10.1109', 'volume': '29', 'author': [{'given': 'Vladimir', 'family': 'Kolmogorov', 'sequence': 'first', 'affiliation': []}, {'given': 'Carsten', 'family': 'Rother', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/4204153/04204169.pdf?arnumber=4204169', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T09:14:02Z', 'timestamp': 1510650842000}, 'score': 82.301346, 'issued': {'date-parts': [[2007, 7]]}, 'references-count': 38, 'journal-issue': {'issue': '7'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2007.1031', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Minimizing Nonsubmodular Functions with Graph Cuts-A Review', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. J. Campbell, P. J. Flynn, "A survey of free-form object representation and recognition techniques", Comput. Vis. Image Underst., vol. 81, no. 2, 2001.
+>>> DOI >>> 10.1006/cviu.2000.0889
+>>> URL >>> http://dx.doi.org/10.1006/cviu.2000.0889
+>>> year >>> 2001.0
+>>> title >>> A Survey Of Free-Form Object Representation and Recognition Techniques
+>>> author >>> Richard J. Campbell and Patrick J. Flynn
+>>> reference_count >>> 117.0
+>>> is_referenced_by_count >>> 265.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision and Image Understanding']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T09:02:38Z', 'timestamp': 1526979758171}, 'reference-count': 117, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2001, 2, 1]], 'date-time': '2001-02-01T00:00:00Z', 'timestamp': 980985600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Vision and Image Understanding'], 'published-print': {'date-parts': [[2001, 2]]}, 'DOI': '10.1006/cviu.2000.0889', 'type': 'journal-article', 'created': {'date-parts': [[2002, 9, 16]], 'date-time': '2002-09-16T15:45:11Z', 'timestamp': 1032191111000}, 'page': '166-210', 'source': 'Crossref', 'is-referenced-by-count': 265, 'title': ['A Survey Of Free-Form Object Representation and Recognition Techniques'], 'prefix': '10.1006', 'volume': '81', 'author': [{'given': 'Richard J.', 'family': 'Campbell', 'sequence': 'first', 'affiliation': []}, {'given': 'Patrick J.', 'family': 'Flynn', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Computer Vision and Image Understanding'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1077314200908890?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1077314200908890?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 8, 10]], 'date-time': '2017-08-10T12:22:17Z', 'timestamp': 1502367737000}, 'score': 67.979355, 'issued': {'date-parts': [[2001, 2]]}, 'references-count': 117, 'journal-issue': {'published-print': {'date-parts': [[2001, 2]]}, 'issue': '2'}, 'alternative-id': ['S1077314200908890'], 'URL': 'http://dx.doi.org/10.1006/cviu.2000.0889', 'ISSN': ['1077-3142'], 'issn-type': [{'value': '1077-3142', 'type': 'print'}]}
+>>> hash >>> ('A Survey Of Free-Form Object Representation and Recognition Techniques', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. P. Carmo do, Differential Geometry of Curves and Surfaces, Prentice Hall, 1976.
+>>> DOI >>> 10.1007/978-3-642-57951-6_5
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-57951-6_5
+>>> year >>> 1994.0
+>>> title >>> Differential Geometry of Surfaces
+>>> author >>> Manfredo P. do Carmo
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Differential Forms and Applications', 'Universitext']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T04:44:50Z', 'timestamp': 1525409090514}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540576181', 'type': 'print'}, {'value': '9783642579516', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1994]]}, 'DOI': '10.1007/978-3-642-57951-6_5', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 5, 25]], 'date-time': '2011-05-25T09:04:31Z', 'timestamp': 1306314271000}, 'page': '77-98', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Differential Geometry of Surfaces'], 'prefix': '10.1007', 'author': [{'given': 'Manfredo P.', 'family': 'do Carmo', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Differential Forms and Applications', 'Universitext'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-642-57951-6_5', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 7, 14]], 'date-time': '2014-07-14T20:31:09Z', 'timestamp': 1405369869000}, 'score': 37.088276, 'issued': {'date-parts': [[1994]]}, 'ISBN': ['9783540576181', '9783642579516'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-57951-6_5', 'ISSN': ['0172-5939', '2191-6675'], 'issn-type': [{'value': '0172-5939', 'type': 'print'}, {'value': '2191-6675', 'type': 'electronic'}]}
+>>> hash >>> ('Differential Geometry of Surfaces', 1994.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> O. Duchenne, F. Bach, J. Kweon, J. Ponce, "A tensor-based algorithm for high-order graph matching", CVPR, 2009.
+>>> DOI >>> 10.1109/cvprw.2009.5206619
+>>> URL >>> http://dx.doi.org/10.1109/cvprw.2009.5206619
+>>> year >>> 2009.0
+>>> title >>> A tensor-based algorithm for high-order graph matching
+>>> author >>> O. Duchenne and F. Bach and I. Kweon and J. Ponce
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['2009 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 28]], 'date-time': '2018-04-28T05:40:14Z', 'timestamp': 1524894014168}, 'reference-count': 0, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 6]]}, 'DOI': '10.1109/cvprw.2009.5206619', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 8, 24]], 'date-time': '2009-08-24T15:11:50Z', 'timestamp': 1251126710000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['A tensor-based algorithm for high-order graph matching'], 'prefix': '10.1109', 'author': [{'given': 'O.', 'family': 'Duchenne', 'sequence': 'first', 'affiliation': []}, {'given': 'F.', 'family': 'Bach', 'sequence': 'additional', 'affiliation': []}, {'given': 'I.', 'family': 'Kweon', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Ponce', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Miami, FL, USA', 'start': {'date-parts': [[2009, 6, 20]]}, 'end': {'date-parts': [[2009, 6, 25]]}}, 'container-title': ['2009 IEEE Conference on Computer Vision and Pattern Recognition'], 'deposited': {'date-parts': [[2014, 11, 4]], 'date-time': '2014-11-04T18:14:50Z', 'timestamp': 1415124890000}, 'score': 87.11385, 'issued': {'date-parts': [[2009, 6]]}, 'ISBN': ['9781424439928'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1109/cvprw.2009.5206619'}
+>>> hash >>> ('A tensor-based algorithm for high-order graph matching', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Torresani, V. Kolmogorov, C. Rprint, "Feature correspondence via graph matching: Models and global optimization", ECCV, 2008.
+>>> DOI >>> 10.1007/978-3-540-88688-4_44
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-88688-4_44
+>>> year >>> 2008.0
+>>> title >>> Feature Correspondence Via Graph Matching: Models and Global Optimization
+>>> author >>> Lorenzo Torresani and Vladimir Kolmogorov and Carsten Rother
+>>> reference_count >>> 35.0
+>>> is_referenced_by_count >>> 41.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:49:04Z', 'timestamp': 1525445344179}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 35, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540886853', 'type': 'print'}, {'value': '9783540886884', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2008, 1, 1]], 'date-time': '2008-01-01T00:00:00Z', 'timestamp': 1199145600000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.1007/978-3-540-88688-4_44', 'type': 'book-chapter', 'created': {'date-parts': [[2008, 10, 13]], 'date-time': '2008-10-13T14:20:43Z', 'timestamp': 1223907643000}, 'page': '596-609', 'source': 'Crossref', 'is-referenced-by-count': 41, 'title': ['Feature Correspondence Via Graph Matching: Models and Global Optimization'], 'prefix': '10.1007', 'author': [{'given': 'Lorenzo', 'family': 'Torresani', 'sequence': 'first', 'affiliation': []}, {'given': 'Vladimir', 'family': 'Kolmogorov', 'sequence': 'additional', 'affiliation': []}, {'given': 'Carsten', 'family': 'Rother', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': '44_CR1', 'unstructured': 'Belhumeur, P.N.: A binocular stereo algorithm for reconstructing sloping, creased, and broken surfaces in the presence of half-occlusion. In: ICCV (May 1993)', 'DOI': '10.1109/ICCV.1993.378184', 'doi-asserted-by': 'crossref'}, {'key': '44_CR2', 'unstructured': 'Kolmogorov, V., Zabih, R.: Computing visual correspondence with occlusions using graph cuts. In: ICCV (2001)', 'DOI': '10.1109/ICCV.2001.937668', 'doi-asserted-by': 'crossref'}, {'key': '44_CR3', 'unstructured': 'Dorko, G., Schmid, C.: Selection of scale-invariant parts for object class recognition. In: ICCV (2003)', 'DOI': '10.1109/ICCV.2003.1238407', 'doi-asserted-by': 'crossref'}, {'key': '44_CR4', 'unstructured': 'Sivic, J., Russell, B., Efros, A., Zisserman, A.: Discovering object categories in image collections. In: ICCV (2005)'}, {'key': '44_CR5', 'unstructured': 'Caetano, T.S., Cheng, L., Le, Q.V., Smola, A.J.: Learning graph matching. In: ICCV (2007)', 'DOI': '10.1109/ICCV.2007.4408838', 'doi-asserted-by': 'crossref'}, {'key': '44_CR6', 'unstructured': 'Bertsekas, D.: Nonlinear Programming. Athena Scientific (1999)'}, {'issue': '4', 'key': '44_CR7', 'doi-asserted-by': 'publisher', 'first-page': '704', 'DOI': '10.1287/mnsc.41.4.704', 'volume': '41', 'author': 'P. Chardaire', 'year': '1995', 'unstructured': 'Chardaire, P., Sutter, A.: A decomposition method for quadratic zero-one programming. Management Science\xa041(4), 704–712 (1995)', 'journal-title': 'Management Science'}, {'key': '44_CR8', 'unstructured': 'Wainwright, M.J., Jaakkola, T.S., Willsky, A.S.: MAP estimation via agreement on trees: Message-passing and linear-programming approaches. IEEE Trans. Information Theory\xa051(11) (2005)', 'DOI': '10.1109/TIT.2005.856938', 'doi-asserted-by': 'crossref'}, {'key': '44_CR9', 'unstructured': 'Schlesinger, M.I., Giginyak, V.V.: Solution to structural recognition (MAX,+)-problems by their equivalent transformations. Part 1. Control Systems and Computers\xa0(1), 3–15 (2007)'}, {'key': '44_CR10', 'unstructured': 'Schlesinger, M.I., Giginyak, V.V.: Solution to structural recognition (MAX,+)-problems by their equivalent transformations. Part 2. Control Systems and Computers\xa0(2), 3–18 (2007)'}, {'key': '44_CR11', 'unstructured': 'Komodakis, N., Paragios, N., Tziritas, G.: MRF optimization via dual decomposition: Message-passing revisited. In: ICCV (2007)'}, {'key': '44_CR12', 'unstructured': 'Cour, T., Srinivasan, P., Shi, J.: Balanced graph matching. In: NIPS (2007)'}, {'key': '44_CR13', 'unstructured': 'Duchi, J., Tarlow, D., Elidan, G., Koller, D.: Using combinatorial optimization within max-product belief propagation. In: NIPS (2007)'}, {'issue': '4', 'key': '44_CR14', 'doi-asserted-by': 'publisher', 'first-page': '509', 'DOI': '10.1109/34.993558', 'volume': '24', 'author': 'S.J. Belongie', 'year': '2002', 'unstructured': 'Belongie, S.J., Malik, J., Puzicha, J.: Shape matching and object recognition using shape contexts. PAMI\xa024(4), 509–522 (2002)', 'journal-title': 'PAMI'}, {'key': '44_CR15', 'unstructured': 'Torr, P.H.S.: Geometric motion segmentation and model selection. Philosophical Transactions of the Royal Society, 1321–1340 (1998)'}, {'issue': '6', 'key': '44_CR16', 'doi-asserted-by': 'publisher', 'first-page': '545', 'DOI': '10.1109/34.387502', 'volume': '17', 'author': 'S. Sclaroff', 'year': '1997', 'unstructured': 'Sclaroff, S., Pentland, A.: Modal matching for correspondence and recognition. PAMI\xa017(6), 545–561 (1997)', 'journal-title': 'PAMI'}, {'key': '44_CR17', 'unstructured': 'Berg, A., Berg, T., Malik, J.: Shape matching and object recognition using low distortion correspondence. In: CVPR (2005)', 'DOI': '10.1109/CVPR.2005.320', 'doi-asserted-by': 'crossref'}, {'key': '44_CR18', 'unstructured': 'Leordeanu, M., Hebert, M.: A spectral technique for correspondence problems using pairwise constraints. In: ICCV (2005)', 'DOI': '10.1109/ICCV.2005.20', 'doi-asserted-by': 'crossref'}, {'key': '44_CR19', 'unstructured': 'Torr, P.H.S.: Solving Markov random fields using semi definite programming. In: AISTATS (2003)'}, {'issue': '3', 'key': '44_CR20', 'doi-asserted-by': 'publisher', 'first-page': '1071', 'DOI': '10.1145/1073204.1073314', 'volume': '24', 'author': 'C.K. Liu', 'year': '2005', 'unstructured': 'Liu, C.K., Hertzmann, A., Popovi\u0107, Z.: Learning physics-based motion style with nonlinear inverse optimization. ACM Trans. on Gr.\xa024(3), 1071–1081 (2005)', 'journal-title': 'ACM Trans. on Gr.'}, {'key': '44_CR21', 'unstructured': 'Conte, D., Foggia, P., Sansone, C., Vento, M.: Thirty years of graph matching in pattern recognition. Int. J. of Pattern Recognition and Artificial Intelligence\xa018(3), 265–298', 'DOI': '10.1142/S0218001404003228', 'doi-asserted-by': 'crossref'}, {'issue': '4', 'key': '44_CR22', 'doi-asserted-by': 'publisher', 'first-page': '377', 'DOI': '10.1109/34.491619', 'volume': '18', 'author': 'S. Gold', 'year': '1996', 'unstructured': 'Gold, S., Rangarajan, A.: A graduated assignment algorithm for graph matching. PAMI\xa018(4), 377–388 (1996)', 'journal-title': 'PAMI'}, {'issue': '2', 'key': '44_CR23', 'doi-asserted-by': 'publisher', 'first-page': '187', 'DOI': '10.1109/TPAMI.2003.1177151', 'volume': '25', 'author': 'J. Maciel', 'year': '2002', 'unstructured': 'Maciel, J., Costeira, J.: A global solution to sparse correspondence problems. PAMI\xa025(2), 187–199 (2002)', 'journal-title': 'PAMI'}, {'issue': '1', 'key': '44_CR24', 'doi-asserted-by': 'publisher', 'first-page': '82', 'DOI': '10.1287/opre.18.1.82', 'volume': '18', 'author': 'A. Cabot', 'year': '1970', 'unstructured': 'Cabot, A., Francis, R.: Solving certain nonconvex quadratic minimization problems by ranking the extreme points. Operations Research\xa018(1), 82–86 (1970)', 'journal-title': 'Operations Research'}, {'key': '44_CR25', 'unstructured': 'Schellewald, C., Schnörr, C.: Probabilistic subgraph matching based on convex relaxation. In: EMMCVPR (2005)', 'DOI': '10.1007/11585978_12', 'doi-asserted-by': 'crossref'}, {'key': '44_CR26', 'author': 'N.Z. Shor', 'year': '1985', 'unstructured': 'Shor, N.Z.: Minimization methods for nondifferentiable functions. Springer, Heidelberg (1985)', 'volume-title': 'Minimization methods for nondifferentiable functions', 'DOI': '10.1007/978-3-642-82118-9', 'doi-asserted-by': 'publisher'}, {'key': '44_CR27', 'author': 'R. Ahuja', 'year': '1993', 'unstructured': 'Ahuja, R., Magnanti, T., Orlin, J.: Network Flows: Theory, Algorithms, and Applications. Prentice Hall, Englewood Cliffs (1993)', 'volume-title': 'Network Flows: Theory, Algorithms, and Applications'}, {'key': '44_CR28', 'unstructured': 'Boros, E., Hammer, P.: Pseudo-boolean optimization. Discr. Appl. Math.\xa0123(1-3) (2002)'}, {'key': '44_CR29', 'doi-asserted-by': 'publisher', 'first-page': '121', 'DOI': '10.1007/BF02612354', 'volume': '28', 'author': 'P.L. Hammer', 'year': '1984', 'unstructured': 'Hammer, P.L., Hansen, P., Simeone, B.: Roof duality, complementation and persistency in quadratic 0-1 optimization. Mathematicl Programming\xa028, 121–155 (1984)', 'journal-title': 'Mathematicl Programming'}, {'key': '44_CR30', 'unstructured': 'Torresani, L., Kolmogorov, V., Rother, C.: Feature correspondence via graph matching: Models and global optimization. Technical Report MSR-TR-2008-101 (2008)'}, {'key': '44_CR31', 'unstructured': 'Boros, E., Hammer, P.L., Sun, X.: Network flows and minimization of quadratic pseudo-Boolean functions. Technical Report RRR 17-1991, RUTCOR (May 1991)'}, {'key': '44_CR32', 'unstructured': 'Lempitsky, V., Rother, C., Blake, A.: LogCut - efficient graph cut optimization for Markov random fields. In: ICCV (2007)', 'DOI': '10.1109/ICCV.2007.4408907', 'doi-asserted-by': 'crossref'}, {'key': '44_CR33', 'unstructured': 'Rother, C., Kolmogorov, V., Lempitsky, V., Szummer, M.: Optimizing binary MRFs via extended roof duality. In: CVPR (2007)', 'DOI': '10.1109/CVPR.2007.383203', 'doi-asserted-by': 'crossref'}, {'key': '44_CR34', 'unstructured': 'Elidan, G., McGraw, I., Koller, D.: Residual belief propagation: Informed scheduling for asynchronous message passing. In: UAI (2006)'}, {'issue': '11', 'key': '44_CR35', 'doi-asserted-by': 'publisher', 'first-page': '2278', 'DOI': '10.1109/5.726791', 'volume': '86', 'author': 'Y. LeCun', 'year': '1998', 'unstructured': 'LeCun, Y., Bottou, L., Bengio, Y., Haffner, P.: Gradient-based learning applied to document recognition. Proceedings of the IEEE\xa086(11), 2278–2324 (1998)', 'journal-title': 'Proceedings of the IEEE'}], 'container-title': ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-540-88688-4_44', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 9, 22]], 'date-time': '2017-09-22T04:33:55Z', 'timestamp': 1506054835000}, 'score': 78.92253, 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9783540886853', '9783540886884'], 'references-count': 35, 'URL': 'http://dx.doi.org/10.1007/978-3-540-88688-4_44', 'relation': {'cites': []}, 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Feature Correspondence Via Graph Matching: Models and Global Optimization', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Komodakis, N. Paragios, G. Tziritas, "MRF optimization via dual decomposition: Message-passing revisited", ICCV, 2007.
+>>> DOI >>> 10.1109/iccv.2007.4408890
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2007.4408890
+>>> year >>> 2007.0
+>>> title >>> MRF Optimization via Dual Decomposition: Message-Passing Revisited
+>>> author >>> Nikos Komodakis and Nikos Paragios and Georgios Tziritas
+>>> reference_count >>> 8.0
+>>> is_referenced_by_count >>> 62.0
+>>> subject >>> None
+>>> container_title >>> ['2007 IEEE 11th International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T04:16:08Z', 'timestamp': 1525407368531}, 'reference-count': 8, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424416301', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.1109/iccv.2007.4408890', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 1, 4]], 'date-time': '2008-01-04T20:34:53Z', 'timestamp': 1199478893000}, 'source': 'Crossref', 'is-referenced-by-count': 62, 'title': ['MRF Optimization via Dual Decomposition: Message-Passing Revisited'], 'prefix': '10.1109', 'author': [{'given': 'Nikos', 'family': 'Komodakis', 'sequence': 'first', 'affiliation': []}, {'given': 'Nikos', 'family': 'Paragios', 'sequence': 'additional', 'affiliation': []}, {'given': 'Georgios', 'family': 'Tziritas', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2007 IEEE 11th International Conference on Computer Vision', 'location': 'Rio de Janeiro, Brazil', 'start': {'date-parts': [[2007, 10, 14]]}, 'end': {'date-parts': [[2007, 10, 21]]}}, 'container-title': ['2007 IEEE 11th International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4408818/4408819/04408890.pdf?arnumber=4408890', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T19:46:00Z', 'timestamp': 1489693560000}, 'score': 108.94989, 'issued': {'date-parts': [[2007]]}, 'ISBN': ['9781424416301'], 'references-count': 8, 'URL': 'http://dx.doi.org/10.1109/iccv.2007.4408890'}
+>>> hash >>> ('MRF Optimization via Dual Decomposition: Message-Passing Revisited', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Thorstensen, R. Keriven, "Non-rigid shape matching using geometry and photometry", ACCV, 2009.
+>>> DOI >>> 10.1007/978-3-642-12297-2_62
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-12297-2_62
+>>> year >>> 2010.0
+>>> title >>> Non-rigid Shape Matching Using Geometry and Photometry
+>>> author >>> Nicolas Thorstensen and Renaud Keriven
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision – ACCV 2009', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T03:32:31Z', 'timestamp': 1525318351572}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642122965', 'type': 'print'}, {'value': '9783642122972', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.1007/978-3-642-12297-2_62', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 5, 5]], 'date-time': '2010-05-05T04:13:24Z', 'timestamp': 1273032804000}, 'page': '644-654', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Non-rigid Shape Matching Using Geometry and Photometry'], 'prefix': '10.1007', 'author': [{'given': 'Nicolas', 'family': 'Thorstensen', 'sequence': 'first', 'affiliation': []}, {'given': 'Renaud', 'family': 'Keriven', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Computer Vision – ACCV 2009', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-12297-2_62', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 22]], 'date-time': '2014-01-22T13:45:47Z', 'timestamp': 1390398347000}, 'score': 77.60505, 'issued': {'date-parts': [[2010]]}, 'ISBN': ['9783642122965', '9783642122972'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-12297-2_62', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Non-rigid Shape Matching Using Geometry and Photometry', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T. S. Caetano, J. J. McAuley, L. Cheng, Q. V. Le, A. J. Smola, "Learning graph matching", IEEE TPAMI, vol. 31, no. 6, pp. 1048-1058, 2009.
+>>> DOI >>> 10.1109/tpami.2009.28
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2009.28
+>>> year >>> 2009.0
+>>> title >>> Learning Graph Matching
+>>> author >>> None
+>>> reference_count >>> 50.0
+>>> is_referenced_by_count >>> 142.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T20:02:57Z', 'timestamp': 1525464177340}, 'reference-count': 50, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2009, 6]]}, 'DOI': '10.1109/tpami.2009.28', 'type': 'journal-article', 'created': {'date-parts': [[2009, 2, 9]], 'date-time': '2009-02-09T20:44:43Z', 'timestamp': 1234212283000}, 'page': '1048-1058', 'source': 'Crossref', 'is-referenced-by-count': 142, 'title': ['Learning Graph Matching'], 'prefix': '10.1109', 'volume': '31', 'author': [{'given': 'T.S.', 'family': 'Caetano', 'sequence': 'first', 'affiliation': []}, {'given': 'J.J.', 'family': 'McAuley', 'sequence': 'additional', 'affiliation': []}, {'family': 'Li Cheng', 'sequence': 'additional', 'affiliation': []}, {'given': 'Q.V.', 'family': 'Le', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.J.', 'family': 'Smola', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/4816105/04770108.pdf?arnumber=4770108', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T02:56:41Z', 'timestamp': 1510628201000}, 'score': 79.57245, 'issued': {'date-parts': [[2009, 6]]}, 'references-count': 50, 'journal-issue': {'issue': '6'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2009.28', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Learning Graph Matching', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. P. Boyd, L. Vandenberghe, Convex Optimization, Cambridge University Press, 2004.
+>>> DOI >>> 10.1017/cbo9780511804441
+>>> URL >>> http://dx.doi.org/10.1017/cbo9780511804441
+>>> year >>> 2004.0
+>>> title >>> Convex Optimization
+>>> author >>> Stephen Boyd and Lieven Vandenberghe
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 16980.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T05:22:32Z', 'timestamp': 1528435352121}, 'publisher-location': 'Cambridge', 'reference-count': 0, 'publisher': 'Cambridge University Press', 'isbn-type': [{'value': '9780511804441', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1017/cbo9780511804441', 'type': 'monograph', 'created': {'date-parts': [[2013, 8, 5]], 'date-time': '2013-08-05T04:52:28Z', 'timestamp': 1375678348000}, 'source': 'Crossref', 'is-referenced-by-count': 16980, 'title': ['Convex Optimization'], 'prefix': '10.1017', 'author': [{'given': 'Stephen', 'family': 'Boyd', 'sequence': 'first', 'affiliation': []}, {'given': 'Lieven', 'family': 'Vandenberghe', 'sequence': 'additional', 'affiliation': []}], 'member': '56', 'published-online': {'date-parts': [[2009]]}, 'deposited': {'date-parts': [[2016, 10, 15]], 'date-time': '2016-10-15T14:51:42Z', 'timestamp': 1476543102000}, 'score': 49.960674, 'issued': {'date-parts': [[2004]]}, 'ISBN': ['9780511804441'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1017/cbo9780511804441'}
+>>> hash >>> ('Convex Optimization', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Komodakis, G. Tziritas, N. Paragios, "Performance vs computational efficiency for optimizing single and dynamic MRFs: Setting the state of the art with primal-dual strategies", Comput. Vis. Image Underst., vol. 112, no. 1, pp. 14-29, 2008.
+>>> DOI >>> 10.1016/j.cviu.2008.06.007
+>>> URL >>> http://dx.doi.org/10.1016/j.cviu.2008.06.007
+>>> year >>> 2008.0
+>>> title >>> Performance vs computational efficiency for optimizing single and dynamic MRFs: Setting the state of the art with primal-dual strategies
+>>> author >>> Nikos Komodakis and Georgios Tziritas and Nikos Paragios
+>>> reference_count >>> 44.0
+>>> is_referenced_by_count >>> 84.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision and Image Understanding']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:19:52Z', 'timestamp': 1525436392718}, 'reference-count': 44, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2008, 10, 1]], 'date-time': '2008-10-01T00:00:00Z', 'timestamp': 1222819200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Vision and Image Understanding'], 'published-print': {'date-parts': [[2008, 10]]}, 'DOI': '10.1016/j.cviu.2008.06.007', 'type': 'journal-article', 'created': {'date-parts': [[2008, 7, 25]], 'date-time': '2008-07-25T08:53:55Z', 'timestamp': 1216976035000}, 'page': '14-29', 'source': 'Crossref', 'is-referenced-by-count': 84, 'title': ['Performance vs computational efficiency for optimizing single and dynamic MRFs: Setting the state of the art with primal-dual strategies'], 'prefix': '10.1016', 'volume': '112', 'author': [{'given': 'Nikos', 'family': 'Komodakis', 'sequence': 'first', 'affiliation': []}, {'given': 'Georgios', 'family': 'Tziritas', 'sequence': 'additional', 'affiliation': []}, {'given': 'Nikos', 'family': 'Paragios', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Computer Vision and Image Understanding'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1077314208000982?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1077314208000982?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T10:22:06Z', 'timestamp': 1497781326000}, 'score': 114.79528, 'issued': {'date-parts': [[2008, 10]]}, 'references-count': 44, 'journal-issue': {'published-print': {'date-parts': [[2008, 10]]}, 'issue': '1'}, 'alternative-id': ['S1077314208000982'], 'URL': 'http://dx.doi.org/10.1016/j.cviu.2008.06.007', 'ISSN': ['1077-3142'], 'issn-type': [{'value': '1077-3142', 'type': 'print'}]}
+>>> hash >>> ('Performance vs computational efficiency for optimizing single and dynamic MRFs: Setting the state of the art with primal-dual strategies', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Buatois, G. Caumon, B. Levy, "Concurrent number cruncher: a GPU implementation of a general sparse linear solver", Int. J. Parallel Emerg. Distrib. Syst., vol. 24, no. 3, pp. 205-223, 2009.
+>>> DOI >>> 10.1080/17445760802337010
+>>> URL >>> http://dx.doi.org/10.1080/17445760802337010
+>>> year >>> 2009.0
+>>> title >>> Concurrent number cruncher: a GPU implementation of a general sparse linear solver
+>>> author >>> Luc Buatois and Guillaume Caumon and Bruno Lévy
+>>> reference_count >>> 25.0
+>>> is_referenced_by_count >>> 61.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Parallel, Emergent and Distributed Systems']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:02:32Z', 'timestamp': 1525482152293}, 'reference-count': 25, 'publisher': 'Informa UK Limited', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['International Journal of Parallel, Emergent and Distributed Systems'], 'published-print': {'date-parts': [[2009, 6]]}, 'DOI': '10.1080/17445760802337010', 'type': 'journal-article', 'created': {'date-parts': [[2009, 6, 3]], 'date-time': '2009-06-03T13:28:18Z', 'timestamp': 1244035698000}, 'page': '205-223', 'source': 'Crossref', 'is-referenced-by-count': 61, 'title': ['Concurrent number cruncher: a GPU implementation of a general sparse linear solver'], 'prefix': '10.1080', 'volume': '24', 'author': [{'given': 'Luc', 'family': 'Buatois', 'sequence': 'first', 'affiliation': []}, {'given': 'Guillaume', 'family': 'Caumon', 'sequence': 'additional', 'affiliation': []}, {'given': 'Bruno', 'family': 'Lévy', 'sequence': 'additional', 'affiliation': []}], 'member': '301', 'reference': [{'key': 'CIT0002', 'author': 'Barrett R.', 'year': '1994', 'edition': '2', 'volume-title': 'Templates for the Solution of Linear Systems: Building Blocks For Iterative Methods'}, {'key': 'CIT0003', 'DOI': '10.1145/882262.882364', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0004', 'unstructured': 'M. Botsch, D. Bommes, and L. Kobbelt, Efficient linear system solvers for mesh processing, IMA Conference on Mathematics of Surfaces XI, Lecture Notes in Computer Science (LNCS) 3604 (2005), pp. 62–83'}, {'key': 'CIT0005', 'unstructured': "L. Buatois, G. Caumon, and B. Lévy, Concurrent Number Cruncher: An efficient sparse linear solver on the GPU, High Performance Computation Conference (HPCC'07) Lecture Notes in Computer Science (LNCS), 2007"}, {'key': 'CIT0006', 'unstructured': 'I. Buck, K. Fatahalian, and P. Hanrahan, GPUBench: Evaluating GPU performance for numerical and scientific applications, in Proceedings of the ACM Workshop on General-purpose Computing on Graphics Processors, 2004'}, {'key': 'CIT0007', 'DOI': '10.1145/1015706.1015800', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0008', 'unstructured': 'E. Cuthill and J. McKee, Reducing the bandwidth of sparse symmetric matrices, in Proceedings of the 24th National Conference (1969), pp. 157–172'}, {'key': 'CIT0009', 'unstructured': "K. Fatahalian, J. Sugerman, and P. Hanrahan, Understanding the efficiency of GPU algorithms for matrix–matrix multiplication, HWWS '04 In Proceedings of the ACM SIGGRAPH/EUROGRAPHICS Conference on Graphics Hardware (2004), pp. 133–137"}, {'key': 'CIT0010', 'author': 'Fernando R.', 'year': '2003', 'volume-title': 'The Cg Tutorial: The Definitive Guide to Programmable Real-time Graphics'}, {'key': 'CIT0011', 'DOI': '10.1007/3-540-26808-1_9', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0013', 'unstructured': 'N. Gibbs, W. Poole, and P. Stockmeyer, An algorithm for reducing the bandwidth and profile of a sparse matrix, Technical Report, College of William and Mary Williamsbourg, VA, Department of Mathematics, 1974'}, {'key': 'CIT0014', 'unstructured': 'D. Göddeke, R. Strzodka, and S. Turek, Accelerating double precision FEM simulations with GPUs, Proceedings of the ASIM 2005 – 18th Symposium on Simulation Technique, 2005'}, {'key': 'CIT0015', 'DOI': '10.1080/17445760601122076', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0017', 'author': 'Hestenes M.', 'volume': '49', 'first-page': '409', 'year': '1952', 'journal-title': 'J. Res. Nat. Bur. Stand.', 'DOI': '10.6028/jres.049.044', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0020', 'unstructured': "J. Jung and D. O'Leary, Cholesky decomposition and linear programming on a GPU, Workshop on Edge Computing Using New Commodity Architectures (EDGE), 2006"}, {'key': 'CIT0021', 'DOI': '10.1145/882262.882363', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0022', 'unstructured': 'B. Lévy, Numerical methods for digital geometry processing, Israel Korea Bi-National Conference, 2005'}, {'key': 'CIT0023', 'unstructured': "LévyB., et al., Least squares conformal maps for automatic texture atlas generation, ACM SIGGRAPH'02, San-Antonio, Texas, USA, 2002"}, {'key': 'CIT0024', 'DOI': '10.1016/0010-4485(92)90054-E', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0025', 'author': 'McCool M.', 'year': '2004', 'volume-title': 'Metaprogramming GPUs with Sh'}, {'key': 'CIT0027', 'unstructured': 'A. Nealen et al., Laplacian mesh optimization, in Proc. ACM GRAPHITE 2006, pp. 381–389'}, {'key': 'CIT0029', 'author': 'Peercy M.', 'year': '2006', 'journal-title': "ACM SIGGRAPH'06"}, {'key': 'CIT0030', 'author': 'Rost R.', 'year': '2004', 'volume-title': 'OpenGL Shading Language'}, {'key': 'CIT0033', 'unstructured': 'O. Sorkine and D. Cohen-Or, Least-squares meshes, Proc. Shape Model. Int. (2004), pp. 191–199'}, {'key': 'CIT0034', 'unstructured': "R. Strzodka and D. Göddeke, Pipelined mixed precision algorithms on FPGAs for fast and accurate PDE solvers from low precision components, Proceedings of the 14th Annual IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM'06) 2006, pp. 259–270"}], 'container-title': ['International Journal of Parallel, Emergent and Distributed Systems'], 'language': 'en', 'link': [{'URL': 'http://www.tandfonline.com/doi/pdf/10.1080/17445760802337010', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T20:37:10Z', 'timestamp': 1497818230000}, 'score': 97.02787, 'issued': {'date-parts': [[2009, 6]]}, 'references-count': 25, 'journal-issue': {'published-print': {'date-parts': [[2009, 6]]}, 'issue': '3'}, 'alternative-id': ['10.1080/17445760802337010'], 'URL': 'http://dx.doi.org/10.1080/17445760802337010', 'relation': {'cites': []}, 'ISSN': ['1744-5760', '1744-5779'], 'issn-type': [{'value': '1744-5760', 'type': 'print'}, {'value': '1744-5779', 'type': 'electronic'}]}
+>>> hash >>> ('Concurrent number cruncher: a GPU implementation of a general sparse linear solver', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y. Lipman, T. Funkhouser, "MÃ¶bius voting for surface correspondence", ACM Trans. Graph., vol. 28, no. 3, pp. 1-12, 2009.
+>>> DOI >>> 10.1145/1531326.1531378
+>>> URL >>> http://dx.doi.org/10.1145/1531326.1531378
+>>> year >>> 2009.0
+>>> title >>> Möbius voting for surface correspondence
+>>> author >>> Yaron Lipman and Thomas Funkhouser
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 114.0
+>>> subject >>> None
+>>> container_title >>> ['ACM Transactions on Graphics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 1]], 'date-time': '2018-06-01T01:42:29Z', 'timestamp': 1527817349804}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['TOG', 'ACM Trans. Graph.'], 'published-print': {'date-parts': [[2009, 7, 27]]}, 'DOI': '10.1145/1531326.1531378', 'type': 'journal-article', 'created': {'date-parts': [[2009, 7, 28]], 'date-time': '2009-07-28T12:43:55Z', 'timestamp': 1248785035000}, 'page': '1', 'source': 'Crossref', 'is-referenced-by-count': 114, 'title': ['Möbius voting for surface correspondence'], 'prefix': '10.1145', 'volume': '28', 'author': [{'given': 'Yaron', 'family': 'Lipman', 'sequence': 'first', 'affiliation': []}, {'given': 'Thomas', 'family': 'Funkhouser', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['ACM Transactions on Graphics'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1531378&amp;ftid=661354&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T23:08:37Z', 'timestamp': 1481065717000}, 'score': 74.194626, 'issued': {'date-parts': [[2009, 7, 27]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2009, 7, 27]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.1145/1531326.1531378', 'ISSN': ['0730-0301'], 'issn-type': [{'value': '0730-0301', 'type': 'print'}]}
+>>> hash >>> ('Möbius voting for surface correspondence', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. M. Bronstein, M. M. Bronstein, R. Kimmel, "Generalized multidimensional scaling: a framework for isometry-invariant partial surface matching", Proc. National Academy of Sciences, vol. 103, pp. 1168-1172, 2006.
+>>> DOI >>> 10.1073/pnas.0508601103
+>>> URL >>> http://dx.doi.org/10.1073/pnas.0508601103
+>>> year >>> 2006.0
+>>> title >>> Generalized multidimensional scaling: A framework for isometry-invariant partial surface matching
+>>> author >>> A. M. Bronstein and M. M. Bronstein and R. Kimmel
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 227.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the National Academy of Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 1]], 'date-time': '2018-06-01T01:42:29Z', 'timestamp': 1527817349809}, 'reference-count': 12, 'publisher': 'Proceedings of the National Academy of Sciences', 'issue': '5', 'content-domain': {'domain': ['pnas.org'], 'crossmark-restriction': True}, 'short-container-title': ['Proceedings of the National Academy of Sciences'], 'published-print': {'date-parts': [[2006, 1, 31]]}, 'DOI': '10.1073/pnas.0508601103', 'type': 'journal-article', 'created': {'date-parts': [[2006, 1, 24]], 'date-time': '2006-01-24T01:53:41Z', 'timestamp': 1138067621000}, 'page': '1168-1172', 'update-policy': 'http://dx.doi.org/10.1073/pnas.cm10313', 'source': 'Crossref', 'is-referenced-by-count': 227, 'title': ['Generalized multidimensional scaling: A framework for isometry-invariant partial surface matching'], 'prefix': '10.1073', 'volume': '103', 'author': [{'given': 'A. M.', 'family': 'Bronstein', 'sequence': 'first', 'affiliation': []}, {'given': 'M. M.', 'family': 'Bronstein', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.', 'family': 'Kimmel', 'sequence': 'additional', 'affiliation': []}], 'member': '341', 'published-online': {'date-parts': [[2006, 1, 23]]}, 'reference': [{'key': '1_26151637', 'volume': '64', 'first-page': '5', 'year': '2005', 'journal-title': 'INT J COMPUTER VISION', 'DOI': '10.1007/s11263-005-1085-y', 'doi-asserted-by': 'crossref'}, {'key': '3_26151639', 'volume': '25', 'first-page': '1285', 'year': '2003', 'journal-title': 'IEEE TRANS PAMI', 'DOI': '10.1109/TPAMI.2003.1233902', 'doi-asserted-by': 'crossref'}, {'key': '4_26151640', 'volume': '11', 'first-page': '1005', 'year': '1989', 'journal-title': 'IEEE TRANS PAMI', 'DOI': '10.1109/34.35506', 'doi-asserted-by': 'crossref'}, {'issue': '5500', 'key': '6_10585846', 'doi-asserted-by': 'publisher', 'first-page': '2323', 'DOI': '10.1126/science.290.5500.2323', 'volume': '290', 'author': 'Roweis', 'year': '2000', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '10', 'key': '7_19682286', 'doi-asserted-by': 'publisher', 'first-page': '5591', 'DOI': '10.1073/pnas.1031596100', 'volume': '100', 'year': '2003', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'key': '8_26151641', 'volume': '15', 'first-page': '333', 'year': '1995', 'journal-title': 'COMBINATORICA', 'DOI': '10.1007/BF01299740', 'doi-asserted-by': 'crossref'}, {'key': '14_26151643', 'volume': '2191', 'first-page': '77', 'year': '2002', 'journal-title': 'GEOMETRIC METHODS IN BIOMEDICAL IMAGE PROCESSING'}, {'key': '15_26151644', 'volume': '3459', 'first-page': '622', 'year': '2005', 'journal-title': 'LECTURE NOTES COMPUTER SCI', 'DOI': '10.1007/11408031_53', 'doi-asserted-by': 'crossref'}, {'issue': '15', 'key': '20_19132851', 'doi-asserted-by': 'publisher', 'first-page': '8431', 'DOI': '10.1073/pnas.95.15.8431', 'volume': '95', 'author': 'Kimmel', 'year': '1998', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'key': '21_26151646', 'volume': '6', 'first-page': '315', 'year': '2004', 'journal-title': 'INTERFACES FREE BOUNDARIES'}, {'issue': '9', 'key': '23_26151647', 'doi-asserted-by': 'crossref', 'first-page': '1305', 'DOI': '10.1109/83.623193', 'volume': '6', 'author': 'Eldar', 'year': '1997', 'journal-title': 'IEEE transactions on image processing : a publication of the IEEE Signal Processing Society', 'ISSN': 'http://id.crossref.org/issn/1057-7149', 'issn-type': 'print'}, {'key': '24_26151648', 'volume': '27', 'first-page': '619', 'year': '2005', 'journal-title': 'IEEE TRANS PAMI', 'DOI': '10.1109/TPAMI.2005.70', 'doi-asserted-by': 'crossref'}], 'container-title': ['Proceedings of the National Academy of Sciences'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1073/pnas.0508601103', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T02:39:03Z', 'timestamp': 1497667143000}, 'score': 110.754395, 'issued': {'date-parts': [[2006, 1, 23]]}, 'references-count': 12, 'journal-issue': {'published-online': {'date-parts': [[2006, 1, 31]]}, 'published-print': {'date-parts': [[2006, 1, 31]]}, 'issue': '5'}, 'URL': 'http://dx.doi.org/10.1073/pnas.0508601103', 'relation': {'cites': []}, 'ISSN': ['0027-8424', '1091-6490'], 'issn-type': [{'value': '0027-8424', 'type': 'print'}, {'value': '1091-6490', 'type': 'electronic'}]}
+>>> hash >>> ('Generalized multidimensional scaling: A framework for isometry-invariant partial surface matching', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Sheffer, E. Praun, K. Rose, "Mesh parameterization methods and their applications", Found. Trends. Comput. Graph. Vis., vol. 2, no. 2, pp. 105-171, 2006.
+>>> DOI >>> 10.1561/0600000011
+>>> URL >>> http://dx.doi.org/10.1561/0600000011
+>>> year >>> 2006.0
+>>> title >>> Mesh Parameterization Methods and Their Applications
+>>> author >>> Alla Sheffer and Emil Praun and Kenneth Rose
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 174.0
+>>> subject >>> None
+>>> container_title >>> ['Foundations and Trends® in Computer Graphics and Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database81.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 24]], 'date-time': '2018-05-24T17:42:33Z', 'timestamp': 1527183753142}, 'reference-count': 0, 'publisher': 'Now Publishers', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['FNT in Computer Graphics and Vision'], 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.1561/0600000011', 'type': 'journal-article', 'created': {'date-parts': [[2007, 3, 7]], 'date-time': '2007-03-07T10:17:18Z', 'timestamp': 1173262638000}, 'page': '105-171', 'source': 'Crossref', 'is-referenced-by-count': 174, 'title': ['Mesh Parameterization Methods and Their Applications'], 'prefix': '10.1561', 'volume': '2', 'author': [{'given': 'Alla', 'family': 'Sheffer', 'sequence': 'first', 'affiliation': []}, {'given': 'Emil', 'family': 'Praun', 'sequence': 'first', 'affiliation': []}, {'given': 'Kenneth', 'family': 'Rose', 'sequence': 'first', 'affiliation': []}], 'member': '432', 'container-title': ['Foundations and Trends® in Computer Graphics and Vision'], 'language': 'en', 'deposited': {'date-parts': [[2018, 2, 15]], 'date-time': '2018-02-15T21:27:26Z', 'timestamp': 1518730046000}, 'score': 71.545975, 'issued': {'date-parts': [[2006]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2006]]}, 'published-print': {'date-parts': [[2006]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1561/0600000011', 'ISSN': ['1572-2740', '1572-2759'], 'issn-type': [{'value': '1572-2740', 'type': 'print'}, {'value': '1572-2759', 'type': 'electronic'}]}
+>>> hash >>> ('Mesh Parameterization Methods and Their Applications', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

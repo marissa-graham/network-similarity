@@ -1,0 +1,337 @@
+>>> NEW PAPER <<<
+>>> citation >>> D. Bruschi, L. Martignoni, M. Monga, "Detecting self-mutating malware using control-flow graph matching", Detection of Intrusions and Malware & Vulnerability Assessment, vol. 4064, pp. 129-143, Nov. 2006.
+>>> DOI >>> 10.1007/11790754_8
+>>> URL >>> http://dx.doi.org/10.1007/11790754_8
+>>> year >>> 2006.0
+>>> title >>> Detecting Self-mutating Malware Using Control-Flow Graph Matching
+>>> author >>> Danilo Bruschi and Lorenzo Martignoni and Mattia Monga
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 40.0
+>>> subject >>> None
+>>> container_title >>> ['Detection of Intrusions and Malware & Vulnerability Assessment', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database144.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:56:13Z', 'timestamp': 1525334173957}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540360148', 'type': 'print'}, {'value': '9783540360179', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.1007/11790754_8', 'type': 'book-chapter', 'created': {'date-parts': [[2006, 11, 27]], 'date-time': '2006-11-27T13:02:37Z', 'timestamp': 1164632557000}, 'page': '129-143', 'source': 'Crossref', 'is-referenced-by-count': 40, 'title': ['Detecting Self-mutating Malware Using Control-Flow Graph Matching'], 'prefix': '10.1007', 'author': [{'given': 'Danilo', 'family': 'Bruschi', 'sequence': 'first', 'affiliation': []}, {'given': 'Lorenzo', 'family': 'Martignoni', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mattia', 'family': 'Monga', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Detection of Intrusions and Malware & Vulnerability Assessment', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/11790754_8', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T15:50:16Z', 'timestamp': 1389023416000}, 'score': 142.32716, 'issued': {'date-parts': [[2006]]}, 'ISBN': ['9783540360148', '9783540360179'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/11790754_8', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Detecting Self-mutating Malware Using Control-Flow Graph Matching', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> X. Hu, T.-c. Chiueh, K. G. Shin, "Large-scale malware indexing using function-call graphs", Proceedings of CCS, pp. 611-620, 2009.
+>>> DOI >>> 10.1145/1653662.1653736
+>>> URL >>> http://dx.doi.org/10.1145/1653662.1653736
+>>> year >>> 2009.0
+>>> title >>> Large-scale malware indexing using function-call graphs
+>>> author >>> Xin Hu and Tzi-cker Chiueh and Kang G. Shin
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 76.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 16th ACM conference on Computer and communications security - CCS '09"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database144.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T06:58:18Z', 'timestamp': 1525503498034}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605588940', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1145/1653662.1653736', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 11, 11]], 'date-time': '2009-11-11T13:02:08Z', 'timestamp': 1257944528000}, 'source': 'Crossref', 'is-referenced-by-count': 76, 'title': ['Large-scale malware indexing using function-call graphs'], 'prefix': '10.1145', 'author': [{'given': 'Xin', 'family': 'Hu', 'sequence': 'first', 'affiliation': []}, {'given': 'Tzi-cker', 'family': 'Chiueh', 'sequence': 'additional', 'affiliation': []}, {'given': 'Kang G.', 'family': 'Shin', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 16th ACM conference', 'location': 'Chicago, Illinois, USA', 'sponsor': ['SIGSAC, ACM Special Interest Group on Security, Audit, and Control'], 'acronym': "CCS '09", 'number': '16', 'start': {'date-parts': [[2009, 11, 9]]}, 'end': {'date-parts': [[2009, 11, 13]]}}, 'container-title': ["Proceedings of the 16th ACM conference on Computer and communications security - CCS '09"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1653736&amp;ftid=708011&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T23:40:16Z', 'timestamp': 1481067616000}, 'score': 82.71371, 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781605588940'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1653662.1653736'}
+>>> hash >>> ('Large-scale malware indexing using function-call graphs', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Z. Qinghua, D. S., "MetaAware: Identifying metamorphic malware", Proceedings of the 23th ACSAC on Computer Security Applications Conference, pp. 411-420, Dec.2007.
+>>> DOI >>> 10.1109/acsac.2007.4413007
+>>> URL >>> http://dx.doi.org/10.1109/acsac.2007.4413007
+>>> year >>> 2007.0
+>>> title >>> MetaAware: Identifying Metamorphic Malware
+>>> author >>> Qinghua Zhang and Douglas S. Reeves
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Twenty-Third Annual Computer Security Applications Conference (ACSAC 2007)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database144.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 28]], 'date-time': '2018-04-28T17:40:12Z', 'timestamp': 1524937212357}, 'reference-count': 0, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007, 12]]}, 'DOI': '10.1109/acsac.2007.4413007', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 1, 4]], 'date-time': '2008-01-04T20:44:53Z', 'timestamp': 1199479493000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['MetaAware: Identifying Metamorphic Malware'], 'prefix': '10.1109', 'author': [{'given': 'Qinghua', 'family': 'Zhang', 'sequence': 'first', 'affiliation': []}, {'given': 'Douglas S.', 'family': 'Reeves', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Twenty-Third Annual Computer Security Applications Conference (ACSAC 2007)', 'location': 'Miami Beach, FL, USA', 'start': {'date-parts': [[2007, 12, 10]]}, 'end': {'date-parts': [[2007, 12, 14]]}}, 'container-title': ['Twenty-Third Annual Computer Security Applications Conference (ACSAC 2007)'], 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 82.448326, 'issued': {'date-parts': [[2007, 12]]}, 'ISBN': ['0769530605', '9780769530604'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1109/acsac.2007.4413007', 'ISSN': ['1063-9527'], 'issn-type': [{'value': '1063-9527', 'type': 'print'}]}
+>>> hash >>> ('MetaAware: Identifying Metamorphic Malware', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Thomas H. Cormen, Charles E. Leiserson et al., Introduction to algorithms, MIT Press, 2001.
+>>> DOI >>> 10.2307/2583667
+>>> URL >>> http://dx.doi.org/10.2307/2583667
+>>> year >>> 1991.0
+>>> title >>> Introduction to Algorithms
+>>> author >>> V. J. Rayward-Smith and Thomas H. Cormen and Charles E. Leiserson and Ronald L. Rivest
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['The Journal of the Operational Research Society']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database144.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T07:41:52Z', 'timestamp': 1525851712768}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '9', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['The Journal of the Operational Research Society'], 'published-print': {'date-parts': [[1991, 9]]}, 'DOI': '10.2307/2583667', 'type': 'journal-article', 'created': {'date-parts': [[2006, 6, 16]], 'date-time': '2006-06-16T01:38:49Z', 'timestamp': 1150421929000}, 'page': '816', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Introduction to Algorithms'], 'prefix': '10.2307', 'volume': '42', 'author': [{'given': 'V. J.', 'family': 'Rayward-Smith', 'sequence': 'first', 'affiliation': []}, {'given': 'Thomas H.', 'family': 'Cormen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Charles E.', 'family': 'Leiserson', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ronald L.', 'family': 'Rivest', 'sequence': 'additional', 'affiliation': []}], 'member': '1121', 'container-title': ['The Journal of the Operational Research Society'], 'deposited': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T07:09:43Z', 'timestamp': 1525849783000}, 'score': 34.751633, 'issued': {'date-parts': [[1991, 9]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1991, 9]]}, 'issue': '9'}, 'URL': 'http://dx.doi.org/10.2307/2583667', 'ISSN': ['0160-5682'], 'issn-type': [{'value': '0160-5682', 'type': 'print'}]}
+>>> hash >>> ('Introduction to Algorithms', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Christodorescu, S. Jha et al., "Semantics-aware malware detection", IEEE Symposium on Security and Privacy, May2005.
+>>> DOI >>> 10.1109/sp.2005.20
+>>> URL >>> http://dx.doi.org/10.1109/sp.2005.20
+>>> year >>> None
+>>> title >>> Semantics-Aware Malware Detection
+>>> author >>> M. Christodorescu and S. Jha and S.A. Seshia and D. Song and R.E. Bryant
+>>> reference_count >>> 36.0
+>>> is_referenced_by_count >>> 191.0
+>>> subject >>> None
+>>> container_title >>> ["2005 IEEE Symposium on Security and Privacy (S&amp;P'05)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database144.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 10]], 'date-time': '2018-05-10T16:42:30Z', 'timestamp': 1525970550241}, 'reference-count': 36, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769523390', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/sp.2005.20', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 5, 24]], 'date-time': '2005-05-24T14:52:03Z', 'timestamp': 1116946323000}, 'source': 'Crossref', 'is-referenced-by-count': 191, 'title': ['Semantics-Aware Malware Detection'], 'prefix': '10.1109', 'author': [{'given': 'M.', 'family': 'Christodorescu', 'sequence': 'first', 'affiliation': []}, {'given': 'S.', 'family': 'Jha', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.A.', 'family': 'Seshia', 'sequence': 'additional', 'affiliation': []}, {'given': 'D.', 'family': 'Song', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.E.', 'family': 'Bryant', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2005 IEEE Symposium on Security and Privacy (S&amp;P'05)", 'location': 'Oakland, CA, USA'}, 'container-title': ["2005 IEEE Symposium on Security and Privacy (S&amp;P'05)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/9752/30765/01425057.pdf?arnumber=1425057', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T19:31:37Z', 'timestamp': 1497641497000}, 'score': 78.17561, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769523390'], 'references-count': 36, 'URL': 'http://dx.doi.org/10.1109/sp.2005.20'}
+>>> hash >>> ('Semantics-Aware Malware Detection', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Marie, Borello, L. MÃ©, "Code obfuscation techniques for metamorphic viruses", Journal in Computer Virology, vol. 4, pp. 211-220, 2008.
+>>> DOI >>> 10.1007/s11416-008-0084-2
+>>> URL >>> http://dx.doi.org/10.1007/s11416-008-0084-2
+>>> year >>> 2008.0
+>>> title >>> Code obfuscation techniques for metamorphic viruses
+>>> author >>> Jean-Marie Borello and Ludovic Mé
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 52.0
+>>> subject >>> None
+>>> container_title >>> ['Journal in Computer Virology']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database144.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T14:42:43Z', 'timestamp': 1527000163158}, 'reference-count': 27, 'publisher': 'Springer Nature', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J Comput Virol'], 'published-print': {'date-parts': [[2008, 8]]}, 'DOI': '10.1007/s11416-008-0084-2', 'type': 'journal-article', 'created': {'date-parts': [[2008, 2, 20]], 'date-time': '2008-02-20T17:11:34Z', 'timestamp': 1203527494000}, 'page': '211-220', 'source': 'Crossref', 'is-referenced-by-count': 52, 'title': ['Code obfuscation techniques for metamorphic viruses'], 'prefix': '10.1007', 'volume': '4', 'author': [{'given': 'Jean-Marie', 'family': 'Borello', 'sequence': 'first', 'affiliation': []}, {'given': 'Ludovic', 'family': 'Mé', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2008, 2, 21]]}, 'reference': [{'key': '84_CR1', 'author': 'A.V. Aho', 'year': '1986', 'unstructured': 'Aho A.V., Sethi R. and Ullman J.D. (1986). Compilers: Principles, Techniques and, Tools. Addison-Wesley, Reading, MA', 'volume-title': 'Compilers: Principles, Techniques and, Tools'}, {'key': '84_CR2', 'unstructured': 'Beaucamps, P., Filiol, E.: On the possibility of practically obfuscating programs—towards a unifed perspective of code protection. J. Comput. Virol. (WTCV’06 Special Issue, Bonfante, G., Marion, J.-Y. eds), 2(4) (2006)'}, {'key': '84_CR3', 'unstructured': 'Barak, B., Goldreich, O., Impagliazzo, R., Rudich, S., Sahai, A., Vadhan, S., Yang, K.: On the (im)possibility of obfuscating programs. In: Crypto ’01, LNCS No.2139, pp. 1–18 (2001)'}, {'key': '84_CR4', 'author': 'D. Bruschi', 'first-page': '129', 'year': '2006', 'unstructured': 'Bruschi D., Martignoni L. and Monga M. (2006). Detecting self-mutating malware using control-flow graph matching. In: Büschkes, R. and Laskov, P. (eds) Detection of Intrusions and Malware & Vulnerability Assessment, volume 4064 of LNCS, pp 129–143. Springer, Berlin', 'volume-title': 'Detection of Intrusions and Malware & Vulnerability Assessment, volume 4064 of LNCS'}, {'key': '84_CR5', 'unstructured': 'Bruschi, D., Martignoni, L., Monga, M.: Using code normalization for fighting self-mutating malware. In: Proceedings of the International Symposium of Secure Software Engineering. IEEE Computer Society, Arlington (2006)'}, {'key': '84_CR6', 'unstructured': 'Chow, S., Gu, Y., Johnson, H., Zakharov, V.A.: An approach to the obfuscation of control-flow of sequential computer programs. In: ISC ’01: Proceedings of the 4th International Conference on Information Security, pp. 144–155. Springer, London (2001)'}, {'key': '84_CR7', 'unstructured': 'Cifuentes, C.: Reverse Compilation Techniques. Ph.D. thesis, Queensland University of Technology, School of Computing Science (1994)'}, {'key': '84_CR8', 'unstructured': 'Christodorescu, M., Jha, S.: Static analysis of executables to detect malicious patterns. In: In Proceedings of the 12th USENIX Security Symposium, pp. 169–186 (2003)'}, {'key': '84_CR9', 'unstructured': 'Christodorescu, M., Jha, S.: Testing malware detectors. In ISSTA ’04: Proceedings of the 2004 ACM SIGSOFT international symposium on Software testing and analysis, pp. 34–44. ACM Press, New York (2004)'}, {'key': '84_CR10', 'unstructured': 'Cohen, F.: Computational aspects of computer viruses. Rogue programs: viruses, worms and Trojan horses, pp. 324–355 (1990)'}, {'key': '84_CR11', 'unstructured': 'Collberg, C., Thomborson, C., Low, D.: A taxonomy of obfuscating transformations. Technical Report 148, Univerity of Auckland, New Zealand (1997)'}, {'key': '84_CR12', 'unstructured': 'Collberg, C., Thomborson, C., Low, D.: Manufacturing cheap, resilient, and stealthy opaque constructs. In: Principles of Programming Languages 1998, POPL’98, pp. 184–196 (1998)'}, {'issue': '2', 'key': '84_CR13', 'first-page': '378', 'volume': '22', 'author': 'S.K. Debray', 'year': '2000', 'unstructured': 'Debray S.K., Evans W., Muth R. and De Sutter B. (2000). Compiler techniques for code compaction. ACM 22(2): 378–415', 'journal-title': 'ACM Trans. Program. Languages Syst.'}, {'key': '84_CR14', 'author': 'E. Filiol', 'year': '2006', 'unstructured': 'Filiol E. (2006). Advanced Viral Techniques: Mathematical and Algorithmic Aspects. Springer, Berlin', 'volume-title': 'Advanced Viral Techniques: Mathematical and Algorithmic Aspects'}, {'key': '84_CR15', 'unstructured': 'Filiol, E.: Malware pattern scanning schemes secure against black-box analysis. J. Comput. Virol. (EICAR 2006 Special Issue, Broucek, V., Tuner, P. eds), 2(1) (2006)'}, {'key': '84_CR16', 'unstructured': 'Jacob, G., Filiol, E., Le Liard, M.: Evaluation methodology and theoretical model for antiviral behavioural detection strategies. J. Comput. Virol. (TCV 2006 Special Issue, Bonfante, G., Marion, J.-Y. eds), 3(1) (2007)'}, {'key': '84_CR17', 'unstructured': 'Landi, W.A.: Interprocedural Aliasing in the Presence of Pointers. Ph.D. thesis, New Brunswick, New Jersey, USA (1992)'}, {'key': '84_CR18', 'unstructured': 'Lakhotia, A., Kapoor, A., Kumar, E.U.: Are metamorphic viruses really invincible? Virus Bull. (2004)'}, {'key': '84_CR19', 'unstructured': 'Ogiso, T., Sakabe, Y., Soshi, M., Miyaji, A.: Softwate tamper resitance based on the difficulty of interprocdeural analysis. In: The Third International Workshop on Information Security Applications, pp. 437–452 (2002)'}, {'key': '84_CR20', 'unstructured': 'Preda, M.D., Christodorescu, M., Jha, S., Debray, S.: A semantics-based approach to malware detection. In: Proceedings of the 34th Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL’07), pp. 377–388, January 17–19, 2007. ACM Press, New York (2007)'}, {'key': '84_CR21', 'unstructured': 'Rice, H.G.: Classes of recurively enumerable sets and their decision problems. Transactions of the American Mathematical Society, pp. 358–366 (1953)'}, {'key': '84_CR22', 'unstructured': 'Szor, P., Ferrie, P.: Hunting for metamorphic. In: Virus Bulletin Conférence, September 2001'}, {'issue': '1', 'key': '84_CR23', 'first-page': '280', 'volume': '49', 'author': 'D. Spinellis', 'year': '2003', 'unstructured': 'Spinellis D. (2003). Reliable identification of bounded-length viruses is np-complete. IEEE Trans. Inform. Theory 49(1): 280–284', 'journal-title': 'IEEE Trans. Inform. Theory'}, {'key': '84_CR24', 'unstructured': 'Sung, A.H., Xu, J., Chavez, P., Mukkamala, S.: Static analyzer of vicious executables(save). In: Proceedings of the 20th Annual Computer Security Applications Conference (ACSAC’04). IEEE (2004)'}, {'key': '84_CR25', 'author': 'P. Szor', 'year': '2005', 'unstructured': 'Szor P. (2005). The Art of Computer Virus Research and Defense. Addison-Wesley, Reading, MA', 'volume-title': 'The Art of Computer Virus Research and Defense'}, {'key': '84_CR26', 'unstructured': 'Wang, C., Hill, J., Knight, J., Davidson, J.: Software tamper resistance: Obstructing static analysis of programs. Technical Report CS-2000-12, University of Virginia (2000)'}, {'key': '84_CR27', 'unstructured': 'Walenstein, A., Mathur, R., Chouchane, M.R., Lakhotia, A.: Normalizing metamorphic malware using term rewriting. SCAM 2006: The 6th IEEE Workshop Source Code Analysis and Manipulation, pp. 75–84 (2006)'}], 'container-title': ['Journal in Computer Virology'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s11416-008-0084-2', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 4, 6]], 'date-time': '2013-04-06T13:43:15Z', 'timestamp': 1365255795000}, 'score': 84.68213, 'issued': {'date-parts': [[2008, 2, 21]]}, 'references-count': 27, 'journal-issue': {'published-print': {'date-parts': [[2008, 8]]}, 'issue': '3'}, 'alternative-id': ['84'], 'URL': 'http://dx.doi.org/10.1007/s11416-008-0084-2', 'relation': {'cites': []}, 'ISSN': ['1772-9890', '1772-9904'], 'issn-type': [{'value': '1772-9890', 'type': 'print'}, {'value': '1772-9904', 'type': 'electronic'}]}
+>>> hash >>> ('Code obfuscation techniques for metamorphic viruses', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Christodorescu, S. Jha, "Testing malware detectors", Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis 2004 (ISSTA '04), pp. 34-44, July 2004.
+>>> DOI >>> 10.1145/1007512.1007518
+>>> URL >>> http://dx.doi.org/10.1145/1007512.1007518
+>>> year >>> 2004.0
+>>> title >>> Testing malware detectors
+>>> author >>> Mihai Christodorescu and Somesh Jha
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 54.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2004 ACM SIGSOFT international symposium on Software testing and analysis  - ISSTA '04"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database144.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T14:42:43Z', 'timestamp': 1527000163109}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1581138202', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1145/1007512.1007518', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 7, 20]], 'date-time': '2004-07-20T15:55:38Z', 'timestamp': 1090338938000}, 'source': 'Crossref', 'is-referenced-by-count': 54, 'title': ['Testing malware detectors'], 'prefix': '10.1145', 'author': [{'given': 'Mihai', 'family': 'Christodorescu', 'sequence': 'first', 'affiliation': []}, {'given': 'Somesh', 'family': 'Jha', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2004 ACM SIGSOFT international symposium', 'location': 'Boston, Massachusetts, USA', 'sponsor': ['SIGSOFT, ACM Special Interest Group on Software Engineering', 'ACM, Association for Computing Machinery'], 'acronym': "ISSTA '04", 'start': {'date-parts': [[2004, 7, 11]]}, 'end': {'date-parts': [[2004, 7, 14]]}}, 'container-title': ["Proceedings of the 2004 ACM SIGSOFT international symposium on Software testing and analysis  - ISSTA '04"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1007518&amp;ftid=275667&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T08:24:05Z', 'timestamp': 1481876645000}, 'score': 121.15413, 'issued': {'date-parts': [[2004]]}, 'ISBN': ['1581138202'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1007512.1007518'}
+>>> hash >>> ('Testing malware detectors', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Christodorescu, S. Jha, "Static analysis of executables to detect malicious patterns", Proceedings of the 12th conference on USENIX Security Symposium, vol. 12, 2003.
+>>> DOI >>> 10.21236/ada449067
+>>> URL >>> http://dx.doi.org/10.21236/ada449067
+>>> year >>> 2006.0
+>>> title >>> Static Analysis of Executables to Detect Malicious Patterns
+>>> author >>> Mihai Christodorescu and Somesh Jha
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 10.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database144.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'institution': {'name': 'US Dept of the Navy', 'place': ['-', '-'], 'department': ['Funding', 'Performing'], 'acronym': ['ONR', '-']}, 'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T19:28:51Z', 'timestamp': 1525721331099}, 'publisher-location': 'Fort Belvoir, VA', 'reference-count': 0, 'publisher': 'Defense Technical Information Center', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006, 1, 1]]}, 'DOI': '10.21236/ada449067', 'type': 'report', 'created': {'date-parts': [[2017, 7, 28]], 'date-time': '2017-07-28T14:40:54Z', 'timestamp': 1501252854000}, 'source': 'Crossref', 'is-referenced-by-count': 10, 'title': ['Static Analysis of Executables to Detect Malicious Patterns'], 'prefix': '10.21236', 'author': [{'given': 'Mihai', 'family': 'Christodorescu', 'sequence': 'first', 'affiliation': []}, {'given': 'Somesh', 'family': 'Jha', 'sequence': 'first', 'affiliation': []}], 'member': '9879', 'original-title': [''], 'deposited': {'date-parts': [[2017, 7, 28]], 'date-time': '2017-07-28T14:40:54Z', 'timestamp': 1501252854000}, 'score': 87.788376, 'subtitle': [''], 'issued': {'date-parts': [[2006, 1, 1]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.21236/ada449067'}
+>>> hash >>> ('Static Analysis of Executables to Detect Malicious Patterns', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Christodorescu, S. Jha, C. Kruegel, "Mining specifications of malicious behavior", Proceedings of the ACM SIGSOFT symposium on the foundations of software engineering, pp. 5-14, 2007.
+>>> DOI >>> 10.1145/1287624.1287628
+>>> URL >>> http://dx.doi.org/10.1145/1287624.1287628
+>>> year >>> 2007.0
+>>> title >>> Mining specifications of malicious behavior
+>>> author >>> Mihai Christodorescu and Somesh Jha and Christopher Kruegel
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 73.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the the 6th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering  - ESEC-FSE '07"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database144.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T23:42:52Z', 'timestamp': 1525390972454}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781595938114', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.1145/1287624.1287628', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 9, 26]], 'date-time': '2007-09-26T17:32:33Z', 'timestamp': 1190827953000}, 'source': 'Crossref', 'is-referenced-by-count': 73, 'title': ['Mining specifications of malicious behavior'], 'prefix': '10.1145', 'author': [{'given': 'Mihai', 'family': 'Christodorescu', 'sequence': 'first', 'affiliation': []}, {'given': 'Somesh', 'family': 'Jha', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christopher', 'family': 'Kruegel', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the the 6th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium', 'location': 'Dubrovnik, Croatia', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGSOFT, ACM Special Interest Group on Software Engineering'], 'acronym': "ESEC-FSE '07", 'number': '6', 'start': {'date-parts': [[2007, 9, 3]]}, 'end': {'date-parts': [[2007, 9, 7]]}}, 'container-title': ["Proceedings of the the 6th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering  - ESEC-FSE '07"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1287628&amp;ftid=460442&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T12:48:28Z', 'timestamp': 1481892508000}, 'score': 79.02236, 'issued': {'date-parts': [[2007]]}, 'ISBN': ['9781595938114'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1287624.1287628'}
+>>> hash >>> ('Mining specifications of malicious behavior', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Bruschi, L. Martignoni, M. Monga, "Code normalization for self-mutating Malware", Journal in IEEE Security & Privacy, vol. 5, pp. 46-54, 2007.
+>>> DOI >>> 10.1109/msp.2007.31
+>>> URL >>> http://dx.doi.org/10.1109/msp.2007.31
+>>> year >>> 2007.0
+>>> title >>> Code Normalization for Self-Mutating Malware
+>>> author >>> Danilo Bruschi and Lorenzo Martignoni and Mattia Monga
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 28.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Security and Privacy Magazine']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database144.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T15:15:34Z', 'timestamp': 1525360534461}, 'reference-count': 18, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Secur. Privacy Mag.'], 'published-print': {'date-parts': [[2007, 3]]}, 'DOI': '10.1109/msp.2007.31', 'type': 'journal-article', 'created': {'date-parts': [[2007, 4, 17]], 'date-time': '2007-04-17T19:38:58Z', 'timestamp': 1176838738000}, 'page': '46-54', 'source': 'Crossref', 'is-referenced-by-count': 28, 'title': ['Code Normalization for Self-Mutating Malware'], 'prefix': '10.1109', 'volume': '5', 'author': [{'given': 'Danilo', 'family': 'Bruschi', 'sequence': 'first', 'affiliation': []}, {'given': 'Lorenzo', 'family': 'Martignoni', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mattia', 'family': 'Monga', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Security and Privacy Magazine'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8013/4140976/04140990.pdf?arnumber=4140990', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T00:20:34Z', 'timestamp': 1489623634000}, 'score': 115.98889, 'issued': {'date-parts': [[2007, 3]]}, 'references-count': 18, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1109/msp.2007.31', 'ISSN': ['1540-7993'], 'issn-type': [{'value': '1540-7993', 'type': 'print'}]}
+>>> hash >>> ('Code Normalization for Self-Mutating Malware', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. Carrera, G. Erdelyi, "Digital genome mapping - Advanced binary malware analysis", Proceedings of the 2004 Virus Bulletin Conference, 2004.
+>>> DOI >>> 10.1109/itcc.2004.1286733
+>>> URL >>> http://dx.doi.org/10.1109/itcc.2004.1286733
+>>> year >>> 2004.0
+>>> title >>> Digital analysis of thermal infrared imagery using temperature mapping
+>>> author >>> None
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['International Conference on Information Technology: Coding and Computing, 2004. Proceedings. ITCC 2004.']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database144.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T05:28:05Z', 'timestamp': 1525411685063}, 'reference-count': 16, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769521088', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1109/itcc.2004.1286733', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 6, 10]], 'date-time': '2004-06-10T14:19:45Z', 'timestamp': 1086877185000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Digital analysis of thermal infrared imagery using temperature mapping'], 'prefix': '10.1109', 'author': [{'family': 'Cheruku Venkateswarlu', 'sequence': 'first', 'affiliation': []}, {'family': 'Sumanth Yenduri', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.S.', 'family': 'Iyengar', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'International Conference on Information Technology: Coding and Computing, 2004. Proceedings. ITCC 2004.', 'location': 'Las Vegas, NV, USA', 'start': {'date-parts': [[2004, 4, 5]]}, 'end': {'date-parts': [[2004, 4, 7]]}}, 'container-title': ['International Conference on Information Technology: Coding and Computing, 2004. Proceedings. ITCC 2004.'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/9035/28683/01286733.pdf?arnumber=1286733', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T07:56:44Z', 'timestamp': 1497599804000}, 'score': 28.385544, 'issued': {'date-parts': [[2004]]}, 'ISBN': ['0769521088'], 'references-count': 16, 'URL': 'http://dx.doi.org/10.1109/itcc.2004.1286733'}
+>>> hash >>> ('Digital analysis of thermal infrared imagery using temperature mapping', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Walenstein, R. Mathur et al., "Constructing malware normalizers using term rewriting", Journal in Computer Virology, vol. 4, pp. 307-322, 2008.
+>>> DOI >>> 10.1007/s11416-008-0081-5
+>>> URL >>> http://dx.doi.org/10.1007/s11416-008-0081-5
+>>> year >>> 2008.0
+>>> title >>> Constructing malware normalizers using term rewriting
+>>> author >>> Andrew Walenstein and Rachit Mathur and Mohamed R. Chouchane and Arun Lakhotia
+>>> reference_count >>> 35.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['Journal in Computer Virology']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database144.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T05:06:24Z', 'timestamp': 1525410384126}, 'reference-count': 35, 'publisher': 'Springer Nature', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J Comput Virol'], 'published-print': {'date-parts': [[2008, 11]]}, 'DOI': '10.1007/s11416-008-0081-5', 'type': 'journal-article', 'created': {'date-parts': [[2008, 1, 23]], 'date-time': '2008-01-23T11:12:09Z', 'timestamp': 1201086729000}, 'page': '307-322', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Constructing malware normalizers using term rewriting'], 'prefix': '10.1007', 'volume': '4', 'author': [{'given': 'Andrew', 'family': 'Walenstein', 'sequence': 'first', 'affiliation': []}, {'given': 'Rachit', 'family': 'Mathur', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mohamed R.', 'family': 'Chouchane', 'sequence': 'additional', 'affiliation': []}, {'given': 'Arun', 'family': 'Lakhotia', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2008, 1, 24]]}, 'reference': [{'key': '81_CR1', 'unstructured': 'VX heavens. ( http://vx.netlux.org )'}, {'key': '81_CR2', 'author': 'A. Aho', 'year': '1986', 'unstructured': 'Aho, A., Sethi, R., Ullman, J.: Compilers: Principles, Techniques, and Tools. Addison-Wesley, Reading (1986)', 'volume-title': 'Compilers: Principles, Techniques, and Tools'}, {'key': '81_CR3', 'author': 'F. Baader', 'year': '1998', 'unstructured': 'Baader, F., Nipkow, T.: Term Rewriting and All That. Cambridge University Press, London (1998)', 'volume-title': 'Term Rewriting and All That', 'DOI': '10.1017/CBO9781139172752', 'doi-asserted-by': 'crossref'}, {'key': '81_CR4', 'unstructured': 'Baxter, I.D., Yahin, A., Moura, L.M.D., Sant’Anna, M., Bier, L.: Clone detection using abstract syntax trees. In: Proceedings of the 1998 International Conference on Software Maintenance (CSM ’98), pp. 368–377 (1998)'}, {'key': '81_CR5', 'unstructured': 'Benny. Benny’s metamorphic engine for Win32. ( http://vx.netlux.org/29a/29a-6/29a-6.316 )'}, {'key': '81_CR6', 'unstructured': 'Bruschi, D., Martignoni, L., Monga, M.: Using code normalization for fighting self-mutating malware. In: Proceedings of International Symposium on Secure Software Engineering. IEEE, Washington, DC (2006)'}, {'key': '81_CR7', 'unstructured': 'Chess, D., White, S.: An undetectable computer virus. In: Proceedings of Virus Bulletin Conference, Sept 2000'}, {'key': '81_CR8', 'unstructured': 'Christodorescu, M., Jha, S., Seshia, S.A., Song, D., Bryant, R.E.: Semantics-aware malware detection. In: 2005 IEEE Symposium on Security and Privacy, pp. 32– 46 (2005)'}, {'key': '81_CR9', 'unstructured': 'Christodorescu, M., Kinder, J., Jha, S., Katzenbeisser, S., Veith, H.: Malware normalization. Technical Report 1539. University of Wisconsin, Madison, Nov. 2005'}, {'issue': '4', 'key': '81_CR10', 'first-page': '325', 'volume': '8', 'author': 'F. Cohen', 'year': '1989', 'unstructured': 'Cohen, F.: Computational aspects of computer viruses. Comput. Secur. 8(4), 325–344 (1989)', 'journal-title': 'Comput. Secur.'}, {'issue': '8', 'key': '81_CR11', 'first-page': '735', 'volume': '28', 'author': 'C.S. Collberg', 'year': '2002', 'unstructured': 'Collberg, C.S., Thomborson, C.: Watermarking, tamper-proofing, and obfuscation tools for software protection. IEEE Trans. Softw. Eng. 28(8), 735–746 (2002)', 'journal-title': 'IEEE Trans. Softw. Eng.'}, {'key': '81_CR12', 'unstructured': 'Cordy, J.R.: TXL—a language for programming language tools and applications. In: ACM 4th International Workshop on LTDA. Electronic Notes in Theoretical Computer Science, vol. 110, pp. 3–31. Springer, Heidelberg (2004)'}, {'issue': '6', 'key': '81_CR13', 'first-page': '2', 'volume': '28', 'author': 'M.A. Dave', 'year': '2003', 'unstructured': 'Dave, M.A.: Compiler verification: a bibliography. SIGSOFT Softw. Eng. Notes 28(6), 2 (2003)', 'journal-title': 'SIGSOFT Softw. Eng. Notes'}, {'key': '81_CR14', 'unstructured': 'Filiol, É.: Metamorphism, formal grammars, and undecidable code mutation. Int. J. Comput. Sci. 2(1), Nov 2007'}, {'key': '81_CR15', 'unstructured': 'Hong Zuo, Z., xin Zhu, Q., tian Zhou, M.: On the time complexity of computer viruses. IEEE Trans. Inf. Theory 51(8), Aug 2005'}, {'issue': '7', 'key': '81_CR16', 'first-page': '654', 'volume': '8', 'author': 'T. Kamiya', 'year': '2002', 'unstructured': 'Kamiya, T., Kusumoto, S., Inoue, K.: A multilinguistic token-based code clone detection system for large scale source code. Trans. Softw. Eng. 8(7), 654–670 (2002)', 'journal-title': 'Trans. Softw. Eng.'}, {'key': '81_CR17', 'unstructured': 'Kinder, J., Katzenbeisser, S., Schallhart, C., Veith, H.: Detecting malicious code by model checking. In: Julisch, K., Kruegel, C. (eds.) Intrusion and Malware Detection and Vulnerability Assessment: Second International Conference (DIMVA 2005). Lecture Notes in Computer Science, pp. 174. Springer, Heidelberg (2005)'}, {'key': '81_CR18', 'unstructured': 'Knuth, D.E., Bendix, P.B.: Simple word problems in universal algebras. In: Automation of Reasoning 2: Classical Papers on Computational Logic 1967–1970, pp. 342–376. Springer, Heidelberg (1983)'}, {'key': '81_CR19', 'unstructured': 'Kruegel, C., Kirda, E., Mutz, D., Robertson, W., Vigna, G.: Polymorphic worm detection using structural information of executables. In: Valdes, A., Zamboni, D. (eds.) Recent Advances in Intrusion Detection: 8th International Symposium (RAID 2005). Lecture Notes in Computer Science, vol. 3858, pp. 206–226. Springer, Heidelberg (2006)'}, {'key': '81_CR20', 'unstructured': 'Lakhotia, A., Kapoor, A., Kumar, E.U.: Are metamorphic viruses really invincible?—Part II. Virus Bull. pp. 9–12, Jan 2005'}, {'key': '81_CR21', 'unstructured': 'Lakhotia, A., Mohammed, M.: Imposing order on program statements and its implications to AV scanners. In: Proceedings of the 11th IEEE Working Conference on Reverse Engineering, pp. 161–171, Nov 2004'}, {'issue': '4', 'key': '81_CR22', 'first-page': '323', 'volume': '1', 'author': 'W. Landi', 'year': '1992', 'unstructured': 'Landi, W.: Undecidability of static analysis. ACM Lett. Program. Lang. Syst. 1(4), 323–337 (1992)', 'journal-title': 'ACM Lett. Program. Lang. Syst.'}, {'key': '81_CR23', 'unstructured': 'Mathur, R.: Normalizing metamorphic malware using term-rewriting. Master’s Thesis, Center for Advanced Computer Studies, University of Louisiana at Lafayette, Dec 2006'}, {'key': '81_CR24', 'unstructured': 'Müller, A.J., Shinohara, T.: On approximate matching of programs for protecting libre software. In: CASCON ’06: Proceedings of the 2006 conference of the Center for Advanced Studies on Collaborative Research, pp. 21–36. ACM Press, New York (2006)'}, {'issue': '1', 'key': '81_CR25', 'first-page': '47', 'volume': '40', 'author': 'C. Nachenberg', 'year': '1997', 'unstructured': 'Nachenberg, C.: Computer virus-antivirus coevolution. Commun. ACM 40(1), 47–51 (1997)', 'journal-title': 'Commun. ACM'}, {'key': '81_CR26', 'unstructured': 'Singh, P.K., Moinuddin, M., Lakhotia, A.: Using static analysis and verification for analyzing virus and worm programs. In: Proceedings of the 2nd European Conference on Information Warfare and Security, pp. 281–292 (2003)'}, {'key': '81_CR27', 'author': 'E. Skoudis', 'year': '2004', 'unstructured': 'Skoudis, E.: Malware: Fighting Malicious Code. Prentice-Hall, Englewood Cliffs (2004)', 'volume-title': 'Malware: Fighting Malicious Code'}, {'key': '81_CR28', 'unstructured': 'Symantec: W32.Evol security response writeup. http://www.symantec.com/security_response/writeup.jsp?docid=2000-122010-0045-99 , checked 15 Aug 2007'}, {'key': '81_CR29', 'unstructured': 'Ször, P.: The Art of Computer Virus Research and Defense. Symantec Press, Austin (2005)'}, {'key': '81_CR30', 'unstructured': 'Ször, P., Ferrie, P.: Hunting for metamorphic. In: 11th International Virus Bulletin Conference (2001)'}, {'key': '81_CR31', 'unstructured': 'The Mental Driller. Metamorphism in practice. ( http://vx.netlux.org/29a/29a-6/29a-6.205 )'}, {'key': '81_CR32', 'unstructured': 'Visser, E.: A survey of rewriting strategies in program transformation systems. In: Workshop on Reduction Strategies in Rewriting and Programming (WRS’01). Electronic Notes in Theoretical Computer Science, vol. 57 (2001)'}, {'key': '81_CR33', 'unstructured': 'Walenstein, A., Mathur, R., Chouchane, M.R., Lakhotia, A.: The design space of metamorphic malware. In: Proceedings of the 2nd International Conference on Information Warfare, Monterey, Mar 2007'}, {'key': '81_CR34', 'unstructured': 'Z0mbie: Automated reverse engineering: Mistfall engine. ( http://vx.netlux.org/lib/vzo21.html )'}, {'key': '81_CR35', 'unstructured': 'Z0mbie: Some ideas about metamorphism. ( http://vx.netlux.org/lib/vzo20.html )'}], 'container-title': ['Journal in Computer Virology'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s11416-008-0081-5', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T03:21:23Z', 'timestamp': 1497756083000}, 'score': 92.217026, 'issued': {'date-parts': [[2008, 1, 24]]}, 'references-count': 35, 'journal-issue': {'published-print': {'date-parts': [[2008, 11]]}, 'issue': '4'}, 'alternative-id': ['81'], 'URL': 'http://dx.doi.org/10.1007/s11416-008-0081-5', 'relation': {'cites': []}, 'ISSN': ['1772-9890', '1772-9904'], 'issn-type': [{'value': '1772-9890', 'type': 'print'}, {'value': '1772-9904', 'type': 'electronic'}]}
+>>> hash >>> ('Constructing malware normalizers using term rewriting', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K. Griffin, S. Schneider, X. Hu, T.-c. Chiueh, "Automatic generation of string signatures for malware detection", Proceedings of RAID, pp. 101-120, 2009, Sep.2009.
+>>> DOI >>> 10.1007/978-3-642-04342-0_6
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-04342-0_6
+>>> year >>> 2009.0
+>>> title >>> Automatic Generation of String Signatures for Malware Detection
+>>> author >>> Kent Griffin and Scott Schneider and Xin Hu and Tzi-cker Chiueh
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 38.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Recent Advances in Intrusion Detection']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database144.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T05:20:50Z', 'timestamp': 1525497650349}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 17, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642043413', 'type': 'print'}, {'value': '9783642043420', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2009, 1, 1]], 'date-time': '2009-01-01T00:00:00Z', 'timestamp': 1230768000000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1007/978-3-642-04342-0_6', 'type': 'book-chapter', 'created': {'date-parts': [[2009, 9, 28]], 'date-time': '2009-09-28T23:00:22Z', 'timestamp': 1254178822000}, 'page': '101-120', 'source': 'Crossref', 'is-referenced-by-count': 38, 'title': ['Automatic Generation of String Signatures for Malware Detection'], 'prefix': '10.1007', 'author': [{'given': 'Kent', 'family': 'Griffin', 'sequence': 'first', 'affiliation': []}, {'given': 'Scott', 'family': 'Schneider', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xin', 'family': 'Hu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Tzi-cker', 'family': 'Chiueh', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': '6_CR1', 'unstructured': 'PEiD, \n                    \n                      http://www.peid.info\n                    \n                    \n                  \n                '}, {'key': '6_CR2', 'unstructured': 'Clam AntiVirus: Creating signatures for ClamAV (2007), \n                    \n                      http://www.clamav.net/doc/latest/signatures.pdf\n                    \n                    \n                  \n                '}, {'key': '6_CR3', 'unstructured': 'Arnold, W., Tesauro, G.: Automatically generated win32 heuristic virus detection. In: Proceedings of Virus Bulletin Conference (2000)'}, {'key': '6_CR4', 'unstructured': 'Jacob, G., Debar, H., Filiol, E.: Behavioral detection of malware: from a survey towards an established taxonomy. Journal in Computer Virology\xa04(3) (2008)', 'DOI': '10.1007/s11416-008-0086-0', 'doi-asserted-by': 'crossref'}, {'key': '6_CR5', 'unstructured': 'Singh, S., Estan, C., Varghese, G., Savage, S.: Automated worm fingerprinting. In: OSDI 2004: Proceedings of the 6th conference on Symposium on Opearting Systems Design & Implementation, Berkeley, CA, USA, p. 4. USENIX Association (2004)'}, {'key': '6_CR6', 'unstructured': 'Kim, H.: Autograph: Toward automated, distributed worm signature detection. In: Proceedings of the 13th Usenix Security Symposium, pp. 271–286 (2004)'}, {'issue': '1', 'key': '6_CR7', 'doi-asserted-by': 'publisher', 'first-page': '51', 'DOI': '10.1145/972374.972384', 'volume': '34', 'author': 'C. Kreibich', 'year': '2004', 'unstructured': 'Kreibich, C., Crowcroft, J.: Honeycomb: creating intrusion detection signatures using honeypots. SIGCOMM Comput. Commun. Rev.\xa034(1), 51–56 (2004)', 'journal-title': 'SIGCOMM Comput. Commun. Rev.'}, {'key': '6_CR8', 'author': 'J. Newsome', 'first-page': '226', 'year': '2005', 'unstructured': 'Newsome, J., Karp, B., Song, D.: Polygraph: Automatically generating signatures for polymorphic worms. In: SP 2005: Proceedings of the 2005 IEEE Symposium on Security and Privacy, Washington, DC, USA, pp. 226–241. IEEE Computer Society, Los Alamitos (2005)', 'volume-title': 'SP 2005: Proceedings of the 2005 IEEE Symposium on Security and Privacy'}, {'key': '6_CR9', 'author': 'Z. Li', 'first-page': '32', 'year': '2006', 'unstructured': 'Li, Z., Sanghi, M., Chen, Y., Kao, M., Chavez, B.: Hamsa: fast signature generation for zero-day polymorphic worms with provable attack resilience. In: SP 2006: Proceedings of the 2006 IEEE Symposium on Security and Privacy, Oakland06, pp. 32–47. IEEE Computer Society, Los Alamitos (2006)', 'volume-title': 'SP 2006: Proceedings of the 2006 IEEE Symposium on Security and Privacy', 'DOI': '10.1109/ISEE.2006.1650027', 'doi-asserted-by': 'publisher'}, {'key': '6_CR10', 'unstructured': 'Tang, Y., Chen, S.: Defending against internet worms: A signature-based approach. In: Proceedings of IEEE INFOCOM 2005 (2005)'}, {'key': '6_CR11', 'unstructured': 'Christodorescu, M., Jha, S., Seshia, S., Song, D., Bryant, R.: Semantics-aware malware detection. In: Proceedings of the IEEE Symposium on Security and Privacy (2005)', 'DOI': '10.1109/SP.2005.20', 'doi-asserted-by': 'crossref'}, {'key': '6_CR12', 'unstructured': 'Yegneswaran, V., Giffin, J.T., Barford, P., Jha, S.: An architecture for generating semantics-aware signatures. In: SSYM 2005: Proceedings of the 14th conference on USENIX Security Symposium, Berkeley, CA, USA, p. 7. USENIX Association (2005)'}, {'key': '6_CR13', 'unstructured': 'Kephart, J.O., Arnold, W.C.: Automatic extraction of computer virus signatures. In: Proceedings of the 4th Virus Bulletin International Conference (1994)'}, {'key': '6_CR14', 'first-page': '384', 'volume': '22', 'author': 'R. Begleiter', 'year': '2004', 'unstructured': 'Begleiter, R., El-Yaniv, R., Yona, G.: On prediction using variable order markov models. Journal of Artificial Intelligence Research\xa022, 384–421 (2004)', 'journal-title': 'Journal of Artificial Intelligence Research'}, {'key': '6_CR15', 'unstructured': 'Guilfanov, I.: Fast library identification and recognition technology (1997), \n                    \n                      http://www.hex-rays.com/idapro/flirt.htm\n                    \n                    \n                  \n                '}, {'key': '6_CR16', 'series-title': 'Lecture Notes in Computer Science', 'doi-asserted-by': 'publisher', 'first-page': '98', 'DOI': '10.1007/978-3-540-87403-4_6', 'volume-title': 'Recent Advances in Intrusion Detection', 'author': 'F. Guo', 'year': '2008', 'unstructured': 'Guo, F., Ferrie, P., Chiueh, T.: A study of the packer problem and its solutions. In: Lippmann, R., Kirda, E., Trachtenberg, A. (eds.) RAID 2008. LNCS, vol.\xa05230, pp. 98–115. Springer, Heidelberg (2008)'}, {'key': '6_CR17', 'unstructured': 'Griffin, K., Schneider, S., Hu, X., Chiueh, T.: Automatic generation of string signatures for malware detection (2009), \n                    \n                      http://www.ecsl.cs.sunysb.edu/tr/TR236.pdf\n                    \n                    \n                  \n                '}], 'container-title': ['Lecture Notes in Computer Science', 'Recent Advances in Intrusion Detection'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-642-04342-0_6', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 9, 1]], 'date-time': '2017-09-01T07:54:04Z', 'timestamp': 1504252444000}, 'score': 88.00899, 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9783642043413', '9783642043420'], 'references-count': 17, 'URL': 'http://dx.doi.org/10.1007/978-3-642-04342-0_6', 'relation': {'cites': []}, 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Automatic Generation of String Signatures for Malware Detection', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. Szor, The art of computer virus research and defense, USA:Symantec Press, 2005.
+>>> DOI >>> 10.5860/choice.43-1613
+>>> URL >>> http://dx.doi.org/10.5860/choice.43-1613
+>>> year >>> 2005.0
+>>> title >>> The art of computer virus research and defense
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Choice Reviews Online']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database144.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 6]], 'date-time': '2018-05-06T02:27:55Z', 'timestamp': 1525573675134}, 'reference-count': 0, 'publisher': 'American Library Association', 'issue': '03', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Choice Reviews Online'], 'published-print': {'date-parts': [[2005, 11, 1]]}, 'DOI': '10.5860/choice.43-1613', 'type': 'journal-article', 'created': {'date-parts': [[2013, 1, 24]], 'date-time': '2013-01-24T07:58:13Z', 'timestamp': 1359014293000}, 'page': '43-1613-43-1613', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['The art of computer virus research and defense'], 'prefix': '10.5860', 'volume': '43', 'member': '3932', 'container-title': ['Choice Reviews Online'], 'language': 'en', 'deposited': {'date-parts': [[2016, 8, 11]], 'date-time': '2016-08-11T15:46:48Z', 'timestamp': 1470930408000}, 'score': 32.54318, 'issued': {'date-parts': [[2005, 11, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2005, 11, 1]]}, 'issue': '03'}, 'URL': 'http://dx.doi.org/10.5860/choice.43-1613', 'ISSN': ['0009-4978', '1523-8253'], 'issn-type': [{'value': '0009-4978', 'type': 'print'}, {'value': '1523-8253', 'type': 'electronic'}]}
+>>> hash >>> ('The art of computer virus research and defense', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

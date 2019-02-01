@@ -1,0 +1,889 @@
+>>> NEW PAPER <<<
+>>> citation >>> E. Mjolsness, "Bayesian Inference on Visual Grammars by Neural Nets that Optimize", May 1991.
+>>> DOI >>> 10.1117/12.140075
+>>> URL >>> http://dx.doi.org/10.1117/12.140075
+>>> year >>> 1992.0
+>>> title >>> <title>Visual grammars and their neural networks</title>
+>>> author >>> Eric Mjolsness
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Science of Artificial Neural Networks']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:57:21Z', 'timestamp': 1525445841439}, 'reference-count': 0, 'publisher': 'SPIE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1992, 7, 1]]}, 'DOI': '10.1117/12.140075', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 3, 4]], 'date-time': '2005-03-04T23:04:16Z', 'timestamp': 1109977456000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['<title>Visual grammars and their neural networks</title>'], 'prefix': '10.1117', 'author': [{'given': 'Eric', 'family': 'Mjolsness', 'sequence': 'first', 'affiliation': []}], 'member': '189', 'event': {'name': 'Aerospace Sensing', 'location': 'Orlando, FL'}, 'container-title': ['Science of Artificial Neural Networks'], 'link': [{'URL': 'http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=992958', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 7]], 'date-time': '2017-03-07T02:25:34Z', 'timestamp': 1488853534000}, 'score': 42.607826, 'editor': [{'given': 'Dennis W.', 'family': 'Ruck', 'sequence': 'first', 'affiliation': []}], 'issued': {'date-parts': [[1992, 7, 1]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1117/12.140075'}
+>>> hash >>> ('<title>Visual grammars and their neural networks</title>', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Leordeanu, M. Hebert, "A Spectral Technique for Correspondence Problems Using Pairwise Constraints", Proc. 10thIEEE Int'l Conf. Computer Vision, vol. 2, pp. 1482-1489, 2005-Oct.
+>>> DOI >>> 10.1109/iccv.2005.20
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2005.20
+>>> year >>> 2005.0
+>>> title >>> A spectral technique for correspondence problems using pairwise constraints
+>>> author >>> M. Leordeanu and M. Hebert
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 380.0
+>>> subject >>> None
+>>> container_title >>> ["Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 30]], 'date-time': '2018-05-30T15:22:49Z', 'timestamp': 1527693769259}, 'reference-count': 17, 'publisher': 'IEEE', 'isbn-type': [{'value': '076952334X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1109/iccv.2005.20', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 12, 10]], 'date-time': '2005-12-10T20:49:09Z', 'timestamp': 1134247749000}, 'source': 'Crossref', 'is-referenced-by-count': 380, 'title': ['A spectral technique for correspondence problems using pairwise constraints'], 'prefix': '10.1109', 'author': [{'given': 'M.', 'family': 'Leordeanu', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Hebert', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1", 'location': 'Beijing, China', 'start': {'date-parts': [[2005, 10, 17]]}, 'end': {'date-parts': [[2005, 10, 21]]}}, 'container-title': ["Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10347/32976/01544893.pdf?arnumber=1544893', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 14]], 'date-time': '2017-03-14T15:55:27Z', 'timestamp': 1489506927000}, 'score': 86.106316, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['076952334X'], 'references-count': 17, 'URL': 'http://dx.doi.org/10.1109/iccv.2005.20'}
+>>> hash >>> ('A spectral technique for correspondence problems using pairwise constraints', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J.H. Hays, M. Leordeanu, A.A. Efros, Y. Liu, "Discovering Texture Regularity via Higher-Order Matching", Proc. Ninth European Conf. Computer Vision, pp. 522-535, 2006-May.
+>>> DOI >>> 10.1007/11744047_40
+>>> URL >>> http://dx.doi.org/10.1007/11744047_40
+>>> year >>> 2006.0
+>>> title >>> Discovering Texture Regularity as a Higher-Order Correspondence Problem
+>>> author >>> James Hays and Marius Leordeanu and Alexei A. Efros and Yanxi Liu
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 33.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision – ECCV 2006', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:48:58Z', 'timestamp': 1525312138700}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 22, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540338345', 'type': 'print'}, {'value': '9783540338352', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2006, 1, 1]], 'date-time': '2006-01-01T00:00:00Z', 'timestamp': 1136073600000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.1007/11744047_40', 'type': 'book-chapter', 'created': {'date-parts': [[2006, 7, 23]], 'date-time': '2006-07-23T11:16:35Z', 'timestamp': 1153653395000}, 'page': '522-535', 'source': 'Crossref', 'is-referenced-by-count': 33, 'title': ['Discovering Texture Regularity as a Higher-Order Correspondence Problem'], 'prefix': '10.1007', 'author': [{'given': 'James', 'family': 'Hays', 'sequence': 'first', 'affiliation': []}, {'given': 'Marius', 'family': 'Leordeanu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Alexei A.', 'family': 'Efros', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yanxi', 'family': 'Liu', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': '40_CR1', 'author': 'J.J. Gibson', 'year': '1950', 'unstructured': 'Gibson, J.J.: The Perception of the Visual World. Houghton Mifflin, Boston, Massachusetts (1950)', 'volume-title': 'The Perception of the Visual World'}, {'key': '40_CR2', 'doi-asserted-by': 'publisher', 'first-page': '84', 'DOI': '10.1109/TIT.1962.1057698', 'volume': '8', 'author': 'B. Julesz', 'year': '1962', 'unstructured': 'Julesz, B.: Visual pattern discrimination. IRE Transactions on Information Theory\xa08, 84–92 (1962)', 'journal-title': 'IRE Transactions on Information Theory'}, {'key': '40_CR3', 'unstructured': 'Malik, J., Belongie, S., Shi, J., Leung, T.: Textons, contours and regions: Cue integration in image segmentation. In: ICCV, pp. 918–925 (1999)'}, {'key': '40_CR4', 'unstructured': 'Garding, J.: Surface orientation and curvature from differential texture distortion. In: ICCV, pp. 733–739 (1995)', 'DOI': '10.1109/ICCV.1995.466865', 'doi-asserted-by': 'crossref'}, {'key': '40_CR5', 'unstructured': 'Malik, J., Rosenholtz, R.: Computing local surface orientation and shape from texture for curved surfaces. Int. J. Computer Vision, 149–168 (1997)', 'DOI': '10.1023/A:1007958829620', 'doi-asserted-by': 'crossref'}, {'key': '40_CR6', 'series-title': 'Lecture Notes in Computer Science', 'doi-asserted-by': 'publisher', 'first-page': '225', 'DOI': '10.1007/3-540-47977-5_15', 'volume-title': 'Computer Vision - ECCV 2002', 'author': 'D. Forsyth', 'year': '2002', 'unstructured': 'Forsyth, D.: Shape from texture without boundaries. In: Heyden, A., Sparr, G., Nielsen, M., Johansen, P. (eds.) ECCV 2002. LNCS, vol.\xa02352, pp. 225–239. Springer, Heidelberg (2002)'}, {'key': '40_CR7', 'unstructured': 'Puzicha, J., Hofmann, T., Buhmann, J.: Non-parametric similarity measures for unsupervised texture segmentation and image retrieval. In: CVPR, pp. 267–272 (1997)', 'DOI': '10.1109/CVPR.1997.609331', 'doi-asserted-by': 'crossref'}, {'key': '40_CR8', 'unstructured': 'Leung, T., Malik, J.: Recognizing surfaces using three-dimensional textons. In: ICCV (1999)', 'DOI': '10.1109/ICCV.1999.790379', 'doi-asserted-by': 'crossref'}, {'key': '40_CR9', 'unstructured': 'Varma, M., Zisserman, A.: Texture classification: Are filter banks necessary? In: CVPR, pp. 691–698 (2003)'}, {'key': '40_CR10', 'author': 'S. Brooks', 'first-page': '653', 'year': '2002', 'unstructured': 'Brooks, S., Dodgson, N.: Self-similarity based texture editing. In: SIGGRAPH 2002, pp. 653–656. ACM Press, New York (2002)', 'volume-title': 'SIGGRAPH 2002'}, {'key': '40_CR11', 'doi-asserted-by': 'publisher', 'first-page': '287', 'DOI': '10.1145/882262.882265', 'volume': '22', 'author': 'M.F. Cohen', 'year': '2003', 'unstructured': 'Cohen, M.F., Shade, J., Hiller, S., Deussen, O.: Wang tiles for image and texture generation. ACM Trans. Graph.\xa022, 287–294 (2003)', 'journal-title': 'ACM Trans. Graph.'}, {'key': '40_CR12', 'unstructured': 'Lobay, A., Forsyth, D.A.: Recovering shape and irradiance maps from rich dense texton fields. In: CVPR, pp. 400–406 (2004)'}, {'key': '40_CR13', 'unstructured': 'Liu, Y., Lin, W.C., Hays, J.: Near-regular texture analysis and manipulation. In: ACM Transactions on Graphics, SIGGRAPH (2004)', 'DOI': '10.1145/1186562.1015731', 'doi-asserted-by': 'crossref'}, {'key': '40_CR14', 'author': 'T.K. Leung', 'first-page': '546', 'year': '1996', 'unstructured': 'Leung, T.K., Malik, J.: Detecting, localizing and grouping repeated scene elements from an image. In: ECCV, London, UK, pp. 546–555. Springer, Heidelberg (1996)', 'volume-title': 'ECCV'}, {'key': '40_CR15', 'unstructured': 'Schaffalitzky, F., Zisserman, A.: Geometric grouping of repeated elements within images. In: Shape, Contour and Grouping in Computer Vision, pp. 165–181 (1999)', 'DOI': '10.1007/3-540-46805-6_10', 'doi-asserted-by': 'crossref'}, {'key': '40_CR16', 'unstructured': 'Turina, A., Tuytelaars, T., Gool, L.V.: Efficient grouping under perspective skew. In: CVPR, pp. 247–254 (2001)', 'DOI': '10.1109/CVPR.2001.990483', 'doi-asserted-by': 'crossref'}, {'key': '40_CR17', 'author': 'B. Grünbaum', 'year': '1987', 'unstructured': 'Grünbaum, B., Shephard, G.C.: Tilings and Patterns. W. H. Freeman and Company, New York (1987)', 'volume-title': 'Tilings and Patterns'}, {'key': '40_CR18', 'doi-asserted-by': 'publisher', 'first-page': '509', 'DOI': '10.1109/34.993558', 'volume': '24', 'author': 'S. Belongie', 'year': '2002', 'unstructured': 'Belongie, S., Malik, J., Puzicha, J.: Shape matching and object recognition using shape contexts. PAMI\xa024, 509–522 (2002)', 'journal-title': 'PAMI'}, {'key': '40_CR19', 'unstructured': 'Berg, A.C., Berg, T.L., Malik, J.: Shape matching and object recognition using low distortion correspondence. In: CVPR (2005)', 'DOI': '10.1109/CVPR.2005.320', 'doi-asserted-by': 'crossref'}, {'key': '40_CR20', 'unstructured': 'Leordeanu, M., Hebert, M.: A spectral technique for correspondence problems using pairwise constraints. In: ICCV (2005)', 'DOI': '10.1109/ICCV.2005.20', 'doi-asserted-by': 'crossref'}, {'key': '40_CR21', 'unstructured': 'Matas, J., Chum, O., Urban, M., Pajdla, T.: Robust wide baseline stereo from maximally stable extremal regions. In: British Machine Vision Conference (2002)', 'DOI': '10.5244/C.16.36', 'doi-asserted-by': 'crossref'}, {'key': '40_CR22', 'doi-asserted-by': 'publisher', 'first-page': '354', 'DOI': '10.1109/TPAMI.2004.1262332', 'volume': '26', 'author': 'Y. Liu', 'year': '2004', 'unstructured': 'Liu, Y., Collins, R., Tsin, Y.: A computational model for periodic pattern perception based on frieze and wallpaper groups. PAMI\xa026, 354–371 (2004)', 'journal-title': 'PAMI'}], 'container-title': ['Computer Vision – ECCV 2006', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/11744047_40', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T07:47:40Z', 'timestamp': 1497685660000}, 'score': 98.18897, 'issued': {'date-parts': [[2006]]}, 'ISBN': ['9783540338345', '9783540338352'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1007/11744047_40', 'relation': {'cites': []}, 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Discovering Texture Regularity as a Higher-Order Correspondence Problem', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R.A. Hummel, S.W. Zucker, "On the Foundations of Relaxation Labeling Processes", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 5, no. 3, pp. 267-287, May 1983.
+>>> DOI >>> 10.1109/tpami.1983.4767390
+>>> URL >>> http://dx.doi.org/10.1109/tpami.1983.4767390
+>>> year >>> 1983.0
+>>> title >>> On the Foundations of Relaxation Labeling Processes
+>>> author >>> Robert A. Hummel and Steven W. Zucker
+>>> reference_count >>> 20.0
+>>> is_referenced_by_count >>> 524.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T19:41:58Z', 'timestamp': 1525462918892}, 'reference-count': 20, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[1983, 5]]}, 'DOI': '10.1109/tpami.1983.4767390', 'type': 'journal-article', 'created': {'date-parts': [[2009, 1, 29]], 'date-time': '2009-01-29T21:35:15Z', 'timestamp': 1233264915000}, 'page': '267-287', 'source': 'Crossref', 'is-referenced-by-count': 524, 'title': ['On the Foundations of Relaxation Labeling Processes'], 'prefix': '10.1109', 'volume': 'PAMI-5', 'author': [{'given': 'Robert A.', 'family': 'Hummel', 'sequence': 'first', 'affiliation': []}, {'given': 'Steven W.', 'family': 'Zucker', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/4767384/04767390.pdf?arnumber=4767390', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T10:32:52Z', 'timestamp': 1510655572000}, 'score': 86.85112, 'issued': {'date-parts': [[1983, 5]]}, 'references-count': 20, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/tpami.1983.4767390', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('On the Foundations of Relaxation Labeling Processes', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H.F. Wang, E.R. Hancock, "Correspondence Matching Using Kernel Principal Components Analysis and Label Consistency Constraints", Pattern Recognition, vol. 39, no. 6, pp. 1012-1025, 2006.
+>>> DOI >>> 10.1016/j.patcog.2005.05.013
+>>> URL >>> http://dx.doi.org/10.1016/j.patcog.2005.05.013
+>>> year >>> 2006.0
+>>> title >>> Correspondence matching using kernel principal components analysis and label consistency constraints
+>>> author >>> Hong Fang Wang and Edwin R. Hancock
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 14.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T21:28:47Z', 'timestamp': 1525469327142}, 'reference-count': 27, 'publisher': 'Elsevier BV', 'issue': '6', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2006, 6, 1]], 'date-time': '2006-06-01T00:00:00Z', 'timestamp': 1149120000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[2006, 6]]}, 'DOI': '10.1016/j.patcog.2005.05.013', 'type': 'journal-article', 'created': {'date-parts': [[2005, 8, 12]], 'date-time': '2005-08-12T11:38:04Z', 'timestamp': 1123846684000}, 'page': '1012-1025', 'source': 'Crossref', 'is-referenced-by-count': 14, 'title': ['Correspondence matching using kernel principal components analysis and label consistency constraints'], 'prefix': '10.1016', 'volume': '39', 'author': [{'given': 'Hong Fang', 'family': 'Wang', 'sequence': 'first', 'affiliation': []}, {'given': 'Edwin R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0031320305002293?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0031320305002293?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T22:13:55Z', 'timestamp': 1497651235000}, 'score': 108.978905, 'issued': {'date-parts': [[2006, 6]]}, 'references-count': 27, 'journal-issue': {'published-print': {'date-parts': [[2006, 6]]}, 'issue': '6'}, 'alternative-id': ['S0031320305002293'], 'URL': 'http://dx.doi.org/10.1016/j.patcog.2005.05.013', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Correspondence matching using kernel principal components analysis and label consistency constraints', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Chertok, Y. Keller, "Spectral Symmetry Analysis", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 32, no. 7, pp. 1227-1238, July 2010.
+>>> DOI >>> 10.1109/tpami.2009.121
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2009.121
+>>> year >>> 2010.0
+>>> title >>> Spectral Symmetry Analysis
+>>> author >>> Michael Chertok and Yosi Keller
+>>> reference_count >>> 44.0
+>>> is_referenced_by_count >>> 18.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T04:42:28Z', 'timestamp': 1525322548298}, 'reference-count': 44, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '7', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2010, 7]]}, 'DOI': '10.1109/tpami.2009.121', 'type': 'journal-article', 'created': {'date-parts': [[2010, 5, 27]], 'date-time': '2010-05-27T14:37:37Z', 'timestamp': 1274971057000}, 'page': '1227-1238', 'source': 'Crossref', 'is-referenced-by-count': 18, 'title': ['Spectral Symmetry Analysis'], 'prefix': '10.1109', 'volume': '32', 'author': [{'given': 'Michael', 'family': 'Chertok', 'sequence': 'first', 'affiliation': []}, {'given': 'Yosi', 'family': 'Keller', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/5466012/05466015.pdf?arnumber=5466015', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T02:55:50Z', 'timestamp': 1510628150000}, 'score': 99.95252, 'issued': {'date-parts': [[2010, 7]]}, 'references-count': 44, 'journal-issue': {'issue': '7'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2009.121', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Spectral Symmetry Analysis', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Chertok, Y. Keller, "Efficient High Order Matching", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 32, no. 12, pp. 2205-2215, Dec. 2010.
+>>> DOI >>> 10.1109/tpami.2010.51
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2010.51
+>>> year >>> 2010.0
+>>> title >>> Efficient High Order Matching
+>>> author >>> Michael Chertok and Yosi Keller
+>>> reference_count >>> 41.0
+>>> is_referenced_by_count >>> 41.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:15:52Z', 'timestamp': 1525310152873}, 'reference-count': 41, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '12', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2010, 12]]}, 'DOI': '10.1109/tpami.2010.51', 'type': 'journal-article', 'created': {'date-parts': [[2010, 3, 19]], 'date-time': '2010-03-19T12:31:56Z', 'timestamp': 1269001916000}, 'page': '2205-2215', 'source': 'Crossref', 'is-referenced-by-count': 41, 'title': ['Efficient High Order Matching'], 'prefix': '10.1109', 'volume': '32', 'author': [{'given': 'Michael', 'family': 'Chertok', 'sequence': 'first', 'affiliation': []}, {'given': 'Yosi', 'family': 'Keller', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/5611449/05432196.pdf?arnumber=5432196', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T08:06:06Z', 'timestamp': 1510646766000}, 'score': 92.763916, 'issued': {'date-parts': [[2010, 12]]}, 'references-count': 41, 'journal-issue': {'issue': '12'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2010.51', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Efficient High Order Matching', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Belongie, J. Malik, J. Puzicha, "Shape Matching and Object Recognition Using Shape Contexts", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 24, no. 4, pp. 509-522, Apr. 2002.
+>>> DOI >>> 10.1109/34.993558
+>>> URL >>> http://dx.doi.org/10.1109/34.993558
+>>> year >>> 2002.0
+>>> title >>> Shape matching and object recognition using shape contexts
+>>> author >>> S. Belongie and J. Malik and J. Puzicha
+>>> reference_count >>> 62.0
+>>> is_referenced_by_count >>> 3094.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:50Z', 'timestamp': 1528225370075}, 'reference-count': 62, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2002, 4]]}, 'DOI': '10.1109/34.993558', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T20:14:45Z', 'timestamp': 1030220085000}, 'page': '509-522', 'source': 'Crossref', 'is-referenced-by-count': 3094, 'title': ['Shape matching and object recognition using shape contexts'], 'prefix': '10.1109', 'volume': '24', 'author': [{'given': 'S.', 'family': 'Belongie', 'sequence': 'first', 'affiliation': []}, {'given': 'J.', 'family': 'Malik', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Puzicha', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/21430/00993558.pdf?arnumber=993558', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:31:23Z', 'timestamp': 1497522683000}, 'score': 131.08473, 'issued': {'date-parts': [[2002, 4]]}, 'references-count': 62, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/34.993558', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Shape matching and object recognition using shape contexts', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> O. Duchenne, F. Bach, I. Kweon, J. Ponce, "A Tensor-Based Algorithm for High-Order Graph Matching", Proc. IEEE Conf. Computer Vision and Pattern Recognition, 2009-June.
+>>> DOI >>> 10.1109/cvprw.2009.5206619
+>>> URL >>> http://dx.doi.org/10.1109/cvprw.2009.5206619
+>>> year >>> 2009.0
+>>> title >>> A tensor-based algorithm for high-order graph matching
+>>> author >>> O. Duchenne and F. Bach and I. Kweon and J. Ponce
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['2009 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 28]], 'date-time': '2018-04-28T05:40:14Z', 'timestamp': 1524894014168}, 'reference-count': 0, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 6]]}, 'DOI': '10.1109/cvprw.2009.5206619', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 8, 24]], 'date-time': '2009-08-24T15:11:50Z', 'timestamp': 1251126710000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['A tensor-based algorithm for high-order graph matching'], 'prefix': '10.1109', 'author': [{'given': 'O.', 'family': 'Duchenne', 'sequence': 'first', 'affiliation': []}, {'given': 'F.', 'family': 'Bach', 'sequence': 'additional', 'affiliation': []}, {'given': 'I.', 'family': 'Kweon', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Ponce', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Miami, FL, USA', 'start': {'date-parts': [[2009, 6, 20]]}, 'end': {'date-parts': [[2009, 6, 25]]}}, 'container-title': ['2009 IEEE Conference on Computer Vision and Pattern Recognition'], 'deposited': {'date-parts': [[2014, 11, 4]], 'date-time': '2014-11-04T18:14:50Z', 'timestamp': 1415124890000}, 'score': 114.28204, 'issued': {'date-parts': [[2009, 6]]}, 'ISBN': ['9781424439928'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1109/cvprw.2009.5206619'}
+>>> hash >>> ('A tensor-based algorithm for high-order graph matching', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T. Cour, J. Shi, "Solving Markov Random Fields with Spectral Relaxation", J. Machine Learning ResearchProc. Track, vol. 2, pp. 75-82, 2007.
+>>> DOI >>> 10.1007/978-0-387-69942-4_6
+>>> URL >>> http://dx.doi.org/10.1007/978-0-387-69942-4_6
+>>> year >>> None
+>>> title >>> Markov Random Fields and Gibbs Sampling
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Machine Learning for Multimedia Content Analysis']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T23:39:27Z', 'timestamp': 1525390767078}, 'publisher-location': 'Boston, MA', 'reference-count': 0, 'publisher': 'Springer US', 'isbn-type': [{'value': '9780387699387', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/978-0-387-69942-4_6', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 9, 24]], 'date-time': '2007-09-24T22:19:08Z', 'timestamp': 1190672348000}, 'page': '115-147', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Markov Random Fields and Gibbs Sampling'], 'prefix': '10.1007', 'member': '297', 'container-title': ['Machine Learning for Multimedia Content Analysis'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-0-387-69942-4_6', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 7]], 'date-time': '2014-01-07T18:56:39Z', 'timestamp': 1389120999000}, 'score': 39.465546, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9780387699387'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-0-387-69942-4_6'}
+>>> hash >>> ('Markov Random Fields and Gibbs Sampling', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Egozi, Y. Keller, H. Guterman, "Improving Shape Retrieval by Spectral Matching and Meta Similarity", IEEE Trans. Image Processing, vol. 19, no. 5, pp. 1319-1327, May 2010.
+>>> DOI >>> 10.1109/tip.2010.2040448
+>>> URL >>> http://dx.doi.org/10.1109/tip.2010.2040448
+>>> year >>> 2010.0
+>>> title >>> Improving Shape Retrieval by Spectral Matching and Meta Similarity
+>>> author >>> Amir Egozi and Yosi Keller and Hugo Guterman
+>>> reference_count >>> 47.0
+>>> is_referenced_by_count >>> 41.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Image Processing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T21:58:44Z', 'timestamp': 1525298324631}, 'reference-count': 47, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. on Image Process.'], 'published-print': {'date-parts': [[2010, 5]]}, 'DOI': '10.1109/tip.2010.2040448', 'type': 'journal-article', 'created': {'date-parts': [[2010, 1, 20]], 'date-time': '2010-01-20T14:21:16Z', 'timestamp': 1263997276000}, 'page': '1319-1327', 'source': 'Crossref', 'is-referenced-by-count': 41, 'title': ['Improving Shape Retrieval by Spectral Matching and Meta Similarity'], 'prefix': '10.1109', 'volume': '19', 'author': [{'given': 'Amir', 'family': 'Egozi', 'sequence': 'first', 'affiliation': []}, {'given': 'Yosi', 'family': 'Keller', 'sequence': 'additional', 'affiliation': []}, {'given': 'Hugo', 'family': 'Guterman', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Image Processing'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/83/5447576/05378651.pdf?arnumber=5378651', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 1, 24]], 'date-time': '2018-01-24T00:21:04Z', 'timestamp': 1516753264000}, 'score': 113.62115, 'issued': {'date-parts': [[2010, 5]]}, 'references-count': 47, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/tip.2010.2040448', 'ISSN': ['1057-7149', '1941-0042'], 'issn-type': [{'value': '1057-7149', 'type': 'print'}, {'value': '1941-0042', 'type': 'electronic'}]}
+>>> hash >>> ('Improving Shape Retrieval by Spectral Matching and Meta Similarity', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G.H. Golub, C.F. van Loan, Matrix Computations, 1996.
+>>> DOI >>> 10.1137/1032141
+>>> URL >>> http://dx.doi.org/10.1137/1032141
+>>> year >>> 1990.0
+>>> title >>> Matrix Computations; Second Edition (Gene Golub and Charles F. Van Loan)
+>>> author >>> James W. Demmel
+>>> reference_count >>> 3.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Review']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:58:56Z', 'timestamp': 1525445936277}, 'reference-count': 3, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM Rev.'], 'published-print': {'date-parts': [[1990, 12]]}, 'DOI': '10.1137/1032141', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 7]], 'date-time': '2005-03-07T07:21:07Z', 'timestamp': 1110180067000}, 'page': '690-691', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Matrix Computations; Second Edition (Gene Golub and Charles F. Van Loan)'], 'prefix': '10.1137', 'volume': '32', 'author': [{'given': 'James W.', 'family': 'Demmel', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Review'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/1032141', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T18:33:34Z', 'timestamp': 1485714814000}, 'score': 39.77821, 'issued': {'date-parts': [[1990, 12]]}, 'references-count': 3, 'journal-issue': {'published-print': {'date-parts': [[1990, 12]]}, 'issue': '4'}, 'alternative-id': ['10.1137/1032141'], 'URL': 'http://dx.doi.org/10.1137/1032141', 'ISSN': ['0036-1445', '1095-7200'], 'issn-type': [{'value': '0036-1445', 'type': 'print'}, {'value': '1095-7200', 'type': 'electronic'}]}
+>>> hash >>> ('Matrix Computations; Second Edition (Gene Golub and Charles F. Van Loan)', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M.R. Garey, D.S. Johnson, Computers and Intractability; A Guide to the Theory of NP-Completeness., 1990.
+>>> DOI >>> 10.1137/1024022
+>>> URL >>> http://dx.doi.org/10.1137/1024022
+>>> year >>> 1982.0
+>>> title >>> Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)
+>>> author >>> Juris Hartmanis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Review']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:58:37Z', 'timestamp': 1525445917657}, 'reference-count': 0, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM Rev.'], 'published-print': {'date-parts': [[1982, 1]]}, 'DOI': '10.1137/1024022', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 7]], 'date-time': '2005-03-07T06:58:10Z', 'timestamp': 1110178690000}, 'page': '90-91', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)'], 'prefix': '10.1137', 'volume': '24', 'author': [{'given': 'Juris', 'family': 'Hartmanis', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Review'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/1024022', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T18:00:43Z', 'timestamp': 1485712843000}, 'score': 57.612995, 'issued': {'date-parts': [[1982, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1982, 1]]}, 'issue': '1'}, 'alternative-id': ['10.1137/1024022'], 'URL': 'http://dx.doi.org/10.1137/1024022', 'ISSN': ['0036-1445', '1095-7200'], 'issn-type': [{'value': '0036-1445', 'type': 'print'}, {'value': '1095-7200', 'type': 'electronic'}]}
+>>> hash >>> ('Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Sinkhorn, P. Knopp, "Concerning Nonnegative Matrices and Doubly Stochastic Matrices", Pacific J. Math., vol. 21, no. 2, pp. 343-348, 1967.
+>>> DOI >>> 10.2140/pjm.1967.21.343
+>>> URL >>> http://dx.doi.org/10.2140/pjm.1967.21.343
+>>> year >>> 1967.0
+>>> title >>> Concerning nonnegative matrices and doubly stochastic matrices
+>>> author >>> Richard Sinkhorn and Paul Knopp
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 131.0
+>>> subject >>> None
+>>> container_title >>> ['Pacific Journal of Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 14]], 'date-time': '2018-05-14T10:22:30Z', 'timestamp': 1526293350465}, 'reference-count': 0, 'publisher': 'Mathematical Sciences Publishers', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pacific J. Math.'], 'published-print': {'date-parts': [[1967, 5, 1]]}, 'DOI': '10.2140/pjm.1967.21.343', 'type': 'journal-article', 'created': {'date-parts': [[2012, 11, 30]], 'date-time': '2012-11-30T22:12:53Z', 'timestamp': 1354313573000}, 'page': '343-348', 'source': 'Crossref', 'is-referenced-by-count': 131, 'title': ['Concerning nonnegative matrices and doubly stochastic matrices'], 'prefix': '10.2140', 'volume': '21', 'author': [{'given': 'Richard', 'family': 'Sinkhorn', 'sequence': 'first', 'affiliation': []}, {'given': 'Paul', 'family': 'Knopp', 'sequence': 'additional', 'affiliation': []}], 'member': '910', 'container-title': ['Pacific Journal of Mathematics'], 'language': 'en', 'link': [{'URL': 'http://msp.org/pjm/1967/21-2/pjm-v21-n2-p14-s.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 11]], 'date-time': '2017-03-11T19:14:53Z', 'timestamp': 1489259693000}, 'score': 120.64734, 'issued': {'date-parts': [[1967, 5, 1]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[1967]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.2140/pjm.1967.21.343', 'ISSN': ['0030-8730', '0030-8730'], 'issn-type': [{'value': '0030-8730', 'type': 'print'}, {'value': '0030-8730', 'type': 'electronic'}]}
+>>> hash >>> ('Concerning nonnegative matrices and doubly stochastic matrices', 1967.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G.L. Nemhauser, L.A. Wolsey, Integer and Combinatorial Optimization., 1988.
+>>> DOI >>> 10.1002/9781118627372
+>>> URL >>> http://dx.doi.org/10.1002/9781118627372
+>>> year >>> 1988.0
+>>> title >>> Integer and Combinatorial Optimization
+>>> author >>> George Nemhauser and Laurence Wolsey
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1473.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 30]], 'date-time': '2018-05-30T19:22:31Z', 'timestamp': 1527708151372}, 'publisher-location': 'Hoboken, NJ, USA', 'reference-count': 0, 'publisher': 'John Wiley & Sons, Inc.', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1988, 6, 16]]}, 'DOI': '10.1002/9781118627372', 'type': 'book', 'created': {'date-parts': [[2014, 8, 22]], 'date-time': '2014-08-22T09:09:23Z', 'timestamp': 1408698563000}, 'source': 'Crossref', 'is-referenced-by-count': 1473, 'title': ['Integer and Combinatorial Optimization'], 'prefix': '10.1002', 'author': [{'given': 'George', 'family': 'Nemhauser', 'sequence': 'first', 'affiliation': []}, {'given': 'Laurence', 'family': 'Wolsey', 'sequence': 'additional', 'affiliation': []}], 'member': '311', 'deposited': {'date-parts': [[2014, 8, 22]], 'date-time': '2014-08-22T09:09:24Z', 'timestamp': 1408698564000}, 'score': 76.861145, 'subtitle': ['Nemhauser/Integer and Combinatorial Optimization'], 'issued': {'date-parts': [[1988, 6, 16]]}, 'ISBN': ['9781118627372', '9780471828198'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1002/9781118627372'}
+>>> hash >>> ('Integer and Combinatorial Optimization', 1988.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Gold, A. Rangarajan, "A Graduated Assignment Algorithm for Graph Matching", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 18, no. 4, pp. 377-388, Apr. 1996.
+>>> DOI >>> 10.1109/34.491619
+>>> URL >>> http://dx.doi.org/10.1109/34.491619
+>>> year >>> 1996.0
+>>> title >>> A graduated assignment algorithm for graph matching
+>>> author >>> S. Gold and A. Rangarajan
+>>> reference_count >>> 58.0
+>>> is_referenced_by_count >>> 504.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:33Z', 'timestamp': 1525333533505}, 'reference-count': 58, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1996, 4]]}, 'DOI': '10.1109/34.491619', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '377-388', 'source': 'Crossref', 'is-referenced-by-count': 504, 'title': ['A graduated assignment algorithm for graph matching'], 'prefix': '10.1109', 'volume': '18', 'author': [{'given': 'S.', 'family': 'Gold', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Rangarajan', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/10562/00491619.pdf?arnumber=491619', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:28:39Z', 'timestamp': 1497522519000}, 'score': 103.97203, 'issued': {'date-parts': [[1996, 4]]}, 'references-count': 58, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/34.491619', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A graduated assignment algorithm for graph matching', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> B. van Wyk, M. van Wyk, "A POCS-Based Graph Matching Algorithm", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 26, no. 11, pp. 1526-1530, Nov. 2004.
+>>> DOI >>> 10.1109/tpami.2004.95
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2004.95
+>>> year >>> 2004.0
+>>> title >>> A POCS-based graph matching algorithm
+>>> author >>> B.J. van Wyk and M.A. van Wyk
+>>> reference_count >>> 30.0
+>>> is_referenced_by_count >>> 38.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T07:31:12Z', 'timestamp': 1525419072725}, 'reference-count': 30, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2004, 11]]}, 'DOI': '10.1109/tpami.2004.95', 'type': 'journal-article', 'created': {'date-parts': [[2004, 9, 20]], 'date-time': '2004-09-20T17:59:52Z', 'timestamp': 1095703192000}, 'page': '1526-1530', 'source': 'Crossref', 'is-referenced-by-count': 38, 'title': ['A POCS-based graph matching algorithm'], 'prefix': '10.1109', 'volume': '26', 'author': [{'given': 'B.J.', 'family': 'van Wyk', 'sequence': 'first', 'affiliation': []}, {'given': 'M.A.', 'family': 'van Wyk', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'language': 'en', 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/29462/01335455.pdf?arnumber=1335455', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T10:17:24Z', 'timestamp': 1497608244000}, 'score': 124.928474, 'issued': {'date-parts': [[2004, 11]]}, 'references-count': 30, 'journal-issue': {'published-print': {'date-parts': [[2004, 11]]}, 'issue': '11'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2004.95', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A POCS-based graph matching algorithm', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Raj, R. Zabih, "A Graph Cut Algorithm for Generalized Image Deconvolution", Proc. 10th IEEE Int'l Conf. Computer Vision, pp. 1048-1054, 2005.
+>>> DOI >>> 10.1109/iccv.2005.8
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2005.8
+>>> year >>> 2005.0
+>>> title >>> A graph cut algorithm for generalized image deconvolution
+>>> author >>> A. Raj and R. Zabih
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 25.0
+>>> subject >>> None
+>>> container_title >>> ["Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T00:55:38Z', 'timestamp': 1525481738974}, 'reference-count': 17, 'publisher': 'IEEE', 'isbn-type': [{'value': '076952334X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1109/iccv.2005.8', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 12, 10]], 'date-time': '2005-12-10T20:49:09Z', 'timestamp': 1134247749000}, 'source': 'Crossref', 'is-referenced-by-count': 25, 'title': ['A graph cut algorithm for generalized image deconvolution'], 'prefix': '10.1109', 'author': [{'given': 'A.', 'family': 'Raj', 'sequence': 'first', 'affiliation': []}, {'given': 'R.', 'family': 'Zabih', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1", 'location': 'Beijing, China', 'start': {'date-parts': [[2005, 10, 17]]}, 'end': {'date-parts': [[2005, 10, 21]]}}, 'container-title': ["Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10347/32976/01544836.pdf?arnumber=1544836', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T01:36:48Z', 'timestamp': 1497663408000}, 'score': 85.66648, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['076952334X'], 'references-count': 17, 'URL': 'http://dx.doi.org/10.1109/iccv.2005.8'}
+>>> hash >>> ('A graph cut algorithm for generalized image deconvolution', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Johnson, "On a Theorem Stated by Eckart and Young", Psychometrika, vol. 28, no. 3, pp. 259-263, Sept. 1963.
+>>> DOI >>> 10.1007/bf02289573
+>>> URL >>> http://dx.doi.org/10.1007/bf02289573
+>>> year >>> 1963.0
+>>> title >>> On a theorem stated by eckart and young
+>>> author >>> Richard M. Johnson
+>>> reference_count >>> 6.0
+>>> is_referenced_by_count >>> 58.0
+>>> subject >>> None
+>>> container_title >>> ['Psychometrika']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T02:06:11Z', 'timestamp': 1525485971494}, 'reference-count': 6, 'publisher': 'Springer Nature', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Psychometrika'], 'published-print': {'date-parts': [[1963, 9]]}, 'DOI': '10.1007/bf02289573', 'type': 'journal-article', 'created': {'date-parts': [[2006, 1, 25]], 'date-time': '2006-01-25T16:51:11Z', 'timestamp': 1138207871000}, 'page': '259-263', 'source': 'Crossref', 'is-referenced-by-count': 58, 'title': ['On a theorem stated by eckart and young'], 'prefix': '10.1007', 'volume': '28', 'author': [{'given': 'Richard M.', 'family': 'Johnson', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'BF02289573_CR1', 'author': 'R. Courant', 'year': '1924', 'unstructured': 'Courant, R. and Hilbert, D.Methoden der Mathematischen Physik. Berlin: Julius Springer, 1924.', 'volume-title': 'Methoden der Mathematischen Physik', 'DOI': '10.1007/978-3-662-36445-1', 'doi-asserted-by': 'crossref'}, {'key': 'BF02289573_CR2', 'first-page': '211', 'volume': '1', 'author': 'C. Eckart', 'year': '1936', 'unstructured': 'Eckart, C. and Young, G. The approximation of one matrix by another of lower rank.Psychometrika, 1936,1, 211–218.', 'journal-title': 'Psychometrika'}, {'key': 'BF02289573_CR3', 'author': 'P. Horst', 'year': '1963', 'unstructured': 'Horst, P.Matrix algebra for social scientists. New York: Holt, Rinehart and Winston, Inc., 1963.', 'volume-title': 'Matrix algebra for social scientists'}, {'key': 'BF02289573_CR4', 'first-page': '239', 'volume': '49', 'author': 'J. B. Keller', 'year': '1962', 'unstructured': 'Keller, J. B. Factorization of matrices by least squares.Biometrika, 1962,49, 239–242.', 'journal-title': 'Biometrika'}, {'key': 'BF02289573_CR5', 'author': 'C. C. MacDuffee', 'year': '1946', 'edition': 'Corrected repri', 'unstructured': 'MacDuffee, C. C.The theory of matrices. (Corrected reprint of first edition.) New York: Chelsea Publishing Co., 1946.', 'volume-title': 'The theory of matrices'}, {'key': 'BF02289573_CR6', 'first-page': '42', 'volume': '19', 'author': 'J. J. Sylvester', 'year': '1890', 'unstructured': 'Sylvester, J. J. On the reduction of a bilinear quantic of thenth order to the form of a sum ofn products by a double orthogonal substitution.Messenger of Mathematics, 1890,19, 42–46.', 'journal-title': 'Messenger of Mathematics'}], 'container-title': ['Psychometrika'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF02289573', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T02:44:40Z', 'timestamp': 1497667480000}, 'score': 80.68504, 'issued': {'date-parts': [[1963, 9]]}, 'references-count': 6, 'journal-issue': {'published-print': {'date-parts': [[1963, 9]]}, 'issue': '3'}, 'alternative-id': ['BF02289573'], 'URL': 'http://dx.doi.org/10.1007/bf02289573', 'relation': {'cites': []}, 'ISSN': ['0033-3123', '1860-0980'], 'issn-type': [{'value': '0033-3123', 'type': 'print'}, {'value': '1860-0980', 'type': 'electronic'}]}
+>>> hash >>> ('On a theorem stated by eckart and young', 1963.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Munkres, "Algorithms for the Assignment and Transportation Problems", J. SIAM, vol. 5, no. 1, pp. 32-38, 1957.
+>>> DOI >>> 10.1137/0105003
+>>> URL >>> http://dx.doi.org/10.1137/0105003
+>>> year >>> 1957.0
+>>> title >>> Algorithms for the Assignment and Transportation Problems
+>>> author >>> James Munkres
+>>> reference_count >>> 3.0
+>>> is_referenced_by_count >>> 1079.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the Society for Industrial and Applied Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T02:02:28Z', 'timestamp': 1528336948917}, 'reference-count': 3, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of the Society for Industrial and Applied Mathematics'], 'published-print': {'date-parts': [[1957, 3]]}, 'DOI': '10.1137/0105003', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 23]], 'date-time': '2005-02-23T13:46:00Z', 'timestamp': 1109166360000}, 'page': '32-38', 'source': 'Crossref', 'is-referenced-by-count': 1079, 'title': ['Algorithms for the Assignment and Transportation Problems'], 'prefix': '10.1137', 'volume': '5', 'author': [{'given': 'James', 'family': 'Munkres', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['Journal of the Society for Industrial and Applied Mathematics'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0105003', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T15:13:16Z', 'timestamp': 1485702796000}, 'score': 51.473846, 'issued': {'date-parts': [[1957, 3]]}, 'references-count': 3, 'journal-issue': {'published-print': {'date-parts': [[1957, 3]]}, 'issue': '1'}, 'alternative-id': ['10.1137/0105003'], 'URL': 'http://dx.doi.org/10.1137/0105003', 'ISSN': ['0368-4245', '2168-3484'], 'issn-type': [{'value': '0368-4245', 'type': 'print'}, {'value': '2168-3484', 'type': 'electronic'}]}
+>>> hash >>> ('Algorithms for the Assignment and Transportation Problems', 1957.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A.D. Cross, E.R. Hancock, "Graph Matching with a Dual-Step EM Algorithm", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 20, no. 11, pp. 1236-1253, Nov. 1998.
+>>> DOI >>> 10.1109/34.730557
+>>> URL >>> http://dx.doi.org/10.1109/34.730557
+>>> year >>> 1998.0
+>>> title >>> Graph matching with a dual-step EM algorithm
+>>> author >>> A.D.J. Cross and E.R. Hancock
+>>> reference_count >>> 45.0
+>>> is_referenced_by_count >>> 117.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:38Z', 'timestamp': 1525333538413}, 'reference-count': 45, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1998]]}, 'DOI': '10.1109/34.730557', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '1236-1253', 'source': 'Crossref', 'is-referenced-by-count': 117, 'title': ['Graph matching with a dual-step EM algorithm'], 'prefix': '10.1109', 'volume': '20', 'author': [{'given': 'A.D.J.', 'family': 'Cross', 'sequence': 'first', 'affiliation': []}, {'given': 'E.R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx4/34/15773/00730557.pdf?arnumber=730557', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:28:45Z', 'timestamp': 1497522525000}, 'score': 107.462524, 'issued': {'date-parts': [[1998]]}, 'references-count': 45, 'journal-issue': {'issue': '11'}, 'URL': 'http://dx.doi.org/10.1109/34.730557', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Graph matching with a dual-step EM algorithm', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. Scott, H. Longuet-Higgins, "An Algorithm for Associating the Features of Two Images", Royal Soc., vol. 244, pp. 21-26, 1991.
+>>> DOI >>> 10.1098/rspb.1991.0045
+>>> URL >>> http://dx.doi.org/10.1098/rspb.1991.0045
+>>> year >>> 1991.0
+>>> title >>> An Algorithm for Associating the Features of Two Images
+>>> author >>> G. L. Scott and H. C. Longuet-Higgins
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 241.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the Royal Society B: Biological Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:31:09Z', 'timestamp': 1525336269850}, 'reference-count': 0, 'publisher': 'The Royal Society', 'issue': '1309', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proceedings of the Royal Society B: Biological Sciences'], 'published-print': {'date-parts': [[1991, 4, 22]]}, 'DOI': '10.1098/rspb.1991.0045', 'type': 'journal-article', 'created': {'date-parts': [[2006, 12, 15]], 'date-time': '2006-12-15T20:32:03Z', 'timestamp': 1166214723000}, 'page': '21-26', 'source': 'Crossref', 'is-referenced-by-count': 241, 'title': ['An Algorithm for Associating the Features of Two Images'], 'prefix': '10.1098', 'volume': '244', 'author': [{'given': 'G. L.', 'family': 'Scott', 'sequence': 'first', 'affiliation': []}, {'given': 'H. C.', 'family': 'Longuet-Higgins', 'sequence': 'additional', 'affiliation': []}], 'member': '175', 'container-title': ['Proceedings of the Royal Society B: Biological Sciences'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1098/rspb.1991.0045', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 23]], 'date-time': '2016-12-23T01:10:03Z', 'timestamp': 1482455403000}, 'score': 63.437332, 'issued': {'date-parts': [[1991, 4, 22]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1991, 4, 22]]}, 'issue': '1309'}, 'URL': 'http://dx.doi.org/10.1098/rspb.1991.0045', 'ISSN': ['0962-8452', '1471-2954'], 'issn-type': [{'value': '0962-8452', 'type': 'print'}, {'value': '1471-2954', 'type': 'electronic'}]}
+>>> hash >>> ('An Algorithm for Associating the Features of Two Images', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Rangarajan, A. Yuille, E. Mjolsness, "Convergence Properties of the Softassign Quadratic Assignment Algorithm", Neural Computation, vol. 11, no. 6, pp. 1455-1474, 1999.
+>>> DOI >>> 10.1162/089976699300016313
+>>> URL >>> http://dx.doi.org/10.1162/089976699300016313
+>>> year >>> 1999.0
+>>> title >>> Convergence Properties of the Softassign Quadratic Assignment Algorithm
+>>> author >>> Anand Rangarajan and Alan Yuille and Eric Mjolsness
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 23.0
+>>> subject >>> None
+>>> container_title >>> ['Neural Computation']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:16:09Z', 'timestamp': 1525335369071}, 'reference-count': 21, 'publisher': 'MIT Press - Journals', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Neural Computation'], 'published-print': {'date-parts': [[1999, 8]]}, 'DOI': '10.1162/089976699300016313', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:55:01Z', 'timestamp': 1027770901000}, 'page': '1455-1474', 'source': 'Crossref', 'is-referenced-by-count': 23, 'title': ['Convergence Properties of the Softassign Quadratic Assignment Algorithm'], 'prefix': '10.1162', 'volume': '11', 'author': [{'given': 'Anand', 'family': 'Rangarajan', 'sequence': 'first', 'affiliation': []}, {'given': 'Alan', 'family': 'Yuille', 'sequence': 'additional', 'affiliation': []}, {'given': 'Eric', 'family': 'Mjolsness', 'sequence': 'additional', 'affiliation': []}], 'member': '281', 'reference': [{'key': 'p_1', 'DOI': '10.1016/S0893-6080(05)80036-X', 'doi-asserted-by': 'publisher'}, {'key': 'p_3', 'author': 'Fogelman-Soulie F.', 'volume': '3', 'first-page': '269', 'year': '1989', 'journal-title': 'Complex Systems'}, {'key': 'p_4', 'DOI': '10.1016/S0893-6080(05)80074-7', 'doi-asserted-by': 'publisher'}, {'key': 'p_5', 'DOI': '10.1162/neco.1994.6.1.161', 'doi-asserted-by': 'publisher'}, {'issue': '4', 'key': 'p_6', 'first-page': '381', 'volume': '2', 'author': 'Gold S.', 'year': '1995', 'journal-title': 'Journal of Artificial Neural Networks'}, {'key': 'p_7', 'DOI': '10.1109/34.491619', 'doi-asserted-by': 'publisher'}, {'key': 'p_8', 'DOI': '10.1073/pnas.79.8.2554', 'doi-asserted-by': 'publisher'}, {'key': 'p_9', 'DOI': '10.1073/pnas.81.10.3088', 'doi-asserted-by': 'publisher'}, {'key': 'p_10', 'DOI': '10.1006/inco.1996.2612', 'doi-asserted-by': 'publisher'}, {'key': 'p_11', 'DOI': '10.1162/neco.1994.6.3.459', 'doi-asserted-by': 'publisher'}, {'key': 'p_12', 'DOI': '10.1016/0893-6080(94)90081-7', 'doi-asserted-by': 'publisher'}, {'key': 'p_14', 'DOI': '10.1103/PhysRevA.40.501', 'doi-asserted-by': 'publisher'}, {'key': 'p_15', 'DOI': '10.1142/S0129065789000414', 'doi-asserted-by': 'publisher'}, {'key': 'p_16', 'DOI': '10.1016/S1361-8415(97)85008-6', 'doi-asserted-by': 'publisher'}, {'key': 'p_17', 'DOI': '10.1162/neco.1996.8.5.1041', 'doi-asserted-by': 'publisher'}, {'key': 'p_19', 'DOI': '10.1162/neco.1991.3.2.268', 'doi-asserted-by': 'publisher'}, {'key': 'p_20', 'DOI': '10.1214/aoms/1177703591', 'doi-asserted-by': 'publisher'}, {'issue': '4', 'key': 'p_21', 'first-page': '353', 'volume': '2', 'author': 'Urahama K.', 'year': '1996', 'journal-title': 'Journal of Artificial Neural Networks'}, {'key': 'p_22', 'DOI': '10.1109/72.80231', 'doi-asserted-by': 'publisher'}, {'key': 'p_25', 'DOI': '10.1103/PhysRevE.47.4524', 'doi-asserted-by': 'publisher'}, {'key': 'p_29', 'DOI': '10.1162/neco.1994.6.3.341', 'doi-asserted-by': 'publisher'}], 'container-title': ['Neural Computation'], 'language': 'en', 'link': [{'URL': 'http://www.mitpressjournals.org/doi/pdf/10.1162/089976699300016313', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T17:48:52Z', 'timestamp': 1481046532000}, 'score': 130.3163, 'issued': {'date-parts': [[1999, 8]]}, 'references-count': 21, 'journal-issue': {'published-print': {'date-parts': [[1999, 8]]}, 'issue': '6'}, 'alternative-id': ['10.1162/089976699300016313'], 'URL': 'http://dx.doi.org/10.1162/089976699300016313', 'relation': {'cites': []}, 'ISSN': ['0899-7667', '1530-888X'], 'issn-type': [{'value': '0899-7667', 'type': 'print'}, {'value': '1530-888X', 'type': 'electronic'}]}
+>>> hash >>> ('Convergence Properties of the Softassign Quadratic Assignment Algorithm', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T. Cour, P. Srinivasan, J. Shi, Advances in Neural Information Processing Systems 19, pp. 313-320, 2007.
+>>> DOI >>> 10.1007/978-3-642-77211-5_18
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-77211-5_18
+>>> year >>> 1992.0
+>>> title >>> From Neural Information Processing to Knowledge Technology
+>>> author >>> Erhard Oeser
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Evolution of Information Processing Systems']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T18:46:39Z', 'timestamp': 1525459599560}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642772139', 'type': 'print'}, {'value': '9783642772115', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1992]]}, 'DOI': '10.1007/978-3-642-77211-5_18', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 11, 16]], 'date-time': '2011-11-16T17:09:59Z', 'timestamp': 1321463399000}, 'page': '320-340', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['From Neural Information Processing to Knowledge Technology'], 'prefix': '10.1007', 'author': [{'given': 'Erhard', 'family': 'Oeser', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Evolution of Information Processing Systems'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-77211-5_18', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2011, 11, 16]], 'date-time': '2011-11-16T17:10:14Z', 'timestamp': 1321463414000}, 'score': 32.505394, 'issued': {'date-parts': [[1992]]}, 'ISBN': ['9783642772139', '9783642772115'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-77211-5_18'}
+>>> hash >>> ('From Neural Information Processing to Knowledge Technology', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Zass, A. Shashua, "Probabilistic Graph and Hypergraph Matching", Proc. IEEE Conf. Computer Vision and Pattern Recognition, pp. 1-8, 2008-June.
+>>> DOI >>> 10.1109/cvpr.2008.4587500
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2008.4587500
+>>> year >>> 2008.0
+>>> title >>> Probabilistic graph and hypergraph matching
+>>> author >>> Ron Zass and Amnon Shashua
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 129.0
+>>> subject >>> None
+>>> container_title >>> ['2008 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:54:20Z', 'timestamp': 1525438460229}, 'reference-count': 18, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424422425', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 6]]}, 'DOI': '10.1109/cvpr.2008.4587500', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 8, 12]], 'date-time': '2008-08-12T14:28:49Z', 'timestamp': 1218551329000}, 'source': 'Crossref', 'is-referenced-by-count': 129, 'title': ['Probabilistic graph and hypergraph matching'], 'prefix': '10.1109', 'author': [{'given': 'Ron', 'family': 'Zass', 'sequence': 'first', 'affiliation': []}, {'given': 'Amnon', 'family': 'Shashua', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2008 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Anchorage, AK, USA', 'start': {'date-parts': [[2008, 6, 23]]}, 'end': {'date-parts': [[2008, 6, 28]]}}, 'container-title': ['2008 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4558014/4587335/04587500.pdf?arnumber=4587500', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T14:14:04Z', 'timestamp': 1489673644000}, 'score': 106.34754, 'issued': {'date-parts': [[2008, 6]]}, 'ISBN': ['9781424422425'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1109/cvpr.2008.4587500'}
+>>> hash >>> ('Probabilistic graph and hypergraph matching', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Lowe, "Distinctive Image Features from Scale-Invariant Keypoints", Int'l J. Computer Vision, vol. 20, pp. 91-110, 2003.
+>>> DOI >>> 10.1023/b:visi.0000029664.99615.94
+>>> URL >>> http://dx.doi.org/10.1023/b:visi.0000029664.99615.94
+>>> year >>> 2004.0
+>>> title >>> Distinctive Image Features from Scale-Invariant Keypoints
+>>> author >>> David G. Lowe
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 20658.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T16:02:27Z', 'timestamp': 1528387347157}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['International Journal of Computer Vision'], 'published-print': {'date-parts': [[2004, 11]]}, 'DOI': '10.1023/b:visi.0000029664.99615.94', 'type': 'journal-article', 'created': {'date-parts': [[2004, 6, 2]], 'date-time': '2004-06-02T04:09:50Z', 'timestamp': 1086149390000}, 'page': '91-110', 'source': 'Crossref', 'is-referenced-by-count': 20658, 'title': ['Distinctive Image Features from Scale-Invariant Keypoints'], 'prefix': '10.1007', 'volume': '60', 'author': [{'given': 'David G.', 'family': 'Lowe', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['International Journal of Computer Vision'], 'language': 'en', 'deposited': {'date-parts': [[2012, 12, 29]], 'date-time': '2012-12-29T00:53:06Z', 'timestamp': 1356742386000}, 'score': 87.09199, 'issued': {'date-parts': [[2004, 11]]}, 'references-count': 0, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1023/b:visi.0000029664.99615.94', 'ISSN': ['0920-5691'], 'issn-type': [{'value': '0920-5691', 'type': 'print'}]}
+>>> hash >>> ('Distinctive Image Features from Scale-Invariant Keypoints', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A.C. Berg, T.L. Berg, J. Malik, "Shape Matching and Object Recognition Using Low Distortion Correspondences", Proc. IEEE Conf. Computer Vision and Pattern Recognition, vol. 1, pp. 26-33, 2005-June.
+>>> DOI >>> 10.1109/cvpr.2005.320
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2005.320
+>>> year >>> None
+>>> title >>> Shape Matching and Object Recognition Using Low Distortion Correspondences
+>>> author >>> A.C. Berg and T.L. Berg and J. Malik
+>>> reference_count >>> 33.0
+>>> is_referenced_by_count >>> 316.0
+>>> subject >>> None
+>>> container_title >>> ["2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T20:43:41Z', 'timestamp': 1525466621148}, 'reference-count': 33, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769523722', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2005.320', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 7, 27]], 'date-time': '2005-07-27T17:52:28Z', 'timestamp': 1122486748000}, 'source': 'Crossref', 'is-referenced-by-count': 316, 'title': ['Shape Matching and Object Recognition Using Low Distortion Correspondences'], 'prefix': '10.1109', 'author': [{'given': 'A.C.', 'family': 'Berg', 'sequence': 'first', 'affiliation': []}, {'given': 'T.L.', 'family': 'Berg', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Malik', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)", 'location': 'San Diego, CA, USA'}, 'container-title': ["2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/9901/31472/01467245.pdf?arnumber=1467245', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T21:35:45Z', 'timestamp': 1497648945000}, 'score': 106.418495, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769523722'], 'references-count': 33, 'URL': 'http://dx.doi.org/10.1109/cvpr.2005.320'}
+>>> hash >>> ('Shape Matching and Object Recognition Using Low Distortion Correspondences', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. Rother, V. Kolmogorov, A. Blake, "Grabcut Interactive Foreground Extraction Using Iterated Graph Cuts", Proc. ACM Siggraph '04, pp. 309-314, 2004.
+>>> DOI >>> 10.1145/1186562.1015720
+>>> URL >>> http://dx.doi.org/10.1145/1186562.1015720
+>>> year >>> 2004.0
+>>> title >>> "GrabCut"
+>>> author >>> Carsten Rother and Vladimir Kolmogorov and Andrew Blake
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 464.0
+>>> subject >>> None
+>>> container_title >>> ["ACM SIGGRAPH 2004 Papers on   - SIGGRAPH '04"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365177}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1145/1186562.1015720', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 1, 17]], 'date-time': '2007-01-17T01:15:56Z', 'timestamp': 1168996556000}, 'source': 'Crossref', 'is-referenced-by-count': 464, 'title': ['"GrabCut"'], 'prefix': '10.1145', 'author': [{'given': 'Carsten', 'family': 'Rother', 'sequence': 'first', 'affiliation': []}, {'given': 'Vladimir', 'family': 'Kolmogorov', 'sequence': 'additional', 'affiliation': []}, {'given': 'Andrew', 'family': 'Blake', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'ACM SIGGRAPH 2004 Papers', 'location': 'Los Angeles, California', 'sponsor': ['SIGGRAPH, ACM Special Interest Group on Computer Graphics and Interactive Techniques'], 'acronym': "SIGGRAPH '04", 'number': '2004', 'start': {'date-parts': [[2004, 8, 8]]}, 'end': {'date-parts': [[2004, 8, 12]]}}, 'container-title': ["ACM SIGGRAPH 2004 Papers on   - SIGGRAPH '04"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1015720&amp;ftid=273265&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T08:52:50Z', 'timestamp': 1481878370000}, 'score': 131.66037, 'subtitle': ['interactive foreground extraction using iterated graph cuts'], 'issued': {'date-parts': [[2004]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1186562.1015720'}
+>>> hash >>> ('"GrabCut"', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Torresani, V. Kolmogorov, C. Rother, "Feature Correspondence via Graph Matching: Models and Global Optimization", Proc. 10th European Conf. Computer Vision, pp. 596-609, 2008.
+>>> DOI >>> 10.1007/978-3-540-88688-4_44
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-88688-4_44
+>>> year >>> 2008.0
+>>> title >>> Feature Correspondence Via Graph Matching: Models and Global Optimization
+>>> author >>> Lorenzo Torresani and Vladimir Kolmogorov and Carsten Rother
+>>> reference_count >>> 35.0
+>>> is_referenced_by_count >>> 41.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:49:04Z', 'timestamp': 1525445344179}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 35, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540886853', 'type': 'print'}, {'value': '9783540886884', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2008, 1, 1]], 'date-time': '2008-01-01T00:00:00Z', 'timestamp': 1199145600000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.1007/978-3-540-88688-4_44', 'type': 'book-chapter', 'created': {'date-parts': [[2008, 10, 13]], 'date-time': '2008-10-13T14:20:43Z', 'timestamp': 1223907643000}, 'page': '596-609', 'source': 'Crossref', 'is-referenced-by-count': 41, 'title': ['Feature Correspondence Via Graph Matching: Models and Global Optimization'], 'prefix': '10.1007', 'author': [{'given': 'Lorenzo', 'family': 'Torresani', 'sequence': 'first', 'affiliation': []}, {'given': 'Vladimir', 'family': 'Kolmogorov', 'sequence': 'additional', 'affiliation': []}, {'given': 'Carsten', 'family': 'Rother', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': '44_CR1', 'unstructured': 'Belhumeur, P.N.: A binocular stereo algorithm for reconstructing sloping, creased, and broken surfaces in the presence of half-occlusion. In: ICCV (May 1993)', 'DOI': '10.1109/ICCV.1993.378184', 'doi-asserted-by': 'crossref'}, {'key': '44_CR2', 'unstructured': 'Kolmogorov, V., Zabih, R.: Computing visual correspondence with occlusions using graph cuts. In: ICCV (2001)', 'DOI': '10.1109/ICCV.2001.937668', 'doi-asserted-by': 'crossref'}, {'key': '44_CR3', 'unstructured': 'Dorko, G., Schmid, C.: Selection of scale-invariant parts for object class recognition. In: ICCV (2003)', 'DOI': '10.1109/ICCV.2003.1238407', 'doi-asserted-by': 'crossref'}, {'key': '44_CR4', 'unstructured': 'Sivic, J., Russell, B., Efros, A., Zisserman, A.: Discovering object categories in image collections. In: ICCV (2005)'}, {'key': '44_CR5', 'unstructured': 'Caetano, T.S., Cheng, L., Le, Q.V., Smola, A.J.: Learning graph matching. In: ICCV (2007)', 'DOI': '10.1109/ICCV.2007.4408838', 'doi-asserted-by': 'crossref'}, {'key': '44_CR6', 'unstructured': 'Bertsekas, D.: Nonlinear Programming. Athena Scientific (1999)'}, {'issue': '4', 'key': '44_CR7', 'doi-asserted-by': 'publisher', 'first-page': '704', 'DOI': '10.1287/mnsc.41.4.704', 'volume': '41', 'author': 'P. Chardaire', 'year': '1995', 'unstructured': 'Chardaire, P., Sutter, A.: A decomposition method for quadratic zero-one programming. Management Science\xa041(4), 704–712 (1995)', 'journal-title': 'Management Science'}, {'key': '44_CR8', 'unstructured': 'Wainwright, M.J., Jaakkola, T.S., Willsky, A.S.: MAP estimation via agreement on trees: Message-passing and linear-programming approaches. IEEE Trans. Information Theory\xa051(11) (2005)', 'DOI': '10.1109/TIT.2005.856938', 'doi-asserted-by': 'crossref'}, {'key': '44_CR9', 'unstructured': 'Schlesinger, M.I., Giginyak, V.V.: Solution to structural recognition (MAX,+)-problems by their equivalent transformations. Part 1. Control Systems and Computers\xa0(1), 3–15 (2007)'}, {'key': '44_CR10', 'unstructured': 'Schlesinger, M.I., Giginyak, V.V.: Solution to structural recognition (MAX,+)-problems by their equivalent transformations. Part 2. Control Systems and Computers\xa0(2), 3–18 (2007)'}, {'key': '44_CR11', 'unstructured': 'Komodakis, N., Paragios, N., Tziritas, G.: MRF optimization via dual decomposition: Message-passing revisited. In: ICCV (2007)'}, {'key': '44_CR12', 'unstructured': 'Cour, T., Srinivasan, P., Shi, J.: Balanced graph matching. In: NIPS (2007)'}, {'key': '44_CR13', 'unstructured': 'Duchi, J., Tarlow, D., Elidan, G., Koller, D.: Using combinatorial optimization within max-product belief propagation. In: NIPS (2007)'}, {'issue': '4', 'key': '44_CR14', 'doi-asserted-by': 'publisher', 'first-page': '509', 'DOI': '10.1109/34.993558', 'volume': '24', 'author': 'S.J. Belongie', 'year': '2002', 'unstructured': 'Belongie, S.J., Malik, J., Puzicha, J.: Shape matching and object recognition using shape contexts. PAMI\xa024(4), 509–522 (2002)', 'journal-title': 'PAMI'}, {'key': '44_CR15', 'unstructured': 'Torr, P.H.S.: Geometric motion segmentation and model selection. Philosophical Transactions of the Royal Society, 1321–1340 (1998)'}, {'issue': '6', 'key': '44_CR16', 'doi-asserted-by': 'publisher', 'first-page': '545', 'DOI': '10.1109/34.387502', 'volume': '17', 'author': 'S. Sclaroff', 'year': '1997', 'unstructured': 'Sclaroff, S., Pentland, A.: Modal matching for correspondence and recognition. PAMI\xa017(6), 545–561 (1997)', 'journal-title': 'PAMI'}, {'key': '44_CR17', 'unstructured': 'Berg, A., Berg, T., Malik, J.: Shape matching and object recognition using low distortion correspondence. In: CVPR (2005)', 'DOI': '10.1109/CVPR.2005.320', 'doi-asserted-by': 'crossref'}, {'key': '44_CR18', 'unstructured': 'Leordeanu, M., Hebert, M.: A spectral technique for correspondence problems using pairwise constraints. In: ICCV (2005)', 'DOI': '10.1109/ICCV.2005.20', 'doi-asserted-by': 'crossref'}, {'key': '44_CR19', 'unstructured': 'Torr, P.H.S.: Solving Markov random fields using semi definite programming. In: AISTATS (2003)'}, {'issue': '3', 'key': '44_CR20', 'doi-asserted-by': 'publisher', 'first-page': '1071', 'DOI': '10.1145/1073204.1073314', 'volume': '24', 'author': 'C.K. Liu', 'year': '2005', 'unstructured': 'Liu, C.K., Hertzmann, A., Popovi\u0107, Z.: Learning physics-based motion style with nonlinear inverse optimization. ACM Trans. on Gr.\xa024(3), 1071–1081 (2005)', 'journal-title': 'ACM Trans. on Gr.'}, {'key': '44_CR21', 'unstructured': 'Conte, D., Foggia, P., Sansone, C., Vento, M.: Thirty years of graph matching in pattern recognition. Int. J. of Pattern Recognition and Artificial Intelligence\xa018(3), 265–298', 'DOI': '10.1142/S0218001404003228', 'doi-asserted-by': 'crossref'}, {'issue': '4', 'key': '44_CR22', 'doi-asserted-by': 'publisher', 'first-page': '377', 'DOI': '10.1109/34.491619', 'volume': '18', 'author': 'S. Gold', 'year': '1996', 'unstructured': 'Gold, S., Rangarajan, A.: A graduated assignment algorithm for graph matching. PAMI\xa018(4), 377–388 (1996)', 'journal-title': 'PAMI'}, {'issue': '2', 'key': '44_CR23', 'doi-asserted-by': 'publisher', 'first-page': '187', 'DOI': '10.1109/TPAMI.2003.1177151', 'volume': '25', 'author': 'J. Maciel', 'year': '2002', 'unstructured': 'Maciel, J., Costeira, J.: A global solution to sparse correspondence problems. PAMI\xa025(2), 187–199 (2002)', 'journal-title': 'PAMI'}, {'issue': '1', 'key': '44_CR24', 'doi-asserted-by': 'publisher', 'first-page': '82', 'DOI': '10.1287/opre.18.1.82', 'volume': '18', 'author': 'A. Cabot', 'year': '1970', 'unstructured': 'Cabot, A., Francis, R.: Solving certain nonconvex quadratic minimization problems by ranking the extreme points. Operations Research\xa018(1), 82–86 (1970)', 'journal-title': 'Operations Research'}, {'key': '44_CR25', 'unstructured': 'Schellewald, C., Schnörr, C.: Probabilistic subgraph matching based on convex relaxation. In: EMMCVPR (2005)', 'DOI': '10.1007/11585978_12', 'doi-asserted-by': 'crossref'}, {'key': '44_CR26', 'author': 'N.Z. Shor', 'year': '1985', 'unstructured': 'Shor, N.Z.: Minimization methods for nondifferentiable functions. Springer, Heidelberg (1985)', 'volume-title': 'Minimization methods for nondifferentiable functions', 'DOI': '10.1007/978-3-642-82118-9', 'doi-asserted-by': 'publisher'}, {'key': '44_CR27', 'author': 'R. Ahuja', 'year': '1993', 'unstructured': 'Ahuja, R., Magnanti, T., Orlin, J.: Network Flows: Theory, Algorithms, and Applications. Prentice Hall, Englewood Cliffs (1993)', 'volume-title': 'Network Flows: Theory, Algorithms, and Applications'}, {'key': '44_CR28', 'unstructured': 'Boros, E., Hammer, P.: Pseudo-boolean optimization. Discr. Appl. Math.\xa0123(1-3) (2002)'}, {'key': '44_CR29', 'doi-asserted-by': 'publisher', 'first-page': '121', 'DOI': '10.1007/BF02612354', 'volume': '28', 'author': 'P.L. Hammer', 'year': '1984', 'unstructured': 'Hammer, P.L., Hansen, P., Simeone, B.: Roof duality, complementation and persistency in quadratic 0-1 optimization. Mathematicl Programming\xa028, 121–155 (1984)', 'journal-title': 'Mathematicl Programming'}, {'key': '44_CR30', 'unstructured': 'Torresani, L., Kolmogorov, V., Rother, C.: Feature correspondence via graph matching: Models and global optimization. Technical Report MSR-TR-2008-101 (2008)'}, {'key': '44_CR31', 'unstructured': 'Boros, E., Hammer, P.L., Sun, X.: Network flows and minimization of quadratic pseudo-Boolean functions. Technical Report RRR 17-1991, RUTCOR (May 1991)'}, {'key': '44_CR32', 'unstructured': 'Lempitsky, V., Rother, C., Blake, A.: LogCut - efficient graph cut optimization for Markov random fields. In: ICCV (2007)', 'DOI': '10.1109/ICCV.2007.4408907', 'doi-asserted-by': 'crossref'}, {'key': '44_CR33', 'unstructured': 'Rother, C., Kolmogorov, V., Lempitsky, V., Szummer, M.: Optimizing binary MRFs via extended roof duality. In: CVPR (2007)', 'DOI': '10.1109/CVPR.2007.383203', 'doi-asserted-by': 'crossref'}, {'key': '44_CR34', 'unstructured': 'Elidan, G., McGraw, I., Koller, D.: Residual belief propagation: Informed scheduling for asynchronous message passing. In: UAI (2006)'}, {'issue': '11', 'key': '44_CR35', 'doi-asserted-by': 'publisher', 'first-page': '2278', 'DOI': '10.1109/5.726791', 'volume': '86', 'author': 'Y. LeCun', 'year': '1998', 'unstructured': 'LeCun, Y., Bottou, L., Bengio, Y., Haffner, P.: Gradient-based learning applied to document recognition. Proceedings of the IEEE\xa086(11), 2278–2324 (1998)', 'journal-title': 'Proceedings of the IEEE'}], 'container-title': ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-540-88688-4_44', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 9, 22]], 'date-time': '2017-09-22T04:33:55Z', 'timestamp': 1506054835000}, 'score': 103.58126, 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9783540886853', '9783540886884'], 'references-count': 35, 'URL': 'http://dx.doi.org/10.1007/978-3-540-88688-4_44', 'relation': {'cites': []}, 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Feature Correspondence Via Graph Matching: Models and Global Optimization', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Gold, A. Rangarajan, C.-P. Lu, S. Pappu, E. Mjolsness, "New Algorithms for 2D and 3D Point Matching: Pose Estimation and Correspondence", Pattern Recognition, vol. 31, no. 8, pp. 1019-1031, 1998.
+>>> DOI >>> 10.1016/s0031-3203(98)80010-1
+>>> URL >>> http://dx.doi.org/10.1016/s0031-3203(98)80010-1
+>>> year >>> 1998.0
+>>> title >>> New algorithms for 2D and 3D point matching
+>>> author >>> Steven Gold and Anand Rangarajan and Chien-Ping Lu and Suguna Pappu and Eric Mjolsness
+>>> reference_count >>> 58.0
+>>> is_referenced_by_count >>> 230.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 1]], 'date-time': '2018-06-01T14:22:27Z', 'timestamp': 1527862947590}, 'reference-count': 58, 'publisher': 'Elsevier BV', 'issue': '8', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1998, 8, 1]], 'date-time': '1998-08-01T00:00:00Z', 'timestamp': 901929600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[1998, 8]]}, 'DOI': '10.1016/s0031-3203(98)80010-1', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T13:11:55Z', 'timestamp': 1027602715000}, 'page': '1019-1031', 'source': 'Crossref', 'is-referenced-by-count': 230, 'title': ['New algorithms for 2D and 3D point matching'], 'prefix': '10.1016', 'volume': '31', 'author': [{'given': 'Steven', 'family': 'Gold', 'sequence': 'first', 'affiliation': []}, {'given': 'Anand', 'family': 'Rangarajan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Chien-Ping', 'family': 'Lu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Suguna', 'family': 'Pappu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Eric', 'family': 'Mjolsness', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0031320398800101?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0031320398800101?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 9, 8]], 'date-time': '2017-09-08T00:40:14Z', 'timestamp': 1504831214000}, 'score': 113.271805, 'issued': {'date-parts': [[1998, 8]]}, 'references-count': 58, 'journal-issue': {'published-print': {'date-parts': [[1998, 8]]}, 'issue': '8'}, 'alternative-id': ['S0031320398800101'], 'URL': 'http://dx.doi.org/10.1016/s0031-3203(98)80010-1', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('New algorithms for 2D and 3D point matching', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T. Caetano, J. McAuley, L. Cheng, Q. Le, A. Smola, "Learning Graph Matching", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 31, no. 6, pp. 1048-1058, June 2009.
+>>> DOI >>> 10.1109/tpami.2009.28
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2009.28
+>>> year >>> 2009.0
+>>> title >>> Learning Graph Matching
+>>> author >>> None
+>>> reference_count >>> 50.0
+>>> is_referenced_by_count >>> 142.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T20:02:57Z', 'timestamp': 1525464177340}, 'reference-count': 50, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2009, 6]]}, 'DOI': '10.1109/tpami.2009.28', 'type': 'journal-article', 'created': {'date-parts': [[2009, 2, 9]], 'date-time': '2009-02-09T20:44:43Z', 'timestamp': 1234212283000}, 'page': '1048-1058', 'source': 'Crossref', 'is-referenced-by-count': 142, 'title': ['Learning Graph Matching'], 'prefix': '10.1109', 'volume': '31', 'author': [{'given': 'T.S.', 'family': 'Caetano', 'sequence': 'first', 'affiliation': []}, {'given': 'J.J.', 'family': 'McAuley', 'sequence': 'additional', 'affiliation': []}, {'family': 'Li Cheng', 'sequence': 'additional', 'affiliation': []}, {'given': 'Q.V.', 'family': 'Le', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.J.', 'family': 'Smola', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/4816105/04770108.pdf?arnumber=4770108', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T02:56:41Z', 'timestamp': 1510628201000}, 'score': 105.238716, 'issued': {'date-parts': [[2009, 6]]}, 'references-count': 50, 'journal-issue': {'issue': '6'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2009.28', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Learning Graph Matching', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Conte, P. Foggia, C. Sansone, M. Vento, "Thirty Years of Graph Matching in Pattern Recognition", Int'l J. Pattern Recognition and Artificial Intelligence, vol. 18, no. 3, pp. 265-298, 2004.
+>>> DOI >>> 10.1142/s0218001404003228
+>>> URL >>> http://dx.doi.org/10.1142/s0218001404003228
+>>> year >>> 2004.0
+>>> title >>> THIRTY YEARS OF GRAPH MATCHING IN PATTERN RECOGNITION
+>>> author >>> D. CONTE and P. FOGGIA and C. SANSONE and M. VENTO
+>>> reference_count >>> 97.0
+>>> is_referenced_by_count >>> 467.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Pattern Recognition and Artificial Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T06:42:33Z', 'timestamp': 1527230553629}, 'reference-count': 97, 'publisher': 'World Scientific Pub Co Pte Lt', 'issue': '03', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int. J. Patt. Recogn. Artif. Intell.'], 'published-print': {'date-parts': [[2004, 5]]}, 'DOI': '10.1142/s0218001404003228', 'type': 'journal-article', 'created': {'date-parts': [[2004, 5, 10]], 'date-time': '2004-05-10T10:06:26Z', 'timestamp': 1084183586000}, 'page': '265-298', 'source': 'Crossref', 'is-referenced-by-count': 467, 'title': ['THIRTY YEARS OF GRAPH MATCHING IN PATTERN RECOGNITION'], 'prefix': '10.1142', 'volume': '18', 'author': [{'given': 'D.', 'family': 'CONTE', 'sequence': 'first', 'affiliation': []}, {'given': 'P.', 'family': 'FOGGIA', 'sequence': 'additional', 'affiliation': []}, {'given': 'C.', 'family': 'SANSONE', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'VENTO', 'sequence': 'additional', 'affiliation': []}], 'member': '219', 'reference': [{'key': 'rf1', 'author': 'Aho A. V.', 'year': '1974', 'volume-title': 'The Design and Analysis of Computer Algorithms'}, {'key': 'rf2', 'DOI': '10.1109/71.598276', 'doi-asserted-by': 'publisher'}, {'key': 'rf3', 'DOI': '10.1109/34.211474', 'doi-asserted-by': 'publisher'}, {'key': 'rf6', 'DOI': '10.1137/0215075', 'doi-asserted-by': 'publisher'}, {'key': 'rf11', 'DOI': '10.1109/34.954600', 'doi-asserted-by': 'publisher'}, {'key': 'rf12', 'DOI': '10.1023/A:1008230200610', 'doi-asserted-by': 'publisher'}, {'key': 'rf14', 'DOI': '10.1145/362342.362367', 'doi-asserted-by': 'publisher'}, {'key': 'rf15', 'DOI': '10.1109/34.790431', 'doi-asserted-by': 'publisher'}, {'key': 'rf17', 'DOI': '10.1016/S0167-8655(97)00060-3', 'doi-asserted-by': 'publisher'}, {'key': 'rf18', 'DOI': '10.1142/S0218001497000081', 'doi-asserted-by': 'publisher'}, {'key': 'rf19', 'DOI': '10.1016/S0167-8655(97)00179-7', 'doi-asserted-by': 'publisher'}, {'key': 'rf23', 'author': 'Chan K. P.', 'volume': '26', 'first-page': '118', 'journal-title': 'IEEE Trans. Syst. Man Cybern.', 'DOI': '10.1109/3477.484443', 'doi-asserted-by': 'crossref'}, {'key': 'rf25', 'DOI': '10.1016/0031-3203(90)90115-2', 'doi-asserted-by': 'publisher'}, {'key': 'rf27', 'DOI': '10.1109/34.400565', 'doi-asserted-by': 'publisher'}, {'key': 'rf31', 'author': 'Cordella L. P.', 'volume': '12', 'first-page': '43', 'journal-title': 'Computing'}, {'key': 'rf35', 'author': 'Demko Ch.', 'volume': '12', 'first-page': '1', 'journal-title': 'Computing'}, {'key': 'rf36', 'author': 'Dempster A. P.', 'volume': '39', 'first-page': '1', 'journal-title': 'J. Roy. Stat. Soc. Series'}, {'key': 'rf37', 'DOI': '10.1016/0031-3203(95)00140-9', 'doi-asserted-by': 'publisher'}, {'key': 'rf38', 'DOI': '10.1016/S0167-8655(02)00253-2', 'doi-asserted-by': 'publisher'}, {'key': 'rf39', 'DOI': '10.1109/83.753738', 'doi-asserted-by': 'publisher'}, {'key': 'rf42', 'DOI': '10.1016/S0031-3203(97)00041-1', 'doi-asserted-by': 'publisher'}, {'key': 'rf43', 'author': 'Englert R.', 'volume': '12', 'first-page': '11', 'journal-title': 'Computing'}, {'key': 'rf45', 'author': 'Eshera M. A.', 'volume': '14', 'first-page': '398', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf46', 'author': 'Eshera M. A.', 'volume': '8', 'first-page': '604', 'journal-title': 'IEEE Trans. Patt. Anal. Mach. Intell.'}, {'key': 'rf48', 'DOI': '10.1016/S0167-8655(01)00017-4', 'doi-asserted-by': 'publisher'}, {'key': 'rf51', 'author': 'Fischler M.', 'volume': '22', 'first-page': '67', 'journal-title': 'IEEE Trans. Comput.'}, {'key': 'rf52', 'DOI': '10.1109/69.917559', 'doi-asserted-by': 'publisher'}, {'key': 'rf54', 'DOI': '10.1007/s100440050030', 'doi-asserted-by': 'publisher'}, {'key': 'rf58', 'DOI': '10.1007/BF02023002', 'doi-asserted-by': 'publisher'}, {'key': 'rf59', 'DOI': '10.1109/TSMC.1980.4308468', 'doi-asserted-by': 'publisher'}, {'key': 'rf60', 'author': 'Ghahraman D. E.', 'volume': '10', 'first-page': '189', 'journal-title': 'Trans. Syst. Man Cybern.'}, {'key': 'rf61', 'DOI': '10.1109/34.491619', 'doi-asserted-by': 'publisher'}, {'key': 'rf64', 'author': 'Grimson W. E.', 'year': '1991', 'volume-title': 'Object Recognition by Computer: The Role of Geometric Constraints'}, {'key': 'rf65', 'DOI': '10.1109/42.811312', 'doi-asserted-by': 'publisher'}, {'key': 'rf69', 'DOI': '10.1016/0031-3203(94)00090-9', 'doi-asserted-by': 'publisher'}, {'key': 'rf71', 'DOI': '10.1016/S0167-8655(99)00093-8', 'doi-asserted-by': 'publisher'}, {'key': 'rf79', 'author': 'Kitchen L.', 'volume': '9', 'first-page': '869', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf80', 'DOI': '10.1142/S021800148900005X', 'doi-asserted-by': 'publisher'}, {'key': 'rf81', 'DOI': '10.1016/S0304-3975(00)00286-3', 'doi-asserted-by': 'publisher'}, {'key': 'rf84', 'DOI': '10.1109/83.841933', 'doi-asserted-by': 'publisher'}, {'key': 'rf85', 'DOI': '10.1109/12.210173', 'doi-asserted-by': 'publisher'}, {'key': 'rf86', 'author': 'Larrosa J.', 'volume': '12', 'first-page': '403', 'journal-title': 'Math. Struct. Comput. Sci.'}, {'key': 'rf87', 'author': 'Lawler E. S.', 'year': '2001', 'volume-title': 'Combinatorial Optimization: Networks and Matroids'}, {'key': 'rf92', 'DOI': '10.1049/ip-vis:20000103', 'doi-asserted-by': 'publisher'}, {'key': 'rf95', 'DOI': '10.1109/34.954603', 'doi-asserted-by': 'publisher'}, {'key': 'rf96', 'author': 'Lu S. W.', 'volume': '24', 'first-page': '617', 'journal-title': 'Patt. Recogn.', 'DOI': '10.1016/0031-3203(91)90029-5', 'doi-asserted-by': 'crossref'}, {'key': 'rf97', 'DOI': '10.1016/0022-0000(82)90009-5', 'doi-asserted-by': 'publisher'}, {'key': 'rf98', 'author': 'Luo B.', 'volume': '23', 'first-page': '1120', 'journal-title': 'IEEE Trans. Patt. Anal. Mach. Intell.', 'DOI': '10.1109/34.954602', 'doi-asserted-by': 'crossref'}, {'key': 'rf100', 'DOI': '10.1109/34.817413', 'doi-asserted-by': 'publisher'}, {'key': 'rf102', 'DOI': '10.1002/spe.4380120103', 'doi-asserted-by': 'publisher'}, {'key': 'rf103', 'author': 'McKay B. D.', 'volume': '30', 'first-page': '45', 'journal-title': 'Congressus Numerantium'}, {'key': 'rf104', 'DOI': '10.1109/91.917123', 'doi-asserted-by': 'publisher'}, {'key': 'rf107', 'DOI': '10.1109/69.842269', 'doi-asserted-by': 'publisher'}, {'key': 'rf108', 'DOI': '10.1109/34.682179', 'doi-asserted-by': 'publisher'}, {'key': 'rf109', 'DOI': '10.1016/S0031-3203(98)90142-X', 'doi-asserted-by': 'publisher'}, {'key': 'rf111', 'unstructured': 'T.\xa0Miyazaki, Groups and Computation II, DIMACS Series Discrete Mathematics Theoretical Computer Science\xa028 (1997)\xa0pp. 239–256.', 'DOI': '10.1090/dimacs/028/14', 'doi-asserted-by': 'crossref'}, {'key': 'rf112', 'DOI': '10.1109/34.862201', 'doi-asserted-by': 'publisher'}, {'key': 'rf113', 'DOI': '10.1109/34.643897', 'doi-asserted-by': 'publisher'}, {'key': 'rf117', 'author': 'Pardalos P.', 'year': '1998', 'volume-title': 'High Performance Algorithms and Software in Nonlinear Optimization'}, {'key': 'rf119', 'author': 'Pelillo M.', 'volume': '2', 'first-page': '313', 'journal-title': 'J. Artif. Neural Networks'}, {'key': 'rf120', 'author': 'Pelillo M.', 'volume': '2', 'first-page': '411', 'journal-title': 'J. Artif. Neural Networks'}, {'key': 'rf122', 'DOI': '10.1109/34.809105', 'doi-asserted-by': 'publisher'}, {'key': 'rf123', 'DOI': '10.1162/089976699300016034', 'doi-asserted-by': 'publisher'}, {'key': 'rf124', 'DOI': '10.1109/TPAMI.2002.1046176', 'doi-asserted-by': 'publisher'}, {'key': 'rf126', 'DOI': '10.1109/69.599932', 'doi-asserted-by': 'publisher'}, {'key': 'rf127', 'DOI': '10.1109/72.548165', 'doi-asserted-by': 'publisher'}, {'key': 'rf128', 'DOI': '10.1109/34.277592', 'doi-asserted-by': 'publisher'}, {'key': 'rf129', 'DOI': '10.1109/TSMC.1976.4309519', 'doi-asserted-by': 'publisher'}, {'key': 'rf130', 'author': 'Russel S. J.', 'year': '1995', 'series-title': 'Series in Artificial Intelligence', 'volume-title': 'Artificial Intelligence: A Modern Approach'}, {'key': 'rf132', 'author': 'Sanfeliu A.', 'volume': '13', 'first-page': '353', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf133', 'DOI': '10.1109/21.260671', 'doi-asserted-by': 'publisher'}, {'key': 'rf136', 'author': 'Shapiro L. G.', 'volume': '3', 'first-page': '504', 'journal-title': 'IEEE Trans. Patt. Anal. Mach. Intell.'}, {'key': 'rf137', 'author': 'Shapiro L. G.', 'volume': '7', 'first-page': '90', 'journal-title': 'IEEE Trans. Patt. Anal. Mach. Intell.'}, {'key': 'rf138', 'DOI': '10.1109/21.286387', 'doi-asserted-by': 'publisher'}, {'key': 'rf140', 'author': 'Shearer K.', 'volume': '12', 'first-page': '53', 'journal-title': 'Computing'}, {'key': 'rf141', 'DOI': '10.1016/S0031-3203(00)00048-0', 'doi-asserted-by': 'publisher'}, {'key': 'rf142', 'DOI': '10.1016/S0167-8655(00)00121-5', 'doi-asserted-by': 'publisher'}, {'key': 'rf144', 'author': 'Shokoufandeh A.', 'volume': '2059', 'first-page': '67', 'year': '2001', 'series-title': 'Lecture Notes in Computer Science', 'DOI': '10.1007/3-540-45129-3_6', 'doi-asserted-by': 'crossref'}, {'key': 'rf145', 'DOI': '10.1109/3477.537320', 'doi-asserted-by': 'publisher'}, {'key': 'rf147', 'DOI': '10.1016/0031-3203(94)00166-J', 'doi-asserted-by': 'publisher'}, {'key': 'rf148', 'DOI': '10.1016/0262-8856(95)91468-S', 'doi-asserted-by': 'publisher'}, {'key': 'rf149', 'DOI': '10.1016/S0262-8856(97)00066-8', 'doi-asserted-by': 'publisher'}, {'key': 'rf150', 'DOI': '10.1109/34.935847', 'doi-asserted-by': 'publisher'}, {'key': 'rf153', 'DOI': '10.1109/34.977568', 'doi-asserted-by': 'publisher'}, {'key': 'rf154', 'DOI': '10.1109/TSMC.1979.4310127', 'doi-asserted-by': 'publisher'}, {'key': 'rf155', 'author': 'Tsai W. H.', 'volume': '13', 'first-page': '48', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf156', 'DOI': '10.1145/321921.321925', 'doi-asserted-by': 'publisher'}, {'key': 'rf157', 'DOI': '10.1109/34.6778', 'doi-asserted-by': 'publisher'}, {'key': 'rf161', 'DOI': '10.1109/TPAMI.2002.1017624', 'doi-asserted-by': 'publisher'}, {'key': 'rf162', 'DOI': '10.1016/S0167-8655(01)00022-8', 'doi-asserted-by': 'publisher'}, {'key': 'rf166', 'author': 'Wang Y. K.', 'volume': '27', 'first-page': '589', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf167', 'DOI': '10.1109/34.601251', 'doi-asserted-by': 'publisher'}, {'key': 'rf168', 'DOI': '10.1016/S0031-3203(98)00152-6', 'doi-asserted-by': 'publisher'}, {'key': 'rf169', 'DOI': '10.1016/S0167-8655(99)00071-9', 'doi-asserted-by': 'publisher'}, {'key': 'rf170', 'DOI': '10.1109/34.598235', 'doi-asserted-by': 'publisher'}, {'key': 'rf172', 'DOI': '10.1109/21.57275', 'doi-asserted-by': 'publisher'}, {'key': 'rf173', 'author': 'Xu L.', 'volume': '31', 'first-page': '812', 'journal-title': 'IEEE Trans. Syst. Man Cybern.', 'DOI': '10.1109/3477.956043', 'doi-asserted-by': 'crossref'}], 'container-title': ['International Journal of Pattern Recognition and Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://www.worldscientific.com/doi/pdf/10.1142/S0218001404003228', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T06:56:08Z', 'timestamp': 1497596168000}, 'score': 128.67065, 'issued': {'date-parts': [[2004, 5]]}, 'references-count': 97, 'journal-issue': {'published-print': {'date-parts': [[2004, 5]]}, 'issue': '03'}, 'alternative-id': ['10.1142/S0218001404003228'], 'URL': 'http://dx.doi.org/10.1142/s0218001404003228', 'relation': {'cites': []}, 'ISSN': ['0218-0014', '1793-6381'], 'issn-type': [{'value': '0218-0014', 'type': 'print'}, {'value': '1793-6381', 'type': 'electronic'}]}
+>>> hash >>> ('THIRTY YEARS OF GRAPH MATCHING IN PATTERN RECOGNITION', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A.L. Yuille, A. Rangarajan, "The Concave-Convex Procedure", Neural Computation, vol. 15, no. 4, pp. 915-936, 2003.
+>>> DOI >>> 10.1162/08997660360581958
+>>> URL >>> http://dx.doi.org/10.1162/08997660360581958
+>>> year >>> 2003.0
+>>> title >>> The Concave-Convex Procedure
+>>> author >>> A. L. Yuille and Anand Rangarajan
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 363.0
+>>> subject >>> None
+>>> container_title >>> ['Neural Computation']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365055}, 'reference-count': 27, 'publisher': 'MIT Press - Journals', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Neural Computation'], 'published-print': {'date-parts': [[2003, 4]]}, 'DOI': '10.1162/08997660360581958', 'type': 'journal-article', 'created': {'date-parts': [[2003, 3, 19]], 'date-time': '2003-03-19T01:32:02Z', 'timestamp': 1048037522000}, 'page': '915-936', 'source': 'Crossref', 'is-referenced-by-count': 363, 'title': ['The Concave-Convex Procedure'], 'prefix': '10.1162', 'volume': '15', 'author': [{'given': 'A. L.', 'family': 'Yuille', 'sequence': 'first', 'affiliation': []}, {'given': 'Anand', 'family': 'Rangarajan', 'sequence': 'additional', 'affiliation': []}], 'member': '281', 'reference': [{'key': 'p_1', 'DOI': '10.1016/0041-5553(67)90040-7', 'doi-asserted-by': 'publisher'}, {'key': 'p_2', 'DOI': '10.1088/0266-5611/14/6/006', 'doi-asserted-by': 'publisher'}, {'key': 'p_3', 'DOI': '10.1214/aoms/1177692379', 'doi-asserted-by': 'publisher'}, {'key': 'p_4', 'DOI': '10.1109/34.588021', 'doi-asserted-by': 'publisher'}, {'key': 'p_5', 'author': 'Dempster A. P.', 'volume': '39', 'first-page': '1', 'year': '1977', 'journal-title': 'Journal of the Royal Statistical Society, B'}, {'key': 'p_6', 'DOI': '10.1162/neco.1989.1.3.348', 'doi-asserted-by': 'publisher'}, {'key': 'p_7', 'DOI': '10.1038/326689a0', 'doi-asserted-by': 'publisher'}, {'key': 'p_8', 'DOI': '10.1162/neco.1995.7.5.1079', 'doi-asserted-by': 'publisher'}, {'key': 'p_10', 'DOI': '10.1016/0167-7152(86)90016-7', 'doi-asserted-by': 'publisher'}, {'key': 'p_11', 'DOI': '10.1109/34.566806', 'doi-asserted-by': 'publisher'}, {'key': 'p_12', 'DOI': '10.1023/A:1007665907178', 'doi-asserted-by': 'publisher'}, {'key': 'p_13', 'DOI': '10.1162/neco.1994.6.2.181', 'doi-asserted-by': 'publisher'}, {'key': 'p_14', 'DOI': '10.1006/inco.1996.2612', 'doi-asserted-by': 'publisher'}, {'key': 'p_15', 'DOI': '10.1016/0893-6080(94)90081-7', 'doi-asserted-by': 'publisher'}, {'key': 'p_16', 'DOI': '10.2307/1390605', 'doi-asserted-by': 'publisher'}, {'key': 'p_17', 'DOI': '10.1049/ip-vis:19941316', 'doi-asserted-by': 'publisher'}, {'key': 'p_18', 'DOI': '10.1103/PhysRevA.40.501', 'doi-asserted-by': 'publisher'}, {'key': 'p_20', 'DOI': '10.1016/0893-6080(90)90055-P', 'doi-asserted-by': 'publisher'}, {'key': 'p_23', 'DOI': '10.1016/S0031-3203(99)00077-1', 'doi-asserted-by': 'publisher'}, {'key': 'p_24', 'DOI': '10.1162/neco.1996.8.5.1041', 'doi-asserted-by': 'publisher'}, {'key': 'p_25', 'DOI': '10.1162/089976699300016313', 'doi-asserted-by': 'publisher'}, {'key': 'p_26', 'DOI': '10.1109/TSMC.1976.4309519', 'doi-asserted-by': 'publisher'}, {'key': 'p_29', 'DOI': '10.1214/aoms/1177703591', 'doi-asserted-by': 'publisher'}, {'key': 'p_32', 'DOI': '10.1103/PhysRevE.47.4524', 'doi-asserted-by': 'publisher'}, {'key': 'p_34', 'DOI': '10.1162/neco.1990.2.1.1', 'doi-asserted-by': 'publisher'}, {'key': 'p_35', 'DOI': '10.1162/neco.1994.6.3.341', 'doi-asserted-by': 'publisher'}, {'key': 'p_36', 'DOI': '10.1162/08997660260028674', 'doi-asserted-by': 'publisher'}], 'container-title': ['Neural Computation'], 'language': 'en', 'link': [{'URL': 'http://www.mitpressjournals.org/doi/pdf/10.1162/08997660360581958', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T17:54:09Z', 'timestamp': 1481046849000}, 'score': 92.97503, 'issued': {'date-parts': [[2003, 4]]}, 'references-count': 27, 'journal-issue': {'published-print': {'date-parts': [[2003, 4]]}, 'issue': '4'}, 'alternative-id': ['10.1162/08997660360581958'], 'URL': 'http://dx.doi.org/10.1162/08997660360581958', 'relation': {'cites': []}, 'ISSN': ['0899-7667', '1530-888X'], 'issn-type': [{'value': '0899-7667', 'type': 'print'}, {'value': '1530-888X', 'type': 'electronic'}]}
+>>> hash >>> ('The Concave-Convex Procedure', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Rangarajan, E. Mjolsness, "A Lagrangian Relaxation Network for Graph Matching", IEEE Trans. Neural Networks, no. 6, pp. 1365-1381, Nov. 1996.
+>>> DOI >>> 10.1109/72.548165
+>>> URL >>> http://dx.doi.org/10.1109/72.548165
+>>> year >>> 1996.0
+>>> title >>> A Lagrangian relaxation network for graph matching
+>>> author >>> A. Rangarajan and E.D. Mjolsness
+>>> reference_count >>> 70.0
+>>> is_referenced_by_count >>> 23.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Neural Networks']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:24:11Z', 'timestamp': 1525332251894}, 'reference-count': 70, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Neural Netw.'], 'published-print': {'date-parts': [[1996]]}, 'DOI': '10.1109/72.548165', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T19:16:32Z', 'timestamp': 1030216592000}, 'page': '1365-1381', 'source': 'Crossref', 'is-referenced-by-count': 23, 'title': ['A Lagrangian relaxation network for graph matching'], 'prefix': '10.1109', 'volume': '7', 'author': [{'given': 'A.', 'family': 'Rangarajan', 'sequence': 'first', 'affiliation': []}, {'given': 'E.D.', 'family': 'Mjolsness', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Neural Networks'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx4/72/11794/00548165.pdf?arnumber=548165', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:01:41Z', 'timestamp': 1497520901000}, 'score': 105.014145, 'issued': {'date-parts': [[1996]]}, 'references-count': 70, 'journal-issue': {'issue': '6'}, 'URL': 'http://dx.doi.org/10.1109/72.548165', 'ISSN': ['1045-9227'], 'issn-type': [{'value': '1045-9227', 'type': 'print'}]}
+>>> hash >>> ('A Lagrangian relaxation network for graph matching', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Dasgupta, C.H. Papadimitriou, U. Vazirani, Algorithms., 2008.
+>>> DOI >>> 10.21236/ada428699
+>>> URL >>> http://dx.doi.org/10.21236/ada428699
+>>> year >>> 2004.0
+>>> title >>> Quantum Information Processing
+>>> author >>> Umesh Vazirani and Christos Papadimitriou and Alistair Sinclair
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'US Dept of the Air Force', 'place': ['-', '-'], 'department': ['Funding', 'Performing'], 'acronym': ['TN-2004-3', '-']}, 'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T20:45:57Z', 'timestamp': 1525725957401}, 'publisher-location': 'Fort Belvoir, VA', 'reference-count': 0, 'publisher': 'Defense Technical Information Center', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004, 11, 1]]}, 'DOI': '10.21236/ada428699', 'type': 'report', 'created': {'date-parts': [[2017, 8, 11]], 'date-time': '2017-08-11T17:58:44Z', 'timestamp': 1502474324000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Quantum Information Processing'], 'prefix': '10.21236', 'author': [{'given': 'Umesh', 'family': 'Vazirani', 'sequence': 'first', 'affiliation': []}, {'given': 'Christos', 'family': 'Papadimitriou', 'sequence': 'first', 'affiliation': []}, {'given': 'Alistair', 'family': 'Sinclair', 'sequence': 'first', 'affiliation': []}], 'member': '9879', 'original-title': [''], 'deposited': {'date-parts': [[2017, 8, 11]], 'date-time': '2017-08-11T17:58:44Z', 'timestamp': 1502474324000}, 'score': 29.942158, 'subtitle': [''], 'issued': {'date-parts': [[2004, 11, 1]]}, 'references-count': 0, 'alternative-id': ['AFRL-IF-RS-TN-2004-3'], 'URL': 'http://dx.doi.org/10.21236/ada428699'}
+>>> hash >>> ('Quantum Information Processing', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y. Boykov, V. Kolmogorov, "An Experimental Comparison of Min-Cut/Max-Flow Algorithms for Energy Minimization in Vision", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 26, no. 9, pp. 1124-1137, Sept. 2004.
+>>> DOI >>> 10.1109/tpami.2004.60
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2004.60
+>>> year >>> 2004.0
+>>> title >>> An experimental comparison of min-cut/max- flow algorithms for energy minimization in vision
+>>> author >>> Y. Boykov and V. Kolmogorov
+>>> reference_count >>> 40.0
+>>> is_referenced_by_count >>> 2080.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T16:42:34Z', 'timestamp': 1528303354872}, 'reference-count': 40, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '9', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2004, 9]]}, 'DOI': '10.1109/tpami.2004.60', 'type': 'journal-article', 'created': {'date-parts': [[2004, 7, 27]], 'date-time': '2004-07-27T13:49:45Z', 'timestamp': 1090936185000}, 'page': '1124-1137', 'source': 'Crossref', 'is-referenced-by-count': 2080, 'title': ['An experimental comparison of min-cut/max- flow algorithms for energy minimization in vision'], 'prefix': '10.1109', 'volume': '26', 'author': [{'given': 'Y.', 'family': 'Boykov', 'sequence': 'first', 'affiliation': []}, {'given': 'V.', 'family': 'Kolmogorov', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'language': 'en', 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/29188/01316848.pdf?arnumber=1316848', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T09:05:25Z', 'timestamp': 1497603925000}, 'score': 132.7006, 'issued': {'date-parts': [[2004, 9]]}, 'references-count': 40, 'journal-issue': {'published-print': {'date-parts': [[2004, 9]]}, 'issue': '9'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2004.60', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('An experimental comparison of min-cut/max- flow algorithms for energy minimization in vision', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> B. Luo, E. Hancock, "Structural Graph Matching Using the EM Algorithm and Singular Value Decomposition", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 23, no. 10, pp. 1120-1136, Oct. 2001.
+>>> DOI >>> 10.1109/34.954602
+>>> URL >>> http://dx.doi.org/10.1109/34.954602
+>>> year >>> 2001.0
+>>> title >>> Structural graph matching using the EM algorithm and singular value decomposition
+>>> author >>> None
+>>> reference_count >>> 52.0
+>>> is_referenced_by_count >>> 161.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database60.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T06:42:33Z', 'timestamp': 1527230553619}, 'reference-count': 52, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '10', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.1109/34.954602', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T20:14:45Z', 'timestamp': 1030220085000}, 'page': '1120-1136', 'source': 'Crossref', 'is-referenced-by-count': 161, 'title': ['Structural graph matching using the EM algorithm and singular value decomposition'], 'prefix': '10.1109', 'volume': '23', 'author': [{'family': 'Bin Luo', 'sequence': 'first', 'affiliation': []}, {'given': 'E.R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/20643/00954602.pdf?arnumber=954602', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T21:01:14Z', 'timestamp': 1489179674000}, 'score': 121.359985, 'issued': {'date-parts': [[2001]]}, 'references-count': 52, 'journal-issue': {'issue': '10'}, 'URL': 'http://dx.doi.org/10.1109/34.954602', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Structural graph matching using the EM algorithm and singular value decomposition', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

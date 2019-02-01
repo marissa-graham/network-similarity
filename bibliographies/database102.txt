@@ -1,0 +1,43 @@
+[0] HwanHo Kim, Jinchao Xu, Ludmil Zikatanov, A multigrid method based on graph matching for convection–diffusion equations
+[1] Hackbusch W. Multigrid Methods and Applications. Springer: Berlin, 1985.
+[2] Xu J. Iterative methods by space decomposition and subspace correction. SIAM Review 1992; 34(4):581–613.
+[3] Bramble JH. Multigrid methods. In Pitman Research Notes in Mathematical Sciences, Vol. 294. Longman Scientific & Technical: Essex, England, 1993.
+[4] Bank RE. A comparison of two multilevel iterative methods for non‐symmetric and indefinite elliptic finite element equations. SIAM Journal on Numerical Analysis 1981; 18(4):724–743.
+[5] Elman HC. Iterative methods for large, sparse, non‐symmetric systems of linear equations. Technical Report 229, Department of Computer Science, Yale University, 1982.
+[6] Bramble JH, Leyk Z, Pasciak JE. Iterative schemes for non‐symmetric and indefinite elliptic boundary value problems. Mathematics of Computation 1993; 60(201):1–22.
+[7] Bramble JH, Pasciak JE, Xu J. The analysis of multigrid algorithms for non‐symmetric and indefinite elliptic problems. Mathematics of Computation 1988; 51:389–414.
+[8] Bramble JH, Kwak DY, Pasciak JE. Uniform convergence of multigrid V‐cycle iterations for indefinite and non‐symmetric problems. SIAM Journal on Numerical Analysis 1994; 31(6):1746–1763.
+[9] Mandel J. Multigrid convergence for non‐symmetric, indefinite variational problems and one smoothing step. Applied Mathematics and Computation 1986; 19(1–4):201–216. Second Copper Mountain Conference on multigrid methods (Copper Mountain, CO, 1985).
+[10] Xu J. A new class of iterative methods for nonselfadjoint or indefinite problems. SIAM Journal on Numerical Analysis 1992; 29(2):303–319.
+[11] Cai X‐C, Widlund O. Domain decomposition algorithms for indefinite elliptic problems. SIAM Journal on Statistical and Scientific Computing 1992; 13(1):243–258.
+[12] Xu J, Cai X‐C. A preconditioned GMRES method for non‐symmetric or indefinite problems. Mathematics of Computation 1992; 59(200):311–319.
+[13] Xu J. Two‐grid discretization techniques for linear and non‐linear PDEs. SIAM Journal on Numerical Analysis 1996; 33(5):1759–1777.
+[14] Elman HC, Golub GH. Line iterative methods for cyclically reduced discrete convection–diffusion problems. SIAM Journal on Statistical and Scientific Computing 1992; 13(1):339–363.
+[15] Elman HC, Golub GH, Starke G. On the convergence of line iterative methods for cyclically reduced non‐symmetrizable linear systems. Numerische Mathematik 1994; 67(2):177–190.
+[16] Han H, Il'in VP, Kellogg RB, Yuan W. Analysis of flow directed iterations. Journal of Computational Mathematics 1992; 10(1):57–76.
+[17] Hackbusch W, Probst T. Downwind Gauß‐Seidel smoothing for convection dominated problems. Numerical Linear Algebra with Applications 1997; 4(2):85–102.
+Wiley Online Library 
+[18] Bey J, Wittum G. Downwind numbering: A robust multigrid method for convection diffusion problems on unstructured grids. Applied Numerical Mathematics 1997; 23(1):177–192.
+[19] Wang F, Xu J. A cross‐wind strip block iterative method for convection‐dominated problems. SIAM Journal on Computing 1999; 21(2):646–665.
+[20] Elman HC, Chernesky MP. Ordering effects on relaxation methods applied to the discrete one‐dimensional convection–diffusion equation. SIAM Journal on Numerical Analysis 1993; 30(5):1268–1290.
+[21] Elman HC, Chernesky MP. Ordering effects on relaxation methods applied to the discrete convection–diffusion equation. In Recent Advances in Iterative Methods. Springer: New York, 1994; 45–57.
+[22] Tarjan RE. Depth‐first‐search and linear graph algorithms. SIAM Journal on Computing 1972; 1:146–160.
+[23] Xu J, Zikatanov LT. A monotone finite element scheme for convection diffusion equations. Mathematics of Computation 1999; 68(228):1429–1446.
+[24] Bank RE, Coughran WM, Cowsar LC. Analysis of the finite volume Scharfetter‐Gummel method for steady convection diffusion equations. Computing and Visualization in Science 1998; 1:123–136.
+[25] Brezzi F, Marini L, Pietra P. Numerical simulation of semiconductor devices. Computer Methods in Applied Mechanics and Engineering 1989; 75(3):493–514.
+[26] Hendrickson B, Leland R. A multilevel algorithm for partitioning graphs. Technical Report SAND93‐1301, Sandia National Laboratories, 1993.
+[27] Karypis G, Kumar V. Analysis of multilevel graph partitioning. Technical Report TR 95‐037, Department of Computer Science, University of Minnesota, 1995. Also available at http://www.cs.umn.edu/ karypis [14 August 1999].
+[28] Karypis G, Kumar V. Parallel multilevel k‐way partitioning scheme for irregular graphs. Technical Report TR 96‐036, Department of Computer Science, University of Minnesota, 1996. Also available at http://www.cs.umn.edu/ karypis [14 August 1999].
+[29]Ruge JW, Stüben K. Algebraic multigrid. In Multigrid Methods, McCormick SF (eds). Frontiers in applied mathematics, Society of Industrial and Applied Mathematics: Philadelphia, 1987;73–130.
+[30] Bank RE, Xu J. An algorithm for coarsening unstructured meshes. Numerische Mathematik 1996; 73:1–36.
+[31] Vaněk P, Mandel J, Brezina M. Algebraic multigrid on unstructured meshes. Technical Report UCD/CCM 34, Center for Computational Mathematics, University of Colorado at Denver, December 1994.
+[32] Chan TF, Xu J, Zikatanov LT. An agglomeration multigrid method for unstructured grids. In Tenth international conference on Domain Decomposition methods, Contemporary Mathematics, American Mathematical Society, 1998; 218:67–81.
+[33] Axelsson O. Iterative Solution Methods. Cambridge University Press: Cambridge, 1994.
+[34] Gibbons A. Algorithmic Graph Theory. Cambridge University Press: New York, 1985.
+[35] Hackbusch W. Iterative Solution of Large Sparse Systems of Equations. Springer: Berlin, 1994.
+[36] Kumar V, Grama A, Gupta A, Karypis G. Introduction to Parallel Computing: Design and Analysis of Parallel Algorithms. The Benjamin/Cummings Publishing Company, Inc.: Redwood City, CA, 1994.
+[37] Saad Y. Iterative Methods for Sparse Linear Systems. PWS Publishing Company: Boston, MA, 1996.
+[38] Bramble JH, Pasciak JE, Xu J. The analysis of multigrid algorithms with nonnested spaces or noninherited quadratic forms. Mathematics of Computation 1991; 56:1–34.
+[39] Chan TF, Vassilevski PS. A framework for block ILU factorization using block‐size reduction. Mathematics of Computation 1995; 64(209):129–156.
+[40] Brandt A, Yavneh I. On multigrid solution of high‐Reynolds incompressible entering flows. Journal of Computational Physics 1992; 101:151–164.
+[41] Brandt A, Yavneh I. Improved coarse‐grid correction for high‐Reynolds flows. In Preliminary Proceedings of the Fifth Copper Mountain Conference on Multigrid Methods, Vol. 1. Manteuffel TA, McCormick SF (eds). University of Colorado: Denver, 1991; 127–149.

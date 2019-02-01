@@ -1,0 +1,553 @@
+>>> NEW PAPER <<<
+>>> citation >>> Charles J. Fillmore, Christopher R. Johnson, and Miriam R. L. Petruck. 2003. Background to FrameNet. International Journal of Lexicography, 16:235--250.
+>>> DOI >>> 10.1093/ijl/16.3.235
+>>> URL >>> http://dx.doi.org/10.1093/ijl/16.3.235
+>>> year >>> 2003.0
+>>> title >>> Background to Framenet
+>>> author >>> C. J. Fillmore
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 123.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Lexicography']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T09:08:02Z', 'timestamp': 1525424882796}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['International Journal of Lexicography'], 'published-print': {'date-parts': [[2003, 9, 1]]}, 'DOI': '10.1093/ijl/16.3.235', 'type': 'journal-article', 'created': {'date-parts': [[2004, 11, 11]], 'date-time': '2004-11-11T20:11:13Z', 'timestamp': 1100203873000}, 'page': '235-250', 'source': 'Crossref', 'is-referenced-by-count': 123, 'title': ['Background to Framenet'], 'prefix': '10.1093', 'volume': '16', 'author': [{'given': 'C. J.', 'family': 'Fillmore', 'sequence': 'first', 'affiliation': []}], 'member': '286', 'container-title': ['International Journal of Lexicography'], 'language': 'en', 'link': [{'URL': 'http://academic.oup.com/ijl/article-pdf/16/3/235/2761222/160235.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 23]], 'date-time': '2017-08-23T14:53:20Z', 'timestamp': 1503500000000}, 'score': 74.37695, 'issued': {'date-parts': [[2003, 9, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2003, 9, 1]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.1093/ijl/16.3.235', 'ISSN': ['0950-3846', '1477-4577'], 'issn-type': [{'value': '0950-3846', 'type': 'print'}, {'value': '1477-4577', 'type': 'electronic'}]}
+>>> hash >>> ('Background to Framenet', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Mihai Surdeanu , Sanda Harabagiu , John Williams , Paul Aarseth, Using predicate-argument structures for information extraction, Proceedings of the 41st Annual Meeting on Association for Computational Linguistics, p.8-15, July 07-12, 2003, Sapporo, Japan  [doi>10.3115/1075096.1075098]
+>>> DOI >>> 10.3115/1075096.1075098
+>>> URL >>> http://dx.doi.org/10.3115/1075096.1075098
+>>> year >>> 2003.0
+>>> title >>> Using predicate-argument structures for information extraction
+>>> author >>> Mihai Surdeanu and Sanda Harabagiu and John Williams and Paul Aarseth
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 48.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 41st Annual Meeting on Association for Computational Linguistics  - ACL '03"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T16:15:36Z', 'timestamp': 1525364136484}, 'publisher-location': 'Morristown, NJ, USA ', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.3115/1075096.1075098', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T15:06:22Z', 'timestamp': 1178895982000}, 'source': 'Crossref', 'is-referenced-by-count': 48, 'title': ['Using predicate-argument structures for information extraction'], 'prefix': '10.3115', 'author': [{'given': 'Mihai', 'family': 'Surdeanu', 'sequence': 'first', 'affiliation': []}, {'given': 'Sanda', 'family': 'Harabagiu', 'sequence': 'additional', 'affiliation': []}, {'given': 'John', 'family': 'Williams', 'sequence': 'additional', 'affiliation': []}, {'given': 'Paul', 'family': 'Aarseth', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the 41st Annual Meeting', 'location': 'Sapporo, Japan', 'sponsor': ['undetermined'], 'acronym': "ACL '03", 'number': '41', 'start': {'date-parts': [[2003, 7, 7]]}, 'end': {'date-parts': [[2003, 7, 12]]}}, 'container-title': ["Proceedings of the 41st Annual Meeting on Association for Computational Linguistics  - ACL '03"], 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 112.56943, 'issued': {'date-parts': [[2003]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1075096.1075098'}
+>>> hash >>> ('Using predicate-argument structures for information extraction', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hagen FÃ¼rstenau. 2008. Enriching frame semantic resources with dependency graphs. In Proceedings of the 6th Language Resources and Evaluation Conference, pages 1478--1484, Marrakech, Morocco.
+>>> DOI >>> 10.1007/s10579-007-9043-7
+>>> URL >>> http://dx.doi.org/10.1007/s10579-007-9043-7
+>>> year >>> 2007.0
+>>> title >>> LTAG-spinal and the Treebank
+>>> author >>> Libin Shen and Lucas Champollion and Aravind K. Joshi
+>>> reference_count >>> 30.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['Language Resources and Evaluation']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:29:16Z', 'timestamp': 1525393756782}, 'reference-count': 30, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Lang Resources & Evaluation'], 'published-print': {'date-parts': [[2008, 3]]}, 'DOI': '10.1007/s10579-007-9043-7', 'type': 'journal-article', 'created': {'date-parts': [[2007, 10, 19]], 'date-time': '2007-10-19T09:47:08Z', 'timestamp': 1192787228000}, 'page': '1-19', 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['LTAG-spinal and the Treebank'], 'prefix': '10.1007', 'volume': '42', 'author': [{'given': 'Libin', 'family': 'Shen', 'sequence': 'first', 'affiliation': []}, {'given': 'Lucas', 'family': 'Champollion', 'sequence': 'additional', 'affiliation': []}, {'given': 'Aravind K.', 'family': 'Joshi', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2007, 10, 20]]}, 'reference': [{'key': '9043_CR1', 'unstructured': 'Abeillé, A., & Rambow, O. (Eds.) (2001). Tree Adjoining Grammars: Formalisms, linguistic analysis and processing. Center for the Study of Language and Information.'}, {'key': '9043_CR2', 'unstructured': 'Babko-Malaya, O., Bies, A., Taylor, A., Yi, S., Palmer, M., Marcus, M., Kulick, S., & Shen, L. (2006). Issues in synchronizing the English Treebank and PropBank. In Frontiers in Linguistically Annotated Corpora (ACL Workshop).'}, {'key': '9043_CR3', 'unstructured': 'Charniak, E. (1997). Statistical parsing with a context-free grammar and word statistics. In Proceedings of the Fourteenth National Conference on Artificial Intelligence.'}, {'key': '9043_CR4', 'unstructured': 'Charniak, E., & Johnson, M. (2005). Coarse-to-fine n-best parsing and MaxEnt discriminative reranking. In Proceedings of the 43th Annual Meeting of the Association for Computational Linguistics (ACL).'}, {'issue': '3', 'key': '9043_CR5', 'first-page': '251', 'volume': '12', 'author': 'J. Chen', 'year': '2006', 'unstructured': 'Chen, J., Bangalore, S., & Vijay-Shanker, K. (2006). Automated extraction of Tree Adjoining Grammars from treebanks. Natural Language Engineering, 12(3), 251–299.', 'journal-title': 'Natural Language Engineering'}, {'key': '9043_CR6', 'unstructured': 'Chen, J., & Rambow, O. (2003). Use of deep linguistic features for the recognition and labeling of semantic arguments. In Proceedings of the 2003 Conference of Empirical Methods in Natural Language Processing.'}, {'key': '9043_CR7', 'unstructured': 'Chiang, D. (2000). Statistical parsing with an automatically-extracted Tree Adjoining Grammar. In Proceedings of the 38th Annual Meeting of the Association for Computational Linguistics (ACL).'}, {'key': '9043_CR8', 'unstructured': 'Collins, M. (1999). Head-driven statistical models for natural language parsing. PhD thesis, University of Pennsylvania.'}, {'key': '9043_CR9', 'unstructured': 'Frank, R. (2002). Phrase structure composition and syntactic dependencies. The MIT Press.'}, {'key': '9043_CR10', 'unstructured': 'Hockenmaier, J., & Steedman, M. (2002). Generative models for statistical parsing with combinatory categorial grammar. In Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics (ACL).'}, {'key': '9043_CR11', 'unstructured': 'Joshi, A. K., Levy, L. S., & Takahashi, M. (1975). Tree adjunct grammars. Journal of Computer and System Sciences, 10(1), 136–163.'}, {'key': '9043_CR12', 'unstructured': 'Joshi, A. K., & Schabes, Y. (1997). Tree-Adjoining Grammars. In G. Rozenberg & A. Salomaa (Eds.), Handbook of formal languages (Vol. 3, pp. 69–124). Springer-Verlag.'}, {'key': '9043_CR13', 'unstructured': 'Joshi, A. K., & Srinivas, B. (1994). Disambiguation of super parts of speech (or Supertags): Almost parsing. In Proceedings of COLING ’94: The 15th Int. Conf. on Computational Linguistics.'}, {'key': '9043_CR14', 'unstructured': 'Kroch, A., & Joshi, A. K. (1985). The linguistic relevance of Tree Adjoining Grammar. Report MS-CIS-85-16. CIS Department, University of Pennsylvania.'}, {'key': '9043_CR15', 'unstructured': 'Magerman, D. (1995). Statistical decision-tree models for parsing. In Proceedings of the 33rd Annual Meeting of the Association for Computational Linguistics.'}, {'issue': '2', 'key': '9043_CR16', 'first-page': '313', 'volume': '19', 'author': 'M. P. Marcus', 'year': '1994', 'unstructured': 'Marcus, M. P., Santorini, B., & Marcinkiewicz, M. A. (1994). Building a large annotated corpus of English: The Penn Treebank. Computational Linguistics, 19(2), 313–330.', 'journal-title': 'Computational Linguistics'}, {'key': '9043_CR17', 'unstructured': 'Palmer, M., Gildea, D., & Kingsbury, P. (2005). The proposition bank: An annotated corpus of semantic roles. Computational Linguistics, 31(1), 71–106.'}, {'issue': '1–3', 'key': '9043_CR18', 'first-page': '11', 'volume': '60', 'author': 'S. Pradhan', 'year': '2005', 'unstructured': 'Pradhan, S., Hacioglu, K., Krugler, V., Ward, W., Martin, J., & Jurafsky, D. (2005). Support vector learning for semantic argument classification. Machine Learning, 60(1–3), 11–39.', 'journal-title': 'Machine Learning'}, {'issue': '1', 'key': '9043_CR19', 'first-page': '89', 'volume': '27', 'author': 'O. Rambow', 'year': '2001', 'unstructured': 'Rambow, O., Weir, D., & Vijay-Shanker, K. (2001). D-Tree substitution grammars. Computational Linguistics, 27(1), 89–121.', 'journal-title': 'Computational Linguistics'}, {'key': '9043_CR20', 'unstructured': 'Sarkar, A., & Joshi, A. K. (1996). Coordination in Tree Adjoining Grammars: Formalization and implementation. In Proceedings of COLING ’96: The 16th Int. Conf. on Computational Linguistics.'}, {'key': '9043_CR21', 'unstructured': 'Schabes, Y., & Waters, R. C. (1995). A cubic-time, parsable formalism that lexicalizes context-free grammar without changing the trees produced. Computational Linguistics, 21(4), 479–513.'}, {'key': '9043_CR22', 'unstructured': 'Shen, L. (2006). Statistical LTAG parsing. PhD Thesis, University of Pennsylvania.'}, {'key': '9043_CR23', 'unstructured': 'Shen, L., & Joshi, A. K. (2005). Incremental LTAG parsing. In Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing.'}, {'key': '9043_CR24', 'unstructured': 'Shen, L., & Joshi, A. K. (2007). Bidirectional LTAG dependency parsing. Technical Report 07-02, IRCS, University of Pennsylvania.'}, {'key': '9043_CR25', 'unstructured': 'Steedman, M. (2000). The syntactic process. The MIT Press.'}, {'key': '9043_CR26', 'unstructured': 'Sturt, P., & Lombardo, V. (2005). Processing coordinated structures: Incrementality and connectedness. Cognitive Science, 29(2), 291–305.'}, {'key': '9043_CR27', 'unstructured': 'Vadas, D., & Curran, J. (2007). Adding noun phrase structure to the Penn Treebank. In Proceedings of the 45th Annual Meeting of the Association for Computational Linguistics (ACL).'}, {'key': '9043_CR28', 'unstructured': 'Xia, F. (2001). Automatic grammar generation from two different perspectives. PhD thesis, University of Pennsylvania.'}, {'key': '9043_CR29', 'unstructured': 'XTAG-Group (2001). A lexicalized tree adjoining grammar for English. Technical Report 01-03, IRCS, University of Pennsylvania.'}, {'key': '9043_CR30', 'unstructured': 'Yi, S. (2007). Robust semantic role labeling using parsing variations and semantic classes. PhD thesis, University of Pennsylvania.'}], 'container-title': ['Language Resources and Evaluation'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s10579-007-9043-7', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 3, 29]], 'date-time': '2013-03-29T19:12:23Z', 'timestamp': 1364584343000}, 'score': 42.84933, 'subtitle': ['A new resource for incremental, dependency and semantic parsing'], 'issued': {'date-parts': [[2007, 10, 20]]}, 'references-count': 30, 'journal-issue': {'published-print': {'date-parts': [[2008, 3]]}, 'issue': '1'}, 'alternative-id': ['9043'], 'URL': 'http://dx.doi.org/10.1007/s10579-007-9043-7', 'relation': {'cites': []}, 'ISSN': ['1574-020X', '1572-8412'], 'issn-type': [{'value': '1574-020X', 'type': 'print'}, {'value': '1572-8412', 'type': 'electronic'}]}
+>>> hash >>> ('LTAG-spinal and the Treebank', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Richard Johansson , Pierre Nugues, The effect of syntactic representation on semantic role labeling, Proceedings of the 22nd International Conference on Computational Linguistics, p.393-400, August 18-22, 2008, Manchester, United Kingdom
+>>> DOI >>> 10.3115/1599081.1599131
+>>> URL >>> http://dx.doi.org/10.3115/1599081.1599131
+>>> year >>> 2008.0
+>>> title >>> The effect of syntactic representation on semantic role labeling
+>>> author >>> Richard Johansson and Pierre Nugues
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 22nd International Conference on Computational Linguistics - COLING '08"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T02:28:30Z', 'timestamp': 1525314510652}, 'publisher-location': 'Morristown, NJ, USA', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'isbn-type': [{'value': '9781905593446', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.3115/1599081.1599131', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T13:44:57Z', 'timestamp': 1271339097000}, 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['The effect of syntactic representation on semantic role labeling'], 'prefix': '10.3115', 'author': [{'given': 'Richard', 'family': 'Johansson', 'sequence': 'first', 'affiliation': []}, {'given': 'Pierre', 'family': 'Nugues', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the 22nd International Conference', 'location': 'Manchester, United Kingdom', 'acronym': "COLING '08", 'number': '22', 'start': {'date-parts': [[2008, 8, 18]]}, 'end': {'date-parts': [[2008, 8, 22]]}}, 'container-title': ["Proceedings of the 22nd International Conference on Computational Linguistics - COLING '08"], 'deposited': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T13:46:31Z', 'timestamp': 1271339191000}, 'score': 96.63447, 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9781905593446'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1599081.1599131'}
+>>> hash >>> ('The effect of syntactic representation on semantic role labeling', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hagen FÃ¼rstenau , Mirella Lapata, Semi-supervised semantic role labeling, Proceedings of the 12th Conference of the European Chapter of the Association for Computational Linguistics, p.220-228, March 30-April 03, 2009, Athens, Greece
+>>> DOI >>> 10.3115/1609067.1609091
+>>> URL >>> http://dx.doi.org/10.3115/1609067.1609091
+>>> year >>> 2009.0
+>>> title >>> Semi-supervised semantic role labeling
+>>> author >>> Hagen Fürstenau and Mirella Lapata
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 12th Conference of the European Chapter of the Association for Computational Linguistics on - EACL '09"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T02:28:36Z', 'timestamp': 1525314516686}, 'publisher-location': 'Morristown, NJ, USA', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.3115/1609067.1609091', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T14:11:22Z', 'timestamp': 1271340682000}, 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['Semi-supervised semantic role labeling'], 'prefix': '10.3115', 'author': [{'given': 'Hagen', 'family': 'Fürstenau', 'sequence': 'first', 'affiliation': []}, {'given': 'Mirella', 'family': 'Lapata', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the 12th Conference of the European Chapter of the Association for Computational Linguistics', 'location': 'Athens, Greece', 'acronym': "EACL '09", 'number': '12', 'start': {'date-parts': [[2009, 3, 30]]}, 'end': {'date-parts': [[2009, 4, 3]]}}, 'container-title': ["Proceedings of the 12th Conference of the European Chapter of the Association for Computational Linguistics on - EACL '09"], 'deposited': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T14:11:40Z', 'timestamp': 1271340700000}, 'score': 82.62329, 'issued': {'date-parts': [[2009]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1609067.1609091'}
+>>> hash >>> ('Semi-supervised semantic role labeling', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hans C. Boas. 2005. Semantic frames as interlingual representations for multilingual lexical databases. International Journal of Lexicography, 18(4):445--478.
+>>> DOI >>> 10.1093/ijl/eci043
+>>> URL >>> http://dx.doi.org/10.1093/ijl/eci043
+>>> year >>> 2005.0
+>>> title >>> Semantic Frames as Interlingual Representations for Multilingual Lexical Databases
+>>> author >>> H. C. Boas
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 25.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Lexicography']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T23:29:43Z', 'timestamp': 1525476583229}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['International Journal of Lexicography'], 'DOI': '10.1093/ijl/eci043', 'type': 'journal-article', 'created': {'date-parts': [[2005, 10, 19]], 'date-time': '2005-10-19T03:38:32Z', 'timestamp': 1129693112000}, 'page': '445-478', 'source': 'Crossref', 'is-referenced-by-count': 25, 'title': ['Semantic Frames as Interlingual Representations for Multilingual Lexical Databases'], 'prefix': '10.1093', 'volume': '18', 'author': [{'given': 'H. C.', 'family': 'Boas', 'sequence': 'first', 'affiliation': []}], 'member': '286', 'published-online': {'date-parts': [[2005, 6, 9]]}, 'container-title': ['International Journal of Lexicography'], 'language': 'en', 'link': [{'URL': 'http://academic.oup.com/ijl/article-pdf/18/4/445/6177462/eci043.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 23]], 'date-time': '2017-08-23T18:21:00Z', 'timestamp': 1503512460000}, 'score': 99.85258, 'issued': {'date-parts': [[2005, 6, 9]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2005, 6, 9]]}, 'issue': '4'}, 'URL': 'http://dx.doi.org/10.1093/ijl/eci043', 'ISSN': ['0950-3846', '1477-4577'], 'issn-type': [{'value': '0950-3846', 'type': 'print'}, {'value': '1477-4577', 'type': 'electronic'}]}
+>>> hash >>> ('Semantic Frames as Interlingual Representations for Multilingual Lexical Databases', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Christiane Fellbaum, editor. 1998. WordNet: An Electronic Database. MIT Press, Cambridge, MA.
+>>> DOI >>> 10.1017/s0142716401221079
+>>> URL >>> http://dx.doi.org/10.1017/s0142716401221079
+>>> year >>> 2001.0
+>>> title >>> WordNet: An electronic lexical database. Christiane Fellbaum (Ed.). Cambridge, MA: MIT Press, 1998. Pp. 423.
+>>> author >>> Peter Oram
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Applied Psycholinguistics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T11:02:33Z', 'timestamp': 1528369353601}, 'reference-count': 0, 'publisher': 'Cambridge University Press (CUP)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Appl. Psycholing.'], 'published-print': {'date-parts': [[2001, 3]]}, 'DOI': '10.1017/s0142716401221079', 'type': 'journal-article', 'created': {'date-parts': [[2002, 11, 14]], 'date-time': '2002-11-14T21:57:02Z', 'timestamp': 1037311022000}, 'page': '131-134', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['WordNet: An electronic lexical database. Christiane Fellbaum (Ed.). Cambridge, MA: MIT Press, 1998. Pp. 423.'], 'prefix': '10.1017', 'volume': '22', 'author': [{'given': 'Peter', 'family': 'Oram', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'container-title': ['Applied Psycholinguistics'], 'deposited': {'date-parts': [[2007, 2, 13]], 'date-time': '2007-02-13T20:56:13Z', 'timestamp': 1171400173000}, 'score': 67.4473, 'issued': {'date-parts': [[2001, 3]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'alternative-id': ['S0142716401221079', '10.1017/S0142716401221079', '0142-7164(200103)22:1&131:WAELDC:PII-S0142-7164(01)22107-9>3.0.CO;2-Y'], 'URL': 'http://dx.doi.org/10.1017/s0142716401221079', 'ISSN': ['0142-7164'], 'issn-type': [{'value': '0142-7164', 'type': 'print'}], 'article-number': 'S0142716401221079'}
+>>> hash >>> ('WordNet: An electronic lexical database. Christiane Fellbaum (Ed.). Cambridge, MA: MIT Press, 1998. Pp. 423.', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sebastian PadÃ³ , Mirella Lapata, Optimal constituent alignment with edge covers for semantic projection, Proceedings of the 21st International Conference on Computational Linguistics and the 44th annual meeting of the Association for Computational Linguistics, p.1161-1168, July 17-18, 2006, Sydney, Australia  [doi>10.3115/1220175.1220321]
+>>> DOI >>> 10.3115/1220175.1220321
+>>> URL >>> http://dx.doi.org/10.3115/1220175.1220321
+>>> year >>> 2006.0
+>>> title >>> Optimal constituent alignment with edge covers for semantic projection
+>>> author >>> Sebastian Padó and Mirella Lapata
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 21st International Conference on Computational Linguistics and the 44th annual meeting of the ACL  - ACL '06"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T16:15:52Z', 'timestamp': 1525364152041}, 'publisher-location': 'Morristown, NJ, USA ', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.3115/1220175.1220321', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T15:10:57Z', 'timestamp': 1178896257000}, 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Optimal constituent alignment with edge covers for semantic projection'], 'prefix': '10.3115', 'author': [{'given': 'Sebastian', 'family': 'Padó', 'sequence': 'first', 'affiliation': []}, {'given': 'Mirella', 'family': 'Lapata', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the 21st International Conference', 'location': 'Sydney, Australia', 'sponsor': ['undetermined'], 'acronym': "ACL '06", 'number': '2006', 'start': {'date-parts': [[2006, 7, 17]]}, 'end': {'date-parts': [[2006, 7, 18]]}}, 'container-title': ["Proceedings of the 21st International Conference on Computational Linguistics and the 44th annual meeting of the ACL  - ACL '06"], 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 117.98826, 'issued': {'date-parts': [[2006]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1220175.1220321'}
+>>> hash >>> ('Optimal constituent alignment with edge covers for semantic projection', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ã˜istein E. Andersen, Julien Nioche, Ted Briscoe, and John Carroll. 2008. The BNC Parsed with RASP4UIMA. In Proceedings of the 6th International Language Resources and Evaluation Conference, pages 865--869, Marrakech, Morocco.
+>>> DOI >>> 10.21474/ijar01/6053
+>>> URL >>> http://dx.doi.org/10.21474/ijar01/6053
+>>> year >>> 2017.0
+>>> title >>> COLORECTAL CANCER IN MARRAKECH TENSIFT ELHAOUZ, EPIDEMIOLOGICAL AND ANATOMOPATHOLOGICAL ASPECTS, ABOUT 2584 CASES IN 19 YEARS.
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Advanced Research']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T14:18:00Z', 'timestamp': 1525789080310}, 'reference-count': 0, 'publisher': 'International Journal Of Advanced Research', 'issue': '12', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IJAR'], 'DOI': '10.21474/ijar01/6053', 'type': 'journal-article', 'created': {'date-parts': [[2018, 1, 15]], 'date-time': '2018-01-15T06:39:10Z', 'timestamp': 1515998350000}, 'page': '1035-1041', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['COLORECTAL CANCER IN MARRAKECH TENSIFT ELHAOUZ, EPIDEMIOLOGICAL AND ANATOMOPATHOLOGICAL ASPECTS, ABOUT 2584 CASES IN 19 YEARS.'], 'prefix': '10.21474', 'volume': '5', 'author': [{'given': 'Khalid', 'family': 'Rabbani', 'sequence': 'first', 'affiliation': []}, {'name': 'Surgical department of Mohamed VI University hospital, Marrakech, Morocco.', 'sequence': 'first', 'affiliation': []}, {'given': 'Jihane', 'family': 'Hakam', 'sequence': 'additional', 'affiliation': []}, {'given': 'Youssef', 'family': 'Narjis', 'sequence': 'additional', 'affiliation': []}, {'given': 'Redouane', 'family': 'Benelkhaiat', 'sequence': 'additional', 'affiliation': []}, {'given': 'Abdelouahed', 'family': 'Louzi', 'sequence': 'additional', 'affiliation': []}, {'given': 'HamidElIdrissi', 'family': 'Dafali', 'sequence': 'additional', 'affiliation': []}, {'given': 'Abdenasser', 'family': 'Finech', 'sequence': 'additional', 'affiliation': []}, {'name': 'Surgical department of Mohamed VI University hospital, Marrakech, Morocco.', 'sequence': 'additional', 'affiliation': []}, {'name': 'Surgical department of Mohamed VI University hospital, Marrakech, Morocco.', 'sequence': 'additional', 'affiliation': []}, {'name': 'Surgical department of Mohamed VI University hospital, Marrakech, Morocco.', 'sequence': 'additional', 'affiliation': []}, {'name': 'Surgical department of Mohamed VI University hospital, Marrakech, Morocco.', 'sequence': 'additional', 'affiliation': []}, {'name': 'Surgical department of Mohamed VI University hospital, Marrakech, Morocco.', 'sequence': 'additional', 'affiliation': []}, {'name': 'Surgical department of Mohamed VI University hospital, Marrakech, Morocco.', 'sequence': 'additional', 'affiliation': []}], 'member': '8913', 'published-online': {'date-parts': [[2017, 12, 31]]}, 'container-title': ['International Journal of Advanced Research'], 'deposited': {'date-parts': [[2018, 1, 15]], 'date-time': '2018-01-15T06:39:11Z', 'timestamp': 1515998351000}, 'score': 33.020245, 'issued': {'date-parts': [[2017, 12, 31]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2017, 12, 31]]}, 'issue': '12'}, 'URL': 'http://dx.doi.org/10.21474/ijar01/6053', 'ISSN': ['2320-5407'], 'issn-type': [{'value': '2320-5407', 'type': 'electronic'}]}
+>>> hash >>> ('COLORECTAL CANCER IN MARRAKECH TENSIFT ELHAOUZ, EPIDEMIOLOGICAL AND ANATOMOPATHOLOGICAL ASPECTS, ABOUT 2584 CASES IN 19 YEARS.', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Rong-En Fan , Kai-Wei Chang , Cho-Jui Hsieh , Xiang-Rui Wang , Chih-Jen Lin, LIBLINEAR: A Library for Large Linear Classification, The Journal of Machine Learning Research, 9, p.1871-1874, 6/1/2008
+>>> DOI >>> 10.1109/icmlc.2008.4621021
+>>> URL >>> http://dx.doi.org/10.1109/icmlc.2008.4621021
+>>> year >>> 2008.0
+>>> title >>> A Choquet integral regression model with a new fuzzy measure based on multiple mutual-information
+>>> author >>> None
+>>> reference_count >>> 7.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['2008 International Conference on Machine Learning and Cybernetics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:04:03Z', 'timestamp': 1525442643981}, 'reference-count': 7, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424420957', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 7]]}, 'DOI': '10.1109/icmlc.2008.4621021', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 9, 16]], 'date-time': '2008-09-16T20:23:47Z', 'timestamp': 1221596627000}, 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['A Choquet integral regression model with a new fuzzy measure based on multiple mutual-information'], 'prefix': '10.1109', 'author': [{'family': 'Hsiang-Chuan Liu', 'sequence': 'first', 'affiliation': []}, {'family': 'Horng-Jinh Chang', 'sequence': 'additional', 'affiliation': []}, {'family': 'Wen-Chih Lin', 'sequence': 'additional', 'affiliation': []}, {'family': 'Kai-Yi Chang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2008 International Conference on Machine Learning and Cybernetics (ICMLC)', 'location': 'Kunming, China', 'start': {'date-parts': [[2008, 7, 12]]}, 'end': {'date-parts': [[2008, 7, 15]]}}, 'container-title': ['2008 International Conference on Machine Learning and Cybernetics'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4604641/4620933/04621021.pdf?arnumber=4621021', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T17:43:27Z', 'timestamp': 1489686207000}, 'score': 42.66548, 'issued': {'date-parts': [[2008, 7]]}, 'ISBN': ['9781424420957'], 'references-count': 7, 'URL': 'http://dx.doi.org/10.1109/icmlc.2008.4621021'}
+>>> hash >>> ('A Choquet integral regression model with a new fuzzy measure based on multiple mutual-information', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ted Briscoe , John Carroll , Rebecca Watson, The second release of the RASP system, Proceedings of the COLING/ACL on Interactive presentation sessions, p.77-80, July 17-18, 2006, Sydney, Australia  [doi>10.3115/1225403.1225423]
+>>> DOI >>> 10.3115/1225403.1225423
+>>> URL >>> http://dx.doi.org/10.3115/1225403.1225423
+>>> year >>> 2006.0
+>>> title >>> The second release of the RASP system
+>>> author >>> Ted Briscoe and John Carroll and Rebecca Watson
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 35.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the COLING/ACL on Interactive presentation sessions  -']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T16:15:52Z', 'timestamp': 1525364152232}, 'publisher-location': 'Morristown, NJ, USA ', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.3115/1225403.1225423', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T15:10:57Z', 'timestamp': 1178896257000}, 'source': 'Crossref', 'is-referenced-by-count': 35, 'title': ['The second release of the RASP system'], 'prefix': '10.3115', 'author': [{'given': 'Ted', 'family': 'Briscoe', 'sequence': 'first', 'affiliation': []}, {'given': 'John', 'family': 'Carroll', 'sequence': 'additional', 'affiliation': []}, {'given': 'Rebecca', 'family': 'Watson', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the COLING/ACL', 'location': 'Sydney, Australia', 'sponsor': ['undetermined'], 'number': '2006', 'start': {'date-parts': [[2006, 7, 17]]}, 'end': {'date-parts': [[2006, 7, 18]]}}, 'container-title': ['Proceedings of the COLING/ACL on Interactive presentation sessions  -'], 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 106.595665, 'issued': {'date-parts': [[2006]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1225403.1225423'}
+>>> hash >>> ('The second release of the RASP system', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Jerome H. Friedman. 1996. Another approach to polychotomous classification. Technical report, Department of Statistics, Stanford University.
+>>> DOI >>> 10.17140/prrmoj-3-127
+>>> URL >>> http://dx.doi.org/10.17140/prrmoj-3-127
+>>> year >>> 2016.0
+>>> title >>> Diagnosis and Management of Spontaneous Pneumothorax in the Emergency Department: A Review of the Most Current Clinical Evidence for Diagnosis and Treatment
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Pulmonary Research and Respiratory Medicine - Open Journal']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 17]], 'date-time': '2018-04-17T11:16:39Z', 'timestamp': 1523963799910}, 'reference-count': 0, 'publisher': 'Openventio Publishers', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pulm Res Respir Med Open J'], 'DOI': '10.17140/prrmoj-3-127', 'type': 'journal-article', 'created': {'date-parts': [[2016, 9, 9]], 'date-time': '2016-09-09T14:08:41Z', 'timestamp': 1473430121000}, 'page': '23-29', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Diagnosis and Management of Spontaneous Pneumothorax in the Emergency Department: A Review of the Most Current Clinical Evidence for Diagnosis and Treatment'], 'prefix': '10.17140', 'volume': '3', 'author': [{'given': 'Ian D.', 'family': 'Chong', 'sequence': 'first', 'affiliation': []}, {'name': 'Department of Emergency Medicine, Stanford University School of Medicine, Stanford, CA, USA and Department of Emergency Medicine, Stanford/Kaiser Emergency Medicine Residency Program, Stanford, CA, USA', 'sequence': 'first', 'affiliation': []}, {'given': 'Alice', 'family': 'Chao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Michelle', 'family': 'Hunter-Behrend', 'sequence': 'additional', 'affiliation': []}, {'given': 'Laleh', 'family': 'Gharahbaghian', 'sequence': 'additional', 'affiliation': []}, {'given': 'Tsuyoshi', 'family': 'Mitarai', 'sequence': 'additional', 'affiliation': []}, {'given': 'Sarah', 'family': 'Williams', 'sequence': 'additional', 'affiliation': []}, {'given': 'Phillips', 'family': 'Perera', 'sequence': 'additional', 'affiliation': []}, {'name': 'Department of Emergency Medicine, Stanford/Kaiser Emergency Medicine Residency Program, Stanford, CA, USA', 'sequence': 'additional', 'affiliation': []}, {'name': 'Department of Emergency Medicine, Stanford University School of Medicine, Stanford, CA, USA', 'sequence': 'additional', 'affiliation': []}, {'name': 'Department of Emergency Medicine, Stanford University School of Medicine, Stanford, CA, USA', 'sequence': 'additional', 'affiliation': []}, {'name': 'Department of Emergency Medicine, Stanford University School of Medicine, Stanford, CA, USA', 'sequence': 'additional', 'affiliation': []}, {'name': 'Department of Emergency Medicine, Stanford University School of Medicine, Stanford, CA, USA', 'sequence': 'additional', 'affiliation': []}, {'name': 'Department of Emergency Medicine, Stanford University School of Medicine, Stanford, CA, USA', 'sequence': 'additional', 'affiliation': []}], 'member': '6707', 'published-online': {'date-parts': [[2016, 9, 9]]}, 'container-title': ['Pulmonary Research and Respiratory Medicine - Open Journal'], 'deposited': {'date-parts': [[2016, 9, 9]], 'date-time': '2016-09-09T14:08:42Z', 'timestamp': 1473430122000}, 'score': 28.481556, 'issued': {'date-parts': [[2016, 9, 9]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2016, 9, 9]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.17140/prrmoj-3-127', 'ISSN': ['2377-1658'], 'issn-type': [{'value': '2377-1658', 'type': 'electronic'}]}
+>>> hash >>> ('Diagnosis and Management of Spontaneous Pneumothorax in the Emergency Department: A Review of the Most Current Clinical Evidence for Diagnosis and Treatment', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Gabor Melli, Yang Wang, Yurdong Liu, Mehdi M. Kashani, Zhongmin Shi, Baohua Gu, Anoop Sarkar, and Fred Popowich. 2005. Description of SQUASH, the SFU question answering summary handler for the duc-2005 summarization task. In Proceedings of the HLT/EMNLP Document Understanding Workshop, Vancouver, Canada.
+>>> DOI >>> 10.3115/1654679.1654689
+>>> URL >>> http://dx.doi.org/10.3115/1654679.1654689
+>>> year >>> 2006.0
+>>> title >>> DUC 2005
+>>> author >>> Hoa Trang Dang
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the Workshop on Task-Focused Summarization and Question Answering - SumQA '06"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T02:29:10Z', 'timestamp': 1525314550858}, 'publisher-location': 'Morristown, NJ, USA', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'isbn-type': [{'value': '1932432795', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.3115/1654679.1654689', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T15:24:14Z', 'timestamp': 1271345054000}, 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['DUC 2005'], 'prefix': '10.3115', 'author': [{'given': 'Hoa Trang', 'family': 'Dang', 'sequence': 'first', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the Workshop', 'location': 'Sydney, Australia', 'acronym': "SumQA '06", 'number': '2006', 'start': {'date-parts': [[2006, 7, 23]]}, 'end': {'date-parts': [[2006, 7, 23]]}}, 'container-title': ["Proceedings of the Workshop on Task-Focused Summarization and Question Answering - SumQA '06"], 'deposited': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T15:25:20Z', 'timestamp': 1271345120000}, 'score': 66.230255, 'subtitle': ['evaluation of question-focused summarization systems'], 'issued': {'date-parts': [[2006]]}, 'ISBN': ['1932432795'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1654679.1654689'}
+>>> hash >>> ('DUC 2005', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Srini Narayanan , Sanda Harabagiu, Question answering based on semantic structures, Proceedings of the 20th international conference on Computational Linguistics, p.693-es, August 23-27, 2004, Geneva, Switzerland  [doi>10.3115/1220355.1220455]
+>>> DOI >>> 10.3115/1220355.1220455
+>>> URL >>> http://dx.doi.org/10.3115/1220355.1220455
+>>> year >>> 2004.0
+>>> title >>> Question answering based on semantic structures
+>>> author >>> Srini Narayanan and Sanda Harabagiu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 21.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 20th international conference on Computational Linguistics  - COLING '04"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T16:16:17Z', 'timestamp': 1525364177183}, 'publisher-location': 'Morristown, NJ, USA ', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.3115/1220355.1220455', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T15:26:05Z', 'timestamp': 1178897165000}, 'source': 'Crossref', 'is-referenced-by-count': 21, 'title': ['Question answering based on semantic structures'], 'prefix': '10.3115', 'author': [{'given': 'Srini', 'family': 'Narayanan', 'sequence': 'first', 'affiliation': []}, {'given': 'Sanda', 'family': 'Harabagiu', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the 20th international conference', 'location': 'Geneva, Switzerland', 'sponsor': ['undetermined'], 'acronym': "COLING '04", 'number': '20', 'start': {'date-parts': [[2004, 8, 23]]}, 'end': {'date-parts': [[2004, 8, 27]]}}, 'container-title': ["Proceedings of the 20th international conference on Computational Linguistics  - COLING '04"], 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 90.17078, 'issued': {'date-parts': [[2004]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1220355.1220455'}
+>>> hash >>> ('Question answering based on semantic structures', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Marco Pennacchiotti , Diego De Cao , Roberto Basili , Danilo Croce , Michael Roth, Automatic induction of FrameNet lexical units, Proceedings of the Conference on Empirical Methods in Natural Language Processing, October 25-27, 2008, Honolulu, Hawaii
+>>> DOI >>> 10.3115/1613715.1613773
+>>> URL >>> http://dx.doi.org/10.3115/1613715.1613773
+>>> year >>> 2008.0
+>>> title >>> Automatic induction of FrameNet lexical units
+>>> author >>> Marco Pennacchiotti and Diego De Cao and Roberto Basili and Danilo Croce and Michael Roth
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the Conference on Empirical Methods in Natural Language Processing - EMNLP '08"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T02:28:45Z', 'timestamp': 1525314525948}, 'publisher-location': 'Morristown, NJ, USA', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.3115/1613715.1613773', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T14:22:52Z', 'timestamp': 1271341372000}, 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['Automatic induction of FrameNet lexical units'], 'prefix': '10.3115', 'author': [{'given': 'Marco', 'family': 'Pennacchiotti', 'sequence': 'first', 'affiliation': []}, {'given': 'Diego', 'family': 'De Cao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Roberto', 'family': 'Basili', 'sequence': 'additional', 'affiliation': []}, {'given': 'Danilo', 'family': 'Croce', 'sequence': 'additional', 'affiliation': []}, {'given': 'Michael', 'family': 'Roth', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the Conference', 'location': 'Honolulu, Hawaii', 'acronym': "EMNLP '08", 'number': '2008', 'start': {'date-parts': [[2008, 10, 25]]}, 'end': {'date-parts': [[2008, 10, 27]]}}, 'container-title': ["Proceedings of the Conference on Empirical Methods in Natural Language Processing - EMNLP '08"], 'deposited': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T14:23:27Z', 'timestamp': 1271341407000}, 'score': 116.00249, 'issued': {'date-parts': [[2008]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1613715.1613773'}
+>>> hash >>> ('Automatic induction of FrameNet lexical units', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Richard Johansson , Pierre Nugues, A FrameNet-based semantic role labeler for Swedish, Proceedings of the COLING/ACL on Main conference poster sessions, p.436-443, July 17-18, 2006, Sydney, Australia
+>>> DOI >>> 10.3115/1273073.1273130
+>>> URL >>> http://dx.doi.org/10.3115/1273073.1273130
+>>> year >>> 2006.0
+>>> title >>> A FrameNet-based semantic role labeler for Swedish
+>>> author >>> Richard Johansson and Pierre Nugues
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the COLING/ACL on Main conference poster sessions -']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T02:28:11Z', 'timestamp': 1525314491468}, 'publisher-location': 'Morristown, NJ, USA', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.3115/1273073.1273130', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T13:12:54Z', 'timestamp': 1271337174000}, 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['A FrameNet-based semantic role labeler for Swedish'], 'prefix': '10.3115', 'author': [{'given': 'Richard', 'family': 'Johansson', 'sequence': 'first', 'affiliation': []}, {'given': 'Pierre', 'family': 'Nugues', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the COLING/ACL', 'location': 'Sydney, Australia', 'number': '2006', 'start': {'date-parts': [[2006, 7, 17]]}, 'end': {'date-parts': [[2006, 7, 18]]}}, 'container-title': ['Proceedings of the COLING/ACL on Main conference poster sessions -'], 'deposited': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T13:13:42Z', 'timestamp': 1271337222000}, 'score': 133.42793, 'issued': {'date-parts': [[2006]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1273073.1273130'}
+>>> hash >>> ('A FrameNet-based semantic role labeler for Swedish', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Collin Baker , Michael Ellsworth , Katrin Erk, SemEval'07 task 19: frame semantic structure extraction, Proceedings of the 4th International Workshop on Semantic Evaluations, p.99-104, June 23-24, 2007, Prague, Czech Republic
+>>> DOI >>> 10.3115/1621474.1621492
+>>> URL >>> http://dx.doi.org/10.3115/1621474.1621492
+>>> year >>> 2007.0
+>>> title >>> SemEval'07 task 19
+>>> author >>> Collin Baker and Michael Ellsworth and Katrin Erk
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 4th International Workshop on Semantic Evaluations - SemEval '07"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T02:28:58Z', 'timestamp': 1525314538722}, 'publisher-location': 'Morristown, NJ, USA', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.3115/1621474.1621492', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T15:05:14Z', 'timestamp': 1271343914000}, 'source': 'Crossref', 'is-referenced-by-count': 8, 'title': ["SemEval'07 task 19"], 'prefix': '10.3115', 'author': [{'given': 'Collin', 'family': 'Baker', 'sequence': 'first', 'affiliation': []}, {'given': 'Michael', 'family': 'Ellsworth', 'sequence': 'additional', 'affiliation': []}, {'given': 'Katrin', 'family': 'Erk', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the 4th International Workshop', 'location': 'Prague, Czech Republic', 'acronym': "SemEval '07", 'number': '4', 'start': {'date-parts': [[2007, 6, 23]]}, 'end': {'date-parts': [[2007, 6, 24]]}}, 'container-title': ["Proceedings of the 4th International Workshop on Semantic Evaluations - SemEval '07"], 'deposited': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T15:06:12Z', 'timestamp': 1271343972000}, 'score': 134.41522, 'subtitle': ['frame semantic structure extraction'], 'issued': {'date-parts': [[2007]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1621474.1621492'}
+>>> hash >>> ("SemEval'07 task 19", 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Gunnar W. Klau. 2009. A new graph-based method for pairwise global network alignment. BMC Bioinformatics, 10 (Suppl 1).
+>>> DOI >>> 10.1186/1471-2105-10-s1-s59
+>>> URL >>> http://dx.doi.org/10.1186/1471-2105-10-s1-s59
+>>> year >>> 2009.0
+>>> title >>> A new graph-based method for pairwise global network alignment
+>>> author >>> Gunnar W Klau
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 76.0
+>>> subject >>> None
+>>> container_title >>> ['BMC Bioinformatics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T19:44:54Z', 'timestamp': 1525463094110}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': 'Suppl 1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['BMC Bioinformatics'], 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1186/1471-2105-10-s1-s59', 'type': 'journal-article', 'created': {'date-parts': [[2009, 1, 30]], 'date-time': '2009-01-30T20:05:18Z', 'timestamp': 1233345918000}, 'page': 'S59', 'source': 'Crossref', 'is-referenced-by-count': 76, 'title': ['A new graph-based method for pairwise global network alignment'], 'prefix': '10.1186', 'volume': '10', 'author': [{'given': 'Gunnar W', 'family': 'Klau', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['BMC Bioinformatics'], 'language': 'en', 'deposited': {'date-parts': [[2011, 6, 3]], 'date-time': '2011-06-03T09:20:46Z', 'timestamp': 1307092846000}, 'score': 98.81122, 'issued': {'date-parts': [[2009]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2009]]}, 'issue': 'Suppl 1'}, 'alternative-id': ['1471-2105-10-S1-S59'], 'URL': 'http://dx.doi.org/10.1186/1471-2105-10-s1-s59', 'ISSN': ['1471-2105'], 'issn-type': [{'value': '1471-2105', 'type': 'print'}]}
+>>> hash >>> ('A new graph-based method for pairwise global network alignment', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. Noreen. 1989. Computer-intensive Methods for Testing Hypotheses: An Introduction. John Wiley and Sons Inc.
+>>> DOI >>> 10.2307/1270131
+>>> URL >>> http://dx.doi.org/10.2307/1270131
+>>> year >>> 1990.0
+>>> title >>> Computer Intensive Methods for Testing Hypotheses: An Introduction
+>>> author >>> Russell V. Lenth and Eric W. Noreen
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Technometrics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T21:41:10Z', 'timestamp': 1525815670256}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Technometrics'], 'published-print': {'date-parts': [[1990, 11]]}, 'DOI': '10.2307/1270131', 'type': 'journal-article', 'created': {'date-parts': [[2006, 5, 9]], 'date-time': '2006-05-09T16:09:10Z', 'timestamp': 1147190950000}, 'page': '453', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Computer Intensive Methods for Testing Hypotheses: An Introduction'], 'prefix': '10.2307', 'volume': '32', 'author': [{'given': 'Russell V.', 'family': 'Lenth', 'sequence': 'first', 'affiliation': []}, {'given': 'Eric W.', 'family': 'Noreen', 'sequence': 'additional', 'affiliation': []}], 'member': '1121', 'container-title': ['Technometrics'], 'deposited': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T21:05:20Z', 'timestamp': 1525813520000}, 'score': 48.66696, 'issued': {'date-parts': [[1990, 11]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1990, 11]]}, 'issue': '4'}, 'URL': 'http://dx.doi.org/10.2307/1270131', 'ISSN': ['0040-1706'], 'issn-type': [{'value': '0040-1706', 'type': 'print'}]}
+>>> hash >>> ('Computer Intensive Methods for Testing Hypotheses: An Introduction', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Aljoscha Burchardt, Katrin Erk, and Anette Frank. 2005. A WordNet Detour to FrameNet. In Proceedings of the GLDV200 Workshop GermaNet II, Bonn, Germany.
+>>> DOI >>> 10.3115/1698381.1698402
+>>> URL >>> http://dx.doi.org/10.3115/1698381.1698402
+>>> year >>> 2009.0
+>>> title >>> WordNet and FrameNet as complementary resources for annotation
+>>> author >>> Collin F. Baker and Christiane Fellbaum
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the Third Linguistic Annotation Workshop on - ACL-IJCNLP '09"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T02:29:16Z', 'timestamp': 1525314556603}, 'publisher-location': 'Morristown, NJ, USA', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'isbn-type': [{'value': '9781932432527', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.3115/1698381.1698402', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T15:36:39Z', 'timestamp': 1271345799000}, 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['WordNet and FrameNet as complementary resources for annotation'], 'prefix': '10.3115', 'author': [{'given': 'Collin F.', 'family': 'Baker', 'sequence': 'first', 'affiliation': []}, {'given': 'Christiane', 'family': 'Fellbaum', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the Third Linguistic Annotation Workshop', 'location': 'Suntec, Singapore', 'acronym': "ACL-IJCNLP '09", 'number': '3', 'start': {'date-parts': [[2009, 8, 6]]}, 'end': {'date-parts': [[2009, 8, 7]]}}, 'container-title': ["Proceedings of the Third Linguistic Annotation Workshop on - ACL-IJCNLP '09"], 'deposited': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T15:39:21Z', 'timestamp': 1271345961000}, 'score': 32.770782, 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781932432527'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1698381.1698402'}
+>>> hash >>> ('WordNet and FrameNet as complementary resources for annotation', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. Keenan and B. Comrie. 1977. Noun phrase accessibility and universal grammar. Linguistic Inquiry, 8:62--100.
+>>> DOI >>> 10.2307/413321
+>>> URL >>> http://dx.doi.org/10.2307/413321
+>>> year >>> 1979.0
+>>> title >>> Noun Phrase Accessibility Revisited
+>>> author >>> Bernard Comrie and Edward L. Keenan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 21.0
+>>> subject >>> None
+>>> container_title >>> ['Language']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T22:14:14Z', 'timestamp': 1525299254261}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Language'], 'published-print': {'date-parts': [[1979, 9]]}, 'DOI': '10.2307/413321', 'type': 'journal-article', 'created': {'date-parts': [[2006, 5, 11]], 'date-time': '2006-05-11T14:57:42Z', 'timestamp': 1147359462000}, 'page': '649', 'source': 'Crossref', 'is-referenced-by-count': 21, 'title': ['Noun Phrase Accessibility Revisited'], 'prefix': '10.2307', 'volume': '55', 'author': [{'given': 'Bernard', 'family': 'Comrie', 'sequence': 'first', 'affiliation': []}, {'given': 'Edward L.', 'family': 'Keenan', 'sequence': 'additional', 'affiliation': []}], 'member': '1121', 'container-title': ['Language'], 'deposited': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T13:04:21Z', 'timestamp': 1524056661000}, 'score': 57.860016, 'issued': {'date-parts': [[1979, 9]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1979, 9]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.2307/413321', 'ISSN': ['0097-8507'], 'issn-type': [{'value': '0097-8507', 'type': 'print'}]}
+>>> hash >>> ('Noun Phrase Accessibility Revisited', 1979.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Richard Johansson and Pierre Nugues. 2007. Using WordNet to extend FrameNet coverage. In Richard Johansson and Pierre Nugues, editors, FRAME 2007: Building Frame Semantics Resources for Scandinavian and Baltic Languages, pages 27--30, Tartu, Estonia.
+>>> DOI >>> 10.3115/1621474.1621522
+>>> URL >>> http://dx.doi.org/10.3115/1621474.1621522
+>>> year >>> 2007.0
+>>> title >>> LTH
+>>> author >>> Richard Johansson and Pierre Nugues
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 12.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 4th International Workshop on Semantic Evaluations - SemEval '07"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T02:29:01Z', 'timestamp': 1525314541440}, 'publisher-location': 'Morristown, NJ, USA', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.3115/1621474.1621522', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T15:05:14Z', 'timestamp': 1271343914000}, 'source': 'Crossref', 'is-referenced-by-count': 12, 'title': ['LTH'], 'prefix': '10.3115', 'author': [{'given': 'Richard', 'family': 'Johansson', 'sequence': 'first', 'affiliation': []}, {'given': 'Pierre', 'family': 'Nugues', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the 4th International Workshop', 'location': 'Prague, Czech Republic', 'acronym': "SemEval '07", 'number': '4', 'start': {'date-parts': [[2007, 6, 23]]}, 'end': {'date-parts': [[2007, 6, 24]]}}, 'container-title': ["Proceedings of the 4th International Workshop on Semantic Evaluations - SemEval '07"], 'deposited': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T15:08:54Z', 'timestamp': 1271344134000}, 'score': 58.39997, 'subtitle': ['semantic structure extraction using nonprojective dependency trees'], 'issued': {'date-parts': [[2007]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1621474.1621522'}
+>>> hash >>> ('LTH', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. H. Land and A. G. Doig. 1960. An automatic method for solving discrete programming problems. Econometrica, 28:497--520.
+>>> DOI >>> 10.2307/1910129
+>>> URL >>> http://dx.doi.org/10.2307/1910129
+>>> year >>> 1960.0
+>>> title >>> An Automatic Method of Solving Discrete Programming Problems
+>>> author >>> A. H. Land and A. G. Doig
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 785.0
+>>> subject >>> None
+>>> container_title >>> ['Econometrica']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database129.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T06:22:30Z', 'timestamp': 1528352550950}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Econometrica'], 'published-print': {'date-parts': [[1960, 7]]}, 'DOI': '10.2307/1910129', 'type': 'journal-article', 'created': {'date-parts': [[2006, 7, 5]], 'date-time': '2006-07-05T16:34:46Z', 'timestamp': 1152117286000}, 'page': '497', 'source': 'Crossref', 'is-referenced-by-count': 785, 'title': ['An Automatic Method of Solving Discrete Programming Problems'], 'prefix': '10.2307', 'volume': '28', 'author': [{'given': 'A. H.', 'family': 'Land', 'sequence': 'first', 'affiliation': []}, {'given': 'A. G.', 'family': 'Doig', 'sequence': 'additional', 'affiliation': []}], 'member': '1121', 'container-title': ['Econometrica'], 'deposited': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T08:05:12Z', 'timestamp': 1524038712000}, 'score': 89.27935, 'issued': {'date-parts': [[1960, 7]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1960, 7]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.2307/1910129', 'ISSN': ['0012-9682'], 'issn-type': [{'value': '0012-9682', 'type': 'print'}]}
+>>> hash >>> ('An Automatic Method of Solving Discrete Programming Problems', 1960.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

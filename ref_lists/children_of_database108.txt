@@ -1,0 +1,433 @@
+>>> NEW PAPER <<<
+>>> citation >>> The Lehigh University Benchmark: http://swat.cse.lehigh.edu/projects/lubm
+>>> DOI >>> 10.1057/9780230360341.0191
+>>> URL >>> http://dx.doi.org/10.1057/9780230360341.0191
+>>> year >>> None
+>>> title >>> Lehigh University
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['The Shakespeare First Folios: A Descriptive Catalogue']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T00:38:16Z', 'timestamp': 1525739896520}, 'reference-count': 0, 'publisher': 'Palgrave Macmillan', 'isbn-type': [{'value': '9780230360341', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1057/9780230360341.0191', 'type': 'book-chapter', 'created': {'date-parts': [[2013, 10, 15]], 'date-time': '2013-10-15T13:12:30Z', 'timestamp': 1381842750000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Lehigh University'], 'prefix': '10.1057', 'member': '297', 'container-title': ['The Shakespeare First Folios: A Descriptive Catalogue'], 'deposited': {'date-parts': [[2013, 10, 15]], 'date-time': '2013-10-15T13:21:55Z', 'timestamp': 1381843315000}, 'score': 40.972717, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9780230360341'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1057/9780230360341.0191'}
+>>> hash >>> ('Lehigh University', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Karypis, G., Kumar, V.: A fast and high quality multilevel scheme for partitioning irregular graphs. SIAM Journal on Scientific Computing 20, 359â€“392 (1999)
+>>> DOI >>> 10.1137/s1064827595287997
+>>> URL >>> http://dx.doi.org/10.1137/s1064827595287997
+>>> year >>> 1998.0
+>>> title >>> A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs
+>>> author >>> George Karypis and Vipin Kumar
+>>> reference_count >>> 20.0
+>>> is_referenced_by_count >>> 1680.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Scientific Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T17:22:39Z', 'timestamp': 1528305759068}, 'reference-count': 20, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Sci. Comput.'], 'published-print': {'date-parts': [[1998, 1]]}, 'DOI': '10.1137/s1064827595287997', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 11]], 'date-time': '2003-06-11T15:12:06Z', 'timestamp': 1055344326000}, 'page': '359-392', 'source': 'Crossref', 'is-referenced-by-count': 1680, 'title': ['A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs'], 'prefix': '10.1137', 'volume': '20', 'author': [{'given': 'George', 'family': 'Karypis', 'sequence': 'first', 'affiliation': []}, {'given': 'Vipin', 'family': 'Kumar', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Scientific Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/S1064827595287997', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T16:16:31Z', 'timestamp': 1485706591000}, 'score': 93.06485, 'issued': {'date-parts': [[1998, 1]]}, 'references-count': 20, 'journal-issue': {'published-print': {'date-parts': [[1998, 1]]}, 'issue': '1'}, 'alternative-id': ['10.1137/S1064827595287997'], 'URL': 'http://dx.doi.org/10.1137/s1064827595287997', 'ISSN': ['1064-8275', '1095-7197'], 'issn-type': [{'value': '1064-8275', 'type': 'print'}, {'value': '1095-7197', 'type': 'electronic'}]}
+>>> hash >>> ('A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Wilkinson, K., Sayers, C., Kuno, H., Reynolds, D.: Efficient RDF storage and retrieval in Jena2. In: Proceedings of SWDB, vol. 3, pp. 7â€“8 (2003)
+>>> DOI >>> 10.1007/978-3-540-92673-3_22
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-92673-3_22
+>>> year >>> 2009.0
+>>> title >>> RDF Storage and Retrieval Systems
+>>> author >>> Alice Hertel and Jeen Broekstra and Heiner Stuckenschmidt
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['Handbook on Ontologies']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T05:42:27Z', 'timestamp': 1528177347783}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 27, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540709992', 'type': 'print'}, {'value': '9783540926733', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2009, 1, 1]], 'date-time': '2009-01-01T00:00:00Z', 'timestamp': 1230768000000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1007/978-3-540-92673-3_22', 'type': 'book-chapter', 'created': {'date-parts': [[2009, 12, 18]], 'date-time': '2009-12-18T23:50:54Z', 'timestamp': 1261180254000}, 'page': '489-508', 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['RDF Storage and Retrieval Systems'], 'prefix': '10.1007', 'author': [{'given': 'Alice', 'family': 'Hertel', 'sequence': 'first', 'affiliation': []}, {'given': 'Jeen', 'family': 'Broekstra', 'sequence': 'additional', 'affiliation': []}, {'given': 'Heiner', 'family': 'Stuckenschmidt', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2009, 5, 22]]}, 'reference': [{'key': '22_CR1', 'unstructured': 'Broekstra J (2005) Storage, querying and inferencing for Semantic Web languages. PhD Thesis, Vrije Universiteit, Amsterdam.'}, {'key': '22_CR2', 'unstructured': 'Agrawal R, Somani A, Xu Y (2001) Storage and querying of e-commerce data. In: Proceedings of the 27th Conference on Very Large Data Bases, VLDB 2001, Roma, Italy.'}, {'key': '22_CR3', 'unstructured': 'Oldakowski R, Bizer C, Westphal D (2005) RAP: RDF API for PHP. In: Proceedings of Workshop on Scripting for the Semantic Web, SFSW 2005, at 2nd European Semantic Web Conference, ESWC 2005, Heraklion, Greece.'}, {'key': '22_CR4', 'author': 'Harris S, Gibbins N (2003) 3store: Efficient bulk RDF storage. In: Proceedings of the 1st International Workshop on Practical and Scalable Semantic Systems, PSSS', 'year': '2003', 'unstructured': 'Harris S, Gibbins N (2003) 3store: Efficient bulk RDF storage. In: Proceedings of the 1st International Workshop on Practical and Scalable Semantic Systems, PSSS 2003, Sanibel Island, FL, USA.', 'volume-title': 'Sanibel Island'}, {'key': '22_CR5', 'unstructured': 'Jena2 database interface – database layout. \n                    http://jena.sourceforge.net/DB/layout.html\n                    \n                  .'}, {'key': '22_CR6', 'unstructured': 'Gabel T, Sure Y, Voelker J (2004) KAON – An overview. Insititute AIFB, University of Karlsruhe. \n                    http://kaon.semanticweb.org/main_kaonOverview.pdf\n                    \n                  .'}, {'key': '22_CR7', 'unstructured': 'Pan Z, Heflin J (2004) DLDB: Extending relational databases to support Semantic Web queries. Technical Report LU-CSE-04-006, Department of Computer Science and Engineering, Lehigh University.'}, {'key': '22_CR8', 'unstructured': 'Alexaki S, Christophides V, Karvounarakis G, Plexousakis D, Tolle K (2001) The ICS-FORTH RDFSuite: Managing voluminous RDF description bases. In: Proceedings of the 2nd International Workshop on the Semantic Web, Hongkong.'}, {'key': '22_CR9', 'unstructured': 'Caroll J, Bizer C, Hayes P, Stickler P (2004) Semantic Web publishing using named graphs. In: Proceedings of Workshop on Trust, Security, and Reputation on the Semantic Web, at the 3rd International Semantic Web Conference, ISWC 2004, Hiroshima, Japan.'}, {'key': '22_CR10', 'unstructured': 'Theoharis Y, Christophides V, Karvounarakis G (2005) Benchmarking database representations of RDF/S stores. In: Proceedings of the 4th International Semantic Web Conference, ISWC 2005, Galway, Ireland.', 'DOI': '10.1007/11574620_49', 'doi-asserted-by': 'publisher'}, {'issue': '2', 'key': '22_CR11', 'doi-asserted-by': 'publisher', 'first-page': '158', 'DOI': '10.1016/j.websem.2005.06.005', 'volume': '3', 'author': 'Y Guo', 'year': '2005', 'unstructured': 'Guo Y, Pan Z, Heflin J (2005) LUBM: A benchmark for OWL knowledge base systems. Journal of Web Semantics 3(2):158–182.', 'journal-title': 'Journal of Web Semantics'}, {'key': '22_CR12', 'unstructured': 'RDF semantics – W3C recommendation. \n                    http://www.w3.org/TR/rdf-mt\n                    \n                  .'}, {'issue': '3', 'key': '22_CR13', 'doi-asserted-by': 'publisher', 'first-page': '351', 'DOI': '10.1007/s10817-007-9080-3', 'volume': '39', 'author': 'U Hustadt', 'year': '2007', 'unstructured': 'Hustadt U, Motik B, Sattler U (2007) Reasoning in description logics by a reduction to disjunctive datalog. Journal of Automated Reasoning 39(3):351–384.', 'journal-title': 'Journal of Automated Reasoning'}, {'key': '22_CR14', 'author': 'Kiryakov A, Ognyanov D, Manov D (2005) OWLIM: A pragmatic semantic repository for OWL. In: Proceedings of the International Workshop on Scalable Semantic Web Knowledge Base Systems, SSWS', 'year': '2005', 'unstructured': 'Kiryakov A, Ognyanov D, Manov D (2005) OWLIM: A pragmatic semantic repository for OWL. In: Proceedings of the International Workshop on Scalable Semantic Web Knowledge Base Systems, SSWS 2005, WISE 2005, New York City, NY, USA.', 'volume-title': 'WISE 2005'}, {'key': '22_CR15', 'unstructured': 'ter Horst H (2005) Combining RDF and part of OWL with rules: Semantics, decidability, complexity. In: Proceedings of the 4th International Semantic Web Conference, ISWC 2005, Galway, Ireland.', 'DOI': '10.1007/11574620_48', 'doi-asserted-by': 'publisher'}, {'key': '22_CR16', 'doi-asserted-by': 'publisher', 'first-page': '79', 'DOI': '10.1016/j.websem.2005.06.001', 'volume': '3', 'author': 'H Horst ter', 'year': '2005', 'unstructured': 'ter Horst H (2005) Completeness, decidability and complexity of entailment for RDF Schema and a semantic extension involving the OWL vocabulary. Journal of Web Semantics 3:79–15.', 'journal-title': 'Journal of Web Semantics'}, {'key': '22_CR17', 'unstructured': 'Munoz J, Perez C, Gutierrez C (2007) Minimal deductive systems for RDF. In: Proceedings of the 4th European Semantic Web Conference, ESWC 2007, Innsbruck, Austria.'}, {'key': '22_CR19', 'unstructured': 'Bernstein A, Kiefer C (2005) iRDQL – Imprecise queries using similarity joins for retrieval in ontologies. In: Proceedings of the 4th International Semantic Web Conference, ISWC 2005, Galway, Ireland.'}, {'key': '22_CR20', 'author': 'Siberski W, Pan J, Thaden U (2006) Querying the Semantic Web with preferences. In: Proceedings of the 5th International Semantic Web Conference, ISWC', 'year': '2006', 'unstructured': 'Siberski W, Pan J, Thaden U (2006) Querying the Semantic Web with preferences. In: Proceedings of the 5th International Semantic Web Conference, ISWC 2006, Athens, GA, USA.', 'volume-title': 'Athens'}, {'key': '22_CR21', 'first-page': '207', 'volume': '19', 'author': 'C Gutierrez', 'year': '2007', 'unstructured': 'Gutierrez C, Hurtado C, Vaisman A (2007) Introducing time into RDF. IEEE Transactions on Knowledge and Data Engineering, Special Issue on Knowledge and Data Engineering in the Semantic Web Era 19:207–218.', 'journal-title': 'IEEE Transactions on Knowledge and Data Engineering, Special Issue on Knowledge and Data Engineering in the Semantic Web Era'}, {'key': '22_CR22', 'author': 'Hurtado C, Poulovassilis A, Wood P (2006) A relaxed approach to RDF querying. In: Proceedings of the 5th International Semantic Web Conference, ISWC', 'year': '2006', 'unstructured': 'Hurtado C, Poulovassilis A, Wood P (2006) A relaxed approach to RDF querying. In: Proceedings of the 5th International Semantic Web Conference, ISWC 2006, Athens, GA, USA.', 'volume-title': 'Athens'}, {'key': '22_CR23', 'author': 'Bechhofer S, Lord P, Volz R (2003) Cooking the Semantic Web with the OWL API. In: Proceedings of the 2nd International Semantic Web Conference, ISWC', 'year': '2003', 'unstructured': 'Bechhofer S, Lord P, Volz R (2003) Cooking the Semantic Web with the OWL API. In: Proceedings of the 2nd International Semantic Web Conference, ISWC 2003, Sanibel Island, FL, USA.', 'volume-title': 'Sanibel Island'}, {'key': '22_CR24', 'unstructured': 'Prud’hommeaux E, Seaborne A (2006) SPARQL query language for RDF. W3C Candidate Recommendation. \n                    http://www.w3.org/TR/rdf-sparql-query\n                    \n                  .'}, {'key': '22_CR25', 'unstructured': 'Karvounarakis G, Christophides V, Plexousakis D, Alexaki S (2000) Querying community web portals. Techreport, Institute of Computer Science, FORTH, Heraklion, Greece. \n                    http://www.ics.forth.gr/proj/isst/RDF/RQL/rql.pdf\n                    \n                  .'}, {'key': '22_CR26', 'unstructured': 'Seaborne A (2004) RDQL – A query language for RDF. W3C Member Submission. \n                    http://www.w3.org/Submission/2004/SUBM-RDQL-20040109\n                    \n                  .'}, {'key': '22_CR27', 'author': 'Perez J, Arenas M, Gutierrez C (2006) The semantics and complexity of SPARQL. In: Proceedings of the 5th International Semantic Web Conference, ISWC', 'year': '2006', 'unstructured': 'Perez J, Arenas M, Gutierrez C (2006) The semantics and complexity of SPARQL. In: Proceedings of the 5th International Semantic Web Conference, ISWC 2006, Athens, Georgia, USA.', 'volume-title': 'Athens'}, {'key': '22_CR28', 'unstructured': 'Haase P, Broekstra J, Eberhart A, Volz R (2004) A comparison of RDF query languages. In: Proceedings of the 3rd International Semantic Web Conference, ISWC 2004, Hiroshima, Japan.', 'DOI': '10.1007/978-3-540-30475-3_35', 'doi-asserted-by': 'publisher'}], 'container-title': ['Handbook on Ontologies'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-540-92673-3_22', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 4, 18]], 'date-time': '2017-04-18T03:37:48Z', 'timestamp': 1492486668000}, 'score': 27.900959, 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9783540709992', '9783540926733'], 'references-count': 27, 'URL': 'http://dx.doi.org/10.1007/978-3-540-92673-3_22', 'relation': {'cites': []}}
+>>> hash >>> ('RDF Storage and Retrieval Systems', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Neumann, T., Weikum, G.: Scalable join processing on very large RDF graphs. In: SIGMOD Conference, pp. 627â€“640 (2009)
+>>> DOI >>> 10.1145/1559845.1559911
+>>> URL >>> http://dx.doi.org/10.1145/1559845.1559911
+>>> year >>> 2009.0
+>>> title >>> Scalable join processing on very large RDF graphs
+>>> author >>> Thomas Neumann and Gerhard Weikum
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 45.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 35th SIGMOD international conference on Management of data - SIGMOD '09"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 28]], 'date-time': '2018-05-28T11:42:24Z', 'timestamp': 1527507744511}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605585512', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1145/1559845.1559911', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 7, 8]], 'date-time': '2009-07-08T17:34:19Z', 'timestamp': 1247074459000}, 'source': 'Crossref', 'is-referenced-by-count': 45, 'title': ['Scalable join processing on very large RDF graphs'], 'prefix': '10.1145', 'author': [{'given': 'Thomas', 'family': 'Neumann', 'sequence': 'first', 'affiliation': []}, {'given': 'Gerhard', 'family': 'Weikum', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 35th SIGMOD international conference', 'location': 'Providence, Rhode Island, USA', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '09", 'number': '35', 'start': {'date-parts': [[2009, 6, 29]]}, 'end': {'date-parts': [[2009, 7, 2]]}}, 'container-title': ["Proceedings of the 35th SIGMOD international conference on Management of data - SIGMOD '09"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1559911&amp;ftid=627775&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T22:59:10Z', 'timestamp': 1481065150000}, 'score': 96.477, 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781605585512'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1559845.1559911'}
+>>> hash >>> ('Scalable join processing on very large RDF graphs', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Mislove, A., Marcon, M., Gummadi, K.P., Druschel, P., Bhattacharjee, B.: Measurement and analysis of online social networks. In: Proceedings of the 7th ACM SIGCOMM conference on Internet measurement, pp. 29â€“42. ACM, New York (2007)
+>>> DOI >>> 10.1145/1298306.1298311
+>>> URL >>> http://dx.doi.org/10.1145/1298306.1298311
+>>> year >>> 2007.0
+>>> title >>> Measurement and analysis of online social networks
+>>> author >>> Alan Mislove and Massimiliano Marcon and Krishna P. Gummadi and Peter Druschel and Bobby Bhattacharjee
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 871.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 7th ACM SIGCOMM conference on Internet measurement  - IMC '07"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 4]], 'date-time': '2018-06-04T14:02:29Z', 'timestamp': 1528120949815}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781595939081', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.1145/1298306.1298311', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 11, 15]], 'date-time': '2007-11-15T14:30:20Z', 'timestamp': 1195137020000}, 'source': 'Crossref', 'is-referenced-by-count': 871, 'title': ['Measurement and analysis of online social networks'], 'prefix': '10.1145', 'author': [{'given': 'Alan', 'family': 'Mislove', 'sequence': 'first', 'affiliation': []}, {'given': 'Massimiliano', 'family': 'Marcon', 'sequence': 'additional', 'affiliation': []}, {'given': 'Krishna P.', 'family': 'Gummadi', 'sequence': 'additional', 'affiliation': []}, {'given': 'Peter', 'family': 'Druschel', 'sequence': 'additional', 'affiliation': []}, {'given': 'Bobby', 'family': 'Bhattacharjee', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 7th ACM SIGCOMM conference', 'location': 'San Diego, California, USA', 'sponsor': ['SIGCOMM, ACM Special Interest Group on Data Communication', 'ACM, Association for Computing Machinery'], 'acronym': "IMC '07", 'number': '7', 'start': {'date-parts': [[2007, 10, 24]]}, 'end': {'date-parts': [[2007, 10, 26]]}}, 'container-title': ["Proceedings of the 7th ACM SIGCOMM conference on Internet measurement  - IMC '07"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1298311&amp;ftid=461529&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T13:08:21Z', 'timestamp': 1481893701000}, 'score': 119.78215, 'issued': {'date-parts': [[2007]]}, 'ISBN': ['9781595939081'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1298306.1298311'}
+>>> hash >>> ('Measurement and analysis of online social networks', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Broekstra, J., Kampman, A., van Harmelen, F.: Sesame: An architecture for storing and querying RDF data and schema information. In: Spinning the Semantic Web, pp. 197â€“222 (2003)
+>>> DOI >>> 10.1002/0470858060.ch5
+>>> URL >>> http://dx.doi.org/10.1002/0470858060.ch5
+>>> year >>> None
+>>> title >>> Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema
+>>> author >>> Jeen Broekstra and Arjohn Kampman and Frank van Harmelen
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 95.0
+>>> subject >>> None
+>>> container_title >>> ['Towards the Semantic Web']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T17:02:31Z', 'timestamp': 1525366951792}, 'publisher-location': 'Chichester, UK', 'reference-count': 0, 'publisher': 'John Wiley & Sons, Ltd', 'isbn-type': [{'value': '0470848677', 'type': 'print'}, {'value': '0470858060', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1002/0470858060.ch5', 'type': 'book-chapter', 'created': {'date-parts': [[2003, 4, 2]], 'date-time': '2003-04-02T17:50:34Z', 'timestamp': 1049305834000}, 'page': '71-89', 'source': 'Crossref', 'is-referenced-by-count': 95, 'title': ['Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema'], 'prefix': '10.1002', 'author': [{'given': 'Jeen', 'family': 'Broekstra', 'sequence': 'first', 'affiliation': []}, {'given': 'Arjohn', 'family': 'Kampman', 'sequence': 'additional', 'affiliation': []}, {'given': 'Frank', 'family': 'van Harmelen', 'sequence': 'additional', 'affiliation': []}], 'member': '311', 'container-title': ['Towards the Semantic Web'], 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 122.3296, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0470848677', '0470858060'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1002/0470858060.ch5'}
+>>> hash >>> ('Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Stocker, M., Seaborne, A., Bernstein, A., Kiefer, C., Reynolds, D.: SPARQL basic graph pattern optimization using selectivity estimation. In: Proceeding of the 17th international conference on World Wide Web, Beijing, China, pp. 595â€“604. ACM, New York (2008)
+>>> DOI >>> 10.1145/1367497.1367578
+>>> URL >>> http://dx.doi.org/10.1145/1367497.1367578
+>>> year >>> 2008.0
+>>> title >>> SPARQL basic graph pattern optimization using selectivity estimation
+>>> author >>> Markus Stocker and Andy Seaborne and Abraham Bernstein and Christoph Kiefer and Dave Reynolds
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 82.0
+>>> subject >>> None
+>>> container_title >>> ["Proceeding of the 17th international conference on World Wide Web  - WWW '08"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T12:22:30Z', 'timestamp': 1526991750062}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605580852', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.1145/1367497.1367578', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 5, 15]], 'date-time': '2008-05-15T18:35:39Z', 'timestamp': 1210876539000}, 'source': 'Crossref', 'is-referenced-by-count': 82, 'title': ['SPARQL basic graph pattern optimization using selectivity estimation'], 'prefix': '10.1145', 'author': [{'given': 'Markus', 'family': 'Stocker', 'sequence': 'first', 'affiliation': []}, {'given': 'Andy', 'family': 'Seaborne', 'sequence': 'additional', 'affiliation': []}, {'given': 'Abraham', 'family': 'Bernstein', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christoph', 'family': 'Kiefer', 'sequence': 'additional', 'affiliation': []}, {'given': 'Dave', 'family': 'Reynolds', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'Proceeding of the 17th international conference', 'location': 'Beijing, China', 'sponsor': ['ACM, Association for Computing Machinery'], 'acronym': "WWW '08", 'number': '17', 'start': {'date-parts': [[2008, 4, 21]]}, 'end': {'date-parts': [[2008, 4, 25]]}}, 'container-title': ["Proceeding of the 17th international conference on World Wide Web  - WWW '08"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1367578&amp;ftid=497749&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T12:11:48Z', 'timestamp': 1481890308000}, 'score': 130.41165, 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9781605580852'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1367497.1367578'}
+>>> hash >>> ('SPARQL basic graph pattern optimization using selectivity estimation', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sintek, M., Kiesel, M.: RDFBroker: A signature-based high-performance RDF store. In: Sure, Y., Domingue, J. (eds.) ESWC 2006. LNCS, vol. 4011, pp. 363â€“377. Springer, Heidelberg (2006)
+>>> DOI >>> 10.1007/11762256_28
+>>> URL >>> http://dx.doi.org/10.1007/11762256_28
+>>> year >>> 2006.0
+>>> title >>> RDFBroker: A Signature-Based High-Performance RDF Store
+>>> author >>> Michael Sintek and Malte Kiesel
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'The Semantic Web: Research and Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T23:04:47Z', 'timestamp': 1525302287823}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540345442', 'type': 'print'}, {'value': '9783540345459', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.1007/11762256_28', 'type': 'book-chapter', 'created': {'date-parts': [[2006, 5, 31]], 'date-time': '2006-05-31T19:29:40Z', 'timestamp': 1149103780000}, 'page': '363-377', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['RDFBroker: A Signature-Based High-Performance RDF Store'], 'prefix': '10.1007', 'author': [{'given': 'Michael', 'family': 'Sintek', 'sequence': 'first', 'affiliation': []}, {'given': 'Malte', 'family': 'Kiesel', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Lecture Notes in Computer Science', 'The Semantic Web: Research and Applications'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/11762256_28', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T15:57:36Z', 'timestamp': 1389023856000}, 'score': 89.38294, 'issued': {'date-parts': [[2006]]}, 'ISBN': ['9783540345442', '9783540345459'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/11762256_28', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('RDFBroker: A Signature-Based High-Performance RDF Store', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Seaborne, A., Prudâ€™hommeaux, E.: SPARQL query language for RDF. W3C recommendation (January 2008)
+>>> DOI >>> 10.1007/978-1-4614-6170-8_100894
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4614-6170-8_100894
+>>> year >>> 2014.0
+>>> title >>> W3C Standard RDF Query Language
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Encyclopedia of Social Network Analysis and Mining']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 14]], 'date-time': '2018-04-14T05:16:49Z', 'timestamp': 1523683009247}, 'publisher-location': 'New York, NY', 'reference-count': 0, 'publisher': 'Springer New York', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2014]]}, 'DOI': '10.1007/978-1-4614-6170-8_100894', 'type': 'book-chapter', 'created': {'date-parts': [[2014, 10, 4]], 'date-time': '2014-10-04T14:48:54Z', 'timestamp': 1412434134000}, 'page': '2337-2337', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['W3C Standard RDF Query Language'], 'prefix': '10.1007', 'member': '297', 'published-online': {'date-parts': [[2014, 10, 5]]}, 'container-title': ['Encyclopedia of Social Network Analysis and Mining'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-1-4614-6170-8_100894', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2015, 4, 27]], 'date-time': '2015-04-27T14:55:02Z', 'timestamp': 1430146502000}, 'score': 47.085777, 'issued': {'date-parts': [[2014]]}, 'ISBN': ['9781461461692', '9781461461708'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4614-6170-8_100894'}
+>>> hash >>> ('W3C Standard RDF Query Language', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Udrea, O., Pugliese, A., Subrahmanian, V.S.: GRIN: A graph based RDF index. In: AAAI, pp. 1465â€“1470 (2007)
+>>> DOI >>> 10.1145/1367497.1367579
+>>> URL >>> http://dx.doi.org/10.1145/1367497.1367579
+>>> year >>> 2008.0
+>>> title >>> Scaling RDF with Time
+>>> author >>> Andrea Pugliese and Octavian Udrea and V. S. Subrahmanian
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 14.0
+>>> subject >>> None
+>>> container_title >>> ["Proceeding of the 17th international conference on World Wide Web  - WWW '08"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 28]], 'date-time': '2018-05-28T11:42:24Z', 'timestamp': 1527507744519}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605580852', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.1145/1367497.1367579', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 5, 15]], 'date-time': '2008-05-15T18:35:39Z', 'timestamp': 1210876539000}, 'source': 'Crossref', 'is-referenced-by-count': 14, 'title': ['Scaling RDF with Time'], 'prefix': '10.1145', 'author': [{'given': 'Andrea', 'family': 'Pugliese', 'sequence': 'first', 'affiliation': []}, {'given': 'Octavian', 'family': 'Udrea', 'sequence': 'additional', 'affiliation': []}, {'given': 'V. S.', 'family': 'Subrahmanian', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'Proceeding of the 17th international conference', 'location': 'Beijing, China', 'sponsor': ['ACM, Association for Computing Machinery'], 'acronym': "WWW '08", 'number': '17', 'start': {'date-parts': [[2008, 4, 21]]}, 'end': {'date-parts': [[2008, 4, 25]]}}, 'container-title': ["Proceeding of the 17th international conference on World Wide Web  - WWW '08"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1367579&amp;ftid=497750&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T12:11:50Z', 'timestamp': 1481890310000}, 'score': 45.856926, 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9781605580852'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1367497.1367579'}
+>>> hash >>> ('Scaling RDF with Time', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Neumann, T., Weikum, G.: RDF-3X: a RISC-style engine for RDF. PVLDB 1(1), 647â€“659 (2008)
+>>> DOI >>> 10.14778/1453856.1453927
+>>> URL >>> http://dx.doi.org/10.14778/1453856.1453927
+>>> year >>> 2008.0
+>>> title >>> RDF-3X
+>>> author >>> Thomas Neumann and Gerhard Weikum
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 106.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 28]], 'date-time': '2018-05-28T11:22:31Z', 'timestamp': 1527506551283}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2008, 8, 1]]}, 'DOI': '10.14778/1453856.1453927', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '647-659', 'source': 'Crossref', 'is-referenced-by-count': 106, 'title': ['RDF-3X'], 'prefix': '10.14778', 'volume': '1', 'author': [{'given': 'Thomas', 'family': 'Neumann', 'sequence': 'first', 'affiliation': []}, {'given': 'Gerhard', 'family': 'Weikum', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:18:55Z', 'timestamp': 1403612335000}, 'score': 101.440865, 'subtitle': ['a RISC-style engine for RDF'], 'issued': {'date-parts': [[2008, 8, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2008, 8, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.14778/1453856.1453927', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('RDF-3X', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Tian, Y., McEachin, R.C., Santos, C.: SAGA: a subgraph matching tool for biological graphs. Bioinformatics 23(2), 232 (2007)
+>>> DOI >>> 10.1093/bioinformatics/btl571
+>>> URL >>> http://dx.doi.org/10.1093/bioinformatics/btl571
+>>> year >>> 2006.0
+>>> title >>> SAGA: a subgraph matching tool for biological graphs
+>>> author >>> Y. Tian and R. C. McEachin and C. Santos and D. J. States and J. M. Patel
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 88.0
+>>> subject >>> None
+>>> container_title >>> ['Bioinformatics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:36:05Z', 'timestamp': 1525332965680}, 'reference-count': 13, 'publisher': 'Oxford University Press (OUP)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Bioinformatics'], 'published-print': {'date-parts': [[2007, 1, 15]]}, 'DOI': '10.1093/bioinformatics/btl571', 'type': 'journal-article', 'created': {'date-parts': [[2006, 11, 17]], 'date-time': '2006-11-17T01:17:37Z', 'timestamp': 1163726257000}, 'page': '232-239', 'source': 'Crossref', 'is-referenced-by-count': 88, 'title': ['SAGA: a subgraph matching tool for biological graphs'], 'prefix': '10.1093', 'volume': '23', 'author': [{'given': 'Y.', 'family': 'Tian', 'sequence': 'first', 'affiliation': []}, {'given': 'R. C.', 'family': 'McEachin', 'sequence': 'additional', 'affiliation': []}, {'given': 'C.', 'family': 'Santos', 'sequence': 'additional', 'affiliation': []}, {'given': 'D. J.', 'family': 'States', 'sequence': 'additional', 'affiliation': []}, {'given': 'J. M.', 'family': 'Patel', 'sequence': 'additional', 'affiliation': []}], 'member': '286', 'published-online': {'date-parts': [[2006, 11, 16]]}, 'reference': [{'key': '1_27685760', 'volume': '16', 'first-page': '575', 'year': '1973', 'journal-title': 'CACM', 'DOI': '10.1145/362342.362367', 'doi-asserted-by': 'crossref'}, {'issue': '504', 'key': '2_7393930', 'doi-asserted-by': 'crossref', 'first-page': '1237', 'DOI': '10.1192/bjp.113.504.1237', 'volume': '113', 'author': 'COPPEN', 'year': '1967', 'journal-title': 'The British Journal of Psychiatry', 'ISSN': 'http://id.crossref.org/issn/0007-1250', 'issn-type': 'print'}, {'issue': '4', 'key': '3_18673393', 'doi-asserted-by': 'publisher', 'first-page': '241', 'DOI': '10.2165/00822942-200403040-00006', 'volume': '3', 'author': 'Chen', 'year': '2004', 'journal-title': 'Applied bioinformatics', 'ISSN': 'http://id.crossref.org/issn/1175-5636', 'issn-type': 'print'}, {'issue': 'suppl_1', 'key': '6_18802115', 'doi-asserted-by': 'publisher', 'first-page': 'D428', 'DOI': '10.1093/nar/gki072', 'volume': '33', 'author': 'Joshi-Tope', 'year': '2005', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '11', 'key': '7_17346536', 'doi-asserted-by': 'publisher', 'first-page': '523', 'DOI': '10.1016/S0962-8924(02)02388-7', 'volume': '12', 'author': 'Kalderon', 'year': '2002', 'journal-title': 'Trends in cell biology', 'ISSN': 'http://id.crossref.org/issn/0962-8924', 'issn-type': 'print'}, {'issue': 'suppl_1', 'key': '8_21287615', 'doi-asserted-by': 'publisher', 'first-page': 'D354', 'DOI': '10.1093/nar/gkj102', 'volume': '34', 'author': 'Kanehisa', 'year': '2006', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': 'suppl_2', 'key': '9_18236457', 'doi-asserted-by': 'publisher', 'first-page': 'W83', 'DOI': '10.1093/nar/gnh080', 'volume': '32', 'author': 'Kelley', 'year': '2004', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '4', 'key': '11_17563049', 'doi-asserted-by': 'publisher', 'first-page': '833', 'DOI': '10.1053/jhep.2003.50136', 'volume': '37', 'author': 'Luedde', 'year': '2003', 'journal-title': 'Hepatology (Baltimore, Md.)', 'ISSN': 'http://id.crossref.org/issn/0270-9139', 'issn-type': 'print'}, {'issue': '22', 'key': '12_17846055', 'doi-asserted-by': 'publisher', 'first-page': '5297', 'DOI': '10.1242/dev.00821', 'volume': '130', 'author': 'Nusse', 'year': '2003', 'journal-title': 'Development', 'ISSN': 'http://id.crossref.org/issn/0950-1991', 'issn-type': 'print'}, {'issue': '6', 'key': '14_19691715', 'doi-asserted-by': 'publisher', 'first-page': '1974', 'DOI': '10.1073/pnas.0409522102', 'volume': '102', 'year': '2005', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': '5338', 'key': '16_5789801', 'doi-asserted-by': 'publisher', 'first-page': '631', 'DOI': '10.1126/science.278.5338.631', 'volume': '278', 'author': 'Tatusov', 'year': '1997', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '21', 'key': '17_17872753', 'doi-asserted-by': 'publisher', 'first-page': '6283', 'DOI': '10.1093/nar/gkg838', 'volume': '31', 'author': 'Tornow', 'year': '2003', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '2', 'key': '18_17209859', 'doi-asserted-by': 'publisher', 'first-page': '179', 'DOI': '10.1016/S1074-7613(02)00364-3', 'volume': '17', 'author': 'Tourigny', 'year': '2002', 'journal-title': 'Immunity', 'ISSN': 'http://id.crossref.org/issn/1074-7613', 'issn-type': 'print'}], 'container-title': ['Bioinformatics'], 'language': 'en', 'link': [{'URL': 'http://academic.oup.com/bioinformatics/article-pdf/23/2/232/533798/btl571.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 22]], 'date-time': '2017-08-22T15:23:37Z', 'timestamp': 1503415417000}, 'score': 86.91293, 'issued': {'date-parts': [[2006, 11, 16]]}, 'references-count': 13, 'journal-issue': {'published-online': {'date-parts': [[2007, 1, 19]]}, 'published-print': {'date-parts': [[2007, 1, 15]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1093/bioinformatics/btl571', 'relation': {'cites': []}, 'ISSN': ['1367-4803', '1460-2059'], 'issn-type': [{'value': '1367-4803', 'type': 'print'}, {'value': '1460-2059', 'type': 'electronic'}]}
+>>> hash >>> ('SAGA: a subgraph matching tool for biological graphs', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kiryakov, A., Ognyanov, D., Manov, D.: OWLIM - a pragmatic semantic repository for OWL. In: WISE Workshops, pp. 182â€“192 (2005)
+>>> DOI >>> 10.1007/11581116_19
+>>> URL >>> http://dx.doi.org/10.1007/11581116_19
+>>> year >>> 2005.0
+>>> title >>> OWLIM – A Pragmatic Semantic Repository for OWL
+>>> author >>> Atanas Kiryakov and Damyan Ognyanov and Dimitar Manov
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 42.0
+>>> subject >>> None
+>>> container_title >>> ['Web Information Systems Engineering – WISE 2005 Workshops', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T05:42:27Z', 'timestamp': 1528177347795}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540300182', 'type': 'print'}, {'value': '9783540322870', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1007/11581116_19', 'type': 'book-chapter', 'created': {'date-parts': [[2005, 10, 23]], 'date-time': '2005-10-23T15:09:30Z', 'timestamp': 1130080170000}, 'page': '182-192', 'source': 'Crossref', 'is-referenced-by-count': 42, 'title': ['OWLIM – A Pragmatic Semantic Repository for OWL'], 'prefix': '10.1007', 'author': [{'given': 'Atanas', 'family': 'Kiryakov', 'sequence': 'first', 'affiliation': []}, {'given': 'Damyan', 'family': 'Ognyanov', 'sequence': 'additional', 'affiliation': []}, {'given': 'Dimitar', 'family': 'Manov', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Web Information Systems Engineering – WISE 2005 Workshops', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/11581116_19', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T15:22:57Z', 'timestamp': 1389021777000}, 'score': 108.67871, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['9783540300182', '9783540322870'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/11581116_19', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('OWLIM – A Pragmatic Semantic Repository for OWL', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ko, B., Rubenstein, D.: Distributed self-stabilizing placement of replicated resources in emerging networks. Networking, IEEE/ACM Transactions on 13(3), 476â€“487 (2005)
+>>> DOI >>> 10.1109/tnet.2005.850196
+>>> URL >>> http://dx.doi.org/10.1109/tnet.2005.850196
+>>> year >>> 2005.0
+>>> title >>> Distributed self-stabilizing placement of replicated resources in emerging networks
+>>> author >>> None
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 29.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE/ACM Transactions on Networking']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T19:54:18Z', 'timestamp': 1525463658272}, 'reference-count': 15, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE/ACM Trans. Networking'], 'published-print': {'date-parts': [[2005, 6]]}, 'DOI': '10.1109/tnet.2005.850196', 'type': 'journal-article', 'created': {'date-parts': [[2005, 6, 28]], 'date-time': '2005-06-28T18:51:01Z', 'timestamp': 1119984661000}, 'page': '476-487', 'source': 'Crossref', 'is-referenced-by-count': 29, 'title': ['Distributed self-stabilizing placement of replicated resources in emerging networks'], 'prefix': '10.1109', 'volume': '13', 'author': [{'family': 'Bong-Jun Ko', 'sequence': 'first', 'affiliation': []}, {'given': 'D.', 'family': 'Rubenstein', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE/ACM Transactions on Networking'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/90/31397/01458758.pdf?arnumber=1458758', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T08:03:57Z', 'timestamp': 1510646637000}, 'score': 103.0067, 'issued': {'date-parts': [[2005, 6]]}, 'references-count': 15, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/tnet.2005.850196', 'ISSN': ['1063-6692'], 'issn-type': [{'value': '1063-6692', 'type': 'print'}]}
+>>> hash >>> ('Distributed self-stabilizing placement of replicated resources in emerging networks', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Theoharis, Y., Christophides, V., Karvounarakis, G.: Benchmarking database representations of RDF/S Stores, pp. 685â€“701 (2005)
+>>> DOI >>> 10.1007/11574620_49
+>>> URL >>> http://dx.doi.org/10.1007/11574620_49
+>>> year >>> 2005.0
+>>> title >>> Benchmarking Database Representations of RDF/S Stores
+>>> author >>> Yannis Theoharis and Vassilis Christophides and Grigoris Karvounarakis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 12.0
+>>> subject >>> None
+>>> container_title >>> ['The Semantic Web – ISWC 2005', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T23:25:49Z', 'timestamp': 1525476349980}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540297543', 'type': 'print'}, {'value': '9783540320821', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1007/11574620_49', 'type': 'book-chapter', 'created': {'date-parts': [[2005, 10, 16]], 'date-time': '2005-10-16T01:05:16Z', 'timestamp': 1129424716000}, 'page': '685-701', 'source': 'Crossref', 'is-referenced-by-count': 12, 'title': ['Benchmarking Database Representations of RDF/S Stores'], 'prefix': '10.1007', 'author': [{'given': 'Yannis', 'family': 'Theoharis', 'sequence': 'first', 'affiliation': []}, {'given': 'Vassilis', 'family': 'Christophides', 'sequence': 'additional', 'affiliation': []}, {'given': 'Grigoris', 'family': 'Karvounarakis', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['The Semantic Web – ISWC 2005', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/11574620_49', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T15:15:41Z', 'timestamp': 1389021341000}, 'score': 84.478905, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['9783540297543', '9783540320821'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/11574620_49', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Benchmarking Database Representations of RDF/S Stores', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Goldman, R., McHugh, J., Widom, J.: From semistructured data to XML: migrating the Lore data model and query language. In: Proceedings of the 2nd International Workshop on the Web and Databases (WebDB 1999), pp. 25â€“30 (1999)
+>>> DOI >>> 10.1162/10996620052104276
+>>> URL >>> http://dx.doi.org/10.1162/10996620052104276
+>>> year >>> 2000.0
+>>> title >>> From semistructured data to XML: Migrating the Lore data model and query language
+>>> author >>> Roy Goldman and Jason McHugh and Jennifer Widom
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> ['Markup Languages: Theory and Practice']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:16:13Z', 'timestamp': 1525335373420}, 'reference-count': 0, 'publisher': 'MIT Press - Journals', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2000, 6, 1]]}, 'DOI': '10.1162/10996620052104276', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:55:01Z', 'timestamp': 1027770901000}, 'page': '153-163', 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['From semistructured data to XML: Migrating the Lore data model and query language'], 'prefix': '10.1162', 'volume': '2', 'author': [{'given': 'Roy', 'family': 'Goldman', 'sequence': 'first', 'affiliation': []}, {'given': 'Jason', 'family': 'McHugh', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jennifer', 'family': 'Widom', 'sequence': 'additional', 'affiliation': []}], 'member': '281', 'container-title': ['Markup Languages: Theory and Practice'], 'deposited': {'date-parts': [[2007, 2, 13]], 'date-time': '2007-02-13T20:56:13Z', 'timestamp': 1171400173000}, 'score': 92.04257, 'issued': {'date-parts': [[2000, 6, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '2'}, 'alternative-id': ['1099-6621(20000601)2:2L.153;1-'], 'URL': 'http://dx.doi.org/10.1162/10996620052104276', 'ISSN': ['0000-0000', '1099-6621'], 'issn-type': [{'value': '1099-6621', 'type': 'print'}, {'value': '0000-0000', 'type': 'electronic'}]}
+>>> hash >>> ('From semistructured data to XML: Migrating the Lore data model and query language', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Harth, A., Decker, S.: Optimized index structures for querying RDF from the Web. In: Proceedings of the 3rd Latin American Web Congress, pp. 71â€“80 (2005)
+>>> DOI >>> 10.1109/laweb.2005.25
+>>> URL >>> http://dx.doi.org/10.1109/laweb.2005.25
+>>> year >>> None
+>>> title >>> Optimized Index Structures for Querying RDF from the Web
+>>> author >>> A. Harth and S. Decker
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 58.0
+>>> subject >>> None
+>>> container_title >>> ["Third Latin American Web Congress (LA-WEB'2005)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 2]], 'date-time': '2018-06-02T04:42:27Z', 'timestamp': 1527914547315}, 'reference-count': 17, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769524710', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/laweb.2005.25', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 3, 10]], 'date-time': '2006-03-10T16:50:57Z', 'timestamp': 1142009457000}, 'source': 'Crossref', 'is-referenced-by-count': 58, 'title': ['Optimized Index Structures for Querying RDF from the Web'], 'prefix': '10.1109', 'author': [{'given': 'A.', 'family': 'Harth', 'sequence': 'first', 'affiliation': []}, {'given': 'S.', 'family': 'Decker', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "Third Latin American Web Congress (LA-WEB'2005)", 'location': 'Buenos Aires, Argentina'}, 'container-title': ["Third Latin American Web Congress (LA-WEB'2005)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10609/33518/01592360.pdf?arnumber=1592360', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 15]], 'date-time': '2017-03-15T00:44:13Z', 'timestamp': 1489538653000}, 'score': 104.88431, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769524710'], 'references-count': 17, 'URL': 'http://dx.doi.org/10.1109/laweb.2005.25'}
+>>> hash >>> ('Optimized Index Structures for Querying RDF from the Web', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Lee, C., Park, S., Lee, D., Lee, J., Jeong, O., Lee, S.: A comparison of ontology reasoning systems using query sequences. In: Proceedings of the 2nd international conference on Ubiquitous information management and communication, Suwon, Korea, pp. 543â€“546. ACM, New York (2008)
+>>> DOI >>> 10.1145/1352793.1352907
+>>> URL >>> http://dx.doi.org/10.1145/1352793.1352907
+>>> year >>> 2008.0
+>>> title >>> A comparison of ontology reasoning systems using query sequences
+>>> author >>> Chulki Lee and Sungchan Park and Dongjoo Lee and Jae-won Lee and Ok-Ran Jeong and Sang-goo Lee
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2nd international conference on Ubiquitous information management and communication  - ICUIMC '08"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database108.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T07:50:26Z', 'timestamp': 1525420226417}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781595939937', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.1145/1352793.1352907', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 3, 25]], 'date-time': '2008-03-25T15:57:23Z', 'timestamp': 1206460643000}, 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['A comparison of ontology reasoning systems using query sequences'], 'prefix': '10.1145', 'author': [{'given': 'Chulki', 'family': 'Lee', 'sequence': 'first', 'affiliation': []}, {'given': 'Sungchan', 'family': 'Park', 'sequence': 'additional', 'affiliation': []}, {'given': 'Dongjoo', 'family': 'Lee', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jae-won', 'family': 'Lee', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ok-Ran', 'family': 'Jeong', 'sequence': 'additional', 'affiliation': []}, {'given': 'Sang-goo', 'family': 'Lee', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2nd international conference', 'location': 'Suwon, Korea', 'sponsor': ['SIGKDD, ACM Special Interest Group on Knowledge Discovery in Data', 'SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "ICUIMC '08", 'number': '2', 'start': {'date-parts': [[2008, 1, 31]]}, 'end': {'date-parts': [[2008, 2, 1]]}}, 'container-title': ["Proceedings of the 2nd international conference on Ubiquitous information management and communication  - ICUIMC '08"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1352907&amp;ftid=501604&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T16:49:54Z', 'timestamp': 1481906994000}, 'score': 93.02266, 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9781595939937'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1352793.1352907'}
+>>> hash >>> ('A comparison of ontology reasoning systems using query sequences', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

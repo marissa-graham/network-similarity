@@ -1,0 +1,409 @@
+>>> NEW PAPER <<<
+>>> citation >>> Brenner, C.; Haala, N. Fast production of virtual reality city models. In ISPRS Commission IV Symposium on GIS - Between Visions and Applications; International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences: Stuttgart, Germany, 1998; Volume 32, Part 4.
+>>> DOI >>> 10.5194/isprsarchives-xxxix-b1-387-2012
+>>> URL >>> http://dx.doi.org/10.5194/isprsarchives-xxxix-b1-387-2012
+>>> year >>> 2012.0
+>>> title >>> DENSE MULTIPLE STEREO MATCHING OF HIGHLY OVERLAPPING UAV IMAGERY
+>>> author >>> N. Haala and M. Rothermel
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T15:30:42Z', 'timestamp': 1525534242050}, 'reference-count': 0, 'publisher': 'Copernicus GmbH', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.'], 'DOI': '10.5194/isprsarchives-xxxix-b1-387-2012', 'type': 'journal-article', 'created': {'date-parts': [[2012, 8, 1]], 'date-time': '2012-08-01T14:52:03Z', 'timestamp': 1343832723000}, 'page': '387-392', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['DENSE MULTIPLE STEREO MATCHING OF HIGHLY OVERLAPPING UAV IMAGERY'], 'prefix': '10.5194', 'volume': 'XXXIX-B1', 'author': [{'given': 'N.', 'family': 'Haala', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Rothermel', 'sequence': 'additional', 'affiliation': []}], 'member': '3145', 'published-online': {'date-parts': [[2012, 7, 24]]}, 'container-title': ['ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences'], 'language': 'en', 'link': [{'URL': 'http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XXXIX-B1/387/2012/isprsarchives-XXXIX-B1-387-2012.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2012, 8, 1]], 'date-time': '2012-08-01T14:52:03Z', 'timestamp': 1343832723000}, 'score': 63.04816, 'issued': {'date-parts': [[2012, 7, 24]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.5194/isprsarchives-xxxix-b1-387-2012', 'ISSN': ['1682-1777'], 'issn-type': [{'value': '1682-1777', 'type': 'electronic'}]}
+>>> hash >>> ('DENSE MULTIPLE STEREO MATCHING OF HIGHLY OVERLAPPING UAV IMAGERY', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Roth, R.; Thompson, J. Practical application of Multiple Pulse in Air (MPIA) LIDAR in large-area surverys. In International Archives of Photogrammetry; Remote Sensing and Spatial Information Sciences: Beijing, China, 2008; Volume 37, pp. 183â€“188.
+>>> DOI >>> 10.5194/isprsarchives-xl-4-105-2014
+>>> URL >>> http://dx.doi.org/10.5194/isprsarchives-xl-4-105-2014
+>>> year >>> 2014.0
+>>> title >>> Development of large Area Covering Height Model
+>>> author >>> K. Jacobsen
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T12:17:35Z', 'timestamp': 1525781855244}, 'reference-count': 0, 'publisher': 'Copernicus GmbH', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.'], 'abstract': '<jats:p>Height information is a basic part of topographic mapping. Only in special areas frequent update of height models is required, usually the update cycle is quite lower as for horizontal map information. Some height models are available free of charge in the internet; for commercial height models a fee has to be paid. Mostly digital surface models (DSM) with the height of the visible surface are given and not the bare ground height, as required for standard mapping. Nevertheless by filtering of DSM, digital terrain models (DTM) with the height of the bare ground can be generated with the exception of dense forest areas where no height of the bare ground is available. These height models may be better as the DTM of some survey administrations. In addition several DTM from national survey administrations are classified, so as alternative the commercial or free of charge available information from internet can be used. &lt;br&gt;&lt;br&gt; The widely used SRTM DSM is available also as ACE-2 GDEM corrected by altimeter data for systematic height errors caused by vegetation and orientation errors. But the ACE-2 GDEM did not respect neighbourhood information. With the worldwide covering TanDEM-X height model, distributed starting 2014 by Airbus Defence and Space (former ASTRIUM) as WorldDEM, higher level of details and accuracy is reached as with other large area covering height models. At first the raw-version of WorldDEM will be available, followed by an edited version and finally as WorldDEM-DTM a height model of the bare ground. With 12 m spacing and a relative standard deviation of 1.2 m within an area of 1° x 1° an accuracy and resolution level is reached, satisfying also for larger map scales. For limited areas with the HDEM also a height model with 6 m spacing and a relative vertical accuracy of 0.5 m can be generated on demand. &lt;br&gt;&lt;br&gt; By bathymetric LiDAR and stereo images also the height of the sea floor can be determined if the water has satisfying transparency. Another method of getting bathymetric height information is an analysis of the wave structure in optical and SAR-images. An overview about the absolute and relative accuracy, the consistency, error distribution and other characteristics as influence of terrain inclination and aspects is given. Partially by post processing the height models can or have to be improved.</jats:p>', 'DOI': '10.5194/isprsarchives-xl-4-105-2014', 'type': 'journal-article', 'created': {'date-parts': [[2014, 4, 23]], 'date-time': '2014-04-23T14:04:42Z', 'timestamp': 1398261882000}, 'page': '105-110', 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['Development of large Area Covering Height Model'], 'prefix': '10.5194', 'volume': 'XL-4', 'author': [{'given': 'K.', 'family': 'Jacobsen', 'sequence': 'first', 'affiliation': []}], 'member': '3145', 'published-online': {'date-parts': [[2014, 4, 23]]}, 'container-title': ['ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences'], 'language': 'en', 'link': [{'URL': 'http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-4/105/2014/isprsarchives-XL-4-105-2014.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 4, 23]], 'date-time': '2014-04-23T14:04:42Z', 'timestamp': 1398261882000}, 'score': 52.937904, 'issued': {'date-parts': [[2014, 4, 23]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.5194/isprsarchives-xl-4-105-2014', 'ISSN': ['2194-9034'], 'issn-type': [{'value': '2194-9034', 'type': 'electronic'}]}
+>>> hash >>> ('Development of large Area Covering Height Model', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> TÃ³vÃ¡ri, D.; Pfeifer, N. Segmentation based robust interpolation - a new approach to laser data filtering. In Laserscanning 2005; International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences: Enschede, the Netherlands, 2005; Volume 36, pp. 79â€“84.
+>>> DOI >>> 10.5194/isprsarchives-xxxviii-5-w12-145-2011
+>>> URL >>> http://dx.doi.org/10.5194/isprsarchives-xxxviii-5-w12-145-2011
+>>> year >>> 2012.0
+>>> title >>> THE ASSESSMENT OF THE ABSOLUTE PLANIMETRIC ACCURACY OF AIRBORNE LASERSCANNING
+>>> author >>> J. Höhle
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T18:22:59Z', 'timestamp': 1525544579759}, 'reference-count': 0, 'publisher': 'Copernicus GmbH', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.'], 'DOI': '10.5194/isprsarchives-xxxviii-5-w12-145-2011', 'type': 'journal-article', 'created': {'date-parts': [[2012, 9, 15]], 'date-time': '2012-09-15T05:21:13Z', 'timestamp': 1347686473000}, 'page': '145-150', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['THE ASSESSMENT OF THE ABSOLUTE PLANIMETRIC ACCURACY OF AIRBORNE LASERSCANNING'], 'prefix': '10.5194', 'volume': 'XXXVIII-5/W12', 'author': [{'given': 'J.', 'family': 'Höhle', 'sequence': 'first', 'affiliation': []}], 'member': '3145', 'published-online': {'date-parts': [[2012, 9, 3]]}, 'container-title': ['ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences'], 'language': 'en', 'link': [{'URL': 'http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XXXVIII-5-W12/145/2011/isprsarchives-XXXVIII-5-W12-145-2011.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2012, 9, 15]], 'date-time': '2012-09-15T05:21:14Z', 'timestamp': 1347686474000}, 'score': 55.76358, 'issued': {'date-parts': [[2012, 9, 3]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.5194/isprsarchives-xxxviii-5-w12-145-2011', 'ISSN': ['1682-1777'], 'issn-type': [{'value': '1682-1777', 'type': 'electronic'}]}
+>>> hash >>> ('THE ASSESSMENT OF THE ABSOLUTE PLANIMETRIC ACCURACY OF AIRBORNE LASERSCANNING', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kaartinen, H.; Hyyppa, J.; Guelch, E.; Vosselman, G.; Hyyppa, H.; Matikainen, L.; Hofmann, A.; Moder, U.; Persson, O.; Soderman, U.; Elmqvist, M.; Ruiz, A.; Dragoja, M.; Flamanc, D.; Maillet, G.; Kersten, T.; Carl, J.; Hau, R.; Wild, E.; Frederiksen, L.; Holmgaard, J.; Vester, K. Accuracy of 3D city models: EuroSDR comparison. In International Archives of Photogrammetry; Remote Sensing and Spatial Information Sciences: Enschede, The Netherlands, 2005; Volume 36, pp. 227â€“232.
+>>> DOI >>> 10.5194/isprs-archives-xlii-3-w3-81-2017
+>>> URL >>> http://dx.doi.org/10.5194/isprs-archives-xlii-3-w3-81-2017
+>>> year >>> 2017.0
+>>> title >>> MEASURING LEAF WATER CONTENT USING MULTISPECTRAL TERRESTRIAL LASER SCANNING
+>>> author >>> S. Junttila and M. Vastaranta and R. Linnakoski and J. Sugano and H. Kaartinen and A. Kukko and M. Holopainen and H. Hyyppä and J. Hyyppä
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T03:08:02Z', 'timestamp': 1525748882630}, 'reference-count': 0, 'publisher': 'Copernicus GmbH', 'license': [{'URL': 'https://creativecommons.org/licenses/by/4.0/', 'start': {'date-parts': [[2017, 10, 19]], 'date-time': '2017-10-19T00:00:00Z', 'timestamp': 1508371200000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.'], 'abstract': '<jats:p>Climate change is increasing the amount and intensity of disturbance events, i.e. drought, pest insect outbreaks and fungal pathogens, in forests worldwide. Leaf water content (LWC) is an early indicator of tree stress that can be measured remotely using multispectral terrestrial laser scanning (MS-TLS). LWC affects leaf reflectance in the shortwave infrared spectrum which can be used to predict LWC from spatially explicit MS-TLS intensity data. Here, we investigated the relationship between LWC and MS-TLS intensity features at 690&amp;amp;thinsp;nm, 905&amp;amp;thinsp;nm and 1550&amp;amp;thinsp;nm wavelengths with Norway spruce seedlings in greenhouse conditions. We found that a simple ratio of 905&amp;amp;thinsp;nm and 1550&amp;amp;thinsp;nm wavelengths was able to explain 84&amp;amp;thinsp;% of the variation (R2) in LWC with a respective prediction accuracy of 0.0041&amp;amp;thinsp;g/cm&lt;sup&gt;2&lt;/sup&gt;. Our results showed that MS-TLS can be used to estimate LWC with a reasonable accuracy in environmentally stable conditions.\n                    </jats:p>', 'DOI': '10.5194/isprs-archives-xlii-3-w3-81-2017', 'type': 'journal-article', 'created': {'date-parts': [[2017, 10, 23]], 'date-time': '2017-10-23T13:45:39Z', 'timestamp': 1508766339000}, 'page': '81-85', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['MEASURING LEAF WATER CONTENT USING MULTISPECTRAL TERRESTRIAL LASER SCANNING'], 'prefix': '10.5194', 'volume': 'XLII-3/W3', 'author': [{'given': 'S.', 'family': 'Junttila', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Vastaranta', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.', 'family': 'Linnakoski', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Sugano', 'sequence': 'additional', 'affiliation': []}, {'given': 'H.', 'family': 'Kaartinen', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Kukko', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Holopainen', 'sequence': 'additional', 'affiliation': []}, {'given': 'H.', 'family': 'Hyyppä', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Hyyppä', 'sequence': 'additional', 'affiliation': []}], 'member': '3145', 'published-online': {'date-parts': [[2017, 10, 19]]}, 'container-title': ['ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences'], 'language': 'en', 'link': [{'URL': 'https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3-W3/81/2017/isprs-archives-XLII-3-W3-81-2017.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 10, 23]], 'date-time': '2017-10-23T13:45:40Z', 'timestamp': 1508766340000}, 'score': 69.052376, 'issued': {'date-parts': [[2017, 10, 19]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.5194/isprs-archives-xlii-3-w3-81-2017', 'ISSN': ['2194-9034'], 'issn-type': [{'value': '2194-9034', 'type': 'electronic'}]}
+>>> hash >>> ('MEASURING LEAF WATER CONTENT USING MULTISPECTRAL TERRESTRIAL LASER SCANNING', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Milde, J.; Zhang, Y.; Brenner, C.; Pluemer, L.; Sester, M. Building reconstruction using structural description based on a formal grammar. In International Archives of Photogrammetry; Remote Sensing and Spatial Information Sciences: Beijing, China, 2008; Volume 37, pp. 227â€“232.
+>>> DOI >>> 10.1201/9780203888445.ch20
+>>> URL >>> http://dx.doi.org/10.1201/9780203888445.ch20
+>>> year >>> 2008.0
+>>> title >>> Multiple representation databases
+>>> author >>> Monika Sester
+>>> reference_count >>> 9.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Advances in Photogrammetry, Remote Sensing and Spatial Information Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T00:34:24Z', 'timestamp': 1525307664937}, 'reference-count': 9, 'publisher': 'CRC Press', 'isbn-type': [{'value': '9780415478052', 'type': 'print'}, {'value': '9780203888445', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 7]]}, 'DOI': '10.1201/9780203888445.ch20', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 3, 8]], 'date-time': '2010-03-08T13:38:35Z', 'timestamp': 1268055515000}, 'page': '279-288', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Multiple representation databases'], 'prefix': '10.1201', 'author': [{'given': 'Monika', 'family': 'Sester', 'sequence': 'first', 'affiliation': []}], 'member': '301', 'published-online': {'date-parts': [[2010, 3, 8]]}, 'container-title': ['Advances in Photogrammetry, Remote Sensing and Spatial Information Sciences'], 'link': [{'URL': 'http://www.crcnetbase.com/doi/pdf/10.1201/9780203888445.ch20', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 9, 9]], 'date-time': '2016-09-09T01:00:30Z', 'timestamp': 1473382830000}, 'score': 54.85294, 'issued': {'date-parts': [[2008, 7]]}, 'ISBN': ['9780415478052', '9780203888445'], 'references-count': 9, 'alternative-id': ['10.1201/9780203888445.ch20', '10.1201/9780203888445'], 'URL': 'http://dx.doi.org/10.1201/9780203888445.ch20'}
+>>> hash >>> ('Multiple representation databases', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Verma, V.; Kumar, R.; Hsu, S. 3D building detection and modeling from aerial LIDAR data. IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPRâ€™06); IEEE Computer Society: Washington, DC, USA, 2006; pp. 2213â€“2220.
+>>> DOI >>> 10.1109/cvpr.2006.12
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2006.12
+>>> year >>> None
+>>> title >>> 3D Building Detection and Modeling from Aerial LIDAR Data
+>>> author >>> V. Verma and R. Kumar and S. Hsu
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 61.0
+>>> subject >>> None
+>>> container_title >>> ["2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Volume 2 (CVPR'06)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:20:48Z', 'timestamp': 1525310448226}, 'reference-count': 12, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769525970', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2006.12', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 7, 10]], 'date-time': '2006-07-10T19:59:56Z', 'timestamp': 1152561596000}, 'source': 'Crossref', 'is-referenced-by-count': 61, 'title': ['3D Building Detection and Modeling from Aerial LIDAR Data'], 'prefix': '10.1109', 'author': [{'given': 'V.', 'family': 'Verma', 'sequence': 'first', 'affiliation': []}, {'given': 'R.', 'family': 'Kumar', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.', 'family': 'Hsu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Volume 2 (CVPR'06)", 'location': 'New York, NY, USA'}, 'container-title': ["2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Volume 2 (CVPR'06)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10924/34374/01641024.pdf?arnumber=1641024', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 15]], 'date-time': '2017-03-15T17:36:17Z', 'timestamp': 1489599377000}, 'score': 117.83467, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769525970'], 'references-count': 12, 'URL': 'http://dx.doi.org/10.1109/cvpr.2006.12'}
+>>> hash >>> ('3D Building Detection and Modeling from Aerial LIDAR Data', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Schwalbe, E.; Maas, H.-G.; Seidel, F. 3D Building model generation from airborne laser scanner data using 2D GIS data and orthogonal point cloud projections. In Workshop â€œLaser scanning 2005â€\x9d; International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences: Enschede, The Netherlands, 2005; Volume 36, pp. 209â€“214.
+>>> DOI >>> 10.1016/j.isprsjprs.2010.09.009
+>>> URL >>> http://dx.doi.org/10.1016/j.isprsjprs.2010.09.009
+>>> year >>> 2011.0
+>>> title >>> Quality analysis on 3D building models reconstructed from airborne laser scanning data
+>>> author >>> Sander Oude Elberink and George Vosselman
+>>> reference_count >>> 25.0
+>>> is_referenced_by_count >>> 60.0
+>>> subject >>> None
+>>> container_title >>> ['ISPRS Journal of Photogrammetry and Remote Sensing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T21:56:36Z', 'timestamp': 1525384596133}, 'reference-count': 25, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2011, 3, 1]], 'date-time': '2011-03-01T00:00:00Z', 'timestamp': 1298937600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['ISPRS Journal of Photogrammetry and Remote Sensing'], 'published-print': {'date-parts': [[2011, 3]]}, 'DOI': '10.1016/j.isprsjprs.2010.09.009', 'type': 'journal-article', 'created': {'date-parts': [[2011, 2, 3]], 'date-time': '2011-02-03T09:15:39Z', 'timestamp': 1296724539000}, 'page': '157-165', 'source': 'Crossref', 'is-referenced-by-count': 60, 'title': ['Quality analysis on 3D building models reconstructed from airborne laser scanning data'], 'prefix': '10.1016', 'volume': '66', 'author': [{'given': 'Sander', 'family': 'Oude Elberink', 'sequence': 'first', 'affiliation': []}, {'given': 'George', 'family': 'Vosselman', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['ISPRS Journal of Photogrammetry and Remote Sensing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0924271611000062?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0924271611000062?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T19:20:06Z', 'timestamp': 1497900006000}, 'score': 65.76824, 'issued': {'date-parts': [[2011, 3]]}, 'references-count': 25, 'journal-issue': {'published-print': {'date-parts': [[2011, 3]]}, 'issue': '2'}, 'alternative-id': ['S0924271611000062'], 'URL': 'http://dx.doi.org/10.1016/j.isprsjprs.2010.09.009', 'ISSN': ['0924-2716'], 'issn-type': [{'value': '0924-2716', 'type': 'print'}]}
+>>> hash >>> ('Quality analysis on 3D building models reconstructed from airborne laser scanning data', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Oude Elberink, S. Target graph matching for building reconstruction. In Laserscanning 2009; International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences: Paris, France, 2009; Volume 38, (accepted for publication).
+>>> DOI >>> 10.5194/isprsannals-ii-3-197-2014
+>>> URL >>> http://dx.doi.org/10.5194/isprsannals-ii-3-197-2014
+>>> year >>> 2014.0
+>>> title >>> Building modeling from noisy photogrammetric point clouds
+>>> author >>> B. Xiong and S. Oude Elberink and G. Vosselman
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T01:28:38Z', 'timestamp': 1525829318690}, 'reference-count': 0, 'publisher': 'Copernicus GmbH', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.'], 'abstract': '<jats:p>The Multi-View Stereo (MVS) technology has improved significantly in the last decade, providing a much denser and more accurate point cloud than before. The point cloud now becomes a valuable data for modelling the LOD2 buildings. However, it is still not accurate enough to replace the lidar point cloud. Its relative high level of noise prevents the accurate interpretation of roof faces, e.g. one planar roof face has uneven surface of points therefore is segmented into many parts. The derived roof topology graphs are quite erroneous and cannot be used to model the buildings using the current methods based on roof topology graphs. We propose a parameter-free algorithm to robustly and precisely derive roof structures and building models. The points connecting roof segments are searched and grouped as structure points and structure boundaries, accordingly presenting the roof corners and boundaries. Their geometries are computed by the plane equations of their attached roof segments. If data available, the algorithm guarantees complete building structures in noisy point clouds and meanwhile achieves global optimized models. Experiments show that, when comparing to the roof topology graph based methods, the novel algorithm achieves consistent quality for both lidar and photogrammetric point clouds. But the new method is fully automatic and is a good alternative for the model-driven method when the processing time is important.</jats:p>', 'DOI': '10.5194/isprsannals-ii-3-197-2014', 'type': 'journal-article', 'created': {'date-parts': [[2014, 8, 7]], 'date-time': '2014-08-07T11:55:00Z', 'timestamp': 1407412500000}, 'page': '197-204', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Building modeling from noisy photogrammetric point clouds'], 'prefix': '10.5194', 'volume': 'II-3', 'author': [{'given': 'B.', 'family': 'Xiong', 'sequence': 'first', 'affiliation': []}, {'given': 'S.', 'family': 'Oude Elberink', 'sequence': 'additional', 'affiliation': []}, {'given': 'G.', 'family': 'Vosselman', 'sequence': 'additional', 'affiliation': []}], 'member': '3145', 'published-online': {'date-parts': [[2014, 8, 7]]}, 'container-title': ['ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences'], 'language': 'en', 'link': [{'URL': 'http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-3/197/2014/isprsannals-II-3-197-2014.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 7]], 'date-time': '2014-08-07T11:55:04Z', 'timestamp': 1407412504000}, 'score': 62.36093, 'issued': {'date-parts': [[2014, 8, 7]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.5194/isprsannals-ii-3-197-2014', 'ISSN': ['2194-9050'], 'issn-type': [{'value': '2194-9050', 'type': 'electronic'}]}
+>>> hash >>> ('Building modeling from noisy photogrammetric point clouds', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Maas, H.-G.; Vosselman, G. Two algorithms for extracting building models from raw laser altimetry data. ISPR J. Photogramm 1999, 54, 153â€“163.
+>>> DOI >>> 10.1016/s0924-2716(99)00004-0
+>>> URL >>> http://dx.doi.org/10.1016/s0924-2716(99)00004-0
+>>> year >>> 1999.0
+>>> title >>> Two algorithms for extracting building models from raw laser altimetry data
+>>> author >>> Hans-Gerd Maas and George Vosselman
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 188.0
+>>> subject >>> None
+>>> container_title >>> ['ISPRS Journal of Photogrammetry and Remote Sensing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T23:20:28Z', 'timestamp': 1525303228345}, 'reference-count': 13, 'publisher': 'Elsevier BV', 'issue': '2-3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1999, 7, 1]], 'date-time': '1999-07-01T00:00:00Z', 'timestamp': 930787200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['ISPRS Journal of Photogrammetry and Remote Sensing'], 'published-print': {'date-parts': [[1999, 7]]}, 'DOI': '10.1016/s0924-2716(99)00004-0', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T19:22:38Z', 'timestamp': 1027624958000}, 'page': '153-163', 'source': 'Crossref', 'is-referenced-by-count': 188, 'title': ['Two algorithms for extracting building models from raw laser altimetry data'], 'prefix': '10.1016', 'volume': '54', 'author': [{'given': 'Hans-Gerd', 'family': 'Maas', 'sequence': 'first', 'affiliation': []}, {'given': 'George', 'family': 'Vosselman', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['ISPRS Journal of Photogrammetry and Remote Sensing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0924271699000040?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0924271699000040?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 14]], 'date-time': '2017-06-14T23:55:47Z', 'timestamp': 1497484547000}, 'score': 90.87321, 'issued': {'date-parts': [[1999, 7]]}, 'references-count': 13, 'journal-issue': {'published-print': {'date-parts': [[1999, 7]]}, 'issue': '2-3'}, 'alternative-id': ['S0924271699000040'], 'URL': 'http://dx.doi.org/10.1016/s0924-2716(99)00004-0', 'ISSN': ['0924-2716'], 'issn-type': [{'value': '0924-2716', 'type': 'print'}]}
+>>> hash >>> ('Two algorithms for extracting building models from raw laser altimetry data', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Rottensteiner, F. Consistent estimation of building parameters considering geometric regularities by soft constraints. In International Archives of Photogrammetry; Remote Sensing and Spatial Information Sciences: Bonn, Germany, 2006; Volume 36, pp. 13â€“18.
+>>> DOI >>> 10.5194/isprsarchives-xl-3-w3-145-2015
+>>> URL >>> http://dx.doi.org/10.5194/isprsarchives-xl-3-w3-145-2015
+>>> year >>> 2015.0
+>>> title >>> TRANSFER LEARNING BASED ON LOGISTIC REGRESSION
+>>> author >>> A. Paul and F. Rottensteiner and C. Heipke
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T18:12:53Z', 'timestamp': 1525716773298}, 'reference-count': 0, 'publisher': 'Copernicus GmbH', 'license': [{'URL': 'http://creativecommons.org/licenses/by/3.0/', 'start': {'date-parts': [[2015, 8, 19]], 'date-time': '2015-08-19T00:00:00Z', 'timestamp': 1439942400000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.'], 'abstract': '<jats:p>In this paper we address the problem of classification of remote sensing images in the framework of transfer learning with a focus on domain adaptation. The main novel contribution is a method for transductive transfer learning in remote sensing on the basis of logistic regression. Logistic regression is a discriminative probabilistic classifier of low computational complexity, which can deal with multiclass problems. This research area deals with methods that solve problems in which labelled training data sets are assumed to be available only for a source domain, while classification is needed in the target domain with different, yet related characteristics. Classification takes place with a model of weight coefficients for hyperplanes which separate features in the transformed feature space. In term of logistic regression, our domain adaptation method adjusts the model parameters by iterative labelling of the target test data set. These labelled data features are iteratively added to the current training set which, at the beginning, only contains source features and, simultaneously, a number of source features are deleted from the current training set. Experimental results based on a test series with synthetic and real data constitutes a first proof-of-concept of the proposed method.</jats:p>', 'DOI': '10.5194/isprsarchives-xl-3-w3-145-2015', 'type': 'journal-article', 'created': {'date-parts': [[2015, 8, 21]], 'date-time': '2015-08-21T12:59:08Z', 'timestamp': 1440161948000}, 'page': '145-152', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['TRANSFER LEARNING BASED ON LOGISTIC REGRESSION'], 'prefix': '10.5194', 'volume': 'XL-3/W3', 'author': [{'given': 'A.', 'family': 'Paul', 'sequence': 'first', 'affiliation': []}, {'given': 'F.', 'family': 'Rottensteiner', 'sequence': 'additional', 'affiliation': []}, {'given': 'C.', 'family': 'Heipke', 'sequence': 'additional', 'affiliation': []}], 'member': '3145', 'published-online': {'date-parts': [[2015, 8, 19]]}, 'container-title': ['ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences'], 'language': 'en', 'link': [{'URL': 'http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-3-W3/145/2015/isprsarchives-XL-3-W3-145-2015.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2015, 8, 21]], 'date-time': '2015-08-21T12:59:08Z', 'timestamp': 1440161948000}, 'score': 54.223713, 'issued': {'date-parts': [[2015, 8, 19]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.5194/isprsarchives-xl-3-w3-145-2015', 'ISSN': ['2194-9034'], 'issn-type': [{'value': '2194-9034', 'type': 'electronic'}]}
+>>> hash >>> ('TRANSFER LEARNING BASED ON LOGISTIC REGRESSION', 2015.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Vosselman, G.; Dijkman, S. 3D building model reconstruction from point clouds and ground plans. In ISPRS Workshop Land Surface Mapping and Characterization Using Laser Altimetry; International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences: Annapolis, MD, USA, 2001; Volume 34, pp. 37â€“43.
+>>> DOI >>> 10.5194/isprsannals-ii-3-197-2014
+>>> URL >>> http://dx.doi.org/10.5194/isprsannals-ii-3-197-2014
+>>> year >>> 2014.0
+>>> title >>> Building modeling from noisy photogrammetric point clouds
+>>> author >>> B. Xiong and S. Oude Elberink and G. Vosselman
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T01:28:38Z', 'timestamp': 1525829318690}, 'reference-count': 0, 'publisher': 'Copernicus GmbH', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.'], 'abstract': '<jats:p>The Multi-View Stereo (MVS) technology has improved significantly in the last decade, providing a much denser and more accurate point cloud than before. The point cloud now becomes a valuable data for modelling the LOD2 buildings. However, it is still not accurate enough to replace the lidar point cloud. Its relative high level of noise prevents the accurate interpretation of roof faces, e.g. one planar roof face has uneven surface of points therefore is segmented into many parts. The derived roof topology graphs are quite erroneous and cannot be used to model the buildings using the current methods based on roof topology graphs. We propose a parameter-free algorithm to robustly and precisely derive roof structures and building models. The points connecting roof segments are searched and grouped as structure points and structure boundaries, accordingly presenting the roof corners and boundaries. Their geometries are computed by the plane equations of their attached roof segments. If data available, the algorithm guarantees complete building structures in noisy point clouds and meanwhile achieves global optimized models. Experiments show that, when comparing to the roof topology graph based methods, the novel algorithm achieves consistent quality for both lidar and photogrammetric point clouds. But the new method is fully automatic and is a good alternative for the model-driven method when the processing time is important.</jats:p>', 'DOI': '10.5194/isprsannals-ii-3-197-2014', 'type': 'journal-article', 'created': {'date-parts': [[2014, 8, 7]], 'date-time': '2014-08-07T11:55:00Z', 'timestamp': 1407412500000}, 'page': '197-204', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Building modeling from noisy photogrammetric point clouds'], 'prefix': '10.5194', 'volume': 'II-3', 'author': [{'given': 'B.', 'family': 'Xiong', 'sequence': 'first', 'affiliation': []}, {'given': 'S.', 'family': 'Oude Elberink', 'sequence': 'additional', 'affiliation': []}, {'given': 'G.', 'family': 'Vosselman', 'sequence': 'additional', 'affiliation': []}], 'member': '3145', 'published-online': {'date-parts': [[2014, 8, 7]]}, 'container-title': ['ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences'], 'language': 'en', 'link': [{'URL': 'http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-3/197/2014/isprsannals-II-3-197-2014.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 7]], 'date-time': '2014-08-07T11:55:04Z', 'timestamp': 1407412504000}, 'score': 79.566185, 'issued': {'date-parts': [[2014, 8, 7]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.5194/isprsannals-ii-3-197-2014', 'ISSN': ['2194-9050'], 'issn-type': [{'value': '2194-9050', 'type': 'electronic'}]}
+>>> hash >>> ('Building modeling from noisy photogrammetric point clouds', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Oude Elberink, S. Problems in Automated building reconstruction based on dense airborne laser scanning data. In International Archives of Photogrammetry; Remote Sensing and Spatial Information Sciences: Beijing, China, 2008; Volume 37, pp. 93â€“98.
+>>> DOI >>> 10.5194/isprs-annals-iii-3-241-2016
+>>> URL >>> http://dx.doi.org/10.5194/isprs-annals-iii-3-241-2016
+>>> year >>> 2016.0
+>>> title >>> FOOTPRINT MAP PARTITIONING USING AIRBORNE LASER SCANNING DATA
+>>> author >>> B. Xiong and S. Oude Elberink and G. Vosselman
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T13:51:33Z', 'timestamp': 1525787493148}, 'reference-count': 0, 'publisher': 'Copernicus GmbH', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.'], 'abstract': '<jats:p>Nowadays many cities and countries are creating their 3D building models for a better daily management and smarter decision making. The newly created 3D models are required to be consistent with existing 2D footprint maps. Thereby the 2D maps are usually combined with height data for the task of 3D reconstruction. Many buildings are often composed by parts that are discontinuous over height. Building parts can be reconstructed independently and combined into a complete building. Therefore, most of the state-of-the-art work on 3D building reconstruction first decomposes a footprint map into parts. However, those works usually change the footprint maps for easier partitioning and cannot detect building parts that are fully inside the footprint polygon. In order to solve those problems, we introduce two methodologies, one more dependent on height data, and the other one more dependent on footprints. We also experimentally evaluate the two methodologies and compare their advantages and disadvantages. The experiments use Airborne Laser Scanning (ALS) data and two vector maps, one with 1:10,000 scale and another one with 1:500 scale.</jats:p>', 'DOI': '10.5194/isprs-annals-iii-3-241-2016', 'type': 'journal-article', 'created': {'date-parts': [[2016, 6, 3]], 'date-time': '2016-06-03T13:07:34Z', 'timestamp': 1464959254000}, 'page': '241-247', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['FOOTPRINT MAP PARTITIONING USING AIRBORNE LASER SCANNING DATA'], 'prefix': '10.5194', 'volume': 'III-3', 'author': [{'given': 'B.', 'family': 'Xiong', 'sequence': 'first', 'affiliation': []}, {'given': 'S.', 'family': 'Oude Elberink', 'sequence': 'additional', 'affiliation': []}, {'given': 'G.', 'family': 'Vosselman', 'sequence': 'additional', 'affiliation': []}], 'member': '3145', 'published-online': {'date-parts': [[2016, 6, 3]]}, 'container-title': ['ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences'], 'language': 'en', 'link': [{'URL': 'http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/III-3/241/2016/isprs-annals-III-3-241-2016.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 6, 3]], 'date-time': '2016-06-03T13:07:34Z', 'timestamp': 1464959254000}, 'score': 79.0143, 'issued': {'date-parts': [[2016, 6, 3]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.5194/isprs-annals-iii-3-241-2016', 'ISSN': ['2194-9050'], 'issn-type': [{'value': '2194-9050', 'type': 'electronic'}]}
+>>> hash >>> ('FOOTPRINT MAP PARTITIONING USING AIRBORNE LASER SCANNING DATA', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Rottensteiner, F.; Trinder, J.; Clode, S.; Kubik, K. Automated delineation of roof planes from lidar data. In Workshop â€œLaser scanning 2005â€\x9d; International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences: Enschede, The Netherlands, 2005; Volume 36, pp. 221â€“226.
+>>> DOI >>> 10.1109/igarss.2005.1526226
+>>> URL >>> http://dx.doi.org/10.1109/igarss.2005.1526226
+>>> year >>> None
+>>> title >>> Data acquisition for 3D city models from LIDAR: extracting buildings and roads
+>>> author >>> F. Rottensteiner and J. Trinder and S. Clode
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings. 2005 IEEE International Geoscience and Remote Sensing Symposium, 2005. IGARSS '05."]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T00:10:39Z', 'timestamp': 1525479039920}, 'reference-count': 13, 'publisher': 'IEEE', 'isbn-type': [{'value': '0780390504', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/igarss.2005.1526226', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 11, 15]], 'date-time': '2005-11-15T15:48:27Z', 'timestamp': 1132069707000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Data acquisition for 3D city models from LIDAR: extracting buildings and roads'], 'prefix': '10.1109', 'author': [{'given': 'F.', 'family': 'Rottensteiner', 'sequence': 'first', 'affiliation': []}, {'given': 'J.', 'family': 'Trinder', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.', 'family': 'Clode', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2005 IEEE International Geoscience and Remote Sensing Symposium, 2005. IGARSS '05.", 'location': 'Seoul, Korea'}, 'container-title': ["Proceedings. 2005 IEEE International Geoscience and Remote Sensing Symposium, 2005. IGARSS '05."], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10226/32595/01526226.pdf?arnumber=1526226', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T00:55:06Z', 'timestamp': 1497660906000}, 'score': 65.20628, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0780390504'], 'references-count': 13, 'URL': 'http://dx.doi.org/10.1109/igarss.2005.1526226'}
+>>> hash >>> ('Data acquisition for 3D city models from LIDAR: extracting buildings and roads', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Vosselman, G.; Gorte, B.; Sithole, G.; Rabbani, T. Recognising Structure in Laser Scanner Point Clouds. International Conference NATSCAN â€œLaser-Scanners for Forest and Landscpae Assessment â€“ Instruments, Processing Methods and Applications, ISPRS working group VIII/2; International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences: Freiburg im Breisgau, Germany, 2004; 34. Part 8, W2..
+>>> DOI >>> 10.5194/isprsannals-i-3-161-2012
+>>> URL >>> http://dx.doi.org/10.5194/isprsannals-i-3-161-2012
+>>> year >>> 2012.0
+>>> title >>> MOVING WINDOW SEGMENTATION FRAMEWORK FOR POINT CLOUDS
+>>> author >>> G. Sithole and B. Gorte
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T20:52:43Z', 'timestamp': 1525553563310}, 'reference-count': 0, 'publisher': 'Copernicus GmbH', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.'], 'DOI': '10.5194/isprsannals-i-3-161-2012', 'type': 'journal-article', 'created': {'date-parts': [[2012, 10, 22]], 'date-time': '2012-10-22T13:59:02Z', 'timestamp': 1350914342000}, 'page': '161-166', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['MOVING WINDOW SEGMENTATION FRAMEWORK FOR POINT CLOUDS'], 'prefix': '10.5194', 'volume': 'I-3', 'author': [{'given': 'G.', 'family': 'Sithole', 'sequence': 'first', 'affiliation': []}, {'given': 'B.', 'family': 'Gorte', 'sequence': 'additional', 'affiliation': []}], 'member': '3145', 'published-online': {'date-parts': [[2012, 7, 20]]}, 'container-title': ['ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences'], 'language': 'en', 'link': [{'URL': 'http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/I-3/161/2012/isprsannals-I-3-161-2012.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2012, 10, 22]], 'date-time': '2012-10-22T13:59:02Z', 'timestamp': 1350914342000}, 'score': 81.35364, 'issued': {'date-parts': [[2012, 7, 20]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.5194/isprsannals-i-3-161-2012', 'ISSN': ['2194-9050'], 'issn-type': [{'value': '2194-9050', 'type': 'electronic'}]}
+>>> hash >>> ('MOVING WINDOW SEGMENTATION FRAMEWORK FOR POINT CLOUDS', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Dorninger, P.; Pfeifer, N. A comprehensive automated 3D approach for building extraction, reconstruction, and regularization from airborne laser scanning point clouds. Sensors 2008, 8, 7323â€“7343.
+>>> DOI >>> 10.3390/s8117323
+>>> URL >>> http://dx.doi.org/10.3390/s8117323
+>>> year >>> 2008.0
+>>> title >>> A Comprehensive Automated 3D Approach for Building Extraction, Reconstruction, and Regularization from Airborne Laser Scanning Point Clouds
+>>> author >>> Peter Dorninger and Norbert Pfeifer
+>>> reference_count >>> 39.0
+>>> is_referenced_by_count >>> 130.0
+>>> subject >>> None
+>>> container_title >>> ['Sensors']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 13]], 'date-time': '2018-05-13T04:02:30Z', 'timestamp': 1526184150333}, 'reference-count': 39, 'publisher': 'MDPI AG', 'issue': '11', 'license': [{'URL': 'https://creativecommons.org/licenses/by/4.0/', 'start': {'date-parts': [[2008, 11, 17]], 'date-time': '2008-11-17T00:00:00Z', 'timestamp': 1226880000000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Sensors'], 'DOI': '10.3390/s8117323', 'type': 'journal-article', 'created': {'date-parts': [[2008, 11, 17]], 'date-time': '2008-11-17T20:28:52Z', 'timestamp': 1226953732000}, 'page': '7323-7343', 'source': 'Crossref', 'is-referenced-by-count': 130, 'title': ['A Comprehensive Automated 3D Approach for Building Extraction, Reconstruction, and Regularization from Airborne Laser Scanning Point Clouds'], 'prefix': '10.3390', 'volume': '8', 'author': [{'given': 'Peter', 'family': 'Dorninger', 'sequence': 'first', 'affiliation': []}, {'given': 'Norbert', 'family': 'Pfeifer', 'sequence': 'additional', 'affiliation': []}], 'member': '1968', 'published-online': {'date-parts': [[2008, 11, 17]]}, 'reference': [{'key': 'ref1', 'doi-asserted-by': 'crossref', 'first-page': '4505', 'DOI': '10.3390/s8084505', 'article-title': 'Object-based point cloud analysis of full-waveform airborne laser scanning data for urban vegetation classification', 'volume': '8', 'author': 'Rutzinger', 'year': '2008', 'journal-title': 'Sensors'}, {'issue': '5', 'key': 'ref2', 'doi-asserted-by': 'crossref', 'first-page': '517', 'DOI': '10.14358/PERS.73.5.517', 'article-title': 'Detection and vectorization of roads from lidar data', 'volume': '73', 'author': 'Clode', 'year': '2007', 'journal-title': 'Photogramm. Eng. Remote Sens.'}, {'key': 'ref3'}, {'key': 'ref4'}, {'key': 'ref5', 'author': 'Shan', 'year': '2008', 'series-title': 'Topographic laser ranging and scanning: Principles and processing.'}, {'issue': '2', 'key': 'ref6', 'doi-asserted-by': 'crossref', 'first-page': '328', 'DOI': '10.1109/TPAMI.2007.1166', 'article-title': 'Stereo processing by semi-global matching and mutual information', 'volume': '30', 'author': 'Hirschmüller', 'year': '2008', 'journal-title': 'IEEE Trans. Pattern Anal. Mach. Intell.'}, {'key': 'ref7', 'author': 'Kraus', 'year': '2007', 'series-title': 'Photogrammetry – Geometry from Images and Laser Scans.'}, {'key': 'ref8'}, {'key': 'ref9'}, {'key': 'ref10'}, {'key': 'ref11'}, {'key': 'ref12'}, {'key': 'ref13'}, {'key': 'ref14'}, {'key': 'ref15'}, {'key': 'ref16'}, {'key': 'ref17'}, {'key': 'ref18'}, {'key': 'ref19', 'doi-asserted-by': 'crossref', 'first-page': '365', 'DOI': '10.1016/j.isprsjprs.2007.09.003', 'article-title': 'Automatic building extraction from dems using an object approach and application to the 3d-city modelling', 'volume': '63', 'author': 'Lafarge', 'year': '2008', 'journal-title': 'ISPRS J. Photogramm. Remote Sens.'}, {'issue': '6', 'key': 'ref20', 'doi-asserted-by': 'crossref', 'first-page': '743', 'DOI': '10.14358/PERS.71.6.743', 'article-title': 'Neighborhood systems for airborne laser data', 'volume': '71', 'author': 'Filin', 'year': '2005', 'journal-title': 'Photogramm. Eng. Remote Sens.'}, {'issue': '1-2', 'key': 'ref21', 'doi-asserted-by': 'crossref', 'first-page': '85', 'DOI': '10.1016/j.isprsjprs.2004.05.004', 'article-title': 'Experimental comparison of filtering algorithms for bare-earth extraction from airborne laser scanning point clouds', 'volume': '59', 'author': 'Sithole', 'year': '2004', 'journal-title': 'ISPRS J. Photogramm. Remote Sens.'}, {'key': 'ref22', 'doi-asserted-by': 'crossref', 'first-page': '193', 'DOI': '10.1016/S0924-2716(98)00009-4', 'article-title': 'Determination of terrain models in wooded areas with airborne laser scanner data', 'volume': '53', 'author': 'Kraus', 'year': '1998', 'journal-title': 'ISPRS J. Photogramm. Remote Sens.'}, {'key': 'ref23'}, {'issue': '7', 'key': 'ref24', 'doi-asserted-by': 'crossref', 'first-page': '805', 'DOI': '10.14358/PERS.73.7.805', 'article-title': 'Building boundary tracing and regularization from airborne lidar point clouds', 'volume': '73', 'author': 'Sampath', 'year': '2007', 'journal-title': 'Photogramm. Eng. Remote Sens.'}, {'key': 'ref25'}, {'key': 'ref26'}, {'issue': '2/3', 'key': 'ref27', 'doi-asserted-by': 'crossref', 'first-page': '153', 'DOI': '10.1016/S0924-2716(99)00004-0', 'article-title': 'Two algorithms for extracting building models from raw laser altimetry data', 'volume': '54', 'author': 'Maas', 'year': '1999', 'journal-title': 'ISPRS J. Photogramm. Remote Sens.'}, {'key': 'ref28'}, {'issue': '2', 'key': 'ref29', 'doi-asserted-by': 'crossref', 'first-page': '71', 'DOI': '10.1016/j.isprsjprs.2005.10.005', 'article-title': 'Segmentation of airborne laser scanning data using a slope adaptive neighbor hood', 'volume': '60', 'author': 'Filin', 'year': '2006', 'journal-title': 'ISPRS J. Photogramm. Remote Sens.'}, {'key': 'ref30'}, {'key': 'ref31', 'doi-asserted-by': 'crossref', 'first-page': '127', 'DOI': '10.1142/S0218654398000106', 'article-title': 'Reverse engineering of regular objects: simple segmentation and surface fitting procedures', 'volume': '4', 'author': 'Varady', 'year': '1998', 'journal-title': 'Int. J. Shap. Modell.'}, {'issue': '6', 'key': 'ref32', 'doi-asserted-by': 'crossref', 'first-page': '539', 'DOI': '10.1016/S0167-8396(99)00012-6', 'article-title': 'Approximation algorithms for developable surfaces', 'volume': '16', 'author': 'Pottmann', 'year': '1999', 'journal-title': 'Comput. Aided. Geom. Des.'}, {'issue': '2', 'key': 'ref33', 'first-page': '243', 'article-title': 'Approximation in the space of planes - applications to geometric modeling and reverse engineering', 'volume': '96', 'author': 'Peternell', 'year': '2002', 'journal-title': 'Rev. Real Acad. Cienc. Ser. A Math.'}, {'issue': '3', 'key': 'ref34', 'first-page': '445', 'article-title': 'The mean shift algorithm for clustering point clouds', 'volume': '1', 'author': 'Melzer', 'year': '2007', 'journal-title': 'J. Appl. Geod.'}, {'key': 'ref35'}, {'key': 'ref36', 'author': 'Nothegger', 'volume': '1', 'year': '2009', 'article-title': '3D filtering of high-resolution terrestrial laser scanner point clouds for cultural heritage documentation', 'journal-title': 'Photogramm. Fernerkund. Geoinf.'}, {'issue': '1', 'key': 'ref37', 'doi-asserted-by': 'crossref', 'first-page': '43', 'DOI': '10.1145/174462.156635', 'article-title': 'Three-dimensional alpha shapes', 'volume': '13', 'author': 'Edelsbrunner', 'year': '1994', 'journal-title': 'ACM Trans. Graph.'}, {'key': 'ref38', 'year': '2008', 'series-title': 'OpenGIS City Geography Markup Language (CityGML) Encoding Standard Copyright.'}, {'key': 'ref39'}], 'container-title': ['Sensors'], 'language': 'en', 'link': [{'URL': 'http://www.mdpi.com/1424-8220/8/11/7323/pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 3, 15]], 'date-time': '2018-03-15T16:14:01Z', 'timestamp': 1521130441000}, 'score': 122.015785, 'issued': {'date-parts': [[2008, 11, 17]]}, 'references-count': 39, 'journal-issue': {'published-online': {'date-parts': [[2008, 11]]}, 'issue': '11'}, 'alternative-id': ['s8117323'], 'URL': 'http://dx.doi.org/10.3390/s8117323', 'relation': {'cites': []}, 'ISSN': ['1424-8220'], 'issn-type': [{'value': '1424-8220', 'type': 'electronic'}]}
+>>> hash >>> ('A Comprehensive Automated 3D Approach for Building Extraction, Reconstruction, and Regularization from Airborne Laser Scanning Point Clouds', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sithole, G.; Vosselman, G. Experimental comparison of filter algorithms for bare earth extraction from airborne laser scanning point clouds. ISPRS J. Phtogramm 2004, 59, 85â€“101.
+>>> DOI >>> 10.1016/j.isprsjprs.2004.05.004
+>>> URL >>> http://dx.doi.org/10.1016/j.isprsjprs.2004.05.004
+>>> year >>> 2004.0
+>>> title >>> Experimental comparison of filter algorithms for bare-Earth extraction from airborne laser scanning point clouds
+>>> author >>> George Sithole and George Vosselman
+>>> reference_count >>> 26.0
+>>> is_referenced_by_count >>> 388.0
+>>> subject >>> None
+>>> container_title >>> ['ISPRS Journal of Photogrammetry and Remote Sensing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T11:02:28Z', 'timestamp': 1528282948274}, 'reference-count': 26, 'publisher': 'Elsevier BV', 'issue': '1-2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2004, 8, 1]], 'date-time': '2004-08-01T00:00:00Z', 'timestamp': 1091318400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['ISPRS Journal of Photogrammetry and Remote Sensing'], 'published-print': {'date-parts': [[2004, 8]]}, 'DOI': '10.1016/j.isprsjprs.2004.05.004', 'type': 'journal-article', 'created': {'date-parts': [[2004, 7, 22]], 'date-time': '2004-07-22T19:46:18Z', 'timestamp': 1090525578000}, 'page': '85-101', 'source': 'Crossref', 'is-referenced-by-count': 388, 'title': ['Experimental comparison of filter algorithms for bare-Earth extraction from airborne laser scanning point clouds'], 'prefix': '10.1016', 'volume': '59', 'author': [{'given': 'George', 'family': 'Sithole', 'sequence': 'first', 'affiliation': []}, {'given': 'George', 'family': 'Vosselman', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['ISPRS Journal of Photogrammetry and Remote Sensing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0924271604000140?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0924271604000140?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T09:00:35Z', 'timestamp': 1497603635000}, 'score': 96.71113, 'issued': {'date-parts': [[2004, 8]]}, 'references-count': 26, 'journal-issue': {'published-print': {'date-parts': [[2004, 8]]}, 'issue': '1-2'}, 'alternative-id': ['S0924271604000140'], 'URL': 'http://dx.doi.org/10.1016/j.isprsjprs.2004.05.004', 'ISSN': ['0924-2716'], 'issn-type': [{'value': '0924-2716', 'type': 'print'}]}
+>>> hash >>> ('Experimental comparison of filter algorithms for bare-Earth extraction from airborne laser scanning point clouds', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ameri, B. Feature Based Model Verification (FBMV): a new concept for hypothesis validation in building reconstruction. In XIX ISPRS Congress; International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences: Amsterdam, The Netherlands, 2000; Volume 33, pp. 24â€“35.
+>>> DOI >>> 10.1201/9780203888445.ch34
+>>> URL >>> http://dx.doi.org/10.1201/9780203888445.ch34
+>>> year >>> 2008.0
+>>> title >>> International cooperation and capacity building
+>>> author >>> Ian Dowman and Shunji Murai
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Advances in Photogrammetry, Remote Sensing and Spatial Information Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database76.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T00:34:25Z', 'timestamp': 1525307665148}, 'reference-count': 0, 'publisher': 'CRC Press', 'isbn-type': [{'value': '9780415478052', 'type': 'print'}, {'value': '9780203888445', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 7]]}, 'DOI': '10.1201/9780203888445.ch34', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 3, 8]], 'date-time': '2010-03-08T13:38:35Z', 'timestamp': 1268055515000}, 'page': '485-489', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['International cooperation and capacity building'], 'prefix': '10.1201', 'author': [{'given': 'Ian', 'family': 'Dowman', 'sequence': 'first', 'affiliation': []}, {'given': 'Shunji', 'family': 'Murai', 'sequence': 'additional', 'affiliation': []}], 'member': '301', 'published-online': {'date-parts': [[2010, 3, 8]]}, 'container-title': ['Advances in Photogrammetry, Remote Sensing and Spatial Information Sciences'], 'link': [{'URL': 'http://www.crcnetbase.com/doi/pdf/10.1201/9780203888445.ch34', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 9, 9]], 'date-time': '2016-09-09T01:06:03Z', 'timestamp': 1473383163000}, 'score': 61.108208, 'issued': {'date-parts': [[2008, 7]]}, 'ISBN': ['9780415478052', '9780203888445'], 'references-count': 0, 'alternative-id': ['10.1201/9780203888445.ch34', '10.1201/9780203888445'], 'URL': 'http://dx.doi.org/10.1201/9780203888445.ch34'}
+>>> hash >>> ('International cooperation and capacity building', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

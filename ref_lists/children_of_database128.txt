@@ -1,0 +1,553 @@
+>>> NEW PAPER <<<
+>>> citation >>> A. Walenstein, M. Venable, M. Hayes, C. Thompson, and A. Lakhotia. Exploiting similarity between variants to defeat malware. In Proceedings of BlackHat DC 2007, 2007.
+>>> DOI >>> 10.1145/1314389.1314397
+>>> URL >>> http://dx.doi.org/10.1145/1314389.1314397
+>>> year >>> 2007.0
+>>> title >>> Statistical signatures for fast filtering of instruction-substituting metamorphic malware
+>>> author >>> Mohamed R. Chouchane and Andrew Walenstein and Arun Lakhotia
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2007 ACM workshop on Recurring malcode - WORM '07"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T05:19:50Z', 'timestamp': 1525497590868}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781595938862', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.1145/1314389.1314397', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 9, 28]], 'date-time': '2009-09-28T17:33:43Z', 'timestamp': 1254159223000}, 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Statistical signatures for fast filtering of instruction-substituting metamorphic malware'], 'prefix': '10.1145', 'author': [{'given': 'Mohamed R.', 'family': 'Chouchane', 'sequence': 'first', 'affiliation': []}, {'given': 'Andrew', 'family': 'Walenstein', 'sequence': 'additional', 'affiliation': []}, {'given': 'Arun', 'family': 'Lakhotia', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2007 ACM workshop', 'location': 'Alexandria, Virginia, USA', 'sponsor': ['SIGSAC, ACM Special Interest Group on Security, Audit, and Control', 'ACM, Association for Computing Machinery'], 'acronym': "WORM '07", 'number': '5', 'start': {'date-parts': [[2007, 11, 2]]}, 'end': {'date-parts': [[2007, 11, 2]]}}, 'container-title': ["Proceedings of the 2007 ACM workshop on Recurring malcode - WORM '07"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1314397&amp;ftid=487057&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T12:30:01Z', 'timestamp': 1481891401000}, 'score': 44.63711, 'issued': {'date-parts': [[2007]]}, 'ISBN': ['9781595938862'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1314389.1314397'}
+>>> hash >>> ('Statistical signatures for fast filtering of instruction-substituting metamorphic malware', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Mihai Christodorescu , Somesh Jha, Static analysis of executables to detect malicious patterns, Proceedings of the 12th conference on USENIX Security Symposium, p.12-12, August 04-08, 2003, Washington, DC
+>>> DOI >>> 10.21236/ada449067
+>>> URL >>> http://dx.doi.org/10.21236/ada449067
+>>> year >>> 2006.0
+>>> title >>> Static Analysis of Executables to Detect Malicious Patterns
+>>> author >>> Mihai Christodorescu and Somesh Jha
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 10.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'institution': {'name': 'US Dept of the Navy', 'place': ['-', '-'], 'department': ['Funding', 'Performing'], 'acronym': ['ONR', '-']}, 'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T19:28:51Z', 'timestamp': 1525721331099}, 'publisher-location': 'Fort Belvoir, VA', 'reference-count': 0, 'publisher': 'Defense Technical Information Center', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006, 1, 1]]}, 'DOI': '10.21236/ada449067', 'type': 'report', 'created': {'date-parts': [[2017, 7, 28]], 'date-time': '2017-07-28T14:40:54Z', 'timestamp': 1501252854000}, 'source': 'Crossref', 'is-referenced-by-count': 10, 'title': ['Static Analysis of Executables to Detect Malicious Patterns'], 'prefix': '10.21236', 'author': [{'given': 'Mihai', 'family': 'Christodorescu', 'sequence': 'first', 'affiliation': []}, {'given': 'Somesh', 'family': 'Jha', 'sequence': 'first', 'affiliation': []}], 'member': '9879', 'original-title': [''], 'deposited': {'date-parts': [[2017, 7, 28]], 'date-time': '2017-07-28T14:40:54Z', 'timestamp': 1501252854000}, 'score': 87.78794, 'subtitle': [''], 'issued': {'date-parts': [[2006, 1, 1]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.21236/ada449067'}
+>>> hash >>> ('Static Analysis of Executables to Detect Malicious Patterns', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Flake. Structural comparison of executable objects. In Proceedings of the IEEE Conference on Detection of Intrusions, Malware and Vulnerability Assessment (DIMVA), pages 161--173, 2004.
+>>> DOI >>> 10.1007/978-3-642-14215-4_10
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-14215-4_10
+>>> year >>> 2010.0
+>>> title >>> KIDS – Keyed Intrusion Detection System
+>>> author >>> Sasa Mrdovic and Branislava Drazenovic
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['Detection of Intrusions and Malware, and Vulnerability Assessment', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T06:51:01Z', 'timestamp': 1525330261642}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642142147', 'type': 'print'}, {'value': '9783642142154', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.1007/978-3-642-14215-4_10', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 7, 2]], 'date-time': '2010-07-02T05:18:35Z', 'timestamp': 1278047915000}, 'page': '173-182', 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['KIDS – Keyed Intrusion Detection System'], 'prefix': '10.1007', 'author': [{'given': 'Sasa', 'family': 'Mrdovic', 'sequence': 'first', 'affiliation': []}, {'given': 'Branislava', 'family': 'Drazenovic', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Detection of Intrusions and Malware, and Vulnerability Assessment', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-14215-4_10', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 22]], 'date-time': '2014-01-22T17:05:22Z', 'timestamp': 1390410322000}, 'score': 41.621613, 'issued': {'date-parts': [[2010]]}, 'ISBN': ['9783642142147', '9783642142154'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-14215-4_10', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('KIDS – Keyed Intrusion Detection System', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Jack Edmonds , Richard M. Karp, Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems, Journal of the ACM (JACM), v.19 n.2, p.248-264, April 1972  [doi>10.1145/321694.321699]
+>>> DOI >>> 10.1145/321694.321699
+>>> URL >>> http://dx.doi.org/10.1145/321694.321699
+>>> year >>> 1972.0
+>>> title >>> Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems
+>>> author >>> Jack Edmonds and Richard M. Karp
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 886.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 20]], 'date-time': '2018-05-20T14:22:40Z', 'timestamp': 1526826160657}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JACM', 'J. ACM'], 'published-print': {'date-parts': [[1972, 4, 1]]}, 'DOI': '10.1145/321694.321699', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:26:10Z', 'timestamp': 1027769170000}, 'page': '248-264', 'source': 'Crossref', 'is-referenced-by-count': 886, 'title': ['Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems'], 'prefix': '10.1145', 'volume': '19', 'author': [{'given': 'Jack', 'family': 'Edmonds', 'sequence': 'first', 'affiliation': []}, {'given': 'Richard M.', 'family': 'Karp', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['Journal of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=321699&amp;ftid=58475&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T06:07:05Z', 'timestamp': 1481868425000}, 'score': 95.52147, 'issued': {'date-parts': [[1972, 4, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1145/321694.321699', 'ISSN': ['0004-5411'], 'issn-type': [{'value': '0004-5411', 'type': 'print'}]}
+>>> hash >>> ('Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems', 1972.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Kirkpatrick, C. Gelatt Jr, and M. Vecchi. Optimization by simulated annealing. Science, 220(4598): 671, 1983.
+>>> DOI >>> 10.1126/science.220.4598.671
+>>> URL >>> http://dx.doi.org/10.1126/science.220.4598.671
+>>> year >>> 1983.0
+>>> title >>> Optimization by Simulated Annealing
+>>> author >>> S. Kirkpatrick and C. D. Gelatt and M. P. Vecchi
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 18188.0
+>>> subject >>> None
+>>> container_title >>> ['Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T17:02:34Z', 'timestamp': 1528390954231}, 'reference-count': 0, 'publisher': 'American Association for the Advancement of Science (AAAS)', 'issue': '4598', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Science'], 'published-print': {'date-parts': [[1983, 5, 13]]}, 'DOI': '10.1126/science.220.4598.671', 'type': 'journal-article', 'created': {'date-parts': [[2006, 10, 5]], 'date-time': '2006-10-05T18:37:18Z', 'timestamp': 1160073438000}, 'page': '671-680', 'source': 'Crossref', 'is-referenced-by-count': 18188, 'title': ['Optimization by Simulated Annealing'], 'prefix': '10.1126', 'volume': '220', 'author': [{'given': 'S.', 'family': 'Kirkpatrick', 'sequence': 'first', 'affiliation': []}, {'given': 'C. D.', 'family': 'Gelatt', 'sequence': 'additional', 'affiliation': []}, {'given': 'M. P.', 'family': 'Vecchi', 'sequence': 'additional', 'affiliation': []}], 'member': '221', 'container-title': ['Science'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1126/science.220.4598.671', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 23]], 'date-time': '2016-12-23T11:32:56Z', 'timestamp': 1482492776000}, 'score': 89.26048, 'issued': {'date-parts': [[1983, 5, 13]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1983, 5, 13]]}, 'issue': '4598'}, 'URL': 'http://dx.doi.org/10.1126/science.220.4598.671', 'ISSN': ['0036-8075', '1095-9203'], 'issn-type': [{'value': '0036-8075', 'type': 'print'}, {'value': '1095-9203', 'type': 'electronic'}]}
+>>> hash >>> ('Optimization by Simulated Annealing', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Zhiping Zeng , Anthony K. H. Tung , Jianyong Wang , Jianhua Feng , Lizhu Zhou, Comparing stars: on approximating graph edit distance, Proceedings of the VLDB Endowment, v.2 n.1, August 2009
+>>> DOI >>> 10.14778/1687627.1687631
+>>> URL >>> http://dx.doi.org/10.14778/1687627.1687631
+>>> year >>> 2009.0
+>>> title >>> Comparing stars
+>>> author >>> Zhiping Zeng and Anthony K. H. Tung and Jianyong Wang and Jianhua Feng and Lizhu Zhou
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 74.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:31:32Z', 'timestamp': 1525797092006}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2009, 8, 1]]}, 'DOI': '10.14778/1687627.1687631', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '25-36', 'source': 'Crossref', 'is-referenced-by-count': 74, 'title': ['Comparing stars'], 'prefix': '10.14778', 'volume': '2', 'author': [{'given': 'Zhiping', 'family': 'Zeng', 'sequence': 'first', 'affiliation': []}, {'given': 'Anthony K. H.', 'family': 'Tung', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jianyong', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jianhua', 'family': 'Feng', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lizhu', 'family': 'Zhou', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:21:47Z', 'timestamp': 1403612507000}, 'score': 96.97569, 'subtitle': ['on approximating graph edit distance'], 'issued': {'date-parts': [[2009, 8, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2009, 8, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.14778/1687627.1687631', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('Comparing stars', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Xinbo Gao , Bing Xiao , Dacheng Tao , Xuelong Li, A survey of graph edit distance, Pattern Analysis & Applications, v.13 n.1, p.113-129, January 2010  [doi>10.1007/s10044-008-0141-y]
+>>> DOI >>> 10.1007/s10044-008-0141-y
+>>> URL >>> http://dx.doi.org/10.1007/s10044-008-0141-y
+>>> year >>> 2009.0
+>>> title >>> A survey of graph edit distance
+>>> author >>> Xinbo Gao and Bing Xiao and Dacheng Tao and Xuelong Li
+>>> reference_count >>> 71.0
+>>> is_referenced_by_count >>> 180.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Analysis and Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T21:02:28Z', 'timestamp': 1527282148389}, 'reference-count': 71, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Anal Applic'], 'published-print': {'date-parts': [[2010, 2]]}, 'DOI': '10.1007/s10044-008-0141-y', 'type': 'journal-article', 'created': {'date-parts': [[2009, 1, 12]], 'date-time': '2009-01-12T06:07:38Z', 'timestamp': 1231740458000}, 'page': '113-129', 'source': 'Crossref', 'is-referenced-by-count': 180, 'title': ['A survey of graph edit distance'], 'prefix': '10.1007', 'volume': '13', 'author': [{'given': 'Xinbo', 'family': 'Gao', 'sequence': 'first', 'affiliation': []}, {'given': 'Bing', 'family': 'Xiao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Dacheng', 'family': 'Tao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xuelong', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2009, 1, 13]]}, 'reference': [{'issue': '5', 'key': '141_CR1', 'first-page': '695', 'volume': '10', 'author': 'S Umeyama', 'year': '1988', 'unstructured': 'Umeyama S (1988) An eigendecomposition approach to weighted graph matching problems. IEEE Trans Pattern Anal Mach Intell 10(5):695–703', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'key': '141_CR2', 'unstructured': 'Bunke H (2000) Recent developments in graph matching. In: Proceedings of IEEE international conference on pattern recognition, Barcelona, pp 117–124'}, {'issue': '4', 'key': '141_CR3', 'first-page': '515', 'volume': '26', 'author': 'T Caelli', 'year': '2004', 'unstructured': 'Caelli T, Kosinov S (2004) An eigenspace projection clustering method for inexact graph matching. IEEE Trans Pattern Anal Mach Intell 26(4):515–519', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'issue': '7', 'key': '141_CR4', 'first-page': '953', 'volume': '30', 'author': 'ADJ Cross', 'year': '1997', 'unstructured': 'Cross ADJ, Wilson RC, Hancock ER (1997) Inexact graph matching using genetic search. Pattern Recognit 30(7):953–970', 'journal-title': 'Pattern Recognit'}, {'issue': '1', 'key': '141_CR5', 'first-page': '168', 'volume': '21', 'author': 'RA Wagner', 'year': '1974', 'unstructured': 'Wagner RA, Fischer MJ (1974) The string-to-string correction problem. J ACM 21(1):168–173', 'journal-title': 'J ACM'}, {'issue': '4', 'key': '141_CR6', 'first-page': '393', 'volume': '16', 'author': 'JRT Pavlidis', 'year': '1994', 'unstructured': 'Pavlidis JRT (1994) A shape analysis model with applications to a character recognition system. IEEE Trans Pattern Anal Mach Intell 16(4):393–404', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'issue': '4', 'key': '141_CR7', 'first-page': '588', 'volume': '27', 'author': 'Y-K Wang', 'year': '1997', 'unstructured': 'Wang Y-K, Fan K-C, Horng J-T (1997) Genetic-based search for error-correcting graph isomorphism. IEEE Trans Syst Man Cybern B Cybern 27(4):588–597', 'journal-title': 'IEEE Trans Syst Man Cybern B Cybern'}, {'issue': '5', 'key': '141_CR8', 'first-page': '550', 'volume': '26', 'author': 'TB Sebastian', 'year': '2004', 'unstructured': 'Sebastian TB, Klien P, Kimia BB (2004) Recognition of shapes by editing their shock graphs. IEEE Trans Pattern Anal Mach Intell 26(5):550–571', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'key': '141_CR9', 'unstructured': 'He L, Han CY, Wee WG (2006) Object recognition and recovery by skeleton graph matching. In: Proceedings of IEEE international conference on multimedia and expo, Toronto, pp 993–996'}, {'issue': '5', 'key': '141_CR10', 'first-page': '1075', 'volume': '34', 'author': 'K Shearer', 'year': '2001', 'unstructured': 'Shearer K, Bunke H, Venkatesh S (2001) Video indexing and similarity retrieval by largest common subgraph detection using decision trees. Pattern Recognit 34(5):1075–1091', 'journal-title': 'Pattern Recognit'}, {'key': '141_CR11', 'unstructured': 'Lee J (2006) A graph-based approach for modeling and indexing video data. In: Proceedings of IEEE international symposium on multimedia, San Diego, pp 348–355'}, {'key': '141_CR12', 'unstructured': 'Tao D, Tang X (2004) Nonparametric discriminant analysis in relevance feedback for content-based image retrieval. In: Proceedings of IEEE international conference on pattern recognition, Cambridge, pp 1013–1016'}, {'issue': '4', 'key': '141_CR13', 'first-page': '716', 'volume': '8', 'author': 'D Tao', 'year': '2006', 'unstructured': 'Tao D, Tang X, Li X et al (2006) Kernel direct biased discriminant analysis: a new content-based image retrieval relevance feedback algorithm. IEEE Trans Multimedia 8(4):716–727', 'journal-title': 'IEEE Trans Multimedia'}, {'issue': '1', 'key': '141_CR14', 'first-page': '1', 'volume': '18', 'author': 'D Tao', 'year': '2008', 'unstructured': 'Tao D, Tang X, Li X (2008) Which components are important for interactive image searching? IEEE Trans Circuits Syst Video Technol 18(1):1–11', 'journal-title': 'IEEE Trans Circuits Syst Video Technol'}, {'issue': '8', 'key': '141_CR15', 'first-page': '749', 'volume': '17', 'author': 'WJ Christmas', 'year': '1995', 'unstructured': 'Christmas WJ, Kittler J, Petrou M (1995) Structural matching in computer vision using probabilistic relaxation. IEEE Trans Pattern Anal Mach Intell 17(8):749–764', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'issue': '10–12', 'key': '141_CR16', 'first-page': '1921', 'volume': '71', 'author': 'X Gao', 'year': '2008', 'unstructured': 'Gao X, Zhong J, Tao D et al (2008) Local face sketch synthesis learning. Neurocomputing 71(10–12):1921–1930', 'journal-title': 'Neurocomputing'}, {'issue': '3', 'key': '141_CR17', 'doi-asserted-by': 'crossref', 'first-page': '353', 'DOI': '10.1109/TSMC.1983.6313167', 'volume': '13', 'author': 'A Sanfeliu', 'year': '1983', 'unstructured': 'Sanfeliu A, Fu KS (1983) A distance measure between attributed relational graphs for pattern recognition. IEEE Trans Syst Man Cybern 13(3):353–362', 'journal-title': 'IEEE Trans Syst Man Cybern'}, {'key': '141_CR18', 'unstructured': 'Messmer BT, Bunke H (1994) Efficient error-tolerant subgraph isomorphism detection. Shape Struct Pattern Recognit:231–240'}, {'issue': '5', 'key': '141_CR19', 'first-page': '493', 'volume': '20', 'author': 'BT Messmer', 'year': '1998', 'unstructured': 'Messmer BT, Bunke H (1998) A new algorithm for error-tolerant subgraph isomorphism detection. IEEE Trans Pattern Anal Mach Intell 20(5):493–504', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'issue': '8', 'key': '141_CR20', 'first-page': '689', 'volume': '18', 'author': 'H Bunke', 'year': '1997', 'unstructured': 'Bunke H (1997) On a relation between graph edit distance and maximum common subgraph. Pattern Recognit Lett 18(8):689–694', 'journal-title': 'Pattern Recognit Lett'}, {'issue': '9', 'key': '141_CR21', 'first-page': '917', 'volume': '21', 'author': 'H Bunke', 'year': '1999', 'unstructured': 'Bunke H (1999) Error correcting graph matching: on the influence of the underlying cost function. IEEE Trans Pattern Anal Mach Intell 21(9):917–922', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'issue': '6', 'key': '141_CR22', 'first-page': '1245', 'volume': '18', 'author': 'D Shasha', 'year': '1989', 'unstructured': 'Shasha D, Zhang K (1989) Simple fast algorithms for the editing distance between trees and related problems. SIAM J Comput 18(6):1245–1262', 'journal-title': 'SIAM J Comput'}, {'issue': '3', 'key': '141_CR23', 'first-page': '205', 'volume': '15', 'author': 'K Zhang', 'year': '1996', 'unstructured': 'Zhang K (1996) A constrained edit distance between unordered labeled trees. Algorithmica 15(3):205–222', 'journal-title': 'Algorithmica'}, {'issue': '6', 'key': '141_CR24', 'first-page': '628', 'volume': '22', 'author': 'R Myers', 'year': '2000', 'unstructured': 'Myers R, Wilson RC, Hancock ER (2000) Bayesian graph edit distance. IEEE Trans Pattern Anal Mach Intell 22(6):628–635', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'issue': '3', 'key': '141_CR25', 'first-page': '311', 'volume': '26', 'author': 'J Wei', 'year': '2004', 'unstructured': 'Wei J (2004) Markov edit distance. IEEE Trans Pattern Anal Mach Intell 26(3):311–321', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'issue': '9', 'key': '141_CR26', 'first-page': '926', 'volume': '15', 'author': 'A Marzal', 'year': '1993', 'unstructured': 'Marzal A, Vidal E (1993) Computation of normalized edit distance and applications. IEEE Trans Pattern Anal Mach Intell 15(9):926–932', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'key': '141_CR27', 'unstructured': 'Myers R, Wilson RC, Hancock ER (1998) Efficient relational matching with local edit distance. In: Proceedings of IEEE international conference on pattern recognition, Brisbane, pp 1711–1714'}, {'issue': '6', 'key': '141_CR28', 'first-page': '634', 'volume': '19', 'author': 'RC Wilson', 'year': '1997', 'unstructured': 'Wilson RC, Hancock ER (1997) Structural matching by discrete relaxation. IEEE Trans Pattern Anal Mach Intell 19(6):634–648', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'issue': '8', 'key': '141_CR29', 'first-page': '707', 'volume': '10', 'author': 'V Levenshtein', 'year': '1966', 'unstructured': 'Levenshtein V (1966) Binary codes capable of correcting deletions, insertions, and reversals. Sov Phys Dokl 10(8):707–710', 'journal-title': 'Sov Phys Dokl'}, {'key': '141_CR30', 'unstructured': 'Neuhaus M, Bunke H (2004) A probabilistic approach to learning costs for graph edit distance. In: Proceedings of IEEE international conference on pattern recognition, Cambridge, pp 389–393'}, {'issue': '3', 'key': '141_CR31', 'first-page': '365', 'volume': '27', 'author': 'A Robles-Kelly', 'year': '2005', 'unstructured': 'Robles-Kelly A, Hancock ER (2005) Graph edit distance from spectral seriation. IEEE Trans Pattern Anal Mach Intell 27(3):365–378', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'issue': '2–3', 'key': '141_CR32', 'first-page': '209', 'volume': '18', 'author': 'B Xiao', 'year': '2008', 'unstructured': 'Xiao B, Gao X, Tao D et al (2008) HMM-based graph edit distance for image indexing. Int J Imag Syst Tech 18(2–3):209–218', 'journal-title': 'Int J Imag Syst Tech'}, {'issue': '10', 'key': '141_CR33', 'first-page': '3179', 'volume': '47', 'author': 'X Gao', 'year': '2008', 'unstructured': 'Gao X, Xiao B, Tao D et al (2008) Image categorization: graph edit distance\xa0+\xa0edge direction histogram. Pattern Recognit 47(10):3179–3191', 'journal-title': 'Pattern Recognit'}, {'issue': '3', 'key': '141_CR34', 'first-page': '503', 'volume': '35', 'author': 'M Neuhaus', 'year': '2005', 'unstructured': 'Neuhaus M, Bunke H (2005) Self-organizing maps for learning the edit costs in graph matching. IEEE Trans Syst Man Cybern B Cybern 35(3):503–514', 'journal-title': 'IEEE Trans Syst Man Cybern B Cybern'}, {'issue': '3', 'key': '141_CR35', 'first-page': '315', 'volume': '18', 'author': 'A Robles-Kelly', 'year': '2004', 'unstructured': 'Robles-Kelly A, Hancock ER (2004) String edit distance, random walks and graph matching. Int J Pattern Recogn Artif Intell 18(3):315–327', 'journal-title': 'Int J Pattern Recogn Artif Intell'}, {'issue': '1', 'key': '141_CR36', 'first-page': '1', 'volume': '39', 'author': 'AP Dempster', 'year': '1977', 'unstructured': 'Dempster AP, Laird NM, Rubin DB (1977) Maximum likelihood from incomplete data via the EM algorithm. J R Stat Soc B 39(1):1–38', 'journal-title': 'J R Stat Soc B'}, {'key': '141_CR37', 'first-page': '269', 'volume': '1', 'author': 'EW Dijkstra', 'year': '1959', 'unstructured': 'Dijkstra EW (1959) A note on two problems in connexion with graphs. Numer Math 1:269–271', 'journal-title': 'Numer Math'}, {'issue': '4', 'key': '141_CR38', 'first-page': '595', 'volume': '35', 'author': 'AP Azcarraga', 'year': '2005', 'unstructured': 'Azcarraga AP, Hsieh M-H, Pan SL et al (2005) Extracting salient dimensions for automatic SOM labeling. IEEE Trans Syst Man Cybern C Appl Rev 35(4):595–600', 'journal-title': 'IEEE Trans Syst Man Cybern C Appl Rev'}, {'key': '141_CR39', 'author': 'T Kohonen', 'year': '1995', 'unstructured': 'Kohonen T (1995) Self organizing maps. Springer, New York', 'volume-title': 'Self organizing maps', 'DOI': '10.1007/978-3-642-97610-0', 'doi-asserted-by': 'crossref'}, {'issue': '4', 'key': '141_CR40', 'first-page': '345', 'volume': '10', 'author': 'S Bhattacharyya', 'year': '2007', 'unstructured': 'Bhattacharyya S, Dutta P, Maulik U (2007) Binary object extraction using bi-directional self-organizing neural network (BDSONN) architecture with fuzzy context sensitive thresholding. Pattern Anal Appl 10(4):345–360', 'journal-title': 'Pattern Anal Appl'}, {'key': '141_CR41', 'unstructured': 'Neuhaus M, Bunke H (2006) A convolution edit kernel for error-tolerant graph matching. In: Proceedings of IEEE international conference on pattern recognition, Hong Kong, pp 220–223'}, {'issue': '6–7', 'key': '141_CR42', 'first-page': '753', 'volume': '22', 'author': 'M-L Fernández', 'year': '2001', 'unstructured': 'Fernández M-L, Valiente G (2001) A graph distance metric combining maximum common subgraph and minimum common supergraph. Pattern Recognit Lett 22(6–7):753–758', 'journal-title': 'Pattern Recognit Lett'}, {'issue': '8', 'key': '141_CR43', 'first-page': '1200', 'volume': '28', 'author': 'D Justice', 'year': '2006', 'unstructured': 'Justice D, Hero A (2006) A binary linear programming formulation of the graph edit distance. IEEE Trans Pattern Anal Mach Intell 28(8):1200–1214', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'issue': '2', 'key': '141_CR44', 'first-page': '224', 'volume': '1', 'author': 'DL Davies', 'year': '1979', 'unstructured': 'Davies DL, Bouldin DW (1979) A cluster separation measure. IEEE Trans Pattern Anal Mach Intell 1(2):224–227', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'key': '141_CR45', 'first-page': '95', 'volume': '4', 'author': 'JC Dunn', 'year': '1974', 'unstructured': 'Dunn JC (1974) Well-separated clusters and optimal fuzzy partitions. J Cybern 4:95–104', 'journal-title': 'J Cybern'}, {'key': '141_CR46', 'doi-asserted-by': 'crossref', 'first-page': '190', 'DOI': '10.1111/j.2044-8317.1976.tb00714.x', 'volume': '29', 'author': 'LJ Hubert', 'year': '1976', 'unstructured': 'Hubert LJ, Schultz JV (1976) Quadratic assignment as a general data analysis strategy. Br J Math Stat Psychol 29:190–241', 'journal-title': 'Br J Math Stat Psychol'}, {'key': '141_CR47', 'first-page': '732', 'volume': '49', 'author': 'LA Goodman', 'year': '1954', 'unstructured': 'Goodman LA, Kruskal WH (1954) Measures of association for cross classification. J Am Stat Assoc 49:732–764', 'journal-title': 'J Am Stat Assoc'}, {'issue': '1', 'key': '141_CR48', 'first-page': '1', 'volume': '3', 'author': 'T Calinski', 'year': '1974', 'unstructured': 'Calinski T, Harabasz J (1974) A dendrite method for cluster analysis. Commun Stat 3(1):1–27', 'journal-title': 'Commun Stat'}, {'issue': '336', 'key': '141_CR49', 'first-page': '846', 'volume': '66', 'author': 'W Rand', 'year': '1971', 'unstructured': 'Rand W (1971) Objective criteria for the evaluation of clustering methods. J Am Stat Assoc 66(336):846–850', 'journal-title': 'J Am Stat Assoc'}, {'key': '141_CR50', 'author': 'A Jain', 'year': '1988', 'unstructured': 'Jain A, Dubes R (1988) Algorithms for clustering data. Prentice-Hall, Englewood Cliffs', 'volume-title': 'Algorithms for clustering data'}, {'key': '141_CR51', 'first-page': '553', 'volume': '78', 'author': 'EB Fowlkes', 'year': '1983', 'unstructured': 'Fowlkes EB, Mallows CL (1983) A method for comparing two hierarchical clusterings. J Am Stat Assoc 78:553–584', 'journal-title': 'J Am Stat Assoc'}, {'issue': '5', 'key': '141_CR52', 'first-page': '522', 'volume': '20', 'author': 'E Ristad', 'year': '1998', 'unstructured': 'Ristad E, Yianilos P (1998) Learning string edit distance. IEEE Trans Pattern Anal Mach Intell 20(5):522–532', 'journal-title': 'IEEE Trans Pattern Anal Mach Intell'}, {'issue': '3–4', 'key': '141_CR53', 'doi-asserted-by': 'crossref', 'first-page': '269', 'DOI': '10.1007/s10044-007-0087-5', 'volume': '11', 'author': 'V García', 'year': '2008', 'unstructured': 'García V, Mollineda RA, Sánchez JS (2008) On the k-NN performance in a challenging scenario of imbalance and overlapping. Pattern Anal Appl 11(3–4):269–280', 'journal-title': 'Pattern Anal Appl'}, {'key': '141_CR54', 'unstructured': 'Neuhaus M, Bunke H (2005) Edit distance based kernel functions for attributed graph matching. In: Proceedings of 5th international workshop graph-based representations in pattern recognition, Poitiers, pp 352–361'}, {'key': '141_CR55', 'unstructured': 'Artner TG, Flach P, Wrobel S (2003) On graph kernels: hardness results and efficient alternatives. In: Proceedings of 16th annual conference on learning theory, Washington, pp 129–143'}, {'key': '141_CR56', 'unstructured': 'Saux BL, Bunke H (2005) Feature selection for graph-based image classifiers. In: Proceedings of 2nd Iberian conference on pattern recognition and image analysis, Estoril, pp 147–154'}, {'key': '141_CR57', 'unstructured': 'Dunford-Shore B, Sulaman W, Feng B et al (2002) Klotho: biochemical compounds declarative database. http://www.biocheminfo.org/klotho/'}, {'key': '141_CR58', 'unstructured': 'Yu H, Hancock ER (2006) String kernels for matching seriated graphs. In: Proceedings of IEEE international conference on pattern recognition, Hong Kong, pp 224–228'}, {'key': '141_CR59', 'unstructured': 'Robles-Kelly A, Hancock ER (2003) Edit distance from graph spectra. In: Proceedings of IEEE international conference on computer vision, Nice, pp 234–241'}, {'issue': '1', 'key': '141_CR60', 'first-page': '22', 'volume': '39', 'author': 'HJ Qiu', 'year': '2006', 'unstructured': 'Qiu HJ, Hancock ER (2006) Graph matching and clustering using spectral partitions. Pattern Recognit 39(1):22–34', 'journal-title': 'Pattern Recognit'}, {'issue': '1–3', 'key': '141_CR61', 'first-page': '217', 'volume': '337', 'author': 'P Bille', 'year': '2005', 'unstructured': 'Bille P (2005) A survey on tree edit distance and related problems. Theor Comput Sci 337(1–3):217–239', 'journal-title': 'Theor Comput Sci'}, {'issue': '3', 'key': '141_CR62', 'first-page': '259', 'volume': '72', 'author': 'A Torsello', 'year': '2007', 'unstructured': 'Torsello A, Robles-Kelly A, Hancock ER (2007) Discovering shape classes using tree edit-distance and pairwise clustering. Int J Comput Vis 72(3):259–285', 'journal-title': 'Int J Comput Vis'}, {'issue': '8', 'key': '141_CR63', 'first-page': '1089', 'volume': '24', 'author': 'A Torsello', 'year': '2003', 'unstructured': 'Torsello A, Hancock ER (2003) Computing approximate tree edit distance using relaxation labeling. Pattern Recognit Lett 24(8):1089–1097', 'journal-title': 'Pattern Recognit Lett'}, {'issue': '5', 'key': '141_CR64', 'first-page': '1393', 'volume': '40', 'author': 'A Torsello', 'year': '2007', 'unstructured': 'Torsello A, Hancock ER (2007) Graph embedding using tree edit-union. Pattern Recognit 40(5):1393–1405', 'journal-title': 'Pattern Recognit'}, {'key': '141_CR65', 'unstructured': 'Torsello A, Hancock ER (2001) Efficiently computing weighted tree edit distance using relaxation labeling. In: Proceedings of energy minimization methods in computer vision and pattern recognition. Springer, Sophia Antipolis, pp 438–453'}, {'issue': '2', 'key': '141_CR66', 'first-page': '163', 'volume': '21', 'author': 'H Bunke', 'year': '2000', 'unstructured': 'Bunke H, Kandel A (2000) Mean and maximum common subgraph of two graphs. Pattern Recognit Lett 21(2):163–168', 'journal-title': 'Pattern Recognit Lett'}, {'key': '141_CR67', 'unstructured': 'Vision and Autonomous Systems Center’s Image Database. http://vasc.ri.cmu.edu//idb/html/motion/house/index.html'}, {'key': '141_CR68', 'unstructured': 'INRIA-MOVI houses. http://www.inria.fr/recherche/equipes/movi.en.html'}, {'key': '141_CR69', 'unstructured': 'Fujisawa K, Futakata Y, Kojima M et al (2008) Sdpa-m user’s manual. http://sdpa.is.titech.ac.jp/SDPA-M'}, {'key': '141_CR70', 'unstructured': 'Columbia Object Image Library. http://www1.cs.columbia.edu/CAVE/software/softlib/coil-20.php'}, {'issue': '3', 'key': '141_CR71', 'first-page': '259', 'volume': '72', 'author': 'A Torsello', 'year': '2007', 'unstructured': 'Torsello A, Robles-Kelly A, Hancock ER (2007) Discovering shape classes using tree edit-distance and pairwise clustering. Int J Comput Vis 72(3):259–285', 'journal-title': 'Int J Comput Vis'}], 'container-title': ['Pattern Analysis and Applications'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s10044-008-0141-y', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T15:39:06Z', 'timestamp': 1497800346000}, 'score': 78.434875, 'issued': {'date-parts': [[2009, 1, 13]]}, 'references-count': 71, 'journal-issue': {'published-print': {'date-parts': [[2010, 2]]}, 'issue': '1'}, 'alternative-id': ['141'], 'URL': 'http://dx.doi.org/10.1007/s10044-008-0141-y', 'relation': {'cites': []}, 'ISSN': ['1433-7541', '1433-755X'], 'issn-type': [{'value': '1433-7541', 'type': 'print'}, {'value': '1433-755X', 'type': 'electronic'}]}
+>>> hash >>> ('A survey of graph edit distance', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kaspar Riesen , Michel Neuhaus , Horst Bunke, Bipartite graph matching for computing the edit distance of graphs, Proceedings of the 6th IAPR-TC-15 international conference on Graph-based representations in pattern recognition, June 11-13, 2007, Alicante, Spain
+>>> DOI >>> 10.1007/978-3-540-72903-7_1
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-72903-7_1
+>>> year >>> None
+>>> title >>> Bipartite Graph Matching for Computing the Edit Distance of Graphs
+>>> author >>> Kaspar Riesen and Michel Neuhaus and Horst Bunke
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 23.0
+>>> subject >>> None
+>>> container_title >>> ['Graph-Based Representations in Pattern Recognition', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:29:15Z', 'timestamp': 1525386555130}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540729020', 'type': 'print'}, {'value': '9783540729037', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/978-3-540-72903-7_1', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 8, 20]], 'date-time': '2007-08-20T02:54:03Z', 'timestamp': 1187578443000}, 'page': '1-12', 'source': 'Crossref', 'is-referenced-by-count': 23, 'title': ['Bipartite Graph Matching for Computing the Edit Distance of Graphs'], 'prefix': '10.1007', 'author': [{'given': 'Kaspar', 'family': 'Riesen', 'sequence': 'first', 'affiliation': []}, {'given': 'Michel', 'family': 'Neuhaus', 'sequence': 'additional', 'affiliation': []}, {'given': 'Horst', 'family': 'Bunke', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Graph-Based Representations in Pattern Recognition', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-540-72903-7_1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 17]], 'date-time': '2014-01-17T20:16:17Z', 'timestamp': 1389989777000}, 'score': 109.35301, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9783540729020', '9783540729037'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-540-72903-7_1', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Bipartite Graph Matching for Computing the Edit Distance of Graphs', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Daniel Bilar, Opcodes as predictor for malware, International Journal of Electronic Security and Digital Forensics, v.1 n.2, p.156-168, May 2007  [doi>10.1504/IJESDF.2007.016865]
+>>> DOI >>> 10.1504/ijesdf.2007.016865
+>>> URL >>> http://dx.doi.org/10.1504/ijesdf.2007.016865
+>>> year >>> 2007.0
+>>> title >>> Opcodes as predictor for malware
+>>> author >>> Daniel Bilar
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 88.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Electronic Security and Digital Forensics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T05:20:15Z', 'timestamp': 1525411215972}, 'reference-count': 0, 'publisher': 'Inderscience Publishers', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IJESDF'], 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.1504/ijesdf.2007.016865', 'type': 'journal-article', 'created': {'date-parts': [[2008, 1, 27]], 'date-time': '2008-01-27T12:30:35Z', 'timestamp': 1201437035000}, 'page': '156', 'source': 'Crossref', 'is-referenced-by-count': 88, 'title': ['Opcodes as predictor for malware'], 'prefix': '10.1504', 'volume': '1', 'author': [{'given': 'Daniel', 'family': 'Bilar', 'sequence': 'first', 'affiliation': []}], 'member': '378', 'container-title': ['International Journal of Electronic Security and Digital Forensics'], 'language': 'en', 'deposited': {'date-parts': [[2011, 2, 2]], 'date-time': '2011-02-02T14:50:00Z', 'timestamp': 1296658200000}, 'score': 109.653915, 'issued': {'date-parts': [[2007]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2007]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1504/ijesdf.2007.016865', 'ISSN': ['1751-911X', '1751-9128'], 'issn-type': [{'value': '1751-911X', 'type': 'print'}, {'value': '1751-9128', 'type': 'electronic'}]}
+>>> hash >>> ('Opcodes as predictor for malware', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. Carrera and G. ErdÃ©lyi. Digital genome mapping-advanced binary malware analysis. In Virus Bulletin Conference, 2004.
+>>> DOI >>> 10.1063/1.1835197
+>>> URL >>> http://dx.doi.org/10.1063/1.1835197
+>>> year >>> 2004.0
+>>> title >>> Bayesian Data analysis for ERDA measurements
+>>> author >>> E. Edelmann
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['AIP Conference Proceedings']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T09:50:46Z', 'timestamp': 1525427446551}, 'reference-count': 0, 'publisher': 'AIP', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1063/1.1835197', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 11, 22]], 'date-time': '2004-11-22T23:05:50Z', 'timestamp': 1101164750000}, 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Bayesian Data analysis for ERDA measurements'], 'prefix': '10.1063', 'author': [{'given': 'E.', 'family': 'Edelmann', 'sequence': 'first', 'affiliation': []}], 'member': '317', 'event': {'name': 'BAYESIAN INFERENCE AND MAXIMUM ENTROPY METHODS IN SCIENCE AND ENGINEERING: 24th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering', 'location': 'Garching (Germany)'}, 'container-title': ['AIP Conference Proceedings'], 'deposited': {'date-parts': [[2017, 2, 5]], 'date-time': '2017-02-05T20:14:00Z', 'timestamp': 1486325640000}, 'score': 28.809559, 'issued': {'date-parts': [[2004]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1063/1.1835197', 'ISSN': ['0094-243X'], 'issn-type': [{'value': '0094-243X', 'type': 'print'}]}
+>>> hash >>> ('Bayesian Data analysis for ERDA measurements', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Derek Justice , Alfred Hero, A Binary Linear Programming Formulation of the Graph Edit Distance, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.28 n.8, p.1200-1214, August 2006  [doi>10.1109/TPAMI.2006.152]
+>>> DOI >>> 10.1109/tpami.2006.152
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2006.152
+>>> year >>> 2006.0
+>>> title >>> A binary linear programming formulation of the graph edit distance
+>>> author >>> D. Justice and A. Hero
+>>> reference_count >>> 52.0
+>>> is_referenced_by_count >>> 65.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T10:22:31Z', 'timestamp': 1527762151602}, 'reference-count': 52, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '8', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2006, 8]]}, 'DOI': '10.1109/tpami.2006.152', 'type': 'journal-article', 'created': {'date-parts': [[2006, 6, 21]], 'date-time': '2006-06-21T16:06:22Z', 'timestamp': 1150905982000}, 'page': '1200-1214', 'source': 'Crossref', 'is-referenced-by-count': 65, 'title': ['A binary linear programming formulation of the graph edit distance'], 'prefix': '10.1109', 'volume': '28', 'author': [{'given': 'D.', 'family': 'Justice', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Hero', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/34427/01642656.pdf?arnumber=1642656', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T06:46:24Z', 'timestamp': 1497681984000}, 'score': 114.99593, 'issued': {'date-parts': [[2006, 8]]}, 'references-count': 52, 'journal-issue': {'issue': '8'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2006.152', 'ISSN': ['0162-8828', '2160-9292'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}, {'value': '2160-9292', 'type': 'electronic'}]}
+>>> hash >>> ('A binary linear programming formulation of the graph edit distance', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ulrich Bayer , Engin Kirda , Christopher Kruegel, Improving the efficiency of dynamic malware analysis, Proceedings of the 2010 ACM Symposium on Applied Computing, March 22-26, 2010, Sierre, Switzerland  [doi>10.1145/1774088.1774484]
+>>> DOI >>> 10.1145/1774088.1774484
+>>> URL >>> http://dx.doi.org/10.1145/1774088.1774484
+>>> year >>> 2010.0
+>>> title >>> Improving the efficiency of dynamic malware analysis
+>>> author >>> Ulrich Bayer and Engin Kirda and Christopher Kruegel
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 20.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2010 ACM Symposium on Applied Computing - SAC '10"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T12:02:31Z', 'timestamp': 1528372951284}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605586397', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.1145/1774088.1774484', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 4, 27]], 'date-time': '2010-04-27T12:45:48Z', 'timestamp': 1272372348000}, 'source': 'Crossref', 'is-referenced-by-count': 20, 'title': ['Improving the efficiency of dynamic malware analysis'], 'prefix': '10.1145', 'author': [{'given': 'Ulrich', 'family': 'Bayer', 'sequence': 'first', 'affiliation': []}, {'given': 'Engin', 'family': 'Kirda', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christopher', 'family': 'Kruegel', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2010 ACM Symposium', 'location': 'Sierre, Switzerland', 'sponsor': ['SIGAPP, ACM Special Interest Group on Applied Computing'], 'acronym': "SAC '10", 'number': '25', 'start': {'date-parts': [[2010, 3, 22]]}, 'end': {'date-parts': [[2010, 3, 26]]}}, 'container-title': ["Proceedings of the 2010 ACM Symposium on Applied Computing - SAC '10"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1774484&amp;ftid=783773&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T22:57:15Z', 'timestamp': 1481065035000}, 'score': 103.65086, 'issued': {'date-parts': [[2010]]}, 'ISBN': ['9781605586397'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1774088.1774484'}
+>>> hash >>> ('Improving the efficiency of dynamic malware analysis', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Fossi, D. Turner, E. Johnson, T. Mack, T. Adams, J. Blackbird, S. Entwise, B. Graveland, D. McKinney, J. Mulcahy, and C. Wueest. Symantec Global Internet Security Threat Report: Trends for 2009, Volume XV, 2010.
+>>> DOI >>> 10.1016/s1353-4858(00)03015-4
+>>> URL >>> http://dx.doi.org/10.1016/s1353-4858(00)03015-4
+>>> year >>> 2000.0
+>>> title >>> Symantec offers safer Internet
+>>> author >>> Lucy Bunker
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Network Security']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T11:56:41Z', 'timestamp': 1525348601518}, 'reference-count': 0, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2000, 3, 1]], 'date-time': '2000-03-01T00:00:00Z', 'timestamp': 951868800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Network Security'], 'published-print': {'date-parts': [[2000, 3]]}, 'DOI': '10.1016/s1353-4858(00)03015-4', 'type': 'journal-article', 'created': {'date-parts': [[2010, 9, 2]], 'date-time': '2010-09-02T08:55:41Z', 'timestamp': 1283417741000}, 'page': '6', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Symantec offers safer Internet'], 'prefix': '10.1016', 'volume': '2000', 'author': [{'given': 'Lucy', 'family': 'Bunker', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Network Security'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1353485800030154?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1353485800030154?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2015, 12, 29]], 'date-time': '2015-12-29T06:50:01Z', 'timestamp': 1451371801000}, 'score': 33.08448, 'issued': {'date-parts': [[2000, 3]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2000, 3]]}, 'issue': '3'}, 'alternative-id': ['S1353485800030154'], 'URL': 'http://dx.doi.org/10.1016/s1353-4858(00)03015-4', 'ISSN': ['1353-4858'], 'issn-type': [{'value': '1353-4858', 'type': 'print'}]}
+>>> hash >>> ('Symantec offers safer Internet', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Munkres. Algorithms for the assignment and transportation problems. Journal of the Society for Industrial and Applied Mathematics, 5(1): 32--38, 1957.
+>>> DOI >>> 10.1137/0105003
+>>> URL >>> http://dx.doi.org/10.1137/0105003
+>>> year >>> 1957.0
+>>> title >>> Algorithms for the Assignment and Transportation Problems
+>>> author >>> James Munkres
+>>> reference_count >>> 3.0
+>>> is_referenced_by_count >>> 1079.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the Society for Industrial and Applied Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T02:02:28Z', 'timestamp': 1528336948917}, 'reference-count': 3, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of the Society for Industrial and Applied Mathematics'], 'published-print': {'date-parts': [[1957, 3]]}, 'DOI': '10.1137/0105003', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 23]], 'date-time': '2005-02-23T13:46:00Z', 'timestamp': 1109166360000}, 'page': '32-38', 'source': 'Crossref', 'is-referenced-by-count': 1079, 'title': ['Algorithms for the Assignment and Transportation Problems'], 'prefix': '10.1137', 'volume': '5', 'author': [{'given': 'James', 'family': 'Munkres', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['Journal of the Society for Industrial and Applied Mathematics'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0105003', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T15:13:16Z', 'timestamp': 1485702796000}, 'score': 73.96632, 'issued': {'date-parts': [[1957, 3]]}, 'references-count': 3, 'journal-issue': {'published-print': {'date-parts': [[1957, 3]]}, 'issue': '1'}, 'alternative-id': ['10.1137/0105003'], 'URL': 'http://dx.doi.org/10.1137/0105003', 'ISSN': ['0368-4245', '2168-3484'], 'issn-type': [{'value': '0368-4245', 'type': 'print'}, {'value': '2168-3484', 'type': 'electronic'}]}
+>>> hash >>> ('Algorithms for the Assignment and Transportation Problems', 1957.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. J. M. Laarhoven , E. H. L. Aarts, Simulated annealing: theory and applications, Kluwer Academic Publishers, Norwell, MA, 1987
+>>> DOI >>> 10.1007/978-94-015-7744-1
+>>> URL >>> http://dx.doi.org/10.1007/978-94-015-7744-1
+>>> year >>> 1987.0
+>>> title >>> Simulated Annealing: Theory and Applications
+>>> author >>> Peter J. M. van Laarhoven and Emile H. L. Aarts
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1133.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T12:42:39Z', 'timestamp': 1528202559208}, 'publisher-location': 'Dordrecht', 'reference-count': 0, 'publisher': 'Springer Netherlands', 'isbn-type': [{'value': '9789048184385', 'type': 'print'}, {'value': '9789401577441', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1987]]}, 'DOI': '10.1007/978-94-015-7744-1', 'type': 'book', 'created': {'date-parts': [[2013, 1, 7]], 'date-time': '2013-01-07T21:33:58Z', 'timestamp': 1357594438000}, 'source': 'Crossref', 'is-referenced-by-count': 1133, 'title': ['Simulated Annealing: Theory and Applications'], 'prefix': '10.1007', 'author': [{'given': 'Peter J. M.', 'family': 'van Laarhoven', 'sequence': 'first', 'affiliation': []}, {'given': 'Emile H. L.', 'family': 'Aarts', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-94-015-7744-1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 9, 3]], 'date-time': '2014-09-03T19:21:46Z', 'timestamp': 1409772106000}, 'score': 59.819183, 'issued': {'date-parts': [[1987]]}, 'ISBN': ['9789048184385', '9789401577441'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-94-015-7744-1'}
+>>> hash >>> ('Simulated Annealing: Theory and Applications', 1987.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Michel Neuhaus , Kaspar Riesen , Horst Bunke, Fast suboptimal algorithms for the computation of graph edit distance, Proceedings of the 2006 joint IAPR international conference on Structural, Syntactic, and Statistical Pattern Recognition, August 17-19, 2006, Hong Kong, China  [doi>10.1007/11815921_17]
+>>> DOI >>> 10.1007/11815921_17
+>>> URL >>> http://dx.doi.org/10.1007/11815921_17
+>>> year >>> 2006.0
+>>> title >>> Fast Suboptimal Algorithms for the Computation of Graph Edit Distance
+>>> author >>> Michel Neuhaus and Kaspar Riesen and Horst Bunke
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 30.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Structural, Syntactic, and Statistical Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T09:42:34Z', 'timestamp': 1525340554690}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540372363', 'type': 'print'}, {'value': '9783540372417', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.1007/11815921_17', 'type': 'book-chapter', 'created': {'date-parts': [[2006, 8, 8]], 'date-time': '2006-08-08T18:01:38Z', 'timestamp': 1155060098000}, 'page': '163-172', 'source': 'Crossref', 'is-referenced-by-count': 30, 'title': ['Fast Suboptimal Algorithms for the Computation of Graph Edit Distance'], 'prefix': '10.1007', 'author': [{'given': 'Michel', 'family': 'Neuhaus', 'sequence': 'first', 'affiliation': []}, {'given': 'Kaspar', 'family': 'Riesen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Horst', 'family': 'Bunke', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Lecture Notes in Computer Science', 'Structural, Syntactic, and Statistical Pattern Recognition'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/11815921_17', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 22]], 'date-time': '2014-08-22T19:10:33Z', 'timestamp': 1408734633000}, 'score': 114.23794, 'issued': {'date-parts': [[2006]]}, 'ISBN': ['9783540372363', '9783540372417'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/11815921_17', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Fast Suboptimal Algorithms for the Computation of Graph Edit Distance', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Zilberstein. Using anytime algorithms in intelligent systems. AI magazine, 17(3): 73, 1996.
+>>> DOI >>> 10.1145/242587.242593
+>>> URL >>> http://dx.doi.org/10.1145/242587.242593
+>>> year >>> 1996.0
+>>> title >>> Monitoring anytime algorithms
+>>> author >>> Eric A. Hansen and Shlomo Zilberstein
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['ACM SIGART Bulletin']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T10:20:11Z', 'timestamp': 1525342811357}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIGART Bull.'], 'published-print': {'date-parts': [[1996, 4, 1]]}, 'DOI': '10.1145/242587.242593', 'type': 'journal-article', 'created': {'date-parts': [[2007, 1, 17]], 'date-time': '2007-01-17T18:32:02Z', 'timestamp': 1169058722000}, 'page': '28-33', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Monitoring anytime algorithms'], 'prefix': '10.1145', 'volume': '7', 'author': [{'given': 'Eric A.', 'family': 'Hansen', 'sequence': 'first', 'affiliation': []}, {'given': 'Shlomo', 'family': 'Zilberstein', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['ACM SIGART Bulletin'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=242593&amp;ftid=315417&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T07:14:56Z', 'timestamp': 1481872496000}, 'score': 37.201546, 'issued': {'date-parts': [[1996, 4, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1996, 4, 1]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1145/242587.242593', 'ISSN': ['0163-5719'], 'issn-type': [{'value': '0163-5719', 'type': 'print'}]}
+>>> hash >>> ('Monitoring anytime algorithms', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> I. Briones and A. Gomez. Graphs, entropy and grid computing: Automatic comparison of malware. In Proceedings of the 2008 Virus Bulletin Conference, 2008.
+>>> DOI >>> 10.1109/grid.2008.4662762
+>>> URL >>> http://dx.doi.org/10.1109/grid.2008.4662762
+>>> year >>> 2008.0
+>>> title >>> Proceedings of the 2008 9<sup>th</sup> IEEE/ACM international conference on grid computing
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['2008 9th IEEE/ACM International Conference on Grid Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:02:04Z', 'timestamp': 1525392124436}, 'reference-count': 0, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424425785', 'type': 'print'}, {'value': '9781424425792', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.1109/grid.2008.4662762', 'type': 'proceedings-article', 'created': {'date-parts': [[2011, 3, 8]], 'date-time': '2011-03-08T09:44:47Z', 'timestamp': 1299577487000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Proceedings of the 2008 9<sup>th</sup> IEEE/ACM international conference on grid computing'], 'prefix': '10.1109', 'member': '263', 'event': {'name': '2008 9th IEEE/ACM International Conference on Grid Computing', 'location': 'Tsukuba', 'start': {'date-parts': [[2008, 9, 29]]}, 'end': {'date-parts': [[2008, 10, 1]]}}, 'container-title': ['2008 9th IEEE/ACM International Conference on Grid Computing'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4655284/4662760/04662762.pdf?arnumber=4662762', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T16:10:26Z', 'timestamp': 1489680626000}, 'score': 33.13361, 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9781424425785', '9781424425792'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1109/grid.2008.4662762'}
+>>> hash >>> ('Proceedings of the 2008 9<sup>th</sup> IEEE/ACM international conference on grid computing', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kaspar Riesen , Horst Bunke, Approximate graph edit distance computation by means of bipartite graph matching, Image and Vision Computing, v.27 n.7, p.950-959, June, 2009  [doi>10.1016/j.imavis.2008.04.004]
+>>> DOI >>> 10.1016/j.imavis.2008.04.004
+>>> URL >>> http://dx.doi.org/10.1016/j.imavis.2008.04.004
+>>> year >>> 2009.0
+>>> title >>> Approximate graph edit distance computation by means of bipartite graph matching
+>>> author >>> Kaspar Riesen and Horst Bunke
+>>> reference_count >>> 38.0
+>>> is_referenced_by_count >>> 218.0
+>>> subject >>> None
+>>> container_title >>> ['Image and Vision Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T10:22:31Z', 'timestamp': 1527762151622}, 'reference-count': 38, 'publisher': 'Elsevier BV', 'issue': '7', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2009, 6, 1]], 'date-time': '2009-06-01T00:00:00Z', 'timestamp': 1243814400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Image and Vision Computing'], 'published-print': {'date-parts': [[2009, 6]]}, 'DOI': '10.1016/j.imavis.2008.04.004', 'type': 'journal-article', 'created': {'date-parts': [[2008, 4, 21]], 'date-time': '2008-04-21T11:43:02Z', 'timestamp': 1208778182000}, 'page': '950-959', 'source': 'Crossref', 'is-referenced-by-count': 218, 'title': ['Approximate graph edit distance computation by means of bipartite graph matching'], 'prefix': '10.1016', 'volume': '27', 'author': [{'given': 'Kaspar', 'family': 'Riesen', 'sequence': 'first', 'affiliation': []}, {'given': 'Horst', 'family': 'Bunke', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Image and Vision Computing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S026288560800084X?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S026288560800084X?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T07:12:23Z', 'timestamp': 1497769943000}, 'score': 132.03365, 'issued': {'date-parts': [[2009, 6]]}, 'references-count': 38, 'journal-issue': {'published-print': {'date-parts': [[2009, 6]]}, 'issue': '7'}, 'alternative-id': ['S026288560800084X'], 'URL': 'http://dx.doi.org/10.1016/j.imavis.2008.04.004', 'ISSN': ['0262-8856'], 'issn-type': [{'value': '0262-8856', 'type': 'print'}]}
+>>> hash >>> ('Approximate graph edit distance computation by means of bipartite graph matching', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Zico Kolter , Marcus A. Maloof, Learning to Detect and Classify Malicious Executables in the Wild, The Journal of Machine Learning Research, 7, p.2721-2744, 12/1/2006
+>>> DOI >>> 10.1007/1-84628-253-5_4
+>>> URL >>> http://dx.doi.org/10.1007/1-84628-253-5_4
+>>> year >>> None
+>>> title >>> Learning to Detect Malicious Executables
+>>> author >>> Jeremy Z. Kolter and Marcus A. Maloof
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Advanced Information and Knowledge Processing', 'Machine Learning and Data Mining for Computer Security']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T02:50:58Z', 'timestamp': 1525488658335}, 'publisher-location': 'London', 'reference-count': 0, 'publisher': 'Springer-Verlag', 'isbn-type': [{'value': '184628029X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/1-84628-253-5_4', 'type': 'book-chapter', 'created': {'date-parts': [[2006, 2, 27]], 'date-time': '2006-02-27T06:41:00Z', 'timestamp': 1141022460000}, 'page': '47-63', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Learning to Detect Malicious Executables'], 'prefix': '10.1007', 'author': [{'given': 'Jeremy Z.', 'family': 'Kolter', 'sequence': 'first', 'affiliation': []}, {'given': 'Marcus A.', 'family': 'Maloof', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Advanced Information and Knowledge Processing', 'Machine Learning and Data Mining for Computer Security'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/1-84628-253-5_4', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T17:46:59Z', 'timestamp': 1389030419000}, 'score': 77.984665, 'issued': {'date-parts': [[None]]}, 'ISBN': ['184628029X'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/1-84628-253-5_4'}
+>>> hash >>> ('Learning to Detect Malicious Executables', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+>>> DOI >>> 10.1137/1024022
+>>> URL >>> http://dx.doi.org/10.1137/1024022
+>>> year >>> 1982.0
+>>> title >>> Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)
+>>> author >>> Juris Hartmanis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Review']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:58:37Z', 'timestamp': 1525445917657}, 'reference-count': 0, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM Rev.'], 'published-print': {'date-parts': [[1982, 1]]}, 'DOI': '10.1137/1024022', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 7]], 'date-time': '2005-03-07T06:58:10Z', 'timestamp': 1110178690000}, 'page': '90-91', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)'], 'prefix': '10.1137', 'volume': '24', 'author': [{'given': 'Juris', 'family': 'Hartmanis', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Review'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/1024022', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T18:00:43Z', 'timestamp': 1485712843000}, 'score': 69.861626, 'issued': {'date-parts': [[1982, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1982, 1]]}, 'issue': '1'}, 'alternative-id': ['10.1137/1024022'], 'URL': 'http://dx.doi.org/10.1137/1024022', 'ISSN': ['0036-1445', '1095-7200'], 'issn-type': [{'value': '0036-1445', 'type': 'print'}, {'value': '1095-7200', 'type': 'electronic'}]}
+>>> hash >>> ('Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Xin Hu , Tzi-cker Chiueh , Kang G. Shin, Large-scale malware indexing using function-call graphs, Proceedings of the 16th ACM conference on Computer and communications security, November 09-13, 2009, Chicago, Illinois, USA  [doi>10.1145/1653662.1653736]
+>>> DOI >>> 10.1145/1653662.1653736
+>>> URL >>> http://dx.doi.org/10.1145/1653662.1653736
+>>> year >>> 2009.0
+>>> title >>> Large-scale malware indexing using function-call graphs
+>>> author >>> Xin Hu and Tzi-cker Chiueh and Kang G. Shin
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 76.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 16th ACM conference on Computer and communications security - CCS '09"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T06:58:18Z', 'timestamp': 1525503498034}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605588940', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1145/1653662.1653736', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 11, 11]], 'date-time': '2009-11-11T13:02:08Z', 'timestamp': 1257944528000}, 'source': 'Crossref', 'is-referenced-by-count': 76, 'title': ['Large-scale malware indexing using function-call graphs'], 'prefix': '10.1145', 'author': [{'given': 'Xin', 'family': 'Hu', 'sequence': 'first', 'affiliation': []}, {'given': 'Tzi-cker', 'family': 'Chiueh', 'sequence': 'additional', 'affiliation': []}, {'given': 'Kang G.', 'family': 'Shin', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 16th ACM conference', 'location': 'Chicago, Illinois, USA', 'sponsor': ['SIGSAC, ACM Special Interest Group on Security, Audit, and Control'], 'acronym': "CCS '09", 'number': '16', 'start': {'date-parts': [[2009, 11, 9]]}, 'end': {'date-parts': [[2009, 11, 13]]}}, 'container-title': ["Proceedings of the 16th ACM conference on Computer and communications security - CCS '09"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1653736&amp;ftid=708011&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T23:40:16Z', 'timestamp': 1481067616000}, 'score': 108.34485, 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781605588940'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1653662.1653736'}
+>>> hash >>> ('Large-scale malware indexing using function-call graphs', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T. Dullien and R. Rolles. Graph-based comparison of executable objects. In Symposium sur la SÃ©curitÃ© des Technologies de l'Information et des Communications (SSTIC), 2005.
+>>> DOI >>> 10.1787/9789282103500-fr
+>>> URL >>> http://dx.doi.org/10.1787/9789282103500-fr
+>>> year >>> 2005.0
+>>> title >>> 16e Symposium international sur la théorie et la pratique dans l'économie des transports
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ["Symposium international sur la théorie et la pratique dans l'économie des transports"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database128.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T02:10:22Z', 'timestamp': 1525486222132}, 'reference-count': 0, 'publisher': 'Éditions OCDE', 'isbn-type': [{'value': '9789282123348', 'type': 'print'}, {'value': '9789282103500', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005, 8, 18]]}, 'DOI': '10.1787/9789282103500-fr', 'type': 'book', 'created': {'date-parts': [[2009, 7, 8]], 'date-time': '2009-07-08T15:51:01Z', 'timestamp': 1247068261000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ["16e Symposium international sur la théorie et la pratique dans l'économie des transports"], 'prefix': '10.1787', 'author': [{'name': 'CEMT', 'sequence': 'first', 'affiliation': []}], 'member': '1963', 'container-title': ["Symposium international sur la théorie et la pratique dans l'économie des transports"], 'deposited': {'date-parts': [[2014, 3, 13]], 'date-time': '2014-03-13T04:12:11Z', 'timestamp': 1394683931000}, 'score': 42.142418, 'issued': {'date-parts': [[2005, 8, 18]]}, 'ISBN': ['9789282123348', '9789282103500'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1787/9789282103500-fr', 'ISSN': ['2311-8288', '2311-8296'], 'issn-type': [{'value': '2311-8288', 'type': 'print'}, {'value': '2311-8296', 'type': 'electronic'}]}
+>>> hash >>> ("16e Symposium international sur la théorie et la pratique dans l'économie des transports", 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

@@ -1,0 +1,865 @@
+>>> NEW PAPER <<<
+>>> citation >>> Barker, W.C., Garavelli, J.S., Huang, H., et al. 2000. The Protein Information Resource (PIR). Nucleic Acids Res. 28, 41â€“44.
+>>> DOI >>> 10.1093/nar/28.1.41
+>>> URL >>> http://dx.doi.org/10.1093/nar/28.1.41
+>>> year >>> 2000.0
+>>> title >>> The Protein Information Resource (PIR)
+>>> author >>> W. C. Barker
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 84.0
+>>> subject >>> None
+>>> container_title >>> ['Nucleic Acids Research']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T05:47:48Z', 'timestamp': 1525326468221}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2000, 1, 1]]}, 'DOI': '10.1093/nar/28.1.41', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T22:32:38Z', 'timestamp': 1027722758000}, 'page': '41-44', 'source': 'Crossref', 'is-referenced-by-count': 84, 'title': ['The Protein Information Resource (PIR)'], 'prefix': '10.1093', 'volume': '28', 'author': [{'given': 'W. C.', 'family': 'Barker', 'sequence': 'first', 'affiliation': []}], 'member': '286', 'container-title': ['Nucleic Acids Research'], 'link': [{'URL': 'http://academic.oup.com/nar/article-pdf/28/1/41/9895196/280041.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 24]], 'date-time': '2017-08-24T13:24:15Z', 'timestamp': 1503581055000}, 'score': 72.13042, 'issued': {'date-parts': [[2000, 1, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1093/nar/28.1.41', 'ISSN': ['1362-4962'], 'issn-type': [{'value': '1362-4962', 'type': 'electronic'}]}
+>>> hash >>> ('The Protein Information Resource (PIR)', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ogata, H., Fujibuchi, W., Goto, S., et al. 2000. A heuristic graph comparison algorithm and its application to detect functionally related enzyme clusters. Nucleic Acids Res. 28, 4021â€“4028.
+>>> DOI >>> 10.1093/nar/28.20.4021
+>>> URL >>> http://dx.doi.org/10.1093/nar/28.20.4021
+>>> year >>> 2000.0
+>>> title >>> A heuristic graph comparison algorithm and its application to detect functionally related enzyme clusters
+>>> author >>> H. Ogata
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 92.0
+>>> subject >>> None
+>>> container_title >>> ['Nucleic Acids Research']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T05:51:57Z', 'timestamp': 1525326717455}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': '20', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2000, 10, 15]]}, 'DOI': '10.1093/nar/28.20.4021', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T22:52:52Z', 'timestamp': 1027723972000}, 'page': '4021-4028', 'source': 'Crossref', 'is-referenced-by-count': 92, 'title': ['A heuristic graph comparison algorithm and its application to detect functionally related enzyme clusters'], 'prefix': '10.1093', 'volume': '28', 'author': [{'given': 'H.', 'family': 'Ogata', 'sequence': 'first', 'affiliation': []}], 'member': '286', 'container-title': ['Nucleic Acids Research'], 'link': [{'URL': 'http://academic.oup.com/nar/article-pdf/28/20/4021/9904777/284021.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 24]], 'date-time': '2017-08-24T13:21:06Z', 'timestamp': 1503580866000}, 'score': 115.858635, 'issued': {'date-parts': [[2000, 10, 15]]}, 'references-count': 0, 'journal-issue': {'issue': '20'}, 'URL': 'http://dx.doi.org/10.1093/nar/28.20.4021', 'ISSN': ['1362-4962'], 'issn-type': [{'value': '1362-4962', 'type': 'electronic'}]}
+>>> hash >>> ('A heuristic graph comparison algorithm and its application to detect functionally related enzyme clusters', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> KoyutÂ¨urk, M., Grama,A., and Szpankowski, W. 2004.An efficient algorithm for detecting frequent subgraphs in biological networks. Bioinformatics 20, SI200â€“207.
+>>> DOI >>> 10.1093/bioinformatics/bth919
+>>> URL >>> http://dx.doi.org/10.1093/bioinformatics/bth919
+>>> year >>> 2004.0
+>>> title >>> An efficient algorithm for detecting frequent subgraphs in biological networks
+>>> author >>> M. Koyuturk and A. Grama and W. Szpankowski
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 69.0
+>>> subject >>> None
+>>> container_title >>> ['Bioinformatics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T06:42:32Z', 'timestamp': 1528267352045}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': 'Suppl 1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Bioinformatics'], 'published-print': {'date-parts': [[2004, 8, 4]]}, 'DOI': '10.1093/bioinformatics/bth919', 'type': 'journal-article', 'created': {'date-parts': [[2004, 7, 19]], 'date-time': '2004-07-19T17:07:37Z', 'timestamp': 1090256857000}, 'page': 'i200-i207', 'source': 'Crossref', 'is-referenced-by-count': 69, 'title': ['An efficient algorithm for detecting frequent subgraphs in biological networks'], 'prefix': '10.1093', 'volume': '20', 'author': [{'given': 'M.', 'family': 'Koyuturk', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Grama', 'sequence': 'additional', 'affiliation': []}, {'given': 'W.', 'family': 'Szpankowski', 'sequence': 'additional', 'affiliation': []}], 'member': '286', 'published-online': {'date-parts': [[2004, 7, 19]]}, 'container-title': ['Bioinformatics'], 'language': 'en', 'link': [{'URL': 'http://academic.oup.com/bioinformatics/article-pdf/20/suppl_1/i200/576981/bth919.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 22]], 'date-time': '2017-08-22T18:04:22Z', 'timestamp': 1503425062000}, 'score': 82.86998, 'issued': {'date-parts': [[2004, 7, 19]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2004, 7, 19]]}, 'published-print': {'date-parts': [[2004, 8, 4]]}, 'issue': 'Suppl 1'}, 'URL': 'http://dx.doi.org/10.1093/bioinformatics/bth919', 'ISSN': ['1367-4803', '1460-2059'], 'issn-type': [{'value': '1367-4803', 'type': 'print'}, {'value': '1460-2059', 'type': 'electronic'}]}
+>>> hash >>> ('An efficient algorithm for detecting frequent subgraphs in biological networks', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Dandekar, T., Schuster, S., Snel, B., et al. 1999. Pathway alignment: application to the comparative analysis of glycolytic enzymes. Biochem. J. 343, 115â€“124.
+>>> DOI >>> 10.1042/bj3430115
+>>> URL >>> http://dx.doi.org/10.1042/bj3430115
+>>> year >>> 1999.0
+>>> title >>> Pathway alignment: application to the comparative analysis of glycolytic enzymes
+>>> author >>> Thomas DANDEKAR and Stefan SCHUSTER and Berend SNEL and Martijn HUYNEN and Peer BORK
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 40.0
+>>> subject >>> None
+>>> container_title >>> ['Biochemical Journal']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T17:34:43Z', 'timestamp': 1525714483199}, 'reference-count': 0, 'publisher': 'Portland Press Ltd.', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Biochem. J.'], 'published-print': {'date-parts': [[1999, 10, 1]]}, 'DOI': '10.1042/bj3430115', 'type': 'journal-article', 'created': {'date-parts': [[2015, 8, 10]], 'date-time': '2015-08-10T22:08:04Z', 'timestamp': 1439244484000}, 'page': '115-124', 'source': 'Crossref', 'is-referenced-by-count': 40, 'title': ['Pathway alignment: application to the comparative analysis of glycolytic enzymes'], 'prefix': '10.1042', 'volume': '343', 'author': [{'given': 'Thomas', 'family': 'DANDEKAR', 'sequence': 'first', 'affiliation': []}, {'given': 'Stefan', 'family': 'SCHUSTER', 'sequence': 'additional', 'affiliation': []}, {'given': 'Berend', 'family': 'SNEL', 'sequence': 'additional', 'affiliation': []}, {'given': 'Martijn', 'family': 'HUYNEN', 'sequence': 'additional', 'affiliation': []}, {'given': 'Peer', 'family': 'BORK', 'sequence': 'additional', 'affiliation': []}], 'member': '288', 'published-online': {'date-parts': [[1999, 10, 1]]}, 'container-title': ['Biochemical Journal'], 'language': 'en', 'deposited': {'date-parts': [[2015, 8, 11]], 'date-time': '2015-08-11T16:41:00Z', 'timestamp': 1439311260000}, 'score': 90.02631, 'issued': {'date-parts': [[1999, 10, 1]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[1999, 10, 1]]}, 'published-print': {'date-parts': [[1999, 10, 1]]}, 'issue': '1'}, 'alternative-id': ['10.1042/bj3430115'], 'URL': 'http://dx.doi.org/10.1042/bj3430115', 'ISSN': ['0264-6021', '1470-8728'], 'issn-type': [{'value': '0264-6021', 'type': 'print'}, {'value': '1470-8728', 'type': 'electronic'}]}
+>>> hash >>> ('Pathway alignment: application to the comparative analysis of glycolytic enzymes', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Cormen, T.H., Leiserson, C.E., Rivest, R.L., et al. 2001. Introduction to Algorithms, 2nd ed. MIT Press, Cambridge, MA.
+>>> DOI >>> 10.1515/9783110522013
+>>> URL >>> http://dx.doi.org/10.1515/9783110522013
+>>> year >>> 2017.0
+>>> title >>> Algorithmen - Eine Einführung
+>>> author >>> Thomas H. Cormen and Charles E. Leiserson and Ronald Rivest and Clifford Stein
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T10:38:56Z', 'timestamp': 1524047936013}, 'publisher-location': 'Berlin, Boston', 'reference-count': 0, 'publisher': 'De Gruyter', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2017, 1, 31]]}, 'DOI': '10.1515/9783110522013', 'type': 'monograph', 'created': {'date-parts': [[2017, 3, 8]], 'date-time': '2017-03-08T10:01:28Z', 'timestamp': 1488967288000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Algorithmen - Eine Einführung'], 'prefix': '10.1515', 'author': [{'given': 'Thomas H.', 'family': 'Cormen', 'sequence': 'first', 'affiliation': []}, {'given': 'Charles E.', 'family': 'Leiserson', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ronald', 'family': 'Rivest', 'sequence': 'additional', 'affiliation': []}, {'given': 'Clifford', 'family': 'Stein', 'sequence': 'additional', 'affiliation': []}], 'member': '374', 'link': [{'URL': 'http://www.degruyter.com/view/books/9783110522013/9783110522013/9783110522013.xml', 'content-type': 'text/html', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://www.degruyter.com/view/books/9783110522013/9783110522013/9783110522013.xml', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 4, 26]], 'date-time': '2017-04-26T10:02:30Z', 'timestamp': 1493200950000}, 'score': 48.090954, 'issued': {'date-parts': [[2017, 1, 31]]}, 'ISBN': ['9783110522013'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1515/9783110522013'}
+>>> hash >>> ('Algorithmen - Eine Einführung', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Deane, C.M., Salwinski, L., Xenarios, I., et al. 2002. Protein interactions: two methods for assessment of the reliability of high throughput observations. Mol. Cell. Proteomics 1, 349â€“356.
+>>> DOI >>> 10.1074/mcp.m100037-mcp200
+>>> URL >>> http://dx.doi.org/10.1074/mcp.m100037-mcp200
+>>> year >>> 2002.0
+>>> title >>> Protein Interactions
+>>> author >>> Charlotte M. Deane and \u0141ukasz Salwi\u0144ski and Ioannis Xenarios and David Eisenberg
+>>> reference_count >>> 34.0
+>>> is_referenced_by_count >>> 317.0
+>>> subject >>> None
+>>> container_title >>> ['Molecular & Cellular Proteomics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 16]], 'date-time': '2018-05-16T16:02:30Z', 'timestamp': 1526486550686}, 'reference-count': 34, 'publisher': 'American Society for Biochemistry & Molecular Biology (ASBMB)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Mol Cell Proteomics'], 'published-print': {'date-parts': [[2002, 5]]}, 'DOI': '10.1074/mcp.m100037-mcp200', 'type': 'journal-article', 'created': {'date-parts': [[2003, 4, 2]], 'date-time': '2003-04-02T21:49:56Z', 'timestamp': 1049320196000}, 'page': '349-356', 'source': 'Crossref', 'is-referenced-by-count': 317, 'title': ['Protein Interactions'], 'prefix': '10.1074', 'volume': '1', 'author': [{'given': 'Charlotte M.', 'family': 'Deane', 'sequence': 'first', 'affiliation': []}, {'given': '\u0141ukasz', 'family': 'Salwi\u0144ski', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ioannis', 'family': 'Xenarios', 'sequence': 'additional', 'affiliation': []}, {'given': 'David', 'family': 'Eisenberg', 'sequence': 'additional', 'affiliation': []}], 'member': '28', 'published-online': {'date-parts': [[2002, 4, 4]]}, 'reference': [{'key': '2017062013094029000_1.5.349.1', 'DOI': '10.1093/nar/29.1.242', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.2', 'DOI': '10.1093/nar/28.1.289', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.3', 'DOI': '10.1038/35075138', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.4', 'DOI': '10.1016/S0958-1669(00)00224-X', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.5', 'unstructured': 'Golemis, E. A., Ed. (2001) Protein-Protein Interactions: A Molecular Cloning Manual, Cold Spring Harbor Laboratory Press, Cold Spring Harbor, New York'}, {'key': '2017062013094029000_1.5.349.6', 'DOI': '10.1002/1097-0061(20000630)17:2<95::AID-YEA16>3.0.CO;2-H', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.7', 'DOI': '10.1073/pnas.061034498', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.8', 'DOI': '10.1038/35001009', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.9', 'DOI': '10.1002/1097-0061(20000630)17:2<88::AID-YEA20>3.0.CO;2-Y', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.10', 'DOI': '10.1073/pnas.97.24.13203', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.11', 'DOI': '10.1006/meth.2001.1190', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.12', 'DOI': '10.1073/pnas.091096398', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.13', 'DOI': '10.1016/S0168-9525(01)02323-X', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.14', 'DOI': '10.1016/S0962-8924(00)01902-4', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.15', 'DOI': '10.1038/82360', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.16', 'DOI': '10.1073/pnas.97.3.1143', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.17', 'DOI': '10.1038/ng0797-277', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.18', 'DOI': '10.1126/science.287.5450.116', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.19', 'DOI': '10.1093/nar/29.1.75', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.20', 'DOI': '10.1093/nar/28.1.73', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.21', 'unstructured': 'Anderson, E., Bai, Z., Bischof, C., Blackford, S., Demmel, J., Dongarra, J., Du Croz, J., Greenbaum, A., Hammarling, S., McKenney, A., and Sorensen, D. (1999) LAPACK Users Guide, 3rd Ed., Society for Industrial and Applied Mathematics, Philadelphia', 'DOI': '10.1137/1.9780898719604', 'doi-asserted-by': 'crossref'}, {'key': '2017062013094029000_1.5.349.22', 'unstructured': 'Press, H. P., Teukolsky, S. A., Vetterling, W. T., and Flannery, B. P. (1992) Numerical Recipes in FORTRAN, p.687 , Cambridge University Press, Cambridge'}, {'key': '2017062013094029000_1.5.349.23', 'volume': '11', 'first-page': '4241', 'year': '2000', 'journal-title': 'Mol. Biol. Cell', 'DOI': '10.1091/mbc.11.12.4241', 'doi-asserted-by': 'crossref'}, {'key': '2017062013094029000_1.5.349.24', 'DOI': '10.1093/nar/25.17.3389', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.25', 'DOI': '10.1016/S0014-5793(00)01774-9', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.26', 'DOI': '10.1093/nar/27.4.919', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.27', 'DOI': '10.1038/ng776', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.28', 'DOI': '10.1016/S0959-437X(99)00033-7', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.29', 'DOI': '10.1038/35015701', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.30', 'DOI': '10.1101/gr.205602', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.31', 'DOI': '10.1016/S0962-8924(99)01695-5', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.32', 'DOI': '10.1101/gr.206701', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.33', 'DOI': '10.1073/pnas.92.25.11921', 'doi-asserted-by': 'publisher'}, {'key': '2017062013094029000_1.5.349.34', 'DOI': '10.1093/nar/29.1.22', 'doi-asserted-by': 'publisher'}], 'container-title': ['Molecular & Cellular Proteomics'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1074/mcp.M100037-MCP200', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T23:28:59Z', 'timestamp': 1498001339000}, 'score': 105.82582, 'subtitle': ['Two Methods for Assessment of the Reliability of High Throughput Observations'], 'issued': {'date-parts': [[2002, 4, 4]]}, 'references-count': 34, 'journal-issue': {'published-online': {'date-parts': [[2002, 5, 22]]}, 'published-print': {'date-parts': [[2002, 5]]}, 'issue': '5'}, 'alternative-id': ['10.1074/mcp.M100037-MCP200'], 'URL': 'http://dx.doi.org/10.1074/mcp.m100037-mcp200', 'relation': {'cites': []}, 'ISSN': ['1535-9476', '1535-9484'], 'issn-type': [{'value': '1535-9476', 'type': 'print'}, {'value': '1535-9484', 'type': 'electronic'}]}
+>>> hash >>> ('Protein Interactions', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> KoyutÂ¨urk, M., Grama, A., and Szpankowski, W. 2005. Pairwise local alignment of protein interaction networks guided by models of evolution. Lect. Notes Bioinform. 3500, 48â€“65.
+>>> DOI >>> 10.1007/11415770_4
+>>> URL >>> http://dx.doi.org/10.1007/11415770_4
+>>> year >>> 2005.0
+>>> title >>> Pairwise Local Alignment of Protein Interaction Networks Guided by Models of Evolution
+>>> author >>> Mehmet Koyutürk and Ananth Grama and Wojciech Szpankowski
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 11.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Research in Computational Molecular Biology']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 11]], 'date-time': '2018-05-11T09:02:34Z', 'timestamp': 1526029354996}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540258667', 'type': 'print'}, {'value': '9783540319504', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1007/11415770_4', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 7, 13]], 'date-time': '2010-07-13T03:44:50Z', 'timestamp': 1278992690000}, 'page': '48-65', 'source': 'Crossref', 'is-referenced-by-count': 11, 'title': ['Pairwise Local Alignment of Protein Interaction Networks Guided by Models of Evolution'], 'prefix': '10.1007', 'author': [{'given': 'Mehmet', 'family': 'Koyutürk', 'sequence': 'first', 'affiliation': []}, {'given': 'Ananth', 'family': 'Grama', 'sequence': 'additional', 'affiliation': []}, {'given': 'Wojciech', 'family': 'Szpankowski', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Lecture Notes in Computer Science', 'Research in Computational Molecular Biology'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/11415770_4', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T15:31:14Z', 'timestamp': 1389022274000}, 'score': 85.44063, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['9783540258667', '9783540319504'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/11415770_4', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Pairwise Local Alignment of Protein Interaction Networks Guided by Models of Evolution', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Spirin, V., and Mirny, L.A. 2003. Protein complexes and functional modules in molecular networks. Proc. Natl. Acad. Sci. USA 100, 12123â€“12128.
+>>> DOI >>> 10.1073/pnas.2032324100
+>>> URL >>> http://dx.doi.org/10.1073/pnas.2032324100
+>>> year >>> 2003.0
+>>> title >>> Protein complexes and functional modules in molecular networks
+>>> author >>> V. Spirin and L. A. Mirny
+>>> reference_count >>> 36.0
+>>> is_referenced_by_count >>> 656.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the National Academy of Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T07:42:40Z', 'timestamp': 1528443760160}, 'reference-count': 36, 'publisher': 'Proceedings of the National Academy of Sciences', 'issue': '21', 'content-domain': {'domain': ['pnas.org'], 'crossmark-restriction': True}, 'short-container-title': ['Proceedings of the National Academy of Sciences'], 'published-print': {'date-parts': [[2003, 10, 14]]}, 'DOI': '10.1073/pnas.2032324100', 'type': 'journal-article', 'created': {'date-parts': [[2003, 10, 14]], 'date-time': '2003-10-14T19:05:46Z', 'timestamp': 1066158346000}, 'page': '12123-12128', 'update-policy': 'http://dx.doi.org/10.1073/pnas.cm10313', 'source': 'Crossref', 'is-referenced-by-count': 656, 'title': ['Protein complexes and functional modules in molecular networks'], 'prefix': '10.1073', 'volume': '100', 'author': [{'given': 'V.', 'family': 'Spirin', 'sequence': 'first', 'affiliation': []}, {'given': 'L. A.', 'family': 'Mirny', 'sequence': 'additional', 'affiliation': []}], 'member': '341', 'published-online': {'date-parts': [[2003, 9, 29]]}, 'reference': [{'issue': '5518', 'key': '1_11142194', 'doi-asserted-by': 'publisher', 'first-page': '929', 'DOI': '10.1126/science.292.5518.929', 'volume': '292', 'author': 'Ideker', 'year': '2001', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '1', 'key': '2_11453791', 'doi-asserted-by': 'publisher', 'first-page': '42', 'DOI': '10.1093/nar/30.1.42', 'volume': '30', 'author': 'Kanehisa', 'year': '2002', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '1', 'key': '3_11453796', 'doi-asserted-by': 'publisher', 'first-page': '59', 'DOI': '10.1093/nar/30.1.59', 'volume': '30', 'author': 'Karp', 'year': '2002', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '6770', 'key': '4_6480854', 'doi-asserted-by': 'publisher', 'first-page': '623', 'DOI': '10.1038/35001009', 'volume': '403', 'author': 'Uetz', 'year': '2000', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '8', 'key': '5_19672647', 'doi-asserted-by': 'publisher', 'first-page': '4569', 'DOI': '10.1073/pnas.061034498', 'volume': '98', 'year': '2001', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': '5594', 'key': '6_17300556', 'doi-asserted-by': 'publisher', 'first-page': '799', 'DOI': '10.1126/science.1075090', 'volume': '298', 'author': 'Lee', 'year': '2002', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '1', 'key': '7_17029894', 'doi-asserted-by': 'publisher', 'first-page': '64', 'DOI': '10.1038/ng881', 'volume': '31', 'author': 'Shen-Orr', 'year': '2002', 'journal-title': 'Nature genetics', 'ISSN': 'http://id.crossref.org/issn/1061-4036', 'issn-type': 'print'}, {'key': '8_17513531', 'ISSN': 'http://id.crossref.org/issn/1793-5091', 'issn-type': 'print', 'author': 'Deng', 'first-page': '140', 'year': '2003', 'journal-title': 'Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing'}, {'issue': '5553', 'key': '9_11472699', 'doi-asserted-by': 'publisher', 'first-page': '284', 'DOI': '10.1126/science.1068664', 'volume': '295', 'author': 'Gerstein', 'year': '2002', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '6887', 'key': '10_17067161', 'doi-asserted-by': 'crossref', 'first-page': '399', 'DOI': '10.1038/nature750', 'volume': '417', 'author': 'von Mering', 'year': '2002', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '8', 'key': '11_19684955', 'doi-asserted-by': 'publisher', 'first-page': '4372', 'DOI': '10.1073/pnas.0735871100', 'volume': '100', 'year': '2003', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': '1', 'key': '12_11300788', 'doi-asserted-by': 'publisher', 'first-page': '54', 'DOI': '10.1038/ng708', 'volume': '29', 'author': 'Podani', 'year': '2001', 'journal-title': 'Nature genetics', 'ISSN': 'http://id.crossref.org/issn/1061-4036', 'issn-type': 'print'}, {'issue': '5586', 'key': '13_17216604', 'doi-asserted-by': 'publisher', 'first-page': '1551', 'DOI': '10.1126/science.1073374', 'volume': '297', 'author': 'Ravasz', 'year': '2002', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '6804', 'key': '14_10511284', 'doi-asserted-by': 'publisher', 'first-page': '651', 'DOI': '10.1038/35036627', 'volume': '407', 'author': 'Jeong', 'year': '2000', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '5569', 'key': '15_17033728', 'doi-asserted-by': 'publisher', 'first-page': '910', 'DOI': '10.1126/science.1065103', 'volume': '296', 'author': 'Maslov', 'year': '2002', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '1478', 'key': '16_28407319', 'doi-asserted-by': 'publisher', 'first-page': '1803', 'DOI': '10.1098/rspb.2001.1711', 'volume': '268', 'author': 'Wagner', 'year': '2001', 'journal-title': 'Proceedings of the Royal Society B: Biological Sciences', 'ISSN': 'http://id.crossref.org/issn/0962-8452', 'issn-type': 'print'}, {'issue': '6833', 'key': '17_11137147', 'doi-asserted-by': 'publisher', 'first-page': '41', 'DOI': '10.1038/35075138', 'volume': '411', 'author': 'Jeong', 'year': '2001', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '5594', 'key': '18_17300562', 'doi-asserted-by': 'publisher', 'first-page': '824', 'DOI': '10.1126/science.298.5594.824', 'volume': '298', 'author': 'Milo', 'year': '2002', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '5', 'key': '19_17316704', 'doi-asserted-by': 'publisher', 'first-page': '785', 'DOI': '10.1016/S0022-2836(02)00994-4', 'volume': '323', 'author': 'Rosenfeld', 'year': '2002', 'journal-title': 'Journal of molecular biology', 'ISSN': 'http://id.crossref.org/issn/0022-2836', 'issn-type': 'print'}, {'issue': '1', 'key': '20_11453788', 'doi-asserted-by': 'publisher', 'first-page': '31', 'DOI': '10.1093/nar/30.1.31', 'volume': '30', 'author': 'Mewes', 'year': '2002', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '6868', 'key': '21_16882475', 'doi-asserted-by': 'publisher', 'first-page': '141', 'DOI': '10.1038/415141a', 'volume': '415', 'author': 'Gavin', 'year': '2002', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '6868', 'key': '22_16882486', 'doi-asserted-by': 'publisher', 'first-page': '180', 'DOI': '10.1038/415180a', 'volume': '415', 'author': 'Ho', 'year': '2002', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '18', 'key': '23_18997259', 'doi-asserted-by': 'publisher', 'first-page': '3251', 'DOI': '10.1103/PhysRevLett.76.3251', 'volume': '76', 'author': 'Blatt', 'year': '1996', 'journal-title': 'Physical Review Letters', 'ISSN': 'http://id.crossref.org/issn/1079-7114', 'issn-type': 'print'}, {'issue': '22', 'key': '24_19670176', 'doi-asserted-by': 'publisher', 'first-page': '12079', 'DOI': '10.1073/pnas.210134797', 'volume': '97', 'year': '2000', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': '4', 'key': '25_16906882', 'doi-asserted-by': 'publisher', 'first-page': '405', 'DOI': '10.1002/prot.1176', 'volume': '46', 'author': 'Getz', 'year': '2002', 'journal-title': 'Proteins', 'ISSN': 'http://id.crossref.org/issn/0887-3585', 'issn-type': 'print'}, {'issue': '90001', 'key': '26_17186962', 'doi-asserted-by': 'publisher', 'first-page': 'S233', 'DOI': '10.1093/bioinformatics/18.suppl_1.S233', 'volume': '18', 'author': 'Ideker', 'year': '2002', 'journal-title': 'Bioinformatics', 'ISSN': 'http://id.crossref.org/issn/1367-4803', 'issn-type': 'print'}, {'issue': '2', 'key': '27_11345597', 'doi-asserted-by': 'publisher', 'first-page': '153', 'DOI': '10.1038/ng724', 'volume': '29', 'author': 'Pilpel', 'year': '2001', 'journal-title': 'Nature genetics', 'ISSN': 'http://id.crossref.org/issn/1061-4036', 'issn-type': 'print'}, {'issue': '1', 'key': '30_17466523', 'doi-asserted-by': 'publisher', 'first-page': '216', 'DOI': '10.1093/nar/gkg054', 'volume': '31', 'author': 'Weng', 'year': '2003', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '6761 Suppl', 'key': '31_6393722', 'doi-asserted-by': 'publisher', 'first-page': 'C47', 'DOI': '10.1038/35011540', 'volume': '402', 'author': 'Hartwell', 'year': '1999', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '4', 'key': '32_17327378', 'doi-asserted-by': 'crossref', 'first-page': '250', 'DOI': '10.4161/cc.1.4.132', 'volume': '1', 'author': 'Spruck', 'year': '2002', 'journal-title': 'Cell cycle (Georgetown, Tex.)', 'ISSN': 'http://id.crossref.org/issn/1538-4101', 'issn-type': 'print'}, {'key': '33_28372941', 'ISSN': 'http://id.crossref.org/issn/0021-9533', 'issn-type': 'print', 'volume': '114', 'first-page': '3967', 'year': '2001', 'journal-title': 'Journal of Cell Science'}, {'issue': '2', 'key': '34_17480031', 'doi-asserted-by': 'publisher', 'first-page': '173', 'DOI': '10.1016/S0960-9822(03)00008-3', 'volume': '13', 'author': 'Krylov', 'year': '2003', 'journal-title': 'Current biology : CB', 'ISSN': 'http://id.crossref.org/issn/0960-9822', 'issn-type': 'print'}, {'issue': '4', 'key': '35_11115394', 'doi-asserted-by': 'publisher', 'first-page': '160', 'DOI': '10.1016/S0962-8924(01)01954-7', 'volume': '11', 'author': 'Segal', 'year': '2001', 'journal-title': 'Trends in cell biology', 'ISSN': 'http://id.crossref.org/issn/0962-8924', 'issn-type': 'print'}, {'issue': '17', 'key': '36_23393646', 'doi-asserted-by': 'publisher', 'first-page': '4954', 'DOI': '10.1093/emboj/17.17.4954', 'volume': '17', 'author': 'Yang', 'year': '1998', 'journal-title': 'The EMBO Journal', 'ISSN': 'http://id.crossref.org/issn/0261-4189', 'issn-type': 'print'}, {'issue': '12', 'key': '37_17096943', 'doi-asserted-by': 'publisher', 'first-page': '7821', 'DOI': '10.1073/pnas.122653799', 'volume': '99', 'author': 'Girvan', 'year': '2002', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': '22', 'key': '38_19674135', 'doi-asserted-by': 'publisher', 'first-page': '14132', 'DOI': '10.1073/pnas.202497999', 'volume': '99', 'year': '2002', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}], 'container-title': ['Proceedings of the National Academy of Sciences'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1073/pnas.2032324100', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T01:19:56Z', 'timestamp': 1497575996000}, 'score': 73.47049, 'issued': {'date-parts': [[2003, 9, 29]]}, 'references-count': 36, 'journal-issue': {'published-online': {'date-parts': [[2011, 5, 1]]}, 'published-print': {'date-parts': [[2003, 10, 14]]}, 'issue': '21'}, 'URL': 'http://dx.doi.org/10.1073/pnas.2032324100', 'relation': {'cites': []}, 'ISSN': ['0027-8424', '1091-6490'], 'issn-type': [{'value': '0027-8424', 'type': 'print'}, {'value': '1091-6490', 'type': 'electronic'}]}
+>>> hash >>> ('Protein complexes and functional modules in molecular networks', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Nishida, H., Nishiyama, M., Kobashi, N., et al. 1999. A prokaryotic gene cluster involved in synthesis of lysine through the amino adipate pathway: a key to the evolution of amino acid biosynthesis. Genome Res. 9, 1175â€“1183.
+>>> DOI >>> 10.1101/gr.9.12.1175
+>>> URL >>> http://dx.doi.org/10.1101/gr.9.12.1175
+>>> year >>> 1999.0
+>>> title >>> A Prokaryotic Gene Cluster Involved in Synthesis of Lysine through the Amino Adipate Pathway: A Key to the Evolution of Amino Acid Biosynthesis
+>>> author >>> H. Nishida
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 58.0
+>>> subject >>> None
+>>> container_title >>> ['Genome Research']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T06:05:49Z', 'timestamp': 1525327549916}, 'reference-count': 0, 'publisher': 'Cold Spring Harbor Laboratory', 'issue': '12', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1999, 12, 1]]}, 'DOI': '10.1101/gr.9.12.1175', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T00:00:34Z', 'timestamp': 1027728034000}, 'page': '1175-1183', 'source': 'Crossref', 'is-referenced-by-count': 58, 'title': ['A Prokaryotic Gene Cluster Involved in Synthesis of Lysine through the Amino Adipate Pathway: A Key to the Evolution of Amino Acid Biosynthesis'], 'prefix': '10.1101', 'volume': '9', 'author': [{'given': 'H.', 'family': 'Nishida', 'sequence': 'first', 'affiliation': []}], 'member': '246', 'container-title': ['Genome Research'], 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1101/gr.9.12.1175', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 2, 15]], 'date-time': '2017-02-15T18:04:42Z', 'timestamp': 1487181882000}, 'score': 120.843445, 'issued': {'date-parts': [[1999, 12, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '12'}, 'URL': 'http://dx.doi.org/10.1101/gr.9.12.1175', 'ISSN': ['1088-9051'], 'issn-type': [{'value': '1088-9051', 'type': 'electronic'}]}
+>>> hash >>> ('A Prokaryotic Gene Cluster Involved in Synthesis of Lysine through the Amino Adipate Pathway: A Key to the Evolution of Amino Acid Biosynthesis', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Paris, S., Viemon, C., Curien, G., et al. 2003. Mechanism of control of Arabidopsis thaliana aspartate kinase-homoserine dehydrogenase by threonine. J. Biol. Chem. 278, 5361â€“5366.
+>>> DOI >>> 10.1074/jbc.m207379200
+>>> URL >>> http://dx.doi.org/10.1074/jbc.m207379200
+>>> year >>> 2002.0
+>>> title >>> Mechanism of Control ofArabidopsis thalianaAspartate Kinase-Homoserine Dehydrogenase by Threonine
+>>> author >>> Stéphane Paris and Claire Viemon and Gilles Curien and Renaud Dumas
+>>> reference_count >>> 26.0
+>>> is_referenced_by_count >>> 24.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Biological Chemistry']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T14:31:32Z', 'timestamp': 1525357892914}, 'reference-count': 26, 'publisher': 'American Society for Biochemistry & Molecular Biology (ASBMB)', 'issue': '7', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J. Biol. Chem.'], 'published-print': {'date-parts': [[2003, 2, 14]]}, 'DOI': '10.1074/jbc.m207379200', 'type': 'journal-article', 'created': {'date-parts': [[2003, 2, 7]], 'date-time': '2003-02-07T19:03:58Z', 'timestamp': 1044644638000}, 'page': '5361-5366', 'source': 'Crossref', 'is-referenced-by-count': 24, 'title': ['Mechanism of Control ofArabidopsis thalianaAspartate Kinase-Homoserine Dehydrogenase by Threonine'], 'prefix': '10.1074', 'volume': '278', 'author': [{'given': 'Stéphane', 'family': 'Paris', 'sequence': 'first', 'affiliation': []}, {'given': 'Claire', 'family': 'Viemon', 'sequence': 'additional', 'affiliation': []}, {'given': 'Gilles', 'family': 'Curien', 'sequence': 'additional', 'affiliation': []}, {'given': 'Renaud', 'family': 'Dumas', 'sequence': 'additional', 'affiliation': []}], 'member': '28', 'published-online': {'date-parts': [[2002, 11, 14]]}, 'reference': [{'key': '2017062210452758000_278.7.5361.1', 'DOI': '10.1016/S0076-6879(85)13079-X', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.2', 'DOI': '10.1021/ar000057q', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.3', 'author': 'Zakin', 'volume': '258', 'first-page': '3028', 'year': '1983', 'journal-title': 'J. Biol. Chem.'}, {'key': '2017062210452758000_278.7.5361.4', 'DOI': '10.1073/pnas.77.10.5730', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.5', 'author': 'Falcoz-Kelly', 'volume': '28', 'first-page': '507', 'year': '1972', 'journal-title': 'Eur. J. Biochem.', 'DOI': '10.1111/j.1432-1033.1972.tb01938.x', 'doi-asserted-by': 'crossref'}, {'key': '2017062210452758000_278.7.5361.6', 'DOI': '10.1021/bi00610a014', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.7', 'author': 'Fazel', 'volume': '258', 'first-page': '13570', 'year': '1983', 'journal-title': 'J. Biol. Chem.'}, {'key': '2017062210452758000_278.7.5361.8', 'DOI': '10.1021/bi00270a023', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.9', 'DOI': '10.1073/pnas.81.10.3019', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.10', 'author': 'Omori', 'volume': '175', 'first-page': '785', 'year': '1993', 'journal-title': 'J. Bacteriol.', 'DOI': '10.1128/jb.175.3.785-794.1993', 'doi-asserted-by': 'crossref'}, {'key': '2017062210452758000_278.7.5361.11', 'author': 'Omori', 'volume': '175', 'first-page': '959', 'year': '1993', 'journal-title': 'J. Bacteriol.', 'DOI': '10.1128/jb.175.4.959-965.1993', 'doi-asserted-by': 'crossref'}, {'key': '2017062210452758000_278.7.5361.12', 'DOI': '10.1007/BF00014937', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.13', 'DOI': '10.1007/BF00014439', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.14', 'DOI': '10.1104/pp.106.4.1303', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.15', 'DOI': '10.1104/pp.120.1.339', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.16', 'DOI': '10.1006/prep.2001.1539', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.17', 'DOI': '10.1016/S0969-2126(98)00048-3', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.18', 'DOI': '10.1021/bi001625c', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.19', 'DOI': '10.1016/0006-291X(70)90215-9', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.20', 'DOI': '10.1006/prep.2001.1538', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.21', 'DOI': '10.1016/S0076-6879(80)69042-9', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.22', 'DOI': '10.1016/0003-2697(76)90527-3', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.23', 'DOI': '10.1016/0003-2697(74)90034-7', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.24', 'DOI': '10.1093/protein/7.2.157', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.25', 'DOI': '10.1093/nar/27.1.260', 'doi-asserted-by': 'publisher'}, {'key': '2017062210452758000_278.7.5361.26', 'DOI': '10.1016/S0959-440X(01)00272-X', 'doi-asserted-by': 'publisher'}], 'container-title': ['Journal of Biological Chemistry'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1074/jbc.M207379200', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 23]], 'date-time': '2017-06-23T16:21:33Z', 'timestamp': 1498234893000}, 'score': 97.245575, 'issued': {'date-parts': [[2002, 11, 14]]}, 'references-count': 26, 'journal-issue': {'published-online': {'date-parts': [[2003, 2, 7]]}, 'published-print': {'date-parts': [[2003, 2, 14]]}, 'issue': '7'}, 'alternative-id': ['10.1074/jbc.M207379200'], 'URL': 'http://dx.doi.org/10.1074/jbc.m207379200', 'relation': {'cites': []}, 'ISSN': ['0021-9258', '1083-351X'], 'issn-type': [{'value': '0021-9258', 'type': 'print'}, {'value': '1083-351X', 'type': 'electronic'}]}
+>>> hash >>> ('Mechanism of Control ofArabidopsis thalianaAspartate Kinase-Homoserine Dehydrogenase by Threonine', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Gustin, M.C., Albertyn, J., Alexander, M., et al. 1998. MAP kinase pathways in the yeast Saccharomyces cerevisiae. Microbiol. Mol. Biol. Rev. 62, 1264â€“1300.
+>>> DOI >>> 10.1046/j.1365-2958.1999.01538.x
+>>> URL >>> http://dx.doi.org/10.1046/j.1365-2958.1999.01538.x
+>>> year >>> 1999.0
+>>> title >>> Novel sensing mechanisms and targets for the cAMP-protein kinase A pathway in the yeast Saccharomyces cerevisiae
+>>> author >>> Johan M. Thevelein and Johannes H. de Winde
+>>> reference_count >>> 101.0
+>>> is_referenced_by_count >>> 309.0
+>>> subject >>> None
+>>> container_title >>> ['Molecular Microbiology']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T15:42:35Z', 'timestamp': 1528472555820}, 'reference-count': 101, 'publisher': 'Wiley', 'issue': '5', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 5844, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Mol Microbiol'], 'published-print': {'date-parts': [[1999, 9]]}, 'DOI': '10.1046/j.1365-2958.1999.01538.x', 'type': 'journal-article', 'created': {'date-parts': [[2003, 3, 12]], 'date-time': '2003-03-12T11:26:50Z', 'timestamp': 1047468410000}, 'page': '904-918', 'source': 'Crossref', 'is-referenced-by-count': 309, 'title': ['Novel sensing mechanisms and targets for the cAMP-protein kinase A pathway in the yeast Saccharomyces cerevisiae'], 'prefix': '10.1111', 'volume': '33', 'author': [{'given': 'Johan M.', 'family': 'Thevelein', 'sequence': 'first', 'affiliation': []}, {'given': 'Johannes H.', 'family': 'de Winde', 'sequence': 'additional', 'affiliation': []}], 'member': '311', 'reference': [{'key': 'b1_44', 'DOI': '10.1016/0014-5793(91)80777-Z', 'doi-asserted-by': 'publisher'}, {'key': 'b2_45', 'author': 'Baroni M.D.', 'volume': '371', 'first-page': '339', 'year': '1994', 'journal-title': 'Nature', 'DOI': '10.1038/371339a0', 'doi-asserted-by': 'crossref'}, {'key': 'b3_46', 'author': 'Belazzi T.', 'volume': '10', 'first-page': '585', 'year': '1991', 'journal-title': 'EMBO J'}, {'key': 'b4_47', 'author': 'Berke H.L.', 'volume': '72', 'first-page': '380', 'year': '1957', 'journal-title': 'Arch Biochem Biophys', 'DOI': '10.1016/0003-9861(57)90215-1', 'doi-asserted-by': 'crossref'}, {'key': 'b5_48', 'author': 'Beullens M.', 'volume': '172', 'first-page': '227', 'year': '1988', 'journal-title': 'Eur J Biochem', 'DOI': '10.1111/j.1432-1033.1988.tb13877.x', 'doi-asserted-by': 'crossref'}, {'key': 'b6_49', 'author': 'Bhattacharya S.', 'volume': '92', 'first-page': '2984', 'year': '1995', 'journal-title': 'Proc Natl Acad Sci USA', 'DOI': '10.1073/pnas.92.7.2984', 'doi-asserted-by': 'crossref'}, {'key': 'b7_50', 'author': 'Boorstein W.R.', 'volume': '9', 'first-page': '2543', 'year': '1990', 'journal-title': 'EMBO J'}, {'key': 'b8_51', 'author': 'Boy-Marcotte E.', 'volume': '3', 'first-page': '85', 'year': '1987', 'journal-title': 'Yeast', 'DOI': '10.1002/yea.320030205', 'doi-asserted-by': 'crossref'}, {'key': 'b9_52', 'author': 'Boy-Marcotte E.', 'volume': '142', 'first-page': '459', 'year': '1996', 'journal-title': 'Microbiology', 'DOI': '10.1099/13500872-142-3-459', 'doi-asserted-by': 'crossref'}, {'key': 'b10_53', 'author': 'Boy-Marcotte E.', 'volume': '180', 'first-page': '1044', 'year': '1998', 'journal-title': 'J Bacteriol'}, {'key': 'b11_54', 'author': 'Brady T.G.', 'volume': '93', 'first-page': '220', 'year': '1961', 'journal-title': 'Arch Biochem Biophys', 'DOI': '10.1016/0003-9861(61)90253-3', 'doi-asserted-by': 'crossref'}, {'key': 'b12_55', 'author': 'Broach J.R.', 'volume': '54', 'first-page': '79', 'year': '1990', 'journal-title': 'Adv Cancer Res', 'DOI': '10.1016/S0065-230X(08)60809-X', 'doi-asserted-by': 'crossref'}, {'key': 'b13_56', 'author': 'Broek D.', 'volume': '41', 'first-page': '763', 'year': '1985', 'journal-title': 'Cell', 'DOI': '10.1016/S0092-8674(85)80057-X', 'doi-asserted-by': 'crossref'}, {'key': 'b14_57', 'DOI': '10.1093/emboj/17.12.3326', 'doi-asserted-by': 'publisher'}, {'key': 'b15_58', 'author': 'Crauwels M.', 'volume': '143', 'first-page': '2627', 'year': '1997', 'journal-title': 'Microbiology', 'DOI': '10.1099/00221287-143-8-2627', 'doi-asserted-by': 'crossref'}, {'key': 'b16_59', 'DOI': '10.1146/annurev.biochem.60.1.653', 'doi-asserted-by': 'publisher'}, {'key': 'b17_60', 'DOI': '10.1038/346719a0', 'doi-asserted-by': 'publisher'}, {'key': 'b18_61', 'author': 'Durnez P.', 'volume': '10', 'first-page': '1049', 'year': '1994', 'journal-title': 'Yeast', 'DOI': '10.1002/yea.320100807', 'doi-asserted-by': 'crossref'}, {'key': 'b19_62', 'author': 'Engelberg D.', 'volume': '9', 'first-page': '641', 'year': '1990', 'journal-title': 'EMBO J'}, {'key': 'b20_63', 'author': 'Eraso P.', 'volume': '141', 'first-page': '195', 'year': '1984', 'journal-title': 'Eur J Biochem', 'DOI': '10.1111/j.1432-1033.1984.tb08174.x', 'doi-asserted-by': 'crossref'}, {'key': 'b21_64', 'author': 'Francois J.M.', 'volume': '164', 'first-page': '369', 'year': '1987', 'journal-title': 'Eur J Biochem', 'DOI': '10.1111/j.1432-1033.1987.tb11067.x', 'doi-asserted-by': 'crossref'}, {'key': 'b22_65', 'author': 'Fukui Y.', 'volume': '44', 'first-page': '329', 'year': '1986', 'journal-title': 'Cell', 'DOI': '10.1016/0092-8674(86)90767-1', 'doi-asserted-by': 'crossref'}, {'key': 'b23_66', 'author': 'Garrett S.', 'volume': '11', 'first-page': '4045', 'year': '1991', 'journal-title': 'Mol Cell Biol', 'DOI': '10.1128/MCB.11.8.4045', 'doi-asserted-by': 'crossref'}, {'key': 'b24_67', 'author': 'Geymonat M.', 'volume': '30', 'first-page': '855', 'year': '1998', 'journal-title': 'Mol Microbiol', 'DOI': '10.1046/j.1365-2958.1998.01118.x', 'doi-asserted-by': 'crossref'}, {'key': 'b25_68', 'author': 'Gibbs J.B.', 'volume': '265', 'first-page': '20437', 'year': '1990', 'journal-title': 'J Biol Chem'}, {'key': 'b26_69', 'DOI': '10.1016/0092-8674(84)90336-2', 'doi-asserted-by': 'publisher'}, {'key': 'b27_70', 'DOI': '10.1146/annurev.biochem.56.1.615', 'doi-asserted-by': 'publisher'}, {'key': 'b28_71', 'DOI': '10.1016/0092-8674(92)90079-R', 'doi-asserted-by': 'publisher'}, {'key': 'b29_72', 'author': 'Gorner W.', 'volume': '12', 'first-page': '586', 'year': '1998', 'journal-title': 'Genes Dev', 'DOI': '10.1101/gad.12.4.586', 'doi-asserted-by': 'crossref'}, {'key': 'b30_73', 'DOI': '10.1093/emboj/17.15.4370', 'doi-asserted-by': 'publisher'}, {'key': 'b31_74', 'author': 'Hartley A.D.', 'volume': '136', 'first-page': '465', 'year': '1994', 'journal-title': 'Genetics'}, {'key': 'b32_75', 'author': 'Hirimburegama K.', 'volume': '138', 'first-page': '2035', 'year': '1992', 'journal-title': 'J Gen Microbiol', 'DOI': '10.1099/00221287-138-10-2035', 'doi-asserted-by': 'crossref'}, {'key': 'b33_76', 'author': 'Hohmann S.', 'volume': '23', 'first-page': '281', 'year': '1993', 'journal-title': 'Curr Genet', 'DOI': '10.1007/BF00310888', 'doi-asserted-by': 'crossref'}, {'key': 'b34_77', 'author': 'Hubler L.', 'volume': '13', 'first-page': '6274', 'year': '1993', 'journal-title': 'Mol Cell Biol', 'DOI': '10.1128/MCB.13.10.6274', 'doi-asserted-by': 'crossref'}, {'key': 'b35_78', 'author': 'Isshiki T.', 'volume': '6', 'first-page': '2455', 'year': '1992', 'journal-title': 'Genes Dev', 'DOI': '10.1101/gad.6.12b.2455', 'doi-asserted-by': 'crossref'}, {'key': 'b36_79', 'DOI': '10.1016/S1360-1385(97)01043-1', 'doi-asserted-by': 'publisher'}, {'key': 'b37_80', 'DOI': '10.1093/emboj/17.23.6942', 'doi-asserted-by': 'publisher'}, {'key': 'b38_81', 'DOI': '10.1046/j.1365-2958.1999.01413.x', 'doi-asserted-by': 'publisher'}, {'key': 'b39_82', 'DOI': '10.1074/jbc.272.33.20321', 'doi-asserted-by': 'publisher'}, {'key': 'b40_83', 'author': 'Kuroda Y.', 'volume': '259', 'first-page': '683', 'year': '1993', 'journal-title': 'Science', 'DOI': '10.1126/science.8430318', 'doi-asserted-by': 'crossref'}, {'key': 'b41_84', 'author': 'Lillie S.H.', 'volume': '143', 'first-page': '1384', 'year': '1980', 'journal-title': 'J Bacteriol'}, {'key': 'b42_85', 'DOI': '10.1093/emboj/16.23.7008', 'doi-asserted-by': 'publisher'}, {'key': 'b43_86', 'author': 'Ma P.', 'volume': '143', 'first-page': '3451', 'year': '1997', 'journal-title': 'Microbiology', 'DOI': '10.1099/00221287-143-11-3451', 'doi-asserted-by': 'crossref'}, {'key': 'b44_87', 'author': 'Ma P.', 'volume': '10', 'first-page': '91', 'year': '1999', 'journal-title': 'Mol Biol Cell', 'DOI': '10.1091/mbc.10.1.91', 'doi-asserted-by': 'crossref'}, {'key': 'b45_88', 'DOI': '10.1146/annurev.cellbio.7.1.699', 'doi-asserted-by': 'publisher'}, {'key': 'b46_89', 'author': 'Martinez-Pastor M.T.', 'volume': '15', 'first-page': '2227', 'year': '1996', 'journal-title': 'EMBO J'}, {'key': 'b47_90', 'author': 'Matschinsky F.M.', 'volume': '47', 'first-page': '307', 'year': '1998', 'journal-title': 'Diabetes', 'DOI': '10.2337/diabetes.47.3.307', 'doi-asserted-by': 'crossref'}, {'key': 'b48_91', 'author': 'Matsumoto K.', 'volume': '1', 'first-page': '15', 'year': '1985', 'journal-title': 'Yeast', 'DOI': '10.1002/yea.320010103', 'doi-asserted-by': 'crossref'}, {'key': 'b49_92', 'author': 'Mbonyi K.', 'volume': '8', 'first-page': '3051', 'year': '1988', 'journal-title': 'Mol Cell Biol', 'DOI': '10.1128/MCB.8.8.3051', 'doi-asserted-by': 'crossref'}, {'key': 'b50_93', 'author': 'Mbonyi K.', 'volume': '10', 'first-page': '4518', 'year': '1990', 'journal-title': 'Mol Cell Biol', 'DOI': '10.1128/MCB.10.9.4518', 'doi-asserted-by': 'crossref'}, {'key': 'b51_94', 'author': 'Mendenhall M.D.', 'volume': '62', 'first-page': '1191', 'year': '1998', 'journal-title': 'Microbiol Mol Biol Rev'}, {'key': 'b52_95', 'DOI': '10.1002/(SICI)1097-0061(199808)14:11<1041::AID-YEA296>3.0.CO;2-4', 'doi-asserted-by': 'publisher'}, {'key': 'b53_96', 'DOI': '10.1016/0014-5793(89)80498-3', 'doi-asserted-by': 'publisher'}, {'key': 'b54_97', 'author': 'Nadin-Davis S.A.', 'volume': '5', 'first-page': '2963', 'year': '1986', 'journal-title': 'EMBO J'}, {'key': 'b55_98', 'author': 'Nakafuku M.', 'volume': '85', 'first-page': '1374', 'year': '1988', 'journal-title': 'Proc Natl Acad Sci USA', 'DOI': '10.1073/pnas.85.5.1374', 'doi-asserted-by': 'crossref'}, {'key': 'b56_99', 'author': 'Nikawa J.', 'volume': '1', 'first-page': '931', 'year': '1987', 'journal-title': 'Genes Dev', 'DOI': '10.1101/gad.1.9.931', 'doi-asserted-by': 'crossref'}, {'key': 'b57_100', 'author': 'Nocero M.', 'volume': '138', 'first-page': '39', 'year': '1994', 'journal-title': 'Genetics'}, {'key': 'b58_101', 'DOI': '10.1073/pnas.93.22.12428', 'doi-asserted-by': 'publisher'}, {'key': 'b59_102', 'DOI': '10.1093/emboj/17.9.2566', 'doi-asserted-by': 'publisher'}, {'key': 'b60_103', 'author': 'Papasavvas S.', 'volume': '184', 'first-page': '1378', 'year': '1992', 'journal-title': 'Biochem Biophys Res Commun', 'DOI': '10.1016/S0006-291X(05)80035-X', 'doi-asserted-by': 'crossref'}, {'key': 'b61_104', 'DOI': '10.1016/0014-5793(93)80554-8', 'doi-asserted-by': 'publisher'}, {'key': 'b62_105', 'author': 'Pernambuco M.B.', 'volume': '142', 'first-page': '1775', 'year': '1996', 'journal-title': 'Microbiology', 'DOI': '10.1099/13500872-142-7-1775', 'doi-asserted-by': 'crossref'}, {'key': 'b63_106', 'author': 'Reinders A.', 'volume': '12', 'first-page': '2943', 'year': '1998', 'journal-title': 'Genes Dev', 'DOI': '10.1101/gad.12.18.2943', 'doi-asserted-by': 'crossref'}, {'key': 'b64_107', 'DOI': '10.1073/pnas.95.23.13783', 'doi-asserted-by': 'publisher'}, {'key': 'b65_108', 'author': 'Ruis H.', 'volume': '17', 'first-page': '959', 'year': '1995', 'journal-title': 'Bioessays', 'DOI': '10.1002/bies.950171109', 'doi-asserted-by': 'crossref'}, {'key': 'b66_109', 'author': 'Russell M.', 'volume': '4', 'first-page': '757', 'year': '1993', 'journal-title': 'Mol Biol Cell', 'DOI': '10.1091/mbc.4.7.757', 'doi-asserted-by': 'crossref'}, {'key': 'b67_110', 'author': 'Sagee S.', 'volume': '18', 'first-page': '1985', 'year': '1998', 'journal-title': 'Mol Cell Biol', 'DOI': '10.1128/MCB.18.4.1985', 'doi-asserted-by': 'crossref'}, {'key': 'b68_111', 'author': 'Satoh T.', 'volume': '87', 'first-page': '7926', 'year': '1990', 'journal-title': 'Proc Natl Acad Sci USA', 'DOI': '10.1073/pnas.87.20.7926', 'doi-asserted-by': 'crossref'}, {'key': 'b69_112', 'author': 'Satoh T.', 'volume': '87', 'first-page': '5993', 'year': '1990', 'journal-title': 'Proc Natl Acad Sci USA', 'DOI': '10.1073/pnas.87.15.5993', 'doi-asserted-by': 'crossref'}, {'key': 'b70_113', 'DOI': '10.1073/pnas.93.12.5777', 'doi-asserted-by': 'publisher'}, {'key': 'b71_114', 'author': 'Schomerus C.', 'volume': '223', 'first-page': '426', 'year': '1990', 'journal-title': 'Mol Gen Genet', 'DOI': '10.1007/BF00264449', 'doi-asserted-by': 'crossref'}, {'key': 'b72_115', 'author': 'Shilo V.', 'volume': '112', 'first-page': '241', 'year': '1978', 'journal-title': 'Exp Cell Res', 'DOI': '10.1016/0014-4827(78)90206-9', 'doi-asserted-by': 'crossref'}, {'key': 'b73_116', 'author': 'Smeekens S.', 'volume': '115', 'first-page': '7', 'year': '1997', 'journal-title': 'Plant Physiol', 'DOI': '10.1104/pp.115.1.7', 'doi-asserted-by': 'crossref'}, {'key': 'b74_117', 'DOI': '10.1093/emboj/17.13.3556', 'doi-asserted-by': 'publisher'}, {'key': 'b75_118', 'author': 'Soto T.', 'volume': '141', 'first-page': '2665', 'year': '1995', 'journal-title': 'Microbiology', 'DOI': '10.1099/13500872-141-10-2665', 'doi-asserted-by': 'crossref'}, {'key': 'b76_119', 'DOI': '10.1016/0014-5793(95)00583-U', 'doi-asserted-by': 'publisher'}, {'key': 'b77_120', 'author': 'Soto T.', 'volume': '143', 'first-page': '2457', 'year': '1997', 'journal-title': 'Microbiology', 'DOI': '10.1099/00221287-143-7-2457', 'doi-asserted-by': 'crossref'}, {'key': 'b78_121', 'author': 'Stickland L.H.', 'volume': '64', 'first-page': '498', 'year': '1956', 'journal-title': 'Biochem J', 'DOI': '10.1042/bj0640498', 'doi-asserted-by': 'crossref'}, {'key': 'b79_122', 'DOI': '10.1146/annurev.biochem.63.1.101', 'doi-asserted-by': 'publisher'}, {'key': 'b80_123', 'unstructured': '80K. Tatchell (1993 )RASgenes in the budding yeastSaccharomyces cerevisiae. InSignal Transduction Prokaryotic and Simple Eukaryotic Systems. Kurjan, J., and Taylor, B.J. (eds). San Diego: Academic Press, pp. 147 188 .'}, {'key': 'b81_124', 'author': 'Thevelein J.M.', 'volume': '158', 'first-page': '337', 'year': '1984', 'journal-title': 'J Bacteriol'}, {'key': 'b82_125', 'author': 'Thevelein J.M.', 'volume': '48', 'first-page': '42', 'year': '1984', 'journal-title': 'Microbiol Rev'}, {'key': 'b83_126', 'author': 'Thevelein J.M.', 'volume': '5', 'first-page': '1301', 'year': '1991', 'journal-title': 'Mol Microbiol', 'DOI': '10.1111/j.1365-2958.1991.tb00776.x', 'doi-asserted-by': 'crossref'}, {'key': 'b84_127', 'author': 'Thevelein J.M.', 'volume': '62', 'first-page': '109', 'year': '1992', 'journal-title': 'Antonie Leeuwenhoek J Microbiol', 'DOI': '10.1007/BF00584466', 'doi-asserted-by': 'crossref'}, {'key': 'b85_128', 'author': 'Thevelein J.M.', 'volume': '10', 'first-page': '1753', 'year': '1994', 'journal-title': 'Yeast', 'DOI': '10.1002/yea.320101308', 'doi-asserted-by': 'crossref'}, {'key': 'b86_129', 'DOI': '10.1016/S0968-0004(00)88938-0', 'doi-asserted-by': 'publisher'}, {'key': 'b87_130', 'author': 'Thevelein J.M.', 'volume': '133', 'first-page': '2197', 'year': '1987', 'journal-title': 'J Gen Microbiol'}, {'key': 'b88_131', 'DOI': '10.1016/0092-8674(85)90305-8', 'doi-asserted-by': 'publisher'}, {'key': 'b89_132', 'author': 'Toda T.', 'volume': '7', 'first-page': '1371', 'year': '1987', 'journal-title': 'Mol Cell Biol', 'DOI': '10.1128/MCB.7.4.1371', 'doi-asserted-by': 'crossref'}, {'key': 'b90_133', 'DOI': '10.1016/0092-8674(87)90223-6', 'doi-asserted-by': 'publisher'}, {'key': 'b91_134', 'author': 'Tokiwa G.', 'volume': '371', 'first-page': '342', 'year': '1994', 'journal-title': 'Nature', 'DOI': '10.1038/371342a0', 'doi-asserted-by': 'crossref'}, {'key': 'b92_135', 'DOI': '10.1074/jbc.273.41.26875', 'doi-asserted-by': 'publisher'}, {'key': 'b93_136', 'author': 'Van Aelst L.', 'volume': '193', 'first-page': '675', 'year': '1990', 'journal-title': 'Eur J Biochem', 'DOI': '10.1111/j.1432-1033.1990.tb19386.x', 'doi-asserted-by': 'crossref'}, {'key': 'b94_137', 'author': 'Van Aelst L.', 'volume': '137', 'first-page': '341', 'year': '1991', 'journal-title': 'J Gen Microbiol', 'DOI': '10.1099/00221287-137-2-341', 'doi-asserted-by': 'crossref'}, {'key': 'b95_138', 'DOI': '10.1046/j.1365-2958.1999.01479.x', 'doi-asserted-by': 'publisher'}, {'key': 'b96_139', 'author': 'Vidan S.', 'volume': '17', 'first-page': '2688', 'year': '1997', 'journal-title': 'Mol Cell Biol', 'DOI': '10.1128/MCB.17.5.2688', 'doi-asserted-by': 'crossref'}, {'key': 'b97_140', 'author': 'Ward M.P.', 'volume': '14', 'first-page': '5619', 'year': '1994', 'journal-title': 'Mol Cell Biol', 'DOI': '10.1128/MCB.14.9.5619', 'doi-asserted-by': 'crossref'}, {'key': 'b98_141', 'author': 'Ward M.P.', 'volume': '15', 'first-page': '6854', 'year': '1995', 'journal-title': 'Mol Cell Biol', 'DOI': '10.1128/MCB.15.12.6854', 'doi-asserted-by': 'crossref'}, {'key': 'b99_142', 'author': 'Wigler M.', 'volume': '53', 'first-page': '649', 'year': '1988', 'journal-title': 'Cold Spring Harbor Symp Quant Biol', 'DOI': '10.1101/SQB.1988.053.01.074', 'doi-asserted-by': 'crossref'}, {'key': 'b100_143', 'DOI': '10.1093/emboj/17.7.1996', 'doi-asserted-by': 'publisher'}, {'key': 'b101_144', 'DOI': '10.1006/bbrc.1997.7649', 'doi-asserted-by': 'publisher'}], 'container-title': ['Molecular Microbiology'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1046%2Fj.1365-2958.1999.01538.x', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2018, 2, 5]], 'date-time': '2018-02-05T11:44:24Z', 'timestamp': 1517831064000}, 'score': 37.725533, 'issued': {'date-parts': [[1999, 9]]}, 'references-count': 101, 'journal-issue': {'published-print': {'date-parts': [[1999, 9]]}, 'issue': '5'}, 'alternative-id': ['10.1046/j.1365-2958.1999.01538.x'], 'URL': 'http://dx.doi.org/10.1046/j.1365-2958.1999.01538.x', 'relation': {'cites': []}, 'ISSN': ['0950-382X', '1365-2958'], 'issn-type': [{'value': '0950-382X', 'type': 'print'}, {'value': '1365-2958', 'type': 'electronic'}]}
+>>> hash >>> ('Novel sensing mechanisms and targets for the cAMP-protein kinase A pathway in the yeast Saccharomyces cerevisiae', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hattori, M., Okuno, Y., Goto, S., et al. 2003. Heuristics for chemical compound matching. Genome Inform. 14, 144â€“153.
+>>> DOI >>> 10.1021/ja036030u
+>>> URL >>> http://dx.doi.org/10.1021/ja036030u
+>>> year >>> 2003.0
+>>> title >>> Development of a Chemical Structure Comparison Method for Integrated Analysis of Chemical and Genomic Information in the Metabolic Pathways
+>>> author >>> Masahiro Hattori and Yasushi Okuno and Susumu Goto and Minoru Kanehisa
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 184.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the American Chemical Society']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T09:42:28Z', 'timestamp': 1528450948946}, 'reference-count': 0, 'publisher': 'American Chemical Society (ACS)', 'issue': '39', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J. Am. Chem. Soc.'], 'published-print': {'date-parts': [[2003, 10]]}, 'DOI': '10.1021/ja036030u', 'type': 'journal-article', 'created': {'date-parts': [[2003, 9, 24]], 'date-time': '2003-09-24T17:30:25Z', 'timestamp': 1064424625000}, 'page': '11853-11865', 'source': 'Crossref', 'is-referenced-by-count': 184, 'title': ['Development of a Chemical Structure Comparison Method for Integrated Analysis of Chemical and Genomic Information in the Metabolic Pathways'], 'prefix': '10.1021', 'volume': '125', 'author': [{'given': 'Masahiro', 'family': 'Hattori', 'sequence': 'first', 'affiliation': []}, {'given': 'Yasushi', 'family': 'Okuno', 'sequence': 'additional', 'affiliation': []}, {'given': 'Susumu', 'family': 'Goto', 'sequence': 'additional', 'affiliation': []}, {'given': 'Minoru', 'family': 'Kanehisa', 'sequence': 'additional', 'affiliation': []}], 'member': '316', 'container-title': ['Journal of the American Chemical Society'], 'language': 'en', 'link': [{'URL': 'http://pubs.acs.org/doi/pdf/10.1021/ja036030u', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 9, 1]], 'date-time': '2016-09-01T22:14:41Z', 'timestamp': 1472768081000}, 'score': 27.09712, 'issued': {'date-parts': [[2003, 10]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2003, 10]]}, 'issue': '39'}, 'alternative-id': ['10.1021/ja036030u'], 'URL': 'http://dx.doi.org/10.1021/ja036030u', 'ISSN': ['0002-7863', '1520-5126'], 'issn-type': [{'value': '0002-7863', 'type': 'print'}, {'value': '1520-5126', 'type': 'electronic'}]}
+>>> hash >>> ('Development of a Chemical Structure Comparison Method for Integrated Analysis of Chemical and Genomic Information in the Metabolic Pathways', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> JimÂ´enez, V., and Marzal, A. 2003. A lazy version of Eppsteinâ€™s K shortest paths algorithm. Lect. Notes Comput. Sci. 2647, 179â€“190.
+>>> DOI >>> 10.1007/3-540-44867-5_14
+>>> URL >>> http://dx.doi.org/10.1007/3-540-44867-5_14
+>>> year >>> 2003.0
+>>> title >>> A Lazy Version of Eppstein’s K Shortest Paths Algorithm
+>>> author >>> Víctor M. Jiménez and Andrés Marzal
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 11.0
+>>> subject >>> None
+>>> container_title >>> ['Experimental and Efficient Algorithms', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T02:21:18Z', 'timestamp': 1525400478310}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540402053', 'type': 'print'}, {'value': '9783540448679', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.1007/3-540-44867-5_14', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 11, 30]], 'date-time': '2007-11-30T06:34:45Z', 'timestamp': 1196404485000}, 'page': '179-191', 'source': 'Crossref', 'is-referenced-by-count': 11, 'title': ['A Lazy Version of Eppstein’s K Shortest Paths Algorithm'], 'prefix': '10.1007', 'author': [{'given': 'Víctor M.', 'family': 'Jiménez', 'sequence': 'first', 'affiliation': []}, {'given': 'Andrés', 'family': 'Marzal', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2003, 5, 13]]}, 'container-title': ['Experimental and Efficient Algorithms', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-44867-5_14', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 9, 2]], 'date-time': '2014-09-02T22:53:59Z', 'timestamp': 1409698439000}, 'score': 57.32479, 'issued': {'date-parts': [[2003]]}, 'ISBN': ['9783540402053', '9783540448679'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-44867-5_14', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('A Lazy Version of Eppstein’s K Shortest Paths Algorithm', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Goto, S., Bono, H., Ogata, H., et al. 1997. Organizing and computing metabolic pathway data in terms of binary relations. Pac. Sym. Biocomp. (PSBâ€™1997) 175â€“186.
+>>> DOI >>> 10.1007/978-1-4615-5903-0_4
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4615-5903-0_4
+>>> year >>> 1997.0
+>>> title >>> A Systematic Analysis of Gene Functions by the Metabolic Pathway Database
+>>> author >>> Minoru Kanehisa and Susumu Goto
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['Theoretical and Computational Methods in Genome Research']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T11:31:11Z', 'timestamp': 1525433471801}, 'publisher-location': 'Boston, MA', 'reference-count': 0, 'publisher': 'Springer US', 'isbn-type': [{'value': '9781461377085', 'type': 'print'}, {'value': '9781461559030', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1997]]}, 'DOI': '10.1007/978-1-4615-5903-0_4', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 8, 28]], 'date-time': '2011-08-28T06:03:14Z', 'timestamp': 1314511394000}, 'page': '41-55', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['A Systematic Analysis of Gene Functions by the Metabolic Pathway Database'], 'prefix': '10.1007', 'author': [{'given': 'Minoru', 'family': 'Kanehisa', 'sequence': 'first', 'affiliation': []}, {'given': 'Susumu', 'family': 'Goto', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Theoretical and Computational Methods in Genome Research'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-1-4615-5903-0_4', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 9]], 'date-time': '2014-01-09T20:59:35Z', 'timestamp': 1389301175000}, 'score': 33.32137, 'issued': {'date-parts': [[1997]]}, 'ISBN': ['9781461377085', '9781461559030'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4615-5903-0_4'}
+>>> hash >>> ('A Systematic Analysis of Gene Functions by the Metabolic Pathway Database', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Teichmann, S.A., Rison, S.C., Thornton, J.M., et al. 2001. Small-molecule metabolism: an enzyme mosaic. Trends Biotechnol. 19, 482â€“486. The Flybase Consortium. 1996. FlyBase: the Drosophila database. Nucleic Acids Res. 24, 53â€“56.
+>>> DOI >>> 10.1093/nar/24.1.53
+>>> URL >>> http://dx.doi.org/10.1093/nar/24.1.53
+>>> year >>> 1996.0
+>>> title >>> FlyBase: the Drosophila database. The Flybase Consortium
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 26.0
+>>> subject >>> None
+>>> container_title >>> ['Nucleic Acids Research']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T05:48:41Z', 'timestamp': 1525326521501}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1996, 1, 1]]}, 'DOI': '10.1093/nar/24.1.53', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T22:37:35Z', 'timestamp': 1027723055000}, 'page': '53-56', 'source': 'Crossref', 'is-referenced-by-count': 26, 'title': ['FlyBase: the Drosophila database. The Flybase Consortium'], 'prefix': '10.1093', 'volume': '24', 'member': '286', 'container-title': ['Nucleic Acids Research'], 'link': [{'URL': 'http://academic.oup.com/nar/article-pdf/24/1/53/6966809/24-1-53.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 24]], 'date-time': '2017-08-24T13:11:10Z', 'timestamp': 1503580270000}, 'score': 100.02876, 'issued': {'date-parts': [[1996, 1, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1093/nar/24.1.53', 'ISSN': ['1362-4962'], 'issn-type': [{'value': '1362-4962', 'type': 'electronic'}]}
+>>> hash >>> ('FlyBase: the Drosophila database. The Flybase Consortium', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Scott, J., Ideker, T., Karp, R.M., et al. 2005. Efficient algorithms for detecting signaling pathways in protein interaction networks. Lect. Notes Bioinform. 3500, 1â€“13.
+>>> DOI >>> 10.1007/11415770_1
+>>> URL >>> http://dx.doi.org/10.1007/11415770_1
+>>> year >>> 2005.0
+>>> title >>> Efficient Algorithms for Detecting Signaling Pathways in Protein Interaction Networks
+>>> author >>> Jacob Scott and Trey Ideker and Richard M. Karp and Roded Sharan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Research in Computational Molecular Biology']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:32:25Z', 'timestamp': 1525332745100}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540258667', 'type': 'print'}, {'value': '9783540319504', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1007/11415770_1', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 7, 13]], 'date-time': '2010-07-13T03:44:50Z', 'timestamp': 1278992690000}, 'page': '1-13', 'source': 'Crossref', 'is-referenced-by-count': 8, 'title': ['Efficient Algorithms for Detecting Signaling Pathways in Protein Interaction Networks'], 'prefix': '10.1007', 'author': [{'given': 'Jacob', 'family': 'Scott', 'sequence': 'first', 'affiliation': []}, {'given': 'Trey', 'family': 'Ideker', 'sequence': 'additional', 'affiliation': []}, {'given': 'Richard M.', 'family': 'Karp', 'sequence': 'additional', 'affiliation': []}, {'given': 'Roded', 'family': 'Sharan', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Lecture Notes in Computer Science', 'Research in Computational Molecular Biology'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/11415770_1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T15:31:03Z', 'timestamp': 1389022263000}, 'score': 80.046265, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['9783540258667', '9783540319504'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/11415770_1', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Efficient Algorithms for Detecting Signaling Pathways in Protein Interaction Networks', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Luettich, K., and Schmidt, C. 2003. TGFÎ²1 activates c-Jun and Erk1 via Î±VÎ²6 integrin. Mol. Cancer 2, 33.
+>>> DOI >>> 10.1186/1476-4598-2-33
+>>> URL >>> http://dx.doi.org/10.1186/1476-4598-2-33
+>>> year >>> 2003.0
+>>> title >>> None
+>>> author >>> Karsta Luettich and Christian Schmidt
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ['Molecular Cancer']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:36:10Z', 'timestamp': 1525386970318}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Mol Cancer'], 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.1186/1476-4598-2-33', 'type': 'journal-article', 'created': {'date-parts': [[2003, 10, 22]], 'date-time': '2003-10-22T06:27:50Z', 'timestamp': 1066804070000}, 'page': '33', 'source': 'Crossref', 'is-referenced-by-count': 8, 'prefix': '10.1186', 'volume': '2', 'author': [{'given': 'Karsta', 'family': 'Luettich', 'sequence': 'first', 'affiliation': []}, {'given': 'Christian', 'family': 'Schmidt', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Molecular Cancer'], 'deposited': {'date-parts': [[2016, 5, 16]], 'date-time': '2016-05-16T15:11:51Z', 'timestamp': 1463411511000}, 'score': 50.273254, 'issued': {'date-parts': [[2003]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'alternative-id': ['1476-4598-2-33'], 'URL': 'http://dx.doi.org/10.1186/1476-4598-2-33', 'ISSN': ['1476-4598'], 'issn-type': [{'value': '1476-4598', 'type': 'print'}]}
+>>> hash >>> ('None', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Tohsato,Y., Matsuda, H., and Hashimoto, A. 2000. A multiple alignment algorithm for metabolic pathway analysis using enzyme hierarchy. Proc. 8th Int. Conf. Intellig. Syst. Mol. Biol. (ISMBâ€™2000) 376â€“383.
+>>> DOI >>> 10.2197/ipsjdc.3.736
+>>> URL >>> http://dx.doi.org/10.2197/ipsjdc.3.736
+>>> year >>> 2007.0
+>>> title >>> Metabolic Pathway Alignment Based on Similarity between Chemical Structures
+>>> author >>> Yukako Tohsato and Yu Nishimura
+>>> reference_count >>> 14.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['IPSJ Digital Courier']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T01:38:58Z', 'timestamp': 1525397938267}, 'reference-count': 14, 'publisher': 'Information Processing Society of Japan', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['ipsjdc'], 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.2197/ipsjdc.3.736', 'type': 'journal-article', 'created': {'date-parts': [[2007, 11, 21]], 'date-time': '2007-11-21T05:50:44Z', 'timestamp': 1195624244000}, 'page': '736-745', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Metabolic Pathway Alignment Based on Similarity between Chemical Structures'], 'prefix': '10.2197', 'volume': '3', 'author': [{'given': 'Yukako', 'family': 'Tohsato', 'sequence': 'first', 'affiliation': []}, {'given': 'Yu', 'family': 'Nishimura', 'sequence': 'additional', 'affiliation': []}], 'member': '1012', 'container-title': ['IPSJ Digital Courier'], 'language': 'en', 'deposited': {'date-parts': [[2007, 11, 21]], 'date-time': '2007-11-21T05:50:48Z', 'timestamp': 1195624248000}, 'score': 37.420944, 'issued': {'date-parts': [[2007]]}, 'references-count': 14, 'URL': 'http://dx.doi.org/10.2197/ipsjdc.3.736', 'ISSN': ['1349-7456'], 'issn-type': [{'value': '1349-7456', 'type': 'electronic'}]}
+>>> hash >>> ('Metabolic Pathway Alignment Based on Similarity between Chemical Structures', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Chang, C., and Stewart, R.C. 1998. The two-component system. Regulation of diverse signaling pathways in prokaryotes and eukaryotes. Plant Physiol. 117, 723â€“731.
+>>> DOI >>> 10.1104/pp.117.3.723
+>>> URL >>> http://dx.doi.org/10.1104/pp.117.3.723
+>>> year >>> 1998.0
+>>> title >>> The Two-Component System
+>>> author >>> Caren Chang and Richard C. Stewart
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 117.0
+>>> subject >>> None
+>>> container_title >>> ['Plant Physiology']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 15]], 'date-time': '2018-05-15T21:02:30Z', 'timestamp': 1526418150217}, 'reference-count': 0, 'publisher': 'American Society of Plant Biologists (ASPB)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Plant Physiol.'], 'published-print': {'date-parts': [[1998, 7, 1]]}, 'DOI': '10.1104/pp.117.3.723', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T05:00:20Z', 'timestamp': 1027746020000}, 'page': '723-731', 'source': 'Crossref', 'is-referenced-by-count': 117, 'title': ['The Two-Component System'], 'prefix': '10.1104', 'volume': '117', 'author': [{'given': 'Caren', 'family': 'Chang', 'sequence': 'first', 'affiliation': []}, {'given': 'Richard C.', 'family': 'Stewart', 'sequence': 'additional', 'affiliation': []}], 'member': '37', 'published-online': {'date-parts': [[1998, 7, 1]]}, 'container-title': ['Plant Physiology'], 'language': 'en', 'deposited': {'date-parts': [[2016, 10, 18]], 'date-time': '2016-10-18T02:04:16Z', 'timestamp': 1476756256000}, 'score': 95.937126, 'subtitle': ['Regulation of Diverse Signaling Pathways in Prokaryotes and Eukaryotes'], 'issued': {'date-parts': [[1998, 7, 1]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[1998, 7, 1]]}, 'published-print': {'date-parts': [[1998, 7, 1]]}, 'issue': '3'}, 'alternative-id': ['10.1104/pp.117.3.723'], 'URL': 'http://dx.doi.org/10.1104/pp.117.3.723', 'ISSN': ['0032-0889', '1532-2548'], 'issn-type': [{'value': '0032-0889', 'type': 'print'}, {'value': '1532-2548', 'type': 'electronic'}]}
+>>> hash >>> ('The Two-Component System', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Deng, M., Mehta, S., Sun, F., et al. 2002. Inferring domain-domain interactions from protein-protein interactions. Genome Res. 12, 1540â€“1548.
+>>> DOI >>> 10.1101/gr.153002
+>>> URL >>> http://dx.doi.org/10.1101/gr.153002
+>>> year >>> 2002.0
+>>> title >>> Inferring Domain-Domain Interactions From Protein-Protein Interactions
+>>> author >>> M. Deng
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 209.0
+>>> subject >>> None
+>>> container_title >>> ['Genome Research']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T21:42:31Z', 'timestamp': 1525556551397}, 'reference-count': 0, 'publisher': 'Cold Spring Harbor Laboratory', 'issue': '10', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002, 10, 1]]}, 'DOI': '10.1101/gr.153002', 'type': 'journal-article', 'created': {'date-parts': [[2002, 10, 7]], 'date-time': '2002-10-07T21:07:40Z', 'timestamp': 1034024860000}, 'page': '1540-1548', 'source': 'Crossref', 'is-referenced-by-count': 209, 'title': ['Inferring Domain-Domain Interactions From Protein-Protein Interactions'], 'prefix': '10.1101', 'volume': '12', 'author': [{'given': 'M.', 'family': 'Deng', 'sequence': 'first', 'affiliation': []}], 'member': '246', 'container-title': ['Genome Research'], 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1101/gr.153002', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 2, 15]], 'date-time': '2017-02-15T17:56:10Z', 'timestamp': 1487181370000}, 'score': 98.08746, 'issued': {'date-parts': [[2002, 10, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '10'}, 'URL': 'http://dx.doi.org/10.1101/gr.153002', 'ISSN': ['1088-9051'], 'issn-type': [{'value': '1088-9051', 'type': 'electronic'}]}
+>>> hash >>> ('Inferring Domain-Domain Interactions From Protein-Protein Interactions', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Akutsu, T., Kuhara, S., Maruyama, O., et al. 1998. Identification of gene regulatory networks by strategic gene disruptions and gene overexpressions. Proc. 9th Ann. ACM-SIAM Sym. Discrete Alg. (SODAâ€™1998) 695â€“702.
+>>> DOI >>> 10.1016/s0304-3975(02)00425-5
+>>> URL >>> http://dx.doi.org/10.1016/s0304-3975(02)00425-5
+>>> year >>> 2003.0
+>>> title >>> Identification of genetic networks by strategic gene disruptions and gene overexpressions under a boolean model
+>>> author >>> Tatsuya Akutsu and Satoru Kuhara and Osamu Maruyama and Satoru Miyano
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 32.0
+>>> subject >>> None
+>>> container_title >>> ['Theoretical Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T14:23:44Z', 'timestamp': 1525357424303}, 'reference-count': 22, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2003, 4, 1]], 'date-time': '2003-04-01T00:00:00Z', 'timestamp': 1049155200000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 3760, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Theoretical Computer Science'], 'published-print': {'date-parts': [[2003, 4]]}, 'DOI': '10.1016/s0304-3975(02)00425-5', 'type': 'journal-article', 'created': {'date-parts': [[2003, 3, 26]], 'date-time': '2003-03-26T01:16:11Z', 'timestamp': 1048641371000}, 'page': '235-251', 'source': 'Crossref', 'is-referenced-by-count': 32, 'title': ['Identification of genetic networks by strategic gene disruptions and gene overexpressions under a boolean model'], 'prefix': '10.1016', 'volume': '298', 'author': [{'given': 'Tatsuya', 'family': 'Akutsu', 'sequence': 'first', 'affiliation': []}, {'given': 'Satoru', 'family': 'Kuhara', 'sequence': 'additional', 'affiliation': []}, {'given': 'Osamu', 'family': 'Maruyama', 'sequence': 'additional', 'affiliation': []}, {'given': 'Satoru', 'family': 'Miyano', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Theoretical Computer Science'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0304397502004255?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0304397502004255?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2018, 1, 28]], 'date-time': '2018-01-28T15:08:57Z', 'timestamp': 1517152137000}, 'score': 84.61991, 'issued': {'date-parts': [[2003, 4]]}, 'references-count': 22, 'journal-issue': {'published-print': {'date-parts': [[2003, 4]]}, 'issue': '1'}, 'alternative-id': ['S0304397502004255'], 'URL': 'http://dx.doi.org/10.1016/s0304-3975(02)00425-5', 'ISSN': ['0304-3975'], 'issn-type': [{'value': '0304-3975', 'type': 'print'}]}
+>>> hash >>> ('Identification of genetic networks by strategic gene disruptions and gene overexpressions under a boolean model', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kobashi, N., Nishiyama, M., and Tanokura, M. 1999. Aspartate kinase-independent lysine synthesis in an extremely thermophilic bacterium, Thermus thermophilus: lysine is synthesized via Î±-aminoadipic acid not via diaminopimelic acid. J. Bacteriol. 181, 1713â€“1718.
+>>> DOI >>> 10.2210/pdb3wwl/pdb
+>>> URL >>> http://dx.doi.org/10.2210/pdb3wwl/pdb
+>>> year >>> 2014.0
+>>> title >>> Crystal structure of lysine biosynthetic amino acid carrier protein LysW from Thermus thermophilus conjugated with alpha-aminoadipate
+>>> author >>> A. Yoshida and T. Tomita and T. Kuzuyama and M. Nishiyama
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 14]], 'date-time': '2018-04-14T10:49:00Z', 'timestamp': 1523702940165}, 'reference-count': 0, 'publisher': 'Protein Data Bank, Rutgers University', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.2210/pdb3wwl/pdb', 'type': 'component', 'created': {'date-parts': [[2014, 11, 18]], 'date-time': '2014-11-18T19:30:19Z', 'timestamp': 1416339019000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Crystal structure of lysine biosynthetic amino acid carrier protein LysW from Thermus thermophilus conjugated with alpha-aminoadipate'], 'prefix': '10.2210', 'author': [{'given': 'A.', 'family': 'Yoshida', 'sequence': 'first', 'affiliation': []}, {'given': 'T.', 'family': 'Tomita', 'sequence': 'additional', 'affiliation': []}, {'given': 'T.', 'family': 'Kuzuyama', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Nishiyama', 'sequence': 'additional', 'affiliation': []}], 'member': '7763', 'published-online': {'date-parts': [[2014, 11, 19]]}, 'deposited': {'date-parts': [[2014, 11, 18]], 'date-time': '2014-11-18T19:39:14Z', 'timestamp': 1416339554000}, 'score': 58.503006, 'issued': {'date-parts': [[2014, 11, 19]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.2210/pdb3wwl/pdb'}
+>>> hash >>> ('Crystal structure of lysine biosynthetic amino acid carrier protein LysW from Thermus thermophilus conjugated with alpha-aminoadipate', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kelley, B.P., Sharan, R., Karp, R.M., et al. 2003. Conserved pathways within bacteria and yeast as revealed by global protein network alignment. Proc. Natl. Acad. Sci. USA 100, 11394â€“11399.
+>>> DOI >>> 10.1073/pnas.1534710100
+>>> URL >>> http://dx.doi.org/10.1073/pnas.1534710100
+>>> year >>> 2003.0
+>>> title >>> Conserved pathways within bacteria and yeast as revealed by global protein network alignment
+>>> author >>> B. P. Kelley and R. Sharan and R. M. Karp and T. Sittler and D. E. Root and B. R. Stockwell and T. Ideker
+>>> reference_count >>> 35.0
+>>> is_referenced_by_count >>> 260.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the National Academy of Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T05:02:33Z', 'timestamp': 1525842153777}, 'reference-count': 35, 'publisher': 'Proceedings of the National Academy of Sciences', 'issue': '20', 'content-domain': {'domain': ['pnas.org'], 'crossmark-restriction': True}, 'short-container-title': ['Proceedings of the National Academy of Sciences'], 'published-print': {'date-parts': [[2003, 9, 30]]}, 'DOI': '10.1073/pnas.1534710100', 'type': 'journal-article', 'created': {'date-parts': [[2003, 10, 1]], 'date-time': '2003-10-01T19:44:34Z', 'timestamp': 1065037474000}, 'page': '11394-11399', 'update-policy': 'http://dx.doi.org/10.1073/pnas.cm10313', 'source': 'Crossref', 'is-referenced-by-count': 260, 'title': ['Conserved pathways within bacteria and yeast as revealed by global protein network alignment'], 'prefix': '10.1073', 'volume': '100', 'author': [{'given': 'B. P.', 'family': 'Kelley', 'sequence': 'first', 'affiliation': []}, {'given': 'R.', 'family': 'Sharan', 'sequence': 'additional', 'affiliation': []}, {'given': 'R. M.', 'family': 'Karp', 'sequence': 'additional', 'affiliation': []}, {'given': 'T.', 'family': 'Sittler', 'sequence': 'additional', 'affiliation': []}, {'given': 'D. E.', 'family': 'Root', 'sequence': 'additional', 'affiliation': []}, {'given': 'B. R.', 'family': 'Stockwell', 'sequence': 'additional', 'affiliation': []}, {'given': 'T.', 'family': 'Ideker', 'sequence': 'additional', 'affiliation': []}], 'member': '341', 'published-online': {'date-parts': [[2003, 9, 22]]}, 'reference': [{'issue': '1', 'key': '1_11471470', 'doi-asserted-by': 'publisher', 'first-page': '437', 'DOI': '10.1146/annurev.biochem.70.1.437', 'volume': '70', 'author': 'Mann', 'year': '2001', 'journal-title': 'Annual review of biochemistry', 'ISSN': 'http://id.crossref.org/issn/0066-4154', 'issn-type': 'print'}, {'issue': '10 Suppl', 'key': '2_11466245', 'doi-asserted-by': 'publisher', 'first-page': 'S23', 'DOI': '10.1016/S0167-7799(01)01790-5', 'volume': '19', 'author': 'Ito', 'year': '2001', 'journal-title': 'Trends in biotechnology', 'ISSN': 'http://id.crossref.org/issn/0167-7799', 'issn-type': 'print'}, {'issue': '6770', 'key': '3_6480854', 'doi-asserted-by': 'publisher', 'first-page': '623', 'DOI': '10.1038/35001009', 'volume': '403', 'author': 'Uetz', 'year': '2000', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '6868', 'key': '4_16882486', 'doi-asserted-by': 'publisher', 'first-page': '180', 'DOI': '10.1038/415180a', 'volume': '415', 'author': 'Ho', 'year': '2002', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '6868', 'key': '5_16882475', 'doi-asserted-by': 'publisher', 'first-page': '141', 'DOI': '10.1038/415141a', 'volume': '415', 'author': 'Gavin', 'year': '2002', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '6817', 'key': '6_11015322', 'doi-asserted-by': 'publisher', 'first-page': '211', 'DOI': '10.1038/35051615', 'volume': '409', 'author': 'Rain', 'year': '2001', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '5552', 'key': '7_11464053', 'doi-asserted-by': 'publisher', 'first-page': '127', 'DOI': '10.1126/science.1065986', 'volume': '295', 'author': 'Boulton', 'year': '2002', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '6887', 'key': '8_17067161', 'doi-asserted-by': 'crossref', 'first-page': '399', 'DOI': '10.1038/nature750', 'volume': '417', 'author': 'von Mering', 'year': '2002', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '8', 'key': '9_10784275', 'doi-asserted-by': 'publisher', 'first-page': '4285', 'DOI': '10.1073/pnas.96.8.4285', 'volume': '96', 'author': 'Pellegrini', 'year': '1999', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': '12', 'key': '10_11421200', 'doi-asserted-by': 'publisher', 'first-page': '2120', 'DOI': '10.1101/gr.205301', 'volume': '11', 'author': 'Matthews', 'year': '2001', 'journal-title': 'Genome Research', 'ISSN': 'http://id.crossref.org/issn/1088-9051', 'issn-type': 'print'}, {'issue': '6', 'key': '11_11226741', 'doi-asserted-by': 'crossref', 'first-page': '471', 'DOI': '10.1007/s002390010178', 'volume': '52', 'author': 'Forst', 'year': '2001', 'journal-title': 'Journal of Molecular Evolution', 'ISSN': 'http://id.crossref.org/issn/1432-1432', 'issn-type': 'print'}, {'key': '12_28662242', 'ISSN': 'http://id.crossref.org/issn/0264-6021', 'issn-type': 'print', 'volume': '343', 'first-page': '115', 'year': '1999', 'journal-title': 'The Biochemical journal', 'DOI': '10.1042/0264-6021:3430115', 'doi-asserted-by': 'crossref'}, {'key': '13_10463162', 'first-page': '376', 'volume': '8', 'author': 'Tohsato', 'year': '2000', 'journal-title': 'Proceedings / ... International Conference on Intelligent Systems for Molecular Biology ; ISMB. International Conference on Intelligent Systems for Molecular Biology', 'ISSN': 'http://id.crossref.org/issn/1553-0833', 'issn-type': 'print'}, {'issue': '20', 'key': '14_10507058', 'doi-asserted-by': 'publisher', 'first-page': '4021', 'DOI': '10.1093/nar/28.20.4021', 'volume': '28', 'author': 'Ogata', 'year': '2000', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '5', 'key': '15_20041914', 'doi-asserted-by': 'publisher', 'first-page': '832', 'DOI': '10.1101/gr.225502. Article published online before print in April 2002', 'volume': '12', 'year': '2002', 'journal-title': 'Genome Research', 'ISSN': 'http://id.crossref.org/issn/1088-9051', 'issn-type': 'print'}, {'key': '16_11475897', 'first-page': '44', 'volume': '12', 'author': 'Nakaya', 'year': '2001', 'journal-title': 'Genome informatics series : proceedings of the ... Workshop on Genome Informatics. Workshop on Genome Informatics', 'ISSN': 'http://id.crossref.org/issn/0919-9454', 'issn-type': 'print'}, {'issue': '17', 'key': '17_37723758', 'doi-asserted-by': 'publisher', 'first-page': '3389', 'DOI': '10.1093/nar/25.17.3389', 'volume': '25', 'year': '1997', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '1', 'key': '18_11453863', 'doi-asserted-by': 'publisher', 'first-page': '303', 'DOI': '10.1093/nar/30.1.303', 'volume': '30', 'author': 'Xenarios', 'year': '2002', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '1', 'key': '19_11453789', 'doi-asserted-by': 'publisher', 'first-page': '35', 'DOI': '10.1093/nar/30.1.35', 'volume': '30', 'author': 'Wu', 'year': '2002', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '5', 'key': '20_17033574', 'doi-asserted-by': 'publisher', 'first-page': '382', 'DOI': '10.1038/nrm807', 'volume': '3', 'author': 'Gould', 'year': '2002', 'journal-title': 'Nature reviews. Molecular cell biology', 'ISSN': 'http://id.crossref.org/issn/1471-0072', 'issn-type': 'print'}, {'issue': '48', 'key': '21_5809667', 'doi-asserted-by': 'publisher', 'first-page': '30345', 'DOI': '10.1074/jbc.272.48.30345', 'volume': '272', 'author': 'Pochart', 'year': '1997', 'journal-title': 'Journal of Biological Chemistry', 'ISSN': 'http://id.crossref.org/issn/0021-9258', 'issn-type': 'print'}, {'issue': '6', 'key': '22_6049341', 'doi-asserted-by': 'publisher', 'first-page': '236', 'DOI': '10.1016/S0168-9525(98)01473-5', 'volume': '14', 'author': 'Patton', 'year': '1998', 'journal-title': 'Trends in genetics : TIG', 'ISSN': 'http://id.crossref.org/issn/0168-9525', 'issn-type': 'print'}, {'issue': '18', 'key': '23_23393977', 'doi-asserted-by': 'publisher', 'first-page': '5509', 'DOI': '10.1093/emboj/16.18.5509', 'volume': '16', 'author': 'Johnson', 'year': '1997', 'journal-title': 'The EMBO Journal', 'ISSN': 'http://id.crossref.org/issn/0261-4189', 'issn-type': 'print'}, {'issue': '8', 'key': '24_23295204', 'doi-asserted-by': 'publisher', 'first-page': '2208', 'DOI': '10.1093/emboj/17.8.2208', 'volume': '17', 'author': 'Liakopoulos', 'year': '1998', 'journal-title': 'The EMBO Journal', 'ISSN': 'http://id.crossref.org/issn/0261-4189', 'issn-type': 'print'}, {'issue': '5', 'key': '25_23306348', 'first-page': '1429', 'volume': '6', 'author': 'Ozkaynak', 'year': '1987', 'journal-title': 'The EMBO Journal', 'ISSN': 'http://id.crossref.org/issn/0261-4189', 'issn-type': 'print'}, {'issue': '6642', 'key': '26_16871333', 'doi-asserted-by': 'publisher', 'first-page': '539', 'DOI': '10.1038/41483', 'volume': '388', 'author': 'Tomb', 'year': '1997', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '14', 'key': '27_23330310', 'doi-asserted-by': 'publisher', 'first-page': '3695', 'DOI': '10.1093/emboj/20.14.3695', 'volume': '20', 'author': 'Gadal', 'year': '2001', 'journal-title': 'The EMBO Journal', 'ISSN': 'http://id.crossref.org/issn/0261-4189', 'issn-type': 'print'}, {'issue': '1', 'key': '28_6399181', 'doi-asserted-by': 'publisher', 'first-page': '33', 'DOI': '10.1093/nar/28.1.33', 'volume': '28', 'author': 'Tatusov', 'year': '2000', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '12', 'key': '29_11197440', 'doi-asserted-by': 'publisher', 'first-page': '1528', 'DOI': '10.1101/gad.869601', 'volume': '15', 'author': 'Gillette', 'year': '2001', 'journal-title': 'Genes &amp; Development', 'ISSN': 'http://id.crossref.org/issn/0890-9369', 'issn-type': 'print'}, {'issue': '5', 'key': '30_11182441', 'doi-asserted-by': 'publisher', 'first-page': '981', 'DOI': '10.1016/S1097-2765(01)00250-7', 'volume': '7', 'author': 'Ferdous', 'year': '2001', 'journal-title': 'Molecular cell', 'ISSN': 'http://id.crossref.org/issn/1097-2765', 'issn-type': 'print'}, {'issue': '5', 'key': '31_10817834', 'doi-asserted-by': 'publisher', 'first-page': '192', 'DOI': '10.1016/S0968-0004(99)01376-6', 'volume': '24', 'author': 'de la Cruz', 'year': '1999', 'journal-title': 'Trends in biochemical sciences', 'ISSN': 'http://id.crossref.org/issn/0167-7640', 'issn-type': 'print'}, {'issue': '6634', 'key': '32_16817954', 'doi-asserted-by': 'publisher', 'first-page': '708', 'DOI': '10.1038/42711', 'volume': '387', 'author': 'Wolfe', 'year': '1997', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '1', 'key': '33_11475713', 'doi-asserted-by': 'publisher', 'first-page': 'R32', 'DOI': '10.1016/S0960-9822(01)00646-7', 'volume': '12', 'author': 'Smith', 'year': '2002', 'journal-title': 'Current biology : CB', 'ISSN': 'http://id.crossref.org/issn/0960-9822', 'issn-type': 'print'}, {'issue': '2', 'key': '34_6035240', 'first-page': '249', 'volume': '62', 'author': 'Banuett', 'year': '1998', 'journal-title': 'Microbiology and Molecular Biology Reviews', 'ISSN': 'http://id.crossref.org/issn/1092-2172', 'issn-type': 'print'}, {'issue': '5', 'key': '35_10955067', 'doi-asserted-by': 'publisher', 'first-page': '904', 'DOI': '10.1046/j.1365-2958.1999.01538.x', 'volume': '33', 'author': 'Thevelein', 'year': '1999', 'journal-title': 'Molecular microbiology', 'ISSN': 'http://id.crossref.org/issn/0950-382X', 'issn-type': 'print'}], 'container-title': ['Proceedings of the National Academy of Sciences'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1073/pnas.1534710100', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T00:57:38Z', 'timestamp': 1497574658000}, 'score': 84.00621, 'issued': {'date-parts': [[2003, 9, 22]]}, 'references-count': 35, 'journal-issue': {'published-online': {'date-parts': [[2011, 5, 1]]}, 'published-print': {'date-parts': [[2003, 9, 30]]}, 'issue': '20'}, 'URL': 'http://dx.doi.org/10.1073/pnas.1534710100', 'relation': {'cites': []}, 'ISSN': ['0027-8424', '1091-6490'], 'issn-type': [{'value': '0027-8424', 'type': 'print'}, {'value': '1091-6490', 'type': 'electronic'}]}
+>>> hash >>> ('Conserved pathways within bacteria and yeast as revealed by global protein network alignment', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Alon, N., Yuster, R., and Zwick, U. 1995. Color-coding. J. ACM 42, 844â€“856.
+>>> DOI >>> 10.1145/210332.210337
+>>> URL >>> http://dx.doi.org/10.1145/210332.210337
+>>> year >>> 1995.0
+>>> title >>> Color-coding
+>>> author >>> Noga Alon and Raphael Yuster and Uri Zwick
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 306.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T02:22:32Z', 'timestamp': 1527733352356}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JACM', 'J. ACM'], 'published-print': {'date-parts': [[1995, 7, 1]]}, 'DOI': '10.1145/210332.210337', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:25:57Z', 'timestamp': 1027769157000}, 'page': '844-856', 'source': 'Crossref', 'is-referenced-by-count': 306, 'title': ['Color-coding'], 'prefix': '10.1145', 'volume': '42', 'author': [{'given': 'Noga', 'family': 'Alon', 'sequence': 'first', 'affiliation': []}, {'given': 'Raphael', 'family': 'Yuster', 'sequence': 'additional', 'affiliation': []}, {'given': 'Uri', 'family': 'Zwick', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['Journal of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=210337&amp;ftid=26558&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T20:03:14Z', 'timestamp': 1481832194000}, 'score': 77.472275, 'issued': {'date-parts': [[1995, 7, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1145/210332.210337', 'ISSN': ['0004-5411'], 'issn-type': [{'value': '0004-5411', 'type': 'print'}]}
+>>> hash >>> ('Color-coding', 1995.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Karlin, S., and Altschul, S.F. 1990. Methods for assessing the statistical significance of molecular sequence features by using general scoring schemes. Proc. Natl. Acad. Sci. USA 87, 2264â€“2268.
+>>> DOI >>> 10.1073/pnas.87.6.2264
+>>> URL >>> http://dx.doi.org/10.1073/pnas.87.6.2264
+>>> year >>> 1990.0
+>>> title >>> Methods for assessing the statistical significance of molecular sequence features by using general scoring schemes.
+>>> author >>> S. Karlin and S. F. Altschul
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 656.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the National Academy of Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T10:02:31Z', 'timestamp': 1528365751072}, 'reference-count': 0, 'publisher': 'Proceedings of the National Academy of Sciences', 'issue': '6', 'content-domain': {'domain': ['pnas.org'], 'crossmark-restriction': True}, 'short-container-title': ['Proceedings of the National Academy of Sciences'], 'published-print': {'date-parts': [[1990, 3, 1]]}, 'DOI': '10.1073/pnas.87.6.2264', 'type': 'journal-article', 'created': {'date-parts': [[2006, 5, 31]], 'date-time': '2006-05-31T11:35:52Z', 'timestamp': 1149075352000}, 'page': '2264-2268', 'update-policy': 'http://dx.doi.org/10.1073/pnas.cm10313', 'source': 'Crossref', 'is-referenced-by-count': 656, 'title': ['Methods for assessing the statistical significance of molecular sequence features by using general scoring schemes.'], 'prefix': '10.1073', 'volume': '87', 'author': [{'given': 'S.', 'family': 'Karlin', 'sequence': 'first', 'affiliation': []}, {'given': 'S. F.', 'family': 'Altschul', 'sequence': 'additional', 'affiliation': []}], 'member': '341', 'container-title': ['Proceedings of the National Academy of Sciences'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1073/pnas.87.6.2264', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 30]], 'date-time': '2017-03-30T21:23:26Z', 'timestamp': 1490909006000}, 'score': 77.416176, 'issued': {'date-parts': [[1990, 3, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1990, 3, 15]]}, 'issue': '6'}, 'URL': 'http://dx.doi.org/10.1073/pnas.87.6.2264', 'ISSN': ['0027-8424', '1091-6490'], 'issn-type': [{'value': '0027-8424', 'type': 'print'}, {'value': '1091-6490', 'type': 'electronic'}]}
+>>> hash >>> ('Methods for assessing the statistical significance of molecular sequence features by using general scoring schemes.', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Altschul, S.F., Gish, W., Miller, W., et al. 1990. Basic local alignment search tool. J. Mol. Biol. 215, 403â€“410.
+>>> DOI >>> 10.1006/jmbi.1990.9999
+>>> URL >>> http://dx.doi.org/10.1006/jmbi.1990.9999
+>>> year >>> 1990.0
+>>> title >>> Basic Local Alignment Search Tool
+>>> author >>> S Altschul
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 8141.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Molecular Biology']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T09:42:30Z', 'timestamp': 1528278150463}, 'reference-count': 0, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1990, 10, 5]], 'date-time': '1990-10-05T00:00:00Z', 'timestamp': 655084800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1990, 10, 5]]}, 'DOI': '10.1006/jmbi.1990.9999', 'type': 'journal-article', 'created': {'date-parts': [[2002, 9, 18]], 'date-time': '2002-09-18T18:06:17Z', 'timestamp': 1032372377000}, 'page': '403-410', 'source': 'Crossref', 'is-referenced-by-count': 8141, 'title': ['Basic Local Alignment Search Tool'], 'prefix': '10.1006', 'volume': '215', 'author': [{'given': 'S', 'family': 'Altschul', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Molecular Biology'], 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0022-2836(80)79999-0?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0022-2836(80)79999-0?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 1, 11]], 'date-time': '2017-01-11T16:12:03Z', 'timestamp': 1484151123000}, 'score': 73.07012, 'issued': {'date-parts': [[1990, 10, 5]]}, 'references-count': 0, 'journal-issue': {'issue': '3'}, 'alternative-id': ['S0022-2836(80)79999-0'], 'URL': 'http://dx.doi.org/10.1006/jmbi.1990.9999', 'ISSN': ['0022-2836'], 'issn-type': [{'value': '0022-2836', 'type': 'print'}]}
+>>> hash >>> ('Basic Local Alignment Search Tool', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sharan, R., Suthram, S., Kelley, R.M., et al. 2005. Conserved patterns of protein interaction in multiple species. Proc. Natl. Acad. Sci. USA 102, 1974â€“1979.
+>>> DOI >>> 10.1073/pnas.0409522102
+>>> URL >>> http://dx.doi.org/10.1073/pnas.0409522102
+>>> year >>> 2005.0
+>>> title >>> Conserved patterns of protein interaction in multiple species
+>>> author >>> R. Sharan and S. Suthram and R. M. Kelley and T. Kuhn and S. McCuine and P. Uetz and T. Sittler and R. M. Karp and T. Ideker
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 377.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the National Academy of Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T15:02:35Z', 'timestamp': 1528470155946}, 'reference-count': 32, 'publisher': 'Proceedings of the National Academy of Sciences', 'issue': '6', 'content-domain': {'domain': ['pnas.org'], 'crossmark-restriction': True}, 'short-container-title': ['Proceedings of the National Academy of Sciences'], 'published-print': {'date-parts': [[2005, 2, 8]]}, 'DOI': '10.1073/pnas.0409522102', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 2]], 'date-time': '2005-02-02T03:34:12Z', 'timestamp': 1107315252000}, 'page': '1974-1979', 'update-policy': 'http://dx.doi.org/10.1073/pnas.cm10313', 'source': 'Crossref', 'is-referenced-by-count': 377, 'title': ['Conserved patterns of protein interaction in multiple species'], 'prefix': '10.1073', 'volume': '102', 'author': [{'given': 'R.', 'family': 'Sharan', 'sequence': 'first', 'affiliation': []}, {'given': 'S.', 'family': 'Suthram', 'sequence': 'additional', 'affiliation': []}, {'given': 'R. M.', 'family': 'Kelley', 'sequence': 'additional', 'affiliation': []}, {'given': 'T.', 'family': 'Kuhn', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.', 'family': 'McCuine', 'sequence': 'additional', 'affiliation': []}, {'given': 'P.', 'family': 'Uetz', 'sequence': 'additional', 'affiliation': []}, {'given': 'T.', 'family': 'Sittler', 'sequence': 'additional', 'affiliation': []}, {'given': 'R. M.', 'family': 'Karp', 'sequence': 'additional', 'affiliation': []}, {'given': 'T.', 'family': 'Ideker', 'sequence': 'additional', 'affiliation': []}], 'member': '341', 'published-online': {'date-parts': [[2005, 2, 1]]}, 'reference': [{'issue': '6230', 'key': '1_5333688', 'doi-asserted-by': 'publisher', 'first-page': '245', 'DOI': '10.1038/340245a0', 'volume': '340', 'author': 'Fields', 'year': '1989', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '6928', 'key': '2_17537196', 'doi-asserted-by': 'publisher', 'first-page': '198', 'DOI': '10.1038/nature01511', 'volume': '422', 'author': 'Aebersold', 'year': '2003', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '6817', 'key': '3_11015322', 'doi-asserted-by': 'publisher', 'first-page': '211', 'DOI': '10.1038/35051615', 'volume': '409', 'author': 'Rain', 'year': '2001', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '6770', 'key': '4_6480854', 'doi-asserted-by': 'publisher', 'first-page': '623', 'DOI': '10.1038/35001009', 'volume': '403', 'author': 'Uetz', 'year': '2000', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '8', 'key': '5_19672647', 'doi-asserted-by': 'publisher', 'first-page': '4569', 'DOI': '10.1073/pnas.061034498', 'volume': '98', 'year': '2001', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': '6868', 'key': '6_16882486', 'doi-asserted-by': 'publisher', 'first-page': '180', 'DOI': '10.1038/415180a', 'volume': '415', 'author': 'Ho', 'year': '2002', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '6868', 'key': '7_16882475', 'doi-asserted-by': 'publisher', 'first-page': '141', 'DOI': '10.1038/415141a', 'volume': '415', 'author': 'Gavin', 'year': '2002', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '5651', 'key': '8_17941043', 'doi-asserted-by': 'publisher', 'first-page': '1727', 'DOI': '10.1126/science.1090289', 'volume': '302', 'year': '2003', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '5657', 'key': '9_18009075', 'doi-asserted-by': 'publisher', 'first-page': '540', 'DOI': '10.1126/science.1091403', 'volume': '303', 'year': '2004', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '22', 'key': '10_19683655', 'doi-asserted-by': 'publisher', 'first-page': '12579', 'DOI': '10.1073/pnas.2132527100', 'volume': '100', 'year': '2003', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': '6887', 'key': '11_17067161', 'doi-asserted-by': 'crossref', 'first-page': '399', 'DOI': '10.1038/nature750', 'volume': '417', 'author': 'von Mering', 'year': '2002', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '12', 'key': '12_11421200', 'doi-asserted-by': 'publisher', 'first-page': '2120', 'DOI': '10.1101/gr.205301', 'volume': '11', 'author': 'Matthews', 'year': '2001', 'journal-title': 'Genome Research', 'ISSN': 'http://id.crossref.org/issn/1088-9051', 'issn-type': 'print'}, {'issue': '20', 'key': '13_19683453', 'doi-asserted-by': 'publisher', 'first-page': '11394', 'DOI': '10.1073/pnas.1534710100', 'volume': '100', 'year': '2003', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': '6', 'key': '16_11226741', 'doi-asserted-by': 'crossref', 'first-page': '471', 'DOI': '10.1007/s002390010178', 'volume': '52', 'author': 'Forst', 'year': '2001', 'journal-title': 'Journal of Molecular Evolution', 'ISSN': 'http://id.crossref.org/issn/1432-1432', 'issn-type': 'print'}, {'issue': '20', 'key': '17_10507058', 'doi-asserted-by': 'publisher', 'first-page': '4021', 'DOI': '10.1093/nar/28.20.4021', 'volume': '28', 'author': 'Ogata', 'year': '2000', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '5643', 'key': '18_17852504', 'doi-asserted-by': 'publisher', 'first-page': '249', 'DOI': '10.1126/science.1087447', 'volume': '302', 'year': '2003', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '5566', 'key': '19_17004663', 'doi-asserted-by': 'publisher', 'first-page': '340', 'DOI': '10.1126/science.1068996', 'volume': '296', 'author': 'Enard', 'year': '2002', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '1', 'key': '20_18353667', 'doi-asserted-by': 'publisher', 'first-page': 'E9', 'DOI': '10.1371/journal.pbio.0020009', 'volume': '2', 'author': 'Bergmann', 'year': '2004', 'journal-title': 'PLoS biology', 'ISSN': 'http://id.crossref.org/issn/1544-9173', 'issn-type': 'print'}, {'issue': '17', 'key': '21_37723758', 'doi-asserted-by': 'publisher', 'first-page': '3389', 'DOI': '10.1093/nar/25.17.3389', 'volume': '25', 'year': '1997', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '1', 'key': '22_17980976', 'doi-asserted-by': 'publisher', 'first-page': '78', 'DOI': '10.1038/nbt924', 'volume': '22', 'author': 'Bader', 'year': '2004', 'journal-title': 'Nature biotechnology', 'ISSN': 'http://id.crossref.org/issn/1087-0156', 'issn-type': 'print'}, {'issue': '1', 'key': '23_11453863', 'doi-asserted-by': 'publisher', 'first-page': '303', 'DOI': '10.1093/nar/30.1.303', 'volume': '30', 'author': 'Xenarios', 'year': '2002', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '90001', 'key': '24_18655240', 'doi-asserted-by': 'publisher', 'first-page': 'D311', 'DOI': '10.1093/nar/gkh033', 'volume': '32', 'author': 'Christie', 'year': '2004', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '90001', 'key': '25_18655264', 'doi-asserted-by': 'publisher', 'first-page': 'D411', 'DOI': '10.1093/nar/gkh066', 'volume': '32', 'author': 'Harris', 'year': '2004', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '1', 'key': '26_17466512', 'doi-asserted-by': 'publisher', 'first-page': '172', 'DOI': '10.1093/nar/gkg094', 'volume': '31', 'year': '2003', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '90001', 'key': '27_18655173', 'doi-asserted-by': 'publisher', 'first-page': 'D41', 'DOI': '10.1093/nar/gkh092', 'volume': '32', 'author': 'Mewes', 'year': '2004', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '5', 'key': '28_17040880', 'doi-asserted-by': 'publisher', 'first-page': '785', 'DOI': '10.1101/gr.86902', 'volume': '12', 'author': 'Xie', 'year': '2002', 'journal-title': 'Genome Research', 'ISSN': 'http://id.crossref.org/issn/1088-9051', 'issn-type': 'print'}, {'issue': '6', 'key': '29_18205351', 'doi-asserted-by': 'publisher', 'first-page': '1107', 'DOI': '10.1101/gr.1774904', 'volume': '14', 'author': 'Yu', 'year': '2004', 'journal-title': 'Genome Research', 'ISSN': 'http://id.crossref.org/issn/1088-9051', 'issn-type': 'print'}, {'issue': '1', 'key': '30_16069755', 'doi-asserted-by': 'publisher', 'first-page': '43', 'DOI': '10.1007/BF00990969', 'volume': '21', 'author': 'Schmid', 'year': '1995', 'journal-title': 'Molecular biology reports', 'ISSN': 'http://id.crossref.org/issn/0301-4851', 'issn-type': 'print'}, {'issue': '1', 'key': '31_17578881', 'doi-asserted-by': 'publisher', 'first-page': '1', 'DOI': '10.1023/A:1022261925117', 'volume': '30', 'author': 'Gautier-Bert', 'year': '2003', 'journal-title': 'Molecular biology reports', 'ISSN': 'http://id.crossref.org/issn/0301-4851', 'issn-type': 'print'}, {'issue': '12', 'key': '32_11414279', 'doi-asserted-by': 'crossref', 'first-page': '1169', 'DOI': '10.1038/nn766', 'volume': '4', 'author': 'Roozendaal', 'year': '2001', 'journal-title': 'Nature neuroscience', 'ISSN': 'http://id.crossref.org/issn/1097-6256', 'issn-type': 'print'}, {'issue': '6', 'key': '33_17081415', 'doi-asserted-by': 'publisher', 'first-page': '591', 'DOI': '10.1023/A:1015135617557', 'volume': '21', 'author': 'Spira', 'year': '2001', 'journal-title': 'Cellular and molecular neurobiology', 'ISSN': 'http://id.crossref.org/issn/0272-4340', 'issn-type': 'print'}, {'issue': '11', 'key': '34_17888406', 'doi-asserted-by': 'publisher', 'first-page': '2498', 'DOI': '10.1101/gr.1239303', 'volume': '13', 'author': 'Shannon', 'year': '2003', 'journal-title': 'Genome Research', 'ISSN': 'http://id.crossref.org/issn/1088-9051', 'issn-type': 'print'}], 'container-title': ['Proceedings of the National Academy of Sciences'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1073/pnas.0409522102', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T15:21:32Z', 'timestamp': 1497626492000}, 'score': 60.352448, 'issued': {'date-parts': [[2005, 2, 1]]}, 'references-count': 32, 'journal-issue': {'published-online': {'date-parts': [[2005, 2, 8]]}, 'published-print': {'date-parts': [[2005, 2, 8]]}, 'issue': '6'}, 'URL': 'http://dx.doi.org/10.1073/pnas.0409522102', 'relation': {'cites': []}, 'ISSN': ['0027-8424', '1091-6490'], 'issn-type': [{'value': '0027-8424', 'type': 'print'}, {'value': '1091-6490', 'type': 'electronic'}]}
+>>> hash >>> ('Conserved patterns of protein interaction in multiple species', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Xenarios, I., Rice, D.W., Salwinski, L., et al. 2000. DIP: the Database of Interacting Proteins. Nucleic Acids Res. 28, 289â€“291.
+>>> DOI >>> 10.1093/nar/28.1.289
+>>> URL >>> http://dx.doi.org/10.1093/nar/28.1.289
+>>> year >>> 2000.0
+>>> title >>> DIP: the Database of Interacting Proteins
+>>> author >>> I. Xenarios
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 409.0
+>>> subject >>> None
+>>> container_title >>> ['Nucleic Acids Research']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 21]], 'date-time': '2018-05-21T11:22:33Z', 'timestamp': 1526901753050}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2000, 1, 1]]}, 'DOI': '10.1093/nar/28.1.289', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T22:47:51Z', 'timestamp': 1027723671000}, 'page': '289-291', 'source': 'Crossref', 'is-referenced-by-count': 409, 'title': ['DIP: the Database of Interacting Proteins'], 'prefix': '10.1093', 'volume': '28', 'author': [{'given': 'I.', 'family': 'Xenarios', 'sequence': 'first', 'affiliation': []}], 'member': '286', 'container-title': ['Nucleic Acids Research'], 'link': [{'URL': 'http://academic.oup.com/nar/article-pdf/28/1/289/9895160/280289.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 24]], 'date-time': '2017-08-24T13:24:02Z', 'timestamp': 1503581042000}, 'score': 82.79929, 'issued': {'date-parts': [[2000, 1, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1093/nar/28.1.289', 'ISSN': ['1362-4962'], 'issn-type': [{'value': '1362-4962', 'type': 'electronic'}]}
+>>> hash >>> ('DIP: the Database of Interacting Proteins', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Gerike, U., Hough, D.W., Russell, N.J., et al. 1998. Citrate synthase and 2-methylcitrate synthase: structural, functional and evolutionary relationships. Microbiology 144, 929â€“935.
+>>> DOI >>> 10.1099/00221287-144-4-929
+>>> URL >>> http://dx.doi.org/10.1099/00221287-144-4-929
+>>> year >>> 1998.0
+>>> title >>> Citrate synthase and 2-methylcitrate synthase: structural, functional and evolutionary relationships
+>>> author >>> U. Gerike and D. W. Hough and N. J. Russell and M. L. Dyall-Smith and M. J. Danson
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 30.0
+>>> subject >>> None
+>>> container_title >>> ['Microbiology']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:07:00Z', 'timestamp': 1525482420471}, 'reference-count': 0, 'publisher': 'Microbiology Society', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Microbiology'], 'published-print': {'date-parts': [[1998, 4, 1]]}, 'DOI': '10.1099/00221287-144-4-929', 'type': 'journal-article', 'created': {'date-parts': [[2009, 6, 5]], 'date-time': '2009-06-05T04:53:32Z', 'timestamp': 1244177612000}, 'page': '929-935', 'source': 'Crossref', 'is-referenced-by-count': 30, 'title': ['Citrate synthase and 2-methylcitrate synthase: structural, functional and evolutionary relationships'], 'prefix': '10.1099', 'volume': '144', 'author': [{'given': 'U.', 'family': 'Gerike', 'sequence': 'first', 'affiliation': []}, {'given': 'D. W.', 'family': 'Hough', 'sequence': 'additional', 'affiliation': []}, {'given': 'N. J.', 'family': 'Russell', 'sequence': 'additional', 'affiliation': []}, {'given': 'M. L.', 'family': 'Dyall-Smith', 'sequence': 'additional', 'affiliation': []}, {'given': 'M. J.', 'family': 'Danson', 'sequence': 'additional', 'affiliation': []}], 'member': '345', 'container-title': ['Microbiology'], 'language': 'en', 'deposited': {'date-parts': [[2015, 10, 2]], 'date-time': '2015-10-02T18:50:29Z', 'timestamp': 1443811829000}, 'score': 112.186066, 'issued': {'date-parts': [[1998, 4, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1998, 4, 1]]}, 'issue': '4'}, 'URL': 'http://dx.doi.org/10.1099/00221287-144-4-929', 'ISSN': ['1350-0872', '1465-2080'], 'issn-type': [{'value': '1350-0872', 'type': 'print'}, {'value': '1465-2080', 'type': 'electronic'}]}
+>>> hash >>> ('Citrate synthase and 2-methylcitrate synthase: structural, functional and evolutionary relationships', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Steffen, M., Petti, A., Aach, J., et al. 2002. Automated modelling of signal transduction networks. BMC Bioinform. 3, 34.
+>>> DOI >>> 10.1186/1471-2105-3-34
+>>> URL >>> http://dx.doi.org/10.1186/1471-2105-3-34
+>>> year >>> 2002.0
+>>> title >>> None
+>>> author >>> Martin Steffen and Allegra Petti and John Aach and Patrik D'haeseleer and George Church
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 109.0
+>>> subject >>> None
+>>> container_title >>> ['BMC Bioinformatics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T18:42:35Z', 'timestamp': 1527014555511}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['BMC Bioinformatics'], 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.1186/1471-2105-3-34', 'type': 'journal-article', 'created': {'date-parts': [[2002, 12, 4]], 'date-time': '2002-12-04T12:08:34Z', 'timestamp': 1039003714000}, 'page': '34', 'source': 'Crossref', 'is-referenced-by-count': 109, 'prefix': '10.1186', 'volume': '3', 'author': [{'given': 'Martin', 'family': 'Steffen', 'sequence': 'first', 'affiliation': []}, {'given': 'Allegra', 'family': 'Petti', 'sequence': 'additional', 'affiliation': []}, {'given': 'John', 'family': 'Aach', 'sequence': 'additional', 'affiliation': []}, {'given': 'Patrik', 'family': "D'haeseleer", 'sequence': 'additional', 'affiliation': []}, {'given': 'George', 'family': 'Church', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['BMC Bioinformatics'], 'deposited': {'date-parts': [[2016, 5, 16]], 'date-time': '2016-05-16T13:04:06Z', 'timestamp': 1463403846000}, 'score': 53.381165, 'issued': {'date-parts': [[2002]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'alternative-id': ['1471-2105-3-34'], 'URL': 'http://dx.doi.org/10.1186/1471-2105-3-34', 'ISSN': ['1471-2105'], 'issn-type': [{'value': '1471-2105', 'type': 'print'}]}
+>>> hash >>> ('None', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Karp, P.D., Riley, M., Saier, M., et al. 2002. The EcoCyc database. Nucleic Acids Res. 30, 56â€“58.
+>>> DOI >>> 10.1093/nar/30.1.56
+>>> URL >>> http://dx.doi.org/10.1093/nar/30.1.56
+>>> year >>> 2002.0
+>>> title >>> The EcoCyc Database
+>>> author >>> P. D. Karp
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 168.0
+>>> subject >>> None
+>>> container_title >>> ['Nucleic Acids Research']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 2]], 'date-time': '2018-06-02T20:42:31Z', 'timestamp': 1527972151498}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002, 1, 1]]}, 'DOI': '10.1093/nar/30.1.56', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T22:19:55Z', 'timestamp': 1027721995000}, 'page': '56-58', 'source': 'Crossref', 'is-referenced-by-count': 168, 'title': ['The EcoCyc Database'], 'prefix': '10.1093', 'volume': '30', 'author': [{'given': 'P. D.', 'family': 'Karp', 'sequence': 'first', 'affiliation': []}], 'member': '286', 'container-title': ['Nucleic Acids Research'], 'link': [{'URL': 'http://academic.oup.com/nar/article-pdf/30/1/56/9901104/300056.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 23]], 'date-time': '2017-08-23T21:55:24Z', 'timestamp': 1503525324000}, 'score': 68.19324, 'issued': {'date-parts': [[2002, 1, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1093/nar/30.1.56', 'ISSN': ['1362-4962'], 'issn-type': [{'value': '1362-4962', 'type': 'electronic'}]}
+>>> hash >>> ('The EcoCyc Database', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Altschul, S.F., and Erickson, B.W. 1986. Optimal sequence alignment using affine gap costs. Bull. Math. Biol. 48, 603â€“616.
+>>> DOI >>> 10.1016/s0092-8240(86)90010-8
+>>> URL >>> http://dx.doi.org/10.1016/s0092-8240(86)90010-8
+>>> year >>> 1986.0
+>>> title >>> Optimal sequence alignment using affine gap costs
+>>> author >>> S ALTSCHUL and B ERICKSON
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['Bulletin of Mathematical Biology']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T20:36:39Z', 'timestamp': 1525466199632}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '5-6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Bulletin of Mathematical Biology'], 'published-print': {'date-parts': [[1986]]}, 'DOI': '10.1016/s0092-8240(86)90010-8', 'type': 'journal-article', 'created': {'date-parts': [[2005, 7, 22]], 'date-time': '2005-07-22T16:00:03Z', 'timestamp': 1122048003000}, 'page': '603-616', 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['Optimal sequence alignment using affine gap costs'], 'prefix': '10.1007', 'volume': '48', 'author': [{'given': 'S', 'family': 'ALTSCHUL', 'sequence': 'first', 'affiliation': []}, {'given': 'B', 'family': 'ERICKSON', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Bulletin of Mathematical Biology'], 'language': 'en', 'deposited': {'date-parts': [[2011, 3, 21]], 'date-time': '2011-03-21T14:33:44Z', 'timestamp': 1300718024000}, 'score': 89.34666, 'issued': {'date-parts': [[1986]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1986]]}, 'issue': '5-6'}, 'alternative-id': ['S0092824086900108'], 'URL': 'http://dx.doi.org/10.1016/s0092-8240(86)90010-8', 'ISSN': ['0092-8240'], 'issn-type': [{'value': '0092-8240', 'type': 'print'}]}
+>>> hash >>> ('Optimal sequence alignment using affine gap costs', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Wolfe, K.H., and Shields, D.C. 1997. Molecular evidence for an ancient duplication of the entire yeast genome. Nature 387, 708â€“713.
+>>> DOI >>> 10.1038/42711
+>>> URL >>> http://dx.doi.org/10.1038/42711
+>>> year >>> 1997.0
+>>> title >>> Molecular evidence for an ancient duplication of the entire yeast genome
+>>> author >>> Kenneth H. Wolfe and Denis C. Shields
+>>> reference_count >>> 25.0
+>>> is_referenced_by_count >>> 796.0
+>>> subject >>> None
+>>> container_title >>> ['Nature']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T17:42:28Z', 'timestamp': 1527270148093}, 'reference-count': 25, 'publisher': 'Springer Nature', 'issue': '6634', 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[1997, 6, 1]], 'date-time': '1997-06-01T00:00:00Z', 'timestamp': 865123200000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Nature'], 'published-print': {'date-parts': [[1997, 6]]}, 'DOI': '10.1038/42711', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T08:35:11Z', 'timestamp': 1027672511000}, 'page': '708-713', 'source': 'Crossref', 'is-referenced-by-count': 796, 'title': ['Molecular evidence for an ancient duplication of the entire yeast genome'], 'prefix': '10.1038', 'volume': '387', 'author': [{'given': 'Kenneth H.', 'family': 'Wolfe', 'sequence': 'first', 'affiliation': []}, {'given': 'Denis C.', 'family': 'Shields', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[1997, 6, 12]]}, 'reference': [{'key': 'BF42711_CR1', 'unstructured': 'Ohno, S. Evolution by Gene Duplication (George Allen and Unwin, London, 1970).', 'DOI': '10.1007/978-3-642-86659-3', 'doi-asserted-by': 'crossref'}, {'key': 'BF42711_CR2', 'doi-asserted-by': 'publisher', 'first-page': '119', 'DOI': '10.1098/rspb.1994.0058', 'volume': '256', 'author': 'AL Hughes', 'year': '1994', 'unstructured': 'Hughes, A. L. The evolution of functionally novel proteins after gene duplication. Proc. R. Soc. Lond. B 256, 119–124 (1994).', 'journal-title': 'Proc. R. Soc. Lond. B'}, {'key': 'BF42711_CR3', 'first-page': '179', 'volume': 'Vol. 6', 'author': 'DB Kaback', 'year': '1995', 'unstructured': 'Kaback, D. B. Yeast genome structure.In The Yeasts Vol. 6(eds Wheals, A. E., Rose, A. H. & Harrison, J. S.) 179–222 (Academic, London, 1995).', 'journal-title': 'The Yeasts'}, {'key': 'BF42711_CR4', 'author': 'MV Olson', 'first-page': '1', 'year': '1991', 'unstructured': 'Olson, M. V. in The Molecular and Cellular Biology of the Yeast Saccharomyces Vol. 1(eds Broach, J. R., Pringle, J. R. & Jones, E. W.) 1–40 (Cold Spring Harbor Laboratory Press, NY, 1991).', 'volume-title': 'The Molecular and Cellular Biology of the Yeast Saccharomyces'}, {'key': 'BF42711_CR5', 'doi-asserted-by': 'publisher', 'first-page': '252', 'DOI': '10.1007/BF02111238', 'volume': '24', 'author': 'MM Smith', 'year': '1987', 'unstructured': 'Smith, M. M. Molecular evolution of the Saccharomyces cerevisiae histone gene loci. J. Mol. Evol. 24, 252–259 (1987).', 'journal-title': 'J. Mol. Evol.'}, {'key': 'BF42711_CR6', 'first-page': '367', 'volume': '316', 'author': 'D Lalo', 'year': '1993', 'unstructured': 'Lalo, D., Stettler, S., Mariotte, S., Slonimski, P. P. & Thuriaux, P. Une duplication fossile entre les régions centromériques de deux chromosomes chez la levure. C.R. Acad. Sci. 316, 367–373 (1993).', 'journal-title': 'C.R. Acad. Sci.'}, {'key': 'BF42711_CR7', 'doi-asserted-by': 'publisher', 'first-page': '372', 'DOI': '10.1006/jmbi.1993.1518', 'volume': '233', 'author': 'L Melnick', 'year': '1993', 'unstructured': 'Melnick, L. & Sherman, F. The gene clusters ARC and COR on chromosomes 5 and 10, respectively, of Saccharomyces cerevisiae share a common ancestry. J. Mol. Biol. 233, 372–388 (1993).', 'journal-title': 'J. Mol. Biol.'}, {'key': 'BF42711_CR8', 'doi-asserted-by': 'publisher', 'first-page': '546', 'DOI': '10.1126/science.274.5287.546', 'volume': '274', 'author': 'A Goffeau', 'year': '1996', 'unstructured': 'Goffeau, A.et al. Life with 6000 genes. Science 274, 546–567 (1996).', 'journal-title': 'Science'}, {'key': 'BF42711_CR9', 'doi-asserted-by': 'publisher', 'first-page': '403', 'DOI': '10.1016/S0022-2836(05)80360-2', 'volume': '215', 'author': 'SF Altschul', 'year': '1990', 'unstructured': 'Altschul, S. F., Gish, W., Miller, W., Myers, E. W. & Lipman, D. J. Basic local alignment search tool. J. Mol. Biol. 215, 403–410 (1990).', 'journal-title': 'J. Mol. Biol.'}, {'key': 'BF42711_CR10', 'doi-asserted-by': 'publisher', 'first-page': '7980', 'DOI': '10.1073/pnas.90.17.7980', 'volume': '90', 'author': 'S Ahn', 'year': '1993', 'unstructured': 'Ahn, S. & Tanksley, S. D. Comparative linkage maps of the rice and maize genomes. Proc. Natl Acad. Sci. USA 90, 7980–7984 (1993).', 'journal-title': 'Proc. Natl Acad. Sci. USA'}, {'key': 'BF42711_CR11', 'doi-asserted-by': 'publisher', 'first-page': '2', 'DOI': '10.1016/S0014-5793(96)01351-8', 'volume': '400', 'author': 'J Spring', 'year': '1997', 'unstructured': 'Spring, J. Vertebrate evolution by interspecific hybridisation–are we polyploid? FEBS Lett. 400, 2–8 (1997).', 'journal-title': 'FEBS Lett.'}, {'key': 'BF42711_CR12', 'doi-asserted-by': 'publisher', 'first-page': '171', 'DOI': '10.1073/pnas.39.3.171', 'volume': '39', 'author': 'H Roman', 'year': '1953', 'unstructured': 'Roman, H. & Sands, S. M. Heterogeneity of clones of Saccharomyces derived from haploid ascospores. Proc. Natl Acad. Sci. USA 39, 171–179 (1953).', 'journal-title': 'Proc. Natl Acad. Sci. USA'}, {'key': 'BF42711_CR13', 'first-page': '223', 'volume': 'Vol. 6', 'author': 'MC Kielland-Brandt', 'year': '1995', 'unstructured': 'Kielland-Brandt, M. C., Nilsson-Tillgren, T., Gjermansen, C., Holmberg, S. & Pedersen, M. B. Genetics of brewing yeasts.In The Yeasts Vol. 6(eds Wheals, A. E., Rose, A. H. & Harrison, J. S.) 223–254 (Academic, London, 1995).', 'journal-title': 'The Yeasts'}, {'key': 'BF42711_CR14', 'doi-asserted-by': 'publisher', 'first-page': '757', 'DOI': '10.1002/(SICI)1097-0061(19960630)12:8<757::AID-YEA970>3.0.CO;2-H', 'volume': '12', 'author': 'S-L Ryu', 'year': '1996', 'unstructured': 'Ryu, S.-L., Murooka, Y. & Kaneko, Y. Genomic reorganization between two sibling yeast species, Saccharomyces bayanus and Saccharomyces cerevisiae. Yeast 12, 757–764 (1996).', 'journal-title': 'Yeast'}, {'key': 'BF42711_CR15', 'doi-asserted-by': 'publisher', 'first-page': '98', 'DOI': '10.1016/S0723-2020(11)80145-1', 'volume': '15', 'author': 'L Hendriks', 'year': '1992', 'unstructured': 'Hendriks, L.et al. Phylogenetic relationships among ascomycetes and ascomycete-like yeasts as deduced from small subunit ribosomal subunit RNA sequences. Syst. Appl. Microbiol. 15, 98–104 (1992).', 'journal-title': 'Syst. Appl. Microbiol.'}, {'key': 'BF42711_CR16', 'first-page': '355', 'volume': '236', 'author': 'JJ Heus', 'year': '1993', 'unstructured': 'Heus, J. J., Zonneveld, B. J. M., Steensma, H. Y. & van den Berg, J. A. The consensus sequence of Kluyveromyces lactis centromeres shows homology to functional centromeric DNA from Saccharomyces cerevisiae. Mol. Gen. Genet. 236, 355–362 (1993).', 'journal-title': 'Mol. Gen. Genet.'}, {'key': 'BF42711_CR17', 'doi-asserted-by': 'publisher', 'first-page': '35', 'DOI': '10.1002/yea.320050106', 'volume': '5', 'author': 'MJR Stark', 'year': '1989', 'unstructured': 'Stark, M. J. R. & Milner, J. S. Cloning and analysis of the Kluyveromyces lactis TRP1 gene: a chromosomal locus flanked by genes encoding inorganic pyrophosphatase and histone H3. Yeast 5, 35–50 (1989).', 'journal-title': 'Yeast'}, {'key': 'BF42711_CR18', 'doi-asserted-by': 'publisher', 'first-page': '35', 'DOI': '10.1016/0378-1119(94)90854-0', 'volume': '150', 'author': 'GP Larson', 'year': '1994', 'unstructured': 'Larson, G. P., Castanotto, D., Rossi, J. J. & Malafa, M. P. Isolation and functional analysis of a Kluyveromyces lactis RAP1 homologue. Gene 150, 35–41 (1994).', 'journal-title': 'Gene'}, {'key': 'BF42711_CR19', 'doi-asserted-by': 'publisher', 'first-page': '903', 'DOI': '10.1002/yea.320081102', 'volume': '8', 'author': 'GK Bergkamp-Steffens', 'year': '1992', 'unstructured': 'Bergkamp-Steffens, G. K., Hoekstra, R. & Planta, R. J. Structural and putative regulatory sequences of Kluyveromyces ribosomal protein genes. Yeast 8, 903–922 (1992).', 'journal-title': 'Yeast'}, {'key': 'BF42711_CR20', 'doi-asserted-by': 'publisher', 'first-page': '11009', 'DOI': '10.1073/pnas.92.24.11009', 'volume': '92', 'author': 'N Hurwitz', 'year': '1995', 'unstructured': 'Hurwitz, N., Segal, M., Marbach, I. & Levitzki, A. Differential activation of yeast adenylyl cyclase by Ras1 and Ras2 depends on the conserved N terminus. Proc. Natl Acad. Sci. USA 92, 11009–11013 (1995).', 'journal-title': 'Proc. Natl Acad. Sci. USA'}, {'key': 'BF42711_CR21', 'doi-asserted-by': 'publisher', 'first-page': '93', 'DOI': '10.1101/gad.6.1.93', 'volume': '6', 'author': 'PR Dohrmann', 'year': '1992', 'unstructured': 'Dohrmann, P. R.et al. Parallel pathways of gene regulation: homologous regulators SWI5 and ACE2 differentially control transcription of HO and chitinase. Genes Dev. 6, 93–104 (1992).', 'journal-title': 'Genes Dev.'}, {'key': 'BF42711_CR22', 'doi-asserted-by': 'publisher', 'first-page': '13780', 'DOI': '10.1073/pnas.93.24.13780', 'volume': '93', 'author': 'A Schmidt', 'year': '1996', 'unstructured': 'Schmidt, A., Kunz, J. & Hall, M. N. TOR2 is required for organization of the actin cytoskeleton in yeast. Proc. Natl Acad. Sci. USA 93, 13780–13785 (1996).', 'journal-title': 'Proc. Natl Acad. Sci. USA'}, {'key': 'BF42711_CR23', 'doi-asserted-by': 'publisher', 'first-page': '687', 'DOI': '10.1016/S0092-8674(00)81047-8', 'volume': '84', 'author': 'RP Jansen', 'year': '1996', 'unstructured': 'Jansen, R. P., Dowzer, C., Michaelis, C., Galova, M. & Nasmyth, K. Mother cell-specific HO expression in budding yeast depends on the unconventional myosin Myo4p and other cytoplasmic proteins. Cell 84, 687–697 (1996).', 'journal-title': 'Cell'}, {'key': 'BF42711_CR24', 'unstructured': 'Friis, E. M., Chaloner, W. G. & Crane, P. R. (eds) The Origins of Angiosperms and their Biological Consequences (Cambridge Univ. Press, 1987).'}, {'key': 'BF42711_CR25', 'doi-asserted-by': 'publisher', 'first-page': '279', 'DOI': '10.1126/science.155.3760.279', 'volume': '155', 'author': 'WM Fitch', 'year': '1967', 'unstructured': 'Fitch, W. M. & Margoliash, E. Construction of phylogenetic trees. Science 155, 279–284 (1967).', 'journal-title': 'Science'}], 'container-title': ['Nature'], 'language': 'en', 'link': [{'URL': 'http://www.nature.com/articles/42711.pdf', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://www.nature.com/articles/42711', 'content-type': 'text/html', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://www.nature.com/doifinder/10.1038/42711', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}, {'URL': 'http://www.nature.com/articles/42711.pdf', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 28]], 'date-time': '2017-11-28T03:16:27Z', 'timestamp': 1511838987000}, 'score': 82.29554, 'issued': {'date-parts': [[1997, 6]]}, 'references-count': 25, 'journal-issue': {'published-print': {'date-parts': [[1997, 6]]}, 'issue': '6634'}, 'alternative-id': ['BF42711'], 'URL': 'http://dx.doi.org/10.1038/42711', 'relation': {'cites': []}, 'ISSN': ['0028-0836', '1476-4687'], 'issn-type': [{'value': '0028-0836', 'type': 'print'}, {'value': '1476-4687', 'type': 'electronic'}]}
+>>> hash >>> ('Molecular evidence for an ancient duplication of the entire yeast genome', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Stein, L., Sternberg, P., Durbin, R., et al. 2001. WormBase: network access to the genome and biology of Caenorhabditis elegans. Nucleic Acids Res. 29, 82â€“86.
+>>> DOI >>> 10.1093/nar/29.1.82
+>>> URL >>> http://dx.doi.org/10.1093/nar/29.1.82
+>>> year >>> 2001.0
+>>> title >>> WormBase: network access to the genome and biology of Caenorhabditis elegans
+>>> author >>> L. Stein
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 128.0
+>>> subject >>> None
+>>> container_title >>> ['Nucleic Acids Research']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T05:52:02Z', 'timestamp': 1525326722357}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2001, 1, 1]]}, 'DOI': '10.1093/nar/29.1.82', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T22:52:52Z', 'timestamp': 1027723972000}, 'page': '82-86', 'source': 'Crossref', 'is-referenced-by-count': 128, 'title': ['WormBase: network access to the genome and biology of Caenorhabditis elegans'], 'prefix': '10.1093', 'volume': '29', 'author': [{'given': 'L.', 'family': 'Stein', 'sequence': 'first', 'affiliation': []}], 'member': '286', 'container-title': ['Nucleic Acids Research'], 'link': [{'URL': 'http://academic.oup.com/nar/article-pdf/29/1/82/9905827/290082.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 23]], 'date-time': '2017-08-23T18:31:16Z', 'timestamp': 1503513076000}, 'score': 93.5456, 'issued': {'date-parts': [[2001, 1, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1093/nar/29.1.82', 'ISSN': ['1362-4962'], 'issn-type': [{'value': '1362-4962', 'type': 'electronic'}]}
+>>> hash >>> ('WormBase: network access to the genome and biology of Caenorhabditis elegans', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Lawler, E.L. 1972. A procedure for computing the K best solutions to discrete optimization problems and its application to the shortest path problem. Management Sci. 18, 401â€“405.
+>>> DOI >>> 10.1287/mnsc.18.7.401
+>>> URL >>> http://dx.doi.org/10.1287/mnsc.18.7.401
+>>> year >>> 1972.0
+>>> title >>> A Procedure for Computing theKBest Solutions to Discrete Optimization Problems and Its Application to the Shortest Path Problem
+>>> author >>> Eugene L. Lawler
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 183.0
+>>> subject >>> None
+>>> container_title >>> ['Management Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T16:02:59Z', 'timestamp': 1525449779190}, 'reference-count': 0, 'publisher': 'Institute for Operations Research and the Management Sciences (INFORMS)', 'issue': '7', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Management Science'], 'published-print': {'date-parts': [[1972, 3]]}, 'DOI': '10.1287/mnsc.18.7.401', 'type': 'journal-article', 'created': {'date-parts': [[2008, 11, 8]], 'date-time': '2008-11-08T14:58:02Z', 'timestamp': 1226156282000}, 'page': '401-405', 'source': 'Crossref', 'is-referenced-by-count': 183, 'title': ['A Procedure for Computing theKBest Solutions to Discrete Optimization Problems and Its Application to the Shortest Path Problem'], 'prefix': '10.1287', 'volume': '18', 'author': [{'given': 'Eugene L.', 'family': 'Lawler', 'sequence': 'first', 'affiliation': []}], 'member': '109', 'container-title': ['Management Science'], 'language': 'en', 'link': [{'URL': 'https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.18.7.401', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 7, 7]], 'date-time': '2017-07-07T14:56:53Z', 'timestamp': 1499439413000}, 'score': 89.521645, 'issued': {'date-parts': [[1972, 3]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1972, 3]]}, 'issue': '7'}, 'alternative-id': ['10.1287/mnsc.18.7.401'], 'URL': 'http://dx.doi.org/10.1287/mnsc.18.7.401', 'ISSN': ['0025-1909', '1526-5501'], 'issn-type': [{'value': '0025-1909', 'type': 'print'}, {'value': '1526-5501', 'type': 'electronic'}]}
+>>> hash >>> ('A Procedure for Computing theKBest Solutions to Discrete Optimization Problems and Its Application to the Shortest Path Problem', 1972.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Eppstein, D. 1998. Finding the k shortest paths. SIAM J. Comput. 28, 652â€“673. Fox, B.L. 1975. k-th shortest paths and applications to the probabilistic networks. ORSA/TIMS Joint Natl. Meeting 23, B263.
+>>> DOI >>> 10.1137/s0097539795290477
+>>> URL >>> http://dx.doi.org/10.1137/s0097539795290477
+>>> year >>> 1998.0
+>>> title >>> Finding the k Shortest Paths
+>>> author >>> David Eppstein
+>>> reference_count >>> 48.0
+>>> is_referenced_by_count >>> 505.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database168.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 26]], 'date-time': '2018-05-26T01:22:29Z', 'timestamp': 1527297749303}, 'reference-count': 48, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[1998, 1]]}, 'DOI': '10.1137/s0097539795290477', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 11]], 'date-time': '2003-06-11T15:12:06Z', 'timestamp': 1055344326000}, 'page': '652-673', 'source': 'Crossref', 'is-referenced-by-count': 505, 'title': ['Finding the k Shortest Paths'], 'prefix': '10.1137', 'volume': '28', 'author': [{'given': 'David', 'family': 'Eppstein', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/S0097539795290477', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T21:52:31Z', 'timestamp': 1497563551000}, 'score': 93.40552, 'issued': {'date-parts': [[1998, 1]]}, 'references-count': 48, 'journal-issue': {'published-print': {'date-parts': [[1998, 1]]}, 'issue': '2'}, 'alternative-id': ['10.1137/S0097539795290477'], 'URL': 'http://dx.doi.org/10.1137/s0097539795290477', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('Finding the k Shortest Paths', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

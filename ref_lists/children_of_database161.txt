@@ -1,0 +1,769 @@
+>>> NEW PAPER <<<
+>>> citation >>> T Kohonen Associative memory Springer, Berlin (1977)
+>>> DOI >>> 10.1007/978-3-642-96384-1_4
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-96384-1_4
+>>> year >>> 1977.0
+>>> title >>> On Biological Associative Memory
+>>> author >>> Teuvo Kohonen
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Communication and Cybernetics', 'Associative Memory']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T00:47:57Z', 'timestamp': 1525481277331}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642963865', 'type': 'print'}, {'value': '9783642963841', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1977]]}, 'DOI': '10.1007/978-3-642-96384-1_4', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 1, 16]], 'date-time': '2012-01-16T10:07:13Z', 'timestamp': 1326708433000}, 'page': '128-159', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['On Biological Associative Memory'], 'prefix': '10.1007', 'author': [{'given': 'Teuvo', 'family': 'Kohonen', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Communication and Cybernetics', 'Associative Memory'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-96384-1_4', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2012, 1, 16]], 'date-time': '2012-01-16T10:07:33Z', 'timestamp': 1326708453000}, 'score': 43.10815, 'issued': {'date-parts': [[1977]]}, 'ISBN': ['9783642963865', '9783642963841'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-96384-1_4', 'ISSN': ['0340-0034'], 'issn-type': [{'value': '0340-0034', 'type': 'print'}]}
+>>> hash >>> ('On Biological Associative Memory', 1977.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M Werman The capacity of k-gridgraphs as assoclative memory Reports in Pattern Analysis No. 146, Division of Applied Mathematics, Brown University Providence (1987, August) RI 02912
+>>> DOI >>> 10.3808/jei.201700381
+>>> URL >>> http://dx.doi.org/10.3808/jei.201700381
+>>> year >>> 2018.0
+>>> title >>> Mining Spatio-temporal Data on Industrialization from Historical Registries
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Environmental Informatics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 17]], 'date-time': '2018-04-17T18:06:02Z', 'timestamp': 1523988362220}, 'reference-count': 0, 'publisher': 'International Society for Environmental Information Science (ISEIS)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J ENV INFORM'], 'DOI': '10.3808/jei.201700381', 'type': 'journal-article', 'created': {'date-parts': [[2018, 3, 26]], 'date-time': '2018-03-26T03:20:19Z', 'timestamp': 1522034419000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Mining Spatio-temporal Data on Industrialization from Historical Registries'], 'prefix': '10.3808', 'author': [{'given': 'D.', 'family': 'Berenbaum', 'sequence': 'first', 'affiliation': []}, {'name': 'Data Science Practice, Computing & Information Services, Brown University, 3 Davol Square, Providence, RI 02912, USA', 'sequence': 'first', 'affiliation': []}, {'given': 'D. ', 'family': 'Deighan', 'sequence': 'additional', 'affiliation': []}, {'given': 'T. ', 'family': 'Marlow', 'sequence': 'additional', 'affiliation': []}, {'given': 'A. ', 'family': 'Lee', 'sequence': 'additional', 'affiliation': []}, {'given': 'S. ', 'family': 'Frickel', 'sequence': 'additional', 'affiliation': []}, {'given': 'M. ', 'family': 'Howison', 'sequence': 'additional', 'affiliation': []}, {'name': 'Data Science Practice, Computing & Information Services, Brown University, 3 Davol Square, Providence, RI 02912, USA', 'sequence': 'additional', 'affiliation': []}, {'name': 'Institute at Brown for Environment and Society, Brown University, 80 Waterman Street, Providence, RI 02912, USA', 'sequence': 'additional', 'affiliation': []}, {'name': 'Data Science Practice, Computing & Information Services, Brown University, 3 Davol Square, Providence, RI 02912, USA', 'sequence': 'additional', 'affiliation': []}, {'name': 'Institute at Brown for Environment and Society, Brown University, 80 Waterman Street, Providence, RI 02912, USA', 'sequence': 'additional', 'affiliation': []}, {'name': 'Data Science Practice, Computing & Information Services, Brown University, 3 Davol Square, Providence, RI 02912, USA', 'sequence': 'additional', 'affiliation': []}], 'member': '2131', 'published-online': {'date-parts': [[2018]]}, 'container-title': ['Journal of Environmental Informatics'], 'deposited': {'date-parts': [[2018, 3, 26]], 'date-time': '2018-03-26T03:20:23Z', 'timestamp': 1522034423000}, 'score': 56.44055, 'issued': {'date-parts': [[2018]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3808/jei.201700381', 'ISSN': ['1726-2135', '1684-8799'], 'issn-type': [{'value': '1726-2135', 'type': 'print'}, {'value': '1684-8799', 'type': 'electronic'}]}
+>>> hash >>> ('Mining Spatio-temporal Data on Industrialization from Historical Registries', 2018.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J.A Anderson Two models for memory organization using interacting traces Mathematical Biosciences, 8 (1970), pp. 137-160
+>>> DOI >>> 10.1016/0025-5564(70)90147-1
+>>> URL >>> http://dx.doi.org/10.1016/0025-5564(70)90147-1
+>>> year >>> 1970.0
+>>> title >>> Two models for memory organization using interacting traces
+>>> author >>> James A. Anderson
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 49.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematical Biosciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T09:17:13Z', 'timestamp': 1525339033377}, 'reference-count': 16, 'publisher': 'Elsevier BV', 'issue': '1-2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1970, 6, 1]], 'date-time': '1970-06-01T00:00:00Z', 'timestamp': 13046400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Mathematical Biosciences'], 'published-print': {'date-parts': [[1970, 6]]}, 'DOI': '10.1016/0025-5564(70)90147-1', 'type': 'journal-article', 'created': {'date-parts': [[2002, 10, 9]], 'date-time': '2002-10-09T12:13:57Z', 'timestamp': 1034165637000}, 'page': '137-160', 'source': 'Crossref', 'is-referenced-by-count': 49, 'title': ['Two models for memory organization using interacting traces'], 'prefix': '10.1016', 'volume': '8', 'author': [{'given': 'James A.', 'family': 'Anderson', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Mathematical Biosciences'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0025556470901471?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0025556470901471?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 12, 28]], 'date-time': '2017-12-28T20:59:19Z', 'timestamp': 1514494759000}, 'score': 89.17675, 'issued': {'date-parts': [[1970, 6]]}, 'references-count': 16, 'journal-issue': {'published-print': {'date-parts': [[1970, 6]]}, 'issue': '1-2'}, 'alternative-id': ['0025556470901471'], 'URL': 'http://dx.doi.org/10.1016/0025-5564(70)90147-1', 'ISSN': ['0025-5564'], 'issn-type': [{'value': '0025-5564', 'type': 'print'}]}
+>>> hash >>> ('Two models for memory organization using interacting traces', 1970.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K Fukushima Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position Biological Cybernetics, 36 (1980), pp. 193-202
+>>> DOI >>> 10.1007/bf00344251
+>>> URL >>> http://dx.doi.org/10.1007/bf00344251
+>>> year >>> 1980.0
+>>> title >>> Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position
+>>> author >>> Kunihiko Fukushima
+>>> reference_count >>> 14.0
+>>> is_referenced_by_count >>> 1127.0
+>>> subject >>> None
+>>> container_title >>> ['Biological Cybernetics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T21:42:35Z', 'timestamp': 1528494155865}, 'reference-count': 14, 'publisher': 'Springer Nature', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Biol. Cybernetics'], 'published-print': {'date-parts': [[1980, 4]]}, 'DOI': '10.1007/bf00344251', 'type': 'journal-article', 'created': {'date-parts': [[2004, 10, 29]], 'date-time': '2004-10-29T14:35:10Z', 'timestamp': 1099060510000}, 'page': '193-202', 'source': 'Crossref', 'is-referenced-by-count': 1127, 'title': ['Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position'], 'prefix': '10.1007', 'volume': '36', 'author': [{'given': 'Kunihiko', 'family': 'Fukushima', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'CR1', 'first-page': '121', 'volume': '20', 'author': 'K. Fukushima', 'year': '1975', 'unstructured': 'Fukushima, K.: Cognitron: a self-organizing multilayered neural network. Biol. Cybernetics 20, 121?136 (1975)', 'journal-title': 'Biol. Cybernetics'}, {'key': 'CR2', 'author': 'K. Fukushima', 'year': '1978', 'unstructured': 'Fukushima, K.: Improvement in pattern-selectivity of a cognitron (in Japanese). Pap. Tech. Group MBE78-27, IECE Japan (1978)', 'series-title': '78-27', 'volume-title': 'Improvement in pattern-selectivity of a cognitron (in Japanese)'}, {'key': 'CR3', 'author': 'K. Fukushima', 'year': '1979', 'unstructured': 'Fukushima, K.: Self-organization of a neural network which gives position-invariant response (in Japanese). Pap. Tech. Group MBE 78-109, IECE Japan (1979a)', 'series-title': '78-109', 'volume-title': 'Self-organization of a neural network which gives position-invariant response'}, {'key': 'CR4', 'unstructured': 'Fukushima, K.: Self-organization of a neural network which gives position-invariant response. In: Proceedings of the Sixth International Joint Conference on Artificial Intelligence. Tokyo, August 20?23, 1979, pp. 291?293 (1979b)'}, {'key': 'CR5', 'first-page': '650', 'volume': '62', 'author': 'K. Fukushima', 'year': '1979', 'unstructured': 'Fukushima, K.: Improvement in pattern-selectivity of a cognitron (in Japanese). Trans. IECE Japan (A), J 62-A, 650?657 (1979c)', 'journal-title': 'Trans. IECE Japan (A), J'}, {'key': 'CR6', 'author': 'H. Giebel', 'first-page': '162', 'year': '1971', 'unstructured': 'Giebel, H.: Feature extraction and recognition of handwritten characters by homogeneous layers. In: Pattern recognition in biological and technical systems. Grüsser, O.-J., Klinke, R. (eds.), pp. 162?169. Berlin, Heidelberg, New York: Springer 1971', 'volume-title': 'Pattern recognition in biological and technical systems'}, {'key': 'CR7', 'first-page': '96', 'volume': '35', 'author': 'C.G. Gross', 'year': '1972', 'unstructured': 'Gross, C.G., Rocha-Miranda, C.E., Bender, D.B.: Visual properties of neurons in inferotemporal cortex of the macaque. J. Neurophysiol. 35, 96?111 (1972)', 'journal-title': 'J. Neurophysiol.'}, {'key': 'CR8', 'first-page': '106', 'volume': '160', 'author': 'D.H. Hubel', 'year': '1962', 'unstructured': "Hubel, D.H., Wiesel, T.N.: Receptive fields, binocular interaction and functional architecture in cat's visual cortex. J. Physiol. (London) 160, 106?154 (1962)", 'journal-title': 'J. Physiol. (London)'}, {'key': 'CR9', 'first-page': '229', 'volume': '28', 'author': 'D.H. Hubei', 'year': '1965', 'unstructured': 'Hubei, D.H., Wiesel, T.N.: Receptive fields and functional architecture in two nonstriate visual area (18 and 19) of the cat. J. Neurophysiol. 28, 229?289 (1965)', 'journal-title': 'J. Neurophysiol.'}, {'key': 'CR10', 'first-page': '1', 'volume': '198', 'author': 'D.H. Hubel', 'year': '1977', 'unstructured': 'Hubel, D.H., Wiesel, T.N.: Functional architecture of macaque monkey visual cortex. Proc. R. Soc. London, Ser. B 198, 1?59 (1977)', 'journal-title': 'Proc. R. Soc. London, Ser. B'}, {'key': 'CR11', 'author': 'M. Kabrisky', 'year': '1966', 'unstructured': 'Kabrisky, M.: A proposed model for visual information processing in the human brain. Urbana, London: Univ. of Illinois Press 1966', 'volume-title': 'A proposed model for visual information processing in the human brain'}, {'key': 'CR12', 'author': 'R.L. Meyer', 'first-page': '45', 'year': '1974', 'unstructured': 'Meyer, R.L., Sperry, R.W.: Explanatory models for neuroplasticity in retinotectral connections. In: Plasticity and function in the central nervous system. Stein, D.G., Rosen, J.J., Butters, N. (eds.), pp. 45?63. New York, San Francisco, London: Academic Press 1974', 'volume-title': 'Plasticity and function in the central nervous system'}, {'key': 'CR13', 'author': 'F. Rosenblatt', 'year': '1962', 'unstructured': 'Rosenblatt, F.: Principles of neurodynamics. Washington, D.C.: Spartan Books 1962', 'volume-title': 'Principles of neurodynamics'}, {'key': 'CR14', 'first-page': '285', 'volume': '40', 'author': 'T. Sato', 'year': '1978', 'unstructured': 'Sato, T., Kawamura, T., Iwai, E.: Responsiveness of neurons to visual patterns in inferotemporal cortex of behaving monkeys. J. Physiol. Soc. Jpn. 40, 285?286 (1978)', 'journal-title': 'J. Physiol. Soc. Jpn.'}], 'container-title': ['Biological Cybernetics'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF00344251', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 1, 11]], 'date-time': '2013-01-11T22:10:41Z', 'timestamp': 1357942241000}, 'score': 117.7125, 'issued': {'date-parts': [[1980, 4]]}, 'references-count': 14, 'journal-issue': {'published-print': {'date-parts': [[1980, 4]]}, 'issue': '4'}, 'alternative-id': ['BF00344251'], 'URL': 'http://dx.doi.org/10.1007/bf00344251', 'relation': {'cites': []}, 'ISSN': ['0340-1200', '1432-0770'], 'issn-type': [{'value': '0340-1200', 'type': 'print'}, {'value': '1432-0770', 'type': 'electronic'}]}
+>>> hash >>> ('Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H Marko, H Giebel Recognition of handwritten characters with a system of homogeneous layers Nachrichtentechnische Zeitschrift, 9 (1970), pp. 455-459
+>>> DOI >>> 10.1007/978-3-642-65175-5_15
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-65175-5_15
+>>> year >>> 1971.0
+>>> title >>> Feature Extraction and Recognition of Handwritten Characters by Homogeneous Layers
+>>> author >>> H. Giebel
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['Zeichenerkennung durch biologische und technische Systeme / Pattern Recognition in Biological and Technical Systems']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T16:59:20Z', 'timestamp': 1525453160152}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642651762', 'type': 'print'}, {'value': '9783642651755', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1971]]}, 'DOI': '10.1007/978-3-642-65175-5_15', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 10, 27]], 'date-time': '2011-10-27T03:53:45Z', 'timestamp': 1319687625000}, 'page': '162-169', 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['Feature Extraction and Recognition of Handwritten Characters by Homogeneous Layers'], 'prefix': '10.1007', 'author': [{'given': 'H.', 'family': 'Giebel', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Zeichenerkennung durch biologische und technische Systeme / Pattern Recognition in Biological and Technical Systems'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-65175-5_15', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 27]], 'date-time': '2014-01-27T13:00:24Z', 'timestamp': 1390827624000}, 'score': 47.03557, 'issued': {'date-parts': [[1971]]}, 'ISBN': ['9783642651762', '9783642651755'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-65175-5_15'}
+>>> hash >>> ('Feature Extraction and Recognition of Handwritten Characters by Homogeneous Layers', 1971.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J.J Hopfield, D.W Tank Collective computation with continuous variables E Bienenstock, F Fogelman SouliÃ©, G Weisbuch (Eds.), Disordered systems and biological organization, NATO ASI Series, Vol. F20, Springer, Berlin (1986), pp. 155-170
+>>> DOI >>> 10.1007/978-3-642-82657-3_16
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-82657-3_16
+>>> year >>> 1986.0
+>>> title >>> Collective Computation With Continuous Variables
+>>> author >>> J. J. Hopfield and D. W. Tank
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ['Disordered Systems and Biological Organization']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T21:29:45Z', 'timestamp': 1525469385207}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642826597', 'type': 'print'}, {'value': '9783642826573', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1986]]}, 'DOI': '10.1007/978-3-642-82657-3_16', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 12, 5]], 'date-time': '2011-12-05T12:06:16Z', 'timestamp': 1323086776000}, 'page': '155-170', 'source': 'Crossref', 'is-referenced-by-count': 8, 'title': ['Collective Computation With Continuous Variables'], 'prefix': '10.1007', 'author': [{'given': 'J. J.', 'family': 'Hopfield', 'sequence': 'first', 'affiliation': []}, {'given': 'D. W.', 'family': 'Tank', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Disordered Systems and Biological Organization'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-82657-3_16', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2011, 12, 5]], 'date-time': '2011-12-05T12:06:43Z', 'timestamp': 1323086803000}, 'score': 91.13099, 'issued': {'date-parts': [[1986]]}, 'ISBN': ['9783642826597', '9783642826573'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-82657-3_16'}
+>>> hash >>> ('Collective Computation With Continuous Variables', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> I.S Filotti, J.N Mayer A polynomial-time algorithm for determining the isomorphism of graphs of fixed genus Proceedings of the 11th ACM STOC Symposium (1980), pp. 27-37
+>>> DOI >>> 10.1145/800141.804671
+>>> URL >>> http://dx.doi.org/10.1145/800141.804671
+>>> year >>> 1980.0
+>>> title >>> A polynomial-time algorithm for determining the isomorphism of graphs of fixed genus
+>>> author >>> I. S. Filotti and Jack N. Mayer
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 17.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the twelfth annual ACM symposium on Theory of computing  - STOC '80"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:22Z', 'timestamp': 1525392382847}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897910176', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1980]]}, 'DOI': '10.1145/800141.804671', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 17, 'title': ['A polynomial-time algorithm for determining the isomorphism of graphs of fixed genus'], 'prefix': '10.1145', 'author': [{'given': 'I. S.', 'family': 'Filotti', 'sequence': 'first', 'affiliation': []}, {'given': 'Jack N.', 'family': 'Mayer', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the twelfth annual ACM symposium', 'location': 'Los Angeles, California, United States', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '80", 'start': {'date-parts': [[1980, 4, 28]]}, 'end': {'date-parts': [[1980, 4, 30]]}}, 'container-title': ["Proceedings of the twelfth annual ACM symposium on Theory of computing  - STOC '80"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=804671&amp;ftid=54045&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T04:02:46Z', 'timestamp': 1481860966000}, 'score': 97.29972, 'issued': {'date-parts': [[1980]]}, 'ISBN': ['0897910176'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/800141.804671'}
+>>> hash >>> ('A polynomial-time algorithm for determining the isomorphism of graphs of fixed genus', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G Palm On associative memory Biological Cybernetics, 36 (1980), pp. 19-31
+>>> DOI >>> 10.1007/bf00337019
+>>> URL >>> http://dx.doi.org/10.1007/bf00337019
+>>> year >>> 1980.0
+>>> title >>> On associative memory
+>>> author >>> G. Palm
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 235.0
+>>> subject >>> None
+>>> container_title >>> ['Biological Cybernetics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T18:42:36Z', 'timestamp': 1525804956463}, 'reference-count': 32, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Biol. Cybernetics'], 'published-print': {'date-parts': [[1980]]}, 'DOI': '10.1007/bf00337019', 'type': 'journal-article', 'created': {'date-parts': [[2004, 10, 29]], 'date-time': '2004-10-29T07:26:43Z', 'timestamp': 1099034803000}, 'page': '19-31', 'source': 'Crossref', 'is-referenced-by-count': 235, 'title': ['On associative memory'], 'prefix': '10.1007', 'volume': '36', 'author': [{'given': 'G.', 'family': 'Palm', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'CR1', 'first-page': '113', 'volume': '5', 'author': 'J.A. Anderson', 'year': '1968', 'unstructured': 'Anderson, J.A.: Kybernetik 5, 113 (1968)', 'journal-title': 'Kybernetik'}, {'key': 'CR2', 'first-page': '197', 'volume': '14', 'author': 'J.A. Anderson', 'year': '1972', 'unstructured': 'Anderson, J.A.: Math. Biosci. 14, 197 (1972)', 'journal-title': 'Math. Biosci.'}, {'key': 'CR3', 'author': 'W.R. Ashby', 'year': '1952', 'unstructured': 'Ashby, W.R.: Design for a brain. New York: Wiley 1952', 'volume-title': 'Design for a brain'}, {'key': 'CR4', 'author': 'V. Braitenberg', 'year': '1974', 'unstructured': 'Braitenberg, V.: Physics and mathematics of the nervous system. Conrad, M., Güttinger, W., Dal Cin, M. (eds.), p. 290 Berlin, Heidelberg, New York: Springer 1974', 'volume-title': 'Physics and mathematics of the nervous system'}, {'key': 'CR5', 'author': 'V. Braitenberg', 'year': '1977', 'unstructured': 'Braitenberg, V.: On the texture of brains. Berlin, Heidelberg, New York: Springer 1977', 'volume-title': 'On the texture of brains'}, {'key': 'CR6', 'author': 'V. Braitenberg', 'year': '1978', 'unstructured': 'Braitenberg, V.: Thebretical approaches to complex systems. Heim, R., Palm, G. (eds.) p. 171. Berlin, Heidelber, New York: Springer 1978', 'volume-title': 'Thebretical approaches to complex systems'}, {'key': 'CR7', 'author': 'S.R. Cajal', 'year': '1911', 'unstructured': "Cajal, S.R.: Histologie du système nerveux de l'homme et des vertébrés. Paris: Maloin 1911", 'volume-title': "Histologie du système nerveux de l'homme et des vertébrés"}, {'key': 'CR8', 'first-page': '156', 'volume': '13', 'author': 'D. Gabor', 'year': '1969', 'unstructured': 'Gabor, D.: IBM. J. Res. Dev. 13, 156 (1969)', 'journal-title': 'IBM. J. Res. Dev.'}, {'key': 'CR9', 'author': 'D.O. Hebb', 'year': '1949', 'unstructured': 'Hebb, D.O.: The organization of behaviour New York: Wiley 1949', 'volume-title': 'The organization of behaviour'}, {'key': 'CR10', 'first-page': '177', 'volume': '225', 'author': 'P.J. Heerden van', 'year': '1970', 'unstructured': 'van Heerden, P.J.: (and also Willshaw, D.J., Longuet-Higgins, H.C. and Buneman, O.P.) Nature 225, 177 and 178 (1970)', 'journal-title': 'Nature'}, {'key': 'CR11', 'first-page': '223', 'volume': '3', 'author': 'H.C. Longuet-Higgins', 'year': '1970', 'unstructured': 'Longuet-Higgins, H.C., Willshaw, D.J., Buneman, O.P.: Rev. Biophys. 3, 223 (1970)', 'journal-title': 'Rev. Biophys.'}, {'key': 'CR12', 'first-page': '353', 'volume': '21', 'author': 'T. Kohonen', 'year': '1972', 'unstructured': 'Kohonen, T.: IEEE Trans. Comp. C 21, 353 (1972)', 'journal-title': 'IEEE Trans. Comp. C'}, {'key': 'CR13', 'first-page': '444', 'volume': '23', 'author': 'T. Kohonen', 'year': '1974', 'unstructured': 'Kohonen, T., IEEE Trans. Comp. C 23 444 (1974)', 'journal-title': 'IEEE Trans. Comp. C'}, {'key': 'CR14', 'first-page': '85', 'volume': '21', 'author': 'T. Kohonen', 'year': '1976', 'unstructured': 'Kohonen, T., Oja, E.: Biol. Cybernetics 21, 85 (1976)', 'journal-title': 'Biol. Cybernetics'}, {'key': 'CR15', 'author': 'T. Kohonen', 'year': '1977', 'unstructured': 'Kohonen, T.: Associative memory. Berlin, Heidelber, New York: Springer 1977', 'volume-title': 'Associative memory'}, {'key': 'CR16', 'first-page': '85', 'volume': '14', 'author': 'C. v. d. Malsburg', 'year': '1973', 'unstructured': 'v. d. Malsburg, C.: Kybernetik 14, 85 (1973)', 'journal-title': 'Kybernetik'}, {'key': 'CR17', 'first-page': '437', 'volume': '202', 'author': 'D. Marr', 'year': '1969', 'unstructured': 'Marr, D.: J. Physiol. (London) 202, 437 (1969)', 'journal-title': 'J. Physiol. (London)'}, {'key': 'CR18', 'first-page': '161', 'volume': '176', 'author': 'D. Marr', 'year': '1970', 'unstructured': 'Marr, D.: Philos. Trans. R. Soc. London Ser. B 176, 161 (1970)', 'journal-title': 'Philos. Trans. R. Soc. London Ser. B'}, {'key': 'CR19', 'first-page': '23', 'volume': '262', 'author': 'D. Marr', 'year': '1971', 'unstructured': 'Marr, D.: Philos. Trans. R. Soc. London Ser. B 262, 23 (1971)', 'journal-title': 'Philos. Trans. R. Soc. London Ser. B'}, {'key': 'CR20', 'first-page': '1', 'volume': '19', 'author': 'M.M. Nass', 'year': '1975', 'unstructured': 'Nass, M.M., Cooper, L.N.: Biol. Cybernetics 19, 1 (1975)', 'journal-title': 'Biol. Cybernetics'}, {'key': 'CR21', 'first-page': '119', 'volume': '31', 'author': 'G. Palm', 'year': '1978', 'unstructured': 'Palm, G.: Biol. Cybernetics 31, 119 (1978)', 'journal-title': 'Biol. Cybernetics'}, {'key': 'CR22', 'first-page': '63', 'volume': '40', 'author': 'E. Pfaffelhuber', 'year': '1973', 'unstructured': 'Pfaffelhuber, E.: J. Theor. Biol. 40, 63 (1973)', 'journal-title': 'J. Theor. Biol.'}, {'key': 'CR23', 'first-page': '217', 'volume': '18', 'author': 'E. Pfaffelhuber', 'year': '1975', 'unstructured': 'Pfaffelhuber, E.: Biol. Cybernetics 18, 217 (1975)', 'journal-title': 'Biol. Cybernetics'}, {'key': 'CR24', 'first-page': '201', 'volume': '19', 'author': 'T. Poggio', 'year': '1975', 'unstructured': 'Poggio, T.: Biol. Cybernetics 19, 201 (1975)', 'journal-title': 'Biol. Cybernetics'}, {'key': 'CR25', 'author': 'F. Rosenblatt', 'year': '1962', 'unstructured': 'Rosenblatt, F.: Principles of neurodynamics, New York: Spartan Books 1962', 'volume-title': 'Principles of neurodynamics'}, {'key': 'CR26', 'first-page': '210', 'volume': '3', 'author': 'A.L. Samuel', 'year': '1959', 'unstructured': 'Samuel, A.L.: IBM.J. Res. Dev. 3, 210 (1959)', 'journal-title': 'IBM.J. Res. Dev.'}, {'key': 'CR27', 'first-page': '601', 'volume': '11', 'author': 'A.L. Samuel', 'year': '1967', 'unstructured': 'Samuel, A.L.: IBM. J. Res. Dev. 11, 601 (1967)', 'journal-title': 'IBM. J. Res. Dev.'}, {'key': 'CR28', 'first-page': '36', 'volume': '1', 'author': 'K. Steinbuch', 'year': '1961', 'unstructured': 'Steinbuch, K.: Kybernetik 1, 36 (1961)', 'journal-title': 'Kybernetik'}, {'key': 'CR29', 'author': 'A.M. Uttley', 'year': '1956', 'unstructured': 'Uttley, A.M.: Automata studies. Shannon, C.E., McCarthy, J. (eds.), pp. 252 and 237, Princeton: Princeton University Press 1956', 'volume-title': 'Automata studies'}, {'key': 'CR30', 'first-page': '960', 'volume': '222', 'author': 'D.J. Willshaw', 'year': '1969', 'unstructured': 'Willshaw, D.J., Buneman, O.P., Longuet-Higgins, H.C.: Nature 222, 960 (1969)', 'journal-title': 'Nature'}, {'key': 'CR31', 'unstructured': 'Willshaw, D.J.: Models of distributed associative memory. Thesis, University of Edinburgh 1971'}, {'key': 'CR32', 'first-page': '181', 'volume': '24', 'author': 'G. Willwacher', 'year': '1976', 'unstructured': 'Willwacher, G.: Biol. Cybernetics 24, 181 (1976)', 'journal-title': 'Biol. Cybernetics'}], 'container-title': ['Biological Cybernetics'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF00337019', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 1, 11]], 'date-time': '2013-01-11T18:03:22Z', 'timestamp': 1357927402000}, 'score': 66.15302, 'issued': {'date-parts': [[1980]]}, 'references-count': 32, 'journal-issue': {'published-print': {'date-parts': [[1980]]}, 'issue': '1'}, 'alternative-id': ['BF00337019'], 'URL': 'http://dx.doi.org/10.1007/bf00337019', 'relation': {'cites': []}, 'ISSN': ['0340-1200', '1432-0770'], 'issn-type': [{'value': '0340-1200', 'type': 'print'}, {'value': '1432-0770', 'type': 'electronic'}]}
+>>> hash >>> ('On associative memory', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J.J Hopfield Neural networks and physical systems with emergent collective computational abilities Proceedings of the National Academy of Sciences of the United States of America, 79 (1982), pp. 2554-2558
+>>> DOI >>> 10.1073/pnas.79.8.2554
+>>> URL >>> http://dx.doi.org/10.1073/pnas.79.8.2554
+>>> year >>> 1982.0
+>>> title >>> Neural networks and physical systems with emergent collective computational abilities.
+>>> author >>> J. J. Hopfield
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 7662.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the National Academy of Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T15:42:35Z', 'timestamp': 1528472555841}, 'reference-count': 0, 'publisher': 'Proceedings of the National Academy of Sciences', 'issue': '8', 'content-domain': {'domain': ['pnas.org'], 'crossmark-restriction': True}, 'short-container-title': ['Proceedings of the National Academy of Sciences'], 'published-print': {'date-parts': [[1982, 4, 1]]}, 'DOI': '10.1073/pnas.79.8.2554', 'type': 'journal-article', 'created': {'date-parts': [[2006, 5, 31]], 'date-time': '2006-05-31T09:05:08Z', 'timestamp': 1149066308000}, 'page': '2554-2558', 'update-policy': 'http://dx.doi.org/10.1073/pnas.cm10313', 'source': 'Crossref', 'is-referenced-by-count': 7662, 'title': ['Neural networks and physical systems with emergent collective computational abilities.'], 'prefix': '10.1073', 'volume': '79', 'author': [{'given': 'J. J.', 'family': 'Hopfield', 'sequence': 'first', 'affiliation': []}], 'member': '341', 'container-title': ['Proceedings of the National Academy of Sciences'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1073/pnas.79.8.2554', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 30]], 'date-time': '2017-03-30T19:44:20Z', 'timestamp': 1490903060000}, 'score': 98.908615, 'issued': {'date-parts': [[1982, 4, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1982, 4, 15]]}, 'issue': '8'}, 'URL': 'http://dx.doi.org/10.1073/pnas.79.8.2554', 'ISSN': ['0027-8424', '1091-6490'], 'issn-type': [{'value': '0027-8424', 'type': 'print'}, {'value': '1091-6490', 'type': 'electronic'}]}
+>>> hash >>> ('Neural networks and physical systems with emergent collective computational abilities.', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C von der Malsburg The correlation theory of brain function Internal Report 81-2, Department of Neurobiology, Max-Planck-Institute for Biophysical Chemistry, P.O. Box 2841, GÃ¶ttingen, F. R. G (1981)
+>>> DOI >>> 10.1007/978-1-4612-4320-5_2
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4612-4320-5_2
+>>> year >>> 1994.0
+>>> title >>> The Correlation Theory of Brain Function
+>>> author >>> Christoph von der Malsburg
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 35.0
+>>> subject >>> None
+>>> container_title >>> ['Models of Neural Networks', 'Physics of Neural Networks']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 1]], 'date-time': '2018-06-01T09:42:33Z', 'timestamp': 1527846153818}, 'publisher-location': 'New York, NY', 'reference-count': 0, 'publisher': 'Springer New York', 'isbn-type': [{'value': '9781461287360', 'type': 'print'}, {'value': '9781461243205', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1994]]}, 'DOI': '10.1007/978-1-4612-4320-5_2', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 9, 6]], 'date-time': '2011-09-06T15:02:29Z', 'timestamp': 1315321349000}, 'page': '95-119', 'source': 'Crossref', 'is-referenced-by-count': 35, 'title': ['The Correlation Theory of Brain Function'], 'prefix': '10.1007', 'author': [{'given': 'Christoph', 'family': 'von der Malsburg', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Models of Neural Networks', 'Physics of Neural Networks'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-1-4612-4320-5_2', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 28]], 'date-time': '2014-08-28T16:42:59Z', 'timestamp': 1409244179000}, 'score': 44.038334, 'issued': {'date-parts': [[1994]]}, 'ISBN': ['9781461287360', '9781461243205'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4612-4320-5_2', 'ISSN': ['0939-3145'], 'issn-type': [{'value': '0939-3145', 'type': 'print'}]}
+>>> hash >>> ('The Correlation Theory of Brain Function', 1994.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M.R Garey, D.S Johnson Computers and intractability Freeman, New York (1979)
+>>> DOI >>> 10.1137/1024022
+>>> URL >>> http://dx.doi.org/10.1137/1024022
+>>> year >>> 1982.0
+>>> title >>> Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)
+>>> author >>> Juris Hartmanis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Review']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:58:37Z', 'timestamp': 1525445917657}, 'reference-count': 0, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM Rev.'], 'published-print': {'date-parts': [[1982, 1]]}, 'DOI': '10.1137/1024022', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 7]], 'date-time': '2005-03-07T06:58:10Z', 'timestamp': 1110178690000}, 'page': '90-91', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)'], 'prefix': '10.1137', 'volume': '24', 'author': [{'given': 'Juris', 'family': 'Hartmanis', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Review'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/1024022', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T18:00:43Z', 'timestamp': 1485712843000}, 'score': 32.381092, 'issued': {'date-parts': [[1982, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1982, 1]]}, 'issue': '1'}, 'alternative-id': ['10.1137/1024022'], 'URL': 'http://dx.doi.org/10.1137/1024022', 'ISSN': ['0036-1445', '1095-7200'], 'issn-type': [{'value': '0036-1445', 'type': 'print'}, {'value': '1095-7200', 'type': 'electronic'}]}
+>>> hash >>> ('Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N Metropolis, A.W Rosenbluth, M.N Rosenbluth, A.H Teller, E Teller Equations of state calculations by fast computing machines Journal of Chemical Physics, 21 (1983), pp. 1087-1091
+>>> DOI >>> 10.2172/4390578
+>>> URL >>> http://dx.doi.org/10.2172/4390578
+>>> year >>> 1953.0
+>>> title >>> Equation of state calculations by fast computing machines
+>>> author >>> Nicholas Metropolis and Arianna W. Rosenbluth and Marshall N. Rosenbluth and Augusta H. Teller and Edward Teller
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 10.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'Division of Technical Information Extension', 'place': ['U.S. Atomic Energy Commission', '-', '-', '-'], 'acronym': ['DTIE', '-', '-', '-']}, 'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T14:28:49Z', 'timestamp': 1525703329019}, 'reference-count': 0, 'publisher': 'Office of Scientific and Technical Information  (OSTI)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.2172/4390578', 'type': 'report', 'created': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T02:41:20Z', 'timestamp': 1497667280000}, 'source': 'Crossref', 'is-referenced-by-count': 10, 'title': ['Equation of state calculations by fast computing machines'], 'prefix': '10.2172', 'author': [{'given': 'Nicholas', 'family': 'Metropolis', 'sequence': 'first', 'affiliation': []}, {'given': 'Arianna W.', 'family': 'Rosenbluth', 'sequence': 'additional', 'affiliation': []}, {'given': 'Marshall N.', 'family': 'Rosenbluth', 'sequence': 'additional', 'affiliation': []}, {'given': 'Augusta H.', 'family': 'Teller', 'sequence': 'additional', 'affiliation': []}, {'given': 'Edward', 'family': 'Teller', 'sequence': 'additional', 'affiliation': []}], 'member': '960', 'published-online': {'date-parts': [[1953, 3, 6]]}, 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T02:54:47Z', 'timestamp': 1497927287000}, 'score': 100.345726, 'issued': {'date-parts': [[1953, 3, 6]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.2172/4390578'}
+>>> hash >>> ('Equation of state calculations by fast computing machines', 1953.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C von der Malsburg, E Bienenstock A neural network for the retrieval of superimposed connection patterns Europhysics Letters, 3 (1987), pp. 1243-1249
+>>> DOI >>> 10.1209/0295-5075/3/11/015
+>>> URL >>> http://dx.doi.org/10.1209/0295-5075/3/11/015
+>>> year >>> 1987.0
+>>> title >>> A Neural Network for the Retrieval of Superimposed Connection Patterns
+>>> author >>> C. von der Malsburg and E Bienenstock
+>>> reference_count >>> 24.0
+>>> is_referenced_by_count >>> 48.0
+>>> subject >>> None
+>>> container_title >>> ['Europhysics Letters (EPL)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T21:32:40Z', 'timestamp': 1525383160273}, 'reference-count': 24, 'publisher': 'IOP Publishing', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Europhys. Lett.'], 'published-print': {'date-parts': [[1987, 6, 1]]}, 'DOI': '10.1209/0295-5075/3/11/015', 'type': 'journal-article', 'created': {'date-parts': [[2007, 7, 26]], 'date-time': '2007-07-26T03:53:53Z', 'timestamp': 1185422033000}, 'page': '1243-1249', 'source': 'Crossref', 'is-referenced-by-count': 48, 'title': ['A Neural Network for the Retrieval of Superimposed Connection Patterns'], 'prefix': '10.1209', 'volume': '3', 'author': [{'given': 'C. von der', 'family': 'Malsburg', 'sequence': 'first', 'affiliation': []}, {'given': 'E', 'family': 'Bienenstock', 'sequence': 'additional', 'affiliation': []}], 'member': '266', 'published-online': {'date-parts': [[2007, 7, 25]]}, 'container-title': ['Europhysics Letters (EPL)'], 'link': [{'URL': 'http://stacks.iop.org/0295-5075/3/i=11/a=015/pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 3, 7]], 'date-time': '2018-03-07T15:25:08Z', 'timestamp': 1520436308000}, 'score': 92.408104, 'issued': {'date-parts': [[1987, 6, 1]]}, 'references-count': 24, 'journal-issue': {'published-print': {'date-parts': [[1987, 6, 1]]}, 'issue': '11'}, 'URL': 'http://dx.doi.org/10.1209/0295-5075/3/11/015', 'ISSN': ['0295-5075', '1286-4854'], 'issn-type': [{'value': '0295-5075', 'type': 'print'}, {'value': '1286-4854', 'type': 'electronic'}]}
+>>> hash >>> ('A Neural Network for the Retrieval of Superimposed Connection Patterns', 1987.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H.J Reitboeck, J Altmann A model for size- and rotation-invariant pattern processing in the visual system Biological Cybernetics, 51 (1984), pp. 113-121
+>>> DOI >>> 10.1007/bf00357924
+>>> URL >>> http://dx.doi.org/10.1007/bf00357924
+>>> year >>> 1984.0
+>>> title >>> A model for size- and rotation-invariant pattern processing in the visual system
+>>> author >>> H. J. Reitboeck and J. Altmann
+>>> reference_count >>> 44.0
+>>> is_referenced_by_count >>> 31.0
+>>> subject >>> None
+>>> container_title >>> ['Biological Cybernetics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T08:34:36Z', 'timestamp': 1525422876063}, 'reference-count': 44, 'publisher': 'Springer Nature', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Biol. Cybern.'], 'published-print': {'date-parts': [[1984, 11]]}, 'DOI': '10.1007/bf00357924', 'type': 'journal-article', 'created': {'date-parts': [[2004, 10, 31]], 'date-time': '2004-10-31T16:38:01Z', 'timestamp': 1099240681000}, 'page': '113-121', 'source': 'Crossref', 'is-referenced-by-count': 31, 'title': ['A model for size- and rotation-invariant pattern processing in the visual system'], 'prefix': '10.1007', 'volume': '51', 'author': [{'given': 'H. J.', 'family': 'Reitboeck', 'sequence': 'first', 'affiliation': []}, {'given': 'J.', 'family': 'Altmann', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'CR1', 'first-page': '89', 'volume': '35', 'author': 'J.H. Allman', 'year': '1971', 'unstructured': 'Allman, J.H., Kaas, J.H.: Representation of the visual field in striate and adjoining cortex of the owl monkey (Aotus trivirgatus). Brain Res. 35, 89?106 (1971)', 'journal-title': 'Brain Res.'}, {'key': 'CR2', 'first-page': '174', 'volume': '63', 'author': 'R.A. Altes', 'year': '1978', 'unstructured': 'Altes, R.A.: The Fourier-Mellin transform and mammalian hearing. J. Acoust. Soc. Am. 63, 174?183 (1978)', 'journal-title': 'J. Acoust. Soc. Am.'}, {'key': 'CR3', 'first-page': '46', 'volume': '6', 'author': 'J. Altmann', 'year': '1984', 'unstructured': 'Altmann, J., Reitboeck, H.J.: A last correlation method for scale and translation-invariant pattern recognition. IEEE Trans. PAMI 6, 46?57 (1984)', 'journal-title': 'IEEE Trans. PAMI'}, {'key': 'CR4', 'unstructured': 'Altmann, J.: Fast digital rotation-, scale-, and translationinvariant pattern recognition using second moments (submitted for publication)'}, {'key': 'CR5', 'first-page': '237', 'volume': '203', 'author': 'C.B. Blakemore', 'year': '1969', 'unstructured': 'Blakemore, C.B., Campbell, F.W.: On the existence of neurones in the human visual system selectively sensitive to the orientation and size of retinal images. J. Physiol. 203, 237?260 (1969)', 'journal-title': 'J. Physiol.'}, {'key': 'CR6', 'first-page': '47', 'volume': '44', 'author': 'C. Braccini', 'year': '1982', 'unstructured': 'Braccini, C., Gambardella, G., Sandini, G., Tagliasco, V.: A model of the early stages of the human visual system: functional and topological transformations performed in the peripheral visual field. Biol. Cybern. 44, 47?58 (1982)', 'journal-title': 'Biol. Cybern.'}, {'key': 'CR7', 'first-page': '818', 'volume': '16', 'author': 'J.K. Brousil', 'year': '1967', 'unstructured': 'Brousil, J.K., Smith, D.R.: A threshold logic network for shape invariance. IEEE Trans. EC 16, 818?828 (1967)', 'journal-title': 'IEEE Trans. EC'}, {'key': 'CR8', 'first-page': '214', 'volume': '1', 'author': 'C. Bundesen', 'year': '1975', 'unstructured': 'Bundesen, C., Larsen, A.: Visual transformation of size. J. Exp. Psychol. Hum. Perc. Performance 1, 214?220 (1975)', 'journal-title': 'J. Exp. Psychol. Hum. Perc. Performance'}, {'key': 'CR9', 'first-page': '517', 'volume': '28', 'author': 'H. Burkhardt', 'year': '1980', 'unstructured': 'Burkhardt, H., Müller, X.: On invariant sets of a certain class of fast translation-invariant transforms. IEEE Trans. ASSP 28, 517?523 (1980)', 'journal-title': 'IEEE Trans. ASSP'}, {'key': 'CR10', 'first-page': '237', 'volume': '198', 'author': 'F.W. Campbell', 'year': '1968', 'unstructured': 'Campbell, F.W., Cleland, B.G., Cooper, G.F., Enroth-Cugell, C.: The angular selectivity of visual cortical cells to moving gratings. J. Physiol. 198, 237?250 (1968)', 'journal-title': 'J. Physiol.'}, {'key': 'CR11', 'first-page': '555', 'volume': '60', 'author': 'F.W. Campbell', 'year': '1970', 'unstructured': 'Campbell, F.W., Nachmias, J., Jukes, J.: Spatial frequency discrimination in human vision. J. Opt. Soc. Am. 60, 555?559 (1970)', 'journal-title': 'J. Opt. Soc. Am.'}, {'key': 'CR12', 'first-page': '1795', 'volume': '15', 'author': 'D. Casasent', 'year': '1976', 'unstructured': 'Casasent, D., Psaltis, D.: Position, rotation, and scale invariant optical correlation. Appl. Optics 15, 1795?1799 (1976)', 'journal-title': 'Appl. Optics'}, {'key': 'CR13', 'first-page': '167', 'volume': '7', 'author': 'P. Cavanagh', 'year': '1978', 'unstructured': 'Cavanagh, P.: Size and position invariance in the visual system. Perception 7, 167?177 (1978)', 'journal-title': 'Perception'}, {'key': 'CR14', 'first-page': '469', 'volume': '10', 'author': 'P. Cavanagh', 'year': '1981', 'unstructured': 'Cavanagh, P.: Size invariance: reply to Schwartz. Perception 10, 469?474 (1981)', 'journal-title': 'Perception'}, {'key': 'CR15', 'first-page': '1409', 'volume': '22', 'author': 'P. Cavanagh', 'year': '1982', 'unstructured': 'Cavanagh, P.: Functional size invariance is not provided by the cortical magnification factor. Vision Res. 22, 1409?1412 (1982)', 'journal-title': 'Vision Res.'}, {'key': 'CR16', 'first-page': '492', 'volume': '15', 'author': 'J.D. Cowan', 'year': '1977', 'unstructured': 'Cowan, J.D.: Some remarks on channel bandwidths for visual contrast detection. Neurosci. Res. Program Bull. 15, 492?517 (1977)', 'journal-title': 'Neurosci. Res. Program Bull.'}, {'key': 'CR17', 'first-page': '366', 'volume': '27', 'author': 'A. Cowey', 'year': '1964', 'unstructured': 'Cowey, A.: Projection of the retina onto striate and prestriate cortex in the squirrel monkey (Saimiri sciureus). J. Neurophysiol. 27, 366?393 (1964)', 'journal-title': 'J. Neurophysiol.'}, {'key': 'CR18', 'first-page': '203', 'volume': '159', 'author': 'P.M. Daniel', 'year': '1961', 'unstructured': 'Daniel, P.M., Whitteridge, D.: The representation of the visual field on the cerebral cortex in monkeys. J. Physiol. 159, 203?221 (1961)', 'journal-title': 'J. Physiol.'}, {'key': 'CR19', 'first-page': '213', 'volume': '44', 'author': 'B.M. Dow', 'year': '1981', 'unstructured': 'Dow, B.M., Snyder, A.Z., Vautin, R.G., Bauer, R.: Magnification factor and receptive field size in foveal striate cortex of the monkey. Exp. Brain Res. 44, 213?228 (1981)', 'journal-title': 'Exp. Brain Res.'}, {'key': 'CR20', 'first-page': '175', 'volume': '49', 'author': 'L.I. Epstein', 'year': '1984', 'unstructured': "Epstein, L.I.: An attempt to explain the differences between the upper and lower halves of the striate cortical map of the cat's field of view. Biol. Cybern. 49, 175?177 (1984)", 'journal-title': 'Biol. Cybern.'}, {'key': 'CR21', 'first-page': '137', 'volume': '34', 'author': 'G.B. Ermentrout', 'year': '1979', 'unstructured': 'Ermentrout, G.B., Cowan, J.D.: A mathematical theory of visual hallucination patterns. Biol. Cybern. 34, 137?150 (1979)', 'journal-title': 'Biol. Cybern.'}, {'key': 'CR22', 'first-page': '2113', 'volume': '13', 'author': 'B. Fischer', 'year': '1973', 'unstructured': "Fischer, B.: Overlap of receptive field centers and representation of the visual field in the cat's optic tract. Vision Res. 13, 2113?2120 (1973)", 'journal-title': 'Vision Res.'}, {'key': 'CR23', 'first-page': '804', 'volume': '218', 'author': 'V.D. Hollard', 'year': '1982', 'unstructured': 'Hollard, V.D., Delius, J.D.: Rotational invariance in visual pattern recognition by pigeons and humans. Science 218, 804?806 (1982)', 'journal-title': 'Science'}, {'key': 'CR24', 'unstructured': 'Huang, G.C., Russell, F.D., Chen, W.H.: Pattern recognition by Mellin transform. EIA/APr Symp., Univ. Maryland, April 1975'}, {'key': 'CR25', 'first-page': '1255', 'volume': '13', 'author': 'L. Maffei', 'year': '1973', 'unstructured': 'Maffei, L., Fiorentini, A.: The visual cortex as a spatial frequency analyser. Vision Res 13, 1255?1267 (1973)', 'journal-title': 'Vision Res'}, {'key': 'CR26', 'first-page': '257', 'volume': '17', 'author': 'L. Maffei', 'year': '1977', 'unstructured': 'Maffei, L., Fiorentini, A.: Spatial frequency rows in the striate visual cortex. Vision Res. 17, 257?264 (1977)', 'journal-title': 'Vision Res.'}, {'key': 'CR27', 'first-page': '187', 'volume': '207', 'author': 'D. Marr', 'year': '1980', 'unstructured': 'Marr, D., Hildreth, E.: Theory of edge detection Proc. R. Soc. London B 207, 187?217 (1980)', 'journal-title': 'Proc. R. Soc. London B'}, {'key': 'CR28', 'unstructured': 'Müller, X.: Schnelle, translationsinvariante Transformationen zur Bearbeitung digitaler Grauwertbilder, Fortsch.-Ber. VDI-Z. Reihe 10, Nr. 17, 1982'}, {'key': 'CR29', 'unstructured': 'Müller, X., Burkhardt, H.: Two-dimensional, fast translation invariant transforms with improved mapping properties. Proc. 6th Intern. Conf. Pattern Recognition, Munich, 427?430, Oct. 19?22, 1982'}, {'key': 'CR30', 'first-page': '130', 'volume': '15', 'author': 'H.J. Reiboeck', 'year': '1969', 'unstructured': 'Reiboeck, H.J. Brody, T.P.: A transformation with invariance under cyclic permutation for applications in pattern recognition. Inf. Control. 15, 130?154 (1969)', 'journal-title': 'Inf. Control.'}, {'key': 'CR31', 'unstructured': 'Reitboek, H.J.: An algorithm for the shift-and size-invariant description of patterns, Westinghouse Rep. 78-IFO-FEATR-01, 1978'}, {'key': 'CR32', 'author': 'H.J. Reitboeck', 'year': '1983', 'unstructured': 'Reitboeck, H.J.: A multi-electrode matrix for studies of temporal signal correlations within neural assemblies In: Basar, E., Flohr, H., Haken, H., Mandell, A.J., eds. Synergetics of the brain. Berlin, Heidelberg, New York, Tokyo: Springer 1983', 'volume-title': 'Synergetics of the brain'}, {'key': 'CR33', 'first-page': '181', 'volume': '25', 'author': 'E.L. Schwartz', 'year': '1977', 'unstructured': 'Schwartz, E.L.: Spatial mapping in the primate sensory projection: analytic structure and relevance to perception. Biol. Cybern. 25, 181?194 (1977a)', 'journal-title': 'Biol. Cybern.'}, {'key': 'CR34', 'first-page': '1', 'volume': '28', 'author': 'E.L. Schwartz', 'year': '1977', 'unstructured': 'Schwartz, E.L.: Afferent geometry in the primate visual cortex and the generation of neuronal trigger features. Biol. Cybern. 28, 1?14 (1977b)', 'journal-title': 'Biol. Cybern.'}, {'key': 'CR35', 'first-page': '63', 'volume': '37', 'author': 'E.L. Schwartz', 'year': '1980', 'unstructured': 'Schwartz, E.L.: A quantitative model of the functional architecture of human striate cortex with application to visual illusion and cortical texture analysis. Biol. Cybern. 37, 63?76 (1980a)', 'journal-title': 'Biol. Cybern.'}, {'key': 'CR36', 'first-page': '645', 'volume': '20', 'author': 'E.L. Schwartz', 'year': '1980', 'unstructured': 'Schwartz, E.L.: Computational anatomy and functional architecture of striate cortex: a spatial mapping approach to perceptual coding. Vision Res. 20, 645?669 (1980b)', 'journal-title': 'Vision Res.'}, {'key': 'CR37', 'first-page': '455', 'volume': '10', 'author': 'E.L. Schwartz', 'year': '1981', 'unstructured': 'Schwartz, E.L.: Cortical anatomy, size invariance, and spatial frequency analysis. Perception 10, 455?468 (1981)', 'journal-title': 'Perception'}, {'key': 'CR38', 'first-page': '831', 'volume': '23', 'author': 'E.L. Schwartz', 'year': '1983', 'unstructured': 'Schwartz, E.L.: Cortical mapping and perceptual invariance: a reply to Cavanagh. Vision Res. 23, 831?835 (1983)', 'journal-title': 'Vision Res.'}, {'key': 'CR39', 'first-page': '213', 'volume': '177', 'author': 'R.J. Tusa', 'year': '1978', 'unstructured': 'Tusa, R.J., Palmer, L.A., Rosenquist, A.C.: The retinotopic organization of area 17 (striate cortex) in the cat. J. Comp. Neurol. 177, 213?236 (1978)', 'journal-title': 'J. Comp. Neurol.'}, {'key': 'CR40', 'first-page': '545', 'volume': '22', 'author': 'R.L. Valois de', 'year': '1982', 'unstructured': 'Valois, de R.L., Albrecht, D.G., Thorell, L.G.: Spatial frequency selectivity of cells in macaque visual cortex. Vision Res. 22, 545?559 (1982)', 'journal-title': 'Vision Res.'}, {'key': 'CR41', 'first-page': '163', 'volume': '5', 'author': 'M.D. Wagh', 'year': '1975', 'unstructured': 'Wagh, M.D., Kanetkar, S.V.: A multiplexing theorem and generalisation of R-transform. Intern. J. Computer Math. (Sect. A) 5, 163?171 (1975)', 'journal-title': 'Intern. J. Computer Math. (Sect. A)'}, {'key': 'CR42', 'first-page': '203', 'volume': '25', 'author': 'M.D. Wagh', 'year': '1977', 'unstructured': 'Wagh, M.D., Kanetkar, S.V.: A class of translation invariant transforms. IEEE Trans. ASSP 25, 203?205 (1977)', 'journal-title': 'IEEE Trans. ASSP'}, {'key': 'CR43', 'first-page': '197', 'volume': '11', 'author': 'C.F.R. Weiman', 'year': '1979', 'unstructured': 'Weiman, C.F.R., Chaikin, G.: Logarithmic spiral grids for image processing and display. Comput. Graph. Im. Proc. 11, 197?226 (1979)', 'journal-title': 'Comput. Graph. Im. Proc.'}, {'key': 'CR44', 'first-page': '507', 'volume': '15', 'author': 'G. West', 'year': '1979', 'unstructured': 'West, G., Reitboeck, H.J.: Zur ähnlichkeitsinvarianten Mustererkennung mittels der Fourier-Mellin-Transformation. Elektron. Informationsverarbeitung Kybernetik 15, 507?512 (1979)', 'journal-title': 'Elektron. Informationsverarbeitung Kybernetik'}], 'container-title': ['Biological Cybernetics'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF00357924', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 1, 11]], 'date-time': '2013-01-11T21:43:24Z', 'timestamp': 1357940604000}, 'score': 94.45122, 'issued': {'date-parts': [[1984, 11]]}, 'references-count': 44, 'journal-issue': {'published-print': {'date-parts': [[1984, 11]]}, 'issue': '2'}, 'alternative-id': ['BF00357924'], 'URL': 'http://dx.doi.org/10.1007/bf00357924', 'relation': {'cites': []}, 'ISSN': ['0340-1200', '1432-0770'], 'issn-type': [{'value': '0340-1200', 'type': 'print'}, {'value': '1432-0770', 'type': 'electronic'}]}
+>>> hash >>> ('A model for size- and rotation-invariant pattern processing in the visual system', 1984.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L.N Cooper A possible organization of animal memory and learning B Lundquist, S Lundquist (Eds.), Proceedings of the Nobel Symposium on Collective Properties of Physical Systems, Academic Press, New York (1974), pp. 252-264
+>>> DOI >>> 10.1016/b978-0-12-460350-9.50043-6
+>>> URL >>> http://dx.doi.org/10.1016/b978-0-12-460350-9.50043-6
+>>> year >>> 1973.0
+>>> title >>> A Possible Organization of Animal Memory and Learning11This work was supported in part by the US National Science Foundation.
+>>> author >>> L.N. Cooper
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['Collective Properties of Physical Systems']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T01:31:13Z', 'timestamp': 1525829473794}, 'reference-count': 19, 'publisher': 'Elsevier', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1973, 1, 1]], 'date-time': '1973-01-01T00:00:00Z', 'timestamp': 94694400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1973]]}, 'DOI': '10.1016/b978-0-12-460350-9.50043-6', 'type': 'book-chapter', 'created': {'date-parts': [[2014, 8, 15]], 'date-time': '2014-08-15T04:26:24Z', 'timestamp': 1408076784000}, 'page': '252-264', 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['A Possible Organization of Animal Memory and Learning11This work was supported in part by the US National Science Foundation.'], 'prefix': '10.1016', 'author': [{'given': 'L.N.', 'family': 'Cooper', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Collective Properties of Physical Systems'], 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:B9780124603509500436?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:B9780124603509500436?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T18:36:08Z', 'timestamp': 1498156568000}, 'score': 57.068344, 'issued': {'date-parts': [[1973]]}, 'ISBN': ['9780124603509'], 'references-count': 19, 'URL': 'http://dx.doi.org/10.1016/b978-0-12-460350-9.50043-6'}
+>>> hash >>> ('A Possible Organization of Animal Memory and Learning11This work was supported in part by the US National Science Foundation.', 1973.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> F Rosenblatt Principles of neurodynamics: Perceptrons and the theory of brain mechanisms Spartan Books, Washington (1961)
+>>> DOI >>> 10.21236/ad0256582
+>>> URL >>> http://dx.doi.org/10.21236/ad0256582
+>>> year >>> 1961.0
+>>> title >>> PRINCIPLES OF NEURODYNAMICS. PERCEPTRONS AND THE THEORY OF BRAIN MECHANISMS
+>>> author >>> FRANK ROSENBLATT
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 82.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'US Dept of the Navy', 'place': ['-', '-'], 'department': ['Funding', 'Performing'], 'acronym': ['ONR', '-']}, 'indexed': {'date-parts': [[2018, 5, 27]], 'date-time': '2018-05-27T20:22:28Z', 'timestamp': 1527452548859}, 'publisher-location': 'Fort Belvoir, VA', 'reference-count': 0, 'publisher': 'Defense Technical Information Center', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1961, 3, 15]]}, 'DOI': '10.21236/ad0256582', 'type': 'report', 'created': {'date-parts': [[2017, 9, 15]], 'date-time': '2017-09-15T11:56:51Z', 'timestamp': 1505476611000}, 'source': 'Crossref', 'is-referenced-by-count': 82, 'title': ['PRINCIPLES OF NEURODYNAMICS. PERCEPTRONS AND THE THEORY OF BRAIN MECHANISMS'], 'prefix': '10.21236', 'author': [{'given': 'FRANK', 'family': 'ROSENBLATT', 'sequence': 'first', 'affiliation': []}], 'member': '9879', 'original-title': [''], 'deposited': {'date-parts': [[2017, 9, 15]], 'date-time': '2017-09-15T11:56:52Z', 'timestamp': 1505476612000}, 'score': 74.75291, 'subtitle': [''], 'issued': {'date-parts': [[1961, 3, 15]]}, 'references-count': 0, 'alternative-id': ['VG-1196-G-8'], 'URL': 'http://dx.doi.org/10.21236/ad0256582'}
+>>> hash >>> ('PRINCIPLES OF NEURODYNAMICS. PERCEPTRONS AND THE THEORY OF BRAIN MECHANISMS', 1961.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J.L.C Sanz Mathematical considerations for the problem of Fourier transform phase retrieval from magnitude SIAM Journal of Applied Mathematics, 45 (1985), pp. 651-664
+>>> DOI >>> 10.1137/0145038
+>>> URL >>> http://dx.doi.org/10.1137/0145038
+>>> year >>> 1985.0
+>>> title >>> Mathematical Considerations for the Problem of Fourier Transform Phase Retrieval from Magnitude
+>>> author >>> Jorge L. C. Sanz
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 33.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Applied Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:26:31Z', 'timestamp': 1525443991692}, 'reference-count': 18, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Appl. Math.'], 'published-print': {'date-parts': [[1985, 8]]}, 'DOI': '10.1137/0145038', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 23]], 'date-time': '2005-02-23T14:39:13Z', 'timestamp': 1109169553000}, 'page': '651-664', 'source': 'Crossref', 'is-referenced-by-count': 33, 'title': ['Mathematical Considerations for the Problem of Fourier Transform Phase Retrieval from Magnitude'], 'prefix': '10.1137', 'volume': '45', 'author': [{'given': 'Jorge L. C.', 'family': 'Sanz', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Applied Mathematics'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0145038', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T17:45:04Z', 'timestamp': 1485711904000}, 'score': 98.65197, 'issued': {'date-parts': [[1985, 8]]}, 'references-count': 18, 'journal-issue': {'published-print': {'date-parts': [[1985, 8]]}, 'issue': '4'}, 'alternative-id': ['10.1137/0145038'], 'URL': 'http://dx.doi.org/10.1137/0145038', 'ISSN': ['0036-1399', '1095-712X'], 'issn-type': [{'value': '0036-1399', 'type': 'print'}, {'value': '1095-712X', 'type': 'electronic'}]}
+>>> hash >>> ('Mathematical Considerations for the Problem of Fourier Transform Phase Retrieval from Magnitude', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D Gabor Theory of communication Journal of the Institute of Electrical Engineers, 93 (1946), pp. 429-459 London
+>>> DOI >>> 10.1049/ji-3-2.1946.0074
+>>> URL >>> http://dx.doi.org/10.1049/ji-3-2.1946.0074
+>>> year >>> 1946.0
+>>> title >>> Theory of communication. Part 1: The analysis of information
+>>> author >>> D. Gabor
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 171.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the Institution of Electrical Engineers - Part III: Radio and Communication Engineering']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T14:42:43Z', 'timestamp': 1527000163164}, 'reference-count': 0, 'publisher': 'Institution of Engineering and Technology (IET)', 'issue': '26', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1946, 11]]}, 'DOI': '10.1049/ji-3-2.1946.0074', 'type': 'journal-article', 'created': {'date-parts': [[2014, 4, 11]], 'date-time': '2014-04-11T11:53:51Z', 'timestamp': 1397217231000}, 'page': '429-441', 'source': 'Crossref', 'is-referenced-by-count': 171, 'title': ['Theory of communication. Part 1: The analysis of information'], 'prefix': '10.1049', 'volume': '93', 'author': [{'given': 'D.', 'family': 'Gabor', 'sequence': 'first', 'affiliation': []}], 'member': '265', 'container-title': ['Journal of the Institution of Electrical Engineers - Part III: Radio and Communication Engineering'], 'language': 'en', 'deposited': {'date-parts': [[2014, 4, 11]], 'date-time': '2014-04-11T11:56:41Z', 'timestamp': 1397217401000}, 'score': 47.659843, 'issued': {'date-parts': [[1946, 11]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1946, 11]]}, 'issue': '26'}, 'URL': 'http://dx.doi.org/10.1049/ji-3-2.1946.0074', 'ISSN': ['2054-0604'], 'issn-type': [{'value': '2054-0604', 'type': 'electronic'}]}
+>>> hash >>> ('Theory of communication. Part 1: The analysis of information', 1946.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C von der Malsburg Nervous structures with dynamical links Berichte der Bunsengesellschaft fÃ¼r Physikalische Chemie, 89 (1985), pp. 703-710
+>>> DOI >>> 10.1002/bbpc.19850890625
+>>> URL >>> http://dx.doi.org/10.1002/bbpc.19850890625
+>>> year >>> 1985.0
+>>> title >>> Nervous Structures with Dynamical Links
+>>> author >>> C. Von Der Malsburg
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 112.0
+>>> subject >>> None
+>>> container_title >>> ['Berichte der Bunsengesellschaft für physikalische Chemie']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T14:56:48Z', 'timestamp': 1525532208214}, 'reference-count': 17, 'publisher': 'Wiley', 'issue': '6', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 11049, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Berichte der Bunsengesellschaft für physikalische Chemie'], 'published-print': {'date-parts': [[1985, 6]]}, 'DOI': '10.1002/bbpc.19850890625', 'type': 'journal-article', 'created': {'date-parts': [[2012, 7, 28]], 'date-time': '2012-07-28T03:26:35Z', 'timestamp': 1343445995000}, 'page': '703-710', 'source': 'Crossref', 'is-referenced-by-count': 112, 'title': ['Nervous Structures with Dynamical Links'], 'prefix': '10.1002', 'volume': '89', 'author': [{'given': 'C.', 'family': 'Von Der Malsburg', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'published-online': {'date-parts': [[2010, 5, 7]]}, 'reference': [{'key': '10.1002/bbpc.19850890625-BIB1|cit1', 'unstructured': 'C. von der Malsburg 1981'}, {'key': '10.1002/bbpc.19850890625-BIB2|cit2', 'unstructured': 'C. von der Malsburg E. Bienenstock'}, {'key': '10.1002/bbpc.19850890625-BIB3|cit3', 'author': 'Gerstein', 'year': '1970', 'volume-title': 'The Neurosciences: Second Study Program'}, {'key': '10.1002/bbpc.19850890625-BIB4|cit4', 'author': 'Schneider', 'volume': '46', 'first-page': '129', 'year': '1983', 'journal-title': 'Biol. Cybern.', 'DOI': '10.1007/BF00339981', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/bbpc.19850890625-BIB5|cit5', 'author': 'Abeles', 'volume': '18', 'year': '1982', 'journal-title': 'Isr. J. Med. Sci.'}, {'key': '10.1002/bbpc.19850890625-BIB5.2|cit6', 'author': 'Abeles', 'year': '1982', 'volume-title': 'Local Cortical Circuits. An Electrophysiological Study', 'DOI': '10.1007/978-3-642-81708-3', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/bbpc.19850890625-BIB6|cit7', 'author': 'Sejnowski', 'first-page': '189', 'year': '1981', 'volume-title': 'Parallel Models of Associative Memory'}, {'key': '10.1002/bbpc.19850890625-BIB7|cit8', 'author': 'Little', 'volume': '14', 'first-page': '115', 'year': '1975', 'journal-title': 'Behav. Biol.', 'DOI': '10.1016/S0091-6773(75)90122-4', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/bbpc.19850890625-BIB8|cit9', 'author': 'Crick', 'volume': '5', 'first-page': '44', 'year': '1982', 'journal-title': 'TINS'}, {'key': '10.1002/bbpc.19850890625-BIB9|cit10', 'author': 'Eigen', 'volume': '65', 'first-page': '7', 'year': '1978', 'journal-title': 'Naturwissenschaften', 'DOI': '10.1007/BF00420631', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/bbpc.19850890625-BIB10|cit11', 'author': 'von der Malsburg', 'volume': '13', 'first-page': '39', 'year': '1981', 'journal-title': 'SIAM-AMS Proceedings'}, {'key': '10.1002/bbpc.19850890625-BIB11|cit12', 'author': 'Häussler', 'volume': '2', 'first-page': '47', 'year': '1983', 'journal-title': 'J. Theor. Neurobiol.'}, {'key': '10.1002/bbpc.19850890625-BIB12|cit13', 'author': 'Parisi', 'volume': '13', 'first-page': '1101', 'year': '1980', 'journal-title': 'J. Phys. A', 'DOI': '10.1088/0305-4470/13/3/042', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/bbpc.19850890625-BIB13|cit14', 'author': 'Rosenblatt', 'year': '1962', 'volume-title': '“Principles of Neurodynamics”'}, {'key': '10.1002/bbpc.19850890625-BIB14|cit15', 'author': 'Kirkpatrick', 'volume': '220', 'first-page': '671', 'year': '1983', 'journal-title': 'Science', 'DOI': '10.1126/science.220.4598.671', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/bbpc.19850890625-BIB15|cit16', 'unstructured': 'S. Geman D. Geman Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images'}, {'key': '10.1002/bbpc.19850890625-BIB16|cit17', 'unstructured': 'G. E. Hinton T. J. Sejnowski D. H. Ackley “Boltzmann Machines: Constraint Satisfaction Networks that Learn” Technical Report CMU-CS-84-119 Carnegie-Mellon University'}], 'container-title': ['Berichte der Bunsengesellschaft für physikalische Chemie'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fbbpc.19850890625', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T22:06:16Z', 'timestamp': 1497996376000}, 'score': 112.01231, 'issued': {'date-parts': [[1985, 6]]}, 'references-count': 17, 'journal-issue': {'published-print': {'date-parts': [[1985, 6]]}, 'issue': '6'}, 'URL': 'http://dx.doi.org/10.1002/bbpc.19850890625', 'relation': {'cites': []}, 'ISSN': ['0005-9021'], 'issn-type': [{'value': '0005-9021', 'type': 'print'}]}
+>>> hash >>> ('Nervous Structures with Dynamical Links', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M Hayes The reconstruction of a multidimensional sequence from the phase or magnitude of its Fourier transform IEEE Transactions on Acoustic, Speech, Signal Proc., ASSP-30 (1982), pp. 140-154
+>>> DOI >>> 10.1109/tassp.1982.1163863
+>>> URL >>> http://dx.doi.org/10.1109/tassp.1982.1163863
+>>> year >>> 1982.0
+>>> title >>> The reconstruction of a multidimensional sequence from the phase or magnitude of its Fourier transform
+>>> author >>> M. Hayes
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 246.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Acoustics, Speech, and Signal Processing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T19:22:25Z', 'timestamp': 1527276145857}, 'reference-count': 15, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Acoust., Speech, Signal Process.'], 'published-print': {'date-parts': [[1982, 4]]}, 'DOI': '10.1109/tassp.1982.1163863', 'type': 'journal-article', 'created': {'date-parts': [[2004, 4, 28]], 'date-time': '2004-04-28T20:42:45Z', 'timestamp': 1083184965000}, 'page': '140-154', 'source': 'Crossref', 'is-referenced-by-count': 246, 'title': ['The reconstruction of a multidimensional sequence from the phase or magnitude of its Fourier transform'], 'prefix': '10.1109', 'volume': '30', 'author': [{'given': 'M.', 'family': 'Hayes', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Acoustics, Speech, and Signal Processing'], 'language': 'en', 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx6/29/26169/01163863.pdf?arnumber=1163863', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 13]], 'date-time': '2017-03-13T22:58:44Z', 'timestamp': 1489445924000}, 'score': 101.90122, 'issued': {'date-parts': [[1982, 4]]}, 'references-count': 15, 'journal-issue': {'published-print': {'date-parts': [[1982, 4]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1109/tassp.1982.1163863', 'ISSN': ['0096-3518'], 'issn-type': [{'value': '0096-3518', 'type': 'print'}]}
+>>> hash >>> ('The reconstruction of a multidimensional sequence from the phase or magnitude of its Fourier transform', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P.H Gardenier, B.C McCallum, R.H.T Bates Fourier transform magnitudes are unique pattern recognition templates Biological Cybernetics, 54 (1986), pp. 385-391
+>>> DOI >>> 10.1007/bf00355544
+>>> URL >>> http://dx.doi.org/10.1007/bf00355544
+>>> year >>> 1986.0
+>>> title >>> Fourier transform magnitudes are unique pattern recognition templates
+>>> author >>> P. H. Gardenier and B. C. McCallum and R. H. T. Bates
+>>> reference_count >>> 24.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['Biological Cybernetics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T08:33:33Z', 'timestamp': 1525422813387}, 'reference-count': 24, 'publisher': 'Springer Nature', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Biol. Cybern.'], 'published-print': {'date-parts': [[1986, 9]]}, 'DOI': '10.1007/bf00355544', 'type': 'journal-article', 'created': {'date-parts': [[2004, 10, 31]], 'date-time': '2004-10-31T09:50:35Z', 'timestamp': 1099216235000}, 'page': '385-391', 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Fourier transform magnitudes are unique pattern recognition templates'], 'prefix': '10.1007', 'volume': '54', 'author': [{'given': 'P. H.', 'family': 'Gardenier', 'sequence': 'first', 'affiliation': []}, {'given': 'B. C.', 'family': 'McCallum', 'sequence': 'additional', 'affiliation': []}, {'given': 'R. H. T.', 'family': 'Bates', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'CR1', 'first-page': '46', 'volume': '6', 'author': 'J Altmann', 'year': '1984', 'unstructured': 'Altmann J, Reitboeck HJ (1984) A fast correlation method for scale- and translation-invariant pattern recognition. IEEE Trans PAMI 6:46?57', 'journal-title': 'IEEE Trans PAMI'}, {'key': 'CR2', 'first-page': '223', 'volume': '51', 'author': 'RHT Bates', 'year': '1978', 'unstructured': 'Bates RHT (1978) On phase problems II. Optik 51:223?234', 'journal-title': 'Optik'}, {'key': 'CR3', 'first-page': '203', 'volume': '90', 'author': 'RHT Bates', 'year': '1982', 'unstructured': 'Bates RHT (1982) Astronomical speckle imaging. Phys Rep 90:203?297', 'journal-title': 'Phys Rep'}, {'key': 'CR4', 'first-page': '205', 'volume': '25', 'author': 'RHT Bates', 'year': '1984', 'unstructured': 'Bates RHT (1984) Uniqueness of solutions to two-dimensional Fourier phase problem for localised and positive images. Comp Vision Graph Im Proc 25:205?217', 'journal-title': 'Comp Vision Graph Im Proc'}, {'key': 'CR5', 'first-page': '358', 'volume': '73', 'author': 'RHT Bates', 'year': '1983', 'unstructured': 'Bates RHT, Fright WR (1983) Composite two-dimensional Fourier phase-restoration procedure. J Opt Soc Am 73:358?365', 'journal-title': 'J Opt Soc Am'}, {'key': 'CR6', 'author': 'RHT Bates', 'first-page': '227', 'year': '1984', 'unstructured': 'Bates RHT, Fright WR (1984) Reconstructing images from their Fourier intensities. In: Huang TS (ed) Advances in computer vision and image processing, vol 1: Image reconstruction from incomplete observations. JAI Press, Greenwich, Conn., pp 227?264', 'volume-title': 'Advances in computer vision and image processing, vol 1: Image reconstruction from incomplete observations'}, {'key': 'CR7', 'author': 'RHT Bates', 'first-page': '121', 'year': '1985', 'unstructured': 'Bates RHT, Fright WR (1985) Two-dimensional phase restoration. In: Price JF (ed) Fourier techniques and applications. Plenum Press, New York, pp 121?148', 'volume-title': 'Fourier techniques and applications'}, {'key': 'CR8', 'author': 'M Born', 'year': '1976', 'edition': '4th edn.', 'unstructured': 'Born M, Wolf E (1976) Principles of optics, 4th edn. Pergamon, London', 'volume-title': 'Principles of optics'}, {'key': 'CR9', 'author': 'RN Bracewell', 'year': '1978', 'edition': '2nd edn.', 'unstructured': 'Bracewell RN (1978) The Fourier transform and its applications, 2nd edn. McGraw-Hill, New York', 'volume-title': 'The Fourier transform and its applications'}, {'key': 'CR10', 'author': 'EO Brigham', 'year': '1974', 'unstructured': 'Brigham EO (1974) The fast Fourier transform. Prentice Hall, Englewood Cliffs, NJ', 'volume-title': 'The fast Fourier transform'}, {'key': 'CR11', 'first-page': '1795', 'volume': '15', 'author': 'D Casasent', 'year': '1976', 'unstructured': 'Casasent D, Psaltis D (1976) Position, rotation, and scale invariant optical correlation. Appl Optics 15:1795?1799', 'journal-title': 'Appl Optics'}, {'key': 'CR12', 'first-page': '167', 'volume': '7', 'author': 'P Cavanagh', 'year': '1978', 'unstructured': 'Cavanagh P (1978) Size and position invariance in the visual system. Perception 7:167?177', 'journal-title': 'Perception'}, {'key': 'CR13', 'author': 'JB DeVelis', 'year': '1967', 'unstructured': 'DeVelis JB, Reynolds GO (1967) Theory and applications of holography. Addison-Wesley, Reading, Mass.', 'volume-title': 'Theory and applications of holography'}, {'key': 'CR14', 'first-page': '2758', 'volume': '21', 'author': 'JR Fienup', 'year': '1982', 'unstructured': 'Fienup JR (1982) Phase retrieval algorithms: a comparison. Appl Optics 21:2758?2769', 'journal-title': 'Appl Optics'}, {'key': 'CR15', 'unstructured': 'Fienup JR (1984) Experimental evidence of the uniqueness of phase retrieval from intensity data. In: Roberts JA (ed) Indirect imaging. Cambridge University Press, pp 99?109'}, {'key': 'CR16', 'first-page': '219', 'volume': '62', 'author': 'WR Fright', 'year': '1982', 'unstructured': 'Fright WR, Bates RHT (1982) Fourier phase problems are uniquely solvable in more than one dimension. III Computational examples for two dimensions. Optik 62:219?230', 'journal-title': 'Optik'}, {'key': 'CR17', 'first-page': '655', 'volume': '60', 'author': 'D Gabor', 'year': '1972', 'unstructured': 'Gabor D (1972) Holography. Proc IEEE 60:655?668', 'journal-title': 'Proc IEEE'}, {'key': 'CR18', 'author': 'JW Goodman', 'year': '1968', 'unstructured': 'Goodman JW (1968) Introduction to Fourier optics. McGraw-Hill, New York', 'volume-title': 'Introduction to Fourier optics'}, {'key': 'CR19', 'first-page': '1295', 'volume': '54', 'author': 'EN Leith', 'year': '1964', 'unstructured': 'Leith EN, Upatnieks J (1964) Wavefront reconstruction with diffuse illumination and three-dimensional objects. J Opt Soc Am 54:1295?1301', 'journal-title': 'J Opt Soc Am'}, {'key': 'CR20', 'author': 'E Menzel', 'year': '1973', 'unstructured': 'Menzel E, Mirande W, Weingartner I (1973) Fourier-Optik und Holographie. Springer, Wien New York', 'volume-title': 'Fourier-Optik und Holographie'}, {'key': 'CR21', 'first-page': '113', 'volume': '51', 'author': 'HJ Reitboeck', 'year': '1984', 'unstructured': 'Reitboeck HJ, Altmann J (1984) A model for size- and rotation-invariant pattern processing in the visual system. Biol Cybern 51:113?121', 'journal-title': 'Biol Cybern'}, {'key': 'CR22', 'first-page': '292', 'volume': '64', 'author': 'D Slepian', 'year': '1976', 'unstructured': 'Slepian D (1976) On bandwidth. Proc IEEE 64:292?300', 'journal-title': 'Proc IEEE'}, {'key': 'CR23', 'first-page': '386', 'volume': '29', 'author': 'LS Taylor', 'year': '1981', 'unstructured': 'Taylor LS (1981) The phase retrieval problem. IEEE Trans AP-29:386?391', 'journal-title': 'IEEE Trans AP'}, {'key': 'CR24', 'doi-asserted-by': 'crossref', 'first-page': '377', 'DOI': '10.1080/713821742', 'volume': '32', 'author': 'MC Won', 'year': '1985', 'unstructured': 'Won MC, Mnyama D, Bates RHT (1985) Improving initial phase estimates for phase retrieval algorithms. Opt Acta 32:377?396', 'journal-title': 'Opt Acta'}], 'container-title': ['Biological Cybernetics'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF00355544', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T11:18:08Z', 'timestamp': 1497611888000}, 'score': 109.02972, 'issued': {'date-parts': [[1986, 9]]}, 'references-count': 24, 'journal-issue': {'published-print': {'date-parts': [[1986, 9]]}, 'issue': '6'}, 'alternative-id': ['BF00355544'], 'URL': 'http://dx.doi.org/10.1007/bf00355544', 'relation': {'cites': []}, 'ISSN': ['0340-1200', '1432-0770'], 'issn-type': [{'value': '0340-1200', 'type': 'print'}, {'value': '1432-0770', 'type': 'electronic'}]}
+>>> hash >>> ('Fourier transform magnitudes are unique pattern recognition templates', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K Steinbuch Die Lernmatrix Kybernetik, 1 (1961), pp. 1-36
+>>> DOI >>> 10.1007/bf00293853
+>>> URL >>> http://dx.doi.org/10.1007/bf00293853
+>>> year >>> 1961.0
+>>> title >>> Die Lernmatrix
+>>> author >>> K. Steinbuch
+>>> reference_count >>> 29.0
+>>> is_referenced_by_count >>> 174.0
+>>> subject >>> None
+>>> container_title >>> ['Kybernetik']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T07:51:55Z', 'timestamp': 1525420315449}, 'reference-count': 29, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Kybernetik'], 'published-print': {'date-parts': [[1961, 1]]}, 'DOI': '10.1007/bf00293853', 'type': 'journal-article', 'created': {'date-parts': [[2004, 10, 6]], 'date-time': '2004-10-06T07:28:21Z', 'timestamp': 1097047701000}, 'page': '36-45', 'source': 'Crossref', 'is-referenced-by-count': 174, 'title': ['Die Lernmatrix'], 'prefix': '10.1007', 'volume': '1', 'author': [{'given': 'K.', 'family': 'Steinbuch', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'CR1', 'author': 'H. Rein', 'year': '1943', 'unstructured': 'Rein, H.: Physiologie des Menschen. Berlin: Springer 1943.', 'volume-title': 'Physiologie des Menschen'}, {'key': 'CR2', 'author': 'I. P. Pawlow', 'year': '1927', 'unstructured': 'Pawlow, I. P.: Conditioned reflexes. London: Oxford University Press 1927.', 'volume-title': 'Conditioned reflexes'}, {'key': 'CR3', 'author': 'D.H. Mowrer', 'year': '1960', 'unstructured': 'Mowrer, D.H.: Learning theory and behaviour. New York: John Wiley & Sons 1960.', 'volume-title': 'Learning theory and behaviour'}, {'key': 'CR4', 'author': 'J. Konorski', 'year': '1948', 'unstructured': 'Konorski, J.: Conditioned reflexes and neuron organisation. London: Cambridge University Press 1948.', 'volume-title': 'Conditioned reflexes and neuron organisation'}, {'key': 'CR5', 'unstructured': 'Barlow, H. B.: Sensory mechanisms, the reduction of redundancy and intelligence. Symposium on the mechanization of thought processes, Teddington, Middlesex, 24.?27. Nov. 1958.'}, {'key': 'CR6', 'author': 'I. P. Pawlow', 'year': '1953', 'unstructured': 'Pawlow, I. P.: Sämtliche Werke. Bd. 5. Berlin: Akademieverlag 1953.', 'volume-title': 'Sämtliche Werke. Bd. 5'}, {'key': 'CR7', 'unstructured': 'Steinbuch, K.: Lernende Automaten. Elektron. Rechenanlagen 1, H. 3, 112?118 u. H. 4, 172?175 (1959).'}, {'key': 'CR8', 'first-page': '1', 'volume': '2', 'author': 'A. M. Uttley', 'year': '1959', 'unstructured': 'Uttley, A. M.: Design of a conditional probability computer. Inform, and Control 2, 1?24 (1959).', 'journal-title': 'Inform, and Control'}, {'key': 'CR9', 'author': 'G. W. Walter', 'year': '1957', 'unstructured': 'Walter, G. W.: The living brain. London: Duckworth 1957.', 'volume-title': 'The living brain'}, {'key': 'CR10', 'author': 'G. N. Braines', 'year': '1959', 'unstructured': 'Braines, G. N., A. W. Napalkow u. W. B. Sweczinskij: Probleme der Neurokybernetik. [Russisch.] Moskau: Medizinische Akademie der UdSSR. 1959.', 'volume-title': 'Probleme der Neurokybernetik'}, {'key': 'CR11', 'unstructured': 'Eichler, E.: Die künstliche Schildkröte. Radiotechnik 31 (1955).'}, {'key': 'CR12', 'unstructured': 'Angyan, A. J.: Model for neurophysiological functions. Symposium on information theory, London, 1960.'}, {'key': 'CR13', 'unstructured': 'Uttley, A. M.: Conditional probability computing in a nervous system. Symposium on the mechanization of thought processes, Teddington, Middlesex, 24.?27. Nov. 1958.'}, {'key': 'CR14', 'first-page': '93', 'volume': '3', 'author': 'H. Zemanek', 'year': '1956', 'unstructured': 'Zemanek, H.: Schaltalgebra. Nachrichtentechn. Fachber. 3, 93?113 (1956).', 'journal-title': 'Schaltalgebra. Nachrichtentechn. Fachber.'}, {'key': 'CR15', 'first-page': '2', 'volume': '10', 'author': 'K. Steinbuch', 'year': '1957', 'unstructured': 'Steinbuch, K., u. H. Endres: Elektrische Zuordner. Nachrichtentechn. Z. 10, H. 6, 2?12 (1957).', 'journal-title': 'Nachrichtentechn. Z.'}, {'key': 'CR16', 'first-page': '210', 'volume': '11', 'author': 'K. Steinbuch', 'year': '1958', 'unstructured': 'Steinbuch, K.: Automatische Zeichenerkennung. Nachrichtentechn. Z. 11, H. 4/5, 210?219, 237?244 (1958).', 'journal-title': 'Nachrichtentechn. Z.'}, {'key': 'CR17', 'first-page': '386', 'volume': '65', 'author': 'F. Rosenblatt', 'year': '1958', 'unstructured': 'Rosenblatt, F.: The perceptron: A probabilistic model for Information storage and organization in the brain. Psychol. Rev. 65, 386?408 (1958).-The design of an intelligent automaton. Research Rev. October 1958.', 'journal-title': 'Psychol. Rev.'}, {'key': 'CR18', 'first-page': '603', 'volume': '109', 'author': 'L. Esaki', 'year': '1958', 'unstructured': 'Esaki, L.: New phenomenon in narrow Ge P-N junctions. Phys. Rev. 109, 603 (1958).', 'journal-title': 'Phys. Rev.'}, {'key': 'CR19', 'first-page': '147', 'volume': '26', 'author': 'R.W. Hamming', 'year': '1950', 'unstructured': 'Hamming, R. W.: Error detecting and error correcting codes. Bell Syst. techn. J. 26, 147?160 (1950).', 'journal-title': 'Bell Syst. techn. J.'}, {'key': 'CR20', 'unstructured': 'Steinbuch, K.: Codierung für gestörte Kanäle. Nachrichtentechn. Fachber. 19 (1961)'}, {'key': 'CR21', 'first-page': '446', 'volume': '11', 'author': 'K. Steinbuch', 'year': '1958', 'unstructured': 'Steinbuch, K.: Automatische Spracherkennung. Nachrichtentechn. Z. 11, 446?453 (1958).', 'journal-title': 'Nachrichtentechn. Z.'}, {'key': 'CR22', 'first-page': '9', 'volume': '6', 'author': 'H. Zemanek', 'year': '1959', 'unstructured': 'Zemanek, H.: Wesen und Grenzen des Automaten. Z. mod. Rechentechnik u. Automation 6, 9?16 (1959).', 'journal-title': 'Z. mod. Rechentechnik u. Automation'}, {'key': 'CR23', 'first-page': '68', 'volume': '12', 'author': 'K. Küpfmüller', 'year': '1959', 'unstructured': 'Küpfmüller, K.: Informationsverarbeitung durch den Menschen. Nachrichtentechn. Z. 12, 68?74 (1959).', 'journal-title': 'Nachrichtentechn. Z.'}, {'key': 'CR24', 'first-page': '169', 'volume': '12', 'author': 'K. Steinbuch', 'year': '1959', 'unstructured': 'Steinbuch, K.: Die logische Verknüpfung als Einheit der Nachrichtenverarbeitung. Nachrichtentechn. Z. 12, 169?175 (1959).', 'journal-title': 'Nachrichtentechn. Z.'}, {'key': 'CR25', 'author': 'C. E. Shannon', 'year': '1949', 'unstructured': 'Shannon, C. E., and W. Weaver: The mathematical theory of communication. Urbana: University Illinois Press 1949.', 'volume-title': 'The mathematical theory of communication'}, {'key': 'CR26', 'author': 'C. N. Mooers', 'year': '1960', 'unstructured': 'Mooers, C. N.: Some mathematical fundamentals of the use of symbols in information retrieval. ICIP Paris, June 1959. In: Information processing. München: Oldenbourg 1960.', 'volume-title': 'Information processing'}, {'key': 'CR27', 'author': 'G. Schaltenbrand', 'year': '1956', 'unstructured': 'Schaltenbrand, G.: Grenzen der Maschinentheorie des Nervensystems. Regelungsvorgänge in der Biologie, herausgeg. von H. Mittelstaedt. München: R. Oldenbourg 1956.', 'volume-title': 'Regelungsvorgänge in der Biologie'}, {'key': 'CR28', 'unstructured': 'Rajchman, J. A., and A. W. Lo: The transfluxor ?a magnetic gate with stored variable setting, RCA-Review 16, No 2 (1955).'}, {'key': 'CR29', 'first-page': '799', 'volume': '21', 'author': 'K. Steinbuch', 'year': '1956', 'unstructured': 'Steinbuch, K.: Elektrische Gedächtnisse für Ziffern. Elektrotechn. Z. A. H. 21, 799?806 (1956).', 'journal-title': 'Elektrotechn. Z. A. H.'}], 'container-title': ['Kybernetik'], 'language': 'de', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF00293853', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 1, 8]], 'date-time': '2013-01-08T13:31:39Z', 'timestamp': 1357651899000}, 'score': 74.36656, 'issued': {'date-parts': [[1961, 1]]}, 'references-count': 29, 'journal-issue': {'published-print': {'date-parts': [[1961, 1]]}, 'issue': '1'}, 'alternative-id': ['BF00293853'], 'URL': 'http://dx.doi.org/10.1007/bf00293853', 'relation': {'cites': []}, 'ISSN': ['0340-1200', '1432-0770'], 'issn-type': [{'value': '0340-1200', 'type': 'print'}, {'value': '1432-0770', 'type': 'electronic'}]}
+>>> hash >>> ('Die Lernmatrix', 1961.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E Bienenstock Neural-like graph-matching techniques for image-processing W.v Seelen, G Shaw, U Leinhos (Eds.), Organisation of neural networks, VCH Verlagsgesellschaft, Weinheim (1988), pp. 211-238
+>>> DOI >>> 10.1002/bies.950110512
+>>> URL >>> http://dx.doi.org/10.1002/bies.950110512
+>>> year >>> 1989.0
+>>> title >>> Modelling brain functions.Organization of Neural Networks: Structures and Models. Edited by W. von Seelen, G. Shaw and U. M. Leinhos. VCH, Weinheim, 1988. DM 135
+>>> author >>> David Attwell
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['BioEssays']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:33:29Z', 'timestamp': 1525444409420}, 'reference-count': 0, 'publisher': 'Wiley', 'issue': '5', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 9435, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Bioessays'], 'published-print': {'date-parts': [[1989, 11]]}, 'DOI': '10.1002/bies.950110512', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 25]], 'date-time': '2005-02-25T11:13:04Z', 'timestamp': 1109329984000}, 'page': '156-156', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Modelling brain functions.Organization of Neural Networks: Structures and Models. Edited by W. von Seelen, G. Shaw and U. M. Leinhos. VCH, Weinheim, 1988. DM 135'], 'prefix': '10.1002', 'volume': '11', 'author': [{'given': 'David', 'family': 'Attwell', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'container-title': ['BioEssays'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fbies.950110512', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 4, 8]], 'date-time': '2017-04-08T05:29:33Z', 'timestamp': 1491629373000}, 'score': 66.43096, 'issued': {'date-parts': [[1989, 11]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1989, 11]]}, 'issue': '5'}, 'URL': 'http://dx.doi.org/10.1002/bies.950110512', 'ISSN': ['0265-9247', '1521-1878'], 'issn-type': [{'value': '0265-9247', 'type': 'print'}, {'value': '1521-1878', 'type': 'electronic'}]}
+>>> hash >>> ('Modelling brain functions.Organization of Neural Networks: Structures and Models. Edited by W. von Seelen, G. Shaw and U. M. Leinhos. VCH, Weinheim, 1988. DM 135', 1989.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D.J Willshaw, O.P Buneman, H.C Longuet-Higgins Non-holographic associative memory Nature, 222 (1969), pp. 960-962 CrossRefView Record in Scopus
+>>> DOI >>> 10.1038/222960a0
+>>> URL >>> http://dx.doi.org/10.1038/222960a0
+>>> year >>> 1969.0
+>>> title >>> Non-Holographic Associative Memory
+>>> author >>> D. J. WILLSHAW and O. P. BUNEMAN and H. C. LONGUET-HIGGINS
+>>> reference_count >>> 6.0
+>>> is_referenced_by_count >>> 521.0
+>>> subject >>> None
+>>> container_title >>> ['Nature']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T16:22:33Z', 'timestamp': 1525710153360}, 'reference-count': 6, 'publisher': 'Springer Nature', 'issue': '5197', 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[1969, 6, 1]], 'date-time': '1969-06-01T00:00:00Z', 'timestamp': -18489600000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Nature'], 'published-print': {'date-parts': [[1969, 6]]}, 'DOI': '10.1038/222960a0', 'type': 'journal-article', 'created': {'date-parts': [[2006, 7, 6]], 'date-time': '2006-07-06T14:30:29Z', 'timestamp': 1152196229000}, 'page': '960-962', 'source': 'Crossref', 'is-referenced-by-count': 521, 'title': ['Non-Holographic Associative Memory'], 'prefix': '10.1038', 'volume': '222', 'author': [{'given': 'D. J.', 'family': 'WILLSHAW', 'sequence': 'first', 'affiliation': []}, {'given': 'O. P.', 'family': 'BUNEMAN', 'sequence': 'additional', 'affiliation': []}, {'given': 'H. C.', 'family': 'LONGUET-HIGGINS', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[1969, 6, 7]]}, 'reference': [{'key': '222960a0-b1', 'author': 'Van Heeden P. J.', 'volume': '2', 'first-page': '393', 'year': '1963', 'journal-title': 'App. Optics'}, {'key': '222960a0-b2', 'author': 'Pribram K. H.', 'volume': '220', 'first-page': '73', 'year': '1969', 'journal-title': 'Sci. Amer.'}, {'key': '222960a0-b3', 'unstructured': 'Willshaw, D., and Longuet-Higgins, H. C., <i>Machine Intelligence</i> 4 (edit. by Michie, D.) (Edinburgh University Press, 1969).'}, {'key': '222960a0-b4', 'author': 'Gabor D.', 'volume': '217', 'first-page': '1288', 'year': '1968', 'journal-title': 'Nature'}, {'key': '222960a0-b5', 'author': 'Gabor D.', 'volume': '217', 'first-page': '584', 'year': '1968', 'journal-title': 'Nature'}, {'key': '222960a0-b6', 'author': 'Brindley G. S.', 'volume': '168', 'first-page': '361', 'year': '1967', 'journal-title': 'Proc. Roy. Soc.'}], 'container-title': ['Nature'], 'language': 'en', 'link': [{'URL': 'http://www.nature.com/articles/Art222960a0.pdf', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://www.nature.com/articles/Art222960a0', 'content-type': 'text/html', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://www.nature.com/articles/Art222960a0.pdf', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T19:30:53Z', 'timestamp': 1497641453000}, 'score': 114.0806, 'issued': {'date-parts': [[1969, 6]]}, 'references-count': 6, 'journal-issue': {'published-print': {'date-parts': [[1969, 6]]}, 'issue': '5197'}, 'alternative-id': ['BF222960a0'], 'URL': 'http://dx.doi.org/10.1038/222960a0', 'relation': {'cites': []}, 'ISSN': ['0028-0836', '1476-4687'], 'issn-type': [{'value': '0028-0836', 'type': 'print'}, {'value': '1476-4687', 'type': 'electronic'}]}
+>>> hash >>> ('Non-Holographic Associative Memory', 1969.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E Bienenstock, C von der Malsburg A neural network for invariant pattern recognition Europhysics Letters, 4 (1987), pp. 121-126
+>>> DOI >>> 10.1209/0295-5075/4/1/020
+>>> URL >>> http://dx.doi.org/10.1209/0295-5075/4/1/020
+>>> year >>> 1987.0
+>>> title >>> A Neural Network for Invariant Pattern Recognition
+>>> author >>> E Bienenstock and C. von der Malsburg
+>>> reference_count >>> 6.0
+>>> is_referenced_by_count >>> 73.0
+>>> subject >>> None
+>>> container_title >>> ['Europhysics Letters (EPL)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T21:32:48Z', 'timestamp': 1525383168943}, 'reference-count': 6, 'publisher': 'IOP Publishing', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Europhys. Lett.'], 'published-print': {'date-parts': [[1987, 7, 1]]}, 'DOI': '10.1209/0295-5075/4/1/020', 'type': 'journal-article', 'created': {'date-parts': [[2007, 7, 26]], 'date-time': '2007-07-26T04:02:35Z', 'timestamp': 1185422555000}, 'page': '121-126', 'source': 'Crossref', 'is-referenced-by-count': 73, 'title': ['A Neural Network for Invariant Pattern Recognition'], 'prefix': '10.1209', 'volume': '4', 'author': [{'given': 'E', 'family': 'Bienenstock', 'sequence': 'first', 'affiliation': []}, {'given': 'C. von der', 'family': 'Malsburg', 'sequence': 'additional', 'affiliation': []}], 'member': '266', 'published-online': {'date-parts': [[2007, 7, 25]]}, 'container-title': ['Europhysics Letters (EPL)'], 'link': [{'URL': 'http://stacks.iop.org/0295-5075/4/i=1/a=020/pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 3, 7]], 'date-time': '2018-03-07T14:59:58Z', 'timestamp': 1520434798000}, 'score': 89.76664, 'issued': {'date-parts': [[1987, 7, 1]]}, 'references-count': 6, 'journal-issue': {'published-print': {'date-parts': [[1987, 7, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1209/0295-5075/4/1/020', 'ISSN': ['0295-5075', '1286-4854'], 'issn-type': [{'value': '0295-5075', 'type': 'print'}, {'value': '1286-4854', 'type': 'electronic'}]}
+>>> hash >>> ('A Neural Network for Invariant Pattern Recognition', 1987.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kree, R., & Zippelius, A. Recognition of topological features of graphs and images in neural networks. Submitted for publication.
+>>> DOI >>> 10.1088/0305-4470/21/16/006
+>>> URL >>> http://dx.doi.org/10.1088/0305-4470/21/16/006
+>>> year >>> 1988.0
+>>> title >>> Recognition of topological features of graphs and images in neural networks
+>>> author >>> R Kree and A Zippelius
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 21.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Physics A: Mathematical and General']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T05:20:56Z', 'timestamp': 1525324856741}, 'reference-count': 15, 'publisher': 'IOP Publishing', 'issue': '16', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J. Phys. A: Math. Gen.'], 'published-print': {'date-parts': [[1988, 8, 21]]}, 'DOI': '10.1088/0305-4470/21/16/006', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T20:06:39Z', 'timestamp': 1027713999000}, 'page': 'L813-L818', 'source': 'Crossref', 'is-referenced-by-count': 21, 'title': ['Recognition of topological features of graphs and images in neural networks'], 'prefix': '10.1088', 'volume': '21', 'author': [{'given': 'R', 'family': 'Kree', 'sequence': 'first', 'affiliation': []}, {'given': 'A', 'family': 'Zippelius', 'sequence': 'additional', 'affiliation': []}], 'member': '266', 'published-online': {'date-parts': [[1999, 1, 1]]}, 'container-title': ['Journal of Physics A: Mathematical and General'], 'link': [{'URL': 'http://stacks.iop.org/0305-4470/21/i=16/a=006/pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 3, 7]], 'date-time': '2018-03-07T15:35:19Z', 'timestamp': 1520436919000}, 'score': 63.033886, 'issued': {'date-parts': [[1988, 8, 21]]}, 'references-count': 15, 'journal-issue': {'published-print': {'date-parts': [[1988, 8, 21]]}, 'issue': '16'}, 'URL': 'http://dx.doi.org/10.1088/0305-4470/21/16/006', 'ISSN': ['0305-4470', '1361-6447'], 'issn-type': [{'value': '0305-4470', 'type': 'print'}, {'value': '1361-6447', 'type': 'electronic'}]}
+>>> hash >>> ('Recognition of topological features of graphs and images in neural networks', 1988.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Porat, M., & Zeevi, Y. (in press). The generalized Gabor scheme of image representation in biological and machine vision. IEEE Transactions on PAMI.
+>>> DOI >>> 10.1109/34.3910
+>>> URL >>> http://dx.doi.org/10.1109/34.3910
+>>> year >>> 1988.0
+>>> title >>> The generalized Gabor scheme of image representation in biological and machine vision
+>>> author >>> M. Porat and Y.Y. Zeevi
+>>> reference_count >>> 49.0
+>>> is_referenced_by_count >>> 265.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T16:02:45Z', 'timestamp': 1528473765908}, 'reference-count': 49, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1988, 7]]}, 'DOI': '10.1109/34.3910', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '452-468', 'source': 'Crossref', 'is-referenced-by-count': 265, 'title': ['The generalized Gabor scheme of image representation in biological and machine vision'], 'prefix': '10.1109', 'volume': '10', 'author': [{'given': 'M.', 'family': 'Porat', 'sequence': 'first', 'affiliation': []}, {'given': 'Y.Y.', 'family': 'Zeevi', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/219/00003910.pdf?arnumber=3910', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 8]], 'date-time': '2017-03-08T23:49:31Z', 'timestamp': 1489016971000}, 'score': 78.78349, 'issued': {'date-parts': [[1988, 7]]}, 'references-count': 49, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/34.3910', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('The generalized Gabor scheme of image representation in biological and machine vision', 1988.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G Miller Isomorphism testing for graphs of bounded genus Proceedings of the 12th ACM STOC Symposium (1980), pp. 218-224
+>>> DOI >>> 10.1145/800141.804670
+>>> URL >>> http://dx.doi.org/10.1145/800141.804670
+>>> year >>> 1980.0
+>>> title >>> Isomorphism testing for graphs of bounded genus
+>>> author >>> Gary Miller
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 19.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the twelfth annual ACM symposium on Theory of computing  - STOC '80"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:22Z', 'timestamp': 1525392382828}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897910176', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1980]]}, 'DOI': '10.1145/800141.804670', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 19, 'title': ['Isomorphism testing for graphs of bounded genus'], 'prefix': '10.1145', 'author': [{'given': 'Gary', 'family': 'Miller', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'event': {'name': 'the twelfth annual ACM symposium', 'location': 'Los Angeles, California, United States', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '80", 'start': {'date-parts': [[1980, 4, 28]]}, 'end': {'date-parts': [[1980, 4, 30]]}}, 'container-title': ["Proceedings of the twelfth annual ACM symposium on Theory of computing  - STOC '80"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=804670&amp;ftid=54041&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T04:02:37Z', 'timestamp': 1481860957000}, 'score': 75.51982, 'issued': {'date-parts': [[1980]]}, 'ISBN': ['0897910176'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/800141.804670'}
+>>> hash >>> ('Isomorphism testing for graphs of bounded genus', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C von der Malsburg, E Bienenstock Statistical coding and short-term synaptic plasticity: A scheme for knowledge representation in the brain E Bienenstock, F Fogelman SouliÃ©, G Weisbuch (Eds.), Disordered systems and biological organization, NATO ASI Series, Vol. F20, Springer, Berlin (1986)
+>>> DOI >>> 10.1007/978-3-642-82657-3_26
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-82657-3_26
+>>> year >>> 1986.0
+>>> title >>> Statistical Coding and Short-Term Synaptic Plasticity: A Scheme for Knowledge Representation in the Brain
+>>> author >>> Christoph von der Malsburg and Elie Bienenstock
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['Disordered Systems and Biological Organization']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T21:29:45Z', 'timestamp': 1525469385206}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642826597', 'type': 'print'}, {'value': '9783642826573', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1986]]}, 'DOI': '10.1007/978-3-642-82657-3_26', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 12, 5]], 'date-time': '2011-12-05T12:06:16Z', 'timestamp': 1323086776000}, 'page': '247-272', 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['Statistical Coding and Short-Term Synaptic Plasticity: A Scheme for Knowledge Representation in the Brain'], 'prefix': '10.1007', 'author': [{'given': 'Christoph', 'family': 'von der Malsburg', 'sequence': 'first', 'affiliation': []}, {'given': 'Elie', 'family': 'Bienenstock', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Disordered Systems and Biological Organization'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-642-82657-3_26', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 25]], 'date-time': '2014-08-25T17:59:06Z', 'timestamp': 1408989546000}, 'score': 124.19118, 'issued': {'date-parts': [[1986]]}, 'ISBN': ['9783642826597', '9783642826573'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-82657-3_26'}
+>>> hash >>> ('Statistical Coding and Short-Term Synaptic Plasticity: A Scheme for Knowledge Representation in the Brain', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A Rosenfeld (Ed.), Multiresolution image processing and analysis, Springer, Berlin (1984)
+>>> DOI >>> 10.1007/978-3-642-51590-3
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-51590-3
+>>> year >>> 1984.0
+>>> title >>> Multiresolution Image Processing and Analysis
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 106.0
+>>> subject >>> None
+>>> container_title >>> ['Springer Series in Information Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T11:05:24Z', 'timestamp': 1525518324464}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642515927', 'type': 'print'}, {'value': '9783642515903', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1984]]}, 'DOI': '10.1007/978-3-642-51590-3', 'type': 'book', 'created': {'date-parts': [[2012, 6, 1]], 'date-time': '2012-06-01T03:44:40Z', 'timestamp': 1338522280000}, 'source': 'Crossref', 'is-referenced-by-count': 106, 'title': ['Multiresolution Image Processing and Analysis'], 'prefix': '10.1007', 'member': '297', 'container-title': ['Springer Series in Information Sciences'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-51590-3', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 9, 12]], 'date-time': '2013-09-12T13:13:18Z', 'timestamp': 1378991598000}, 'score': 52.15293, 'editor': [{'given': 'Azriel', 'family': 'Rosenfeld', 'sequence': 'first', 'affiliation': []}], 'issued': {'date-parts': [[1984]]}, 'ISBN': ['9783642515927', '9783642515903'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-51590-3', 'ISSN': ['0720-678X'], 'issn-type': [{'value': '0720-678X', 'type': 'print'}]}
+>>> hash >>> ('Multiresolution Image Processing and Analysis', 1984.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W.A Phillips, P.J.B Hancock, N.J Willson, L.S Smith On the acquisition of object concepts from sensory data R Eckmiller, C von der Malsburg (Eds.), Neural computers, NATO ASI Series, Vol. F41, Springer, Berlin (1988), pp. 159-168
+>>> DOI >>> 10.1007/978-3-642-83740-1_18
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-83740-1_18
+>>> year >>> 1989.0
+>>> title >>> On the Acquisition of Object Concepts from Sensory Data
+>>> author >>> W. A. Phillips and P. J. B. Hancock and N. J. Willson and L. S. Smith
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Neural Computers']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T22:37:10Z', 'timestamp': 1525473430474}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540508922', 'type': 'print'}, {'value': '9783642837401', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1989]]}, 'DOI': '10.1007/978-3-642-83740-1_18', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 12, 16]], 'date-time': '2011-12-16T22:15:03Z', 'timestamp': 1324073703000}, 'page': '159-168', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['On the Acquisition of Object Concepts from Sensory Data'], 'prefix': '10.1007', 'author': [{'given': 'W. A.', 'family': 'Phillips', 'sequence': 'first', 'affiliation': []}, {'given': 'P. J. B.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}, {'given': 'N. J.', 'family': 'Willson', 'sequence': 'additional', 'affiliation': []}, {'given': 'L. S.', 'family': 'Smith', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Neural Computers'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-642-83740-1_18', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 25]], 'date-time': '2014-08-25T01:22:08Z', 'timestamp': 1408929728000}, 'score': 80.06775, 'issued': {'date-parts': [[1989]]}, 'ISBN': ['9783540508922', '9783642837401'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-83740-1_18'}
+>>> hash >>> ('On the Acquisition of Object Concepts from Sensory Data', 1989.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P.J Burt, E.A Adelson The Laplacian pyramid as a compact image code IEEE Transactions on Communication, COM-31 (1983), pp. 532-540
+>>> DOI >>> 10.1109/tcom.1983.1095851
+>>> URL >>> http://dx.doi.org/10.1109/tcom.1983.1095851
+>>> year >>> 1983.0
+>>> title >>> The Laplacian Pyramid as a Compact Image Code
+>>> author >>> P. Burt and E. Adelson
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 2763.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Communications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database161.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T16:02:45Z', 'timestamp': 1528473765933}, 'reference-count': 13, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Commun.'], 'published-print': {'date-parts': [[1983, 4]]}, 'DOI': '10.1109/tcom.1983.1095851', 'type': 'journal-article', 'created': {'date-parts': [[2004, 4, 29]], 'date-time': '2004-04-29T00:29:18Z', 'timestamp': 1083198558000}, 'page': '532-540', 'source': 'Crossref', 'is-referenced-by-count': 2763, 'title': ['The Laplacian Pyramid as a Compact Image Code'], 'prefix': '10.1109', 'volume': '31', 'author': [{'given': 'P.', 'family': 'Burt', 'sequence': 'first', 'affiliation': []}, {'given': 'E.', 'family': 'Adelson', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Communications'], 'language': 'en', 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/26/23970/01095851.pdf?arnumber=1095851', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T22:41:43Z', 'timestamp': 1525905703000}, 'score': 97.84569, 'issued': {'date-parts': [[1983, 4]]}, 'references-count': 13, 'journal-issue': {'published-print': {'date-parts': [[1983, 4]]}, 'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/tcom.1983.1095851', 'ISSN': ['0096-2244'], 'issn-type': [{'value': '0096-2244', 'type': 'print'}]}
+>>> hash >>> ('The Laplacian Pyramid as a Compact Image Code', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

@@ -1,0 +1,41 @@
+[0] Shawn Gu, Tijana Milenkovic, Graphlets versus node2vec and struc2vec in the task of network alignment
+[1] N. K. Ahmed, J. Neville, R. A. Rossi, and N. Duffield. Efficient graphlet counting for large networks. In Data Mining (ICDM), 2015 IEEE International Conference on, pages 1–10. IEEE, 2015.
+[2] A.-L. Barab´asi. Network science. Cambridge University Press, 2016.
+[3] S. A. Cook. The complexity of theorem-proving procedures. In Proceedings of the third annual ACM Symposium on Theory of Computing, pages 151–158. ACM, 1971.
+[4] J. Crawford and T. Milenkovi´c. Cluenet: Clustering a temporal network based on topological similarity rather than denseness. PLOS ONE, in press, 2018.
+[5] P. Cui, X. Wang, J. Pei, and W. Zhu. A survey on network embedding. arXiv preprint arXiv:1711.08752, 2017.
+[6] Y. Dong, N. V. Chawla, and A. Swami. metapath2vec: Scalable representation learning for heterogeneous networks. In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pages 135–144. ACM, 2017.
+[7] F. E. Faisal, L. Meng, J. Crawford, and T. Milenkovi´c. The post-genomic era of biological network alignment. EURASIP Journal on Bioinformatics and Systems Biology, 2015(1):3, 2015.
+[8] F. E. Faisal and T. Milenkovi´c. Dynamic networks reveal key players in aging. Bioinformatics, 30(12):1721–1729, 2014.
+[9] F. E. Faisal, H. Zhao, and T. Milenkovi´c. Global network alignment in the context of aging. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 12(1):40–52, 2015.
+[10] A. Grover and J. Leskovec. node2vec: Scalable feature learning for networks. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pages 855–864. ACM, 2016.
+[11] S. Gu, J. Johnson, F. E. Faisal, and T. Milenkovi´c. From homogeneous to heterogeneous network alignment. arXiv preprint arXiv:1704.01221, 2017.
+[12] P. H. Guzzi and T. Milenkovi´c. Survey of local and global biological network alignment: the need to reconcile the two sides of the same coin. Briefings in Bioinformatics, 2017.
+[13] S. Harenberg, G. Bello, L. Gjeltema, S. Ranshous, J. Harlalka, R. Seay, K. Padmanabhan, and N. Samatova. Community detection in large-scale networks: a survey and empirical evaluation. Wiley Interdisciplinary Reviews: Computational Statistics, 6(6):426–439, 2014.
+[14] T. Hoˇcevar and J. Demˇsar. A combinatorial approach to graphlet counting. Bioinformatics, 30(4):559– 565, 2014.
+[15] Y. Hulovatyy, H. Chen, and T. Milenkovi´c. Exploring the structure and function of temporal networks with dynamic graphlets. Bioinformatics, 31(12):i171–i180, 2015.
+[16] Y. Hulovatyy, R. W. Solava, and T. Milenkovi´c. Revealing missing parts of the interactome via link prediction. PLOS ONE, 9(3):e90073, 2014.
+[17] F. D. Malliaros and M. Vazirgiannis. Clustering and community detection in directed networks: A survey. Physics Reports, 533(4):95–142, 2013. 
+[18] N. Mamano and W. B. Hayes. Sana: simulated annealing far outperforms many other search algorithms for biological network alignment. Bioinformatics, 33(14):2156–2164, 2017.
+[19] L. Meng, A. Striegel, and T. Milenkovi´c. Local versus global biological network alignment. Bioinformatics, 32(20):3155–3164, 2016.
+[20] T. Milenkov´c and N. Prˇzulj. Uncovering biological network function via graphlet degree signatures. Cancer Informatics, 6, 2008.
+[21] T. Milenkovi´c, J. Lai, and N. Prˇzulj. Graphcrunch: a tool for large network analyses. BMC bioinformatics, 9(1):70, 2008.
+[22] A. Narayanan, E. Shi, and B. I. Rubinstein. Link prediction by de-anonymization: How we won the kaggle social network challenge. In Neural Networks (IJCNN), The 2011 International Joint Conference on, pages 1825–1834. IEEE, 2011.
+[23] M. Newman. Networks: an introduction. Oxford University Press, 2010.
+[24] M. Ortmann and U. Brandes. Quad census computation: Simple, efficient, and orbit-aware. In International Conference and School on Network Science, pages 1–13. Springer, 2016.
+[25] N. Prˇzulj, D. G. Corneil, and I. Jurisica. Modeling interactome: scale-free or geometric? Bioinformatics, 20(18):3508–3515, 2004.
+[26] L. F. Ribeiro, P. H. Saverese, and D. R. Figueiredo. struc2vec: Learning node representations from structural identity. In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pages 385–394. ACM, 2017.
+[27] O. Singh, K. Sawariya, and P. Aparoy. Graphlet signature-based scoring method to estimate protein– ligand binding affinity. Royal Society Open Science, 1(4):140306, 2014.
+[28] R. W. Solava, R. P. Michaels, and T. Milenkovi´c. Graphlet-based edge clustering reveals pathogeninteracting proteins. Bioinformatics, 28(18):i480–i486, 2012.
+[29] Y. Sun, J. Crawford, J. Tang, and T. Milenkovi´c. Simultaneous optimization of both node and edge conservation in network alignment via wave. Lecture Notes in Computer Science Algorithms in Bioinformatics, pages 16–39, 2015.
+[30] Y. Sun, J. Crawford, J. Tang, and T. Milenkovi´c. Simultaneous optimization of both node and edge conservation in network alignment via wave. Lecture Notes in Computer Science Algorithms in Bioinformatics, pages 16–39, 2015.
+[31] V. Vijayan, D. Critchlow, and T. Milenkovi´c. Alignment of dynamic networks. Bioinformatics, 33(14):i180–i189, 2017.
+[32] V. Vijayan, E. Krebs, L. Meng, and T. Milenkovi´c. Pairwise versus multiple network alignment. arXiv preprint arXiv:1709.04564, 2017.
+[33] V. Vijayan and T. Milenkovi´c. Aligning dynamic networks with dynawave. Bioinformatics, 2017.
+[34] V. Vijayan and T. Milenkovi´c. Multiple network alignment via multimagna++. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2017.
+[35] P. Wang, X. Zhang, Z. Li, J. Cheng, J. Lui, D. Towsley, J. Zhao, J. Tao, and X. Guan. A fast sampling method of exploring graphlet degrees of large directed and undirected graphs. arXiv preprint arXiv:1604.08691, 2016.
+[36] X.-D. Wang, J.-L. Huang, L. Yang, D.-Q. Wei, Y.-X. Qi, and Z.-L. Jiang. Identification of human disease genes from interactome network using graphlet interaction. PLOS ONE, 9(1):e86142, 2014.
+[37] Y. Yang, R. N. Lichtenwalter, and N. V. Chawla. Evaluating link prediction methods. Knowledge and Information Systems, 45(3):751–782, 2015.
+[38] O. N. Yavero˘glu, T. Milenkovi´c, and N. Prˇzulj. Proper evaluation of alignment-free network comparison ¨ methods. Bioinformatics, 31(16):2697–2704, 2015.
+[39] Y. Zhang, J. Tang, Z. Yang, J. Pei, and P. S. Yu. Cosnet: Connecting heterogeneous social networks with local and global consistency. In Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pages 1485–1494. ACM, 2015.
+[40] M. Zitnik and J. Leskovec. Predicting multicellular function through multi-layer tissue networks. Bioinformatics, 33(14):i190–i198, 2017.

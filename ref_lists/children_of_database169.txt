@@ -1,0 +1,433 @@
+>>> NEW PAPER <<<
+>>> citation >>> C.H. Huang and P. Sadayappan. Communication-free hyperplane partitioning of nestedloops. In Banerjee, Gelernter, Nicolau, and Padua, editors, Languages and Compilers for Parallel Computing, volume 589 of Lecture Notes in Computer Science, pages 186{200. Springer Verlag, 1991.
+>>> DOI >>> 10.1007/bfb0038665
+>>> URL >>> http://dx.doi.org/10.1007/bfb0038665
+>>> year >>> None
+>>> title >>> Communication-free hyperplane partitioning of nested loops
+>>> author >>> C. -H. Huang and P. Sadayappan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['Languages and Compilers for Parallel Computing', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T02:04:55Z', 'timestamp': 1525485895999}, 'publisher-location': 'Berlin/Heidelberg', 'reference-count': 0, 'publisher': 'Springer-Verlag', 'isbn-type': [{'value': '354055422X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/bfb0038665', 'type': 'book-chapter', 'created': {'date-parts': [[2006, 1, 25]], 'date-time': '2006-01-25T14:11:55Z', 'timestamp': 1138198315000}, 'page': '186-200', 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['Communication-free hyperplane partitioning of nested loops'], 'prefix': '10.1007', 'author': [{'given': 'C. -H.', 'family': 'Huang', 'sequence': 'first', 'affiliation': []}, {'given': 'P.', 'family': 'Sadayappan', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Languages and Compilers for Parallel Computing', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BFb0038665', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2007, 2, 13]], 'date-time': '2007-02-13T20:56:13Z', 'timestamp': 1171400173000}, 'score': 110.38966, 'issued': {'date-parts': [[None]]}, 'ISBN': ['354055422X'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/bfb0038665'}
+>>> hash >>> ('Communication-free hyperplane partitioning of nested loops', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Uptal Banerjee. Loop Transformations for Restructuring Compilers - The Foundations.Kluwer Academic Publishers, 1993.
+>>> DOI >>> 10.1007/978-0-585-28004-2_6
+>>> URL >>> http://dx.doi.org/10.1007/978-0-585-28004-2_6
+>>> year >>> 1993.0
+>>> title >>> Introduction to Loop Transformations
+>>> author >>> Utpal Banerjee
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Loop Transformations for Restructuring Compilers: The Foundations']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T19:26:53Z', 'timestamp': 1525375613332}, 'publisher-location': 'Boston, MA', 'reference-count': 0, 'publisher': 'Springer US', 'isbn-type': [{'value': '9780792393184', 'type': 'print'}, {'value': '9780585280042', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1993]]}, 'DOI': '10.1007/978-0-585-28004-2_6', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 7, 6]], 'date-time': '2007-07-06T08:01:06Z', 'timestamp': 1183708866000}, 'page': '163-193', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Introduction to Loop Transformations'], 'prefix': '10.1007', 'author': [{'given': 'Utpal', 'family': 'Banerjee', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Loop Transformations for Restructuring Compilers: The Foundations'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-0-585-28004-2_6', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 7]], 'date-time': '2014-01-07T21:05:50Z', 'timestamp': 1389128750000}, 'score': 67.389656, 'issued': {'date-parts': [[1993]]}, 'ISBN': ['9780792393184', '9780585280042'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-0-585-28004-2_6'}
+>>> hash >>> ('Introduction to Loop Transformations', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Michael O'Boyle. Program and Data Transformations for E cient Execution on Distributed Memory Architectures. PhD thesis, University of Manchester, January 1992.
+>>> DOI >>> 10.1007/bfb0032948
+>>> URL >>> http://dx.doi.org/10.1007/bfb0032948
+>>> year >>> None
+>>> title >>> Efficient execution replay technique for distributed memory architectures
+>>> author >>> Eric Leu and André Schiper and Abdelwahab Zramdini
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Distributed Memory Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T00:31:21Z', 'timestamp': 1525480281315}, 'publisher-location': 'Berlin/Heidelberg', 'reference-count': 0, 'publisher': 'Springer-Verlag', 'isbn-type': [{'value': '3540539514', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/bfb0032948', 'type': 'book-chapter', 'created': {'date-parts': [[2005, 12, 1]], 'date-time': '2005-12-01T05:53:45Z', 'timestamp': 1133416425000}, 'page': '315-324', 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['Efficient execution replay technique for distributed memory architectures'], 'prefix': '10.1007', 'author': [{'given': 'Eric', 'family': 'Leu', 'sequence': 'first', 'affiliation': []}, {'given': 'André', 'family': 'Schiper', 'sequence': 'additional', 'affiliation': []}, {'given': 'Abdelwahab', 'family': 'Zramdini', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Lecture Notes in Computer Science', 'Distributed Memory Computing'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BFb0032948', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2007, 2, 13]], 'date-time': '2007-02-13T20:56:13Z', 'timestamp': 1171400173000}, 'score': 34.002434, 'issued': {'date-parts': [[None]]}, 'ISBN': ['3540539514'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/bfb0032948'}
+>>> hash >>> ('Efficient execution replay technique for distributed memory architectures', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Jingke Li and Marina Chen. The data alignment phase in compiling programs for dis-tributed memory machines. Journal Parallel Distributed Computing, 13:213{221, 1991.
+>>> DOI >>> 10.1016/0743-7315(91)90090-v
+>>> URL >>> http://dx.doi.org/10.1016/0743-7315(91)90090-v
+>>> year >>> 1991.0
+>>> title >>> The data alignment phase in compiling programs for distributed-memory machines
+>>> author >>> Jingke Li and Marina Chen
+>>> reference_count >>> 20.0
+>>> is_referenced_by_count >>> 54.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Parallel and Distributed Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T01:28:33Z', 'timestamp': 1525397313719}, 'reference-count': 20, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1991, 10, 1]], 'date-time': '1991-10-01T00:00:00Z', 'timestamp': 686275200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Parallel and Distributed Computing'], 'published-print': {'date-parts': [[1991, 10]]}, 'DOI': '10.1016/0743-7315(91)90090-v', 'type': 'journal-article', 'created': {'date-parts': [[2004, 2, 23]], 'date-time': '2004-02-23T20:14:09Z', 'timestamp': 1077567249000}, 'page': '213-221', 'source': 'Crossref', 'is-referenced-by-count': 54, 'title': ['The data alignment phase in compiling programs for distributed-memory machines'], 'prefix': '10.1016', 'volume': '13', 'author': [{'given': 'Jingke', 'family': 'Li', 'sequence': 'first', 'affiliation': []}, {'given': 'Marina', 'family': 'Chen', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Parallel and Distributed Computing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:074373159190090V?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:074373159190090V?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T03:56:30Z', 'timestamp': 1497585390000}, 'score': 94.02085, 'issued': {'date-parts': [[1991, 10]]}, 'references-count': 20, 'journal-issue': {'published-print': {'date-parts': [[1991, 10]]}, 'issue': '2'}, 'alternative-id': ['074373159190090V'], 'URL': 'http://dx.doi.org/10.1016/0743-7315(91)90090-v', 'ISSN': ['0743-7315'], 'issn-type': [{'value': '0743-7315', 'type': 'print'}]}
+>>> hash >>> ('The data alignment phase in compiling programs for distributed-memory machines', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Michael O'Boyle and G.A. Hedayat. Data alignment: Transformations to reduce commu-nications on distributed memory architectures. In Scalable High-performance Computing Conference SHPCC-92, pages 366{371. IEEE Computer Society Press, 1992.
+>>> DOI >>> 10.1109/shpcc.1992.232671
+>>> URL >>> http://dx.doi.org/10.1109/shpcc.1992.232671
+>>> year >>> None
+>>> title >>> Data alignment: transformations to reduce communication on distributed memory architectures
+>>> author >>> M. O'Boyle and G.A. Hedayat
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings Scalable High Performance Computing Conference SHPCC-92.']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T13:52:35Z', 'timestamp': 1525355555427}, 'reference-count': 12, 'publisher': 'IEEE Comput. Soc. Press', 'isbn-type': [{'value': '0818627751', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/shpcc.1992.232671', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 1, 2]], 'date-time': '2003-01-02T14:32:26Z', 'timestamp': 1041517946000}, 'source': 'Crossref', 'is-referenced-by-count': 8, 'title': ['Data alignment: transformations to reduce communication on distributed memory architectures'], 'prefix': '10.1109', 'author': [{'given': 'M.', 'family': "O'Boyle", 'sequence': 'first', 'affiliation': []}, {'given': 'G.A.', 'family': 'Hedayat', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Scalable High Performance Computing Conference SHPCC-92.', 'location': 'Williamsburg, VA, USA'}, 'container-title': ['Proceedings Scalable High Performance Computing Conference SHPCC-92.'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx2/408/6020/00232671.pdf?arnumber=232671', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T07:16:08Z', 'timestamp': 1489043768000}, 'score': 108.1731, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0818627751'], 'references-count': 12, 'URL': 'http://dx.doi.org/10.1109/shpcc.1992.232671'}
+>>> hash >>> ('Data alignment: transformations to reduce communication on distributed memory architectures', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Paul Feautrier. Towards automatic distribution. Technical Report 92-95, LaboratoireMASI, Institut Blaise Pascal, Paris, December 1992.
+>>> DOI >>> 10.2307/2002498
+>>> URL >>> http://dx.doi.org/10.2307/2002498
+>>> year >>> 1950.0
+>>> title >>> Technical Developments: Report on the Machine of the Institut Blaise Pascal
+>>> author >>> L. Couffignal
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematical Tables and Other Aids to Computation']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T18:08:14Z', 'timestamp': 1525284494530}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '32', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Mathematical Tables and Other Aids to Computation'], 'published-print': {'date-parts': [[1950, 10]]}, 'DOI': '10.2307/2002498', 'type': 'journal-article', 'created': {'date-parts': [[2006, 4, 17]], 'date-time': '2006-04-17T13:42:37Z', 'timestamp': 1145281357000}, 'page': '225', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Technical Developments: Report on the Machine of the Institut Blaise Pascal'], 'prefix': '10.2307', 'volume': '4', 'author': [{'given': 'L.', 'family': 'Couffignal', 'sequence': 'first', 'affiliation': []}], 'member': '1121', 'container-title': ['Mathematical Tables and Other Aids to Computation'], 'deposited': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T02:14:00Z', 'timestamp': 1524017640000}, 'score': 34.142883, 'issued': {'date-parts': [[1950, 10]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1950, 10]]}, 'issue': '32'}, 'URL': 'http://dx.doi.org/10.2307/2002498', 'ISSN': ['0891-6837'], 'issn-type': [{'value': '0891-6837', 'type': 'print'}]}
+>>> hash >>> ('Technical Developments: Report on the Machine of the Institut Blaise Pascal', 1950.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Paul Feautrier. Some e cient solutions to the a ne scheduling problem, part ii, multi-dimensional time. Technical Report 92-78, Laboratoire MASI, Universit e Pierre et MarieCurie, Paris, October 1992. to appear in Int. J. Parallel Programming.
+>>> DOI >>> 10.1007/bf01379404
+>>> URL >>> http://dx.doi.org/10.1007/bf01379404
+>>> year >>> 1992.0
+>>> title >>> Some efficient solutions to the affine scheduling problem. Part II. Multidimensional time
+>>> author >>> Paul Feautrier
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 126.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Parallel Programming']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T16:55:54Z', 'timestamp': 1525452954929}, 'reference-count': 10, 'publisher': 'Springer Nature', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int J Parallel Prog'], 'published-print': {'date-parts': [[1992, 12]]}, 'DOI': '10.1007/bf01379404', 'type': 'journal-article', 'created': {'date-parts': [[2005, 4, 2]], 'date-time': '2005-04-02T00:14:37Z', 'timestamp': 1112400877000}, 'page': '389-420', 'source': 'Crossref', 'is-referenced-by-count': 126, 'title': ['Some efficient solutions to the affine scheduling problem. Part II. Multidimensional time'], 'prefix': '10.1007', 'volume': '21', 'author': [{'given': 'Paul', 'family': 'Feautrier', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'reference': [{'issue': '5', 'key': 'CR1', 'first-page': '313', 'volume': '21', 'author': 'Paul Feautrier', 'year': '1992', 'unstructured': 'Paul Feautrier, Some efficient solutions to the affine scheduling problem, part I, onedimensional time,IJPP,21(5):313?348 (October 1992).', 'journal-title': 'IJPP'}, {'issue': '4', 'key': 'CR2', 'first-page': '491', 'volume': '9', 'author': 'Randy Allen', 'year': '1987', 'unstructured': 'Randy Allen and Ken Kennedy, Automatic translation of fortran programs to vector form,ACM TOPLAS,9(4):491?542 (October 1987).', 'journal-title': 'ACM TOPLAS'}, {'issue': '1', 'key': 'CR3', 'first-page': '23', 'volume': '20', 'author': 'Paul Feautrier', 'year': '1991', 'unstructured': 'Paul Feautrier, Dataflow analysis of scalar and array references,IJPP,20(1):23?53 (February 1991).', 'journal-title': 'IJPP'}, {'key': 'CR4', 'first-page': '157', 'volume': '16', 'author': 'Michael L. Dowling', 'year': '1990', 'unstructured': 'Michael L. Dowling, Optimal code parallelization using unimodular transformations,Parallel Computing,16:157?171 (1990).', 'journal-title': 'Parallel Computing'}, {'key': 'CR5', 'author': 'A. Schrijver', 'year': '1986', 'unstructured': 'A. Schrijver,Theory of Linear and Integer Programming, Wiley, New York (1986).', 'volume-title': 'Theory of Linear and Integer Programming'}, {'key': 'CR6', 'unstructured': 'Alain Darte and Yves Robert, Affine-by-statement Scheduling of Uninform Loop Nests over Parametric Domains. Technical Report 92-16, LIP-IMAG (April 1992).'}, {'key': 'CR7', 'first-page': '243', 'volume': '22', 'author': 'Paul Feautrier', 'year': '1988', 'unstructured': 'Paul Feautrier, Parametric integer programming,RAIRO Recherche Opérationelle,22:243?268 (September 1988).', 'journal-title': 'RAIRO Recherche Opérationelle'}, {'key': 'CR8', 'unstructured': "Paul Feautrier and Nadia Tawbi, Résolution de Systèmes d'Inéquations Linéaires; mode d'emploi du logiciel PIP. Technical Report 90.2, IBP-MASI (January 1990)."}, {'issue': '4', 'key': 'CR9', 'first-page': '452', 'volume': '2', 'author': 'M. Wolf', 'year': '1991', 'unstructured': 'M. Wolf and Monica S. Lam, A loop transformation theory and an algorithm to maximize parallelism,IEEE Trans. on Parallel and Distributed Systems,2(4):452?471 (October 1991).', 'journal-title': 'IEEE Trans. on Parallel and Distributed Systems'}, {'key': 'CR10', 'unstructured': 'Corinne Ancourt and François Irigoin, Scanning polyhedra with do loops, InProc. Third SIGPLAN Symp. on Principles and Practice of Parallel Programming, ACM Press, pp. 39?50 (April 1991).'}], 'container-title': ['International Journal of Parallel Programming'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF01379404', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 1, 25]], 'date-time': '2013-01-25T13:48:27Z', 'timestamp': 1359121707000}, 'score': 67.90258, 'issued': {'date-parts': [[1992, 12]]}, 'references-count': 10, 'journal-issue': {'published-print': {'date-parts': [[1992, 12]]}, 'issue': '6'}, 'alternative-id': ['BF01379404'], 'URL': 'http://dx.doi.org/10.1007/bf01379404', 'relation': {'cites': []}, 'ISSN': ['0885-7458', '1573-7640'], 'issn-type': [{'value': '0885-7458', 'type': 'print'}, {'value': '1573-7640', 'type': 'electronic'}]}
+>>> hash >>> ('Some efficient solutions to the affine scheduling problem. Part II. Multidimensional time', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hich Performance Fortran Forum. High performance fortran language speci cation. Tech-nical report, Rice University, January 1993.
+>>> DOI >>> 10.1145/174223.158909
+>>> URL >>> http://dx.doi.org/10.1145/174223.158909
+>>> year >>> 1993.0
+>>> title >>> High performance Fortran language specification
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['ACM SIGPLAN Fortran Forum']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T10:20:00Z', 'timestamp': 1525342800480}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIGPLAN Fortran Forum'], 'published-print': {'date-parts': [[1993, 12, 1]]}, 'DOI': '10.1145/174223.158909', 'type': 'journal-article', 'created': {'date-parts': [[2007, 1, 17]], 'date-time': '2007-01-17T18:32:02Z', 'timestamp': 1169058722000}, 'page': '1-86', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['High performance Fortran language specification'], 'prefix': '10.1145', 'volume': '12', 'author': [{'name': 'CORPORATE Rice University', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'container-title': ['ACM SIGPLAN Fortran Forum'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=158909&amp;ftid=299532&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T06:02:15Z', 'timestamp': 1481868135000}, 'score': 77.51537, 'issued': {'date-parts': [[1993, 12, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1993, 12, 1]]}, 'issue': '4'}, 'URL': 'http://dx.doi.org/10.1145/174223.158909', 'ISSN': ['1061-7264'], 'issn-type': [{'value': '1061-7264', 'type': 'print'}]}
+>>> hash >>> ('High performance Fortran language specification', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Gondran and M. Minoux. Graphs and Algorithms. John Wiley, 1984
+>>> DOI >>> 10.1137/1028176
+>>> URL >>> http://dx.doi.org/10.1137/1028176
+>>> year >>> 1986.0
+>>> title >>> Graphs and Algorithms (M. Gondran and M. Minoux)
+>>> author >>> C. Y. Chao
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Review']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:58:48Z', 'timestamp': 1525445928075}, 'reference-count': 0, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM Rev.'], 'published-print': {'date-parts': [[1986, 12]]}, 'DOI': '10.1137/1028176', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 7]], 'date-time': '2005-03-07T07:08:38Z', 'timestamp': 1110179318000}, 'page': '583-584', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Graphs and Algorithms (M. Gondran and M. Minoux)'], 'prefix': '10.1137', 'volume': '28', 'author': [{'given': 'C. Y.', 'family': 'Chao', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Review'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/1028176', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T18:23:47Z', 'timestamp': 1485714227000}, 'score': 41.19093, 'issued': {'date-parts': [[1986, 12]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1986, 12]]}, 'issue': '4'}, 'alternative-id': ['10.1137/1028176'], 'URL': 'http://dx.doi.org/10.1137/1028176', 'ISSN': ['0036-1445', '1095-7200'], 'issn-type': [{'value': '0036-1445', 'type': 'print'}, {'value': '1095-7200', 'type': 'electronic'}]}
+>>> hash >>> ('Graphs and Algorithms (M. Gondran and M. Minoux)', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Paul Feautrier. Data ow analysis of array and scalar references. Int. J. Parallel Program- ming, 20(1):23{51, 1991.
+>>> DOI >>> 10.1007/bf01407931
+>>> URL >>> http://dx.doi.org/10.1007/bf01407931
+>>> year >>> 1991.0
+>>> title >>> Dataflow analysis of array and scalar references
+>>> author >>> Paul Feautrier
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 185.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Parallel Programming']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T18:22:35Z', 'timestamp': 1527272555726}, 'reference-count': 28, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int J Parallel Prog'], 'published-print': {'date-parts': [[1991, 2]]}, 'DOI': '10.1007/bf01407931', 'type': 'journal-article', 'created': {'date-parts': [[2005, 4, 3]], 'date-time': '2005-04-03T01:19:38Z', 'timestamp': 1112491178000}, 'page': '23-53', 'source': 'Crossref', 'is-referenced-by-count': 185, 'title': ['Dataflow analysis of array and scalar references'], 'prefix': '10.1007', 'volume': '20', 'author': [{'given': 'Paul', 'family': 'Feautrier', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'CR1', 'first-page': '243', 'volume': '22', 'author': 'Paul Feautrier', 'year': '1988', 'unstructured': 'Paul Feautrier, Parametric integer programming,RAIRO Recherche Opérationnlle,22:243?268 (September 1988).', 'journal-title': 'RAIRO Recherche Opérationnlle'}, {'key': 'CR2', 'unstructured': 'N. Suzuki and D. Jefferson, Verification decidability of Pressburger array programs.Procs. of a Conf. on TCS, Waterloo (1977).'}, {'key': 'CR3', 'author': 'David J. Kuck', 'year': '1978', 'unstructured': 'David J. Kuck,The Structure of Computers and Computations, J. Wiley and Sons, New York (1978).', 'volume-title': 'The Structure of Computers and Computations'}, {'key': 'CR4', 'first-page': '1184', 'volume': '29', 'author': 'D. A. Padua', 'year': '1986', 'unstructured': 'D. A. Padua and Michael J. Wolfe, Advanced compiler optimization for supercomputers,CACM,29:1184?1201 (December 1986).', 'journal-title': 'CACM'}, {'issue': '4', 'key': 'CR5', 'first-page': '491', 'volume': '9', 'author': 'J. R. Allen', 'year': '1987', 'unstructured': 'J. R. Allen and Ken Kennedy, Automatic translation of FORTRAN programs to vector form,ACM TOPLAS,9(4):491?542 (October 1987).', 'journal-title': 'ACM TOPLAS'}, {'key': 'CR6', 'unstructured': "Thomas Brandes, The importance of direct dependences for automatic parallelization,ACM Int'l. Conf. on Supercomputing, St. Malo, France (July 1988)."}, {'key': 'CR7', 'first-page': '137', 'volume': '16', 'author': 'Michael J. Wolfe', 'year': '1987', 'unstructured': 'Michael J. Wolfe and Utpal Banerjee, Data dependence and its application to parallci processing,IJPP 16:137?178 (1987).', 'journal-title': 'IJPP'}, {'key': 'CR8', 'unstructured': 'Nadia Tawbi, Alain Dumay, and Paul Feautrier, PAF: un paralléliseur automatique pour FORTRAN, Technical Report 185,MASI (1987).'}, {'key': 'CR9', 'unstructured': 'L. G. Tesler and H. J. Enea, A language design design for concurrent processes,SJCC, pp. 403?408 (1968).'}, {'key': 'CR10', 'unstructured': "J. C. Syre, D. Comte, and N. Hifdi, Pipelining, parallelism and asynchronism in the LAU system,Int'l. Conf. on Parallel Processing (1977)."}, {'key': 'CR11', 'author': 'Jacques Arsac', 'year': '1977', 'unstructured': 'Jacques Arsac,La construction de programmes structurés, Dunod, Paris (1977).', 'volume-title': 'La construction de programmes structurés'}, {'key': 'CR12', 'unstructured': 'E. A. Ashcroft and W. W. Wadge,Lucid, the Data-flow Programming Language, Academic Press (1985).'}, {'key': 'CR13', 'unstructured': 'J. R. Allen and Ken Kennedy, Automatic loop interchange,Proc. of the ACM SIGPLAN Compiler Conference, pp. 233?246 (June 1984).'}, {'key': 'CR14', 'unstructured': 'Patrice Quinton, Mapping recurrences on parallel architectures,3rd Intl. Conf. on Supercomputing, Boston (May 1988).'}, {'key': 'CR15', 'unstructured': 'Paul Feautrier, Asymptotically efficient algorithms for parallel architectures, (ed.), M. Cosnard and C. Girault,Decentralized Systems, pp. 273?284;IFIP WG Vol. 10, No. 3, North-Holland (December 1989).'}, {'key': 'CR16', 'unstructured': 'William Pugh, Uniform techniques for loop optimization,ACM Conf. on Supercomputing, pp. 341?352 (January 1991).'}, {'key': 'CR17', 'first-page': '28', 'volume': '26', 'author': 'Lee-Chung Lu', 'year': '1991', 'unstructured': 'Lee-Chung, Lu, A unified framework for systematic loop transformations,SIGPLAN Notices,26:28?38 (July 1991);3rd ACM SIGPLAN Symp. on Principles and Practice of Parallel Programming.', 'journal-title': 'SIGPLAN Notices'}, {'key': 'CR18', 'author': 'A. V. Aho', 'year': '1986', 'unstructured': 'A. V. Aho, R. Sethi, and J. D. Ullman,Compilers: Principles, Techniques and Tools, Addison-Wesley, Reading, Massachusetts (1986).', 'volume-title': 'Compilers: Principles, Techniques and Tools'}, {'key': 'CR19', 'unstructured': 'Ron Cytron, Jeanne Ferrante, Barry K. Rosen, Mark N. Wegman, and F. Kenneth Zadeck, An efficient method of computing static single assignment form,Proc. 16th ACM POPL Conf., pp. 25?35 (January 1989).'}, {'key': 'CR20', 'first-page': '118', 'volume': '12', 'author': 'Micah Beck', 'year': '1991', 'unstructured': 'Micah Beck, Richard Johnson, and Keshav Pingali, From control flow to dataflow,J. of Parallel and Distributed Computing,12:118?129 (1991).', 'journal-title': 'J. of Parallel and Distributed Computing'}, {'key': 'CR21', 'doi-asserted-by': 'crossref', 'first-page': '83', 'DOI': '10.1145/360827.360844', 'volume': '17', 'author': 'Leslie Lamport', 'year': '1974', 'unstructured': 'Leslie Lamport, The parallel execution of DO loops,CACM,17:83?93 (February 1974).', 'journal-title': 'CACM'}, {'key': 'CR22', 'unstructured': 'François Irigoin and Rémi Triolet, Supernode partitioning, San Diego, California,Proc. 15th POPL, pp. 319?328 (January 1988).'}, {'key': 'CR23', 'first-page': '145', 'volume': '11', 'author': 'Zhiyu Shen', 'year': '1989', 'unstructured': "Zhiyu Shen, Zhiyuan Li, and Pen-Chung Yew, An empirical study on array subscripts and data dependencies,Int'l. Conf. on Parallel Processing, Vol.11, pp. 145?152 (1989).", 'journal-title': "Int'l. Conf. on Parallel Processing"}, {'key': 'CR24', 'first-page': '98', 'volume': '24', 'author': 'Brenda S. Baker', 'year': '1977', 'unstructured': 'Brenda S. Baker, An algorithm for structuring programs,J. of the ACM,24:98?120 (1977).', 'journal-title': 'J. of the ACM'}, {'key': 'CR25', 'author': 'Zahira Ammarguellat', 'year': '1988', 'unstructured': 'Zahira Ammarguellat, Restructuration des programmes FORTRAN en vue de leur parallélisation, Ph.D. thesis, Université P. et M. Curie, Paris (December 1988).', 'volume-title': 'Restructuration des programmes FORTRAN en vue de leur parallélisation'}, {'key': 'CR26', 'unstructured': 'Zahira Ammarguellat, Normalization of Program Control Flow, Technical Report 885,CSRD (May 1989).'}, {'key': 'CR27', 'unstructured': "Pierre Jouvelot and Babak Dehbonei, A unified semantic approach for the vectorization and parallelization of generalized reductions ACM Press,Procs. of the 3rd Int'l. Conf. on Supercomputing, pp. 186 194 (1989)."}, {'key': 'CR28', 'unstructured': "Paul Feautrier, Array expansion,ACM Int'l. Conf. on Supercomputing, St. Malo (1988)."}], 'container-title': ['International Journal of Parallel Programming'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF01407931', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T17:55:43Z', 'timestamp': 1497635743000}, 'score': 68.877945, 'issued': {'date-parts': [[1991, 2]]}, 'references-count': 28, 'journal-issue': {'published-print': {'date-parts': [[1991, 2]]}, 'issue': '1'}, 'alternative-id': ['BF01407931'], 'URL': 'http://dx.doi.org/10.1007/bf01407931', 'relation': {'cites': []}, 'ISSN': ['0885-7458', '1573-7640'], 'issn-type': [{'value': '0885-7458', 'type': 'print'}, {'value': '1573-7640', 'type': 'electronic'}]}
+>>> hash >>> ('Dataflow analysis of array and scalar references', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Jaon D. Lukas and Kathleen Knobe. Data optimization and its e ect on communicationcosts in MIMD fortran code. In Dongarra, Kennedy, Messina, Sorensen, and Voigt, editors, Fifth SIAM Conference on Parallel Processing for Scienti c Computing, pages 478{483. SIAM Press, 1992.
+>>> DOI >>> 10.2307/2153267
+>>> URL >>> http://dx.doi.org/10.2307/2153267
+>>> year >>> 1993.0
+>>> title >>> Parallel Processing for Scientific Computing.
+>>> author >>> J. W. D. and Jack Dongarra and Ken Kennedy and Paul Messina and Danny C. Sorensen and Robert G. Voigt
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematics of Computation']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T00:10:31Z', 'timestamp': 1525824631770}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '204', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Mathematics of Computation'], 'published-print': {'date-parts': [[1993, 10]]}, 'DOI': '10.2307/2153267', 'type': 'journal-article', 'created': {'date-parts': [[2006, 4, 22]], 'date-time': '2006-04-22T15:16:16Z', 'timestamp': 1145718976000}, 'page': '940', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Parallel Processing for Scientific Computing.'], 'prefix': '10.2307', 'volume': '61', 'author': [{'given': 'J. W.', 'family': 'D.', 'sequence': 'first', 'affiliation': []}, {'given': 'Jack', 'family': 'Dongarra', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ken', 'family': 'Kennedy', 'sequence': 'additional', 'affiliation': []}, {'given': 'Paul', 'family': 'Messina', 'sequence': 'additional', 'affiliation': []}, {'given': 'Danny C.', 'family': 'Sorensen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Robert G.', 'family': 'Voigt', 'sequence': 'additional', 'affiliation': []}], 'member': '1121', 'container-title': ['Mathematics of Computation'], 'deposited': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T23:52:18Z', 'timestamp': 1525823538000}, 'score': 54.23561, 'issued': {'date-parts': [[1993, 10]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1993, 10]]}, 'issue': '204'}, 'URL': 'http://dx.doi.org/10.2307/2153267', 'ISSN': ['0025-5718'], 'issn-type': [{'value': '0025-5718', 'type': 'print'}]}
+>>> hash >>> ('Parallel Processing for Scientific Computing.', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Seema Hiranandani, Ken Kennedy, and Chau-Wen Tseng. Compiling Fortran D for MIMDdistributed-memory machines. Communications of the ACM, 35(8):66{80, 1992.
+>>> DOI >>> 10.1145/135226.135230
+>>> URL >>> http://dx.doi.org/10.1145/135226.135230
+>>> year >>> 1992.0
+>>> title >>> Compiling Fortran D for MIMD distributed-memory machines
+>>> author >>> Seema Hiranandani and Ken Kennedy and Chau-Wen Tseng
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 175.0
+>>> subject >>> None
+>>> container_title >>> ['Communications of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:12:44Z', 'timestamp': 1525335164476}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '8', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Commun. ACM'], 'published-print': {'date-parts': [[1992, 8, 1]]}, 'DOI': '10.1145/135226.135230', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:32:13Z', 'timestamp': 1027769533000}, 'page': '66-80', 'source': 'Crossref', 'is-referenced-by-count': 175, 'title': ['Compiling Fortran D for MIMD distributed-memory machines'], 'prefix': '10.1145', 'volume': '35', 'author': [{'given': 'Seema', 'family': 'Hiranandani', 'sequence': 'first', 'affiliation': []}, {'given': 'Ken', 'family': 'Kennedy', 'sequence': 'additional', 'affiliation': []}, {'given': 'Chau-Wen', 'family': 'Tseng', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['Communications of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=135230&amp;ftid=43028&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T03:01:11Z', 'timestamp': 1481857271000}, 'score': 87.18948, 'issued': {'date-parts': [[1992, 8, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '8'}, 'URL': 'http://dx.doi.org/10.1145/135226.135230', 'ISSN': ['0001-0782'], 'issn-type': [{'value': '0001-0782', 'type': 'print'}]}
+>>> hash >>> ('Compiling Fortran D for MIMD distributed-memory machines', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Alain Darte, Tanguy Risset, and Yves Robert. Loop nest scheduling and transformations. InJ.J. Dongarra and B. Tourancheau, editors, Environments and Tools for Parallel Scienti c Computing, volume 6 of Advances in Parallel Computing, pages 309{332. North Holland, 1993.
+>>> DOI >>> 10.1016/s0167-8191(97)00006-9
+>>> URL >>> http://dx.doi.org/10.1016/s0167-8191(97)00006-9
+>>> year >>> 1997.0
+>>> title >>> Workshop on environments and tools for parallel scientific computing
+>>> author >>> J. Dongarra and B. Tourancheau
+>>> reference_count >>> 2.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Parallel Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T00:29:00Z', 'timestamp': 1525307340654}, 'reference-count': 2, 'publisher': 'Elsevier BV', 'issue': '1-2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1997, 4, 1]], 'date-time': '1997-04-01T00:00:00Z', 'timestamp': 859852800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Parallel Computing'], 'published-print': {'date-parts': [[1997, 4]]}, 'DOI': '10.1016/s0167-8191(97)00006-9', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T23:18:22Z', 'timestamp': 1027639102000}, 'page': '1-4', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Workshop on environments and tools for parallel scientific computing'], 'prefix': '10.1016', 'volume': '23', 'author': [{'given': 'J.', 'family': 'Dongarra', 'sequence': 'first', 'affiliation': []}, {'given': 'B.', 'family': 'Tourancheau', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Parallel Computing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0167819197000069?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0167819197000069?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2015, 9, 8]], 'date-time': '2015-09-08T16:03:15Z', 'timestamp': 1441728195000}, 'score': 75.82869, 'issued': {'date-parts': [[1997, 4]]}, 'references-count': 2, 'journal-issue': {'published-print': {'date-parts': [[1997, 4]]}, 'issue': '1-2'}, 'alternative-id': ['S0167819197000069'], 'URL': 'http://dx.doi.org/10.1016/s0167-8191(97)00006-9', 'ISSN': ['0167-8191'], 'issn-type': [{'value': '0167-8191', 'type': 'print'}]}
+>>> hash >>> ('Workshop on environments and tools for parallel scientific computing', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hans Zima and Barbara Chapman. Supercompilers for Parallel and Vector Computers.ACM Press, 1990.
+>>> DOI >>> 10.1109/aispas.1995.401323
+>>> URL >>> http://dx.doi.org/10.1109/aispas.1995.401323
+>>> year >>> None
+>>> title >>> Supercompilers for massively parallel architectures
+>>> author >>> B. Chapman and M. Pantano and H. Zima
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings the First Aizu International Symposium on Parallel Algorithms/Architecture Synthesis']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T11:53:39Z', 'timestamp': 1525348419189}, 'reference-count': 22, 'publisher': 'IEEE Comput. Soc. Press', 'isbn-type': [{'value': '081867038X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/aispas.1995.401323', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 19]], 'date-time': '2002-11-19T17:08:17Z', 'timestamp': 1037725697000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Supercompilers for massively parallel architectures'], 'prefix': '10.1109', 'author': [{'given': 'B.', 'family': 'Chapman', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Pantano', 'sequence': 'additional', 'affiliation': []}, {'given': 'H.', 'family': 'Zima', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'the First Aizu International Symposium on Parallel Algorithms/Architecture Synthesis', 'location': 'Fukushima, Japan', 'acronym': 'AISPAS-95'}, 'container-title': ['Proceedings the First Aizu International Symposium on Parallel Algorithms/Architecture Synthesis'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx2/3186/9052/00401323.pdf?arnumber=401323', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T02:37:14Z', 'timestamp': 1489027034000}, 'score': 45.681583, 'issued': {'date-parts': [[None]]}, 'ISBN': ['081867038X'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1109/aispas.1995.401323'}
+>>> hash >>> ('Supercompilers for massively parallel architectures', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Ramanujam and P. Sadayappan. Compile-time techniques for data distribution in dis-tributed memory machines. IEEE Trans. Parallel Distributed Systems, 2(4):472{482, 1991.
+>>> DOI >>> 10.1109/71.97903
+>>> URL >>> http://dx.doi.org/10.1109/71.97903
+>>> year >>> 1991.0
+>>> title >>> Compile-time techniques for data distribution in distributed memory machines
+>>> author >>> J. Ramanujam and P. Sadayappan
+>>> reference_count >>> 25.0
+>>> is_referenced_by_count >>> 64.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Parallel and Distributed Systems']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:23:58Z', 'timestamp': 1525332238160}, 'reference-count': 25, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Parallel Distrib. Syst.'], 'published-print': {'date-parts': [[1991]]}, 'DOI': '10.1109/71.97903', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T19:16:32Z', 'timestamp': 1030216592000}, 'page': '472-482', 'source': 'Crossref', 'is-referenced-by-count': 64, 'title': ['Compile-time techniques for data distribution in distributed memory machines'], 'prefix': '10.1109', 'volume': '2', 'author': [{'given': 'J.', 'family': 'Ramanujam', 'sequence': 'first', 'affiliation': []}, {'given': 'P.', 'family': 'Sadayappan', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Parallel and Distributed Systems'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx4/71/3107/00097903.pdf?arnumber=97903', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:01:18Z', 'timestamp': 1497520878000}, 'score': 107.3208, 'issued': {'date-parts': [[1991]]}, 'references-count': 25, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/71.97903', 'ISSN': ['1045-9219'], 'issn-type': [{'value': '1045-9219', 'type': 'print'}]}
+>>> hash >>> ('Compile-time techniques for data distribution in distributed memory machines', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Gelernter, Nicolau, and Padua, editors. Languages and Compilers for Parallel Computing.The MIT Press, Cambridge, Massachusetts, 1990.
+>>> DOI >>> 10.1007/3-540-57502-2
+>>> URL >>> http://dx.doi.org/10.1007/3-540-57502-2
+>>> year >>> 1993.0
+>>> title >>> Languages and Compilers for Parallel Computing
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T04:01:02Z', 'timestamp': 1525492862238}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540575023', 'type': 'print'}, {'value': '9783540482017', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[1993, 1, 1]], 'date-time': '1993-01-01T00:00:00Z', 'timestamp': 725846400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1993]]}, 'DOI': '10.1007/3-540-57502-2', 'type': 'book', 'created': {'date-parts': [[2012, 2, 26]], 'date-time': '2012-02-26T13:02:23Z', 'timestamp': 1330261343000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Languages and Compilers for Parallel Computing'], 'prefix': '10.1007', 'member': '297', 'container-title': ['Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-57502-2', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 8, 10]], 'date-time': '2016-08-10T15:38:49Z', 'timestamp': 1470843529000}, 'score': 62.709373, 'editor': [{'given': 'Utpal', 'family': 'Banerjee', 'sequence': 'first', 'affiliation': []}, {'given': 'David', 'family': 'Gelernter', 'sequence': 'additional', 'affiliation': []}, {'given': 'Alex', 'family': 'Nicolau', 'sequence': 'additional', 'affiliation': []}, {'given': 'David', 'family': 'Padua', 'sequence': 'additional', 'affiliation': []}], 'issued': {'date-parts': [[1993]]}, 'ISBN': ['9783540575023', '9783540482017'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-57502-2', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Languages and Compilers for Parallel Computing', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Seema Hiranandani, Ken Kennedy, and Chau-Wen Tseng. Compiler optimizations forFORTRAN D on MIMD distributed-memory machines. In Supercomputing 91, pages 86{100. IEEE Computer Society Press, nov 1991.
+>>> DOI >>> 10.1145/125826.125886
+>>> URL >>> http://dx.doi.org/10.1145/125826.125886
+>>> year >>> 1991.0
+>>> title >>> Compiler optimizations for Fortran D on MIMD distributed-memory machines
+>>> author >>> Seema Hiranandani and Ken Kennedy and Chau-Wen Tseng
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 23.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 1991 ACM/IEEE conference on Supercomputing  - Supercomputing '91"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T01:02:31Z', 'timestamp': 1525395751083}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897914597', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1991]]}, 'DOI': '10.1145/125826.125886', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 2, 3]], 'date-time': '2004-02-03T16:19:47Z', 'timestamp': 1075825187000}, 'source': 'Crossref', 'is-referenced-by-count': 23, 'title': ['Compiler optimizations for Fortran D on MIMD distributed-memory machines'], 'prefix': '10.1145', 'author': [{'given': 'Seema', 'family': 'Hiranandani', 'sequence': 'first', 'affiliation': []}, {'given': 'Ken', 'family': 'Kennedy', 'sequence': 'additional', 'affiliation': []}, {'given': 'Chau-Wen', 'family': 'Tseng', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 1991 ACM/IEEE conference', 'location': 'Albuquerque, New Mexico, United States', 'sponsor': ['IEEE, Institute of Electrical and Electronics Engineers', 'SIGARCH, ACM Special Interest Group on Computer Architecture'], 'acronym': "Supercomputing '91", 'number': '1991', 'start': {'date-parts': [[1991, 11, 18]]}, 'end': {'date-parts': [[1991, 11, 22]]}}, 'container-title': ["Proceedings of the 1991 ACM/IEEE conference on Supercomputing  - Supercomputing '91"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=125886&amp;ftid=25372&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 12]], 'date-time': '2016-12-12T17:24:51Z', 'timestamp': 1481563491000}, 'score': 98.82861, 'issued': {'date-parts': [[1991]]}, 'ISBN': ['0897914597'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/125826.125886'}
+>>> hash >>> ('Compiler optimizations for Fortran D on MIMD distributed-memory machines', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Paul Feautrier. Some e cient solutions to the a ne scheduling problem, part i, one-dimensional time. Technical Report 92-28, Laboratoire MASI, Universit e Pierre et MarieCurie, Paris, May 1992. to appear in Int. J. Parallel Programming.
+>>> DOI >>> 10.1007/bf01407835
+>>> URL >>> http://dx.doi.org/10.1007/bf01407835
+>>> year >>> 1992.0
+>>> title >>> Some efficient solutions to the affine scheduling problem. I. One-dimensional time
+>>> author >>> Paul Feautrier
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 122.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Parallel Programming']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database169.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T18:22:35Z', 'timestamp': 1527272555742}, 'reference-count': 32, 'publisher': 'Springer Nature', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int J Parallel Prog'], 'published-print': {'date-parts': [[1992, 10]]}, 'DOI': '10.1007/bf01407835', 'type': 'journal-article', 'created': {'date-parts': [[2005, 4, 3]], 'date-time': '2005-04-03T06:47:31Z', 'timestamp': 1112510851000}, 'page': '313-347', 'source': 'Crossref', 'is-referenced-by-count': 122, 'title': ['Some efficient solutions to the affine scheduling problem. I. One-dimensional time'], 'prefix': '10.1007', 'volume': '21', 'author': [{'given': 'Paul', 'family': 'Feautrier', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'CR1', 'unstructured': 'Paul Feautrier, Asymptotically efficient algorithms for parallel architectures, M. Cosnard and C. Girault (eds.), IFIP WG 10.3, North-Holland,Decentralized System, pp. 273?284 (December 1989).'}, {'key': 'CR2', 'unstructured': 'Patrice Quinton and V. van Dongen, The mapping of linear recurrence equations on regular arrays, submitted toThe Journal of VLSI Signal Processing (September 1988).'}, {'key': 'CR3', 'first-page': '163', 'volume': '14', 'author': 'Sanjay V. Rajopadhye', 'year': '1990', 'unstructured': 'Sanjay V. Rajopadhye and Richard M. Fujimoto, Synthesizing systolic rays from recurrence equations.Parallel Computing 14:163?189 (1990).', 'journal-title': 'Parallel Computing'}, {'key': 'CR4', 'doi-asserted-by': 'crossref', 'first-page': '83', 'DOI': '10.1145/360827.360844', 'volume': '17', 'author': 'Leslie Lamport', 'year': '1974', 'unstructured': 'Leslie Lamport, The parallel execution of do loops.CACM 17:83?93 (February 1974).', 'journal-title': 'CACM'}, {'key': 'CR5', 'first-page': '157', 'volume': '16', 'author': 'Michael L. Dowling', 'year': '1990', 'unstructured': 'Michael L. Dowling, Optimal code parallelization using unimodular transformations,Parallel Computing 16:157?171 (1990).', 'journal-title': 'Parallel Computing'}, {'key': 'CR6', 'unstructured': "Mourad Raji-Werth and Paul Feautrier, Systematic construction of program for distributed memory systems, Paul Feautrier and François Irigoin (eds.),Proc. of the Int'l. Workshop on Compiler for Parallel Computers, Paris (December 1990)."}, {'key': 'CR7', 'unstructured': 'William Pugh, Uniform techniques for loop optimization,ACM Conf. on Supercomputing, pp. 341?352 (January 1991).'}, {'key': 'CR8', 'first-page': '28', 'volume': '26', 'author': 'Lee-Chung Lu', 'year': '1991', 'unstructured': 'Lee-Chung Lu, A unified framework for systematic loop transformations,SIGPLAN Notices, Third ACM SIGPLAN Symp. on Principles and Practice of Parallel Programming 26, 28?38 (July 1991).', 'journal-title': 'SIGPLAN Notices, Third ACM SIGPLAN Symp. on Principles and Practice of Parallel Programming'}, {'key': 'CR9', 'unstructured': 'Alain Darte and Yves Robert, Mapping Uniform Loop Nests onto Distributed Memory Architectures, Technical Report 93-03, LIP-IMAG (January 1993).'}, {'key': 'CR10', 'unstructured': 'Paul Feautrier, Some efficient solutions to the affine scheduling problem, Part II, multidimensional time,IJPP (to appear). Also available as IBP-MASI Research Report 92.78.'}, {'key': 'CR11', 'author': 'A. Schrijver', 'year': '1986', 'unstructured': 'A. Schrijver,Theory of Linear and Integer Programming, Wiley, New York (1986).', 'volume-title': 'Theory of Linear and Integer Programming'}, {'issue': '1', 'key': 'CR12', 'first-page': '23', 'volume': '20', 'author': 'Paul Feautrier', 'year': '1991', 'unstructured': 'Paul Feautrier, Dataflow analysis of scalar and array references,IJPP 20(1):23?53 (February 1991).', 'journal-title': 'IJPP'}, {'issue': '6', 'key': 'CR13', 'first-page': '233', 'volume': '19', 'author': 'J. R. Allen', 'year': '1984', 'unstructured': 'J. R. Allen and Ken Kennedy, Automatic loop interchange,SIGPLAN Notices 19(6):233?246 (June 1984).', 'journal-title': 'SIGPLAN Notices'}, {'key': 'CR14', 'unstructured': 'Michael J. Wolfe,Optimizing Supercompilers for Supercomputers, Pitman and The MIT Press (1989).'}, {'key': 'CR15', 'unstructured': 'François Irigoin and Rémi Triolet, Supernode partitioning,Proc. 15th POPL, San Diego, California, pp. 319?328 (January 1988).'}, {'key': 'CR16', 'first-page': '563', 'volume': '14', 'author': 'R. M. Karp', 'year': '1967', 'unstructured': 'R. M. Karp, R. E. Miller, and S. Winograd, The organization of computations for uniform recurrence equations.Journal of the ACM 14:563?590 (1967).', 'journal-title': 'Journal of the ACM'}, {'key': 'CR17', 'author': 'Jacques Arsac', 'year': '1977', 'unstructured': 'Jacques Arsac,La Contruction de Programmes Structurés, Dunod, Paris (1977).', 'volume-title': 'La Contruction de Programmes Structurés'}, {'key': 'CR18', 'unstructured': 'E. A. Ashcroft and W. W. Wadge,Lucid, the Data-flow Programming Language, Academic Press (1985).'}, {'key': 'CR19', 'unstructured': 'L. G. Tesler and H. J. Enea, A language design for concurrent processes,SJCC, pp. 403?408 (1968).'}, {'key': 'CR20', 'unstructured': 'Marina C. Chen, A parallel language and its compilation to multiprocessor machines for VLSI,Proc. ACM POPL (1986).'}, {'key': 'CR21', 'first-page': '173', 'volume': '3', 'author': 'Hervé Leverge', 'year': '1991', 'unstructured': 'Hervé Leverge, Christophe Mauras, and Patrice Quinton, TheALPHA language and its use for the design of systolic arrays,Journal of VLSI Signal Processing 3:173?182 (1991).', 'journal-title': 'Journal of VLSI Signal Processing'}, {'key': 'CR22', 'unstructured': "Paul Feautrier, Array expansion,ACM Int'l. Conf. on Supercomputing, St. Malo (1988)."}, {'key': 'CR23', 'first-page': '603', 'volume': '40', 'author': 'Joel H. Salz', 'year': '1881', 'unstructured': 'Joel H. Salz, Ravi Mirchandaney, and Kay Crowley, Run-time parallelization and scheduling of loops,IEEE Trans. on Computers 40:603?612 (May 1881).', 'journal-title': 'IEEE Trans. on Computers'}, {'key': 'CR24', 'unstructured': "Brigitte Jouannault, Conception d'algorithmes et d'architectures systoliques, PhD Thesis, Université de Rennes I (September 1987)."}, {'key': 'CR25', 'unstructured': 'Yannick Saouter and Patrice Quinton, Computability of Recurrence Equations, Technical Report 521, IRISA (February 1990).'}, {'key': 'CR26', 'unstructured': 'Patrice Quinton, The systematic design of systolic arrays, F. Fogelman, Y. Robert, and M. Tschuente (eds.), Manchester University Press,Automata Networks in Computer Science, pp. 229?260 (December 1987).'}, {'key': 'CR27', 'unstructured': 'Alain Darte and Yves Robert, Affine-by-statement Scheduling of Uniform Loop Nest over Parametric Domains, Technical Report 92-16, LIP-IMAG (April 1992).'}, {'key': 'CR28', 'unstructured': "Hervé Leverge, A note on Chernikova's algorithm, Technical Report 635, INRIA (May 1992)."}, {'key': 'CR29', 'unstructured': "Paul Feautrier and Nadia Tawbi Résolution de Systèmes d'Inéquations Linéaires; mode d'emploi du logiciel PIP, Technical Report 90.2, IBP-MASI (January 1990)."}, {'key': 'CR30', 'unstructured': 'Christophe Mauras, Patrice Quinton, Sanjay Rajopadhye, and Yannick Saouter, Scheduling Affine Parameterized Recurrences by means of Variable Dependent Timing Functions, Technical Report 1204, INRIA (April 1990).'}, {'issue': '6', 'key': 'CR31', 'first-page': '723', 'volume': '40', 'author': 'Weijia Shang', 'year': '1991', 'unstructured': 'Weijia Shang and Jose A. B. Fortes, Time optimal linear schedules for algorithms with uniform dependencies.IEEE Transactions on Computers 40(6):723?742 (June 1991).', 'journal-title': 'IEEE Transactions on Computers'}, {'key': 'CR32', 'unstructured': 'Alain Darte, Leonid Kachian, and Yves Robert, Linear Scheduling is Nearly Optimal, Technical Report 91-35, LIP-IMAG (November 1991). To appear inParallel Processing Letters.'}], 'container-title': ['International Journal of Parallel Programming'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF01407835', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T17:55:59Z', 'timestamp': 1497635759000}, 'score': 69.075005, 'issued': {'date-parts': [[1992, 10]]}, 'references-count': 32, 'journal-issue': {'published-print': {'date-parts': [[1992, 10]]}, 'issue': '5'}, 'alternative-id': ['BF01407835'], 'URL': 'http://dx.doi.org/10.1007/bf01407835', 'relation': {'cites': []}, 'ISSN': ['0885-7458', '1573-7640'], 'issn-type': [{'value': '0885-7458', 'type': 'print'}, {'value': '1573-7640', 'type': 'electronic'}]}
+>>> hash >>> ('Some efficient solutions to the affine scheduling problem. I. One-dimensional time', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

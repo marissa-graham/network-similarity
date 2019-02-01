@@ -1,0 +1,265 @@
+>>> NEW PAPER <<<
+>>> citation >>> R Bracho, J Schlag, A.C Sanderson Popeye: A gray-level vision system for robotics applications Technical Report CMU-RI-TR-83-6, Robotics Institute, CMU (1983)
+>>> DOI >>> 10.1117/12.934093
+>>> URL >>> http://dx.doi.org/10.1117/12.934093
+>>> year >>> 1983.0
+>>> title >>> <title>Segmentation And Compression Of Gray Level Images Using Piecewise Gradient Models</title>
+>>> author >>> A. C. Sanderson and R. Bracho
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Robotics and Industrial Inspection']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database105.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T19:39:28Z', 'timestamp': 1525549168640}, 'reference-count': 0, 'publisher': 'SPIE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1983, 5, 23]]}, 'DOI': '10.1117/12.934093', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 10, 2]], 'date-time': '2012-10-02T20:56:58Z', 'timestamp': 1349211418000}, 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['<title>Segmentation And Compression Of Gray Level Images Using Piecewise Gradient Models</title>'], 'prefix': '10.1117', 'author': [{'given': 'A. C.', 'family': 'Sanderson', 'sequence': 'first', 'affiliation': []}, {'given': 'R.', 'family': 'Bracho', 'sequence': 'additional', 'affiliation': []}], 'member': '189', 'event': {'name': '26th Annual Technical Symposium', 'location': 'San Diego'}, 'container-title': ['Robotics and Industrial Inspection'], 'deposited': {'date-parts': [[2013, 3, 15]], 'date-time': '2013-03-15T17:15:56Z', 'timestamp': 1363367756000}, 'score': 55.172924, 'editor': [{'given': 'David P.', 'family': 'Casasent', 'sequence': 'first', 'affiliation': []}], 'issued': {'date-parts': [[1983, 5, 23]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1117/12.934093'}
+>>> hash >>> ('<title>Segmentation And Compression Of Gray Level Images Using Piecewise Gradient Models</title>', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S Kakumoto, et al. Logic diagram recognition by divide and synthesize method J.C Latombe (Ed.), Artificial Intelligence and Pattern Recognition in CAD, North-Holland, Amsterdam (1978), pp. 457-576
+>>> DOI >>> 10.1016/b978-0-444-70058-2.50018-8
+>>> URL >>> http://dx.doi.org/10.1016/b978-0-444-70058-2.50018-8
+>>> year >>> 1986.0
+>>> title >>> Independence and Bayesian Updating Methods* *Reprinted from the Artificial Intelligence Journal with permission of the publisher, North Holland, Amsterdam.
+>>> author >>> Rodney W. Johnson
+>>> reference_count >>> 5.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['Uncertainty in Artificial Intelligence', 'Machine Intelligence and Pattern Recognition']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database105.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:17:21Z', 'timestamp': 1525796241605}, 'reference-count': 5, 'publisher': 'Elsevier', 'isbn-type': [{'value': '9780444700582', 'type': 'print'}], 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1986, 1, 1]], 'date-time': '1986-01-01T00:00:00Z', 'timestamp': 504921600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1986]]}, 'DOI': '10.1016/b978-0-444-70058-2.50018-8', 'type': 'book-chapter', 'created': {'date-parts': [[2014, 6, 19]], 'date-time': '2014-06-19T00:43:27Z', 'timestamp': 1403138607000}, 'page': '197-201', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Independence and Bayesian Updating Methods* *Reprinted from the Artificial Intelligence Journal with permission of the publisher, North Holland, Amsterdam.'], 'prefix': '10.1016', 'author': [{'given': 'Rodney W.', 'family': 'Johnson', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Uncertainty in Artificial Intelligence', 'Machine Intelligence and Pattern Recognition'], 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:B9780444700582500188?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:B9780444700582500188?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T15:08:46Z', 'timestamp': 1498144126000}, 'score': 51.715984, 'issued': {'date-parts': [[1986]]}, 'ISBN': ['9780444700582'], 'references-count': 5, 'URL': 'http://dx.doi.org/10.1016/b978-0-444-70058-2.50018-8', 'ISSN': ['0923-0459'], 'issn-type': [{'value': '0923-0459', 'type': 'print'}]}
+>>> hash >>> ('Independence and Bayesian Updating Methods* *Reprinted from the Artificial Intelligence Journal with permission of the publisher, North Holland, Amsterdam.', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y Fukada Primary algorithm for the understanding of logic circuit diagrams Proc. 6th Conf. Pattern Recognition, Oct. 19–22, 1982 (1982), pp. 706-709
+>>> DOI >>> 10.1016/0031-3203(84)90039-6
+>>> URL >>> http://dx.doi.org/10.1016/0031-3203(84)90039-6
+>>> year >>> 1984.0
+>>> title >>> A primary algorithm for the understanding of logic circuit diagrams
+>>> author >>> Youji Fukada
+>>> reference_count >>> 8.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database105.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T19:29:39Z', 'timestamp': 1525375779366}, 'reference-count': 8, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1984, 1, 1]], 'date-time': '1984-01-01T00:00:00Z', 'timestamp': 441763200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[1984, 1]]}, 'DOI': '10.1016/0031-3203(84)90039-6', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 30]], 'date-time': '2003-06-30T18:41:01Z', 'timestamp': 1056998461000}, 'page': '125-134', 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['A primary algorithm for the understanding of logic circuit diagrams'], 'prefix': '10.1016', 'volume': '17', 'author': [{'given': 'Youji', 'family': 'Fukada', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0031320384900396?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0031320384900396?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T22:57:26Z', 'timestamp': 1497567446000}, 'score': 68.29953, 'issued': {'date-parts': [[1984, 1]]}, 'references-count': 8, 'journal-issue': {'published-print': {'date-parts': [[1984, 1]]}, 'issue': '1'}, 'alternative-id': ['0031320384900396'], 'URL': 'http://dx.doi.org/10.1016/0031-3203(84)90039-6', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('A primary algorithm for the understanding of logic circuit diagrams', 1984.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S Shimizu, S Nagata, A Inoue, M Yoshida Logic circuit diagram processing system Proc. 6th Conf. Pattern Recognition, Oct 19–22, 1982 (1982), pp. 717-719
+>>> DOI >>> 10.1016/0031-3203(82)90078-4
+>>> URL >>> http://dx.doi.org/10.1016/0031-3203(82)90078-4
+>>> year >>> 1982.0
+>>> title >>> Interfacing criteria for recognition logic used with a context post-processor
+>>> author >>> James K. Mullin
+>>> reference_count >>> 3.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database105.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T19:29:43Z', 'timestamp': 1525375783552}, 'reference-count': 3, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1982, 1, 1]], 'date-time': '1982-01-01T00:00:00Z', 'timestamp': 378691200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[1982, 1]]}, 'DOI': '10.1016/0031-3203(82)90078-4', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 30]], 'date-time': '2003-06-30T18:41:01Z', 'timestamp': 1056998461000}, 'page': '271-273', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Interfacing criteria for recognition logic used with a context post-processor'], 'prefix': '10.1016', 'volume': '15', 'author': [{'given': 'James K.', 'family': 'Mullin', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0031320382900784?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0031320382900784?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T22:57:32Z', 'timestamp': 1497567452000}, 'score': 38.497925, 'issued': {'date-parts': [[1982, 1]]}, 'references-count': 3, 'journal-issue': {'published-print': {'date-parts': [[1982, 1]]}, 'issue': '3'}, 'alternative-id': ['0031320382900784'], 'URL': 'http://dx.doi.org/10.1016/0031-3203(82)90078-4', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Interfacing criteria for recognition logic used with a context post-processor', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R.L.T Cederberg Automatic interpretation of hand drawn electrical schematics Proc. Conf. on CAD and Manufacture of Electronic Components, Circuits and Systems (1979), pp. 118-122
+>>> DOI >>> 10.18638/ictic.2017.6.1.317
+>>> URL >>> http://dx.doi.org/10.18638/ictic.2017.6.1.317
+>>> year >>> 2017.0
+>>> title >>> Algorithm to Draw Automatic Combinatoric Electrical Schematics
+>>> author >>> Adam Jaro�
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of The  6th International Virtual Scientific Conference']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database105.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T10:47:51Z', 'timestamp': 1525690071768}, 'reference-count': 0, 'publisher': 'Publishing Society', 'isbn-type': [{'value': '9788055413259', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2017, 5, 8]]}, 'DOI': '10.18638/ictic.2017.6.1.317', 'type': 'proceedings-article', 'created': {'date-parts': [[2017, 5, 8]], 'date-time': '2017-05-08T10:04:27Z', 'timestamp': 1494237867000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Algorithm to Draw Automatic Combinatoric Electrical Schematics'], 'prefix': '10.18638', 'author': [{'given': 'Adam', 'family': 'Jaro�', 'sequence': 'first', 'affiliation': []}], 'member': '7894', 'published-online': {'date-parts': [[2017, 5, 8]]}, 'event': {'name': 'The  6th International Virtual Scientific Conference', 'acronym': 'ictic 2017', 'number': '6'}, 'container-title': ['Proceedings of The  6th International Virtual Scientific Conference'], 'original-title': ['Algorithm to Draw Automatic Combinatoric Electrical Schematics'], 'deposited': {'date-parts': [[2017, 5, 8]], 'date-time': '2017-05-08T10:04:41Z', 'timestamp': 1494237881000}, 'score': 34.047436, 'issued': {'date-parts': [[2017, 5, 8]]}, 'ISBN': ['9788055413259'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.18638/ictic.2017.6.1.317'}
+>>> hash >>> ('Algorithm to Draw Automatic Combinatoric Electrical Schematics', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D.H Ballard, C.M Brown Computer Vision Prentice-Hall, Englewoods Cliffs, NJ (1982)
+>>> DOI >>> 10.1207/s15328023top1003_30
+>>> URL >>> http://dx.doi.org/10.1207/s15328023top1003_30
+>>> year >>> 1982.0
+>>> title >>> Computer Vision
+>>> author >>> D H Ballard and C M Brown
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Teaching of Psychology']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database105.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:12:39Z', 'timestamp': 1525482759711}, 'reference-count': 0, 'publisher': 'SAGE Publications', 'issue': '3', 'license': [{'URL': 'http://journals.sagepub.com/page/policies/text-and-data-mining-license', 'start': {'date-parts': [[1983, 10, 1]], 'date-time': '1983-10-01T00:00:00Z', 'timestamp': 433814400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Teaching of Psychology'], 'published-print': {'date-parts': [[1983, 10]]}, 'DOI': '10.1207/s15328023top1003_30', 'type': 'journal-article', 'created': {'date-parts': [[2005, 12, 22]], 'date-time': '2005-12-22T16:56:47Z', 'timestamp': 1135270607000}, 'page': '189-190', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ["Tonto's FriendTonto's FriendSilvermanR. E.Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 573 + xxi pp.Tonto's FriendDavisS. F.Instructor's manual: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 168 pp.Tonto's FriendSilvermanR. E.Test item file: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 169 pp. (File includes 972 questions.)Tonto's FriendWinsten-VelenL.Study guide and workbook: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 315 pp."], 'prefix': '10.1177', 'volume': '10', 'member': '179', 'published-online': {'date-parts': [[2016, 8, 26]]}, 'container-title': ['Teaching of Psychology'], 'language': 'en', 'link': [{'URL': 'http://journals.sagepub.com/doi/pdf/10.1207/s15328023top1003_30', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://journals.sagepub.com/doi/pdf/10.1207/s15328023top1003_30', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 1, 21]], 'date-time': '2018-01-21T16:13:39Z', 'timestamp': 1516551219000}, 'score': 52.141792, 'issued': {'date-parts': [[1983, 10]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2016, 8, 26]]}, 'published-print': {'date-parts': [[1983, 10]]}, 'issue': '3'}, 'alternative-id': ['10.1207/s15328023top1003_30'], 'URL': 'http://dx.doi.org/10.1207/s15328023top1003_30', 'ISSN': ['0098-6283', '1532-8023'], 'issn-type': [{'value': '0098-6283', 'type': 'print'}, {'value': '1532-8023', 'type': 'electronic'}]}
+>>> hash >>> ('Computer Vision', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H Bunke Experience with several methods for the analysis of schematic diagrams Proc. 6th Conf. Pattern Recognition, Oct. 19–22, 1982 (1982), pp. 710-712
+>>> DOI >>> 10.1007/978-94-009-7772-3_18
+>>> URL >>> http://dx.doi.org/10.1007/978-94-009-7772-3_18
+>>> year >>> 1982.0
+>>> title >>> Automatic Interpretation of Lines and Text in Circuit Diagrams
+>>> author >>> Horst Bunke
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 11.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition Theory and Applications']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database105.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T15:12:24Z', 'timestamp': 1525533144271}, 'publisher-location': 'Dordrecht', 'reference-count': 0, 'publisher': 'Springer Netherlands', 'isbn-type': [{'value': '9789400977747', 'type': 'print'}, {'value': '9789400977723', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1982]]}, 'DOI': '10.1007/978-94-009-7772-3_18', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 7, 29]], 'date-time': '2012-07-29T00:21:08Z', 'timestamp': 1343521268000}, 'page': '297-310', 'source': 'Crossref', 'is-referenced-by-count': 11, 'title': ['Automatic Interpretation of Lines and Text in Circuit Diagrams'], 'prefix': '10.1007', 'author': [{'given': 'Horst', 'family': 'Bunke', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Pattern Recognition Theory and Applications'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-94-009-7772-3_18', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2012, 7, 29]], 'date-time': '2012-07-29T00:21:11Z', 'timestamp': 1343521271000}, 'score': 46.896675, 'issued': {'date-parts': [[1982]]}, 'ISBN': ['9789400977747', '9789400977723'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-94-009-7772-3_18'}
+>>> hash >>> ('Automatic Interpretation of Lines and Text in Circuit Diagrams', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H Bunke Automatic interpretation of lines and text in circuit diagrams J Kittler, et al. (Eds.), Proceedings NATO Advanced Study Institute, 1980, Reidel, Dordrecht (1981), pp. 297-310
+>>> DOI >>> 10.1007/978-94-009-7772-3_18
+>>> URL >>> http://dx.doi.org/10.1007/978-94-009-7772-3_18
+>>> year >>> 1982.0
+>>> title >>> Automatic Interpretation of Lines and Text in Circuit Diagrams
+>>> author >>> Horst Bunke
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 11.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition Theory and Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database105.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T15:12:24Z', 'timestamp': 1525533144271}, 'publisher-location': 'Dordrecht', 'reference-count': 0, 'publisher': 'Springer Netherlands', 'isbn-type': [{'value': '9789400977747', 'type': 'print'}, {'value': '9789400977723', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1982]]}, 'DOI': '10.1007/978-94-009-7772-3_18', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 7, 29]], 'date-time': '2012-07-29T00:21:08Z', 'timestamp': 1343521268000}, 'page': '297-310', 'source': 'Crossref', 'is-referenced-by-count': 11, 'title': ['Automatic Interpretation of Lines and Text in Circuit Diagrams'], 'prefix': '10.1007', 'author': [{'given': 'Horst', 'family': 'Bunke', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Pattern Recognition Theory and Applications'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-94-009-7772-3_18', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2012, 7, 29]], 'date-time': '2012-07-29T00:21:11Z', 'timestamp': 1343521271000}, 'score': 68.86712, 'issued': {'date-parts': [[1982]]}, 'ISBN': ['9789400977747', '9789400977723'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-94-009-7772-3_18'}
+>>> hash >>> ('Automatic Interpretation of Lines and Text in Circuit Diagrams', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> F.C.A Groen, R.J van Munster Topology based analysis of schematic diagrams Proc. 7th Conf. Pattern Recognition, July 30–Aug 2, 1984, Montreal (1984)
+>>> DOI >>> 10.1016/b978-0-444-87877-9.50034-0
+>>> URL >>> http://dx.doi.org/10.1016/b978-0-444-87877-9.50034-0
+>>> year >>> 1986.0
+>>> title >>> COMPUTER AIDED ANALYSIS OF SCHEMATIC DIAGRAMS
+>>> author >>> Frans C.A. Groen and Ruud J. van Munster
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition in Practice']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database105.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T23:18:37Z', 'timestamp': 1525562317481}, 'reference-count': 10, 'publisher': 'Elsevier', 'isbn-type': [{'value': '9780444878779', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1986]]}, 'DOI': '10.1016/b978-0-444-87877-9.50034-0', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 12, 3]], 'date-time': '2012-12-03T06:52:02Z', 'timestamp': 1354517522000}, 'page': '363-372', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['COMPUTER AIDED ANALYSIS OF SCHEMATIC DIAGRAMS'], 'prefix': '10.1016', 'author': [{'given': 'Frans C.A.', 'family': 'Groen', 'sequence': 'first', 'affiliation': []}, {'given': 'Ruud J.', 'family': 'van Munster', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition in Practice'], 'deposited': {'date-parts': [[2017, 6, 21]], 'date-time': '2017-06-21T03:28:18Z', 'timestamp': 1498015698000}, 'score': 59.783638, 'issued': {'date-parts': [[1986]]}, 'ISBN': ['9780444878779'], 'references-count': 10, 'URL': 'http://dx.doi.org/10.1016/b978-0-444-87877-9.50034-0'}
+>>> hash >>> ('COMPUTER AIDED ANALYSIS OF SCHEMATIC DIAGRAMS', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J Serra Image Analysis and Mathematical Morphology Academic Press, London (1982)
+>>> DOI >>> 10.1002/cyto.990040213
+>>> URL >>> http://dx.doi.org/10.1002/cyto.990040213
+>>> year >>> 1983.0
+>>> title >>> Image analysis and mathematical morphology, by J. Serra. Academic Press, London, 1982, xviii + 610 p. $90.00
+>>> author >>> Ian T. Young
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Cytometry']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database105.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T21:16:25Z', 'timestamp': 1525468585568}, 'reference-count': 0, 'publisher': 'Wiley', 'issue': '2', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 11688, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Cytometry'], 'published-print': {'date-parts': [[1983, 9]]}, 'DOI': '10.1002/cyto.990040213', 'type': 'journal-article', 'created': {'date-parts': [[2005, 8, 8]], 'date-time': '2005-08-08T16:08:35Z', 'timestamp': 1123517315000}, 'page': '184-185', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Image analysis and mathematical morphology, by J. Serra. Academic Press, London, 1982, xviii + 610 p. $90.00'], 'prefix': '10.1002', 'volume': '4', 'author': [{'given': 'Ian T.', 'family': 'Young', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'container-title': ['Cytometry'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcyto.990040213', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 4, 9]], 'date-time': '2017-04-09T07:51:28Z', 'timestamp': 1491724288000}, 'score': 45.380672, 'issued': {'date-parts': [[1983, 9]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1983, 9]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1002/cyto.990040213', 'ISSN': ['0196-4763', '1097-0320'], 'issn-type': [{'value': '0196-4763', 'type': 'print'}, {'value': '1097-0320', 'type': 'electronic'}]}
+>>> hash >>> ('Image analysis and mathematical morphology, by J. Serra. Academic Press, London, 1982, xviii + 610 p. $90.00', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M Ishii, M Iwasaki, T Yamashita An automatic input system of logic circuit diagrams for CAD Proc. Conf. on CAD and Manufacture of Electronic Components, Circuits and Systems (1979), pp. 123-126
+>>> DOI >>> 10.1109/dac.1979.1600097
+>>> URL >>> http://dx.doi.org/10.1109/dac.1979.1600097
+>>> year >>> 1979.0
+>>> title >>> An Experimental Input System of Hand-Drawn Logic Circuit Diagram for LSI CAD
+>>> author >>> M. Ishii and M. Yamamoto and M. Iwasaki and H. Shiraishi
+>>> reference_count >>> 4.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['16th Design Automation Conference']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database105.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T11:57:06Z', 'timestamp': 1525435026192}, 'reference-count': 4, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1979]]}, 'DOI': '10.1109/dac.1979.1600097', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 18]], 'date-time': '2008-07-18T15:12:17Z', 'timestamp': 1216393937000}, 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['An Experimental Input System of Hand-Drawn Logic Circuit Diagram for LSI CAD'], 'prefix': '10.1109', 'author': [{'given': 'M.', 'family': 'Ishii', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Yamamoto', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Iwasaki', 'sequence': 'additional', 'affiliation': []}, {'given': 'H.', 'family': 'Shiraishi', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '16th Design Automation Conference', 'location': 'San Diego, CA, USA', 'start': {'date-parts': [[1979, 6, 25]]}, 'end': {'date-parts': [[1979, 6, 27]]}}, 'container-title': ['16th Design Automation Conference'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10663/33646/01600097.pdf?arnumber=1600097', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 15]], 'date-time': '2017-03-15T03:07:08Z', 'timestamp': 1489547228000}, 'score': 63.934616, 'issued': {'date-parts': [[1979]]}, 'references-count': 4, 'URL': 'http://dx.doi.org/10.1109/dac.1979.1600097'}
+>>> hash >>> ('An Experimental Input System of Hand-Drawn Logic Circuit Diagram for LSI CAD', 1979.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

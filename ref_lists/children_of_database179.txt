@@ -1,0 +1,505 @@
+>>> NEW PAPER <<<
+>>> citation >>> Yan, D., Cheng, J., Lu, Y., Ng, W.: Effective techniques for message reduction and load balancing in distributed graph computation. In: WWW, pp. 1307â€“1317 (2015)
+>>> DOI >>> 10.1145/2736277.2741096
+>>> URL >>> http://dx.doi.org/10.1145/2736277.2741096
+>>> year >>> 2015.0
+>>> title >>> Effective Techniques for Message Reduction and Load Balancing in Distributed Graph Computation
+>>> author >>> Da Yan and James Cheng and Yi Lu and Wilfred Ng
+>>> reference_count >>> 24.0
+>>> is_referenced_by_count >>> 28.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 24th International Conference on World Wide Web - WWW '15"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T13:22:34Z', 'timestamp': 1527254554857}, 'publisher-location': 'New York, New York, USA', 'reference-count': 24, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450334693', 'type': 'print'}], 'license': [{'URL': 'http://www.acm.org/publications/policies/copyright_policy#Background', 'start': {'date-parts': [[2015, 5, 18]], 'date-time': '2015-05-18T00:00:00Z', 'timestamp': 1431907200000}, 'delay-in-days': 137, 'content-version': 'vor'}], 'funder': [{'name': 'Shun Hing Institute of Advanced Engineering', 'award': ['8115048']}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2015]]}, 'DOI': '10.1145/2736277.2741096', 'type': 'proceedings-article', 'created': {'date-parts': [[2016, 2, 5]], 'date-time': '2016-02-05T20:37:12Z', 'timestamp': 1454704632000}, 'source': 'Crossref', 'is-referenced-by-count': 28, 'title': ['Effective Techniques for Message Reduction and Load Balancing in Distributed Graph Computation'], 'prefix': '10.1145', 'author': [{'given': 'Da', 'family': 'Yan', 'sequence': 'first', 'affiliation': [{'name': 'The Chinese University of Hong Kong, Hong Kong, Hong Kong'}]}, {'given': 'James', 'family': 'Cheng', 'sequence': 'additional', 'affiliation': [{'name': 'The Chinese University of Hong Kong, Hong Kong, Hong Kong'}]}, {'given': 'Yi', 'family': 'Lu', 'sequence': 'additional', 'affiliation': [{'name': 'The Chinese University of Hong Kong, Hong Kong, Hong Kong'}]}, {'given': 'Wilfred', 'family': 'Ng', 'sequence': 'additional', 'affiliation': [{'name': 'The Hong Kong University of Science and Technology, Hong Kong, Hong Kong'}]}], 'member': '320', 'reference': [{'key': 'key-10.1145/2736277.2741096-1', 'unstructured': 'Apache Giraph. http://giraph.apache.org/.'}, {'key': 'key-10.1145/2736277.2741096-2', 'unstructured': 'Z. Cai, Z. J. Gao, S. Luo, L. L. Perez, Z. Vagena, and C. M. Jermaine. A comparison of platforms for implementing and running very large scale machine learning algorithms. In SIGMOD, pages 1371--1382, 2014.', 'DOI': '10.1145/2588555.2593680', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-3', 'unstructured': 'J. Dean and S. Ghemawat. Mapreduce: Simplified data processing on large clusters. In OSDI, pages 137--150, 2004.'}, {'key': 'key-10.1145/2736277.2741096-4', 'unstructured': 'B. Elser and A. Montresor. An evaluation study of bigdata frameworks for graph processing. In BigData Conference, pages 60--67, 2013.', 'DOI': '10.1109/BigData.2013.6691555', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-5', 'unstructured': 'J. E. Gonzalez, Y. Low, H. Gu, D. Bickson, and C. Guestrin. Powergraph: Distributed graph-parallel computation on natural graphs. In OSDI, pages 17--30, 2012.'}, {'key': 'key-10.1145/2736277.2741096-6', 'unstructured': 'Y. Guo, M. Biczak, A. L. Varbanescu, A. Iosup, C. Martella, and T. L. Willke. How well do graph-processing platforms perform? an empirical performance evaluation and analysis. IPDPS, 2013.'}, {'key': 'key-10.1145/2736277.2741096-7', 'unstructured': 'Z. Gy&#246;ngyi, H. Garcia-Molina, and J. O. Pedersen. Combating web spam with trustrank. In VLDB, pages 576--587, 2004.'}, {'key': 'key-10.1145/2736277.2741096-8', 'unstructured': 'M. Han, K. Daudjee, K. Ammar, M. T. &#214;zsu, X. Wang, and T. Jin. An experimental comparison of Pregel-like graph processing systems. PVLDB, 7(12):1047--1058, 2014.', 'DOI': '10.14778/2732977.2732980', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-9', 'unstructured': 'G. Jeh and J. Widom. Scaling personalized web search. In WWW, pages 271--279, 2003.', 'DOI': '10.1145/775152.775191', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-10', 'unstructured': 'Z. Khayyat, K. Awara, A. Alonazi, H. Jamjoom, D. Williams, and P. Kalnis. Mizan: a system for dynamic load balancing in large-scale graph processing. In EuroSys, pages 169--182, 2013.', 'DOI': '10.1145/2465351.2465369', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-11', 'unstructured': 'Y. Low, J. Gonzalez, A. Kyrola, D. Bickson, C. Guestrin, and J. M. Hellerstein. Distributed graphlab: A framework for machine learning in the cloud. PVLDB, 5(8):716--727, 2012.', 'DOI': '10.14778/2212351.2212354', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-12', 'unstructured': 'Y. Lu, J. Cheng, D. Yan, and H. Wu. Large-scale distributed graph computing systems: An experimental evaluation. PVLDB, 8(3):281--292, 2014.', 'DOI': '10.14778/2735508.2735517', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-13', 'unstructured': 'G. Malewicz, M. H. Austern, A. J. C. Bik, J. C. Dehnert, I. Horn, N. Leiser, and G. Czajkowski. Pregel: a system for large-scale graph processing. In SIGMOD Conference, pages 135--146, 2010.', 'DOI': '10.1145/1807167.1807184', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-14', 'unstructured': 'A. Mislove, M. Marcon, P. K. Gummadi, P. Druschel, and B. Bhattacharjee. Measurement and analysis of online social networks. In SIGCOMM Conference on Internet Measurement, pages 29--42, 2007.', 'DOI': '10.1145/1298306.1298311', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-15', 'unstructured': 'J. Niu, J. Peng, C. Tong, and W. Liao. Evolution of disconnected components in social networks: Patterns and a generative model. In Performance Computing and Communications Conference (IPCCC), 2012 IEEE 31st International, pages 305--313. IEEE, 2012.', 'DOI': '10.1109/PCCC.2012.6407772', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-16', 'unstructured': 'L. Page, S. Brin, R. Motwani, and T. Winograd. The pagerank citation ranking: Bringing order to the web. 1999.'}, {'key': 'key-10.1145/2736277.2741096-17', 'unstructured': 'V. Rastogi, A. Machanavajjhala, L. Chitnis, and A. D. Sarma. Finding connected components in map-reduce in logarithmic rounds. In ICDE, pages 50--61, 2013.', 'DOI': '10.1109/ICDE.2013.6544813', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-18', 'unstructured': 'S. Salihoglu and J. Widom. GPS: a graph processing system. In SSDBM, page 22, 2013.', 'DOI': '10.1145/2484838.2484843', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-19', 'unstructured': 'S. Salihoglu and J. Widom. Optimizing graph algorithms on pregel-like systems. PVLDB, 7(7):577--588, 2014.', 'DOI': '10.14778/2732286.2732294', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-20', 'unstructured': 'N. Satish, N. Sundaram, M. M. A. Patwary, J. Seo, J. Park, M. A. Hassaan, S. Sengupta, Z. Yin, and P. Dubey. Navigating the maze of graph analytics frameworks using massive graph datasets. In SIGMOD Conference, pages 979--990, 2014.', 'DOI': '10.1145/2588555.2610518', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-21', 'unstructured': 'Z. Shang and J. X. Yu. Catch the wind: Graph workload balancing on cloud. In ICDE, pages 553--564, 2013.'}, {'key': 'key-10.1145/2736277.2741096-22', 'unstructured': 'Y. Shiloach and U. Vishkin. An o(log n) parallel connectivity algorithm. J. Algorithms, 3(1):57--67, 1982.', 'DOI': '10.1016/0196-6774(82)90008-6', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-23', 'unstructured': 'D. Yan, J. Cheng, Y. Lu, and W. Ng. Blogel: A block-centric framework for distributed computation on real-world graphs. PVLDB, 7(14):1981--1992, 2014.', 'DOI': '10.14778/2733085.2733103', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2736277.2741096-24', 'unstructured': 'D. Yan, J. Cheng, K. Xing, Y. Lu, W. Ng, and Y. Bu. Pregel algorithms for graph connectivity problems with performance guarantees. PVLDB, 7(14):1821--1832, 2014.', 'DOI': '10.14778/2733085.2733089', 'doi-asserted-by': 'crossref'}], 'event': {'name': 'the 24th International Conference', 'location': 'Florence, Italy', 'sponsor': ['IW3C2, International World Wide Web Conference Committee', 'SIGWEB, ACM Special Interest Group on Hypertext, Hypermedia, and Web'], 'acronym': "WWW '15", 'number': '24', 'start': {'date-parts': [[2015, 5, 18]]}, 'end': {'date-parts': [[2015, 5, 22]]}}, 'container-title': ["Proceedings of the 24th International Conference on World Wide Web - WWW '15"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2741096&amp;ftid=1577338&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 24]], 'date-time': '2017-06-24T05:20:52Z', 'timestamp': 1498281652000}, 'score': 87.24546, 'issued': {'date-parts': [[2015]]}, 'ISBN': ['9781450334693'], 'references-count': 24, 'URL': 'http://dx.doi.org/10.1145/2736277.2741096', 'relation': {'cites': []}}
+>>> hash >>> ('Effective Techniques for Message Reduction and Load Balancing in Distributed Graph Computation', 2015.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Gonzalez, J.E., Low, Y., Gu, H., Bickson, D., Guestrin, C.: Powergraph: distributed graph-parallel computation on natural graphs. In: OSDI, vol. 12, no. 1, p. 2 (2012)
+>>> DOI >>> 10.1017/cbo9781139042918.011
+>>> URL >>> http://dx.doi.org/10.1017/cbo9781139042918.011
+>>> year >>> None
+>>> title >>> Parallel Belief Propagation in Factor Graphs
+>>> author >>> Joseph Gonzalez and Yucheng Low and Carlos Guestrin
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Scaling Up Machine Learning']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T02:24:13Z', 'timestamp': 1525487053786}, 'publisher-location': 'Cambridge', 'reference-count': 0, 'publisher': 'Cambridge University Press', 'isbn-type': [{'value': '9781139042918', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1017/cbo9781139042918.011', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 2, 6]], 'date-time': '2012-02-06T06:03:53Z', 'timestamp': 1328508233000}, 'page': '190-216', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Parallel Belief Propagation in Factor Graphs'], 'prefix': '10.1017', 'author': [{'given': 'Joseph', 'family': 'Gonzalez', 'sequence': 'first', 'affiliation': []}, {'given': 'Yucheng', 'family': 'Low', 'sequence': 'additional', 'affiliation': []}, {'given': 'Carlos', 'family': 'Guestrin', 'sequence': 'additional', 'affiliation': []}], 'member': '56', 'container-title': ['Scaling Up Machine Learning'], 'deposited': {'date-parts': [[2018, 4, 13]], 'date-time': '2018-04-13T00:12:50Z', 'timestamp': 1523578370000}, 'score': 41.174847, 'editor': [{'given': 'Ron', 'family': 'Bekkerman', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mikhail', 'family': 'Bilenko', 'sequence': 'additional', 'affiliation': []}, {'given': 'John', 'family': 'Langford', 'sequence': 'additional', 'affiliation': []}], 'issued': {'date-parts': [[None]]}, 'ISBN': ['9781139042918'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1017/cbo9781139042918.011'}
+>>> hash >>> ('Parallel Belief Propagation in Factor Graphs', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Lin, W., Xiao, X., Ghinita, G.: Large-scale frequent subgraph mining in mapreduce. In: ICDE, pp. 844â€“855 (2014)
+>>> DOI >>> 10.1109/icde.2014.6816705
+>>> URL >>> http://dx.doi.org/10.1109/icde.2014.6816705
+>>> year >>> 2014.0
+>>> title >>> Large-scale frequent subgraph mining in MapReduce
+>>> author >>> Wenqing Lin and Xiaokui Xiao and Gabriel Ghinita
+>>> reference_count >>> 42.0
+>>> is_referenced_by_count >>> 23.0
+>>> subject >>> None
+>>> container_title >>> ['2014 IEEE 30th International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 14]], 'date-time': '2018-05-14T14:42:26Z', 'timestamp': 1526308946691}, 'reference-count': 42, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781479925551', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2014, 3]]}, 'DOI': '10.1109/icde.2014.6816705', 'type': 'proceedings-article', 'created': {'date-parts': [[2014, 5, 30]], 'date-time': '2014-05-30T18:28:25Z', 'timestamp': 1401474505000}, 'source': 'Crossref', 'is-referenced-by-count': 23, 'title': ['Large-scale frequent subgraph mining in MapReduce'], 'prefix': '10.1109', 'author': [{'given': 'Wenqing', 'family': 'Lin', 'sequence': 'first', 'affiliation': []}, {'given': 'Xiaokui', 'family': 'Xiao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Gabriel', 'family': 'Ghinita', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2014 IEEE 30th International Conference on Data Engineering (ICDE)', 'location': 'Chicago, IL, USA', 'start': {'date-parts': [[2014, 3, 31]]}, 'end': {'date-parts': [[2014, 4, 4]]}}, 'container-title': ['2014 IEEE 30th International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6811095/6816620/06816705.pdf?arnumber=6816705', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 23]], 'date-time': '2017-03-23T22:34:36Z', 'timestamp': 1490308476000}, 'score': 78.644066, 'issued': {'date-parts': [[2014, 3]]}, 'ISBN': ['9781479925551'], 'references-count': 42, 'URL': 'http://dx.doi.org/10.1109/icde.2014.6816705'}
+>>> hash >>> ('Large-scale frequent subgraph mining in MapReduce', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Petrakis, E.G.M., Faloutsos, C.: Similarity searching in medical image databases. IEEE Trans. Knowl. Data Eng. 9(3), 435â€“447 (1997)
+>>> DOI >>> 10.1109/69.599932
+>>> URL >>> http://dx.doi.org/10.1109/69.599932
+>>> year >>> 1997.0
+>>> title >>> Similarity searching in medical image databases
+>>> author >>> E.G.M. Petrakis and A. Faloutsos
+>>> reference_count >>> 40.0
+>>> is_referenced_by_count >>> 101.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Knowledge and Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 12]], 'date-time': '2018-05-12T07:22:29Z', 'timestamp': 1526109749524}, 'reference-count': 40, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Knowl. Data Eng.'], 'published-print': {'date-parts': [[1997]]}, 'DOI': '10.1109/69.599932', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T19:16:32Z', 'timestamp': 1030216592000}, 'page': '435-447', 'source': 'Crossref', 'is-referenced-by-count': 101, 'title': ['Similarity searching in medical image databases'], 'prefix': '10.1109', 'volume': '9', 'author': [{'given': 'E.G.M.', 'family': 'Petrakis', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Faloutsos', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Knowledge and Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx3/69/13196/00599932.pdf?arnumber=599932', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T00:57:29Z', 'timestamp': 1489107449000}, 'score': 89.116974, 'issued': {'date-parts': [[1997]]}, 'references-count': 40, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/69.599932', 'ISSN': ['1041-4347'], 'issn-type': [{'value': '1041-4347', 'type': 'print'}]}
+>>> hash >>> ('Similarity searching in medical image databases', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bhuiyan, M., Hasan, M.A.: An iterative mapreduce based frequent subgraph mining algorithm. IEEE Trans. Knowl. Data Eng. 27(3), 608â€“620 (2015)
+>>> DOI >>> 10.1109/tkde.2014.2345408
+>>> URL >>> http://dx.doi.org/10.1109/tkde.2014.2345408
+>>> year >>> 2015.0
+>>> title >>> An Iterative MapReduce Based Frequent Subgraph Mining Algorithm
+>>> author >>> Mansurul A. Bhuiyan and Mohammad Al Hasan
+>>> reference_count >>> 43.0
+>>> is_referenced_by_count >>> 22.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Knowledge and Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T14:42:43Z', 'timestamp': 1527000163146}, 'reference-count': 43, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'funder': [{'DOI': '10.13039/100000001', 'name': 'National Science Foundation', 'doi-asserted-by': 'publisher', 'award': ['IIS-1149851']}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Knowl. Data Eng.'], 'published-print': {'date-parts': [[2015, 3, 1]]}, 'DOI': '10.1109/tkde.2014.2345408', 'type': 'journal-article', 'created': {'date-parts': [[2014, 8, 5]], 'date-time': '2014-08-05T18:42:36Z', 'timestamp': 1407264156000}, 'page': '608-620', 'source': 'Crossref', 'is-referenced-by-count': 22, 'title': ['An Iterative MapReduce Based Frequent Subgraph Mining Algorithm'], 'prefix': '10.1109', 'volume': '27', 'author': [{'given': 'Mansurul A.', 'family': 'Bhuiyan', 'sequence': 'first', 'affiliation': []}, {'given': 'Mohammad', 'family': 'Al Hasan', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Knowledge and Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/69/7029750/06871430.pdf?arnumber=6871430', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T17:56:17Z', 'timestamp': 1498154177000}, 'score': 104.447914, 'issued': {'date-parts': [[2015, 3, 1]]}, 'references-count': 43, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/tkde.2014.2345408', 'ISSN': ['1041-4347'], 'issn-type': [{'value': '1041-4347', 'type': 'print'}]}
+>>> hash >>> ('An Iterative MapReduce Based Frequent Subgraph Mining Algorithm', 2015.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Lowe, D.G.: Local feature view clustering for 3D object recognition. In: CVPR, pp. 682â€“688 (2001)
+>>> DOI >>> 10.1109/cvpr.2001.990541
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2001.990541
+>>> year >>> None
+>>> title >>> Local feature view clustering for 3D object recognition
+>>> author >>> D.G. Lowe
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 154.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 24]], 'date-time': '2018-05-24T15:42:28Z', 'timestamp': 1527176548502}, 'reference-count': 17, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769512720', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2001.990541', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 8, 25]], 'date-time': '2005-08-25T03:23:34Z', 'timestamp': 1124940214000}, 'source': 'Crossref', 'is-referenced-by-count': 154, 'title': ['Local feature view clustering for 3D object recognition'], 'prefix': '10.1109', 'author': [{'given': 'D.G.', 'family': 'Lowe', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'event': {'name': '2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001', 'location': 'Kauai, HI, USA', 'acronym': 'CVPR-01'}, 'container-title': ['Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/7768/21353/00990541.pdf?arnumber=990541', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T16:28:22Z', 'timestamp': 1489163302000}, 'score': 73.74662, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769512720'], 'references-count': 17, 'URL': 'http://dx.doi.org/10.1109/cvpr.2001.990541'}
+>>> hash >>> ('Local feature view clustering for 3D object recognition', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Cheng, J., Ke, Y., Ng, W., Lu, A.: FG-index: towards verification-free query processing on graph databases. In: SIGMOD, pp. 857â€“872 (2007)
+>>> DOI >>> 10.1145/1247480.1247574
+>>> URL >>> http://dx.doi.org/10.1145/1247480.1247574
+>>> year >>> 2007.0
+>>> title >>> Fg-index
+>>> author >>> James Cheng and Yiping Ke and Wilfred Ng and An Lu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 76.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2007 ACM SIGMOD international conference on Management of data  - SIGMOD '07"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 14]], 'date-time': '2018-05-14T14:42:26Z', 'timestamp': 1526308946759}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781595936868', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.1145/1247480.1247574', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 9, 14]], 'date-time': '2007-09-14T16:07:37Z', 'timestamp': 1189786057000}, 'source': 'Crossref', 'is-referenced-by-count': 76, 'title': ['Fg-index'], 'prefix': '10.1145', 'author': [{'given': 'James', 'family': 'Cheng', 'sequence': 'first', 'affiliation': []}, {'given': 'Yiping', 'family': 'Ke', 'sequence': 'additional', 'affiliation': []}, {'given': 'Wilfred', 'family': 'Ng', 'sequence': 'additional', 'affiliation': []}, {'given': 'An', 'family': 'Lu', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2007 ACM SIGMOD international conference', 'location': 'Beijing, China', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '07", 'number': '2007', 'start': {'date-parts': [[2007, 6, 11]]}, 'end': {'date-parts': [[2007, 6, 14]]}}, 'container-title': ["Proceedings of the 2007 ACM SIGMOD international conference on Management of data  - SIGMOD '07"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1247574&amp;ftid=430371&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T12:08:38Z', 'timestamp': 1481890118000}, 'score': 97.40378, 'subtitle': ['towards verification-free query processing on graph databases'], 'issued': {'date-parts': [[2007]]}, 'ISBN': ['9781595936868'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1247480.1247574'}
+>>> hash >>> ('Fg-index', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Khayyat, Z., Awara, K., Alonazi, A., Jamjoom, H., Williams, D., Kalnis, P.: Mizan: a system for dynamic load balancing in large-scale graph processing. In: EuroSys, pp. 169â€“182 (2013)
+>>> DOI >>> 10.1145/2465351.2465369
+>>> URL >>> http://dx.doi.org/10.1145/2465351.2465369
+>>> year >>> 2013.0
+>>> title >>> Mizan
+>>> author >>> Zuhair Khayyat and Karim Awara and Amani Alonazi and Hani Jamjoom and Dan Williams and Panos Kalnis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 87.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 8th ACM European Conference on Computer Systems - EuroSys '13"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T18:22:40Z', 'timestamp': 1528222960787}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450319942', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013]]}, 'DOI': '10.1145/2465351.2465369', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 4, 17]], 'date-time': '2013-04-17T19:57:35Z', 'timestamp': 1366228655000}, 'source': 'Crossref', 'is-referenced-by-count': 87, 'title': ['Mizan'], 'prefix': '10.1145', 'author': [{'given': 'Zuhair', 'family': 'Khayyat', 'sequence': 'first', 'affiliation': []}, {'given': 'Karim', 'family': 'Awara', 'sequence': 'additional', 'affiliation': []}, {'given': 'Amani', 'family': 'Alonazi', 'sequence': 'additional', 'affiliation': []}, {'given': 'Hani', 'family': 'Jamjoom', 'sequence': 'additional', 'affiliation': []}, {'given': 'Dan', 'family': 'Williams', 'sequence': 'additional', 'affiliation': []}, {'given': 'Panos', 'family': 'Kalnis', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 8th ACM European Conference', 'location': 'Prague, Czech Republic', 'sponsor': ['SIGOPS, ACM Special Interest Group on Operating Systems'], 'acronym': "EuroSys '13", 'number': '8', 'start': {'date-parts': [[2013, 4, 15]]}, 'end': {'date-parts': [[2013, 4, 17]]}}, 'container-title': ["Proceedings of the 8th ACM European Conference on Computer Systems - EuroSys '13"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2465369&amp;ftid=1364390&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T03:49:42Z', 'timestamp': 1481082582000}, 'score': 132.72884, 'subtitle': ['a system for dynamic load balancing in large-scale graph processing'], 'issued': {'date-parts': [[2013]]}, 'ISBN': ['9781450319942'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/2465351.2465369'}
+>>> hash >>> ('Mizan', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Han, J., Pei, J., Yin, Y.: Mining frequent patterns without candidate generation. In: SIGMOD, pp. 1â€“12 (2000)
+>>> DOI >>> 10.1145/335191.335372
+>>> URL >>> http://dx.doi.org/10.1145/335191.335372
+>>> year >>> 2000.0
+>>> title >>> Mining frequent patterns without candidate generation
+>>> author >>> Jiawei Han and Jian Pei and Yiwen Yin
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 304.0
+>>> subject >>> None
+>>> container_title >>> ['ACM SIGMOD Record']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 29]], 'date-time': '2018-05-29T13:02:41Z', 'timestamp': 1527598961858}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIGMOD Rec.'], 'published-print': {'date-parts': [[2000, 6, 1]]}, 'DOI': '10.1145/335191.335372', 'type': 'journal-article', 'created': {'date-parts': [[2005, 11, 9]], 'date-time': '2005-11-09T22:23:27Z', 'timestamp': 1131575007000}, 'page': '1-12', 'source': 'Crossref', 'is-referenced-by-count': 304, 'title': ['Mining frequent patterns without candidate generation'], 'prefix': '10.1145', 'volume': '29', 'author': [{'given': 'Jiawei', 'family': 'Han', 'sequence': 'first', 'affiliation': []}, {'given': 'Jian', 'family': 'Pei', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yiwen', 'family': 'Yin', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['ACM SIGMOD Record'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=335372&amp;ftid=2042&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T22:28:29Z', 'timestamp': 1481840909000}, 'score': 86.172485, 'issued': {'date-parts': [[2000, 6, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2000, 6, 1]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1145/335191.335372', 'ISSN': ['0163-5808'], 'issn-type': [{'value': '0163-5808', 'type': 'print'}]}
+>>> hash >>> ('Mining frequent patterns without candidate generation', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Berman, H.M., Westbrook, J., Feng, Z., Gilliland, G., Bhat, T.N., Weissig, H., Shindyalov, I.N., Bourne, P.E.: The protein data bank. Nucleic Acids Res. 28, 235â€“242 (2000)
+>>> DOI >>> 10.1107/97809553602060000722
+>>> URL >>> http://dx.doi.org/10.1107/97809553602060000722
+>>> year >>> 2006.0
+>>> title >>> The Protein Data Bank, 1999–
+>>> author >>> H. M. Berman and J. Westbrook and Z. Feng and G. Gilliland and T. N. Bhat and H. Weissig and I. N. Shindyalov and P. E. Bourne
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['International Tables for Crystallography']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T03:33:05Z', 'timestamp': 1525318385488}, 'publisher-location': 'Chester, England', 'edition-number': '1', 'reference-count': 0, 'publisher': 'International Union of Crystallography', 'isbn-type': [{'value': '9780792368571', 'type': 'print'}, {'value': '9781402054167', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1107/97809553602060000722', 'type': 'book-chapter', 'created': {'date-parts': [[2006, 9, 11]], 'date-time': '2006-09-11T15:05:27Z', 'timestamp': 1157987127000}, 'page': '675-684', 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['The Protein Data Bank, 1999–'], 'prefix': '10.1107', 'author': [{'given': 'H. M.', 'family': 'Berman', 'sequence': 'first', 'affiliation': []}, {'given': 'J.', 'family': 'Westbrook', 'sequence': 'additional', 'affiliation': []}, {'given': 'Z.', 'family': 'Feng', 'sequence': 'additional', 'affiliation': []}, {'given': 'G.', 'family': 'Gilliland', 'sequence': 'additional', 'affiliation': []}, {'given': 'T. N.', 'family': 'Bhat', 'sequence': 'additional', 'affiliation': []}, {'given': 'H.', 'family': 'Weissig', 'sequence': 'additional', 'affiliation': []}, {'given': 'I. N.', 'family': 'Shindyalov', 'sequence': 'additional', 'affiliation': []}, {'given': 'P. E.', 'family': 'Bourne', 'sequence': 'additional', 'affiliation': []}], 'member': '329', 'published-online': {'date-parts': [[2006, 10, 1]]}, 'container-title': ['International Tables for Crystallography'], 'deposited': {'date-parts': [[2007, 6, 6]], 'date-time': '2007-06-06T10:55:52Z', 'timestamp': 1181127352000}, 'score': 68.626236, 'issued': {'date-parts': [[2006, 10, 1]]}, 'ISBN': ['9781402052590', '9781402049699', '9780792368571', '9781402054167'], 'references-count': 0, 'alternative-id': ['10.1107/97809553602060000722'], 'URL': 'http://dx.doi.org/10.1107/97809553602060000722'}
+>>> hash >>> ('The Protein Data Bank, 1999–', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Yan, X., Han, J.: gSpan: graph-based substructure pattern mining. In: ICDM, pp. 721â€“724 (2002)
+>>> DOI >>> 10.1109/icdm.2002.1184038
+>>> URL >>> http://dx.doi.org/10.1109/icdm.2002.1184038
+>>> year >>> None
+>>> title >>> gSpan: graph-based substructure pattern mining
+>>> author >>> None
+>>> reference_count >>> 8.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['2002 IEEE International Conference on Data Mining, 2002. Proceedings.']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T19:22:41Z', 'timestamp': 1525375361457}, 'reference-count': 8, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769517544', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icdm.2002.1184038', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 6, 26]], 'date-time': '2003-06-26T15:35:00Z', 'timestamp': 1056641700000}, 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['gSpan: graph-based substructure pattern mining'], 'prefix': '10.1109', 'author': [{'family': 'Xifeng Yan', 'sequence': 'first', 'affiliation': []}, {'family': 'Jiawei Han', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2002 IEEE International Conference on Data Mining. ICDM 2002', 'location': 'Maebashi City, Japan', 'acronym': 'ICDM-02'}, 'container-title': ['2002 IEEE International Conference on Data Mining, 2002. Proceedings.'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8435/26564/01184038.pdf?arnumber=1184038', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 13]], 'date-time': '2017-03-13T23:22:34Z', 'timestamp': 1489447354000}, 'score': 76.61303, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769517544'], 'references-count': 8, 'URL': 'http://dx.doi.org/10.1109/icdm.2002.1184038'}
+>>> hash >>> ('gSpan: graph-based substructure pattern mining', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Zhao, X., Chen, Y., Xiao, C., Ishikawa, Y., Tang, J.: Frequent subgraph mining based on pregel. Comput. J. 59(8), 1113â€“1128 (2016)
+>>> DOI >>> 10.1093/comjnl/bxv118
+>>> URL >>> http://dx.doi.org/10.1093/comjnl/bxv118
+>>> year >>> 2016.0
+>>> title >>> Frequent Subgraph Mining Based on Pregel
+>>> author >>> Xiang Zhao and Yifan Chen and Chuan Xiao and Yoshiharu Ishikawa and Jiuyang Tang
+>>> reference_count >>> 44.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['The Computer Journal']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 12]], 'date-time': '2018-05-12T07:22:29Z', 'timestamp': 1526109749526}, 'reference-count': 44, 'publisher': 'Oxford University Press (OUP)', 'issue': '8', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['The Computer Journal'], 'published-print': {'date-parts': [[2016, 8]]}, 'DOI': '10.1093/comjnl/bxv118', 'type': 'journal-article', 'created': {'date-parts': [[2016, 1, 7]], 'date-time': '2016-01-07T02:29:03Z', 'timestamp': 1452133743000}, 'page': '1113-1128', 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['Frequent Subgraph Mining Based on Pregel'], 'prefix': '10.1093', 'volume': '59', 'author': [{'given': 'Xiang', 'family': 'Zhao', 'sequence': 'first', 'affiliation': []}, {'given': 'Yifan', 'family': 'Chen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Chuan', 'family': 'Xiao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yoshiharu', 'family': 'Ishikawa', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jiuyang', 'family': 'Tang', 'sequence': 'additional', 'affiliation': []}], 'member': '286', 'published-online': {'date-parts': [[2016, 1, 6]]}, 'reference': [{'key': '2016083005472000000_59.8.1113.1', 'first-page': '340', 'article-title': 'On graph query optimization in large networks', 'volume': '3', 'author': 'Zhao', 'year': '2010', 'journal-title': 'PVLDB'}, {'key': '2016083005472000000_59.8.1113.2', 'unstructured': 'Han W.-S. , Lee J. and Lee J.-H. (2013) Turbo $_{\\mbox {iso}}$ : Towards Ultrafast and Robust Subgraph Isomorphism Search in Large Graph Databases. Proc. SIGMOD 13, New York, NY, USA, June 22–27, pp. 337–348. ACM, New York, NY, USA.', 'DOI': '10.1145/2463676.2465300', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.3', 'first-page': '169', 'article-title': 'A partition-based approach to structure similarity search', 'volume': '7', 'author': 'Zhao', 'year': '2013', 'journal-title': 'PVLDB'}, {'key': '2016083005472000000_59.8.1113.4', 'DOI': '10.1007/s00778-012-0301-y', 'doi-asserted-by': 'publisher'}, {'key': '2016083005472000000_59.8.1113.5', 'first-page': '1978', 'article-title': 'Simple, fast, and scalable reachability oracle', 'volume': '6', 'author': 'Jin', 'year': '2013', 'journal-title': 'PVLDB'}, {'key': '2016083005472000000_59.8.1113.6', 'unstructured': 'Zhu A.D. , Xiao X. , Wang S. and Lin W. (2013) Efficient Single-Source Shortest Path and Distance Queries on Large Graphs. Proc. KDD 13, Chicago, IL, August 11–14, pp. 998–1006. ACM, New York, NY, USA.', 'DOI': '10.1145/2487575.2487665', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.7', 'unstructured': 'Aggarwal C.C. and Wang H. (2010) Managing and Mining Graph Data (1st edn). Springer, New York, NY.', 'DOI': '10.1007/978-1-4419-6045-0', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.8', 'unstructured': 'Dean J. and Ghemawat S. (2004) MapReduce: Simplified Data Processing on Large Clusters. Proc. OSDI 04, San Francisco, CA, December 6–8, pp. 137–150. USENIX Association, Berkeley, CA, USA.'}, {'key': '2016083005472000000_59.8.1113.9', 'first-page': '716', 'article-title': 'Distributed GraphLab: a framework for machine learning in the cloud', 'volume': '5', 'author': 'Low', 'year': '2012', 'journal-title': 'PVLDB'}, {'key': '2016083005472000000_59.8.1113.10', 'unstructured': 'Malewicz G. , Austern M.H. , Bik A.J.C. , Dehnert J.C. , Horn I. , Leiser N. and Czajkowski G. (2010) Pregel: A System for Large-Scale Graph Processing. Proc. SIGMOD 10, Indianapolis, IN, June 6–11, pp. 135–146. ACM, New York, NY, USA.', 'DOI': '10.1145/1807167.1807184', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.11', 'unstructured': 'Gao J. , Zhou C. , Zhou J. and Yu J.X. (2014) Continuous Pattern Detection Over Billion-Edge Graph Using Distributed Framework. Proc. ICDE 14, Chicago, IL, March 31–April 4, pp. 556–567. IEEE, CS Washington, DC, USA.', 'DOI': '10.1109/ICDE.2014.6816681', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.12', 'unstructured': 'Inokuchi A. , Washio T. and Motoda H. (2000) An Apriori-based Algorithm for Mining Frequent Substructures from Graph Data. Proc. PKDD 00, Lyon, France, September 13–16, pp. 13–23. Springer, Berlin.', 'DOI': '10.1007/3-540-45372-5_2', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.13', 'unstructured': 'Kuramochi M. and Karypis G. (2001) Frequent Subgraph Discovery. Proc. ICDM 01, San Jose, CA, November 29–December 2, pp. 313–320. IEEE, CS Washington, DC, USA.', 'DOI': '10.1109/ICDM.2001.989534', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.14', 'unstructured': 'Yan X. and Han J. (2002) gSpan: Graph-based Substructure Pattern Mining. Proc. ICDM 02, Maebashi City, Japan, December 9–12, pp. 721–724. IEEE, CS Washington, DC, USA.'}, {'key': '2016083005472000000_59.8.1113.15', 'unstructured': 'Huan J. , Wang W. and Prins J. (2003) Efficient Mining of Frequent Subgraphs in the Presence of Isomorphism. Proc. ICDM 03, Melbourne, FL, November 19–22, pp. 549–552. IEEE, CS Washington, DC, USA.', 'DOI': '10.1109/ICDM.2003.1250974', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.16', 'unstructured': 'Nijssen S. and Kok J.N. (2004) A Quickstart in Frequent Structure Mining Can Make a Difference. Proc. KDD 04, Seattle, WA, August 22–25, pp. 647–652. ACM, New York, NY, USA.', 'DOI': '10.1145/1014052.1014134', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.17', 'unstructured': 'Maunz A. , Helma C. and Kramer S. (2009) Large-Scale Graph Mining using Backbone Refinement Classes. Proc. KDD 09, Paris, France, June 28–July 1, pp. 617–626. ACM, New York, NY, USA.', 'DOI': '10.1145/1557019.1557089', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.18', 'unstructured': 'Wang C. , Wang W. , Pei J. , Zhu Y. and Shi B. (2004) Scalable Mining of Large Disk-Based Graph Databases. Proc. KDD 04, Seattle, WA, August 22–25, pp. 316–325. ACM, New York, NY, USA.', 'DOI': '10.1145/1014052.1014088', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.19', 'first-page': '231', 'article-title': 'Substructure discovery using minimum description length and background knowledge', 'volume': '1', 'author': 'Cook', 'year': '1994', 'journal-title': 'J. Artif. Intell. Res.'}, {'key': '2016083005472000000_59.8.1113.20', 'unstructured': 'Lin W. , Xiao X. and Ghinita G. (2014) Large-Scale Frequent Subgraph Mining in MapReduce. Proc. ICDE 14, Chicago, IL, March 31–April 4, pp. 844–855. IEEE, CS Washington, DC, USA.', 'DOI': '10.1109/ICDE.2014.6816705', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.21', 'DOI': '10.1109/TKDE.2014.2345408', 'doi-asserted-by': 'publisher'}, {'key': '2016083005472000000_59.8.1113.22', 'unstructured': 'Aridhi S. (2013) Distributed frequent subgraph mining in the cloud. PhD Thesis, Blaise Pascal University Aubière, France.'}, {'key': '2016083005472000000_59.8.1113.23', 'DOI': '10.1007/s10618-005-0003-9', 'doi-asserted-by': 'publisher'}, {'key': '2016083005472000000_59.8.1113.24', 'unstructured': 'Reinhardt S.P. and Karypis G. (2007) A Multi-level Parallel Implementation of a Program for Finding Frequent Patterns in a Large Sparse Graph. Proc. IPDPS 07, Long Beach, CA, March 26–30, pp. 1–8. IEEE, CS Washington, DC, USA.', 'DOI': '10.1109/IPDPS.2007.370404', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.25', 'unstructured': 'Fiedler M. and Borgelt C. (2007) Support Computation for Mining Frequent Subgraphs in a Single Graph. Proc. MLG 07, Firence, Italy, August 1–3. ACM, New York, NY, USA.'}, {'key': '2016083005472000000_59.8.1113.26', 'unstructured': 'Bringmann B. and Nijssen S. (2008) What is Frequent in a Single Graph?. Proc. PAKDD 08, Osaka, Japan, May 20–23, pp. 858–863. Springer, Berlin.', 'DOI': '10.1007/978-3-540-68125-0_84', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.27', 'first-page': '517', 'article-title': 'GraMi: Frequent subgraph and pattern mining in a single large graph', 'volume': '7', 'author': 'Elseidy', 'year': '2014', 'journal-title': 'PVLDB'}, {'key': '2016083005472000000_59.8.1113.28', 'unstructured': 'Kuramochi M. and Karypis G. (2004) GREW-A Scalable Frequent Subgraph Discovery Algorithm. Proc. ICDM 04, Brighton, UK, November 1–4, pp. 439–442. IEEE, CS Washington, DC, USA.', 'DOI': '10.1109/ICDM.2004.10024', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.29', 'unstructured': 'Chen C. , Yan X. , Zhu F. and Han J. (2007) gApprox: Mining Frequent Approximate Patterns from a Massive Network. Proc. ICDM 07, Omaha, NE, October 28–31, pp. 445–450. IEEE, CS Washington, DC, USA.', 'DOI': '10.1109/ICDM.2007.36', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.30', 'unstructured': 'Qin L. , Yu J.X. , Chang L. , Cheng H. , Zhang C. and Lin X. (2014) Scalable Big Graph Processing in MapReduce. Proc. SIGMOD 14, Snowbird, UT, June 22–27, pp. 827–838. ACM, New York, NY, USA.', 'DOI': '10.1145/2588555.2593661', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.31', 'unstructured': 'Bahmani B. , Chakrabarti K. and Xin D. (2011) Fast Personalized PageRank on MapReduce. Proc. SIGMOD 11, Athens, Greece, June 12–16, pp. 973–984. ACM, New York, NY, USA.', 'DOI': '10.1145/1989323.1989425', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.32', 'unstructured': 'Rastogi V. , Machanavajjhala A. , Chitnis L. and Sarma A.D. (2013) Finding Connected Components in Map-reduce in Logarithmic Rounds. Proc. ICDE 13, Brisbane, QLD, April 8–12, pp. 50–61. IEEE, CS Washington, DC, USA.', 'DOI': '10.1109/ICDE.2013.6544813', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.33', 'unstructured': 'Gao J. , Zhou J. , Zhou C. and Yu J.X. (2014) GLog: A High Level Graph Analysis System using Mapreduce. Proc. ICDE 14, Chicago, IL, March 31–April 4, pp. 544–555. IEEE, CS Washington, DC, USA.', 'DOI': '10.1109/ICDE.2014.6816680', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.34', 'first-page': '193', 'article-title': 'From ‘think like a vertex’ to ‘think like a graph’', 'volume': '7', 'author': 'Tian', 'year': '2013', 'journal-title': 'PVLDB'}, {'key': '2016083005472000000_59.8.1113.35', 'unstructured': 'Shao B. , Wang H. and Li Y. (2013) Trinity: A Distributed Graph Engine on a Memory Cloud. Proc. SIGMOD 13, New York, NY, June 22–27, pp. 505–516. ACM, New York, NY, USA.', 'DOI': '10.1145/2463676.2467799', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.36', 'unstructured': 'Khayyat Z. , Awara K. , Alonazi A. , Jamjoom H. , Williams D. and Kalnis P. (2013) Mizan: A System for Dynamic Load Balancing in Large-scale Graph Processing. Proc. EuroSys 13, Prague, Czech, April 14–17, pp. 169–182. ACM, New York, NY, USA.', 'DOI': '10.1145/2465351.2465369', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.37', 'first-page': '577', 'article-title': 'Optimizing graph algorithms on pregel-like systems', 'volume': '7', 'author': 'Salihoglu', 'year': '2014', 'journal-title': 'PVLDB'}, {'key': '2016083005472000000_59.8.1113.38', 'first-page': '788', 'article-title': 'Efficient subgraph matching on billion node graphs', 'volume': '5', 'author': 'Sun', 'year': '2012', 'journal-title': 'PVLDB'}, {'key': '2016083005472000000_59.8.1113.39', 'first-page': '61', 'article-title': 'Toward a distance oracle for billion-node graphs', 'volume': '7', 'author': 'Qi', 'year': '2013', 'journal-title': 'PVLDB'}, {'key': '2016083005472000000_59.8.1113.40', 'unstructured': 'Wang L. , Xiao Y. , Shao B. and Wang H. (2014) How to Partition a Billion-node Graph. Proc. ICDE 14, Chicago, IL, March 31–April 4, pp. 568–579. IEEE, CS Washington, DC, USA.', 'DOI': '10.1109/ICDE.2014.6816682', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.41', 'unstructured': 'Yang S. , Yan X. , Zong B. and Khan A. (2012) Towards Effective Partition Management for Large Graphs. Proc. SIGMOD 12, Scottsdale, AZ, May 20–24, pp. 517–528. ACM, New York, NY, USA.', 'DOI': '10.1145/2213836.2213895', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.42', 'unstructured': 'Huang J. , Venkatraman K. and Abadi D.J. (2014) Query Optimization of Distributed Pattern Matching. Proc. ICDE 14, Chicago, IL, March 31–April 4, pp. 64–75. IEEE, CS Washington, DC, USA.', 'DOI': '10.1109/ICDE.2014.6816640', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.43', 'unstructured': 'Mondal J. and Deshpande A. (2012) Managing Large Dynamic Graphs Efficiently. Proc. SIGMOD 12, Scottsdale, AZ, May 20–24, pp. 145–156. ACM, New York, NY, USA.', 'DOI': '10.1145/2213836.2213854', 'doi-asserted-by': 'crossref'}, {'key': '2016083005472000000_59.8.1113.44', 'unstructured': 'Leskovec J. and Faloutsos C. (2006) Sampling from Large Graphs. Proc. KDD 06, Philadelphia, PA, August 20–23, pp. 631–636. ACM, New York, NY, USA.', 'DOI': '10.1145/1150402.1150479', 'doi-asserted-by': 'crossref'}], 'container-title': ['The Computer Journal'], 'language': 'en', 'link': [{'URL': 'http://academic.oup.com/comjnl/article-pdf/59/8/1113/8039116/bxv118.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 25]], 'date-time': '2017-08-25T04:07:23Z', 'timestamp': 1503634043000}, 'score': 79.71487, 'issued': {'date-parts': [[2016, 1, 6]]}, 'references-count': 44, 'journal-issue': {'published-online': {'date-parts': [[2016, 8, 30]]}, 'published-print': {'date-parts': [[2016, 8]]}, 'issue': '8'}, 'alternative-id': ['10.1093/comjnl/bxv118'], 'URL': 'http://dx.doi.org/10.1093/comjnl/bxv118', 'relation': {'cites': []}, 'ISSN': ['0010-4620', '1460-2067'], 'issn-type': [{'value': '0010-4620', 'type': 'print'}, {'value': '1460-2067', 'type': 'electronic'}]}
+>>> hash >>> ('Frequent Subgraph Mining Based on Pregel', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Peng, Z., Wang, T., Lu, W., Huang, H., Du, X., Zhao, F., Tung, A.K.H.: Mining frequent subgraphs from tremendous amount of small graphs using MapReduce. Knowl. Inf. Syst. 1â€“28 (2017)
+>>> DOI >>> 10.1007/s10115-017-1104-7
+>>> URL >>> http://dx.doi.org/10.1007/s10115-017-1104-7
+>>> year >>> 2017.0
+>>> title >>> Mining frequent subgraphs from tremendous amount of small graphs using MapReduce
+>>> author >>> Zhe Peng and Tongtong Wang and Wei Lu and Hao Huang and Xiaoyong Du and Feng Zhao and Anthony K. H. Tung
+>>> reference_count >>> 25.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Knowledge and Information Systems']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T01:50:32Z', 'timestamp': 1525744232024}, 'reference-count': 25, 'publisher': 'Springer Nature', 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2017, 10, 6]], 'date-time': '2017-10-06T00:00:00Z', 'timestamp': 1507248000000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'funder': [{'DOI': '10.13039/501100001809', 'name': 'National Natural Science Foundation of China', 'doi-asserted-by': 'publisher', 'award': ['61502347', '61502504', '61432006']}, {'name': 'The Fundamental Research Funds for the Central Universities, and the Research Funds of Renmin University of China', 'award': ['No. 15XNLF09']}, {'name': 'The Ministry of Science and Technology of China, National Key Research and Development Program', 'award': ['2016YFB1000700']}, {'name': 'Nature Science Foundation of Hubei Province of China', 'award': ['2016CFB384']}], 'content-domain': {'domain': ['link.springer.com'], 'crossmark-restriction': False}, 'short-container-title': ['Knowl Inf Syst'], 'DOI': '10.1007/s10115-017-1104-7', 'type': 'journal-article', 'created': {'date-parts': [[2017, 10, 6]], 'date-time': '2017-10-06T05:05:53Z', 'timestamp': 1507266353000}, 'update-policy': 'http://dx.doi.org/10.1007/springer_crossmark_policy', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Mining frequent subgraphs from tremendous amount of small graphs using MapReduce'], 'prefix': '10.1007', 'author': [{'given': 'Zhe', 'family': 'Peng', 'sequence': 'first', 'affiliation': []}, {'given': 'Tongtong', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Wei', 'family': 'Lu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Hao', 'family': 'Huang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xiaoyong', 'family': 'Du', 'sequence': 'additional', 'affiliation': []}, {'given': 'Feng', 'family': 'Zhao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Anthony K. H.', 'family': 'Tung', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2017, 10, 6]]}, 'reference': [{'key': '1104_CR1', 'doi-asserted-by': 'crossref', 'first-page': '213', 'DOI': '10.1016/j.is.2013.08.005', 'volume': '48', 'author': 'S Aridhi', 'year': '2015', 'unstructured': 'Aridhi S, d’Orazio L, Maddouri M, Nguifo EM (2015) Density-based data partitioning strategy to approximate large-scale subgraph mining. Inf Syst 48:213–223', 'journal-title': 'Inf Syst'}, {'key': '1104_CR2', 'doi-asserted-by': 'crossref', 'first-page': '235', 'DOI': '10.1093/nar/28.1.235', 'volume': '28', 'author': 'HM Berman', 'year': '2000', 'unstructured': 'Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE (2000) The protein data bank. Nucleic Acids Res 28:235–242', 'journal-title': 'Nucleic Acids Res'}, {'issue': '3', 'key': '1104_CR3', 'doi-asserted-by': 'crossref', 'first-page': '608', 'DOI': '10.1109/TKDE.2014.2345408', 'volume': '27', 'author': 'M Bhuiyan', 'year': '2015', 'unstructured': 'Bhuiyan M, Hasan MA (2015) An iterative mapreduce based frequent subgraph mining algorithm. IEEE Trans Knowl Data Eng 27(3):608–620', 'journal-title': 'IEEE Trans Knowl Data Eng'}, {'key': '1104_CR4', 'unstructured': 'Borgelt C, Berthold MR (2002) Mining molecular fragments: finding relevant substructures of molecules. In: ICDM, pp 51–58'}, {'issue': '3', 'key': '1104_CR5', 'doi-asserted-by': 'crossref', 'first-page': '457', 'DOI': '10.1007/s10618-008-0098-x', 'volume': '17', 'author': 'V Chaoji', 'year': '2008', 'unstructured': 'Chaoji V, Hasan MA, Salem S, Zaki MJ (2008) An integrated, generic approach to pattern mining: data mining template library. Data Min Knowl Discov 17(3):457–495', 'journal-title': 'Data Min Knowl Discov'}, {'issue': '1', 'key': '1104_CR6', 'doi-asserted-by': 'crossref', 'first-page': '2', 'DOI': '10.1145/1508857.1508859', 'volume': '34', 'author': 'J Cheng', 'year': '2009', 'unstructured': 'Cheng J, Ke Y, Ng W (2009) Efficient query processing on graph databases. ACM Trans Database Syst 34(1):2', 'journal-title': 'ACM Trans Database Syst'}, {'key': '1104_CR7', 'unstructured': 'Cheng J, Ke Y, Ng W, Lu A(2007) Fg-index: towards verification-free query processing on graph databases. In: SIGMOD conference, pp 857–872', 'DOI': '10.1145/1247480.1247574', 'doi-asserted-by': 'crossref'}, {'key': '1104_CR8', 'unstructured': 'Dean J, Ghemawat S (2004) MapReduce: simplified data processing on large clusters. In: OSDI, pp 137–150'}, {'key': '1104_CR9', 'author': 'J Han', 'year': '2005', 'unstructured': 'Han J (2005) Data mining: concepts and techniques. Morgan Kaufmann Publishers Inc., San Francisco', 'volume-title': 'Data mining: concepts and techniques'}, {'key': '1104_CR10', 'unstructured': 'Hill S, Srichandan B, Sunderraman R (2012) An iterative mapreduce approach to frequent subgraph mining in biological datasets. In: BCB, pp 661–666', 'DOI': '10.1145/2382936.2383055', 'doi-asserted-by': 'crossref'}, {'key': '1104_CR11', 'unstructured': 'Huan J, Wang W, Prins J (2003) Efficient mining of frequent subgraphs in the presence of isomorphism. In: ICDM, pp 549–552', 'DOI': '10.1109/ICDM.2003.1250974', 'doi-asserted-by': 'crossref'}, {'key': '1104_CR12', 'unstructured': 'Huan J, Wang W, Prins J, Yang J (2004) Spin: mining maximal frequent subgraphs from graph databases. In: KDD, pp 581–586', 'DOI': '10.1145/1014052.1014123', 'doi-asserted-by': 'crossref'}, {'key': '1104_CR13', 'unstructured': 'Inokuchi A, Washio T, Motoda H (2000) An apriori-based algorithm for mining frequent substructures from graph data. In: PKDD, pp 13–23', 'DOI': '10.1007/3-540-45372-5_2', 'doi-asserted-by': 'crossref'}, {'issue': '1', 'key': '1104_CR14', 'doi-asserted-by': 'crossref', 'first-page': '27', 'DOI': '10.1093/nar/28.1.27', 'volume': '28', 'author': 'M Kanehisa', 'year': '2000', 'unstructured': 'Kanehisa M, Goto S (2000) KEGG: Kyoto encyclopedia of genes and genomes. Nucleic Acids Res 28(1):27–30', 'journal-title': 'Nucleic Acids Res'}, {'key': '1104_CR15', 'unstructured': 'Kuramochi M, Karypis G (2001) Frequent subgraph discovery. In: ICDM, pp 313–320', 'DOI': '10.1109/ICDM.2001.989534', 'doi-asserted-by': 'crossref'}, {'key': '1104_CR16', 'unstructured': 'Lin W, Xiao X, Ghinita G (2014) Large-scale frequent subgraph mining in mapreduce. In: IEEE 30th international conference on data engineering, Chicago, ICDE 2014, IL, USA, 31 March–4 April, pp 844–855', 'DOI': '10.1109/ICDE.2014.6816705', 'doi-asserted-by': 'crossref'}, {'key': '1104_CR17', 'unstructured': 'Liu Y, Jiang X, Chen H, Ma J, Zhang X (2009) Mapreduce-based pattern finding algorithm applied in motif detection for prescription compatibility network. In: Advanced parallel processing technologies, 8th international symposium, APPT 2009, Rapperswil, Switzerland, Proceedings, 24–25 Aug, pp 341–355', 'DOI': '10.1007/978-3-642-03644-6_27', 'doi-asserted-by': 'crossref'}, {'key': '1104_CR18', 'unstructured': 'Lowe DG (2001) Local feature view clustering for 3D object recognition. In: CVPR, pp 682–688', 'DOI': '10.1109/CVPR.2001.990541', 'doi-asserted-by': 'crossref'}, {'key': '1104_CR19', 'unstructured': 'Lu W, Chen G, Tung AKH, Zhao F (2013) Efficiently extracting frequent subgraphs using mapreduce. In: Proceedings of the 2013 IEEE international conference on big data, Santa Clara, CA, USA, 6–9 Oct 2013, pp 639–647', 'DOI': '10.1109/BigData.2013.6691633', 'doi-asserted-by': 'crossref'}, {'key': '1104_CR20', 'unstructured': 'National library of medicine. \n                        http://chem.sis.nlm.nih.gov/chemidplus\n                        \n                    \n                '}, {'key': '1104_CR21', 'unstructured': 'Nijssen S, Kok JN (2004) A quickstart in frequent structure mining can make a difference. In: KDD, pp 647–652', 'DOI': '10.1145/1014052.1014134', 'doi-asserted-by': 'crossref'}, {'issue': '3', 'key': '1104_CR22', 'doi-asserted-by': 'crossref', 'first-page': '435', 'DOI': '10.1109/69.599932', 'volume': '9', 'author': 'EGM Petrakis', 'year': '1997', 'unstructured': 'Petrakis EGM, Faloutsos C (1997) Similarity searching in medical image databases. IEEE Trans Knowl Data Eng 9(3):435–447', 'journal-title': 'IEEE Trans Knowl Data Eng'}, {'key': '1104_CR23', 'unstructured': 'Wang C, Wang W, Pei J, Zhu Y, Shi B (2004) Scalable mining of large disk-based graph databases. In: KDD, pp 316–325', 'DOI': '10.1145/1014052.1014088', 'doi-asserted-by': 'crossref'}, {'key': '1104_CR24', 'unstructured': 'Yan X, Han J (2002) gspan: graph-based substructure pattern mining. In: ICDM, pp 721–724'}, {'key': '1104_CR25', 'unstructured': 'Yan X, Yu PS, Han J (2004) Graph indexing: a frequent structure-based approach. In: SIGMOD conference, pp 335–346', 'DOI': '10.1145/1007568.1007607', 'doi-asserted-by': 'crossref'}], 'container-title': ['Knowledge and Information Systems'], 'language': 'en', 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/s10115-017-1104-7.pdf', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://link.springer.com/article/10.1007/s10115-017-1104-7/fulltext.html', 'content-type': 'text/html', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://link.springer.com/content/pdf/10.1007/s10115-017-1104-7.pdf', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 10, 6]], 'date-time': '2017-10-06T05:06:18Z', 'timestamp': 1507266378000}, 'score': 126.48852, 'issued': {'date-parts': [[2017, 10, 6]]}, 'references-count': 25, 'alternative-id': ['1104'], 'URL': 'http://dx.doi.org/10.1007/s10115-017-1104-7', 'relation': {'cites': []}, 'ISSN': ['0219-1377', '0219-3116'], 'issn-type': [{'value': '0219-1377', 'type': 'print'}, {'value': '0219-3116', 'type': 'electronic'}]}
+>>> hash >>> ('Mining frequent subgraphs from tremendous amount of small graphs using MapReduce', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Malewicz, G., Austern, M.H., Bik, A.J.C., Dehnert, J.C., Horn, I., Leiser, N., Czajkowski, G.: Pregel: a system for large-scale graph processing. In: SIGMOD, pp. 135â€“146 (2010)
+>>> DOI >>> 10.1145/1807167.1807184
+>>> URL >>> http://dx.doi.org/10.1145/1807167.1807184
+>>> year >>> 2010.0
+>>> title >>> Pregel
+>>> author >>> Grzegorz Malewicz and Matthew H. Austern and Aart J.C Bik and James C. Dehnert and Ilan Horn and Naty Leiser and Grzegorz Czajkowski
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 862.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2010 international conference on Management of data - SIGMOD '10"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T20:42:36Z', 'timestamp': 1528404156849}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450300322', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.1145/1807167.1807184', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 6, 8]], 'date-time': '2010-06-08T12:37:34Z', 'timestamp': 1276000654000}, 'source': 'Crossref', 'is-referenced-by-count': 862, 'title': ['Pregel'], 'prefix': '10.1145', 'author': [{'given': 'Grzegorz', 'family': 'Malewicz', 'sequence': 'first', 'affiliation': []}, {'given': 'Matthew H.', 'family': 'Austern', 'sequence': 'additional', 'affiliation': []}, {'given': 'Aart J.C', 'family': 'Bik', 'sequence': 'additional', 'affiliation': []}, {'given': 'James C.', 'family': 'Dehnert', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ilan', 'family': 'Horn', 'sequence': 'additional', 'affiliation': []}, {'given': 'Naty', 'family': 'Leiser', 'sequence': 'additional', 'affiliation': []}, {'given': 'Grzegorz', 'family': 'Czajkowski', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2010 international conference', 'location': 'Indianapolis, Indiana, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '10", 'number': '2010', 'start': {'date-parts': [[2010, 6, 6]]}, 'end': {'date-parts': [[2010, 6, 10]]}}, 'container-title': ["Proceedings of the 2010 international conference on Management of data - SIGMOD '10"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1807184&amp;ftid=803611&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T05:25:42Z', 'timestamp': 1481088342000}, 'score': 123.29393, 'subtitle': ['a system for large-scale graph processing'], 'issued': {'date-parts': [[2010]]}, 'ISBN': ['9781450300322'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1807167.1807184'}
+>>> hash >>> ('Pregel', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Shao, B., Wang, H., Li, Y.: Trinity: a distributed graph engine on a memory cloud. In: SIGMOD, pp. 505â€“516 (2013)
+>>> DOI >>> 10.1145/2463676.2467799
+>>> URL >>> http://dx.doi.org/10.1145/2463676.2467799
+>>> year >>> 2013.0
+>>> title >>> Trinity
+>>> author >>> Bin Shao and Haixun Wang and Yatao Li
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 122.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2013 international conference on Management of data - SIGMOD '13"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 12]], 'date-time': '2018-05-12T07:22:29Z', 'timestamp': 1526109749525}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450320375', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013]]}, 'DOI': '10.1145/2463676.2467799', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 6, 25]], 'date-time': '2013-06-25T19:13:21Z', 'timestamp': 1372187601000}, 'source': 'Crossref', 'is-referenced-by-count': 122, 'title': ['Trinity'], 'prefix': '10.1145', 'author': [{'given': 'Bin', 'family': 'Shao', 'sequence': 'first', 'affiliation': []}, {'given': 'Haixun', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yatao', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2013 international conference', 'location': 'New York, New York, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '13", 'number': '2013', 'start': {'date-parts': [[2013, 6, 22]]}, 'end': {'date-parts': [[2013, 6, 27]]}}, 'container-title': ["Proceedings of the 2013 international conference on Management of data - SIGMOD '13"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2467799&amp;ftid=1378295&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T03:46:25Z', 'timestamp': 1481082385000}, 'score': 64.43062, 'subtitle': ['a distributed graph engine on a memory cloud'], 'issued': {'date-parts': [[2013]]}, 'ISBN': ['9781450320375'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/2463676.2467799'}
+>>> hash >>> ('Trinity', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Nijssen, S., Kok, J.N.: A quickstart in frequent structure mining can make a difference. In: KDD, pp. 647â€“652 (2004)
+>>> DOI >>> 10.1145/1014052.1014134
+>>> URL >>> http://dx.doi.org/10.1145/1014052.1014134
+>>> year >>> 2004.0
+>>> title >>> A quickstart in frequent structure mining can make a difference
+>>> author >>> Siegfried Nijssen and Joost N. Kok
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 98.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2004 ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '04"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 14]], 'date-time': '2018-05-14T14:42:31Z', 'timestamp': 1526308951726}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1581138889', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1145/1014052.1014134', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 10, 7]], 'date-time': '2004-10-07T17:39:48Z', 'timestamp': 1097170788000}, 'source': 'Crossref', 'is-referenced-by-count': 98, 'title': ['A quickstart in frequent structure mining can make a difference'], 'prefix': '10.1145', 'author': [{'given': 'Siegfried', 'family': 'Nijssen', 'sequence': 'first', 'affiliation': []}, {'given': 'Joost N.', 'family': 'Kok', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2004 ACM SIGKDD international conference', 'location': 'Seattle, WA, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data', 'SIGKDD, ACM Special Interest Group on Knowledge Discovery in Data', 'ACM, Association for Computing Machinery'], 'acronym': "KDD '04", 'number': '10', 'start': {'date-parts': [[2004, 8, 22]]}, 'end': {'date-parts': [[2004, 8, 25]]}}, 'container-title': ["Proceedings of the 2004 ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '04"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1014134&amp;ftid=273913&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T07:57:55Z', 'timestamp': 1481875075000}, 'score': 83.49189, 'issued': {'date-parts': [[2004]]}, 'ISBN': ['1581138889'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1014052.1014134'}
+>>> hash >>> ('A quickstart in frequent structure mining can make a difference', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Wang, C., Wang, W., Pei, J., Zhu, Y., Shi, B.: Scalable mining of large disk-based graph databases. In: KDD, pp. 316â€“325 (2004)
+>>> DOI >>> 10.1145/1014052.1014088
+>>> URL >>> http://dx.doi.org/10.1145/1014052.1014088
+>>> year >>> 2004.0
+>>> title >>> Scalable mining of large disk-based graph databases
+>>> author >>> Chen Wang and Wei Wang and Jian Pei and Yongtai Zhu and Baile Shi
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 26.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2004 ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '04"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 12]], 'date-time': '2018-05-12T07:22:29Z', 'timestamp': 1526109749539}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1581138889', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1145/1014052.1014088', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 10, 7]], 'date-time': '2004-10-07T17:39:48Z', 'timestamp': 1097170788000}, 'source': 'Crossref', 'is-referenced-by-count': 26, 'title': ['Scalable mining of large disk-based graph databases'], 'prefix': '10.1145', 'author': [{'given': 'Chen', 'family': 'Wang', 'sequence': 'first', 'affiliation': []}, {'given': 'Wei', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jian', 'family': 'Pei', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yongtai', 'family': 'Zhu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Baile', 'family': 'Shi', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2004 ACM SIGKDD international conference', 'location': 'Seattle, WA, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data', 'SIGKDD, ACM Special Interest Group on Knowledge Discovery in Data', 'ACM, Association for Computing Machinery'], 'acronym': "KDD '04", 'number': '10', 'start': {'date-parts': [[2004, 8, 22]]}, 'end': {'date-parts': [[2004, 8, 25]]}}, 'container-title': ["Proceedings of the 2004 ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '04"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1014088&amp;ftid=273869&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T08:48:23Z', 'timestamp': 1481878103000}, 'score': 85.89162, 'issued': {'date-parts': [[2004]]}, 'ISBN': ['1581138889'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1014052.1014088'}
+>>> hash >>> ('Scalable mining of large disk-based graph databases', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Miliaraki, I., Berberich, K., Gemulla, R., Zoupanos, S.: Mind the gap: large-scale frequent sequence mining. In: SIGMOD, pp. 797â€“808 (2013)
+>>> DOI >>> 10.1145/2463676.2465285
+>>> URL >>> http://dx.doi.org/10.1145/2463676.2465285
+>>> year >>> 2013.0
+>>> title >>> Mind the gap
+>>> author >>> Iris Miliaraki and Klaus Berberich and Rainer Gemulla and Spyros Zoupanos
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2013 international conference on Management of data - SIGMOD '13"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 12]], 'date-time': '2018-05-12T07:22:29Z', 'timestamp': 1526109749542}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450320375', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013]]}, 'DOI': '10.1145/2463676.2465285', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 6, 25]], 'date-time': '2013-06-25T19:13:21Z', 'timestamp': 1372187601000}, 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['Mind the gap'], 'prefix': '10.1145', 'author': [{'given': 'Iris', 'family': 'Miliaraki', 'sequence': 'first', 'affiliation': []}, {'given': 'Klaus', 'family': 'Berberich', 'sequence': 'additional', 'affiliation': []}, {'given': 'Rainer', 'family': 'Gemulla', 'sequence': 'additional', 'affiliation': []}, {'given': 'Spyros', 'family': 'Zoupanos', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2013 international conference', 'location': 'New York, New York, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '13", 'number': '2013', 'start': {'date-parts': [[2013, 6, 22]]}, 'end': {'date-parts': [[2013, 6, 27]]}}, 'container-title': ["Proceedings of the 2013 international conference on Management of data - SIGMOD '13"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2465285&amp;ftid=1378319&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T03:37:42Z', 'timestamp': 1481081862000}, 'score': 102.7254, 'subtitle': ['large-scale frequent sequence mining'], 'issued': {'date-parts': [[2013]]}, 'ISBN': ['9781450320375'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/2463676.2465285'}
+>>> hash >>> ('Mind the gap', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Yan, X., Yu, P.S., Han, J.: Graph indexing: a frequent structure-based approach. In: SIGMOD, pp. 335â€“346 (2004)
+>>> DOI >>> 10.1145/1007568.1007607
+>>> URL >>> http://dx.doi.org/10.1145/1007568.1007607
+>>> year >>> 2004.0
+>>> title >>> Graph indexing
+>>> author >>> Xifeng Yan and Philip S. Yu and Jiawei Han
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 149.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2004 ACM SIGMOD international conference on Management of data  - SIGMOD '04"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T18:22:40Z', 'timestamp': 1528222960789}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1581138598', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1145/1007568.1007607', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 7, 20]], 'date-time': '2004-07-20T15:55:38Z', 'timestamp': 1090338938000}, 'source': 'Crossref', 'is-referenced-by-count': 149, 'title': ['Graph indexing'], 'prefix': '10.1145', 'author': [{'given': 'Xifeng', 'family': 'Yan', 'sequence': 'first', 'affiliation': []}, {'given': 'Philip S.', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jiawei', 'family': 'Han', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2004 ACM SIGMOD international conference', 'location': 'Paris, France', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '04", 'number': '2004', 'start': {'date-parts': [[2004, 6, 13]]}, 'end': {'date-parts': [[2004, 6, 18]]}}, 'container-title': ["Proceedings of the 2004 ACM SIGMOD international conference on Management of data  - SIGMOD '04"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1007607&amp;ftid=268469&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T10:49:54Z', 'timestamp': 1481885394000}, 'score': 66.68889, 'subtitle': ['a frequent structure-based approach'], 'issued': {'date-parts': [[2004]]}, 'ISBN': ['1581138598'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1007568.1007607'}
+>>> hash >>> ('Graph indexing', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Nguyen, S.N., Orlowska, M.E., Li, X.: Graph mining based on a data partitioning approach. In: ADC, pp. 31â€“37 (2008)
+>>> DOI >>> 10.1007/11564126_66
+>>> URL >>> http://dx.doi.org/10.1007/11564126_66
+>>> year >>> 2005.0
+>>> title >>> Improvements in the Data Partitioning Approach for Frequent Itemsets Mining
+>>> author >>> Son N. Nguyen and Maria E. Orlowska
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['Knowledge Discovery in Databases: PKDD 2005', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T23:54:15Z', 'timestamp': 1525478055030}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540292449', 'type': 'print'}, {'value': '9783540316657', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1007/11564126_66', 'type': 'book-chapter', 'created': {'date-parts': [[2005, 11, 4]], 'date-time': '2005-11-04T10:24:55Z', 'timestamp': 1131099895000}, 'page': '625-633', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Improvements in the Data Partitioning Approach for Frequent Itemsets Mining'], 'prefix': '10.1007', 'author': [{'given': 'Son N.', 'family': 'Nguyen', 'sequence': 'first', 'affiliation': []}, {'given': 'Maria E.', 'family': 'Orlowska', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Knowledge Discovery in Databases: PKDD 2005', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/11564126_66', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T15:26:53Z', 'timestamp': 1389022013000}, 'score': 37.375057, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['9783540292449', '9783540316657'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/11564126_66', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Improvements in the Data Partitioning Approach for Frequent Itemsets Mining', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Wang, Z., Gu, Y., Bao, Y., Yu, G., Yu, J.X.: Hybrid pulling/pushing for I/O-efficient distributed and iterative graph computing. In: SIGMOD, pp. 479â€“494 (2016)
+>>> DOI >>> 10.1145/2882903.2882938
+>>> URL >>> http://dx.doi.org/10.1145/2882903.2882938
+>>> year >>> 2016.0
+>>> title >>> Hybrid Pulling/Pushing for I/O-Efficient Distributed and Iterative Graph Computing
+>>> author >>> Zhigang Wang and Yu Gu and Yubin Bao and Ge Yu and Jeffrey Xu Yu
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2016 International Conference on Management of Data - SIGMOD '16"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database179.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T13:22:34Z', 'timestamp': 1527254554851}, 'publisher-location': 'New York, New York, USA', 'reference-count': 32, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450335317', 'type': 'print'}], 'license': [{'URL': 'http://www.acm.org/publications/policies/copyright_policy#Background', 'start': {'date-parts': [[2016, 6, 14]], 'date-time': '2016-06-14T00:00:00Z', 'timestamp': 1465862400000}, 'delay-in-days': 165, 'content-version': 'vor'}], 'funder': [{'DOI': '10.13039/501100001809', 'name': 'National Natural Science Foundation of China', 'doi-asserted-by': 'publisher', 'award': ['61433008,61472071,61272179']}, {'DOI': '10.13039/501100004543', 'name': 'China Scholarship Council', 'doi-asserted-by': 'publisher', 'award': ['201406080068']}, {'name': 'the National Basic Research Program of China (973 Program)', 'award': ['2012CB316201']}, {'name': 'Research Grants Council of the Hong Kong SAR', 'award': ['14209314,418512']}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2016]]}, 'DOI': '10.1145/2882903.2882938', 'type': 'proceedings-article', 'created': {'date-parts': [[2016, 6, 16]], 'date-time': '2016-06-16T19:01:52Z', 'timestamp': 1466103712000}, 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Hybrid Pulling/Pushing for I/O-Efficient Distributed and Iterative Graph Computing'], 'prefix': '10.1145', 'author': [{'given': 'Zhigang', 'family': 'Wang', 'sequence': 'first', 'affiliation': [{'name': 'Northeastern University, Shenyang, China'}]}, {'given': 'Yu', 'family': 'Gu', 'sequence': 'additional', 'affiliation': [{'name': 'Northeastern University, Shenyang, China'}]}, {'given': 'Yubin', 'family': 'Bao', 'sequence': 'additional', 'affiliation': [{'name': 'Northeastern University, Shenyang, China'}]}, {'given': 'Ge', 'family': 'Yu', 'sequence': 'additional', 'affiliation': [{'name': 'Northeastern University, Shenyang, China'}]}, {'given': 'Jeffrey Xu', 'family': 'Yu', 'sequence': 'additional', 'affiliation': [{'name': 'The Chinese University of Hong Kong, Hong Kong, Hong Kong'}]}], 'member': '320', 'reference': [{'key': 'key-10.1145/2882903.2882938-1', 'unstructured': 'Faunus. http://thinkaurelius.github.io/faunus/.'}, {'key': 'key-10.1145/2882903.2882938-2', 'unstructured': 'Giraph. http://giraph.apache.org/.'}, {'key': 'key-10.1145/2882903.2882938-3', 'unstructured': 'Hama. https://hama.apache.org/.'}, {'key': 'key-10.1145/2882903.2882938-4', 'unstructured': 'Y. Bu, V. Borkar, J. Jia, M. J. Carey, and T. Condie. Pregelix: Big(ger) graph analytics on a dataflow engine. Proc. of the VLDB Endowment, 8(2):161--172, 2014.', 'DOI': '10.14778/2735471.2735477', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-5', 'unstructured': 'Y. Bu, B. Howe, M. Balazinska, and M. D. Ernst. Haloop: efficient iterative data processing on large clusters. Proc. of the VLDB Endowment, 3(1--2):285--296, 2010.', 'DOI': '10.14778/1920841.1920881', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-6', 'unstructured': 'R. Chen, X. Weng, B. He, and M. Yang. Large graph processing in the cloud. In Proc. of SIGMOD, pages 1123--1126. ACM, 2010.', 'DOI': '10.1145/1807167.1807297', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-7', 'unstructured': 'R. Cheng, J. Hong, A. Kyrola, Y. Miao, X. Weng, M. Wu, F. Yang, L. Zhou, F. Zhao, and E. Chen. Kineograph: taking the pulse of a fast-changing and connected world. In Proc. of EuroSys, pages 85--98. ACM, 2012.', 'DOI': '10.1145/2168836.2168846', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-8', 'unstructured': 'J. E. Gonzalez, Y. Low, H. Gu, D. Bickson, and C. Guestrin. Powergraph: Distributed graph-parallel computation on natural graphs. In Proc. of OSDI, volume 12, page 2, 2012.'}, {'key': 'key-10.1145/2882903.2882938-9', 'unstructured': 'J. E. Gonzalez, R. S. Xin, A. Dave, D. Crankshaw, M. J. Franklin, and I. Stoica. Graphx: Graph processing in a distributed dataflow framework. In Proc. of OSDI, pages 599--613, 2014.'}, {'key': 'key-10.1145/2882903.2882938-10', 'unstructured': 'W. Hant, Y. Miao, K. Li, M. Wu, F. Yang, L. Zhou, V. Prabhakaran, W. Chen, and E. Chen. Chronos: a graph engine for temporal graph analysis. In Proc. of EuroSys, page 1. ACM, 2014.', 'DOI': '10.1145/2592798.2592799', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-11', 'unstructured': 'L.-Y. Ho, T.-H. Li, J.-J. Wu, and P. Liu. Kylin: An efficient and scalable graph data processing system. In Proc. of IEEE BigData, pages 193--198. IEEE, 2013.', 'DOI': '10.1109/BigData.2013.6691574', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-12', 'unstructured': 'I. Hoque and I. Gupta. Lfgraph: Simple and fast distributed graph analytics. In Proc. of the First ACM SIGOPS Conference on Timely Results in Operating Systems, page 9. ACM, 2013.', 'DOI': '10.1145/2524211.2524218', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-13', 'unstructured': 'U. Kang, H. Tong, J. Sun, C.-Y. Lin, and C. Faloutsos. Gbase: a scalable and general graph management system. In Proc. of SIGKDD, pages 1091--1099. ACM, 2011.', 'DOI': '10.1145/2020408.2020580', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-14', 'unstructured': 'U. Kang, C. E. Tsourakakis, and C. Faloutsos. Pegasus: A peta-scale graph mining system implementation and observations. In ICDM, pages 229--238. IEEE, 2009.', 'DOI': '10.1109/ICDM.2009.14', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-15', 'unstructured': 'Z. Khayyat, K. Awara, A. Alonazi, H. Jamjoom, D. Williams, and P. Kalnis. Mizan: a system for dynamic load balancing in large-scale graph processing. In Proc. of Eurosys, pages 169--182. ACM, 2013.', 'DOI': '10.1145/2465351.2465369', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-16', 'unstructured': 'Y. Low, D. Bickson, J. Gonzalez, C. Guestrin, A. Kyrola, and J. M. Hellerstein. Distributed graphlab: a framework for machine learning and data mining in the cloud. Proc. of the VLDB Endowment, 5(8):716--727, 2012.', 'DOI': '10.14778/2212351.2212354', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-17', 'unstructured': 'G. Malewicz, M. H. Austern, A. J. Bik, J. C. Dehnert, I. Horn, N. Leiser, and G. Czajkowski. Pregel: a system for large-scale graph processing. In Proc. of SIGMOD, pages 135--146. ACM, 2010.', 'DOI': '10.1145/1807167.1807184', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-18', 'unstructured': 'D. G. Murray, F. McSherry, R. Isaacs, M. Isard, P. Barham, and M. Abadi. Naiad: a timely dataflow system. In Proc. of SOSP, pages 439--455. ACM, 2013.', 'DOI': '10.1145/2517349.2522738', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-19', 'unstructured': 'U. N. Raghavan, R. Albert, and S. Kumara. Near linear time algorithm to detect community structures in large-scale networks. Physical Review E, 76(3):036106, 2007.', 'DOI': '10.1103/PhysRevE.76.036106', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-20', 'unstructured': 'S. Salihoglu and J. Widom. Gps: A graph processing system. In Proc. of SSDBM, page 22. ACM, 2013.', 'DOI': '10.1145/2484838.2484843', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-21', 'unstructured': 'Z. Shang and J. X. Yu. Catch the wind: Graph workload balancing on cloud. In Proc. of ICDE, pages 553--564. IEEE, 2013.'}, {'key': 'key-10.1145/2882903.2882938-22', 'unstructured': 'B. Shao, H. Wang, and Y. Li. Trinity: A distributed graph engine on a memory cloud. In Proc. of SIGMOD, pages 505--516. ACM, 2013.', 'DOI': '10.1145/2463676.2467799', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-23', 'unstructured': 'I. Stanton and G. Kliot. Streaming graph partitioning for large distributed graphs. In Proc. of SIGKDD, pages 1222--1230. ACM, 2012.', 'DOI': '10.1145/2339530.2339722', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-24', 'unstructured': 'S. Tasci and M. Demirbas. Giraphx: parallel yet serializable large-scale graph processing. In Euro-Par 2013 Parallel Processing, pages 458--469. Springer, 2013.', 'DOI': '10.1007/978-3-642-40047-6_47', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-25', 'unstructured': 'Y. Tian, A. Balmin, S. A. Corsten, S. Tatikonda, and J. McPherson. From" think like a vertex "to" think like a graph. Proc. of the VLDB Endowment, 7(3):193--204, 2013.', 'DOI': '10.14778/2732232.2732238', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-26', 'unstructured': 'L. G. Valiant. A bridging model for parallel computation. Communications of the ACM, 33(8):103--111, 1990.', 'DOI': '10.1145/79173.79181', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-27', 'unstructured': 'D. Yan, J. Cheng, Y. Lu, and W. Ng. Blogel: A block-centric framework for distributed computation on real-world graphs. Proc. of the VLDB Endowment, 7(14):1981--1992, 2014.', 'DOI': '10.14778/2733085.2733103', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-28', 'unstructured': 'D. Yan, J. Cheng, Y. Lu, and W. Ng. Effective techniques for message reduction and load balancing in distributed graph computation. In Proc. of WWW, pages 1307--1317, 2015.', 'DOI': '10.1145/2736277.2741096', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-29', 'unstructured': 'J. Yan, G. Tan, and N. Sun. Gre: A graph runtime engine for large-scale distributed graph-parallel applications. arXiv preprint arXiv:1310.5603, 2013.'}, {'key': 'key-10.1145/2882903.2882938-30', 'unstructured': 'Z. Yang, J. Xue, Z. Qu, S. Hou, and Y. Dai. Seraph: An efficient system for parallel processing on a shared graph, 2013.'}, {'key': 'key-10.1145/2882903.2882938-31', 'unstructured': 'J. Yin and L. Gao. Scalable distributed belief propagation with prioritized block updates. In Proc. of CIKM, pages 1209--1218, 2014.', 'DOI': '10.1145/2661829.2662081', 'doi-asserted-by': 'crossref'}, {'key': 'key-10.1145/2882903.2882938-32', 'unstructured': 'C. Zhou, J. Gao, B. Sun, and J. X. Yu. Mocgraph: Scalable distributed graph processing using message online computing. Proc. of the VLDB Endowment, 8(4):377--388, 2014.'}], 'event': {'name': 'the 2016 International Conference', 'location': 'San Francisco, California, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '16", 'number': '2016', 'start': {'date-parts': [[2016, 6, 26]]}, 'end': {'date-parts': [[2016, 7, 1]]}}, 'container-title': ["Proceedings of the 2016 International Conference on Management of Data - SIGMOD '16"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2882938&amp;ftid=1744189&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 24]], 'date-time': '2017-06-24T16:31:00Z', 'timestamp': 1498321860000}, 'score': 94.27931, 'issued': {'date-parts': [[2016]]}, 'ISBN': ['9781450335317'], 'references-count': 32, 'URL': 'http://dx.doi.org/10.1145/2882903.2882938', 'relation': {'cites': []}}
+>>> hash >>> ('Hybrid Pulling/Pushing for I/O-Efficient Distributed and Iterative Graph Computing', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

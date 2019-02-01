@@ -1,0 +1,985 @@
+>>> NEW PAPER <<<
+>>> citation >>> Brandt A, Yavneh I. Improved coarse‚Ä\x90grid correction for high‚Ä\x90Reynolds flows. In Preliminary Proceedings of the Fifth Copper Mountain Conference on Multigrid Methods, Vol. 1. Manteuffel TA, McCormick SF (eds). University of Colorado: Denver, 1991; 127‚Äì149.
+>>> DOI >>> 10.2172/1325598
+>>> URL >>> http://dx.doi.org/10.2172/1325598
+>>> year >>> 2016.0
+>>> title >>> Annual Copper Mountain Conferences on Multigrid and Iterative Methods, Copper Mountain, Colorado
+>>> author >>> Stephen F. McCormick
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'Chicago Operations Office', 'place': ['Argonne, IL (United States)', '-', '-'], 'acronym': ['CHO', '-', '-']}, 'indexed': {'date-parts': [[2018, 4, 17]], 'date-time': '2018-04-17T15:09:54Z', 'timestamp': 1523977794885}, 'reference-count': 0, 'publisher': 'Office of Scientific and Technical Information  (OSTI)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.2172/1325598', 'type': 'report', 'created': {'date-parts': [[2016, 9, 30]], 'date-time': '2016-09-30T02:36:19Z', 'timestamp': 1475202979000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Annual Copper Mountain Conferences on Multigrid and Iterative Methods, Copper Mountain, Colorado'], 'prefix': '10.2172', 'author': [{'given': 'Stephen F.', 'family': 'McCormick', 'sequence': 'first', 'affiliation': [{'name': 'Front Range Scientific, Inc., Lake City, CO (United States)'}]}], 'member': '960', 'published-online': {'date-parts': [[2016, 3, 25]]}, 'deposited': {'date-parts': [[2017, 1, 10]], 'date-time': '2017-01-10T03:22:38Z', 'timestamp': 1484018558000}, 'score': 61.19836, 'issued': {'date-parts': [[2016, 3, 25]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.2172/1325598'}
+>>> hash >>> ('Annual Copper Mountain Conferences on Multigrid and Iterative Methods, Copper Mountain, Colorado', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Chan TF, Xu J, Zikatanov LT. An agglomeration multigrid method for unstructured grids. In Tenth international conference on Domain Decomposition methods, Contemporary Mathematics, American Mathematical Society, 1998; 218:67‚Äì81.
+>>> DOI >>> 10.1090/conm/218/03002
+>>> URL >>> http://dx.doi.org/10.1090/conm/218/03002
+>>> year >>> 1998.0
+>>> title >>> An agglomeration multigrid method for unstructured grids
+>>> author >>> Tony F. Chan and Jinchao Xu and Ludmil Zikatanov
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 22.0
+>>> subject >>> None
+>>> container_title >>> ['Domain Decomposition Methods 10', 'Contemporary Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 18]], 'date-time': '2018-05-18T06:02:30Z', 'timestamp': 1526623350370}, 'publisher-location': 'Providence, Rhode Island', 'reference-count': 0, 'publisher': 'American Mathematical Society', 'isbn-type': [{'value': '9780821809884', 'type': 'print'}, {'value': '9780821811771', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1998]]}, 'DOI': '10.1090/conm/218/03002', 'type': 'other', 'created': {'date-parts': [[2012, 1, 10]], 'date-time': '2012-01-10T04:55:19Z', 'timestamp': 1326171319000}, 'page': '67-81', 'source': 'Crossref', 'is-referenced-by-count': 22, 'title': ['An agglomeration multigrid method for unstructured grids'], 'prefix': '10.1090', 'author': [{'given': 'Tony F.', 'family': 'Chan', 'sequence': 'first', 'affiliation': []}, {'given': 'Jinchao', 'family': 'Xu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ludmil', 'family': 'Zikatanov', 'sequence': 'additional', 'affiliation': []}], 'member': '14', 'container-title': ['Domain Decomposition Methods 10', 'Contemporary Mathematics'], 'deposited': {'date-parts': [[2012, 2, 9]], 'date-time': '2012-02-09T22:27:32Z', 'timestamp': 1328826452000}, 'score': 95.85441, 'issued': {'date-parts': [[1998]]}, 'ISBN': ['9780821809884', '9780821811771'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1090/conm/218/03002', 'ISSN': ['1098-3627', '0271-4132'], 'issn-type': [{'value': '0271-4132', 'type': 'print'}, {'value': '1098-3627', 'type': 'electronic'}]}
+>>> hash >>> ('An agglomeration multigrid method for unstructured grids', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Mandel J. Multigrid convergence for non‚Ä\x90symmetric, indefinite variational problems and one smoothing step. Applied Mathematics and Computation 1986; 19(1‚Äì4):201‚Äì216. Second Copper Mountain Conference on multigrid methods (Copper Mountain, CO, 1985).
+>>> DOI >>> 10.1016/0096-3003(86)90104-9
+>>> URL >>> http://dx.doi.org/10.1016/0096-3003(86)90104-9
+>>> year >>> 1986.0
+>>> title >>> Multigrid convergence for nonsymmetric, indefinite variational problems and one smoothing step
+>>> author >>> Jan Mandel
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 28.0
+>>> subject >>> None
+>>> container_title >>> ['Applied Mathematics and Computation']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:47:49Z', 'timestamp': 1525312069547}, 'reference-count': 16, 'publisher': 'Elsevier BV', 'issue': '1-4', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1986, 7, 1]], 'date-time': '1986-07-01T00:00:00Z', 'timestamp': 520560000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Applied Mathematics and Computation'], 'published-print': {'date-parts': [[1986, 7]]}, 'DOI': '10.1016/0096-3003(86)90104-9', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T03:41:02Z', 'timestamp': 1027654862000}, 'page': '201-216', 'source': 'Crossref', 'is-referenced-by-count': 28, 'title': ['Multigrid convergence for nonsymmetric, indefinite variational problems and one smoothing step'], 'prefix': '10.1016', 'volume': '19', 'author': [{'given': 'Jan', 'family': 'Mandel', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Applied Mathematics and Computation'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0096300386901049?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0096300386901049?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 11, 2]], 'date-time': '2017-11-02T07:54:38Z', 'timestamp': 1509609278000}, 'score': 107.002045, 'issued': {'date-parts': [[1986, 7]]}, 'references-count': 16, 'journal-issue': {'published-print': {'date-parts': [[1986, 7]]}, 'issue': '1-4'}, 'alternative-id': ['0096300386901049'], 'URL': 'http://dx.doi.org/10.1016/0096-3003(86)90104-9', 'ISSN': ['0096-3003'], 'issn-type': [{'value': '0096-3003', 'type': 'print'}]}
+>>> hash >>> ('Multigrid convergence for nonsymmetric, indefinite variational problems and one smoothing step', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Han H, Il'in VP, Kellogg RB, Yuan W. Analysis of flow directed iterations. Journal of Computational Mathematics 1992; 10(1):57‚Äì76.
+>>> DOI >>> 10.1016/0377-0427(92)90263-w
+>>> URL >>> http://dx.doi.org/10.1016/0377-0427(92)90263-w
+>>> year >>> 1992.0
+>>> title >>> Quasi-kernel polynomials and their use in non-Hermitian matrix iterations
+>>> author >>> Roland W Freund
+>>> reference_count >>> 29.0
+>>> is_referenced_by_count >>> 41.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Computational and Applied Mathematics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:57:12Z', 'timestamp': 1525312632208}, 'reference-count': 29, 'publisher': 'Elsevier BV', 'issue': '1-2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1992, 11, 1]], 'date-time': '1992-11-01T00:00:00Z', 'timestamp': 720576000000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 7563, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Computational and Applied Mathematics'], 'published-print': {'date-parts': [[1992, 11]]}, 'DOI': '10.1016/0377-0427(92)90263-w', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T04:13:19Z', 'timestamp': 1027656799000}, 'page': '135-158', 'source': 'Crossref', 'is-referenced-by-count': 41, 'title': ['Quasi-kernel polynomials and their use in non-Hermitian matrix iterations'], 'prefix': '10.1016', 'volume': '43', 'author': [{'given': 'Roland W', 'family': 'Freund', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Computational and Applied Mathematics'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:037704279290263W?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:037704279290263W?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T04:17:46Z', 'timestamp': 1497500266000}, 'score': 28.820614, 'issued': {'date-parts': [[1992, 11]]}, 'references-count': 29, 'journal-issue': {'published-print': {'date-parts': [[1992, 11]]}, 'issue': '1-2'}, 'alternative-id': ['037704279290263W'], 'URL': 'http://dx.doi.org/10.1016/0377-0427(92)90263-w', 'ISSN': ['0377-0427'], 'issn-type': [{'value': '0377-0427', 'type': 'print'}]}
+>>> hash >>> ('Quasi-kernel polynomials and their use in non-Hermitian matrix iterations', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ruge JW, St√ºben K. Algebraic multigrid. In Multigrid Methods, McCormick SF (eds). Frontiers in applied mathematics, Society of Industrial and Applied Mathematics: Philadelphia, 1987;73‚Äì130.
+>>> DOI >>> 10.1137/1.9781611971057.ch4
+>>> URL >>> http://dx.doi.org/10.1137/1.9781611971057.ch4
+>>> year >>> 1987.0
+>>> title >>> 4. Algebraic Multigrid
+>>> author >>> J. W. Ruge and K. St¸ben
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 216.0
+>>> subject >>> None
+>>> container_title >>> ['Multigrid Methods']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 14]], 'date-time': '2018-05-14T08:42:23Z', 'timestamp': 1526287343543}, 'reference-count': 0, 'publisher': 'Society for Industrial and Applied Mathematics', 'isbn-type': [{'value': '9781611971880', 'type': 'print'}, {'value': '9781611971057', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1987, 1]]}, 'DOI': '10.1137/1.9781611971057.ch4', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 10, 21]], 'date-time': '2011-10-21T21:22:36Z', 'timestamp': 1319232156000}, 'page': '73-130', 'source': 'Crossref', 'is-referenced-by-count': 216, 'title': ['4. Algebraic Multigrid'], 'prefix': '10.1137', 'author': [{'given': 'J. W.', 'family': 'Ruge', 'sequence': 'first', 'affiliation': []}, {'given': 'K.', 'family': 'St¸ben', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'published-online': {'date-parts': [[2012, 3, 23]]}, 'container-title': ['Multigrid Methods'], 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/1.9781611971057.ch4', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T15:28:14Z', 'timestamp': 1485703694000}, 'score': 75.63369, 'issued': {'date-parts': [[1987, 1]]}, 'ISBN': ['9781611971880', '9781611971057'], 'references-count': 0, 'alternative-id': ['10.1137/1.9781611971057.ch4', '10.1137/1.9781611971057'], 'URL': 'http://dx.doi.org/10.1137/1.9781611971057.ch4'}
+>>> hash >>> ('4. Algebraic Multigrid', 1987.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Elman HC, Chernesky MP. Ordering effects on relaxation methods applied to the discrete convection‚Äìdiffusion equation. In Recent Advances in Iterative Methods. Springer: New York, 1994; 45‚Äì57.
+>>> DOI >>> 10.1007/978-1-4613-9353-5_4
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4613-9353-5_4
+>>> year >>> 1994.0
+>>> title >>> Ordering Effects on Relaxation Methods Applied to the Discrete Convection-Diffusion Equation
+>>> author >>> Howard C. Elman and Michael P. Chernesky
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['Recent Advances in Iterative Methods', 'The IMA Volumes in Mathematics and its Applications']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T17:24:48Z', 'timestamp': 1525454688597}, 'publisher-location': 'New York, NY', 'reference-count': 0, 'publisher': 'Springer New York', 'isbn-type': [{'value': '9781461393559', 'type': 'print'}, {'value': '9781461393535', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1994]]}, 'DOI': '10.1007/978-1-4613-9353-5_4', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 11, 2]], 'date-time': '2011-11-02T10:34:13Z', 'timestamp': 1320230053000}, 'page': '45-57', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Ordering Effects on Relaxation Methods Applied to the Discrete Convection-Diffusion Equation'], 'prefix': '10.1007', 'author': [{'given': 'Howard C.', 'family': 'Elman', 'sequence': 'first', 'affiliation': []}, {'given': 'Michael P.', 'family': 'Chernesky', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Recent Advances in Iterative Methods', 'The IMA Volumes in Mathematics and its Applications'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-1-4613-9353-5_4', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 9]], 'date-time': '2014-01-09T06:08:43Z', 'timestamp': 1389247723000}, 'score': 97.121254, 'issued': {'date-parts': [[1994]]}, 'ISBN': ['9781461393559', '9781461393535'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4613-9353-5_4', 'ISSN': ['0940-6573'], 'issn-type': [{'value': '0940-6573', 'type': 'print'}]}
+>>> hash >>> ('Ordering Effects on Relaxation Methods Applied to the Discrete Convection-Diffusion Equation', 1994.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Xu J, Cai X‚Ä\x90C. A preconditioned GMRES method for non‚Ä\x90symmetric or indefinite problems. Mathematics of Computation 1992; 59(200):311‚Äì319.
+>>> DOI >>> 10.2307/2153059
+>>> URL >>> http://dx.doi.org/10.2307/2153059
+>>> year >>> 1992.0
+>>> title >>> A Preconditioned GMRES Method for Nonsymmetric or Indefinite Problems
+>>> author >>> Jinchao Xu and Xiao-Chuan Cai
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematics of Computation']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T02:10:32Z', 'timestamp': 1525831832403}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '200', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Mathematics of Computation'], 'published-print': {'date-parts': [[1992, 10]]}, 'DOI': '10.2307/2153059', 'type': 'journal-article', 'created': {'date-parts': [[2006, 4, 22]], 'date-time': '2006-04-22T15:08:02Z', 'timestamp': 1145718482000}, 'page': '311', 'source': 'Crossref', 'is-referenced-by-count': 8, 'title': ['A Preconditioned GMRES Method for Nonsymmetric or Indefinite Problems'], 'prefix': '10.2307', 'volume': '59', 'author': [{'given': 'Jinchao', 'family': 'Xu', 'sequence': 'first', 'affiliation': []}, {'given': 'Xiao-Chuan', 'family': 'Cai', 'sequence': 'additional', 'affiliation': []}], 'member': '1121', 'container-title': ['Mathematics of Computation'], 'deposited': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T01:42:33Z', 'timestamp': 1525830153000}, 'score': 91.09852, 'issued': {'date-parts': [[1992, 10]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1992, 10]]}, 'issue': '200'}, 'URL': 'http://dx.doi.org/10.2307/2153059', 'ISSN': ['0025-5718'], 'issn-type': [{'value': '0025-5718', 'type': 'print'}]}
+>>> hash >>> ('A Preconditioned GMRES Method for Nonsymmetric or Indefinite Problems', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Xu J. A new class of iterative methods for nonselfadjoint or indefinite problems. SIAM Journal on Numerical Analysis 1992; 29(2):303‚Äì319.
+>>> DOI >>> 10.1137/0729020
+>>> URL >>> http://dx.doi.org/10.1137/0729020
+>>> year >>> 1992.0
+>>> title >>> A New Class of Iterative Methods for Nonselfadjoint or Indefinite Problems
+>>> author >>> Jinchao Xu
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 74.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Numerical Analysis']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:46:27Z', 'timestamp': 1525445187831}, 'reference-count': 15, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Numer. Anal.'], 'published-print': {'date-parts': [[1992, 4]]}, 'DOI': '10.1137/0729020', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 28]], 'date-time': '2005-02-28T07:02:49Z', 'timestamp': 1109574169000}, 'page': '303-319', 'source': 'Crossref', 'is-referenced-by-count': 74, 'title': ['A New Class of Iterative Methods for Nonselfadjoint or Indefinite Problems'], 'prefix': '10.1137', 'volume': '29', 'author': [{'given': 'Jinchao', 'family': 'Xu', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Numerical Analysis'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0729020', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T14:40:14Z', 'timestamp': 1485700814000}, 'score': 82.342545, 'issued': {'date-parts': [[1992, 4]]}, 'references-count': 15, 'journal-issue': {'published-print': {'date-parts': [[1992, 4]]}, 'issue': '2'}, 'alternative-id': ['10.1137/0729020'], 'URL': 'http://dx.doi.org/10.1137/0729020', 'ISSN': ['0036-1429', '1095-7170'], 'issn-type': [{'value': '0036-1429', 'type': 'print'}, {'value': '1095-7170', 'type': 'electronic'}]}
+>>> hash >>> ('A New Class of Iterative Methods for Nonselfadjoint or Indefinite Problems', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Wang F, Xu J. A cross‚Ä\x90wind strip block iterative method for convection‚Ä\x90dominated problems. SIAM Journal on Computing 1999; 21(2):646‚Äì665.
+>>> DOI >>> 10.1137/s106482759631192x
+>>> URL >>> http://dx.doi.org/10.1137/s106482759631192x
+>>> year >>> 1999.0
+>>> title >>> A Crosswind Block Iterative Method for Convection-Dominated Problems
+>>> author >>> Feng Wang and Jinchao Xu
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 12.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Scientific Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T18:38:28Z', 'timestamp': 1525372708230}, 'reference-count': 16, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Sci. Comput.'], 'published-print': {'date-parts': [[1999, 1]]}, 'DOI': '10.1137/s106482759631192x', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 11]], 'date-time': '2003-06-11T15:12:06Z', 'timestamp': 1055344326000}, 'page': '620-645', 'source': 'Crossref', 'is-referenced-by-count': 12, 'title': ['A Crosswind Block Iterative Method for Convection-Dominated Problems'], 'prefix': '10.1137', 'volume': '21', 'author': [{'given': 'Feng', 'family': 'Wang', 'sequence': 'first', 'affiliation': []}, {'given': 'Jinchao', 'family': 'Xu', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Scientific Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/S106482759631192X', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T16:22:03Z', 'timestamp': 1485706923000}, 'score': 52.882137, 'issued': {'date-parts': [[1999, 1]]}, 'references-count': 16, 'journal-issue': {'published-print': {'date-parts': [[1999, 1]]}, 'issue': '2'}, 'alternative-id': ['10.1137/S106482759631192X'], 'URL': 'http://dx.doi.org/10.1137/s106482759631192x', 'ISSN': ['1064-8275', '1095-7197'], 'issn-type': [{'value': '1064-8275', 'type': 'print'}, {'value': '1095-7197', 'type': 'electronic'}]}
+>>> hash >>> ('A Crosswind Block Iterative Method for Convection-Dominated Problems', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Elman HC, Golub GH. Line iterative methods for cyclically reduced discrete convection‚Äìdiffusion problems. SIAM Journal on Statistical and Scientific Computing 1992; 13(1):339‚Äì363.
+>>> DOI >>> 10.1137/0913018
+>>> URL >>> http://dx.doi.org/10.1137/0913018
+>>> year >>> 1992.0
+>>> title >>> Line Iterative Methods for Cyclically Reduced Discrete Convection-Diffusion Problems
+>>> author >>> Howard C. Elman and Gene H. Golub
+>>> reference_count >>> 24.0
+>>> is_referenced_by_count >>> 29.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Scientific and Statistical Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:48:41Z', 'timestamp': 1525445321612}, 'reference-count': 24, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Sci. and Stat. Comput.'], 'published-print': {'date-parts': [[1992, 1]]}, 'DOI': '10.1137/0913018', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 1]], 'date-time': '2005-03-01T08:40:30Z', 'timestamp': 1109666430000}, 'page': '339-363', 'source': 'Crossref', 'is-referenced-by-count': 29, 'title': ['Line Iterative Methods for Cyclically Reduced Discrete Convection-Diffusion Problems'], 'prefix': '10.1137', 'volume': '13', 'author': [{'given': 'Howard C.', 'family': 'Elman', 'sequence': 'first', 'affiliation': []}, {'given': 'Gene H.', 'family': 'Golub', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Scientific and Statistical Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0913018', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T14:15:58Z', 'timestamp': 1485699358000}, 'score': 105.684006, 'issued': {'date-parts': [[1992, 1]]}, 'references-count': 24, 'journal-issue': {'published-print': {'date-parts': [[1992, 1]]}, 'issue': '1'}, 'alternative-id': ['10.1137/0913018'], 'URL': 'http://dx.doi.org/10.1137/0913018', 'ISSN': ['0196-5204', '2168-3417'], 'issn-type': [{'value': '0196-5204', 'type': 'print'}, {'value': '2168-3417', 'type': 'electronic'}]}
+>>> hash >>> ('Line Iterative Methods for Cyclically Reduced Discrete Convection-Diffusion Problems', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Elman HC. Iterative methods for large, sparse, non‚Ä\x90symmetric systems of linear equations. Technical Report 229, Department of Computer Science, Yale University, 1982.
+>>> DOI >>> 10.21236/ada187046
+>>> URL >>> http://dx.doi.org/10.21236/ada187046
+>>> year >>> 1985.0
+>>> title >>> Investigation on Improved Iterative Methods for Solving Sparse Systems of Linear Equations.
+>>> author >>> Richard S. Varga
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'US Dept of the Air Force', 'place': ['-', '-'], 'department': ['Funding', 'Performing'], 'acronym': ['TR-87-1465', '-']}, 'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T23:38:29Z', 'timestamp': 1525736309878}, 'publisher-location': 'Fort Belvoir, VA', 'reference-count': 0, 'publisher': 'Defense Technical Information Center', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1985, 1, 1]]}, 'DOI': '10.21236/ada187046', 'type': 'report', 'created': {'date-parts': [[2017, 9, 12]], 'date-time': '2017-09-12T17:57:10Z', 'timestamp': 1505239030000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Investigation on Improved Iterative Methods for Solving Sparse Systems of Linear Equations.'], 'prefix': '10.21236', 'author': [{'given': 'Richard S.', 'family': 'Varga', 'sequence': 'first', 'affiliation': []}], 'member': '9879', 'original-title': [''], 'deposited': {'date-parts': [[2017, 9, 12]], 'date-time': '2017-09-12T17:57:10Z', 'timestamp': 1505239030000}, 'score': 44.74984, 'subtitle': [''], 'issued': {'date-parts': [[1985, 1, 1]]}, 'references-count': 0, 'alternative-id': ['AFOSR-TR-87-1465'], 'URL': 'http://dx.doi.org/10.21236/ada187046'}
+>>> hash >>> ('Investigation on Improved Iterative Methods for Solving Sparse Systems of Linear Equations.', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Karypis G, Kumar V. Parallel multilevel k‚Ä\x90way partitioning scheme for irregular graphs. Technical Report TR 96‚Ä\x90036, Department of Computer Science, University of Minnesota, 1996. Also available at http://www.cs.umn.edu/ karypis [14 August 1999].
+>>> DOI >>> 10.1145/369028.369103
+>>> URL >>> http://dx.doi.org/10.1145/369028.369103
+>>> year >>> 1996.0
+>>> title >>> Parallel multilevel k-way partitioning scheme for irregular graphs
+>>> author >>> George Karypis and Vipin Kumar
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 45.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 1996 ACM/IEEE conference on Supercomputing (CDROM)  - Supercomputing '96"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T01:02:36Z', 'timestamp': 1525395756319}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897918541', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1996]]}, 'DOI': '10.1145/369028.369103', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 2, 3]], 'date-time': '2004-02-03T16:19:47Z', 'timestamp': 1075825187000}, 'source': 'Crossref', 'is-referenced-by-count': 45, 'title': ['Parallel multilevel k-way partitioning scheme for irregular graphs'], 'prefix': '10.1145', 'author': [{'given': 'George', 'family': 'Karypis', 'sequence': 'first', 'affiliation': []}, {'given': 'Vipin', 'family': 'Kumar', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 1996 ACM/IEEE conference', 'location': 'Pittsburgh, Pennsylvania, United States', 'sponsor': ['SIGARCH, ACM Special Interest Group on Computer Architecture'], 'acronym': "Supercomputing '96", 'number': '1996', 'start': {'date-parts': [[1996]]}}, 'container-title': ["Proceedings of the 1996 ACM/IEEE conference on Supercomputing (CDROM)  - Supercomputing '96"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=369103&amp;ftid=82903&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T01:50:06Z', 'timestamp': 1481853006000}, 'score': 85.02304, 'issued': {'date-parts': [[1996]]}, 'ISBN': ['0897918541'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/369028.369103'}
+>>> hash >>> ('Parallel multilevel k-way partitioning scheme for irregular graphs', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hendrickson B, Leland R. A multilevel algorithm for partitioning graphs. Technical Report SAND93‚Ä\x901301, Sandia National Laboratories, 1993.
+>>> DOI >>> 10.1145/224170.224228
+>>> URL >>> http://dx.doi.org/10.1145/224170.224228
+>>> year >>> 1995.0
+>>> title >>> A multilevel algorithm for partitioning graphs
+>>> author >>> Bruce Hendrickson and Robert Leland
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 77.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 1995 ACM/IEEE conference on Supercomputing (CDROM)  - Supercomputing '95"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T23:22:41Z', 'timestamp': 1528240961508}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897918169', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1995]]}, 'DOI': '10.1145/224170.224228', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 2, 3]], 'date-time': '2004-02-03T16:19:47Z', 'timestamp': 1075825187000}, 'source': 'Crossref', 'is-referenced-by-count': 77, 'title': ['A multilevel algorithm for partitioning graphs'], 'prefix': '10.1145', 'author': [{'given': 'Bruce', 'family': 'Hendrickson', 'sequence': 'first', 'affiliation': []}, {'given': 'Robert', 'family': 'Leland', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 1995 ACM/IEEE conference', 'location': 'San Diego, California, United States', 'sponsor': ['IEEE-CS, Computer Society', 'SIGARCH, ACM Special Interest Group on Computer Architecture'], 'acronym': "Supercomputing '95", 'number': '1995', 'start': {'date-parts': [[1995, 12, 4]]}, 'end': {'date-parts': [[1995, 12, 8]]}}, 'container-title': ["Proceedings of the 1995 ACM/IEEE conference on Supercomputing (CDROM)  - Supercomputing '95"], 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 51.593605, 'issued': {'date-parts': [[1995]]}, 'ISBN': ['0897918169'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/224170.224228'}
+>>> hash >>> ('A multilevel algorithm for partitioning graphs', 1995.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bey J, Wittum G. Downwind numbering: A robust multigrid method for convection diffusion problems on unstructured grids. Applied Numerical Mathematics 1997; 23(1):177‚Äì192.
+>>> DOI >>> 10.1016/s0168-9274(96)00067-0
+>>> URL >>> http://dx.doi.org/10.1016/s0168-9274(96)00067-0
+>>> year >>> 1997.0
+>>> title >>> Downwind numbering: robust multigrid for convection-diffusion problems
+>>> author >>> J¸rgen Bey and Gabriel Wittum
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 30.0
+>>> subject >>> None
+>>> container_title >>> ['Applied Numerical Mathematics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T02:03:35Z', 'timestamp': 1525313015466}, 'reference-count': 32, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1997, 2, 1]], 'date-time': '1997-02-01T00:00:00Z', 'timestamp': 854755200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Applied Numerical Mathematics'], 'published-print': {'date-parts': [[1997, 2]]}, 'DOI': '10.1016/s0168-9274(96)00067-0', 'type': 'journal-article', 'created': {'date-parts': [[2003, 4, 7]], 'date-time': '2003-04-07T16:11:55Z', 'timestamp': 1049731915000}, 'page': '177-192', 'source': 'Crossref', 'is-referenced-by-count': 30, 'title': ['Downwind numbering: robust multigrid for convection-diffusion problems'], 'prefix': '10.1016', 'volume': '23', 'author': [{'given': 'J¸rgen', 'family': 'Bey', 'sequence': 'first', 'affiliation': []}, {'given': 'Gabriel', 'family': 'Wittum', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Applied Numerical Mathematics'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0168927496000670?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0168927496000670?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T04:29:20Z', 'timestamp': 1497500960000}, 'score': 123.284386, 'issued': {'date-parts': [[1997, 2]]}, 'references-count': 32, 'journal-issue': {'published-print': {'date-parts': [[1997, 2]]}, 'issue': '1'}, 'alternative-id': ['S0168927496000670'], 'URL': 'http://dx.doi.org/10.1016/s0168-9274(96)00067-0', 'ISSN': ['0168-9274'], 'issn-type': [{'value': '0168-9274', 'type': 'print'}]}
+>>> hash >>> ('Downwind numbering: robust multigrid for convection-diffusion problems', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bramble JH, Pasciak JE, Xu J. The analysis of multigrid algorithms with nonnested spaces or noninherited quadratic forms. Mathematics of Computation 1991; 56:1‚Äì34.
+>>> DOI >>> 10.2307/2008527
+>>> URL >>> http://dx.doi.org/10.2307/2008527
+>>> year >>> 1991.0
+>>> title >>> The Analysis of Multigrid Algorithms with Nonnested Spaces or Noninherited Quadratic Forms
+>>> author >>> James H. Bramble and Joseph E. Pasciak and Jinchao Xu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematics of Computation']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 23]], 'date-time': '2018-05-23T04:27:33Z', 'timestamp': 1527049653816}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '193', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Mathematics of Computation'], 'published-print': {'date-parts': [[1991, 1]]}, 'DOI': '10.2307/2008527', 'type': 'journal-article', 'created': {'date-parts': [[2006, 4, 22]], 'date-time': '2006-04-22T14:55:07Z', 'timestamp': 1145717707000}, 'page': '1', 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['The Analysis of Multigrid Algorithms with Nonnested Spaces or Noninherited Quadratic Forms'], 'prefix': '10.2307', 'volume': '56', 'author': [{'given': 'James H.', 'family': 'Bramble', 'sequence': 'first', 'affiliation': []}, {'given': 'Joseph E.', 'family': 'Pasciak', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jinchao', 'family': 'Xu', 'sequence': 'additional', 'affiliation': []}], 'member': '1121', 'container-title': ['Mathematics of Computation'], 'deposited': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T17:03:20Z', 'timestamp': 1527008600000}, 'score': 113.277985, 'issued': {'date-parts': [[1991, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1991, 1]]}, 'issue': '193'}, 'URL': 'http://dx.doi.org/10.2307/2008527', 'ISSN': ['0025-5718'], 'issn-type': [{'value': '0025-5718', 'type': 'print'}]}
+>>> hash >>> ('The Analysis of Multigrid Algorithms with Nonnested Spaces or Noninherited Quadratic Forms', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Xu J, Zikatanov LT. A monotone finite element scheme for convection diffusion equations. Mathematics of Computation 1999; 68(228):1429‚Äì1446.
+>>> DOI >>> 10.1090/s0025-5718-99-01148-5
+>>> URL >>> http://dx.doi.org/10.1090/s0025-5718-99-01148-5
+>>> year >>> 1999.0
+>>> title >>> A monotone finite element scheme for convection-diffusion equations
+>>> author >>> Jinchao Xu and Ludmil Zikatanov
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 93.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematics of Computation']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T05:44:16Z', 'timestamp': 1525326256451}, 'reference-count': 0, 'publisher': 'American Mathematical Society (AMS)', 'issue': '228', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Math. Comp.'], 'published-print': {'date-parts': [[1999, 5, 20]]}, 'DOI': '10.1090/s0025-5718-99-01148-5', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T22:14:44Z', 'timestamp': 1027721684000}, 'page': '1429-1447', 'source': 'Crossref', 'is-referenced-by-count': 93, 'title': ['A monotone finite element scheme for convection-diffusion equations'], 'prefix': '10.1090', 'volume': '68', 'author': [{'given': 'Jinchao', 'family': 'Xu', 'sequence': 'first', 'affiliation': []}, {'given': 'Ludmil', 'family': 'Zikatanov', 'sequence': 'additional', 'affiliation': []}], 'member': '14', 'container-title': ['Mathematics of Computation'], 'language': 'en', 'deposited': {'date-parts': [[2011, 6, 4]], 'date-time': '2011-06-04T18:21:12Z', 'timestamp': 1307211672000}, 'score': 99.94213, 'issued': {'date-parts': [[1999, 5, 20]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1999, 10, 1]]}, 'issue': '228'}, 'alternative-id': ['S0025571899011485'], 'URL': 'http://dx.doi.org/10.1090/s0025-5718-99-01148-5', 'ISSN': ['0025-5718'], 'issn-type': [{'value': '0025-5718', 'type': 'print'}]}
+>>> hash >>> ('A monotone finite element scheme for convection-diffusion equations', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Brezzi F, Marini L, Pietra P. Numerical simulation of semiconductor devices. Computer Methods in Applied Mechanics and Engineering 1989; 75(3):493‚Äì514.
+>>> DOI >>> 10.1016/0045-7825(89)90044-3
+>>> URL >>> http://dx.doi.org/10.1016/0045-7825(89)90044-3
+>>> year >>> 1989.0
+>>> title >>> Numerical simulation of semiconductor devices
+>>> author >>> Franco Brezzi and Luisa Donatella Marini and Paola Pietra
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 44.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Methods in Applied Mechanics and Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T15:56:34Z', 'timestamp': 1525362994282}, 'reference-count': 27, 'publisher': 'Elsevier BV', 'issue': '1-3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1989, 10, 1]], 'date-time': '1989-10-01T00:00:00Z', 'timestamp': 623203200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Methods in Applied Mechanics and Engineering'], 'published-print': {'date-parts': [[1989, 10]]}, 'DOI': '10.1016/0045-7825(89)90044-3', 'type': 'journal-article', 'created': {'date-parts': [[2003, 3, 14]], 'date-time': '2003-03-14T14:47:03Z', 'timestamp': 1047653223000}, 'page': '493-514', 'source': 'Crossref', 'is-referenced-by-count': 44, 'title': ['Numerical simulation of semiconductor devices'], 'prefix': '10.1016', 'volume': '75', 'author': [{'given': 'Franco', 'family': 'Brezzi', 'sequence': 'first', 'affiliation': []}, {'given': 'Luisa Donatella', 'family': 'Marini', 'sequence': 'additional', 'affiliation': []}, {'given': 'Paola', 'family': 'Pietra', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Computer Methods in Applied Mechanics and Engineering'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0045782589900443?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0045782589900443?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2018, 2, 6]], 'date-time': '2018-02-06T05:47:50Z', 'timestamp': 1517896070000}, 'score': 93.71839, 'issued': {'date-parts': [[1989, 10]]}, 'references-count': 27, 'journal-issue': {'published-print': {'date-parts': [[1989, 10]]}, 'issue': '1-3'}, 'alternative-id': ['0045782589900443'], 'URL': 'http://dx.doi.org/10.1016/0045-7825(89)90044-3', 'ISSN': ['0045-7825'], 'issn-type': [{'value': '0045-7825', 'type': 'print'}]}
+>>> hash >>> ('Numerical simulation of semiconductor devices', 1989.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bank RE. A comparison of two multilevel iterative methods for non‚Ä\x90symmetric and indefinite elliptic finite element equations. SIAM Journal on Numerical Analysis 1981; 18(4):724‚Äì743.
+>>> DOI >>> 10.1137/0718048
+>>> URL >>> http://dx.doi.org/10.1137/0718048
+>>> year >>> 1981.0
+>>> title >>> A Comparison of Two Multilevel Iterative Methods for Nonsymmetric and Indefinite Elliptic Finite Element Equations
+>>> author >>> Randolph E. Bank
+>>> reference_count >>> 11.0
+>>> is_referenced_by_count >>> 46.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Numerical Analysis']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:46:16Z', 'timestamp': 1525445176693}, 'reference-count': 11, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Numer. Anal.'], 'published-print': {'date-parts': [[1981, 8]]}, 'DOI': '10.1137/0718048', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 28]], 'date-time': '2005-02-28T06:44:48Z', 'timestamp': 1109573088000}, 'page': '724-743', 'source': 'Crossref', 'is-referenced-by-count': 46, 'title': ['A Comparison of Two Multilevel Iterative Methods for Nonsymmetric and Indefinite Elliptic Finite Element Equations'], 'prefix': '10.1137', 'volume': '18', 'author': [{'given': 'Randolph E.', 'family': 'Bank', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Numerical Analysis'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0718048', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T14:22:11Z', 'timestamp': 1485699731000}, 'score': 100.36741, 'issued': {'date-parts': [[1981, 8]]}, 'references-count': 11, 'journal-issue': {'published-print': {'date-parts': [[1981, 8]]}, 'issue': '4'}, 'alternative-id': ['10.1137/0718048'], 'URL': 'http://dx.doi.org/10.1137/0718048', 'ISSN': ['0036-1429', '1095-7170'], 'issn-type': [{'value': '0036-1429', 'type': 'print'}, {'value': '1095-7170', 'type': 'electronic'}]}
+>>> hash >>> ('A Comparison of Two Multilevel Iterative Methods for Nonsymmetric and Indefinite Elliptic Finite Element Equations', 1981.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Xu J. Two‚Ä\x90grid discretization techniques for linear and non‚Ä\x90linear PDEs. SIAM Journal on Numerical Analysis 1996; 33(5):1759‚Äì1777.
+>>> DOI >>> 10.1137/s0036142992232949
+>>> URL >>> http://dx.doi.org/10.1137/s0036142992232949
+>>> year >>> 1996.0
+>>> title >>> Two-Grid Discretization Techniques for Linear and Nonlinear PDEs
+>>> author >>> Jinchao Xu
+>>> reference_count >>> 36.0
+>>> is_referenced_by_count >>> 281.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Numerical Analysis']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T16:42:29Z', 'timestamp': 1528389749151}, 'reference-count': 36, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Numer. Anal.'], 'published-print': {'date-parts': [[1996, 10]]}, 'DOI': '10.1137/s0036142992232949', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 28]], 'date-time': '2005-02-28T07:08:21Z', 'timestamp': 1109574501000}, 'page': '1759-1777', 'source': 'Crossref', 'is-referenced-by-count': 281, 'title': ['Two-Grid Discretization Techniques for Linear and Nonlinear PDEs'], 'prefix': '10.1137', 'volume': '33', 'author': [{'given': 'Jinchao', 'family': 'Xu', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Numerical Analysis'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/S0036142992232949', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T15:40:13Z', 'timestamp': 1485704413000}, 'score': 66.35481, 'issued': {'date-parts': [[1996, 10]]}, 'references-count': 36, 'journal-issue': {'published-print': {'date-parts': [[1996, 10]]}, 'issue': '5'}, 'alternative-id': ['10.1137/S0036142992232949'], 'URL': 'http://dx.doi.org/10.1137/s0036142992232949', 'ISSN': ['0036-1429', '1095-7170'], 'issn-type': [{'value': '0036-1429', 'type': 'print'}, {'value': '1095-7170', 'type': 'electronic'}]}
+>>> hash >>> ('Two-Grid Discretization Techniques for Linear and Nonlinear PDEs', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Tarjan RE. Depth‚Ä\x90first‚Ä\x90search and linear graph algorithms. SIAM Journal on Computing 1972; 1:146‚Äì160.
+>>> DOI >>> 10.1137/0201010
+>>> URL >>> http://dx.doi.org/10.1137/0201010
+>>> year >>> 1972.0
+>>> title >>> Depth-First Search and Linear Graph Algorithms
+>>> author >>> Robert Tarjan
+>>> reference_count >>> 8.0
+>>> is_referenced_by_count >>> 2223.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T15:02:39Z', 'timestamp': 1528383759265}, 'reference-count': 8, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[1972, 6]]}, 'DOI': '10.1137/0201010', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 24]], 'date-time': '2005-02-24T10:53:01Z', 'timestamp': 1109242381000}, 'page': '146-160', 'source': 'Crossref', 'is-referenced-by-count': 2223, 'title': ['Depth-First Search and Linear Graph Algorithms'], 'prefix': '10.1137', 'volume': '1', 'author': [{'given': 'Robert', 'family': 'Tarjan', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0201010', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T16:13:16Z', 'timestamp': 1485706396000}, 'score': 61.673004, 'issued': {'date-parts': [[1972, 6]]}, 'references-count': 8, 'journal-issue': {'published-print': {'date-parts': [[1972, 6]]}, 'issue': '2'}, 'alternative-id': ['10.1137/0201010'], 'URL': 'http://dx.doi.org/10.1137/0201010', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('Depth-First Search and Linear Graph Algorithms', 1972.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Chan TF, Vassilevski PS. A framework for block ILU factorization using block‚Ä\x90size reduction. Mathematics of Computation 1995; 64(209):129‚Äì156.
+>>> DOI >>> 10.2307/2153326
+>>> URL >>> http://dx.doi.org/10.2307/2153326
+>>> year >>> 1995.0
+>>> title >>> A Framework for Block ILU Factorizations Using Block-Size Reduction
+>>> author >>> Tony F. Chan and Panayot S. Vassilevski
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematics of Computation']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T14:40:26Z', 'timestamp': 1525876826185}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '209', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Mathematics of Computation'], 'published-print': {'date-parts': [[1995, 1]]}, 'DOI': '10.2307/2153326', 'type': 'journal-article', 'created': {'date-parts': [[2006, 4, 22]], 'date-time': '2006-04-22T15:25:11Z', 'timestamp': 1145719511000}, 'page': '129', 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['A Framework for Block ILU Factorizations Using Block-Size Reduction'], 'prefix': '10.2307', 'volume': '64', 'author': [{'given': 'Tony F.', 'family': 'Chan', 'sequence': 'first', 'affiliation': []}, {'given': 'Panayot S.', 'family': 'Vassilevski', 'sequence': 'additional', 'affiliation': []}], 'member': '1121', 'container-title': ['Mathematics of Computation'], 'deposited': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T14:09:23Z', 'timestamp': 1525874963000}, 'score': 80.28717, 'issued': {'date-parts': [[1995, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1995, 1]]}, 'issue': '209'}, 'URL': 'http://dx.doi.org/10.2307/2153326', 'ISSN': ['0025-5718'], 'issn-type': [{'value': '0025-5718', 'type': 'print'}]}
+>>> hash >>> ('A Framework for Block ILU Factorizations Using Block-Size Reduction', 1995.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Elman HC, Golub GH, Starke G. On the convergence of line iterative methods for cyclically reduced non‚Ä\x90symmetrizable linear systems. Numerische Mathematik 1994; 67(2):177‚Äì190.
+>>> DOI >>> 10.1007/s002110050023
+>>> URL >>> http://dx.doi.org/10.1007/s002110050023
+>>> year >>> 1994.0
+>>> title >>> On the convergence of line iterative methods for cyclically reduced non-symmetrizable linear systems
+>>> author >>> Howard C. Elman and Gene H. Golub and Gerhard Starke
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['Numerische Mathematik']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T19:17:25Z', 'timestamp': 1525288645500}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Numerische Mathematik'], 'published-print': {'date-parts': [[1994, 3, 1]]}, 'DOI': '10.1007/s002110050023', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 25]], 'date-time': '2002-08-25T07:47:25Z', 'timestamp': 1030261645000}, 'page': '177-190', 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['On the convergence of line iterative methods for cyclically reduced non-symmetrizable linear systems'], 'prefix': '10.1007', 'volume': '67', 'author': [{'given': 'Howard C.', 'family': 'Elman', 'sequence': 'first', 'affiliation': []}, {'given': 'Gene H.', 'family': 'Golub', 'sequence': 'additional', 'affiliation': []}, {'given': 'Gerhard', 'family': 'Starke', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Numerische Mathematik'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s002110050023', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 3, 19]], 'date-time': '2013-03-19T13:09:59Z', 'timestamp': 1363698599000}, 'score': 110.184685, 'issued': {'date-parts': [[1994, 3, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1994, 3, 1]]}, 'issue': '2'}, 'alternative-id': ['HV1QY278H91AP42L'], 'URL': 'http://dx.doi.org/10.1007/s002110050023', 'ISSN': ['0029-599X', '0945-3245'], 'issn-type': [{'value': '0029-599X', 'type': 'print'}, {'value': '0945-3245', 'type': 'electronic'}]}
+>>> hash >>> ('On the convergence of line iterative methods for cyclically reduced non-symmetrizable linear systems', 1994.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hackbusch W. Iterative Solution of Large Sparse Systems of Equations. Springer: Berlin, 1994.
+>>> DOI >>> 10.1007/978-1-4612-4288-8
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4612-4288-8
+>>> year >>> 1994.0
+>>> title >>> Iterative Solution of Large Sparse Systems of Equations
+>>> author >>> Wolfgang Hackbusch
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 203.0
+>>> subject >>> None
+>>> container_title >>> ['Applied Mathematical Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 15]], 'date-time': '2018-05-15T06:02:25Z', 'timestamp': 1526364145707}, 'publisher-location': 'New York, NY', 'reference-count': 0, 'publisher': 'Springer New York', 'isbn-type': [{'value': '9781461287247', 'type': 'print'}, {'value': '9781461242888', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1994]]}, 'DOI': '10.1007/978-1-4612-4288-8', 'type': 'book', 'created': {'date-parts': [[2011, 9, 14]], 'date-time': '2011-09-14T15:30:32Z', 'timestamp': 1316014232000}, 'source': 'Crossref', 'is-referenced-by-count': 203, 'title': ['Iterative Solution of Large Sparse Systems of Equations'], 'prefix': '10.1007', 'author': [{'given': 'Wolfgang', 'family': 'Hackbusch', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Applied Mathematical Sciences'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-1-4612-4288-8', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 9, 9]], 'date-time': '2013-09-09T12:49:56Z', 'timestamp': 1378730996000}, 'score': 63.382496, 'issued': {'date-parts': [[1994]]}, 'ISBN': ['9781461287247', '9781461242888'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4612-4288-8', 'ISSN': ['0066-5452'], 'issn-type': [{'value': '0066-5452', 'type': 'print'}]}
+>>> hash >>> ('Iterative Solution of Large Sparse Systems of Equations', 1994.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bank RE, Xu J. An algorithm for coarsening unstructured meshes. Numerische Mathematik 1996; 73:1‚Äì36.
+>>> DOI >>> 10.1007/s002110050181
+>>> URL >>> http://dx.doi.org/10.1007/s002110050181
+>>> year >>> 1996.0
+>>> title >>> An algorithm for coarsening unstructured meshes
+>>> author >>> Randolph E. Bank and Jinchao Xu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 44.0
+>>> subject >>> None
+>>> container_title >>> ['Numerische Mathematik']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T19:31:50Z', 'timestamp': 1525289510896}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Numerische Mathematik'], 'published-print': {'date-parts': [[1996, 3, 1]]}, 'DOI': '10.1007/s002110050181', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 25]], 'date-time': '2002-08-25T07:47:25Z', 'timestamp': 1030261645000}, 'page': '1-36', 'source': 'Crossref', 'is-referenced-by-count': 44, 'title': ['An algorithm for coarsening unstructured meshes'], 'prefix': '10.1007', 'volume': '73', 'author': [{'given': 'Randolph E.', 'family': 'Bank', 'sequence': 'first', 'affiliation': []}, {'given': 'Jinchao', 'family': 'Xu', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Numerische Mathematik'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s002110050181', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 3, 19]], 'date-time': '2013-03-19T13:11:57Z', 'timestamp': 1363698717000}, 'score': 88.85677, 'issued': {'date-parts': [[1996, 3, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1996, 3, 1]]}, 'issue': '1'}, 'alternative-id': ['FR676HX1HLPBA1WT'], 'URL': 'http://dx.doi.org/10.1007/s002110050181', 'ISSN': ['0029-599X', '0945-3245'], 'issn-type': [{'value': '0029-599X', 'type': 'print'}, {'value': '0945-3245', 'type': 'electronic'}]}
+>>> hash >>> ('An algorithm for coarsening unstructured meshes', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Brandt A, Yavneh I. On multigrid solution of high‚Ä\x90Reynolds incompressible entering flows. Journal of Computational Physics 1992; 101:151‚Äì164.
+>>> DOI >>> 10.1016/0021-9991(92)90049-5
+>>> URL >>> http://dx.doi.org/10.1016/0021-9991(92)90049-5
+>>> year >>> 1992.0
+>>> title >>> On multigrid solution of high-reynolds incompressible entering flows
+>>> author >>> A Brandt and I Yavneh
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 57.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Computational Physics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T07:46:13Z', 'timestamp': 1525419973219}, 'reference-count': 18, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1992, 7, 1]], 'date-time': '1992-07-01T00:00:00Z', 'timestamp': 709948800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Computational Physics'], 'published-print': {'date-parts': [[1992, 7]]}, 'DOI': '10.1016/0021-9991(92)90049-5', 'type': 'journal-article', 'created': {'date-parts': [[2004, 9, 30]], 'date-time': '2004-09-30T15:17:26Z', 'timestamp': 1096557446000}, 'page': '151-164', 'source': 'Crossref', 'is-referenced-by-count': 57, 'title': ['On multigrid solution of high-reynolds incompressible entering flows'], 'prefix': '10.1016', 'volume': '101', 'author': [{'given': 'A', 'family': 'Brandt', 'sequence': 'first', 'affiliation': []}, {'given': 'I', 'family': 'Yavneh', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Computational Physics'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0021999192900495?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0021999192900495?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T10:32:35Z', 'timestamp': 1497609155000}, 'score': 83.84716, 'issued': {'date-parts': [[1992, 7]]}, 'references-count': 18, 'journal-issue': {'published-print': {'date-parts': [[1992, 7]]}, 'issue': '1'}, 'alternative-id': ['0021999192900495'], 'URL': 'http://dx.doi.org/10.1016/0021-9991(92)90049-5', 'ISSN': ['0021-9991'], 'issn-type': [{'value': '0021-9991', 'type': 'print'}]}
+>>> hash >>> ('On multigrid solution of high-reynolds incompressible entering flows', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Vanƒõk P, Mandel J, Brezina M. Algebraic multigrid on unstructured meshes. Technical Report UCD/CCM 34, Center for Computational Mathematics, University of Colorado at Denver, December 1994.
+>>> DOI >>> 10.2172/4822055
+>>> URL >>> http://dx.doi.org/10.2172/4822055
+>>> year >>> 1969.0
+>>> title >>> [COMPUTER ANALYSIS OF THE RADIOISOTOPE SCAN.] Technical Progress Report.
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'Divison of Technical Information Extension', 'place': ['U.S. Atomic Energy Commission', '-'], 'acronym': ['DTIE', '-']}, 'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T16:35:05Z', 'timestamp': 1525710905352}, 'reference-count': 0, 'publisher': 'Office of Scientific and Technical Information  (OSTI)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.2172/4822055', 'type': 'report', 'created': {'date-parts': [[2013, 4, 25]], 'date-time': '2013-04-25T09:13:44Z', 'timestamp': 1366881224000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['[COMPUTER ANALYSIS OF THE RADIOISOTOPE SCAN.] Technical Progress Report.'], 'prefix': '10.2172', 'author': [{'name': 'Colorado Univ., Denver. Medical Center', 'sequence': 'first', 'affiliation': []}], 'member': '960', 'published-online': {'date-parts': [[1969, 1, 1]]}, 'deposited': {'date-parts': [[2013, 4, 25]], 'date-time': '2013-04-25T09:13:44Z', 'timestamp': 1366881224000}, 'score': 43.461143, 'issued': {'date-parts': [[1969, 1, 1]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.2172/4822055'}
+>>> hash >>> ('[COMPUTER ANALYSIS OF THE RADIOISOTOPE SCAN.] Technical Progress Report.', 1969.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bramble JH, Pasciak JE, Xu J. The analysis of multigrid algorithms for non‚Ä\x90symmetric and indefinite elliptic problems. Mathematics of Computation 1988; 51:389‚Äì414.
+>>> DOI >>> 10.2307/2008755
+>>> URL >>> http://dx.doi.org/10.2307/2008755
+>>> year >>> 1988.0
+>>> title >>> The Analysis of Multigrid Algorithms for Nonsymmetric and Indefinite Elliptic Problems
+>>> author >>> James H. Bramble and Joseph E. Pasciak and Jinchao Xu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematics of Computation']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 29]], 'date-time': '2018-04-29T09:51:30Z', 'timestamp': 1524995490998}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '184', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Mathematics of Computation'], 'published-print': {'date-parts': [[1988, 10]]}, 'DOI': '10.2307/2008755', 'type': 'journal-article', 'created': {'date-parts': [[2006, 4, 22]], 'date-time': '2006-04-22T14:40:10Z', 'timestamp': 1145716810000}, 'page': '389', 'source': 'Crossref', 'is-referenced-by-count': 8, 'title': ['The Analysis of Multigrid Algorithms for Nonsymmetric and Indefinite Elliptic Problems'], 'prefix': '10.2307', 'volume': '51', 'author': [{'given': 'James H.', 'family': 'Bramble', 'sequence': 'first', 'affiliation': []}, {'given': 'Joseph E.', 'family': 'Pasciak', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jinchao', 'family': 'Xu', 'sequence': 'additional', 'affiliation': []}], 'member': '1121', 'container-title': ['Mathematics of Computation'], 'deposited': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T02:13:09Z', 'timestamp': 1524017589000}, 'score': 89.48915, 'issued': {'date-parts': [[1988, 10]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1988, 10]]}, 'issue': '184'}, 'URL': 'http://dx.doi.org/10.2307/2008755', 'ISSN': ['0025-5718'], 'issn-type': [{'value': '0025-5718', 'type': 'print'}]}
+>>> hash >>> ('The Analysis of Multigrid Algorithms for Nonsymmetric and Indefinite Elliptic Problems', 1988.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Axelsson O. Iterative Solution Methods. Cambridge University Press: Cambridge, 1994.
+>>> DOI >>> 10.1017/cbo9780511624100
+>>> URL >>> http://dx.doi.org/10.1017/cbo9780511624100
+>>> year >>> 1994.0
+>>> title >>> Iterative Solution Methods
+>>> author >>> Owe Axelsson
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 441.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 14]], 'date-time': '2018-05-14T08:42:23Z', 'timestamp': 1526287343542}, 'publisher-location': 'Cambridge', 'reference-count': 0, 'publisher': 'Cambridge University Press', 'isbn-type': [{'value': '9780511624100', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1994]]}, 'DOI': '10.1017/cbo9780511624100', 'type': 'monograph', 'created': {'date-parts': [[2012, 8, 6]], 'date-time': '2012-08-06T20:38:54Z', 'timestamp': 1344285534000}, 'source': 'Crossref', 'is-referenced-by-count': 441, 'title': ['Iterative Solution Methods'], 'prefix': '10.1017', 'author': [{'given': 'Owe', 'family': 'Axelsson', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'published-online': {'date-parts': [[2009]]}, 'deposited': {'date-parts': [[2016, 10, 15]], 'date-time': '2016-10-15T05:09:25Z', 'timestamp': 1476508165000}, 'score': 46.19753, 'issued': {'date-parts': [[1994]]}, 'ISBN': ['9780511624100'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1017/cbo9780511624100'}
+>>> hash >>> ('Iterative Solution Methods', 1994.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kumar V, Grama A, Gupta A, Karypis G. Introduction to Parallel Computing: Design and Analysis of Parallel Algorithms. The Benjamin/Cummings Publishing Company, Inc.: Redwood City, CA, 1994.
+>>> DOI >>> 10.1007/978-1-4757-6130-6_5
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4757-6130-6_5
+>>> year >>> 1995.0
+>>> title >>> Scalable Parallel Algorithms for Unstructured Problems
+>>> author >>> Vipin Kumar and Ananth Grama and Anshul Gupta and George Karypis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Parallel Algorithms for Irregular Problems: State of the Art']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T13:43:51Z', 'timestamp': 1525700631784}, 'publisher-location': 'Boston, MA', 'reference-count': 0, 'publisher': 'Springer US', 'isbn-type': [{'value': '9781441947475', 'type': 'print'}, {'value': '9781475761306', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1995]]}, 'DOI': '10.1007/978-1-4757-6130-6_5', 'type': 'book-chapter', 'created': {'date-parts': [[2013, 3, 7]], 'date-time': '2013-03-07T04:37:44Z', 'timestamp': 1362631064000}, 'page': '99-113', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Scalable Parallel Algorithms for Unstructured Problems'], 'prefix': '10.1007', 'author': [{'given': 'Vipin', 'family': 'Kumar', 'sequence': 'first', 'affiliation': []}, {'given': 'Ananth', 'family': 'Grama', 'sequence': 'additional', 'affiliation': []}, {'given': 'Anshul', 'family': 'Gupta', 'sequence': 'additional', 'affiliation': []}, {'given': 'George', 'family': 'Karypis', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Parallel Algorithms for Irregular Problems: State of the Art'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-1-4757-6130-6_5', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 11]], 'date-time': '2014-01-11T00:29:21Z', 'timestamp': 1389400161000}, 'score': 55.752003, 'issued': {'date-parts': [[1995]]}, 'ISBN': ['9781441947475', '9781475761306'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4757-6130-6_5'}
+>>> hash >>> ('Scalable Parallel Algorithms for Unstructured Problems', 1995.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bramble JH. Multigrid methods. In Pitman Research Notes in Mathematical Sciences, Vol. 294. Longman Scientific & Technical: Essex, England, 1993.
+>>> DOI >>> 10.1007/bf01321862
+>>> URL >>> http://dx.doi.org/10.1007/bf01321862
+>>> year >>> 1990.0
+>>> title >>> Functional analysis and two-point differential operators
+>>> author >>> Z. Schneider
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Acta Applicandae Mathematicae']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T16:45:01Z', 'timestamp': 1525452301600}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Acta Appl Math'], 'published-print': {'date-parts': [[1990, 6]]}, 'DOI': '10.1007/bf01321862', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 26]], 'date-time': '2005-03-26T20:17:47Z', 'timestamp': 1111868267000}, 'page': '303-304', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Functional analysis and two-point differential operators'], 'prefix': '10.1007', 'volume': '19', 'author': [{'given': 'Z.', 'family': 'Schneider', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Acta Applicandae Mathematicae'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF01321862', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 1, 24]], 'date-time': '2013-01-24T08:00:39Z', 'timestamp': 1359014439000}, 'score': 37.906555, 'subtitle': ['John Locker: (Pitman Research Notes in Mathematics), Longman Scientific & Technical, Harlow, Essex, England, 1986, 257 pp., \ufffd16.50 (softcover)'], 'issued': {'date-parts': [[1990, 6]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1990, 6]]}, 'issue': '3'}, 'alternative-id': ['BF01321862'], 'URL': 'http://dx.doi.org/10.1007/bf01321862', 'ISSN': ['0167-8019', '1572-9036'], 'issn-type': [{'value': '0167-8019', 'type': 'print'}, {'value': '1572-9036', 'type': 'electronic'}]}
+>>> hash >>> ('Functional analysis and two-point differential operators', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bramble JH, Leyk Z, Pasciak JE. Iterative schemes for non‚Ä\x90symmetric and indefinite elliptic boundary value problems. Mathematics of Computation 1993; 60(201):1‚Äì22.
+>>> DOI >>> 10.2307/2153154
+>>> URL >>> http://dx.doi.org/10.2307/2153154
+>>> year >>> 1993.0
+>>> title >>> Iterative Schemes for Nonsymmetric and Indefinite Elliptic Boundary Value Problems
+>>> author >>> James H. Bramble and Zbigniew Leyk and Joseph E. Pasciak
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematics of Computation']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T08:40:33Z', 'timestamp': 1525855233487}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '201', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Mathematics of Computation'], 'published-print': {'date-parts': [[1993, 1]]}, 'DOI': '10.2307/2153154', 'type': 'journal-article', 'created': {'date-parts': [[2006, 4, 22]], 'date-time': '2006-04-22T15:09:54Z', 'timestamp': 1145718594000}, 'page': '1', 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['Iterative Schemes for Nonsymmetric and Indefinite Elliptic Boundary Value Problems'], 'prefix': '10.2307', 'volume': '60', 'author': [{'given': 'James H.', 'family': 'Bramble', 'sequence': 'first', 'affiliation': []}, {'given': 'Zbigniew', 'family': 'Leyk', 'sequence': 'additional', 'affiliation': []}, {'given': 'Joseph E.', 'family': 'Pasciak', 'sequence': 'additional', 'affiliation': []}], 'member': '1121', 'container-title': ['Mathematics of Computation'], 'deposited': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T08:10:15Z', 'timestamp': 1525853415000}, 'score': 108.83535, 'issued': {'date-parts': [[1993, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1993, 1]]}, 'issue': '201'}, 'URL': 'http://dx.doi.org/10.2307/2153154', 'ISSN': ['0025-5718'], 'issn-type': [{'value': '0025-5718', 'type': 'print'}]}
+>>> hash >>> ('Iterative Schemes for Nonsymmetric and Indefinite Elliptic Boundary Value Problems', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bank RE, Coughran WM, Cowsar LC. Analysis of the finite volume Scharfetter‚Ä\x90Gummel method for steady convection diffusion equations. Computing and Visualization in Science 1998; 1:123‚Äì136.
+>>> DOI >>> 10.1007/s007910050012
+>>> URL >>> http://dx.doi.org/10.1007/s007910050012
+>>> year >>> 1998.0
+>>> title >>> The Finite Volume Scharfetter-Gummel method for steady convection diffusion equations
+>>> author >>> Randolph E. Bank and W.M. Coughran, Jr. and Lawrence C. Cowsar
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 20.0
+>>> subject >>> None
+>>> container_title >>> ['Computing and Visualization in Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T19:27:45Z', 'timestamp': 1525289265520}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computing and Visualization in Science'], 'published-print': {'date-parts': [[1998, 11, 1]]}, 'DOI': '10.1007/s007910050012', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 25]], 'date-time': '2002-08-25T09:09:23Z', 'timestamp': 1030266563000}, 'page': '123-136', 'source': 'Crossref', 'is-referenced-by-count': 20, 'title': ['The Finite Volume Scharfetter-Gummel method for steady convection diffusion equations'], 'prefix': '10.1007', 'volume': '1', 'author': [{'given': 'Randolph E.', 'family': 'Bank', 'sequence': 'first', 'affiliation': []}, {'given': 'W.M.', 'family': 'Coughran, Jr.', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lawrence C.', 'family': 'Cowsar', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Computing and Visualization in Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s007910050012', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 3, 27]], 'date-time': '2013-03-27T17:56:53Z', 'timestamp': 1364407013000}, 'score': 99.87985, 'issued': {'date-parts': [[1998, 11, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1998, 11, 1]]}, 'issue': '3'}, 'alternative-id': ['EE2YCH51FNHTW4BG'], 'URL': 'http://dx.doi.org/10.1007/s007910050012', 'ISSN': ['1432-9360', '1433-0369'], 'issn-type': [{'value': '1432-9360', 'type': 'print'}, {'value': '1433-0369', 'type': 'electronic'}]}
+>>> hash >>> ('The Finite Volume Scharfetter-Gummel method for steady convection diffusion equations', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hackbusch W. Multigrid Methods and Applications. Springer: Berlin, 1985.
+>>> DOI >>> 10.1007/978-3-662-02427-0
+>>> URL >>> http://dx.doi.org/10.1007/978-3-662-02427-0
+>>> year >>> 1985.0
+>>> title >>> Multi-Grid Methods and Applications
+>>> author >>> Wolfgang Hackbusch
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 851.0
+>>> subject >>> None
+>>> container_title >>> ['Springer Series in Computational Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 30]], 'date-time': '2018-05-30T02:22:27Z', 'timestamp': 1527646947834}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642057229', 'type': 'print'}, {'value': '9783662024270', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1985]]}, 'DOI': '10.1007/978-3-662-02427-0', 'type': 'book', 'created': {'date-parts': [[2013, 1, 15]], 'date-time': '2013-01-15T16:52:04Z', 'timestamp': 1358268724000}, 'source': 'Crossref', 'is-referenced-by-count': 851, 'title': ['Multi-Grid Methods and Applications'], 'prefix': '10.1007', 'author': [{'given': 'Wolfgang', 'family': 'Hackbusch', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Springer Series in Computational Mathematics'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-662-02427-0', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 9, 12]], 'date-time': '2013-09-12T19:21:46Z', 'timestamp': 1379013706000}, 'score': 39.0013, 'issued': {'date-parts': [[1985]]}, 'ISBN': ['9783642057229', '9783662024270'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-662-02427-0', 'ISSN': ['0179-3632'], 'issn-type': [{'value': '0179-3632', 'type': 'print'}]}
+>>> hash >>> ('Multi-Grid Methods and Applications', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Karypis G, Kumar V. Analysis of multilevel graph partitioning. Technical Report TR 95‚Ä\x90037, Department of Computer Science, University of Minnesota, 1995. Also available at http://www.cs.umn.edu/ karypis [14 August 1999].
+>>> DOI >>> 10.1109/ipps.1996.508075
+>>> URL >>> http://dx.doi.org/10.1109/ipps.1996.508075
+>>> year >>> None
+>>> title >>> Parallel multilevel graph partitioning
+>>> author >>> G. Karypis and V. Kumar
+>>> reference_count >>> 23.0
+>>> is_referenced_by_count >>> 14.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of International Conference on Parallel Processing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T13:18:53Z', 'timestamp': 1525353533258}, 'reference-count': 23, 'publisher': 'IEEE Comput. Soc. Press', 'isbn-type': [{'value': '0818672552', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/ipps.1996.508075', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 12, 23]], 'date-time': '2002-12-23T23:08:12Z', 'timestamp': 1040684892000}, 'source': 'Crossref', 'is-referenced-by-count': 14, 'title': ['Parallel multilevel graph partitioning'], 'prefix': '10.1109', 'author': [{'given': 'G.', 'family': 'Karypis', 'sequence': 'first', 'affiliation': []}, {'given': 'V.', 'family': 'Kumar', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'International Conference on Parallel Processing', 'location': 'Honolulu, HI, USA', 'acronym': 'IPPS-96'}, 'container-title': ['Proceedings of International Conference on Parallel Processing'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/3743/10941/00508075.pdf?arnumber=508075', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T04:23:49Z', 'timestamp': 1489119829000}, 'score': 66.30449, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0818672552'], 'references-count': 23, 'URL': 'http://dx.doi.org/10.1109/ipps.1996.508075'}
+>>> hash >>> ('Parallel multilevel graph partitioning', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Cai X‚Ä\x90C, Widlund O. Domain decomposition algorithms for indefinite elliptic problems. SIAM Journal on Statistical and Scientific Computing 1992; 13(1):243‚Äì258.
+>>> DOI >>> 10.1137/0913013
+>>> URL >>> http://dx.doi.org/10.1137/0913013
+>>> year >>> 1992.0
+>>> title >>> Domain Decomposition Algorithms for Indefinite Elliptic Problems
+>>> author >>> Xiao-Chuan Cai and Olof B. Widlund
+>>> reference_count >>> 20.0
+>>> is_referenced_by_count >>> 87.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Scientific and Statistical Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:48:41Z', 'timestamp': 1525445321466}, 'reference-count': 20, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Sci. and Stat. Comput.'], 'published-print': {'date-parts': [[1992, 1]]}, 'DOI': '10.1137/0913013', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 1]], 'date-time': '2005-03-01T08:40:30Z', 'timestamp': 1109666430000}, 'page': '243-258', 'source': 'Crossref', 'is-referenced-by-count': 87, 'title': ['Domain Decomposition Algorithms for Indefinite Elliptic Problems'], 'prefix': '10.1137', 'volume': '13', 'author': [{'given': 'Xiao-Chuan', 'family': 'Cai', 'sequence': 'first', 'affiliation': []}, {'given': 'Olof B.', 'family': 'Widlund', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Scientific and Statistical Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0913013', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T14:15:48Z', 'timestamp': 1485699348000}, 'score': 94.26238, 'issued': {'date-parts': [[1992, 1]]}, 'references-count': 20, 'journal-issue': {'published-print': {'date-parts': [[1992, 1]]}, 'issue': '1'}, 'alternative-id': ['10.1137/0913013'], 'URL': 'http://dx.doi.org/10.1137/0913013', 'ISSN': ['0196-5204', '2168-3417'], 'issn-type': [{'value': '0196-5204', 'type': 'print'}, {'value': '2168-3417', 'type': 'electronic'}]}
+>>> hash >>> ('Domain Decomposition Algorithms for Indefinite Elliptic Problems', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Saad Y. Iterative Methods for Sparse Linear Systems. PWS Publishing Company: Boston, MA, 1996.
+>>> DOI >>> 10.1137/1.9780898718003
+>>> URL >>> http://dx.doi.org/10.1137/1.9780898718003
+>>> year >>> 2003.0
+>>> title >>> Iterative Methods for Sparse Linear Systems
+>>> author >>> Yousef Saad
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2329.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 9]], 'date-time': '2018-06-09T01:22:26Z', 'timestamp': 1528507346804}, 'edition-number': 'Second', 'reference-count': 0, 'publisher': 'Society for Industrial and Applied Mathematics', 'isbn-type': [{'value': '9780898715347', 'type': 'print'}, {'value': '9780898718003', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003, 1]]}, 'DOI': '10.1137/1.9780898718003', 'type': 'monograph', 'created': {'date-parts': [[2011, 2, 1]], 'date-time': '2011-02-01T19:55:06Z', 'timestamp': 1296590106000}, 'source': 'Crossref', 'is-referenced-by-count': 2329, 'title': ['Iterative Methods for Sparse Linear Systems'], 'prefix': '10.1137', 'author': [{'given': 'Yousef', 'family': 'Saad', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'published-online': {'date-parts': [[2012, 5, 25]]}, 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T18:07:26Z', 'timestamp': 1485713246000}, 'score': 48.09063, 'issued': {'date-parts': [[2003, 1]]}, 'ISBN': ['9780898715347', '9780898718003'], 'references-count': 0, 'alternative-id': ['10.1137/1.9780898718003'], 'URL': 'http://dx.doi.org/10.1137/1.9780898718003'}
+>>> hash >>> ('Iterative Methods for Sparse Linear Systems', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bramble JH, Kwak DY, Pasciak JE. Uniform convergence of multigrid V‚Ä\x90cycle iterations for indefinite and non‚Ä\x90symmetric problems. SIAM Journal on Numerical Analysis 1994; 31(6):1746‚Äì1763.
+>>> DOI >>> 10.1137/0731089
+>>> URL >>> http://dx.doi.org/10.1137/0731089
+>>> year >>> 1994.0
+>>> title >>> Uniform Convergence of Multigrid V-Cycle Iterations for Indefinite and Nonsymmetric Problems
+>>> author >>> James H. Bramble and Do Y. Kwak and Joseph E. Pasciak
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 46.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Numerical Analysis']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T06:42:27Z', 'timestamp': 1528353747327}, 'reference-count': 21, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Numer. Anal.'], 'published-print': {'date-parts': [[1994, 12]]}, 'DOI': '10.1137/0731089', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 1]], 'date-time': '2005-03-01T08:27:12Z', 'timestamp': 1109665632000}, 'page': '1746-1763', 'source': 'Crossref', 'is-referenced-by-count': 46, 'title': ['Uniform Convergence of Multigrid V-Cycle Iterations for Indefinite and Nonsymmetric Problems'], 'prefix': '10.1137', 'volume': '31', 'author': [{'given': 'James H.', 'family': 'Bramble', 'sequence': 'first', 'affiliation': []}, {'given': 'Do Y.', 'family': 'Kwak', 'sequence': 'additional', 'affiliation': []}, {'given': 'Joseph E.', 'family': 'Pasciak', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Numerical Analysis'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0731089', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T15:32:20Z', 'timestamp': 1485703940000}, 'score': 109.62642, 'issued': {'date-parts': [[1994, 12]]}, 'references-count': 21, 'journal-issue': {'published-print': {'date-parts': [[1994, 12]]}, 'issue': '6'}, 'alternative-id': ['10.1137/0731089'], 'URL': 'http://dx.doi.org/10.1137/0731089', 'ISSN': ['0036-1429', '1095-7170'], 'issn-type': [{'value': '0036-1429', 'type': 'print'}, {'value': '1095-7170', 'type': 'electronic'}]}
+>>> hash >>> ('Uniform Convergence of Multigrid V-Cycle Iterations for Indefinite and Nonsymmetric Problems', 1994.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hackbusch W, Probst T. Downwind Gau√ü‚Ä\x90Seidel smoothing for convection dominated problems. Numerical Linear Algebra with Applications 1997; 4(2):85‚Äì102. Wiley Online Library
+>>> DOI >>> 10.1002/(sici)1099-1506(199703/04)4:2<85::aid-nla100>3.0.co;2-2
+>>> URL >>> http://dx.doi.org/10.1002/(sici)1099-1506(199703/04)4:2<85::aid-nla100>3.0.co;2-2
+>>> year >>> 1997.0
+>>> title >>> Downwind Gauﬂ-Seidel Smoothing for Convection Dominated Problems
+>>> author >>> Wolfgang Hackbusch and Thomas Probst
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['Numerical Linear Algebra with Applications']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T18:27:54Z', 'timestamp': 1525285674172}, 'reference-count': 12, 'publisher': 'Wiley', 'issue': '2', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 6758, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Numer. Linear Algebra Appl.'], 'published-print': {'date-parts': [[1997, 3]]}, 'DOI': '10.1002/(sici)1099-1506(199703/04)4:2<85::aid-nla100>3.0.co;2-2', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 25]], 'date-time': '2002-08-25T18:33:07Z', 'timestamp': 1030300387000}, 'page': '85-102', 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['Downwind Gauﬂ-Seidel Smoothing for Convection Dominated Problems'], 'prefix': '10.1002', 'volume': '4', 'author': [{'given': 'Wolfgang', 'family': 'Hackbusch', 'sequence': 'first', 'affiliation': []}, {'given': 'Thomas', 'family': 'Probst', 'sequence': 'additional', 'affiliation': []}], 'member': '311', 'reference': [{'key': '10.1002/(SICI)1099-1506(199703/04)4:2<85::AID-NLA100>3.0.CO;2-2-BIB1', 'author': 'Bey', 'year': '1995', 'unstructured': 'and Downwind numbering: a robust multigrid method for convection diffusion problems on unstructured grids. Bericht 95/2, Institut fur Computeranwendungen der Universit‰t Stuttgart, 1995. To appear in Applied Numerical Mathematics.'}, {'key': '10.1002/(SICI)1099-1506(199703/04)4:2<85::AID-NLA100>3.0.CO;2-2-BIB2', 'author': 'Hackbusch', 'year': '1985', 'unstructured': 'Multi-grid Methods and Applications, volume 4 of Computational Mathe matics. Springer-Verlag, Berlin, 1985.', 'volume-title': 'Multi-grid Methods and Applications, volume 4 of Computational Mathe matics', 'DOI': '10.1007/978-3-662-02427-0', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/(SICI)1099-1506(199703/04)4:2<85::AID-NLA100>3.0.CO;2-2-BIB3', 'author': 'Hackbusch', 'first-page': '114', 'year': '1988', 'unstructured': "A new approach to robust multigrid solvers. In ICIAM'87: Proceedings of the First International Conference on Industrial and Applied Mathematics, and , editors, pp. 114-126. SIAM, Philadelphia, 1988.", 'volume-title': "ICIAM'87: Proceedings of the First International Conference on Industrial and Applied Mathematics"}, {'key': '10.1002/(SICI)1099-1506(199703/04)4:2<85::AID-NLA100>3.0.CO;2-2-BIB4', 'author': 'Hackbusch', 'year': '1992', 'unstructured': 'Elliptic Differential Equations, volume 18 of Computational Mathematics. Springer-Verlag, Berlin, 1992.', 'volume-title': 'Elliptic Differential Equations, volume 18 of Computational Mathematics', 'DOI': '10.1007/978-3-642-11490-8', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/(SICI)1099-1506(199703/04)4:2<85::AID-NLA100>3.0.CO;2-2-BIB5', 'author': 'Hackbusch', 'year': '1993', 'unstructured': 'Iterative Solution of Large Sparse Systems of Equations. Springer-Verlag, Berlin, 1993.', 'volume-title': 'Iterative Solution of Large Sparse Systems of Equations'}, {'key': '10.1002/(SICI)1099-1506(199703/04)4:2<85::AID-NLA100>3.0.CO;2-2-BIB6', 'author': 'Hackbusch', 'year': '1995', 'unstructured': 'On a feedback vertex set problem for a planar graph. Bericht 9503, Christian- Albrechts-Universi‰t Kiel, 1995.'}, {'key': '10.1002/(SICI)1099-1506(199703/04)4:2<85::AID-NLA100>3.0.CO;2-2-BIB7', 'author': 'Hackbusch', 'first-page': '369', 'year': '1981', 'unstructured': 'Analysis of discretizations by the concept of discrete regularity, in The Mathematics of Finite Elements and Applications IV, volume IV of MAFELAP, editor, pp. 369-376. Uxbridge, April-May 1981. Academic Press, London, 1981.', 'volume-title': 'The Mathematics of Finite Elements and Applications IV, volume IV of MAFELAP'}, {'key': '10.1002/(SICI)1099-1506(199703/04)4:2<85::AID-NLA100>3.0.CO;2-2-BIB8', 'author': 'Hackbusch', 'year': '1982', 'unstructured': 'and Multigrid Methods, volume 960 of Lecture Notes in Mathematics. Springer-Verlag, Berlin, 1982.', 'volume-title': 'Multigrid Methods, volume 960 of Lecture Notes in Mathematics'}, {'key': '10.1002/(SICI)1099-1506(199703/04)4:2<85::AID-NLA100>3.0.CO;2-2-BIB9', 'author': 'Reinelt', 'year': '1985', 'unstructured': 'The Linear Ordering Problem: Algorithms and Applications, volume 48 of Re search and Exposition in Mathematics. Heldermann-Verlag, Berlin, 1985.', 'volume-title': 'The Linear Ordering Problem: Algorithms and Applications, volume 48 of Re search and Exposition in Mathematics'}, {'key': '10.1002/(SICI)1099-1506(199703/04)4:2<85::AID-NLA100>3.0.CO;2-2-BIB10', 'author': 'Reusken', 'volume': '71', 'first-page': '365', 'year': '1995', 'journal-title': 'Numer. Math.', 'DOI': '10.1007/s002110050150', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/(SICI)1099-1506(199703/04)4:2<85::AID-NLA100>3.0.CO;2-2-BIB11', 'author': 'Speckenmeyer', 'unstructured': 'and Solving feedback vertex problems in diagraphs. A new algorithm based on markov chains. To appear.'}, {'key': '10.1002/(SICI)1099-1506(199703/04)4:2<85::AID-NLA100>3.0.CO;2-2-BIB12', 'author': 'Stamm', 'first-page': '79', 'year': '1992', 'unstructured': 'Graph-theoretical concepts in computer science, in Lecture Notes in Computational Science 484, pp. 79-89. Springer-Verlag, Berlin, 1992.', 'volume-title': 'Lecture Notes in Computational Science 484'}], 'container-title': ['Numerical Linear Algebra with Applications'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F(SICI)1099-1506(199703%2F04)4:2%3C85::AID-NLA100%3E3.0.CO;2-2', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 8, 5]], 'date-time': '2017-08-05T17:32:05Z', 'timestamp': 1501954325000}, 'score': 92.85153, 'issued': {'date-parts': [[1997, 3]]}, 'references-count': 12, 'journal-issue': {'published-print': {'date-parts': [[1997, 3]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1002/(sici)1099-1506(199703/04)4:2<85::aid-nla100>3.0.co;2-2', 'relation': {'cites': []}, 'ISSN': ['1070-5325', '1099-1506'], 'issn-type': [{'value': '1070-5325', 'type': 'print'}, {'value': '1099-1506', 'type': 'electronic'}]}
+>>> hash >>> ('Downwind Gauﬂ-Seidel Smoothing for Convection Dominated Problems', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Elman HC, Chernesky MP. Ordering effects on relaxation methods applied to the discrete one‚Ä\x90dimensional convection‚Äìdiffusion equation. SIAM Journal on Numerical Analysis 1993; 30(5):1268‚Äì1290.
+>>> DOI >>> 10.1137/0730066
+>>> URL >>> http://dx.doi.org/10.1137/0730066
+>>> year >>> 1993.0
+>>> title >>> Ordering Effects on Relaxation Methods Applied to the Discrete One-Dimensional Convection-Diffusion Equation
+>>> author >>> Howard C. Elman and Michael P. Chernesky
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Numerical Analysis']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:46:27Z', 'timestamp': 1525445187287}, 'reference-count': 15, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Numer. Anal.'], 'published-print': {'date-parts': [[1993, 10]]}, 'DOI': '10.1137/0730066', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 28]], 'date-time': '2005-02-28T07:01:35Z', 'timestamp': 1109574095000}, 'page': '1268-1290', 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['Ordering Effects on Relaxation Methods Applied to the Discrete One-Dimensional Convection-Diffusion Equation'], 'prefix': '10.1137', 'volume': '30', 'author': [{'given': 'Howard C.', 'family': 'Elman', 'sequence': 'first', 'affiliation': []}, {'given': 'Michael P.', 'family': 'Chernesky', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Numerical Analysis'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0730066', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T15:33:05Z', 'timestamp': 1485703985000}, 'score': 97.494095, 'issued': {'date-parts': [[1993, 10]]}, 'references-count': 15, 'journal-issue': {'published-print': {'date-parts': [[1993, 10]]}, 'issue': '5'}, 'alternative-id': ['10.1137/0730066'], 'URL': 'http://dx.doi.org/10.1137/0730066', 'ISSN': ['0036-1429', '1095-7170'], 'issn-type': [{'value': '0036-1429', 'type': 'print'}, {'value': '1095-7170', 'type': 'electronic'}]}
+>>> hash >>> ('Ordering Effects on Relaxation Methods Applied to the Discrete One-Dimensional Convection-Diffusion Equation', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Gibbons A. Algorithmic Graph Theory. Cambridge University Press: New York, 1985.
+>>> DOI >>> 10.3138/cmlr.45.1.168a
+>>> URL >>> http://dx.doi.org/10.3138/cmlr.45.1.168a
+>>> year >>> 1988.0
+>>> title >>> Goldthorpe, Rhiannon. Sartre: Literature and Theory. Cambridge, London, New York, New Rochelle, Melbourne, Sydney: Cambridge University Press, 1984Goldthorpe, Rhiannon. Sartre: Literature and Theory. Cambridge, London, New York, New Rochelle, Melbourne, Sydney: Cambridge University Press, 1984. Pp. vii-x, 246. $39.50.
+>>> author >>> Oreste F. Pucciani
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Canadian Modern Language Review']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T04:41:16Z', 'timestamp': 1528346476801}, 'reference-count': 0, 'publisher': 'University of Toronto Press Inc. (UTPress)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Canadian Modern Language Review'], 'published-print': {'date-parts': [[1988, 10]]}, 'DOI': '10.3138/cmlr.45.1.168a', 'type': 'journal-article', 'created': {'date-parts': [[2018, 4, 24]], 'date-time': '2018-04-24T20:18:08Z', 'timestamp': 1524601088000}, 'page': '168-168', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Goldthorpe, Rhiannon. Sartre: Literature and Theory. Cambridge, London, New York, New Rochelle, Melbourne, Sydney: Cambridge University Press, 1984Goldthorpe, Rhiannon. Sartre: Literature and Theory. Cambridge, London, New York, New Rochelle, Melbourne, Sydney: Cambridge University Press, 1984. Pp. vii-x, 246. $39.50.'], 'prefix': '10.3138', 'volume': '45', 'author': [{'given': 'Oreste F.', 'family': 'Pucciani', 'sequence': 'first', 'affiliation': [{'name': 'University of California, Los Angeles'}]}], 'member': '1696', 'container-title': ['Canadian Modern Language Review'], 'language': 'en', 'link': [{'URL': 'https://utpjournals.press/doi/pdf/10.3138/cmlr.45.1.168a', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T15:36:51Z', 'timestamp': 1528299411000}, 'score': 35.93597, 'issued': {'date-parts': [[1988, 10]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1988, 10]]}, 'issue': '1'}, 'alternative-id': ['10.3138/cmlr.45.1.168a'], 'URL': 'http://dx.doi.org/10.3138/cmlr.45.1.168a', 'ISSN': ['0008-4506', '1710-1131'], 'issn-type': [{'value': '0008-4506', 'type': 'print'}, {'value': '1710-1131', 'type': 'electronic'}]}
+>>> hash >>> ('Goldthorpe, Rhiannon. Sartre: Literature and Theory. Cambridge, London, New York, New Rochelle, Melbourne, Sydney: Cambridge University Press, 1984Goldthorpe, Rhiannon. Sartre: Literature and Theory. Cambridge, London, New York, New Rochelle, Melbourne, Sydney: Cambridge University Press, 1984. Pp. vii-x, 246. $39.50.', 1988.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Xu J. Iterative methods by space decomposition and subspace correction. SIAM Review 1992; 34(4):581‚Äì613.
+>>> DOI >>> 10.1137/1034116
+>>> URL >>> http://dx.doi.org/10.1137/1034116
+>>> year >>> 1992.0
+>>> title >>> Iterative Methods by Space Decomposition and Subspace Correction
+>>> author >>> Jinchao Xu
+>>> reference_count >>> 41.0
+>>> is_referenced_by_count >>> 475.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Review']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database102.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 26]], 'date-time': '2018-05-26T12:42:35Z', 'timestamp': 1527338555219}, 'reference-count': 41, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM Rev.'], 'published-print': {'date-parts': [[1992, 12]]}, 'DOI': '10.1137/1034116', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 7]], 'date-time': '2005-03-07T07:27:17Z', 'timestamp': 1110180437000}, 'page': '581-613', 'source': 'Crossref', 'is-referenced-by-count': 475, 'title': ['Iterative Methods by Space Decomposition and Subspace Correction'], 'prefix': '10.1137', 'volume': '34', 'author': [{'given': 'Jinchao', 'family': 'Xu', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Review'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/1034116', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T16:44:59Z', 'timestamp': 1497631499000}, 'score': 80.05421, 'issued': {'date-parts': [[1992, 12]]}, 'references-count': 41, 'journal-issue': {'published-print': {'date-parts': [[1992, 12]]}, 'issue': '4'}, 'alternative-id': ['10.1137/1034116'], 'URL': 'http://dx.doi.org/10.1137/1034116', 'ISSN': ['0036-1445', '1095-7200'], 'issn-type': [{'value': '0036-1445', 'type': 'print'}, {'value': '1095-7200', 'type': 'electronic'}]}
+>>> hash >>> ('Iterative Methods by Space Decomposition and Subspace Correction', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

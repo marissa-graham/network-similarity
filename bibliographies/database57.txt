@@ -1,0 +1,100 @@
+[0] Vince Lyzinski, Daniel L. Sussman, Donniell E. Fishkind, Henry Pao, Li Chen, Joshua T. Vogelstein, Youngser Park, Carey E. Priebe, Spectral clustering for divide-and-conquer graph matching
+[1] A. Armiti, M. Gertz
+Efficient geometric graph matching using vertex embedding
+Proceedings of the 21st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM (2013), pp. 224-233
+[2] J. Baglama, L. Reichel
+Augmented implicitly restarted Lanczos bidiagonalization methods
+SIAM J. Sci. Comput., 27 (1) (2005), pp. 19-42
+[3] B. Bahmani, B. Moseley, A. Vattani, R. Kumar, S. Vassilvitskii
+Scalable k-means++
+Proc. VLDB Endowment, 5 (7) (2012), pp. 622-633
+[4] A.C. Berg, T.L. Berg, J. Malik
+Shape matching and object recognition using low distortion correspondences
+IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2005. CVPR 2005, vol. 1, IEEE (2005), pp. 26-33
+[5] M.W. Berry, D. Mezher, B. Philippe, A. Sameh
+Parallel algorithms for the singular value decomposition
+Statistics Textbooks and Monographs, 184 (2006), p. 117
+[6] M. Brand
+Fast low-rank modifications of the thin singular value decomposition
+Linear Algebra Appl., 415 (1) (2006), pp. 20-30
+[7] T. Caelli, S. Kosinov
+An eigenspace projection clustering method for inexact graph matching
+IEEE Trans. Pattern Anal. Mach. Intell., 26 (4) (2004), pp. 515-519
+[8] S. Chatterjee, Matrix estimation by universal singular value thresholding, 2012. Available from arXiv:1212.1247.
+[9] M. Cho, J. Lee, K.M. Lee
+Feature correspondence and deformable object matching via agglomerative correspondence clustering
+IEEE 12th International Conference on Computer Vision, 2009, IEEE (2009), pp. 1280-1287
+[10] M. Cho, K.M. Lee
+Progressive graph matching: making a move of graphs via probabilistic voting
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2012, IEEE (2012), pp. 398-405
+[11] D. Conte, P. Foggia, C. Sansone, M. Vento
+Thirty years of graph matching in pattern recognition
+Int. J. Pattern Recogn. Artif. Intell., 18 (03) (2004), pp. 265-298
+[12] D.L. Davies, D.W. Bouldin
+A cluster separation measure
+IEEE Trans. Pattern Anal. Mach. Intell., 2 (1979), pp. 224-227
+[13] R.O. Duda, P.E. Hart, D.G. Stork
+Pattern Classification
+John Wiley & Sons (2012)
+[14] E. Elhamifar, R. Vidal, Sparse subspace clustering: Algorithm, theory, and applications, 2012.
+[15] M. Fiori, P. Sprechmann, J. Vogelstein, P. Mus, G. Sapiro, Robust multimodal graph matching: sparse coding meets graph matching, in: Neural Information Processing Systems (NIPS) spotlight, 2013.
+[16] D. Fishkind, S. Adali, C. Priebe, Seeded graph matching, 2012. Available from arXiv:1209.0367.
+[17] D.E. Fishkind, D. Sussman, M. Tang, J.T. Vogelstein, C.E. Priebe
+Consistent adjacency-spectral partitioning for the stochastic block model when the model parameters are unknown
+SIAM J. Matrix Anal. Appl., 31 (1) (2013), pp. 23-39
+[18] M. Frank, P. Wolfe
+An algorithm for quadratic programming
+Nav. Res. Logist. Quart., 3 (1–2) (1956), pp. 95-110
+[19] M.R. Garey, D.S. Johnson
+Computers and Intractability
+Freeman, New York (1979)
+[20] W.R. Gray, J.A. Bogovic, J.T. Vogelstein, B.A. Landman, J.L. Prince, R.J. Vogelstein
+Magnetic resonance connectome automated pipeline: an overview
+IEEE Pulse, 3 (2) (2012), pp. 42-48
+[21] W.R. Gray et al., Migraine: Mri graph reliability analysis and inference for connectomics, in: GlobalSIP, 2013.
+[22] K. Haris, S.N. Efstratiadis, N. Maglaveras, C. Pappas, J. Gourassas, G. Louridas
+Model-based morphological segmentation and labeling of coronary angiograms
+IEEE Trans. Med. Imaging, 18 (10) (1999), pp. 1003-1015
+[23] J.A. Hartigan, M.A. Wong
+Algorithm as 136: a k-means clustering algorithm
+J. R. Stat. Soc. Ser. C (Appl. Stat.), 28 (1) (1979), pp. 100-108
+[24] P.W. Holland, K.B. Laskey, S. Leinhardt
+Stochastic blockmodels: first steps
+Social Netw., 5 (2) (1983), pp. 109-137
+[25] A.M. Khan, D.F. Gleich, A. Pothen, M. Halappanavar
+A multithreaded algorithm for network alignment via approximate matching
+International Conference for High Performance Computing, Networking, Storage and Analysis (SC), 2012, IEEE (2012), pp. 1-11
+[26] D. Knossow, A. Sharma, D. Mateus, R. Horaud
+Inexact matching of large and sparse graphs using laplacian eigenvectors
+Graph-Based Representations in Pattern Recognition, Springer (2009), pp. 144-153
+[27] V. Lyzinski, D.E. Fishkind, C.E. Priebe, Seeded graph matching for correlated Erdos–Renyi graphs, J. Mach. Learn. Res. 15 (2014).
+[28] V. Lyzinski, D. Sussman, M. Tang, A. Athreya, C.E. Priebe, Perfect clustering for stochastic block model graphs via adjacency spectral embedding, 2013. arXiv preprint.
+[29] K. Rohe, S. Chatterjee, B. Yu
+Spectral clustering and the high-dimensional stochastic blockmodel
+Ann. Statist., 39 (4) (2011), pp. 1878-1915
+[30] S. Sahni, T. Gonzalez
+P-complete approximation problems
+J. ACM, 23 (3) (1976), pp. 555-565
+[31] D. Sussman, M. Tang, D.E. Fishkind, C.E. Priebe
+A consistent adjacency spectral embedding for stochastic blockmodel graphs
+J. Am. Stat. Assoc., 107 (499) (2012), pp. 1119-1128
+[32] D. Sussman, M. Tang, C. Priebe, Consistent latent position estimation and vertex classification for random dot product graphs, 2013.
+[33] S. Umeyama
+An eigendecomposition approach to weighted graph matching problems
+IEEE Trans. Pattern Anal. Mach. Intell., 10 (5) (1988), pp. 695-703
+[34] J. Vogelstein, J. Conroy, V. Lyzinski, L. Podrazik, S. Kratzer, E. Harley, D. Fishkind, R. Vogelstein, C. Priebe, Large (brain) graph matching via fast approximate quadratic programming, Dec. 2011. Available from arXiv:1112.5507.
+[35] Y.J. Wang, G.Y. Wong
+Stochastic blockmodels for directed graphs
+J. Am. Stat. Assoc., 82 (397) (1987), pp. 8-19
+[36] M. Zaslavskiy, F. Bach, J.-P. Vert
+Global alignment of protein–protein interaction networks by graph matching methods
+Bioinformatics, 25 (12) (2009), pp. i259-1267
+[37] M. Zaslavskiy, F. Bach, J.-P. Vert
+A path following algorithm for the graph matching problem
+IEEE Trans. Pattern Anal. Machine Intell., 31 (12) (2009), pp. 2227-2242
+[38] F. Zhou, F. De la Torre
+Factorized graph matching
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2012, IEEE (2012), pp. 127-134
+[39] M. Zhu, A. Ghodsi
+Automatic dimensionality selection from the scree plot via the use of profile likelihood
+Comput. Stat. Data Anal., 51 (2) (2006), pp. 918-930

@@ -155,8 +155,9 @@
   \leftskip=0pt plus.5fil
   \rightskip=0pt plus-0.5fil
   \parfillskip=0pt plus1fil
-  \emergencystretch=1in
-  \parshape6
+  %\emergencystretch=1in
+  \parshape7
+  1.0in 4.7in
   1.0in 4.50in
   1.25in 4.00in
   1.50in 3.50in
@@ -265,7 +266,7 @@
 		{\@author}
 		\vfill%\vfill\vfill
       \singlespacing
-		A thesis submitted to the faculty of \\
+		A project submitted to the faculty of \\
 		\@university \\
 		in partial fulfillment of the requirements for the degree of\\[4mm]
 		%\vfill

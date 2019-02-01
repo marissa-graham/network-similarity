@@ -1,0 +1,27 @@
+[0] Chen Yang, Min Lyu, Yongkun Li, Qianqian Zhao, Yinlong Xu, SSRW: A Scalable Algorithm for Estimating Graphlet Statistics Based on Random Walk
+[1] https://tinyurl.com/com-ssrw
+[2] Ahmed, N.K., Neville, J., Rossi, R.A., Duffield, N.G., Willke, T.L.: Graphlet decomposition: framework, algorithms, and applications. Knowl. Inf. Syst. 50, 1–34 (2016)
+[3] Lovász, L.: Random walks on graphs: a survey. Combinatorics: Paul Erdös Is Eighty 2(1), 1–46 (1993)
+[4] Bhuiyan, M.A., Rahman, M., Al Hasan, M.: Guise: uniform sampling of graphlets for large graph analysis. In: ICDM. IEEE (2012)
+[5] Chen, X., Li, Y., Wang, P., Lui, J.: A general framework for estimating graphlet statistics via random walk. VLDB 10(3), 253–264 (2016)
+[6] Chen, X., Lui, J.C.: Mining graphlet counts in online social networks. In: ICDM. IEEE (2016)
+[7] Han, G., Sethu, H.: Waddling random walk: fast and accurate mining of motif statistics in large graphs. In: ICDM. IEEE (2016)
+[8] Hardiman, S.J., Katzir, L.: Estimating clustering coefficients and size of social networks via random walk. In: WWW. ACM (2013)
+[9] Holland, P.W., Leinhardt, S.: A method for detecting structure in sociometric data. Am. J. Sociol. 76(3), 492–513 (1970)
+[10] Jha, M., Seshadhri, C., Pinar, A.: Path sampling: a fast and provable method for estimating 4-vertex subgraph counts. In: WWW. ACM (2015)
+[11] Lee, C.-H., Xu, X., Eun, D.Y.: Beyond random walk and metropolis-hastings samplers: why you should not backtrack for unbiased graph sampling. In: SIGMETRICS (2012)
+[12] Leskovec, J., Krevl, A.: SNAP datasets: Stanford large network dataset collection, June 2014. http://snap.stanford.edu/data
+[13] Lim, Y., Kang, U.: Mascot: memory-efficient and accurate sampling for counting local triangles in graph streams. In: KDD (2015)
+[14] Marcus, D., Shavitt, Y.: RAGE-a rapid graphlet enumerator for large networks. Comput. Netw. 56(2), 810–819 (2012)
+[15] Milenkovic, T., Przulj, N.: Uncovering biological network function via graphlet degree signatures. arXiv preprint arXiv:0802.0556 (2008)
+[16] Mislove, A., Marcon, M., Gummadi, K.P., Druschel, P., Bhattacharjee, B.: Measurement and analysis of online social networks. In: SIGCOMM. ACM (2007)
+[17] Peng, W., Gao, T., Sisodia, D., Saha, T.K., Li, F., Al Hasan, M.: ACTS: extracting android app topological signature through graphlet sampling. In: 2016 IEEE Conference on Communications and Network Security (CNS), pp. 37–45. IEEE (2016)
+[18] Pinar, A., Seshadhri, C., Vishal, V.: ESCAPE: efficiently counting all 5-vertex subgraphs. arXiv preprint arXiv:1610.09411 (2016)
+[19] Pržulj, N., Corneil, D.G., Jurisica, I.: Modeling interactome: scale-free or geometric? Bioinformatics 20(18), 3508–3515 (2004)
+[20] Rahman, M., Bhuiyan, M.A., Al Hasan, M.: Graft: an efficient graphlet counting method for large graph analysis. TKDE 26(10), 2466–2478 (2014)
+[21] Ribeiro, P., Silva, F.: G-tries: an efficient data structure for discovering network motifs. In: Proceedings of the 2010 ACM Symposium on Applied Computing, pp. 1559–1566. ACM (2010)
+[22] Rossi, R.A., Ahmed, N.K.: The network data repository with interactive graph analytics and visualization. In: Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence (2015). http://networkrepository.com/socfb.php
+[23] Saha, T.K., Hasan, M.A.: Finding network motifs using MCMC sampling. In: Mangioni, G., Simini, F., Uzzo, S.M., Wang, D. (eds.) Complex Networks VI. SCI, vol. 597, pp. 13–24. Springer, Cham (2015).  https://doi.org/10.1007/978-3-319-16112-9_2
+[24] Shervashidze, N., Vishwanathan, S., Petri, T., Mehlhorn, K., Borgwardt, K.: Efficient graphlet kernels for large graph comparison. In: Artificial Intelligence and Statistics, pp. 488–495 (2009)
+[25] Wang, P., Lui, J., Ribeiro, B., Towsley, D., Zhao, J., Guan, X.: Efficiently estimating motif statistics of large networks. TKDD 9(2), 8 (2014)
+[26] Wang, P., Zhao, J., Zhang, X., Li, Z., Cheng, J., Lui, J.C., Towsley, D., Tao, J., Guan, X.: MOSS-5: a fast method of approximating counts of 5-node graphlets in large graphs. TKDE 30, 73–86 (2017)

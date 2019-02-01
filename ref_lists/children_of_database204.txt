@@ -1,0 +1,409 @@
+>>> NEW PAPER <<<
+>>> citation >>> J. Sun, M. Ovsjanikov, L. Guibas, "A concise and provably informative multi-scale signature based on heat diffusion", Proc. Symposium on Geometry Processing, pp. 1383-1392, 2009.
+>>> DOI >>> 10.1111/j.1467-8659.2009.01515.x
+>>> URL >>> http://dx.doi.org/10.1111/j.1467-8659.2009.01515.x
+>>> year >>> 2009.0
+>>> title >>> A Concise and Provably Informative Multi-Scale Signature Based on Heat Diffusion
+>>> author >>> Jian Sun and Maks Ovsjanikov and Leonidas Guibas
+>>> reference_count >>> 30.0
+>>> is_referenced_by_count >>> 412.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Graphics Forum']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T09:22:31Z', 'timestamp': 1528363351228}, 'reference-count': 30, 'publisher': 'Wiley', 'issue': '5', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 2253, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 7]]}, 'DOI': '10.1111/j.1467-8659.2009.01515.x', 'type': 'journal-article', 'created': {'date-parts': [[2009, 8, 31]], 'date-time': '2009-08-31T11:58:22Z', 'timestamp': 1251719902000}, 'page': '1383-1392', 'source': 'Crossref', 'is-referenced-by-count': 412, 'title': ['A Concise and Provably Informative Multi-Scale Signature Based on Heat Diffusion'], 'prefix': '10.1111', 'volume': '28', 'author': [{'given': 'Jian', 'family': 'Sun', 'sequence': 'first', 'affiliation': []}, {'given': 'Maks', 'family': 'Ovsjanikov', 'sequence': 'additional', 'affiliation': []}, {'given': 'Leonidas', 'family': 'Guibas', 'sequence': 'additional', 'affiliation': []}], 'member': '311', 'reference': [{'key': '10.1111/j.1467-8659.2009.01515.x-BIB1', 'unstructured': '[BBK*09] Bronstein A. M. , Bronstein M. M. , Kimmel R. , Mahmoudi M. , Sapiro G. : A Gromov-Hausdorff framework with diffusion geometry for topologically-robust non-rigid shape matching. Submitted to the Intl. Journal of Computer Vision (IJCV) (2009).'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB2', 'unstructured': '[BMP00] Belongie S. , Malik J. , Puzicha J. : Shape context: A new descriptor for shape matching and object recognition. In In NIPS (2000), pp. 831-837.'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB3', 'unstructured': '[BSW08] Belkin M. , Sun J. , Wang Y. : Discrete Laplace operator on meshed surfaces. In Proceedings of SOCG (2008), pp. 278-287.'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB4', 'first-page': '43', 'article-title': 'Eigenfunctions and nodal sets', 'volume': '51', 'author': 'Cheng', 'year': '1976', 'journal-title': 'Commentarii Mathematici Helvetici'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB5', 'first-page': '63', 'article-title': 'Point signatures: A new representation for 3d object recognition', 'volume': '25', 'author': 'Chua', 'year': '1997', 'journal-title': 'Int. J. Comput. Vision'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB6', 'first-page': '255', 'article-title': 'Stability and approximations of symmetric diffusion semigroups and kernels', 'volume': '152', 'author': 'Chen', 'year': '1998', 'journal-title': 'Journal of Functional Analysis'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB7', 'first-page': '1349', 'article-title': 'A hierarchical segmentation of articulated bodies', 'volume': '27', 'author': 'de Goes', 'year': '2008', 'journal-title': 'Computer Graphics Forum'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB8', 'unstructured': '[GMGP05] Gelfand N. , Mitra N. J. , Guibas L. J. , Pottmann H. : Robust global registration. In Symposium on Geometry Processing (2005), pp. 197-206.'}, {'issue': '2006', 'key': '10.1111/j.1467-8659.2009.01515.x-BIB9', 'first-page': '93', 'article-title': 'Heat kernels on weighted manifolds and applications', 'volume': '398', 'author': "Grigor'yan", 'journal-title': 'Cont. Math'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB10', 'first-page': '261', 'article-title': 'Pose-oblivious shape signature', 'volume': '13', 'author': 'Gal', 'year': '2007', 'journal-title': 'IEEE Transactions on Visualization and Computer Graphics'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB11', 'author': 'Golub', 'year': '1996', 'volume-title': 'Matrix computations (3rd ed.)'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB42', 'author': 'Hörmander', 'first-page': '275', 'year': '1985', 'volume-title': 'Grundlehren. Math. Wiss.'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB13', 'unstructured': '[HSKK01] Hilaga M. , Shinagawa Y. , Kohmura T. , Kunii T. L. : Topology matching for fully automatic similarity estimation of 3d shapes. In Proc. SIGGRAPH (2001), pp. 203-212.'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB14', 'author': 'Hsu', 'year': '2002', 'volume-title': 'Stochastic Analysis on Manifolds', 'DOI': '10.1090/gsm/038', 'doi-asserted-by': 'crossref'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB15', 'unstructured': '[Joh97] Johnson A. : Spin-Images: A Representation for 3-D Surface Matching. PhD thesis, Robotics Institute, Carnegie Mellon University, Pittsburgh, PA, August 1997.'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB16', 'unstructured': '[Laf04] Lafon S. : Diffusion Maps and Geometric Harmonics. PhD thesis, Yale University, 2004.'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB17', 'author': 'Li', 'first-page': '217', 'year': '2005', 'article-title': 'Multi-scale features for approximate alignment of point-based surfaces', 'journal-title': 'Symposium on Geometry processing'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB18', 'unstructured': "[MDSB02] Meyer M. , Desbrun M. , Schröder P. , Barr A. H. : Discrete differential geometry operators for triangulated 2-manifolds. In Proc. VisMath'02 (Berlin, Germany, 2002)."}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB19', 'unstructured': '[MP49] Minakshisundaram S. , Pleijel A. : Some properties of the eigenfunctions of the Laplace operator on riemannian manifolds. Can. J. Math (1949).'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB20', 'unstructured': '[MYHS04] Manay S. , Yezzi A. J. , Hong B. W. , Soatto S. : Integral invariant signatures. In Proceedings of ECCV (2004), pp. 87-99.'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB21', 'first-page': '807', 'article-title': 'Shape distributions', 'volume': '21', 'author': 'Osada', 'year': '2002', 'journal-title': 'ACM Transactions on Graphics'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB22', 'first-page': '1341', 'article-title': 'Global intrinsic symmetries of shapes', 'volume': '27', 'author': 'Ovsjanikov', 'year': '2008', 'journal-title': 'Comput. Graph. Forum'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB23', 'doi-asserted-by': 'crossref', 'first-page': '15', 'DOI': '10.1080/10586458.1993.10504266', 'article-title': 'Computing discrete minimal surfaces and their conjugates', 'volume': '2', 'author': 'Pinkall', 'year': '1993', 'journal-title': 'Experimental Mathematics'}, {'issue': '1', 'key': '10.1111/j.1467-8659.2009.01515.x-BIB24', 'first-page': '37', 'article-title': 'Integral invariants for robust geometry processing', 'volume': '26', 'author': 'Pottmann', 'year': '2009', 'journal-title': 'Computer Aided Geometric Design'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB25', 'unstructured': '[Rus07] Rustamov R. M. : Laplace-Beltrami eigenfunctions for deformation invariant shape representation. In Symposium on Geometry Processing (2007), pp. 225-233.'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB26', 'first-page': '342', 'article-title': "Laplace-Beltrami spectra as 'Shape-DNA' of surfaces and solids", 'volume': '38', 'author': 'Reuter', 'year': '2006', 'journal-title': 'Computer-Aided Design'}, {'issue': '3', 'key': '10.1111/j.1467-8659.2009.01515.x-BIB27', 'first-page': '1', 'article-title': 'Articulated mesh animation from multi-view silhouettes', 'volume': '27', 'author': 'Vlasic', 'year': '2008', 'journal-title': 'ACM Trans. Graph.'}, {'issue': '6', 'key': '10.1111/j.1467-8659.2009.01515.x-BIB28', 'article-title': 'The sensitivity of the matrix exponential', 'volume': '14', 'author': 'Van Loan', 'year': '1977', 'journal-title': 'SIAM J. Numer. Anal.'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB29', 'unstructured': '[War05] Wardetzky M. : Convergence of the cotangent formula: An overview. In Discrete Differential Geometry. Birkhäuser Basel, 2005, pp. 89-112.'}, {'key': '10.1111/j.1467-8659.2009.01515.x-BIB30', 'first-page': '767', 'article-title': 'Discrete Laplace-Beltrami operators and their convergence', 'volume': '21', 'author': 'Xu', 'year': '2004', 'journal-title': 'Comput. Aided Geom. Des.'}], 'container-title': ['Computer Graphics Forum'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1467-8659.2009.01515.x', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T23:19:41Z', 'timestamp': 1497827981000}, 'score': 103.96697, 'issued': {'date-parts': [[2009, 7]]}, 'references-count': 30, 'journal-issue': {'published-print': {'date-parts': [[2009, 7]]}, 'issue': '5'}, 'URL': 'http://dx.doi.org/10.1111/j.1467-8659.2009.01515.x', 'relation': {'cites': []}, 'ISSN': ['0167-7055', '1467-8659'], 'issn-type': [{'value': '0167-7055', 'type': 'print'}, {'value': '1467-8659', 'type': 'electronic'}]}
+>>> hash >>> ('A Concise and Provably Informative Multi-Scale Signature Based on Heat Diffusion', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. Wurslin, H. Schmidt, P. Martirosian, C. Brendle, A. Boss, N.F. Schwenzer, L. Stegger, "Respiratory motion correction in oncologic PET using T1-weighted MR imaging on a simultaneous whole-body PET/MR system", J. Nucl. Med., vol. 54, no. 3, pp. 464-471, 2013.
+>>> DOI >>> 10.2967/jnumed.112.105296
+>>> URL >>> http://dx.doi.org/10.2967/jnumed.112.105296
+>>> year >>> 2013.0
+>>> title >>> Respiratory Motion Correction in Oncologic PET Using T1-Weighted MR Imaging on a Simultaneous Whole-Body PET/MR System
+>>> author >>> C. Wurslin and H. Schmidt and P. Martirosian and C. Brendle and A. Boss and N. F. Schwenzer and L. Stegger
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 71.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Nuclear Medicine']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 6]], 'date-time': '2018-05-06T01:00:18Z', 'timestamp': 1525568418877}, 'reference-count': 0, 'publisher': 'Society of Nuclear Medicine', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Nuclear Medicine'], 'published-print': {'date-parts': [[2013, 3, 1]]}, 'DOI': '10.2967/jnumed.112.105296', 'type': 'journal-article', 'created': {'date-parts': [[2013, 1, 4]], 'date-time': '2013-01-04T03:42:52Z', 'timestamp': 1357270972000}, 'page': '464-471', 'source': 'Crossref', 'is-referenced-by-count': 71, 'title': ['Respiratory Motion Correction in Oncologic PET Using T1-Weighted MR Imaging on a Simultaneous Whole-Body PET/MR System'], 'prefix': '10.2967', 'volume': '54', 'author': [{'given': 'C.', 'family': 'Wurslin', 'sequence': 'first', 'affiliation': []}, {'given': 'H.', 'family': 'Schmidt', 'sequence': 'additional', 'affiliation': []}, {'given': 'P.', 'family': 'Martirosian', 'sequence': 'additional', 'affiliation': []}, {'given': 'C.', 'family': 'Brendle', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Boss', 'sequence': 'additional', 'affiliation': []}, {'given': 'N. F.', 'family': 'Schwenzer', 'sequence': 'additional', 'affiliation': []}, {'given': 'L.', 'family': 'Stegger', 'sequence': 'additional', 'affiliation': []}], 'member': '1602', 'published-online': {'date-parts': [[2013, 1, 3]]}, 'container-title': ['Journal of Nuclear Medicine'], 'language': 'en', 'deposited': {'date-parts': [[2013, 3, 1]], 'date-time': '2013-03-01T18:10:59Z', 'timestamp': 1362161459000}, 'score': 158.4581, 'issued': {'date-parts': [[2013, 1, 3]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2013, 3, 1]]}, 'published-print': {'date-parts': [[2013, 3, 1]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.2967/jnumed.112.105296', 'ISSN': ['0161-5505'], 'issn-type': [{'value': '0161-5505', 'type': 'print'}]}
+>>> hash >>> ('Respiratory Motion Correction in Oncologic PET Using T1-Weighted MR Imaging on a Simultaneous Whole-Body PET/MR System', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C.F. Baumgartner, A. Gomez, L.M. Koch, J.R. Housden, C. Kolbitsch, J.R. McClelland, D. Rueckert, A.P. King, "Self-aligning manifolds for matching disparate medical image datasets" in IPMI., Springer, pp. 363-374, 2015.
+>>> DOI >>> 10.1007/978-3-319-19992-4_28
+>>> URL >>> http://dx.doi.org/10.1007/978-3-319-19992-4_28
+>>> year >>> 2015.0
+>>> title >>> Self-Aligning Manifolds for Matching Disparate Medical Image Datasets
+>>> author >>> Christian F. Baumgartner and Alberto Gomez and Lisa M. Koch and James R. Housden and Christoph Kolbitsch and Jamie R. McClelland and Daniel Rueckert and Andy P. King
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Information Processing in Medical Imaging']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:50Z', 'timestamp': 1528225370068}, 'publisher-location': 'Cham', 'reference-count': 0, 'publisher': 'Springer International Publishing', 'isbn-type': [{'value': '9783319199917', 'type': 'print'}, {'value': '9783319199924', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2015]]}, 'DOI': '10.1007/978-3-319-19992-4_28', 'type': 'book-chapter', 'created': {'date-parts': [[2015, 6, 22]], 'date-time': '2015-06-22T09:05:45Z', 'timestamp': 1434963945000}, 'page': '363-374', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Self-Aligning Manifolds for Matching Disparate Medical Image Datasets'], 'prefix': '10.1007', 'author': [{'given': 'Christian F.', 'family': 'Baumgartner', 'sequence': 'first', 'affiliation': []}, {'given': 'Alberto', 'family': 'Gomez', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lisa M.', 'family': 'Koch', 'sequence': 'additional', 'affiliation': []}, {'given': 'James R.', 'family': 'Housden', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christoph', 'family': 'Kolbitsch', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jamie R.', 'family': 'McClelland', 'sequence': 'additional', 'affiliation': []}, {'given': 'Daniel', 'family': 'Rueckert', 'sequence': 'additional', 'affiliation': []}, {'given': 'Andy P.', 'family': 'King', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2015, 6, 23]]}, 'container-title': ['Lecture Notes in Computer Science', 'Information Processing in Medical Imaging'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-319-19992-4_28', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2015, 6, 22]], 'date-time': '2015-06-22T09:05:47Z', 'timestamp': 1434963947000}, 'score': 109.002, 'issued': {'date-parts': [[2015]]}, 'ISBN': ['9783319199917', '9783319199924'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-319-19992-4_28', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Self-Aligning Manifolds for Matching Disparate Medical Image Datasets', 2015.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. von Siebenthal, G. Szekely, U. Gamper, P. Boesiger, A. Lo-max, P. Cattin, "4D MR imaging of respiratory organ motion and its variability", Phys. Med. Biol., vol. 52, no. 6, pp. 1547, 2007.
+>>> DOI >>> 10.1088/0031-9155/52/6/001
+>>> URL >>> http://dx.doi.org/10.1088/0031-9155/52/6/001
+>>> year >>> 2007.0
+>>> title >>> 4D MR imaging of respiratory organ motion and its variability
+>>> author >>> M von Siebenthal and G Székely and U Gamper and P Boesiger and A Lomax and Ph Cattin
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 165.0
+>>> subject >>> None
+>>> container_title >>> ['Physics in Medicine and Biology']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 29]], 'date-time': '2018-05-29T05:02:29Z', 'timestamp': 1527570149587}, 'reference-count': 28, 'publisher': 'IOP Publishing', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Phys. Med. Biol.'], 'published-print': {'date-parts': [[2007, 3, 21]]}, 'DOI': '10.1088/0031-9155/52/6/001', 'type': 'journal-article', 'created': {'date-parts': [[2007, 2, 17]], 'date-time': '2007-02-17T04:17:46Z', 'timestamp': 1171685866000}, 'page': '1547-1564', 'source': 'Crossref', 'is-referenced-by-count': 165, 'title': ['4D MR imaging of respiratory organ motion and its variability'], 'prefix': '10.1088', 'volume': '52', 'author': [{'given': 'M von', 'family': 'Siebenthal', 'sequence': 'first', 'affiliation': []}, {'given': 'G', 'family': 'Székely', 'sequence': 'additional', 'affiliation': []}, {'given': 'U', 'family': 'Gamper', 'sequence': 'additional', 'affiliation': []}, {'given': 'P', 'family': 'Boesiger', 'sequence': 'additional', 'affiliation': []}, {'given': 'A', 'family': 'Lomax', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ph', 'family': 'Cattin', 'sequence': 'additional', 'affiliation': []}], 'member': '266', 'published-online': {'date-parts': [[2007, 2, 16]]}, 'container-title': ['Physics in Medicine and Biology'], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T14:08:14Z', 'timestamp': 1497708494000}, 'score': 99.467964, 'issued': {'date-parts': [[2007, 2, 16]]}, 'references-count': 28, 'journal-issue': {'published-print': {'date-parts': [[2007, 3, 21]]}, 'issue': '6'}, 'alternative-id': ['S0031-9155(07)27550-5'], 'URL': 'http://dx.doi.org/10.1088/0031-9155/52/6/001', 'ISSN': ['0031-9155', '1361-6560'], 'issn-type': [{'value': '0031-9155', 'type': 'print'}, {'value': '1361-6560', 'type': 'electronic'}]}
+>>> hash >>> ('4D MR imaging of respiratory organ motion and its variability', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J.B. Tenenbaum, V. de Silva, J. C. Langford, "A global geometric framework for nonlinear dimensionality reduction", Science, vol. 290, no. 5500, pp. 2319-2323, 2000.
+>>> DOI >>> 10.1126/science.290.5500.2319
+>>> URL >>> http://dx.doi.org/10.1126/science.290.5500.2319
+>>> year >>> 2000.0
+>>> title >>> A Global Geometric Framework for Nonlinear Dimensionality Reduction
+>>> author >>> J. B. Tenenbaum
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 5072.0
+>>> subject >>> None
+>>> container_title >>> ['Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T16:42:34Z', 'timestamp': 1528389754082}, 'reference-count': 0, 'publisher': 'American Association for the Advancement of Science (AAAS)', 'issue': '5500', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2000, 12, 22]]}, 'DOI': '10.1126/science.290.5500.2319', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T09:47:44Z', 'timestamp': 1027763264000}, 'page': '2319-2323', 'source': 'Crossref', 'is-referenced-by-count': 5072, 'title': ['A Global Geometric Framework for Nonlinear Dimensionality Reduction'], 'prefix': '10.1126', 'volume': '290', 'author': [{'given': 'J. B.', 'family': 'Tenenbaum', 'sequence': 'first', 'affiliation': []}], 'member': '221', 'container-title': ['Science'], 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1126/science.290.5500.2319', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 23]], 'date-time': '2016-12-23T10:36:11Z', 'timestamp': 1482489371000}, 'score': 94.675804, 'issued': {'date-parts': [[2000, 12, 22]]}, 'references-count': 0, 'journal-issue': {'issue': '5500'}, 'URL': 'http://dx.doi.org/10.1126/science.290.5500.2319', 'ISSN': ['0036-8075', '1095-9203'], 'issn-type': [{'value': '0036-8075', 'type': 'print'}, {'value': '1095-9203', 'type': 'electronic'}]}
+>>> hash >>> ('A Global Geometric Framework for Nonlinear Dimensionality Reduction', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Modat, G.R. Ridgway, Z.A. Taylor, M. Lehmann, J. Barnes, D.J. Hawkes, N.C. Fox, S. Ourselin, "Fast free-form deformation using graphics processing units", Computer methods and programs in biomedicine, vol. 98, no. 3, pp. 278-284, 2010.
+>>> DOI >>> 10.1016/j.cmpb.2009.09.002
+>>> URL >>> http://dx.doi.org/10.1016/j.cmpb.2009.09.002
+>>> year >>> 2010.0
+>>> title >>> Fast free-form deformation using graphics processing units
+>>> author >>> Marc Modat and Gerard R. Ridgway and Zeike A. Taylor and Manja Lehmann and Josephine Barnes and David J. Hawkes and Nick C. Fox and Sébastien Ourselin
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 313.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Methods and Programs in Biomedicine']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365340}, 'reference-count': 12, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2010, 6, 1]], 'date-time': '2010-06-01T00:00:00Z', 'timestamp': 1275350400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Methods and Programs in Biomedicine'], 'published-print': {'date-parts': [[2010, 6]]}, 'DOI': '10.1016/j.cmpb.2009.09.002', 'type': 'journal-article', 'created': {'date-parts': [[2009, 10, 9]], 'date-time': '2009-10-09T11:10:38Z', 'timestamp': 1255086638000}, 'page': '278-284', 'source': 'Crossref', 'is-referenced-by-count': 313, 'title': ['Fast free-form deformation using graphics processing units'], 'prefix': '10.1016', 'volume': '98', 'author': [{'given': 'Marc', 'family': 'Modat', 'sequence': 'first', 'affiliation': []}, {'given': 'Gerard R.', 'family': 'Ridgway', 'sequence': 'additional', 'affiliation': []}, {'given': 'Zeike A.', 'family': 'Taylor', 'sequence': 'additional', 'affiliation': []}, {'given': 'Manja', 'family': 'Lehmann', 'sequence': 'additional', 'affiliation': []}, {'given': 'Josephine', 'family': 'Barnes', 'sequence': 'additional', 'affiliation': []}, {'given': 'David J.', 'family': 'Hawkes', 'sequence': 'additional', 'affiliation': []}, {'given': 'Nick C.', 'family': 'Fox', 'sequence': 'additional', 'affiliation': []}, {'given': 'Sébastien', 'family': 'Ourselin', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Computer Methods and Programs in Biomedicine'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0169260709002533?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0169260709002533?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T00:30:51Z', 'timestamp': 1497832251000}, 'score': 126.290184, 'issued': {'date-parts': [[2010, 6]]}, 'references-count': 12, 'journal-issue': {'published-print': {'date-parts': [[2010, 6]]}, 'issue': '3'}, 'alternative-id': ['S0169260709002533'], 'URL': 'http://dx.doi.org/10.1016/j.cmpb.2009.09.002', 'ISSN': ['0169-2607'], 'issn-type': [{'value': '0169-2607', 'type': 'print'}]}
+>>> hash >>> ('Fast free-form deformation using graphics processing units', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Hu, R.M. Rustamov, L. Guibas, "Stable and informative spectral signatures for graph matching", Proc. CVPR, pp. 2305-2312, 2014.
+>>> DOI >>> 10.1109/cvpr.2014.296
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2014.296
+>>> year >>> 2014.0
+>>> title >>> Stable and Informative Spectral Signatures for Graph Matching
+>>> author >>> Nan Hu and Raif Rustamov and Leonidas Guibas
+>>> reference_count >>> 38.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['2014 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T05:09:42Z', 'timestamp': 1525842582164}, 'reference-count': 38, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2014, 6]]}, 'DOI': '10.1109/cvpr.2014.296', 'type': 'proceedings-article', 'created': {'date-parts': [[2014, 9, 30]], 'date-time': '2014-09-30T14:58:09Z', 'timestamp': 1412089089000}, 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['Stable and Informative Spectral Signatures for Graph Matching'], 'prefix': '10.1109', 'author': [{'given': 'Nan', 'family': 'Hu', 'sequence': 'first', 'affiliation': []}, {'given': 'Raif', 'family': 'Rustamov', 'sequence': 'additional', 'affiliation': []}, {'given': 'Leonidas', 'family': 'Guibas', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2014 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Columbus, OH, USA', 'start': {'date-parts': [[2014, 6, 23]]}, 'end': {'date-parts': [[2014, 6, 28]]}}, 'container-title': ['2014 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6909096/6909393/06909693.pdf?arnumber=6909693', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T21:29:32Z', 'timestamp': 1498166972000}, 'score': 83.31993, 'issued': {'date-parts': [[2014, 6]]}, 'ISBN': ['9781479951185'], 'references-count': 38, 'URL': 'http://dx.doi.org/10.1109/cvpr.2014.296'}
+>>> hash >>> ('Stable and Informative Spectral Signatures for Graph Matching', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C.F. Baumgartner, C. Kolbitsch, J.R. McClelland, D. Rueckert, A.P King, "Autoadaptive motion modelling for MR-based respiratory motion estimation", Med. Image Anal., vol. 35, pp. 83-100, 2017.
+>>> DOI >>> 10.1016/j.media.2016.06.005
+>>> URL >>> http://dx.doi.org/10.1016/j.media.2016.06.005
+>>> year >>> 2017.0
+>>> title >>> Autoadaptive motion modelling for MR-based respiratory motion estimation
+>>> author >>> Christian F. Baumgartner and Christoph Kolbitsch and Jamie R. McClelland and Daniel Rueckert and Andrew P. King
+>>> reference_count >>> 49.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['Medical Image Analysis']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 29]], 'date-time': '2018-05-29T04:40:09Z', 'timestamp': 1527568809109}, 'reference-count': 49, 'publisher': 'Elsevier BV', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2017, 1, 1]], 'date-time': '2017-01-01T00:00:00Z', 'timestamp': 1483228800000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://creativecommons.org/licenses/by/4.0/', 'start': {'date-parts': [[2016, 6, 8]], 'date-time': '2016-06-08T00:00:00Z', 'timestamp': 1465344000000}, 'delay-in-days': 0, 'content-version': 'vor'}], 'content-domain': {'domain': ['medicalimageanalysisjournal.com', 'elsevier.com', 'sciencedirect.com'], 'crossmark-restriction': True}, 'short-container-title': ['Medical Image Analysis'], 'published-print': {'date-parts': [[2017, 1]]}, 'DOI': '10.1016/j.media.2016.06.005', 'type': 'journal-article', 'created': {'date-parts': [[2016, 6, 12]], 'date-time': '2016-06-12T03:26:16Z', 'timestamp': 1465701976000}, 'page': '83-100', 'update-policy': 'http://dx.doi.org/10.1016/elsevier_cm_policy', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Autoadaptive motion modelling for MR-based respiratory motion estimation'], 'prefix': '10.1016', 'volume': '35', 'author': [{'ORCID': 'http://orcid.org/0000-0002-3629-4384', 'authenticated-orcid': False, 'given': 'Christian F.', 'family': 'Baumgartner', 'sequence': 'first', 'affiliation': []}, {'given': 'Christoph', 'family': 'Kolbitsch', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jamie R.', 'family': 'McClelland', 'sequence': 'additional', 'affiliation': []}, {'given': 'Daniel', 'family': 'Rueckert', 'sequence': 'additional', 'affiliation': []}, {'given': 'Andrew P.', 'family': 'King', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Medical Image Analysis'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1361841516300822?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1361841516300822?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2018, 5, 29]], 'date-time': '2018-05-29T04:07:19Z', 'timestamp': 1527566839000}, 'score': 122.749054, 'issued': {'date-parts': [[2017, 1]]}, 'references-count': 49, 'alternative-id': ['S1361841516300822'], 'URL': 'http://dx.doi.org/10.1016/j.media.2016.06.005', 'ISSN': ['1361-8415'], 'issn-type': [{'value': '1361-8415', 'type': 'print'}], 'assertion': [{'value': 'Elsevier', 'name': 'publisher', 'label': 'This article is maintained by'}, {'value': 'Autoadaptive motion modelling for MR-based respiratory motion estimation', 'name': 'articletitle', 'label': 'Article Title'}, {'value': 'Medical Image Analysis', 'name': 'journaltitle', 'label': 'Journal Title'}, {'value': 'http://dx.doi.org/10.1016/j.media.2016.06.005', 'name': 'articlelink', 'label': 'CrossRef DOI link to publisher maintained version'}, {'value': 'article', 'name': 'content_type', 'label': 'Content Type'}, {'value': '© 2016 The Author(s). Published by Elsevier B.V.', 'name': 'copyright', 'label': 'Copyright'}]}
+>>> hash >>> ('Autoadaptive motion modelling for MR-based respiratory motion estimation', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S.T. Roweis, L.K. Saul, "Nonlinear dimensionality reduction by locally linear embedding", Science, vol. 290, no. 5500, pp. 2323-2326, 2000.
+>>> DOI >>> 10.1126/science.290.5500.2323
+>>> URL >>> http://dx.doi.org/10.1126/science.290.5500.2323
+>>> year >>> 2000.0
+>>> title >>> Nonlinear Dimensionality Reduction by Locally Linear Embedding
+>>> author >>> S. T. Roweis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 5710.0
+>>> subject >>> None
+>>> container_title >>> ['Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T16:42:29Z', 'timestamp': 1528389749087}, 'reference-count': 0, 'publisher': 'American Association for the Advancement of Science (AAAS)', 'issue': '5500', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2000, 12, 22]]}, 'DOI': '10.1126/science.290.5500.2323', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T09:47:44Z', 'timestamp': 1027763264000}, 'page': '2323-2326', 'source': 'Crossref', 'is-referenced-by-count': 5710, 'title': ['Nonlinear Dimensionality Reduction by Locally Linear Embedding'], 'prefix': '10.1126', 'volume': '290', 'author': [{'given': 'S. T.', 'family': 'Roweis', 'sequence': 'first', 'affiliation': []}], 'member': '221', 'container-title': ['Science'], 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1126/science.290.5500.2323', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 23]], 'date-time': '2016-12-23T16:02:31Z', 'timestamp': 1482508951000}, 'score': 102.22788, 'issued': {'date-parts': [[2000, 12, 22]]}, 'references-count': 0, 'journal-issue': {'issue': '5500'}, 'URL': 'http://dx.doi.org/10.1126/science.290.5500.2323', 'ISSN': ['0036-8075', '1095-9203'], 'issn-type': [{'value': '0036-8075', 'type': 'print'}, {'value': '1095-9203', 'type': 'electronic'}]}
+>>> hash >>> ('Nonlinear Dimensionality Reduction by Locally Linear Embedding', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> X. Chen, M. Usman, C.F. Baumgartner, D.R. Balfour, P.K. Marsden, A.J. Reader, C. Prieto, A.P. King, "High-resolution self-gated dynamic abdominal MRI using manifold alignment", IEEE Trans. Med. Imaging, vol. 36, no. 4, pp. 960-971, 2017.
+>>> DOI >>> 10.1109/tmi.2016.2636449
+>>> URL >>> http://dx.doi.org/10.1109/tmi.2016.2636449
+>>> year >>> 2017.0
+>>> title >>> High-Resolution Self-Gated Dynamic Abdominal MRI Using Manifold Alignment
+>>> author >>> Xin Chen and Muhammad Usman and Christian F. Baumgartner and Daniel R. Balfour and Paul K. Marsden and Andrew J. Reader and Claudia Prieto and Andrew P. King
+>>> reference_count >>> 31.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Medical Imaging']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365174}, 'reference-count': 31, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'funder': [{'DOI': '10.13039/501100000266', 'name': 'Engineering and Physical Sciences Research Council', 'doi-asserted-by': 'publisher', 'award': ['EP/M009319/1']}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Med. Imaging'], 'published-print': {'date-parts': [[2017, 4]]}, 'DOI': '10.1109/tmi.2016.2636449', 'type': 'journal-article', 'created': {'date-parts': [[2017, 1, 20]], 'date-time': '2017-01-20T21:02:20Z', 'timestamp': 1484946140000}, 'page': '960-971', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['High-Resolution Self-Gated Dynamic Abdominal MRI Using Manifold Alignment'], 'prefix': '10.1109', 'volume': '36', 'author': [{'ORCID': 'http://orcid.org/0000-0002-3685-0854', 'authenticated-orcid': False, 'given': 'Xin', 'family': 'Chen', 'sequence': 'first', 'affiliation': []}, {'given': 'Muhammad', 'family': 'Usman', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christian F.', 'family': 'Baumgartner', 'sequence': 'additional', 'affiliation': []}, {'given': 'Daniel R.', 'family': 'Balfour', 'sequence': 'additional', 'affiliation': []}, {'given': 'Paul K.', 'family': 'Marsden', 'sequence': 'additional', 'affiliation': []}, {'given': 'Andrew J.', 'family': 'Reader', 'sequence': 'additional', 'affiliation': []}, {'given': 'Claudia', 'family': 'Prieto', 'sequence': 'additional', 'affiliation': []}, {'given': 'Andrew P.', 'family': 'King', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Medical Imaging'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/42/7891082/07828136.pdf?arnumber=7828136', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 10, 3]], 'date-time': '2017-10-03T02:46:08Z', 'timestamp': 1506998768000}, 'score': 123.8726, 'issued': {'date-parts': [[2017, 4]]}, 'references-count': 31, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/tmi.2016.2636449', 'ISSN': ['0278-0062', '1558-254X'], 'issn-type': [{'value': '0278-0062', 'type': 'print'}, {'value': '1558-254X', 'type': 'electronic'}]}
+>>> hash >>> ('High-Resolution Self-Gated Dynamic Abdominal MRI Using Manifold Alignment', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Aubry, U. Schlickewei, D. Cremers, "The wave kernel signature: A quantum mechanical approach to shape analysis", Proc. IEEE Int'l Canf Computer Vision Workshops, pp. 1626-1633, 2011.
+>>> DOI >>> 10.1109/iccvw.2011.6130444
+>>> URL >>> http://dx.doi.org/10.1109/iccvw.2011.6130444
+>>> year >>> 2011.0
+>>> title >>> The wave kernel signature: A quantum mechanical approach to shape analysis
+>>> author >>> Mathieu Aubry and Ulrich Schlickewei and Daniel Cremers
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 116.0
+>>> subject >>> None
+>>> container_title >>> ['2011 IEEE International Conference on Computer Vision Workshops (ICCV Workshops)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T22:02:33Z', 'timestamp': 1527026553122}, 'reference-count': 28, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467300629', 'type': 'print'}, {'value': '9781467300612', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011, 11]]}, 'DOI': '10.1109/iccvw.2011.6130444', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 1, 19]], 'date-time': '2012-01-19T01:02:42Z', 'timestamp': 1326934962000}, 'source': 'Crossref', 'is-referenced-by-count': 116, 'title': ['The wave kernel signature: A quantum mechanical approach to shape analysis'], 'prefix': '10.1109', 'author': [{'given': 'Mathieu', 'family': 'Aubry', 'sequence': 'first', 'affiliation': []}, {'given': 'Ulrich', 'family': 'Schlickewei', 'sequence': 'additional', 'affiliation': []}, {'given': 'Daniel', 'family': 'Cremers', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2011 IEEE International Conference on Computer Vision Workshops (ICCV Workshops)', 'location': 'Barcelona, Spain', 'start': {'date-parts': [[2011, 11, 6]]}, 'end': {'date-parts': [[2011, 11, 13]]}}, 'container-title': ['2011 IEEE International Conference on Computer Vision Workshops (ICCV Workshops)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6114268/6130192/06130444.pdf?arnumber=6130444', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T12:56:46Z', 'timestamp': 1497963406000}, 'score': 98.33997, 'issued': {'date-parts': [[2011, 11]]}, 'ISBN': ['9781467300636', '9781467300629', '9781467300612'], 'references-count': 28, 'URL': 'http://dx.doi.org/10.1109/iccvw.2011.6130444'}
+>>> hash >>> ('The wave kernel signature: A quantum mechanical approach to shape analysis', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Guerrero, C. Ledig, D. Rueckert, "Manifold alignment and transfer learning for classification of Alzheimers disease", International Workshop on Machine Learning in Medical Imaging, pp. 77-84, 2014.
+>>> DOI >>> 10.1007/978-3-319-10581-9_10
+>>> URL >>> http://dx.doi.org/10.1007/978-3-319-10581-9_10
+>>> year >>> 2014.0
+>>> title >>> Manifold Alignment and Transfer Learning for Classification of Alzheimer’s Disease
+>>> author >>> Ricardo Guerrero and Christian Ledig and Daniel Rueckert
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Machine Learning in Medical Imaging', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T04:21:03Z', 'timestamp': 1525839663950}, 'publisher-location': 'Cham', 'reference-count': 0, 'publisher': 'Springer International Publishing', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2014]]}, 'DOI': '10.1007/978-3-319-10581-9_10', 'type': 'book-chapter', 'created': {'date-parts': [[2014, 9, 5]], 'date-time': '2014-09-05T14:05:03Z', 'timestamp': 1409925903000}, 'page': '77-84', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Manifold Alignment and Transfer Learning for Classification of Alzheimer’s Disease'], 'prefix': '10.1007', 'author': [{'given': 'Ricardo', 'family': 'Guerrero', 'sequence': 'first', 'affiliation': []}, {'given': 'Christian', 'family': 'Ledig', 'sequence': 'additional', 'affiliation': []}, {'given': 'Daniel', 'family': 'Rueckert', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Machine Learning in Medical Imaging', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-319-10581-9_10', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 9, 5]], 'date-time': '2014-09-05T14:05:17Z', 'timestamp': 1409925917000}, 'score': 97.299385, 'issued': {'date-parts': [[2014]]}, 'ISBN': ['9783319105802', '9783319105819'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-319-10581-9_10', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Manifold Alignment and Transfer Learning for Classification of Alzheimer’s Disease', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C.S. Lee, A. Elgammal, M. Torki, "Learning representations from multiple manifolds", Pattern Recognit., vol. 50, pp. 74-87, 2016.
+>>> DOI >>> 10.1016/j.patcog.2015.08.024
+>>> URL >>> http://dx.doi.org/10.1016/j.patcog.2015.08.024
+>>> year >>> 2016.0
+>>> title >>> Learning representations from multiple manifolds
+>>> author >>> Chan-Su Lee and Ahmed Elgammal and Marwan Torki
+>>> reference_count >>> 44.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:50Z', 'timestamp': 1528225370091}, 'reference-count': 44, 'publisher': 'Elsevier BV', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2016, 2, 1]], 'date-time': '2016-02-01T00:00:00Z', 'timestamp': 1454284800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'funder': [{'DOI': '10.13039/501100004085', 'name': 'Ministry of Education, Science and Technology', 'doi-asserted-by': 'publisher', 'award': ['2012R1A1B4003830']}], 'content-domain': {'domain': ['elsevier.com', 'sciencedirect.com'], 'crossmark-restriction': True}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[2016, 2]]}, 'DOI': '10.1016/j.patcog.2015.08.024', 'type': 'journal-article', 'created': {'date-parts': [[2015, 9, 5]], 'date-time': '2015-09-05T06:48:14Z', 'timestamp': 1441435694000}, 'page': '74-87', 'update-policy': 'http://dx.doi.org/10.1016/elsevier_cm_policy', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Learning representations from multiple manifolds'], 'prefix': '10.1016', 'volume': '50', 'author': [{'ORCID': 'http://orcid.org/0000-0001-9606-0646', 'authenticated-orcid': False, 'given': 'Chan-Su', 'family': 'Lee', 'sequence': 'first', 'affiliation': []}, {'given': 'Ahmed', 'family': 'Elgammal', 'sequence': 'additional', 'affiliation': []}, {'ORCID': 'http://orcid.org/0000-0002-6149-1718', 'authenticated-orcid': False, 'given': 'Marwan', 'family': 'Torki', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S003132031500312X?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S003132031500312X?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 23]], 'date-time': '2017-06-23T19:01:09Z', 'timestamp': 1498244469000}, 'score': 88.88597, 'issued': {'date-parts': [[2016, 2]]}, 'references-count': 44, 'alternative-id': ['S003132031500312X'], 'URL': 'http://dx.doi.org/10.1016/j.patcog.2015.08.024', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}], 'assertion': [{'value': 'Elsevier', 'name': 'publisher', 'label': 'This article is maintained by'}, {'value': 'Learning representations from multiple manifolds', 'name': 'articletitle', 'label': 'Article Title'}, {'value': 'Pattern Recognition', 'name': 'journaltitle', 'label': 'Journal Title'}, {'value': 'http://dx.doi.org/10.1016/j.patcog.2015.08.024', 'name': 'articlelink', 'label': 'CrossRef DOI link to publisher maintained version'}, {'value': 'article', 'name': 'content_type', 'label': 'Content Type'}, {'value': 'Copyright © 2015 Elsevier Ltd. All rights reserved.', 'name': 'copyright', 'label': 'Copyright'}]}
+>>> hash >>> ('Learning representations from multiple manifolds', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Dikaios, D. Izquierdo-Garcia, M.J. Graves, V. Mani, Z.A. Fayad, T.D. Fryer, "MRI-based motion correction of thoracic PET: initial comparison of acquisition protocols and correction strategies suitable for simultaneous PET/MRI systems", European radiology, vol. 22, no. 2, pp. 439-446, 2012.
+>>> DOI >>> 10.1007/s00330-011-2274-4
+>>> URL >>> http://dx.doi.org/10.1007/s00330-011-2274-4
+>>> year >>> 2011.0
+>>> title >>> MRI-based motion correction of thoracic PET: initial comparison of acquisition protocols and correction strategies suitable for simultaneous PET/MRI systems
+>>> author >>> Nikolaos Dikaios and David Izquierdo-Garcia and Martin J. Graves and Venkatesh Mani and Zahi A. Fayad and Tim D. Fryer
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 48.0
+>>> subject >>> None
+>>> container_title >>> ['European Radiology']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 12]], 'date-time': '2018-05-12T20:42:33Z', 'timestamp': 1526157753312}, 'reference-count': 17, 'publisher': 'Springer Nature', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Eur Radiol'], 'published-print': {'date-parts': [[2012, 2]]}, 'DOI': '10.1007/s00330-011-2274-4', 'type': 'journal-article', 'created': {'date-parts': [[2011, 9, 21]], 'date-time': '2011-09-21T11:36:46Z', 'timestamp': 1316605006000}, 'page': '439-446', 'source': 'Crossref', 'is-referenced-by-count': 48, 'title': ['MRI-based motion correction of thoracic PET: initial comparison of acquisition protocols and correction strategies suitable for simultaneous PET/MRI systems'], 'prefix': '10.1007', 'volume': '22', 'author': [{'given': 'Nikolaos', 'family': 'Dikaios', 'sequence': 'first', 'affiliation': []}, {'given': 'David', 'family': 'Izquierdo-Garcia', 'sequence': 'additional', 'affiliation': []}, {'given': 'Martin J.', 'family': 'Graves', 'sequence': 'additional', 'affiliation': []}, {'given': 'Venkatesh', 'family': 'Mani', 'sequence': 'additional', 'affiliation': []}, {'given': 'Zahi A.', 'family': 'Fayad', 'sequence': 'additional', 'affiliation': []}, {'given': 'Tim D.', 'family': 'Fryer', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2011, 9, 22]]}, 'reference': [{'key': '2274_CR1', 'first-page': '876', 'volume': '43', 'author': 'SA Nehmeh', 'year': '2002', 'unstructured': 'Nehmeh SA, Erdi YE, Ling CC, Rosenzweig KE, Schoder H, Larson SM, Macapinlac HA, Squire OD, Humm JL (2002) Effect of respiratory gating on quantifying PET images of lung cancer. J Nucl Med 43:876–881', 'journal-title': 'J Nucl Med'}, {'key': '2274_CR2', 'doi-asserted-by': 'crossref', 'first-page': '476', 'DOI': '10.1109/TMI.2006.870892', 'volume': '25', 'author': 'M Dawood', 'year': '2006', 'unstructured': 'Dawood M, Lang N, Jiang X, Schäfers K (2006) Lung motion correction on respiratory gated 3-D PET/CT images. IEEE Trans Med Imaging 25:476–485', 'journal-title': 'IEEE Trans Med Imaging'}, {'key': '2274_CR3', 'doi-asserted-by': 'crossref', 'first-page': '1288', 'DOI': '10.1118/1.2192581', 'volume': '33', 'author': 'T Li', 'year': '2006', 'unstructured': 'Li T, Thorndyke B, Schreibmann E, Yang Y, Xing L (2006) Model-based image reconstruction for four-dimensional PET. Med Phys 33:1288–1298', 'journal-title': 'Med Phys'}, {'key': '2274_CR4', 'doi-asserted-by': 'crossref', 'first-page': '3769', 'DOI': '10.1088/0031-9155/51/15/012', 'volume': '51', 'author': 'F Qiao', 'year': '2006', 'unstructured': 'Qiao F, Pan T, Clark JW, Mawlawi OR (2006) A motion-incorporated reconstruction method for gated PET studies. Phys Med Biol 51:3769–3783', 'journal-title': 'Phys Med Biol'}, {'key': '2274_CR5', 'doi-asserted-by': 'crossref', 'first-page': '5187', 'DOI': '10.1088/0031-9155/52/17/006', 'volume': '52', 'author': 'F Lamare', 'year': '2007', 'unstructured': 'Lamare F, Ledesma Carbayo MJ, Cresson T, Kontaxakis G, Santos A, Cheze Le Rest C, Reader AJ, Visvikis D (2007) List-mode-based reconstruction for respiratory motion correction in PET using non-rigid body transformations. Phys Med Biol 52:5187–5204', 'journal-title': 'Phys Med Biol'}, {'key': '2274_CR6', 'doi-asserted-by': 'crossref', 'first-page': '1695', 'DOI': '10.1088/0031-9155/56/6/011', 'volume': '56', 'author': 'N Dikaios', 'year': '2011', 'unstructured': 'Dikaios N, Fryer TD (2011) Acceleration of motion-compensated PET reconstruction: ordered subsets-gates EM algorithms and a priori reference gate information. Phys Med Biol 56:1695–1715', 'journal-title': 'Phys Med Biol'}, {'key': '2274_CR7', 'doi-asserted-by': 'crossref', 'first-page': '799', 'DOI': '10.1016/j.ijrobp.2005.09.012', 'volume': '64', 'author': 'JR van Sörnsen de Koste', 'year': '2006', 'unstructured': 'van Sörnsen de Koste JR, Senan S, Kleynen CE, Slotman BJ, Lagerwaard FJ (2006) Renal mobility during uncoached quiet respiration: an analysis of 4DCT scans. Int J Radiat Oncol Biol Phys 64:799–803', 'journal-title': 'Int J Radiat Oncol Biol Phys'}, {'key': '2274_CR8', 'doi-asserted-by': 'crossref', 'first-page': '333', 'DOI': '10.2967/jnumed.109.061853', 'volume': '51', 'author': 'BJ Pichler', 'year': '2010', 'unstructured': 'Pichler BJ, Kolb A, Nägele T, Schlemmer H-P (2010) PET/MRI: paving the way for the next generation of clinical multimodality imaging applications. J Nucl Med 51:333–336', 'journal-title': 'J Nucl Med'}, {'key': '2274_CR9', 'doi-asserted-by': 'crossref', 'first-page': '1077', 'DOI': '10.1007/s00330-008-0857-5', 'volume': '18', 'author': 'BJ Pichler', 'year': '2008', 'unstructured': 'Pichler BJ, Judenhofer MS, Wehrl HF (2008) PET/MRI hybrid imaging: devices and initial results. Eur Radiol 18:1077–1086', 'journal-title': 'Eur Radiol'}, {'key': '2274_CR10', 'doi-asserted-by': 'crossref', 'first-page': '671', 'DOI': '10.1002/jmri.1880030419', 'volume': '3', 'author': 'JJ Vaals van', 'year': '1993', 'unstructured': 'van Vaals JJ, Brummer ME, Dixon WT, Tuithof HH, Engels H, Nelson RC, Gerety BM, Chezmar JL, den Boer JA (1993) “Keyhole” method for accelerating imaging of contrast agent uptake. J Magn Reson Imaging 3:671–675', 'journal-title': 'J Magn Reson Imaging'}, {'key': '2274_CR11', 'doi-asserted-by': 'crossref', 'first-page': '333', 'DOI': '10.1118/1.1639993', 'volume': '31', 'author': 'T Pan', 'year': '2004', 'unstructured': 'Pan T, Lee TY, Rietzel E, Chen GT (2004) 4D-CT imaging of a volume influenced by respiratory motion on multi-slice CT. Med Phys 31:333–340', 'journal-title': 'Med Phys'}, {'key': '2274_CR12', 'doi-asserted-by': 'crossref', 'first-page': '917', 'DOI': '10.1118/1.2837286', 'volume': '35', 'author': 'R Zeng', 'year': '2008', 'unstructured': 'Zeng R, Fessler JA, Balter JM, Balter PA (2008) Iterative sorting for four-dimensional CT images based on internal anatomy motion. Med Phys 35:917–926', 'journal-title': 'Med Phys'}, {'key': '2274_CR13', 'doi-asserted-by': 'crossref', 'first-page': '71', 'DOI': '10.1016/S0031-3203(98)00091-0', 'volume': '32', 'author': 'C Studholme', 'year': '1999', 'unstructured': 'Studholme C, Hill DLG, Hawkes DJ (1999) An overlap invariant entropy measure of 3D medical image alignment. Pattern Recognition 32:71–86', 'journal-title': 'Pattern Recognition'}, {'key': '2274_CR14', 'doi-asserted-by': 'crossref', 'first-page': '2199', 'DOI': '10.1109/23.531882', 'volume': '43', 'author': 'TK Lewellen', 'year': '1996', 'unstructured': 'Lewellen TK, Kohlmyer SG, Miyaoka RS, Kaplan MS, Stearns CW, Schubert SF (1996) Investigation of the performance of the General Electric ADVANCE positron emission tomograph in 3D mode. IEEE Trans Nucl Sci 43:2199–2206', 'journal-title': 'IEEE Trans Nucl Sci'}, {'key': '2274_CR15', 'doi-asserted-by': 'crossref', 'first-page': '2172', 'DOI': '10.1109/23.819300', 'volume': '46', 'author': 'MT Madsen', 'year': '1999', 'unstructured': 'Madsen MT (1999) PET attenuation correction using mean attenuation coefficients: a simulation study. IEEE Trans Nucl Sci 46:2172–2176', 'journal-title': 'IEEE Trans Nucl Sci'}, {'key': '2274_CR16', 'doi-asserted-by': 'crossref', 'first-page': '601', 'DOI': '10.1109/42.363108', 'volume': '13', 'author': 'H Hudson', 'year': '1994', 'unstructured': 'Hudson H, Larkin R (1994) Accelerated image reconstruction using ordered subsets of projection data. IEEE Trans Med Imaging 13:601–609', 'journal-title': 'IEEE Trans Med Imaging'}, {'key': '2274_CR17', 'unstructured': 'Thielemans K, Mustafovic S, Tsoumpas C (2006) STIR: software for tomographic image reconstruction release 2. IEEE Nucl Sci Symp Conf Rec 2174–2176'}], 'container-title': ['European Radiology'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s00330-011-2274-4', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T06:42:34Z', 'timestamp': 1497940954000}, 'score': 160.50465, 'issued': {'date-parts': [[2011, 9, 22]]}, 'references-count': 17, 'journal-issue': {'published-print': {'date-parts': [[2012, 2]]}, 'issue': '2'}, 'alternative-id': ['2274'], 'URL': 'http://dx.doi.org/10.1007/s00330-011-2274-4', 'relation': {'cites': []}, 'ISSN': ['0938-7994', '1432-1084'], 'issn-type': [{'value': '0938-7994', 'type': 'print'}, {'value': '1432-1084', 'type': 'electronic'}]}
+>>> hash >>> ('MRI-based motion correction of thoracic PET: initial comparison of acquisition protocols and correction strategies suitable for simultaneous PET/MRI systems', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. Wachinger, M. Yigitsoy, E.J. Rijkhorst, N. Navab, "Manifold learning for image-based breathing gating in ultrasound and MRI", Med. Image Anal., vol. 16, no. 4, pp. 806-818, 2012.
+>>> DOI >>> 10.1016/j.media.2011.11.008
+>>> URL >>> http://dx.doi.org/10.1016/j.media.2011.11.008
+>>> year >>> 2012.0
+>>> title >>> Manifold learning for image-based breathing gating in ultrasound and MRI
+>>> author >>> Christian Wachinger and Mehmet Yigitsoy and Erik-Jan Rijkhorst and Nassir Navab
+>>> reference_count >>> 44.0
+>>> is_referenced_by_count >>> 38.0
+>>> subject >>> None
+>>> container_title >>> ['Medical Image Analysis']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 29]], 'date-time': '2018-05-29T05:02:29Z', 'timestamp': 1527570149602}, 'reference-count': 44, 'publisher': 'Elsevier BV', 'issue': '4', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2012, 5, 1]], 'date-time': '2012-05-01T00:00:00Z', 'timestamp': 1335830400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Medical Image Analysis'], 'published-print': {'date-parts': [[2012, 5]]}, 'DOI': '10.1016/j.media.2011.11.008', 'type': 'journal-article', 'created': {'date-parts': [[2011, 12, 9]], 'date-time': '2011-12-09T05:24:37Z', 'timestamp': 1323408277000}, 'page': '806-818', 'source': 'Crossref', 'is-referenced-by-count': 38, 'title': ['Manifold learning for image-based breathing gating in ultrasound and MRI'], 'prefix': '10.1016', 'volume': '16', 'author': [{'given': 'Christian', 'family': 'Wachinger', 'sequence': 'first', 'affiliation': []}, {'given': 'Mehmet', 'family': 'Yigitsoy', 'sequence': 'additional', 'affiliation': []}, {'given': 'Erik-Jan', 'family': 'Rijkhorst', 'sequence': 'additional', 'affiliation': []}, {'given': 'Nassir', 'family': 'Navab', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Medical Image Analysis'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1361841511001708?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1361841511001708?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T11:04:09Z', 'timestamp': 1497956649000}, 'score': 129.58344, 'issued': {'date-parts': [[2012, 5]]}, 'references-count': 44, 'journal-issue': {'published-print': {'date-parts': [[2012, 5]]}, 'issue': '4'}, 'alternative-id': ['S1361841511001708'], 'URL': 'http://dx.doi.org/10.1016/j.media.2011.11.008', 'ISSN': ['1361-8415'], 'issn-type': [{'value': '1361-8415', 'type': 'print'}]}
+>>> hash >>> ('Manifold learning for image-based breathing gating in ultrasound and MRI', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Belkin, P. Niyogi, "Laplacian eigenmaps for dimensionality reduction and data representation", Neural Computation, vol. 15, no. 6, pp. 1373-1396, 2003.
+>>> DOI >>> 10.1162/089976603321780317
+>>> URL >>> http://dx.doi.org/10.1162/089976603321780317
+>>> year >>> 2003.0
+>>> title >>> Laplacian Eigenmaps for Dimensionality Reduction and Data Representation
+>>> author >>> Mikhail Belkin and Partha Niyogi
+>>> reference_count >>> 9.0
+>>> is_referenced_by_count >>> 2716.0
+>>> subject >>> None
+>>> container_title >>> ['Neural Computation']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365340}, 'reference-count': 9, 'publisher': 'MIT Press - Journals', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Neural Computation'], 'published-print': {'date-parts': [[2003, 6]]}, 'DOI': '10.1162/089976603321780317', 'type': 'journal-article', 'created': {'date-parts': [[2003, 5, 22]], 'date-time': '2003-05-22T00:10:22Z', 'timestamp': 1053562222000}, 'page': '1373-1396', 'source': 'Crossref', 'is-referenced-by-count': 2716, 'title': ['Laplacian Eigenmaps for Dimensionality Reduction and Data Representation'], 'prefix': '10.1162', 'volume': '15', 'author': [{'given': 'Mikhail', 'family': 'Belkin', 'sequence': 'first', 'affiliation': []}, {'given': 'Partha', 'family': 'Niyogi', 'sequence': 'additional', 'affiliation': []}], 'member': '281', 'reference': [{'key': 'p_4', 'DOI': '10.4310/CAG.2000.v8.n5.a2', 'doi-asserted-by': 'publisher'}, {'key': 'p_5', 'DOI': '10.1109/43.144852', 'doi-asserted-by': 'publisher'}, {'key': 'p_10', 'DOI': '10.2307/1969840', 'doi-asserted-by': 'publisher'}, {'key': 'p_11', 'DOI': '10.2307/1969989', 'doi-asserted-by': 'publisher'}, {'key': 'p_14', 'DOI': '10.1126/science.290.5500.2323', 'doi-asserted-by': 'publisher'}, {'key': 'p_15', 'DOI': '10.1162/089976698300017467', 'doi-asserted-by': 'publisher'}, {'key': 'p_16', 'DOI': '10.1126/science.290.5500.2268', 'doi-asserted-by': 'publisher'}, {'key': 'p_18', 'DOI': '10.1016/0956-0521(91)90014-V', 'doi-asserted-by': 'publisher'}, {'key': 'p_19', 'DOI': '10.1126/science.290.5500.2319', 'doi-asserted-by': 'publisher'}], 'container-title': ['Neural Computation'], 'language': 'en', 'link': [{'URL': 'http://www.mitpressjournals.org/doi/pdf/10.1162/089976603321780317', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T17:49:13Z', 'timestamp': 1481046553000}, 'score': 118.80543, 'issued': {'date-parts': [[2003, 6]]}, 'references-count': 9, 'journal-issue': {'published-print': {'date-parts': [[2003, 6]]}, 'issue': '6'}, 'alternative-id': ['10.1162/089976603321780317'], 'URL': 'http://dx.doi.org/10.1162/089976603321780317', 'relation': {'cites': []}, 'ISSN': ['0899-7667', '1530-888X'], 'issn-type': [{'value': '0899-7667', 'type': 'print'}, {'value': '1530-888X', 'type': 'electronic'}]}
+>>> hash >>> ('Laplacian Eigenmaps for Dimensionality Reduction and Data Representation', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C.F. Baumgartner, C. Kolbitsch, D.R. Balfour, P.K. Marsden, J.R. McClelland, D. Rueckert, A.P. King, "High-resolution dynamic MR imaging of the thorax for respiratory motion correction of PET using groupwise manifold alignment", Med. Image Anal., vol. 18, no. 7, pp. 939-952, 2014.
+>>> DOI >>> 10.1016/j.media.2014.05.010
+>>> URL >>> http://dx.doi.org/10.1016/j.media.2014.05.010
+>>> year >>> 2014.0
+>>> title >>> High-resolution dynamic MR imaging of the thorax for respiratory motion correction of PET using groupwise manifold alignment
+>>> author >>> Christian F. Baumgartner and Christoph Kolbitsch and Daniel R. Balfour and Paul K. Marsden and Jamie R. McClelland and Daniel Rueckert and Andrew P. King
+>>> reference_count >>> 42.0
+>>> is_referenced_by_count >>> 17.0
+>>> subject >>> None
+>>> container_title >>> ['Medical Image Analysis']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database204.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T15:06:57Z', 'timestamp': 1525792017821}, 'reference-count': 42, 'publisher': 'Elsevier BV', 'issue': '7', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2014, 10, 1]], 'date-time': '2014-10-01T00:00:00Z', 'timestamp': 1412121600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'funder': [{'DOI': '10.13039/501100000266', 'name': 'Engineering and Physical Sciences Research Council', 'doi-asserted-by': 'crossref', 'award': ['EP/H046410/1']}, {'name': 'National Institute for Health Research (NIHR) Biomedical Research Centre at Guy’s and St Thomas’ NHS Foundation Trust', 'award': []}, {'name': 'King’s College London', 'award': []}], 'content-domain': {'domain': ['medicalimageanalysisjournal.com', 'elsevier.com', 'sciencedirect.com'], 'crossmark-restriction': True}, 'short-container-title': ['Medical Image Analysis'], 'published-print': {'date-parts': [[2014, 10]]}, 'DOI': '10.1016/j.media.2014.05.010', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 2]], 'date-time': '2014-06-02T14:19:52Z', 'timestamp': 1401718792000}, 'page': '939-952', 'update-policy': 'http://dx.doi.org/10.1016/elsevier_cm_policy', 'source': 'Crossref', 'is-referenced-by-count': 17, 'title': ['High-resolution dynamic MR imaging of the thorax for respiratory motion correction of PET using groupwise manifold alignment'], 'prefix': '10.1016', 'volume': '18', 'author': [{'given': 'Christian F.', 'family': 'Baumgartner', 'sequence': 'first', 'affiliation': []}, {'given': 'Christoph', 'family': 'Kolbitsch', 'sequence': 'additional', 'affiliation': []}, {'given': 'Daniel R.', 'family': 'Balfour', 'sequence': 'additional', 'affiliation': []}, {'given': 'Paul K.', 'family': 'Marsden', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jamie R.', 'family': 'McClelland', 'sequence': 'additional', 'affiliation': []}, {'given': 'Daniel', 'family': 'Rueckert', 'sequence': 'additional', 'affiliation': []}, {'given': 'Andrew P.', 'family': 'King', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Medical Image Analysis'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1361841514000917?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1361841514000917?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T14:12:35Z', 'timestamp': 1498140755000}, 'score': 139.3106, 'issued': {'date-parts': [[2014, 10]]}, 'references-count': 42, 'journal-issue': {'published-print': {'date-parts': [[2014, 10]]}, 'issue': '7'}, 'alternative-id': ['S1361841514000917'], 'URL': 'http://dx.doi.org/10.1016/j.media.2014.05.010', 'ISSN': ['1361-8415'], 'issn-type': [{'value': '1361-8415', 'type': 'print'}], 'assertion': [{'value': 'Elsevier', 'name': 'publisher', 'label': 'This article is maintained by'}, {'value': 'High-resolution dynamic MR imaging of the thorax for respiratory motion correction of PET using groupwise manifold alignment', 'name': 'articletitle', 'label': 'Article Title'}, {'value': 'Medical Image Analysis', 'name': 'journaltitle', 'label': 'Journal Title'}, {'value': 'http://dx.doi.org/10.1016/j.media.2014.05.010', 'name': 'articlelink', 'label': 'CrossRef DOI link to publisher maintained version'}, {'value': 'article', 'name': 'content_type', 'label': 'Content Type'}, {'value': 'Copyright © 2014 Elsevier B.V. All rights reserved.', 'name': 'copyright', 'label': 'Copyright'}]}
+>>> hash >>> ('High-resolution dynamic MR imaging of the thorax for respiratory motion correction of PET using groupwise manifold alignment', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

@@ -1,0 +1,961 @@
+>>> NEW PAPER <<<
+>>> citation >>> A. Deruyver, Y. HodÃ© Constraint satisfaction problem with bilevel constraint: application to interpretation of over-segmented images Artif. Intell., 93 (1997), pp. 321-335
+>>> DOI >>> 10.1016/s0004-3702(97)00022-2
+>>> URL >>> http://dx.doi.org/10.1016/s0004-3702(97)00022-2
+>>> year >>> 1997.0
+>>> title >>> Constraint satisfaction problem with bilevel constraint: application to interpretation of over-segmented images
+>>> author >>> A. Deruyver and Y. Hodé
+>>> reference_count >>> 20.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['Artificial Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T21:59:06Z', 'timestamp': 1525298346648}, 'reference-count': 20, 'publisher': 'Elsevier BV', 'issue': '1-2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1997, 6, 1]], 'date-time': '1997-06-01T00:00:00Z', 'timestamp': 865123200000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 25]], 'date-time': '2013-07-25T00:00:00Z', 'timestamp': 1374710400000}, 'delay-in-days': 5898, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Artificial Intelligence'], 'published-print': {'date-parts': [[1997, 6]]}, 'DOI': '10.1016/s0004-3702(97)00022-2', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T14:46:00Z', 'timestamp': 1027608360000}, 'page': '321-335', 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['Constraint satisfaction problem with bilevel constraint: application to interpretation of over-segmented images'], 'prefix': '10.1016', 'volume': '93', 'author': [{'given': 'A.', 'family': 'Deruyver', 'sequence': 'first', 'affiliation': []}, {'given': 'Y.', 'family': 'Hodé', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0004370297000222?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0004370297000222?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 14]], 'date-time': '2017-06-14T21:31:57Z', 'timestamp': 1497475917000}, 'score': 105.46707, 'issued': {'date-parts': [[1997, 6]]}, 'references-count': 20, 'journal-issue': {'published-print': {'date-parts': [[1997, 6]]}, 'issue': '1-2'}, 'alternative-id': ['S0004370297000222'], 'URL': 'http://dx.doi.org/10.1016/s0004-3702(97)00022-2', 'ISSN': ['0004-3702'], 'issn-type': [{'value': '0004-3702', 'type': 'print'}]}
+>>> hash >>> ('Constraint satisfaction problem with bilevel constraint: application to interpretation of over-segmented images', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J.-P. Braquelaire, L. Brun Image segmentation with topological maps and inter-pixel representation J. Visual Commun. Image Representat., 9 (1) (1998), pp. 62-79
+>>> DOI >>> 10.1006/jvci.1998.0374
+>>> URL >>> http://dx.doi.org/10.1006/jvci.1998.0374
+>>> year >>> 1998.0
+>>> title >>> Image Segmentation with Topological Maps and Inter-pixel Representation
+>>> author >>> Jean-Pierre Braquelaire and Luc Brun
+>>> reference_count >>> 52.0
+>>> is_referenced_by_count >>> 21.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Visual Communication and Image Representation']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T18:40:39Z', 'timestamp': 1525286439432}, 'reference-count': 52, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1998, 3, 1]], 'date-time': '1998-03-01T00:00:00Z', 'timestamp': 888710400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Visual Communication and Image Representation'], 'published-print': {'date-parts': [[1998, 3]]}, 'DOI': '10.1006/jvci.1998.0374', 'type': 'journal-article', 'created': {'date-parts': [[2002, 9, 18]], 'date-time': '2002-09-18T18:57:42Z', 'timestamp': 1032375462000}, 'page': '62-79', 'source': 'Crossref', 'is-referenced-by-count': 21, 'title': ['Image Segmentation with Topological Maps and Inter-pixel Representation'], 'prefix': '10.1006', 'volume': '9', 'author': [{'given': 'Jean-Pierre', 'family': 'Braquelaire', 'sequence': 'first', 'affiliation': []}, {'given': 'Luc', 'family': 'Brun', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Visual Communication and Image Representation'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1047320398903741?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1047320398903741?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 14]], 'date-time': '2017-06-14T16:55:26Z', 'timestamp': 1497459326000}, 'score': 103.50254, 'issued': {'date-parts': [[1998, 3]]}, 'references-count': 52, 'journal-issue': {'published-print': {'date-parts': [[1998, 3]]}, 'issue': '1'}, 'alternative-id': ['S1047320398903741'], 'URL': 'http://dx.doi.org/10.1006/jvci.1998.0374', 'ISSN': ['1047-3203'], 'issn-type': [{'value': '1047-3203', 'type': 'print'}]}
+>>> hash >>> ('Image Segmentation with Topological Maps and Inter-pixel Representation', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A.W. Finch, R.C. Wilson, E.R. Hancock Matching Delaunay graphs Pattern Recognition, 30 (1) (1997), pp. 123-140
+>>> DOI >>> 10.1016/s0031-3203(96)00060-x
+>>> URL >>> http://dx.doi.org/10.1016/s0031-3203(96)00060-x
+>>> year >>> 1997.0
+>>> title >>> Matching delaunay graphs
+>>> author >>> Andrew M. Finch and Richard C. Wilson and Edwin R. Hancock
+>>> reference_count >>> 38.0
+>>> is_referenced_by_count >>> 26.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T22:04:03Z', 'timestamp': 1525298643314}, 'reference-count': 38, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1997, 1, 1]], 'date-time': '1997-01-01T00:00:00Z', 'timestamp': 852076800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[1997, 1]]}, 'DOI': '10.1016/s0031-3203(96)00060-x', 'type': 'journal-article', 'created': {'date-parts': [[2003, 4, 5]], 'date-time': '2003-04-05T02:45:35Z', 'timestamp': 1049510735000}, 'page': '123-140', 'source': 'Crossref', 'is-referenced-by-count': 26, 'title': ['Matching delaunay graphs'], 'prefix': '10.1016', 'volume': '30', 'author': [{'given': 'Andrew M.', 'family': 'Finch', 'sequence': 'first', 'affiliation': []}, {'given': 'Richard C.', 'family': 'Wilson', 'sequence': 'additional', 'affiliation': []}, {'given': 'Edwin R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S003132039600060X?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S003132039600060X?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 14]], 'date-time': '2017-06-14T21:40:19Z', 'timestamp': 1497476419000}, 'score': 89.61457, 'issued': {'date-parts': [[1997, 1]]}, 'references-count': 38, 'journal-issue': {'published-print': {'date-parts': [[1997, 1]]}, 'issue': '1'}, 'alternative-id': ['S003132039600060X'], 'URL': 'http://dx.doi.org/10.1016/s0031-3203(96)00060-x', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Matching delaunay graphs', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Herpers, G. Sommer An attentive processing strategy for the analysis of facial features H. Wechsler, et al. (Eds.), Face Recognition: From Theory to Applications, NATO ASI Series F, vol. 163, Springer, Berlin (1998), pp. 457-468
+>>> DOI >>> 10.1007/978-3-642-72201-1_26
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-72201-1_26
+>>> year >>> 1998.0
+>>> title >>> An Attentive Processing Strategy for the Analysis of Facial Features
+>>> author >>> R. Herpers and G. Sommer
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['Face Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T18:44:10Z', 'timestamp': 1525459450837}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642722035', 'type': 'print'}, {'value': '9783642722011', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1998]]}, 'DOI': '10.1007/978-3-642-72201-1_26', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 11, 16]], 'date-time': '2011-11-16T13:18:53Z', 'timestamp': 1321449533000}, 'page': '457-468', 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['An Attentive Processing Strategy for the Analysis of Facial Features'], 'prefix': '10.1007', 'author': [{'given': 'R.', 'family': 'Herpers', 'sequence': 'first', 'affiliation': []}, {'given': 'G.', 'family': 'Sommer', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Face Recognition'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-72201-1_26', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2011, 11, 16]], 'date-time': '2011-11-16T13:19:21Z', 'timestamp': 1321449561000}, 'score': 97.06592, 'issued': {'date-parts': [[1998]]}, 'ISBN': ['9783642722035', '9783642722011'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-72201-1_26'}
+>>> hash >>> ('An Attentive Processing Strategy for the Analysis of Facial Features', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. Bengoetxea, P. LarraÃ±aga, I. Bloch, A. Perchant Solving graph matching with EDAs using a permutation-based representation P. LarraÃ±aga, J.A. Lozano (Eds.), Estimation of Distribution Algorithms: A New Tool for Evolutionary Computation, Kluwer Academic Publisher, Boston, Dordrecht, London (2001), pp. 239-261 (Chapter 12)
+>>> DOI >>> 10.1007/978-1-4615-1539-5_12
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4615-1539-5_12
+>>> year >>> 2002.0
+>>> title >>> Solving Graph Matching with EDAs Using a Permutation-Based Representation
+>>> author >>> E. Bengoetxea and P. Larrañaga and A. Perchant and I. Bloch
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Estimation of Distribution Algorithms', 'Genetic Algorithms and Evolutionary Computation']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T10:31:51Z', 'timestamp': 1525429911232}, 'publisher-location': 'Boston, MA', 'reference-count': 0, 'publisher': 'Springer US', 'isbn-type': [{'value': '9781461356042', 'type': 'print'}, {'value': '9781461515395', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.1007/978-1-4615-1539-5_12', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 8, 12]], 'date-time': '2011-08-12T08:27:30Z', 'timestamp': 1313137650000}, 'page': '243-265', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Solving Graph Matching with EDAs Using a Permutation-Based Representation'], 'prefix': '10.1007', 'author': [{'given': 'E.', 'family': 'Bengoetxea', 'sequence': 'first', 'affiliation': []}, {'given': 'P.', 'family': 'Larrañaga', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Perchant', 'sequence': 'additional', 'affiliation': []}, {'given': 'I.', 'family': 'Bloch', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Estimation of Distribution Algorithms', 'Genetic Algorithms and Evolutionary Computation'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-1-4615-1539-5_12', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 9]], 'date-time': '2014-01-09T15:59:52Z', 'timestamp': 1389283192000}, 'score': 114.661644, 'issued': {'date-parts': [[2002]]}, 'ISBN': ['9781461356042', '9781461515395'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4615-1539-5_12', 'ISSN': ['1568-2587'], 'issn-type': [{'value': '1568-2587', 'type': 'print'}]}
+>>> hash >>> ('Solving Graph Matching with EDAs Using a Permutation-Based Representation', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Bunke Error correcting graph matching: on the influence of the underlying cost function IEEE Trans. Pattern Anal. Mach. Intell., 21 (9) (1999), pp. 917-922
+>>> DOI >>> 10.1109/34.790431
+>>> URL >>> http://dx.doi.org/10.1109/34.790431
+>>> year >>> 1999.0
+>>> title >>> Error correcting graph matching: on the influence of the underlying cost function
+>>> author >>> H. Bunke
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 118.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:32Z', 'timestamp': 1525333532255}, 'reference-count': 17, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '9', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1109/34.790431', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '917-922', 'source': 'Crossref', 'is-referenced-by-count': 118, 'title': ['Error correcting graph matching: on the influence of the underlying cost function'], 'prefix': '10.1109', 'volume': '21', 'author': [{'given': 'H.', 'family': 'Bunke', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/17189/00790431.pdf?arnumber=790431', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T09:17:06Z', 'timestamp': 1512983826000}, 'score': 111.48905, 'issued': {'date-parts': [[1999]]}, 'references-count': 17, 'journal-issue': {'issue': '9'}, 'URL': 'http://dx.doi.org/10.1109/34.790431', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Error correcting graph matching: on the influence of the underlying cost function', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. LarraÃ±aga, J.A. Lozano (Eds.), Estimation of Distribution Algorithms. A New Tool for Evolutionary Computation, Kluwer Academic Publishers, Dordrecht, 2001.
+>>> DOI >>> 10.1006/anbo.2001.1375
+>>> URL >>> http://dx.doi.org/10.1006/anbo.2001.1375
+>>> year >>> 2001.0
+>>> title >>> Jain SM, Minocha SC, eds. 2000. Molecular biology of woody plants, volume 1. 520pp. Dordrecht, The Netherlands: Kluwer Academic Publishers. £148.50 (hardback). Jain SM, Minocha SC, eds. 2000.Molecular biology of woody plants, volume 2. 511pp. Dordrecht, The Netherlands: Kluwer Academic Publishers. £148.50 (hardback).
+>>> author >>> N Chaffey
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Annals of Botany']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T18:48:58Z', 'timestamp': 1525286938172}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2001, 5]]}, 'DOI': '10.1006/anbo.2001.1375', 'type': 'journal-article', 'created': {'date-parts': [[2002, 9, 16]], 'date-time': '2002-09-16T13:49:23Z', 'timestamp': 1032184163000}, 'page': '700-701', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Jain SM, Minocha SC, eds. 2000. Molecular biology of woody plants, volume 1. 520pp. Dordrecht, The Netherlands: Kluwer Academic Publishers. £148.50 (hardback). Jain SM, Minocha SC, eds. 2000.Molecular biology of woody plants, volume 2. 511pp. Dordrecht, The Netherlands: Kluwer Academic Publishers. £148.50 (hardback).'], 'prefix': '10.1093', 'volume': '87', 'author': [{'given': 'N', 'family': 'Chaffey', 'sequence': 'first', 'affiliation': []}], 'member': '286', 'container-title': ['Annals of Botany'], 'link': [{'URL': 'http://academic.oup.com/aob/article-pdf/87/5/700/7984560/870700.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 25]], 'date-time': '2017-08-25T00:52:44Z', 'timestamp': 1503622364000}, 'score': 49.254417, 'issued': {'date-parts': [[2001, 5]]}, 'references-count': 0, 'journal-issue': {'issue': '5'}, 'alternative-id': ['S0305-7364(01)91375-7'], 'URL': 'http://dx.doi.org/10.1006/anbo.2001.1375', 'ISSN': ['0305-7364'], 'issn-type': [{'value': '0305-7364', 'type': 'print'}]}
+>>> hash >>> ('Jain SM, Minocha SC, eds. 2000. Molecular biology of woody plants, volume 1. 520pp. Dordrecht, The Netherlands: Kluwer Academic Publishers. £148.50 (hardback). Jain SM, Minocha SC, eds. 2000.Molecular biology of woody plants, volume 2. 511pp. Dordrecht, The Netherlands: Kluwer Academic Publishers. £148.50 (hardback).', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. MÃ¼hlenbein The equation for response to selection and its use for prediction Evolut. Comput., 5 (1998), pp. 303-346
+>>> DOI >>> 10.1162/evco.1997.5.3.303
+>>> URL >>> http://dx.doi.org/10.1162/evco.1997.5.3.303
+>>> year >>> 1997.0
+>>> title >>> The Equation for Response to Selection and Its Use for Prediction
+>>> author >>> Heinz Mühlenbein
+>>> reference_count >>> 9.0
+>>> is_referenced_by_count >>> 181.0
+>>> subject >>> None
+>>> container_title >>> ['Evolutionary Computation']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T06:53:05Z', 'timestamp': 1525416785406}, 'reference-count': 9, 'publisher': 'MIT Press - Journals', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Evolutionary Computation'], 'published-print': {'date-parts': [[1997, 9]]}, 'DOI': '10.1162/evco.1997.5.3.303', 'type': 'journal-article', 'created': {'date-parts': [[2008, 2, 29]], 'date-time': '2008-02-29T18:48:18Z', 'timestamp': 1204310898000}, 'page': '303-346', 'source': 'Crossref', 'is-referenced-by-count': 181, 'title': ['The Equation for Response to Selection and Its Use for Prediction'], 'prefix': '10.1162', 'volume': '5', 'author': [{'given': 'Heinz', 'family': 'Mühlenbein', 'sequence': 'first', 'affiliation': []}], 'member': '281', 'reference': [{'key': 'p_17', 'DOI': '10.1007/BF01530777', 'doi-asserted-by': 'publisher'}, {'key': 'p_20', 'author': 'Ewens W. J.', 'volume': '36', 'first-page': '167', 'year': '1989', 'journal-title': 'TheoreticalPopulation Biology'}, {'key': 'p_26', 'author': 'Geiringer H.', 'volume': '25', 'first-page': '7', 'year': '1944', 'journal-title': 'Annals ofMathematical Statistics, 1fi'}, {'key': 'p_34', 'author': 'Miller B. L.', 'volume': '9', 'first-page': '193', 'year': '1995', 'journal-title': 'Complex Systems'}, {'key': 'p_36', 'DOI': '10.1162/evco.1993.1.1.25', 'doi-asserted-by': 'publisher'}, {'key': 'p_42', 'author': 'Pearson K.', 'volume': '203', 'first-page': '55', 'year': '1904', 'journal-title': 'Philosophical E-niisartioizsof the Roynl Society'}, {'key': 'p_45', 'author': 'Rattray L. M.', 'volume': '9', 'first-page': '213', 'year': '1995', 'journal-title': 'Complex Systmns'}, {'key': 'p_47', 'author': 'Robbins R. A.', 'volume': '3', 'first-page': '375', 'year': '1918', 'journal-title': 'Genetics'}, {'key': 'p_55', 'DOI': '10.1162/evco.1994.2.4.347', 'doi-asserted-by': 'publisher'}], 'container-title': ['Evolutionary Computation'], 'language': 'en', 'link': [{'URL': 'http://www.mitpressjournals.org/doi/pdf/10.1162/evco.1997.5.3.303', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T19:27:19Z', 'timestamp': 1481052439000}, 'score': 47.504898, 'issued': {'date-parts': [[1997, 9]]}, 'references-count': 9, 'journal-issue': {'published-print': {'date-parts': [[1997, 9]]}, 'issue': '3'}, 'alternative-id': ['10.1162/evco.1997.5.3.303'], 'URL': 'http://dx.doi.org/10.1162/evco.1997.5.3.303', 'relation': {'cites': []}, 'ISSN': ['1063-6560', '1530-9304'], 'issn-type': [{'value': '1063-6560', 'type': 'print'}, {'value': '1530-9304', 'type': 'electronic'}]}
+>>> hash >>> ('The Equation for Response to Selection and Its Use for Prediction', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Perchant, I. Bloch Fuzzy morphisms between graphs Fuzzy Sets and Systems, 128 (2) (2002), pp. 149-168
+>>> DOI >>> 10.1016/s0165-0114(01)00131-2
+>>> URL >>> http://dx.doi.org/10.1016/s0165-0114(01)00131-2
+>>> year >>> 2002.0
+>>> title >>> Fuzzy morphisms between graphs
+>>> author >>> Aymeric Perchant and Isabelle Bloch
+>>> reference_count >>> 42.0
+>>> is_referenced_by_count >>> 21.0
+>>> subject >>> None
+>>> container_title >>> ['Fuzzy Sets and Systems']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:44:34Z', 'timestamp': 1525311874195}, 'reference-count': 42, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2002, 6, 1]], 'date-time': '2002-06-01T00:00:00Z', 'timestamp': 1022889600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Fuzzy Sets and Systems'], 'published-print': {'date-parts': [[2002, 6]]}, 'DOI': '10.1016/s0165-0114(01)00131-2', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T03:29:22Z', 'timestamp': 1027654162000}, 'page': '149-168', 'source': 'Crossref', 'is-referenced-by-count': 21, 'title': ['Fuzzy morphisms between graphs'], 'prefix': '10.1016', 'volume': '128', 'author': [{'given': 'Aymeric', 'family': 'Perchant', 'sequence': 'first', 'affiliation': []}, {'given': 'Isabelle', 'family': 'Bloch', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Fuzzy Sets and Systems'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0165011401001312?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0165011401001312?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 11, 1]], 'date-time': '2017-11-01T19:17:13Z', 'timestamp': 1509563833000}, 'score': 108.342, 'issued': {'date-parts': [[2002, 6]]}, 'references-count': 42, 'journal-issue': {'published-print': {'date-parts': [[2002, 6]]}, 'issue': '2'}, 'alternative-id': ['S0165011401001312'], 'URL': 'http://dx.doi.org/10.1016/s0165-0114(01)00131-2', 'ISSN': ['0165-0114'], 'issn-type': [{'value': '0165-0114', 'type': 'print'}]}
+>>> hash >>> ('Fuzzy morphisms between graphs', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J.S. de Bonet, C.L. Isbell, P. Viola MIMIC: finding optima by estimating probability densities M.C. Mozer, M.I. Jordan, T. Petsche (Eds.), Advances in Neural Information Processing Systems, vol. 9, The MIT Press, Cambridge, MA (1997), pp. 424-431
+>>> DOI >>> 10.2189/asqu.2005.50.2.308
+>>> URL >>> http://dx.doi.org/10.2189/asqu.2005.50.2.308
+>>> year >>> 2005.0
+>>> title >>> Social Capital and Information TechnologyHuysmanMarleenWulfVolker, eds. Cambridge, MA: MIT Press, 2004. 424 pp. $40.00.
+>>> author >>> Albert A. Cannella
+>>> reference_count >>> 2.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Administrative Science Quarterly']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T07:29:56Z', 'timestamp': 1524036596104}, 'reference-count': 2, 'publisher': 'SAGE Publications', 'issue': '2', 'license': [{'URL': 'http://journals.sagepub.com/page/policies/text-and-data-mining-license', 'start': {'date-parts': [[2005, 6, 1]], 'date-time': '2005-06-01T00:00:00Z', 'timestamp': 1117584000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Administrative Science Quarterly'], 'published-print': {'date-parts': [[2005, 6]]}, 'DOI': '10.2189/asqu.2005.50.2.308', 'type': 'journal-article', 'created': {'date-parts': [[2017, 2, 15]], 'date-time': '2017-02-15T08:54:22Z', 'timestamp': 1487148862000}, 'page': '308-310', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Social Capital and Information TechnologyHuysmanMarleenWulfVolker, eds. Cambridge, MA: MIT Press, 2004. 424 pp. $40.00.'], 'prefix': '10.2189', 'volume': '50', 'author': [{'suffix': 'Jr.', 'given': 'Albert A.', 'family': 'Cannella', 'sequence': 'first', 'affiliation': [{'name': 'Department of Management Arizona State University Tempe, AZ 85287–4006'}]}], 'member': '179', 'published-online': {'date-parts': [[2016, 6, 24]]}, 'container-title': ['Administrative Science Quarterly'], 'language': 'en', 'link': [{'URL': 'http://journals.sagepub.com/doi/pdf/10.2189/asqu.2005.50.2.308', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://journals.sagepub.com/doi/pdf/10.2189/asqu.2005.50.2.308', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 1, 4]], 'date-time': '2018-01-04T01:17:04Z', 'timestamp': 1515028624000}, 'score': 37.552975, 'issued': {'date-parts': [[2005, 6]]}, 'references-count': 2, 'journal-issue': {'published-online': {'date-parts': [[2016, 6, 24]]}, 'published-print': {'date-parts': [[2005, 6]]}, 'issue': '2'}, 'alternative-id': ['10.2189/asqu.2005.50.2.308'], 'URL': 'http://dx.doi.org/10.2189/asqu.2005.50.2.308', 'ISSN': ['0001-8392', '1930-3815'], 'issn-type': [{'value': '0001-8392', 'type': 'print'}, {'value': '1930-3815', 'type': 'electronic'}]}
+>>> hash >>> ('Social Capital and Information TechnologyHuysmanMarleenWulfVolker, eds. Cambridge, MA: MIT Press, 2004. 424 pp. $40.00.', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L.F. Costa, R.M. Cesar Jr. Shape Analysis and Classification: Theory and Practice CRC Press, Boca Raton, FL (2001)
+>>> DOI >>> 10.1017/s1466046603251127
+>>> URL >>> http://dx.doi.org/10.1017/s1466046603251127
+>>> year >>> 2003.0
+>>> title >>> Industry Self-Regulation and Voluntary Environmental Compliance. A. Iannuzzi, Jr. 2001. CRC Press, Boca Raton, FL. 180 pp. $69.95 hardcover.
+>>> author >>> Lori Cunniff
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Environmental Practice']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T09:02:01Z', 'timestamp': 1525424521777}, 'reference-count': 0, 'publisher': 'Informa UK Limited', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Environmental Practice'], 'published-print': {'date-parts': [[2003, 6]]}, 'DOI': '10.1017/s1466046603251127', 'type': 'journal-article', 'created': {'date-parts': [[2008, 4, 21]], 'date-time': '2008-04-21T10:54:14Z', 'timestamp': 1208775254000}, 'page': '182-182', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Industry Self-Regulation and Voluntary Environmental Compliance. A. Iannuzzi, Jr. 2001. CRC Press, Boca Raton, FL. 180 pp. $69.95 hardcover.'], 'prefix': '10.1080', 'volume': '5', 'author': [{'given': 'Lori', 'family': 'Cunniff', 'sequence': 'first', 'affiliation': [{'name': ' Orange County Environmental Protection Division, 800 Mercy Drive, Orlando, FL 32808'}]}], 'member': '301', 'published-online': {'date-parts': [[2017, 3, 28]]}, 'container-title': ['Environmental Practice'], 'language': 'en', 'link': [{'URL': 'https://www.tandfonline.com/doi/pdf/10.1017/S1466046603251127', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 22]], 'date-time': '2017-11-22T05:30:37Z', 'timestamp': 1511328637000}, 'score': 55.54285, 'issued': {'date-parts': [[2003, 6]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2017, 3, 28]]}, 'published-print': {'date-parts': [[2003, 6]]}, 'issue': '2'}, 'alternative-id': ['10.1017/S1466046603251127'], 'URL': 'http://dx.doi.org/10.1017/s1466046603251127', 'ISSN': ['1466-0466', '1466-0474'], 'issn-type': [{'value': '1466-0466', 'type': 'print'}, {'value': '1466-0474', 'type': 'electronic'}]}
+>>> hash >>> ('Industry Self-Regulation and Voluntary Environmental Compliance. A. Iannuzzi, Jr. 2001. CRC Press, Boca Raton, FL. 180 pp. $69.95 hardcover.', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Baluja, Population-based incremental learning: a method for integrating genetic search based function optimization and competitive learning, Technical Report, Carnegie Mellon Report, CMU-CS-94-163, 1994.
+>>> DOI >>> 10.2172/5264558
+>>> URL >>> http://dx.doi.org/10.2172/5264558
+>>> year >>> 1980.0
+>>> title >>> Development of a Foam OTEC System. Final technical report for Fiscal Year 1979
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'Oak Ridge National Laboratory (ORNL)', 'place': ['Oak Ridge, TN (United States)', '-', '-'], 'acronym': ['ORNL', '-', '-']}, 'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T19:24:50Z', 'timestamp': 1525721090954}, 'reference-count': 0, 'publisher': 'Office of Scientific and Technical Information  (OSTI)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.2172/5264558', 'type': 'report', 'created': {'date-parts': [[2013, 6, 22]], 'date-time': '2013-06-22T02:36:00Z', 'timestamp': 1371868560000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Development of a Foam OTEC System. Final technical report for Fiscal Year 1979'], 'prefix': '10.2172', 'author': [{'name': 'Carnegie-Mellon Univ., Pittsburgh, PA (USA)', 'sequence': 'first', 'affiliation': []}], 'member': '960', 'published-online': {'date-parts': [[1980, 1, 1]]}, 'deposited': {'date-parts': [[2013, 6, 22]], 'date-time': '2013-06-22T02:36:01Z', 'timestamp': 1371868561000}, 'score': 40.913483, 'issued': {'date-parts': [[1980, 1, 1]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.2172/5264558'}
+>>> hash >>> ('Development of a Foam OTEC System. Final technical report for Fiscal Year 1979', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P.J. Phillips, H. Moon, P.J. Rauss, S. Rizvi The FERET evaluation methodology for face recognition algorithms IEEE Trans. Pattern Anal. Mach. Intell., 22 (10) (2000), pp. 1090-1104
+>>> DOI >>> 10.1109/34.879790
+>>> URL >>> http://dx.doi.org/10.1109/34.879790
+>>> year >>> 2000.0
+>>> title >>> The FERET evaluation methodology for face-recognition algorithms
+>>> author >>> None
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 2468.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T07:02:37Z', 'timestamp': 1528354957402}, 'reference-count': 16, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '10', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2000]]}, 'DOI': '10.1109/34.879790', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '1090-1104', 'source': 'Crossref', 'is-referenced-by-count': 2468, 'title': ['The FERET evaluation methodology for face-recognition algorithms'], 'prefix': '10.1109', 'volume': '22', 'author': [{'given': 'P.J.', 'family': 'Phillips', 'sequence': 'first', 'affiliation': []}, {'family': 'Hyeonjoon Moon', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.A.', 'family': 'Rizvi', 'sequence': 'additional', 'affiliation': []}, {'given': 'P.J.', 'family': 'Rauss', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/19035/00879790.pdf?arnumber=879790', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T09:17:10Z', 'timestamp': 1512983830000}, 'score': 125.357666, 'issued': {'date-parts': [[2000]]}, 'references-count': 16, 'journal-issue': {'issue': '10'}, 'URL': 'http://dx.doi.org/10.1109/34.879790', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('The FERET evaluation methodology for face-recognition algorithms', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A.D.J. Cross, E.R. Hancock Graph matching with a dual-step EM algorithm IEEE Trans. Pattern Anal. Mach. Intell., 20 (11) (1998), pp. 1236-1253
+>>> DOI >>> 10.1109/34.730557
+>>> URL >>> http://dx.doi.org/10.1109/34.730557
+>>> year >>> 1998.0
+>>> title >>> Graph matching with a dual-step EM algorithm
+>>> author >>> A.D.J. Cross and E.R. Hancock
+>>> reference_count >>> 45.0
+>>> is_referenced_by_count >>> 117.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:38Z', 'timestamp': 1525333538413}, 'reference-count': 45, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1998]]}, 'DOI': '10.1109/34.730557', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '1236-1253', 'source': 'Crossref', 'is-referenced-by-count': 117, 'title': ['Graph matching with a dual-step EM algorithm'], 'prefix': '10.1109', 'volume': '20', 'author': [{'given': 'A.D.J.', 'family': 'Cross', 'sequence': 'first', 'affiliation': []}, {'given': 'E.R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx4/34/15773/00730557.pdf?arnumber=730557', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:28:45Z', 'timestamp': 1497522525000}, 'score': 103.15786, 'issued': {'date-parts': [[1998]]}, 'references-count': 45, 'journal-issue': {'issue': '11'}, 'URL': 'http://dx.doi.org/10.1109/34.730557', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Graph matching with a dual-step EM algorithm', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. MÃ¼hlenbein, G. PaaÃŸ, From recombination of genes to the estimation of distributions i. Binary parameters, in: M. Voigt, W. Ebeling, I. Rechenberg, H.-P. Schwefel (Eds.), Parallel Problem Solving from Natureâ€”PPSN IV, Lecture Notes in Computer Science, vol. 1411, 1996, pp. 178â€“187.
+>>> DOI >>> 10.1007/3-540-61723-x_982
+>>> URL >>> http://dx.doi.org/10.1007/3-540-61723-x_982
+>>> year >>> 1996.0
+>>> title >>> From recombination of genes to the estimation of distributions I. Binary parameters
+>>> author >>> H. Mühlenbein and G. Paaß
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 199.0
+>>> subject >>> None
+>>> container_title >>> ['Parallel Problem Solving from Nature — PPSN IV', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T07:02:37Z', 'timestamp': 1528354957400}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540617235', 'type': 'print'}, {'value': '9783540706687', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1996]]}, 'DOI': '10.1007/3-540-61723-x_982', 'type': 'book-chapter', 'created': {'date-parts': [[2006, 7, 12]], 'date-time': '2006-07-12T14:34:58Z', 'timestamp': 1152714898000}, 'page': '178-187', 'source': 'Crossref', 'is-referenced-by-count': 199, 'title': ['From recombination of genes to the estimation of distributions I. Binary parameters'], 'prefix': '10.1007', 'author': [{'given': 'H.', 'family': 'Mühlenbein', 'sequence': 'first', 'affiliation': []}, {'given': 'G.', 'family': 'Paaß', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2005, 7, 11]]}, 'container-title': ['Parallel Problem Solving from Nature — PPSN IV', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-61723-X_982', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 7, 28]], 'date-time': '2014-07-28T02:29:03Z', 'timestamp': 1406514543000}, 'score': 101.84441, 'issued': {'date-parts': [[1996]]}, 'ISBN': ['9783540617235', '9783540706687'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-61723-x_982', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('From recombination of genes to the estimation of distributions I. Binary parameters', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> V. Kruger, G. Sommer Affine real-time face tracking using a wavelet network Proceedings of ICCVâ€™99 Workshop Recognition, Analysis, and Tracking of Faces and Gestures in Real-Time Systems, Corfu, Greece (1999), pp. 141-148
+>>> DOI >>> 10.1109/ratfg.1999.799237
+>>> URL >>> http://dx.doi.org/10.1109/ratfg.1999.799237
+>>> year >>> None
+>>> title >>> Affine real-time face tracking using a wavelet network
+>>> author >>> V. Kruger and A. Happe and G. Sommer
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings International Workshop on Recognition, Analysis, and Tracking of Faces and Gestures in Real-Time Systems. In Conjunction with ICCV'99 (Cat. No.PR00378)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T14:13:02Z', 'timestamp': 1525356782128}, 'reference-count': 19, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769503780', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/ratfg.1999.799237', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 1, 20]], 'date-time': '2003-01-20T20:17:51Z', 'timestamp': 1043093871000}, 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['Affine real-time face tracking using a wavelet network'], 'prefix': '10.1109', 'author': [{'given': 'V.', 'family': 'Kruger', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Happe', 'sequence': 'additional', 'affiliation': []}, {'given': 'G.', 'family': 'Sommer', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "International Workshop on Recognition, Analysis and Tracking of Faces and Gestures in Real-Time Systems (RATFG-RTS'99)", 'location': 'Corfu, Greece', 'acronym': 'RATFG-99'}, 'container-title': ["Proceedings International Workshop on Recognition, Analysis, and Tracking of Faces and Gestures in Real-Time Systems. In Conjunction with ICCV'99 (Cat. No.PR00378)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6504/17359/00799237.pdf?arnumber=799237', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 1, 27]], 'date-time': '2018-01-27T15:17:23Z', 'timestamp': 1517066243000}, 'score': 125.213844, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769503780'], 'references-count': 19, 'URL': 'http://dx.doi.org/10.1109/ratfg.1999.799237'}
+>>> hash >>> ('Affine real-time face tracking using a wavelet network', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Perchant, C. Boeres, I. Bloch, M. Roux, C. Ribeiro, Model-based scene recognition using graph fuzzy homomorphism solved by genetic algorithm, in: GbRâ€™99 Second International Workshop on Graph-Based Representations in Pattern Recognition, Castle of Haindorf, Austria, 1999, pp. 61â€“70.
+>>> DOI >>> 10.1109/icpr.2000.906253
+>>> URL >>> http://dx.doi.org/10.1109/icpr.2000.906253
+>>> year >>> None
+>>> title >>> Graph fuzzy homomorphism interpreted as fuzzy association graphs
+>>> author >>> A. Perchant and I. Bloch
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings 15th International Conference on Pattern Recognition. ICPR-2000']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T11:08:05Z', 'timestamp': 1525345685842}, 'reference-count': 13, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769507506', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icpr.2000.906253', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 11]], 'date-time': '2002-11-11T14:58:51Z', 'timestamp': 1037026731000}, 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Graph fuzzy homomorphism interpreted as fuzzy association graphs'], 'prefix': '10.1109', 'author': [{'given': 'A.', 'family': 'Perchant', 'sequence': 'first', 'affiliation': []}, {'given': 'I.', 'family': 'Bloch', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '15th International Conference on Pattern Recognition', 'location': 'Barcelona, Spain', 'acronym': 'ICPR-00'}, 'container-title': ['Proceedings 15th International Conference on Pattern Recognition. ICPR-2000'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/7237/19583/00906253.pdf?arnumber=906253', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 11]], 'date-time': '2017-03-11T01:39:48Z', 'timestamp': 1489196388000}, 'score': 82.2833, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769507506'], 'references-count': 13, 'URL': 'http://dx.doi.org/10.1109/icpr.2000.906253'}
+>>> hash >>> ('Graph fuzzy homomorphism interpreted as fuzzy association graphs', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Etxeberria, P. LarraÃ±aga, Global optimization with Bayesian networks, in: Special Session on Distributions and Evolutionary Optimization, II Symposium on Artificial Intelligence, CIMAF99, 1999, pp. 332â€“339.
+>>> DOI >>> 10.1016/s0004-3702(00)00052-7
+>>> URL >>> http://dx.doi.org/10.1016/s0004-3702(00)00052-7
+>>> year >>> 2000.0
+>>> title >>> Feature Subset Selection by Bayesian network-based optimization
+>>> author >>> I. Inza and P. Larrañaga and R. Etxeberria and B. Sierra
+>>> reference_count >>> 89.0
+>>> is_referenced_by_count >>> 100.0
+>>> subject >>> None
+>>> container_title >>> ['Artificial Intelligence']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T15:02:36Z', 'timestamp': 1528470156022}, 'reference-count': 89, 'publisher': 'Elsevier BV', 'issue': '1-2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2000, 10, 1]], 'date-time': '2000-10-01T00:00:00Z', 'timestamp': 970358400000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 25]], 'date-time': '2013-07-25T00:00:00Z', 'timestamp': 1374710400000}, 'delay-in-days': 4680, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Artificial Intelligence'], 'published-print': {'date-parts': [[2000, 10]]}, 'DOI': '10.1016/s0004-3702(00)00052-7', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T16:57:34Z', 'timestamp': 1027616254000}, 'page': '157-184', 'source': 'Crossref', 'is-referenced-by-count': 100, 'title': ['Feature Subset Selection by Bayesian network-based optimization'], 'prefix': '10.1016', 'volume': '123', 'author': [{'given': 'I.', 'family': 'Inza', 'sequence': 'first', 'affiliation': []}, {'given': 'P.', 'family': 'Larrañaga', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.', 'family': 'Etxeberria', 'sequence': 'additional', 'affiliation': []}, {'given': 'B.', 'family': 'Sierra', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0004370200000527?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0004370200000527?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 14]], 'date-time': '2017-06-14T22:41:53Z', 'timestamp': 1497480113000}, 'score': 42.259712, 'issued': {'date-parts': [[2000, 10]]}, 'references-count': 89, 'journal-issue': {'published-print': {'date-parts': [[2000, 10]]}, 'issue': '1-2'}, 'alternative-id': ['S0004370200000527'], 'URL': 'http://dx.doi.org/10.1016/s0004-3702(00)00052-7', 'ISSN': ['0004-3702'], 'issn-type': [{'value': '0004-3702', 'type': 'print'}]}
+>>> hash >>> ('Feature Subset Selection by Bayesian network-based optimization', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Perchant, I. Bloch A new definition for fuzzy attributed graph homomorphism with application to structural shape recognition in brain imaging IMTCâ€™99 16th IEEE Instrumentation and Measurement Technology Conference, Venice, Italy (1999), pp. 1801-1806
+>>> DOI >>> 10.1109/imtc.1999.776131
+>>> URL >>> http://dx.doi.org/10.1109/imtc.1999.776131
+>>> year >>> None
+>>> title >>> A new definition for fuzzy attributed graph homomorphism with application to structural shape recognition in brain imaging
+>>> author >>> A. Perchant and I. Bloch
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['IMTC/99. Proceedings of the 16th IEEE Instrumentation and Measurement Technology Conference (Cat. No.99CH36309)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T14:10:32Z', 'timestamp': 1525356632575}, 'reference-count': 13, 'publisher': 'IEEE', 'isbn-type': [{'value': '0780352769', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/imtc.1999.776131', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 1, 20]], 'date-time': '2003-01-20T16:00:44Z', 'timestamp': 1043078444000}, 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['A new definition for fuzzy attributed graph homomorphism with application to structural shape recognition in brain imaging'], 'prefix': '10.1109', 'author': [{'given': 'A.', 'family': 'Perchant', 'sequence': 'first', 'affiliation': []}, {'given': 'I.', 'family': 'Bloch', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'IMTC/99. 16th IEEE Instrumentation and Measurement Technology Conference. Measurements for the New Millennium', 'location': 'Venice, Italy', 'acronym': 'IMTC-99'}, 'container-title': ['IMTC/99. Proceedings of the 16th IEEE Instrumentation and Measurement Technology Conference (Cat. No.99CH36309)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6300/16857/00776131.pdf?arnumber=776131', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T19:18:29Z', 'timestamp': 1489173509000}, 'score': 124.157684, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0780352769'], 'references-count': 13, 'URL': 'http://dx.doi.org/10.1109/imtc.1999.776131'}
+>>> hash >>> ('A new definition for fuzzy attributed graph homomorphism with application to structural shape recognition in brain imaging', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. Bengoetxea, P. LarraÃ±aga, I. Bloch, A. Perchant, C. Boeres Learning and simulation of Bayesian networks applied to inexact graph matching Pattern Recognition, 35 (12) (2002), pp. 2867-2880
+>>> DOI >>> 10.1016/s0031-3203(01)00232-1
+>>> URL >>> http://dx.doi.org/10.1016/s0031-3203(01)00232-1
+>>> year >>> 2002.0
+>>> title >>> Inexact graph matching by means of estimation of distribution algorithms
+>>> author >>> Endika Bengoetxea and Pedro Larrañaga and Isabelle Bloch and Aymeric Perchant and Claudia Boeres
+>>> reference_count >>> 53.0
+>>> is_referenced_by_count >>> 46.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T21:48:05Z', 'timestamp': 1525297685685}, 'reference-count': 53, 'publisher': 'Elsevier BV', 'issue': '12', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2002, 12, 1]], 'date-time': '2002-12-01T00:00:00Z', 'timestamp': 1038700800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[2002, 12]]}, 'DOI': '10.1016/s0031-3203(01)00232-1', 'type': 'journal-article', 'created': {'date-parts': [[2002, 10, 11]], 'date-time': '2002-10-11T21:46:03Z', 'timestamp': 1034372763000}, 'page': '2867-2880', 'source': 'Crossref', 'is-referenced-by-count': 46, 'title': ['Inexact graph matching by means of estimation of distribution algorithms'], 'prefix': '10.1016', 'volume': '35', 'author': [{'given': 'Endika', 'family': 'Bengoetxea', 'sequence': 'first', 'affiliation': []}, {'given': 'Pedro', 'family': 'Larrañaga', 'sequence': 'additional', 'affiliation': []}, {'given': 'Isabelle', 'family': 'Bloch', 'sequence': 'additional', 'affiliation': []}, {'given': 'Aymeric', 'family': 'Perchant', 'sequence': 'additional', 'affiliation': []}, {'given': 'Claudia', 'family': 'Boeres', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0031320301002321?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0031320301002321?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 9, 9]], 'date-time': '2017-09-09T14:33:42Z', 'timestamp': 1504967622000}, 'score': 112.563484, 'issued': {'date-parts': [[2002, 12]]}, 'references-count': 53, 'journal-issue': {'published-print': {'date-parts': [[2002, 12]]}, 'issue': '12'}, 'alternative-id': ['S0031320301002321'], 'URL': 'http://dx.doi.org/10.1016/s0031-3203(01)00232-1', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Inexact graph matching by means of estimation of distribution algorithms', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Henrion Propagating uncertainty in Bayesian networks by probabilistic logic sampling J.F. Lemmer, L.N. Kanal (Eds.), Uncertainty in Artificial Intelligence, vol. 2, North-Holland, Amsterdam (1988), pp. 149-163
+>>> DOI >>> 10.1016/b978-0-444-70396-5.50019-4
+>>> URL >>> http://dx.doi.org/10.1016/b978-0-444-70396-5.50019-4
+>>> year >>> 1988.0
+>>> title >>> Propagating Uncertainty in Bayesian Networks by Probabilistic Logic Sampling
+>>> author >>> Max HENRION
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 83.0
+>>> subject >>> None
+>>> container_title >>> ['Uncertainty in Artificial Intelligence', 'Machine Intelligence and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 2]], 'date-time': '2018-06-02T07:02:37Z', 'timestamp': 1527922957959}, 'reference-count': 18, 'publisher': 'Elsevier', 'isbn-type': [{'value': '9780444703965', 'type': 'print'}], 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1988, 1, 1]], 'date-time': '1988-01-01T00:00:00Z', 'timestamp': 567993600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1988]]}, 'DOI': '10.1016/b978-0-444-70396-5.50019-4', 'type': 'book-chapter', 'created': {'date-parts': [[2014, 6, 19]], 'date-time': '2014-06-19T01:00:26Z', 'timestamp': 1403139626000}, 'page': '149-163', 'source': 'Crossref', 'is-referenced-by-count': 83, 'title': ['Propagating Uncertainty in Bayesian Networks by Probabilistic Logic Sampling'], 'prefix': '10.1016', 'author': [{'given': 'Max', 'family': 'HENRION', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Uncertainty in Artificial Intelligence', 'Machine Intelligence and Pattern Recognition'], 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:B9780444703965500194?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:B9780444703965500194?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T15:08:53Z', 'timestamp': 1498144133000}, 'score': 109.06868, 'issued': {'date-parts': [[1988]]}, 'ISBN': ['9780444703965'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1016/b978-0-444-70396-5.50019-4', 'ISSN': ['0923-0459'], 'issn-type': [{'value': '0923-0459', 'type': 'print'}]}
+>>> hash >>> ('Propagating Uncertainty in Bayesian Networks by Probabilistic Logic Sampling', 1988.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Whitley, J. Kauth, GENITOR: a different genetic algorithm, in: Proceedings of the Rocky Mountain Conference on Artificial Intelligence, vol. 2, 1988, pp. 118â€“130.
+>>> DOI >>> 10.1080/09528139008953723
+>>> URL >>> http://dx.doi.org/10.1080/09528139008953723
+>>> year >>> 1990.0
+>>> title >>> GENITOR II: a distributed genetic algorithm
+>>> author >>> DARRELL WHITLEY and TIMOTHY STARKWEATHER
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 111.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Experimental & Theoretical Artificial Intelligence']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T19:42:51Z', 'timestamp': 1525376571792}, 'reference-count': 28, 'publisher': 'Informa UK Limited', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Experimental & Theoretical Artificial Intelligence'], 'published-print': {'date-parts': [[1990, 7]]}, 'DOI': '10.1080/09528139008953723', 'type': 'journal-article', 'created': {'date-parts': [[2007, 7, 7]], 'date-time': '2007-07-07T13:48:39Z', 'timestamp': 1183816119000}, 'page': '189-214', 'source': 'Crossref', 'is-referenced-by-count': 111, 'title': ['GENITOR II: a distributed genetic algorithm'], 'prefix': '10.1080', 'volume': '2', 'author': [{'given': 'DARRELL', 'family': 'WHITLEY', 'sequence': 'first', 'affiliation': []}, {'given': 'TIMOTHY', 'family': 'STARKWEATHER', 'sequence': 'additional', 'affiliation': []}], 'member': '301', 'reference': [{'key': 'CIT0001', 'author': 'Baker. J.', 'year': '1989', 'volume-title': 'Proceedings of the Third International Conference on Genetic Algorithms'}, {'key': 'CIT0002', 'author': 'Booker L.', 'first-page': '61', 'year': '1987', 'volume-title': 'Genetic Algorithms and Simulated Annealing'}, {'key': 'CIT0003', 'author': 'Bridges C.', 'year': '1987', 'volume-title': 'Genetic Algorithms and Their Applications Proceedings of the Second International Conference'}, {'key': 'CIT0004', 'author': 'Brown D.', 'year': '1989', 'volume-title': 'Proceedings of the Third International Conference on Genetic Algorithms'}, {'key': 'CIT0005', 'author': 'Cohonn', 'year': '1987', 'volume-title': 'Genetic Algorithms and Their Applications Proceedings of the Second International Conference'}, {'key': 'CIT0006', 'unstructured': 'DeJong , K. ( 1975 ) An analysis of the behavior of a class of genetic adaptive systems. Ph.D. dissertation . University of Michigan . Ann Arbor .'}, {'key': 'CIT0007', 'author': 'Goldberg D.', 'year': '1989', 'volume-title': 'Genetic Algorithms in Search. Optimization and Machine Learning'}, {'key': 'CIT0008', 'unstructured': 'Goldberg , D. Korb . B. and Deb , K. ( 1989 ) Messy genetic algorithms motivation, analysis, and first results . TCGA Report No. 89003 . ( To appear in Complex Systems. )'}, {'key': 'CIT0009', 'author': 'Gorgcs-Schcuter M.', 'year': '1989', 'volume-title': 'Proceedings of the Third International Conference on Genetic Algorithms'}, {'key': 'CIT0010', 'DOI': '10.1109/TSMC.1986.289288', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0011', 'author': 'Holland J.H.', 'year': '1975', 'volume-title': 'Adaptation in Natural and Artificial Systems'}, {'key': 'CIT0012', 'author': 'Jog P.', 'year': '1987', 'volume-title': 'Genetic Algorithms and Their Applications Proceedings of the Second International Conference'}, {'key': 'CIT0013', 'author': 'Maridcrick B.', 'year': '1989', 'volume-title': 'Proceedings of the Third International Conference on Genetic Algorithms'}, {'key': 'CIT0014', 'author': 'Muhlcnbcin H.', 'year': '1989', 'volume-title': 'Proceedings of the Third International Conference on Genetic Algorithms'}, {'key': 'CIT0015', 'author': 'Oliver I.', 'year': '1987', 'volume-title': 'Genetic Algorithms and Their Applications Proceedings of the Second International Conference'}, {'key': 'CIT0016', 'author': 'Pcttcy C.', 'year': '1989', 'volume-title': 'Proceedings of the Third International Conference on Genetic Algorithms'}, {'key': 'CIT0017', 'author': 'Rumclhart D.', 'year': '1986', 'volume-title': 'Parallel Distributed Processing Explorations in the Microstructure of Cognition,'}, {'key': 'CIT0018', 'author': 'Schaffer D.', 'first-page': '89', 'year': '1987', 'volume-title': 'Genetic Algorithms and Simulated Annealing'}, {'key': 'CIT0019', 'author': 'Tancsc R.', 'year': '1987', 'volume-title': 'Genetic Algorithms and Their Applications Proceedings of the Second International Conference'}, {'key': 'CIT0020', 'author': 'Tanese R.', 'year': '1989', 'volume-title': 'Proceedings of the Third International Conference on Genetic Algorithms'}, {'key': 'CIT0021', 'author': 'Whitley D.', 'first-page': '118', 'year': '1988', 'volume-title': 'Proceedings of the Rocky Mountain Conference on Artificial Intelligence,'}, {'key': 'CIT0022', 'unstructured': 'Whitley , D. and Kauth , J. ( 1988b ) Sampling long schemata in genetic algorithms . Technical Report CS-88-105 , Department of Computer Science, Colorado State University .'}, {'key': 'CIT0023', 'unstructured': 'Whitley , D. and Shaner , D. ( 1988 ) Representation issues in genetic algorithms . Technical Report CS-88-102 , Department of Computer Science, Colorado State University , Fort Collins , CO .'}, {'key': 'CIT0024', 'author': 'Whitley D.', 'year': '1989', 'volume-title': 'Proceedings of the Third International Conference on Genetic Algorithms'}, {'key': 'CIT0025', 'unstructured': 'Whitley , D. ( 1989b ) The multicross schema theorem predicting string gains during genetic recombination . Technical Report CS-89-101 , Department of Computer Science, Colorado State University . 1989.'}, {'key': 'CIT0026', 'author': 'Whitley D.', 'year': '1989', 'volume-title': 'Proceedings of the Third International Conference on Genetic Algorithms'}, {'key': 'CIT0027', 'author': 'Whitley D.', 'year': '1989', 'volume-title': 'Proceedings of the Third International Conference on Genetic Algorithms'}, {'key': 'CIT0028', 'DOI': '10.1016/0167-8191(90)90086-O', 'doi-asserted-by': 'publisher'}], 'container-title': ['Journal of Experimental & Theoretical Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://www.tandfonline.com/doi/pdf/10.1080/09528139008953723', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T01:37:59Z', 'timestamp': 1481765879000}, 'score': 48.184578, 'issued': {'date-parts': [[1990, 7]]}, 'references-count': 28, 'journal-issue': {'published-print': {'date-parts': [[1990, 7]]}, 'issue': '3'}, 'alternative-id': ['10.1080/09528139008953723'], 'URL': 'http://dx.doi.org/10.1080/09528139008953723', 'relation': {'cites': []}, 'ISSN': ['0952-813X', '1362-3079'], 'issn-type': [{'value': '0952-813X', 'type': 'print'}, {'value': '1362-3079', 'type': 'electronic'}]}
+>>> hash >>> ('GENITOR II: a distributed genetic algorithm', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A.D.J. Cross, E.R. Hancock Convergence of a Hill Climbing Genetic Algorithm for Graph Matching Lecture Notes in Computer Science, vol. 1654 (1999)
+>>> DOI >>> 10.1007/3-540-48432-9_16
+>>> URL >>> http://dx.doi.org/10.1007/3-540-48432-9_16
+>>> year >>> 1999.0
+>>> title >>> Convergence of a Hill Climbing Genetic Algorithm for Graph Matching
+>>> author >>> Andrew D. J. Cross and Edwin R. Hancock
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Energy Minimization Methods in Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T20:55:56Z', 'timestamp': 1525380956472}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540662945', 'type': 'print'}, {'value': '9783540484325', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1007/3-540-48432-9_16', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 7, 16]], 'date-time': '2007-07-16T15:53:20Z', 'timestamp': 1184601200000}, 'page': '221-236', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Convergence of a Hill Climbing Genetic Algorithm for Graph Matching'], 'prefix': '10.1007', 'author': [{'given': 'Andrew D. J.', 'family': 'Cross', 'sequence': 'first', 'affiliation': []}, {'given': 'Edwin R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2003, 5, 13]]}, 'container-title': ['Lecture Notes in Computer Science', 'Energy Minimization Methods in Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-48432-9_16', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 9, 3]], 'date-time': '2014-09-03T20:10:01Z', 'timestamp': 1409775001000}, 'score': 78.83683, 'issued': {'date-parts': [[1999]]}, 'ISBN': ['9783540662945', '9783540484325'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-48432-9_16', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('Convergence of a Hill Climbing Genetic Algorithm for Graph Matching', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Skomorowski Use of random graph parsing for scene labelling by probabilistic relaxation Pattern Recognition Lett., 20 (1999), pp. 949-956
+>>> DOI >>> 10.1016/s0167-8655(99)00062-8
+>>> URL >>> http://dx.doi.org/10.1016/s0167-8655(99)00062-8
+>>> year >>> 1999.0
+>>> title >>> Use of random graph parsing for scene labelling by probabilistic relaxation
+>>> author >>> Marek Skomorowski
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 10.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition Letters']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T00:29:17Z', 'timestamp': 1525307357901}, 'reference-count': 15, 'publisher': 'Elsevier BV', 'issue': '9', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1999, 9, 1]], 'date-time': '1999-09-01T00:00:00Z', 'timestamp': 936144000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition Letters'], 'published-print': {'date-parts': [[1999, 9]]}, 'DOI': '10.1016/s0167-8655(99)00062-8', 'type': 'journal-article', 'created': {'date-parts': [[2003, 4, 7]], 'date-time': '2003-04-07T18:52:00Z', 'timestamp': 1049741520000}, 'page': '949-956', 'source': 'Crossref', 'is-referenced-by-count': 10, 'title': ['Use of random graph parsing for scene labelling by probabilistic relaxation'], 'prefix': '10.1016', 'volume': '20', 'author': [{'given': 'Marek', 'family': 'Skomorowski', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition Letters'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0167865599000628?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0167865599000628?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 10, 12]], 'date-time': '2017-10-12T11:19:39Z', 'timestamp': 1507807179000}, 'score': 121.90985, 'issued': {'date-parts': [[1999, 9]]}, 'references-count': 15, 'journal-issue': {'published-print': {'date-parts': [[1999, 9]]}, 'issue': '9'}, 'alternative-id': ['S0167865599000628'], 'URL': 'http://dx.doi.org/10.1016/s0167-8655(99)00062-8', 'ISSN': ['0167-8655'], 'issn-type': [{'value': '0167-8655', 'type': 'print'}]}
+>>> hash >>> ('Use of random graph parsing for scene labelling by probabilistic relaxation', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R.C. Wilson, E.R. Hancock A Bayesian compatibility model for graph matching Pattern Recognition Lett., 17 (3) (1996), pp. 263-276
+>>> DOI >>> 10.1016/0167-8655(95)00115-8
+>>> URL >>> http://dx.doi.org/10.1016/0167-8655(95)00115-8
+>>> year >>> 1996.0
+>>> title >>> A Bayesian compatibility model for graph matching
+>>> author >>> Richard C. Wilson and Edwin R. Hancock
+>>> reference_count >>> 23.0
+>>> is_referenced_by_count >>> 34.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition Letters']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T00:29:28Z', 'timestamp': 1525307368303}, 'reference-count': 23, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1996, 3, 1]], 'date-time': '1996-03-01T00:00:00Z', 'timestamp': 825638400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition Letters'], 'published-print': {'date-parts': [[1996, 3]]}, 'DOI': '10.1016/0167-8655(95)00115-8', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T23:20:02Z', 'timestamp': 1027639202000}, 'page': '263-276', 'source': 'Crossref', 'is-referenced-by-count': 34, 'title': ['A Bayesian compatibility model for graph matching'], 'prefix': '10.1016', 'volume': '17', 'author': [{'given': 'Richard C.', 'family': 'Wilson', 'sequence': 'first', 'affiliation': []}, {'given': 'Edwin R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition Letters'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0167865595001158?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0167865595001158?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T01:52:17Z', 'timestamp': 1497491537000}, 'score': 90.94878, 'issued': {'date-parts': [[1996, 3]]}, 'references-count': 23, 'journal-issue': {'published-print': {'date-parts': [[1996, 3]]}, 'issue': '3'}, 'alternative-id': ['0167865595001158'], 'URL': 'http://dx.doi.org/10.1016/0167-8655(95)00115-8', 'ISSN': ['0167-8655'], 'issn-type': [{'value': '0167-8655', 'type': 'print'}]}
+>>> hash >>> ('A Bayesian compatibility model for graph matching', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A.W. Finch, R.C. Wilson, E.R. Hancock Symbolic graph matching with the EM algorithm Pattern Recognition, 31 (11) (1998), pp. 1777-1790
+>>> DOI >>> 10.1016/s0031-3203(98)00010-7
+>>> URL >>> http://dx.doi.org/10.1016/s0031-3203(98)00010-7
+>>> year >>> 1998.0
+>>> title >>> SYMBOLIC GRAPH MATCHING WITH THE EM ALGORITHM
+>>> author >>> ANDREW M. FINCH and RICHARD C. WILSON and EDWIN R. HANCOCK
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 22.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T22:03:54Z', 'timestamp': 1525298634856}, 'reference-count': 0, 'publisher': 'Elsevier BV', 'issue': '11', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1998, 11, 1]], 'date-time': '1998-11-01T00:00:00Z', 'timestamp': 909878400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[1998, 11]]}, 'DOI': '10.1016/s0031-3203(98)00010-7', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T15:01:39Z', 'timestamp': 1027609299000}, 'page': '1777-1790', 'source': 'Crossref', 'is-referenced-by-count': 22, 'title': ['SYMBOLIC GRAPH MATCHING WITH THE EM ALGORITHM'], 'prefix': '10.1016', 'volume': '31', 'author': [{'given': 'ANDREW M.', 'family': 'FINCH', 'sequence': 'first', 'affiliation': []}, {'given': 'RICHARD C.', 'family': 'WILSON', 'sequence': 'additional', 'affiliation': []}, {'given': 'EDWIN R.', 'family': 'HANCOCK', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0031320398000107?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0031320398000107?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2015, 9, 3]], 'date-time': '2015-09-03T07:54:30Z', 'timestamp': 1441266870000}, 'score': 107.85182, 'issued': {'date-parts': [[1998, 11]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1998, 11]]}, 'issue': '11'}, 'alternative-id': ['S0031320398000107'], 'URL': 'http://dx.doi.org/10.1016/s0031-3203(98)00010-7', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('SYMBOLIC GRAPH MATCHING WITH THE EM ALGORITHM', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. MÃ¼hlenbein, T. Mahning The factorized distribution algorithm for additively decomposed functions Second Symposium on Artificial Intelligence Adaptive Systems, CIMAF 99, Havana, Cuba (1999), pp. 301-313
+>>> DOI >>> 10.1109/cec.1999.782008
+>>> URL >>> http://dx.doi.org/10.1109/cec.1999.782008
+>>> year >>> None
+>>> title >>> The Factorized Distribution Algorithm for additively decomposed functions
+>>> author >>> H. Muhlenbein and T. Mahnig
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 17.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the 1999 Congress on Evolutionary Computation-CEC99 (Cat. No. 99TH8406)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T14:10:56Z', 'timestamp': 1525356656459}, 'reference-count': 17, 'publisher': 'IEEE', 'isbn-type': [{'value': '0780355369', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cec.1999.782008', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 1, 20]], 'date-time': '2003-01-20T17:29:30Z', 'timestamp': 1043083770000}, 'source': 'Crossref', 'is-referenced-by-count': 17, 'title': ['The Factorized Distribution Algorithm for additively decomposed functions'], 'prefix': '10.1109', 'author': [{'given': 'H.', 'family': 'Muhlenbein', 'sequence': 'first', 'affiliation': []}, {'given': 'T.', 'family': 'Mahnig', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '1999. Congress on Evolutionary Computation-CEC99', 'location': 'Washington, DC, USA', 'acronym': 'CEC-99'}, 'container-title': ['Proceedings of the 1999 Congress on Evolutionary Computation-CEC99 (Cat. No. 99TH8406)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6342/16952/00782008.pdf?arnumber=782008', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 11]], 'date-time': '2017-03-11T01:16:05Z', 'timestamp': 1489194965000}, 'score': 57.88093, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0780355369'], 'references-count': 17, 'URL': 'http://dx.doi.org/10.1109/cec.1999.782008'}
+>>> hash >>> ('The Factorized Distribution Algorithm for additively decomposed functions', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R.M. Cesar Jr., I. Bloch First results on facial feature segmentation and recognition using graph homomorphisms VI SimpÃ³sio Ibero-Americano de Reconhecimento de Padr oes SIARP 2001, Florianapolis, Brazil (2001), pp. 95-99
+>>> DOI >>> 10.1109/icpr.2002.1048339
+>>> URL >>> http://dx.doi.org/10.1109/icpr.2002.1048339
+>>> year >>> None
+>>> title >>> Inexact graph matching using stochastic optimization techniques for facial feature recognition
+>>> author >>> R. Cesar and E. Bengoetxea and I. Bloch
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['Object recognition supported by user interaction for service robots']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T19:21:21Z', 'timestamp': 1525375281111}, 'reference-count': 10, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '076951695X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icpr.2002.1048339', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 6, 25]], 'date-time': '2003-06-25T23:36:53Z', 'timestamp': 1056584213000}, 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Inexact graph matching using stochastic optimization techniques for facial feature recognition'], 'prefix': '10.1109', 'author': [{'given': 'R.', 'family': 'Cesar', 'sequence': 'first', 'affiliation': []}, {'given': 'E.', 'family': 'Bengoetxea', 'sequence': 'additional', 'affiliation': []}, {'given': 'I.', 'family': 'Bloch', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '16th International Conference on Pattern Recognition', 'location': 'Quebec City, Que., Canada', 'acronym': 'ICPR-02'}, 'container-title': ['Object recognition supported by user interaction for service robots'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8091/22464/01048339.pdf?arnumber=1048339', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 13]], 'date-time': '2017-03-13T22:04:20Z', 'timestamp': 1489442660000}, 'score': 53.33702, 'issued': {'date-parts': [[None]]}, 'ISBN': ['076951695X'], 'references-count': 10, 'URL': 'http://dx.doi.org/10.1109/icpr.2002.1048339'}
+>>> hash >>> ('Inexact graph matching using stochastic optimization techniques for facial feature recognition', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R.M. Cesar Jr., E. Bengoetxea, I. Bloch, Inexact graph matching using stochastic optimization techniques for facial, in: Proceedings of the International Conference on Pattern Recognition, ICPR 2002, vol. 2, QuÃ©bec, Canada, 2002, pp. 465â€“468.
+>>> DOI >>> 10.1109/icpr.2002.1048339
+>>> URL >>> http://dx.doi.org/10.1109/icpr.2002.1048339
+>>> year >>> None
+>>> title >>> Inexact graph matching using stochastic optimization techniques for facial feature recognition
+>>> author >>> R. Cesar and E. Bengoetxea and I. Bloch
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['Object recognition supported by user interaction for service robots']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T19:21:21Z', 'timestamp': 1525375281111}, 'reference-count': 10, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '076951695X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icpr.2002.1048339', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 6, 25]], 'date-time': '2003-06-25T23:36:53Z', 'timestamp': 1056584213000}, 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Inexact graph matching using stochastic optimization techniques for facial feature recognition'], 'prefix': '10.1109', 'author': [{'given': 'R.', 'family': 'Cesar', 'sequence': 'first', 'affiliation': []}, {'given': 'E.', 'family': 'Bengoetxea', 'sequence': 'additional', 'affiliation': []}, {'given': 'I.', 'family': 'Bloch', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '16th International Conference on Pattern Recognition', 'location': 'Quebec City, Que., Canada', 'acronym': 'ICPR-02'}, 'container-title': ['Object recognition supported by user interaction for service robots'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8091/22464/01048339.pdf?arnumber=1048339', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 13]], 'date-time': '2017-03-13T22:04:20Z', 'timestamp': 1489442660000}, 'score': 97.08831, 'issued': {'date-parts': [[None]]}, 'ISBN': ['076951695X'], 'references-count': 10, 'URL': 'http://dx.doi.org/10.1109/icpr.2002.1048339'}
+>>> hash >>> ('Inexact graph matching using stochastic optimization techniques for facial feature recognition', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Pantic, L.J.M. Rothkrantz Automatic analysis of facial expressions: the state of the art IEEE Trans. Pattern Anal. Mach. Intell., 22 (12) (2000), pp. 1424-1445
+>>> DOI >>> 10.1109/34.895976
+>>> URL >>> http://dx.doi.org/10.1109/34.895976
+>>> year >>> 2000.0
+>>> title >>> Automatic analysis of facial expressions: the state of the art
+>>> author >>> M. Pantie and L.J.M. Rothkrantz
+>>> reference_count >>> 107.0
+>>> is_referenced_by_count >>> 736.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 4]], 'date-time': '2018-06-04T13:22:34Z', 'timestamp': 1528118554618}, 'reference-count': 107, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '12', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2000]]}, 'DOI': '10.1109/34.895976', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T18:17:23Z', 'timestamp': 1030213043000}, 'page': '1424-1445', 'source': 'Crossref', 'is-referenced-by-count': 736, 'title': ['Automatic analysis of facial expressions: the state of the art'], 'prefix': '10.1109', 'volume': '22', 'author': [{'given': 'M.', 'family': 'Pantie', 'sequence': 'first', 'affiliation': []}, {'given': 'L.J.M.', 'family': 'Rothkrantz', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/19391/00895976.pdf?arnumber=895976', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T07:42:56Z', 'timestamp': 1512978176000}, 'score': 99.14238, 'issued': {'date-parts': [[2000]]}, 'references-count': 107, 'journal-issue': {'issue': '12'}, 'URL': 'http://dx.doi.org/10.1109/34.895976', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Automatic analysis of facial expressions: the state of the art', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R.S. Feris, V. Krueger, R.M. Cesar Jr., Efficient real-time face tracking in wavelet subspace, in: Proceedings of the Second International Workshop on Recognition, Analysis and Tracking of Faces and Gestures in Real-time Systems, Eighth IEEE International Conference on Computer Vision, RATFG-RTSâ€”ICCV 2001â€”Vancouver, Canada, 2001, pp. 113â€“118.
+>>> DOI >>> 10.1109/ratfg.2001.938919
+>>> URL >>> http://dx.doi.org/10.1109/ratfg.2001.938919
+>>> year >>> None
+>>> title >>> Efficient real-time face tracking in wavelet subspace
+>>> author >>> R.S. Feris and R.M. Cesar and V. Kruger
+>>> reference_count >>> 11.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings IEEE ICCV Workshop on Recognition, Analysis, and Tracking of Faces and Gestures in Real-Time Systems']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T11:45:52Z', 'timestamp': 1525347952704}, 'reference-count': 11, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769510744', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/ratfg.2001.938919', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 13]], 'date-time': '2002-11-13T17:02:15Z', 'timestamp': 1037206935000}, 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Efficient real-time face tracking in wavelet subspace'], 'prefix': '10.1109', 'author': [{'given': 'R.S.', 'family': 'Feris', 'sequence': 'first', 'affiliation': []}, {'given': 'R.M.', 'family': 'Cesar', 'sequence': 'additional', 'affiliation': []}, {'given': 'V.', 'family': 'Kruger', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'IEEE ICCV Workshop on Recognition, Analysis, and Tracking of Faces and Gestures in Real-Time Systems', 'location': 'Vancouver, BC, Canada', 'acronym': 'RATFG-01'}, 'container-title': ['Proceedings IEEE ICCV Workshop on Recognition, Analysis, and Tracking of Faces and Gestures in Real-Time Systems'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/7480/20325/00938919.pdf?arnumber=938919', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T19:46:27Z', 'timestamp': 1489175187000}, 'score': 136.063, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769510744'], 'references-count': 11, 'URL': 'http://dx.doi.org/10.1109/ratfg.2001.938919'}
+>>> hash >>> ('Efficient real-time face tracking in wavelet subspace', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Z. Michalewicz Genetic Algorithms+Data Structures = Evolution Programs Springer, Berlin, Heidelberg (1992)
+>>> DOI >>> 10.1007/978-3-662-02830-8
+>>> URL >>> http://dx.doi.org/10.1007/978-3-662-02830-8
+>>> year >>> 1992.0
+>>> title >>> Genetic Algorithms + Data Structures = Evolution Programs
+>>> author >>> Zbigniew Michalewicz
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 788.0
+>>> subject >>> None
+>>> container_title >>> ['Artificial Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T07:02:27Z', 'timestamp': 1528268547158}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783662028322', 'type': 'print'}, {'value': '9783662028308', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1992]]}, 'DOI': '10.1007/978-3-662-02830-8', 'type': 'book', 'created': {'date-parts': [[2013, 4, 30]], 'date-time': '2013-04-30T18:01:32Z', 'timestamp': 1367344892000}, 'source': 'Crossref', 'is-referenced-by-count': 788, 'title': ['Genetic Algorithms + Data Structures = Evolution Programs'], 'prefix': '10.1007', 'author': [{'given': 'Zbigniew', 'family': 'Michalewicz', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Artificial Intelligence'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-662-02830-8', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 8, 17]], 'date-time': '2016-08-17T13:30:04Z', 'timestamp': 1471440604000}, 'score': 64.61589, 'issued': {'date-parts': [[1992]]}, 'ISBN': ['9783662028322', '9783662028308'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-662-02830-8', 'ISSN': ['1431-0066'], 'issn-type': [{'value': '1431-0066', 'type': 'print'}]}
+>>> hash >>> ('Genetic Algorithms + Data Structures = Evolution Programs', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Gold, A. Rangarajan A graduated assignment algorithm for graph matching IEEE Trans. Pattern Anal. Mach. Intell., 18 (4) (1996), pp. 377-388
+>>> DOI >>> 10.1109/34.491619
+>>> URL >>> http://dx.doi.org/10.1109/34.491619
+>>> year >>> 1996.0
+>>> title >>> A graduated assignment algorithm for graph matching
+>>> author >>> S. Gold and A. Rangarajan
+>>> reference_count >>> 58.0
+>>> is_referenced_by_count >>> 504.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:33Z', 'timestamp': 1525333533505}, 'reference-count': 58, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1996, 4]]}, 'DOI': '10.1109/34.491619', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '377-388', 'source': 'Crossref', 'is-referenced-by-count': 504, 'title': ['A graduated assignment algorithm for graph matching'], 'prefix': '10.1109', 'volume': '18', 'author': [{'given': 'S.', 'family': 'Gold', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Rangarajan', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/10562/00491619.pdf?arnumber=491619', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:28:39Z', 'timestamp': 1497522519000}, 'score': 99.67958, 'issued': {'date-parts': [[1996, 4]]}, 'references-count': 58, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/34.491619', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A graduated assignment algorithm for graph matching', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Brunelli, T. Poggio Face recognition: features versus templates IEEE Trans. Pattern Anal. Mach. Intell., 15 (10) (1993), pp. 1042-1052
+>>> DOI >>> 10.1109/34.254061
+>>> URL >>> http://dx.doi.org/10.1109/34.254061
+>>> year >>> 1993.0
+>>> title >>> Face recognition: features versus templates
+>>> author >>> R. Brunelli and T. Poggio
+>>> reference_count >>> 36.0
+>>> is_referenced_by_count >>> 1236.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 16]], 'date-time': '2018-05-16T23:22:32Z', 'timestamp': 1526512952191}, 'reference-count': 36, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '10', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1993]]}, 'DOI': '10.1109/34.254061', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T17:57:42Z', 'timestamp': 1030211862000}, 'page': '1042-1052', 'source': 'Crossref', 'is-referenced-by-count': 1236, 'title': ['Face recognition: features versus templates'], 'prefix': '10.1109', 'volume': '15', 'author': [{'given': 'R.', 'family': 'Brunelli', 'sequence': 'first', 'affiliation': []}, {'given': 'T.', 'family': 'Poggio', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/6467/00254061.pdf?arnumber=254061', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T03:51:39Z', 'timestamp': 1489031499000}, 'score': 101.51425, 'issued': {'date-parts': [[1993]]}, 'references-count': 36, 'journal-issue': {'issue': '10'}, 'URL': 'http://dx.doi.org/10.1109/34.254061', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Face recognition: features versus templates', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M.L. Williams, R.C. Wilson, E.R. Hancock Deterministic search for relational graph matching Pattern Recognition, 32 (1999), pp. 1255-1271
+>>> DOI >>> 10.1016/s0031-3203(98)00152-6
+>>> URL >>> http://dx.doi.org/10.1016/s0031-3203(98)00152-6
+>>> year >>> 1999.0
+>>> title >>> Deterministic search for relational graph matching
+>>> author >>> Mark L. Williams and Richard C. Wilson and Edwin R. Hancock
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 30.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T22:03:50Z', 'timestamp': 1525298630253}, 'reference-count': 0, 'publisher': 'Elsevier BV', 'issue': '7', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1999, 7, 1]], 'date-time': '1999-07-01T00:00:00Z', 'timestamp': 930787200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[1999, 7]]}, 'DOI': '10.1016/s0031-3203(98)00152-6', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T15:01:39Z', 'timestamp': 1027609299000}, 'page': '1255-1271', 'source': 'Crossref', 'is-referenced-by-count': 30, 'title': ['Deterministic search for relational graph matching'], 'prefix': '10.1016', 'volume': '32', 'author': [{'given': 'Mark L.', 'family': 'Williams', 'sequence': 'first', 'affiliation': []}, {'given': 'Richard C.', 'family': 'Wilson', 'sequence': 'additional', 'affiliation': []}, {'given': 'Edwin R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0031320398001526?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0031320398001526?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2015, 9, 3]], 'date-time': '2015-09-03T07:54:15Z', 'timestamp': 1441266855000}, 'score': 105.42048, 'issued': {'date-parts': [[1999, 7]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1999, 7]]}, 'issue': '7'}, 'alternative-id': ['S0031320398001526'], 'URL': 'http://dx.doi.org/10.1016/s0031-3203(98)00152-6', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Deterministic search for relational graph matching', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> B.T. Messmer, H. Bunke Efficient subgraph isomorphism detection: a decomposition approach IEEE Trans. Knowledge Data Eng., 12 (2) (2000), pp. 307-323
+>>> DOI >>> 10.1109/69.842269
+>>> URL >>> http://dx.doi.org/10.1109/69.842269
+>>> year >>> 2000.0
+>>> title >>> Efficient subgraph isomorphism detection: a decomposition approach
+>>> author >>> B.T. Messmer and H. Bunke
+>>> reference_count >>> 42.0
+>>> is_referenced_by_count >>> 72.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Knowledge and Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:30:40Z', 'timestamp': 1525332640778}, 'reference-count': 42, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Knowl. Data Eng.'], 'published-print': {'date-parts': [[2000]]}, 'DOI': '10.1109/69.842269', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T19:16:32Z', 'timestamp': 1030216592000}, 'page': '307-323', 'source': 'Crossref', 'is-referenced-by-count': 72, 'title': ['Efficient subgraph isomorphism detection: a decomposition approach'], 'prefix': '10.1109', 'volume': '12', 'author': [{'given': 'B.T.', 'family': 'Messmer', 'sequence': 'first', 'affiliation': []}, {'given': 'H.', 'family': 'Bunke', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Knowledge and Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/69/18239/00842269.pdf?arnumber=842269', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:09:50Z', 'timestamp': 1497521390000}, 'score': 102.29166, 'issued': {'date-parts': [[2000]]}, 'references-count': 42, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1109/69.842269', 'ISSN': ['1041-4347'], 'issn-type': [{'value': '1041-4347', 'type': 'print'}]}
+>>> hash >>> ('Efficient subgraph isomorphism detection: a decomposition approach', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J.H. Holland Adaptation in Natural and Artificial Systems The University of Michigan Press, Michigan (1979)
+>>> DOI >>> 10.1145/1216504.1216510
+>>> URL >>> http://dx.doi.org/10.1145/1216504.1216510
+>>> year >>> 1975.0
+>>> title >>> Review of "Adaptation in Natural and Artificial Systems by John H. Holland", The U. of Michigan Press, 1975
+>>> author >>> Frederick Hayes-Roth
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['ACM SIGART Bulletin']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T14:45:42Z', 'timestamp': 1525358742333}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '53', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIGART Bull.'], 'published-print': {'date-parts': [[1975, 8, 1]]}, 'DOI': '10.1145/1216504.1216510', 'type': 'journal-article', 'created': {'date-parts': [[2007, 4, 5]], 'date-time': '2007-04-05T19:52:18Z', 'timestamp': 1175802738000}, 'page': '15', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Review of "Adaptation in Natural and Artificial Systems by John H. Holland", The U. of Michigan Press, 1975'], 'prefix': '10.1145', 'author': [{'given': 'Frederick', 'family': 'Hayes-Roth', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'container-title': ['ACM SIGART Bulletin'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1216510&amp;ftid=388118&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T14:37:28Z', 'timestamp': 1481899048000}, 'score': 44.95513, 'issued': {'date-parts': [[1975, 8, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1975, 8, 1]]}, 'issue': '53'}, 'URL': 'http://dx.doi.org/10.1145/1216504.1216510', 'ISSN': ['0163-5719'], 'issn-type': [{'value': '0163-5719', 'type': 'print'}]}
+>>> hash >>> ('Review of "Adaptation in Natural and Artificial Systems by John H. Holland", The U. of Michigan Press, 1975', 1975.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D.E. Goldberg Genetic Algorithms in Search, Optimization, and Machine Learning Addison/Wesley, Reading, MA (1989)
+>>> DOI >>> 10.5860/choice.27-0936
+>>> URL >>> http://dx.doi.org/10.5860/choice.27-0936
+>>> year >>> 1989.0
+>>> title >>> Genetic algorithms in search, optimization, and machine learning
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 18.0
+>>> subject >>> None
+>>> container_title >>> ['Choice Reviews Online']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T23:42:28Z', 'timestamp': 1528328548337}, 'reference-count': 0, 'publisher': 'American Library Association', 'issue': '02', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Choice Reviews Online'], 'published-print': {'date-parts': [[1989, 10, 1]]}, 'DOI': '10.5860/choice.27-0936', 'type': 'journal-article', 'created': {'date-parts': [[2013, 1, 23]], 'date-time': '2013-01-23T23:50:34Z', 'timestamp': 1358985034000}, 'page': '27-0936-27-0936', 'source': 'Crossref', 'is-referenced-by-count': 18, 'title': ['Genetic algorithms in search, optimization, and machine learning'], 'prefix': '10.5860', 'volume': '27', 'member': '3932', 'container-title': ['Choice Reviews Online'], 'language': 'en', 'deposited': {'date-parts': [[2016, 8, 11]], 'date-time': '2016-08-11T13:55:33Z', 'timestamp': 1470923733000}, 'score': 43.022343, 'issued': {'date-parts': [[1989, 10, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1989, 10, 1]]}, 'issue': '02'}, 'URL': 'http://dx.doi.org/10.5860/choice.27-0936', 'ISSN': ['0009-4978', '1523-8253'], 'issn-type': [{'value': '0009-4978', 'type': 'print'}, {'value': '1523-8253', 'type': 'electronic'}]}
+>>> hash >>> ('Genetic algorithms in search, optimization, and machine learning', 1989.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Baluja, S. Davies, Using optimal dependency-trees for combinatorial optimization: Learning the structure of the search space, Technical Report, Carnegie Mellon Report, CMU-CS-97-107, 1997.
+>>> DOI >>> 10.2172/5264558
+>>> URL >>> http://dx.doi.org/10.2172/5264558
+>>> year >>> 1980.0
+>>> title >>> Development of a Foam OTEC System. Final technical report for Fiscal Year 1979
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'Oak Ridge National Laboratory (ORNL)', 'place': ['Oak Ridge, TN (United States)', '-', '-'], 'acronym': ['ORNL', '-', '-']}, 'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T19:24:50Z', 'timestamp': 1525721090954}, 'reference-count': 0, 'publisher': 'Office of Scientific and Technical Information  (OSTI)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.2172/5264558', 'type': 'report', 'created': {'date-parts': [[2013, 6, 22]], 'date-time': '2013-06-22T02:36:00Z', 'timestamp': 1371868560000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Development of a Foam OTEC System. Final technical report for Fiscal Year 1979'], 'prefix': '10.2172', 'author': [{'name': 'Carnegie-Mellon Univ., Pittsburgh, PA (USA)', 'sequence': 'first', 'affiliation': []}], 'member': '960', 'published-online': {'date-parts': [[1980, 1, 1]]}, 'deposited': {'date-parts': [[2013, 6, 22]], 'date-time': '2013-06-22T02:36:01Z', 'timestamp': 1371868561000}, 'score': 40.913483, 'issued': {'date-parts': [[1980, 1, 1]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.2172/5264558'}
+>>> hash >>> ('Development of a Foam OTEC System. Final technical report for Fiscal Year 1979', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. Bengoetxea, P. LarraÃ±aga, I. Bloch, A. Perchant, C. Boeres Inexact graph matching by means of estimation of distribution algorithms Pattern Recognition, 35 (2002), pp. 2867-2880
+>>> DOI >>> 10.1016/s0031-3203(01)00232-1
+>>> URL >>> http://dx.doi.org/10.1016/s0031-3203(01)00232-1
+>>> year >>> 2002.0
+>>> title >>> Inexact graph matching by means of estimation of distribution algorithms
+>>> author >>> Endika Bengoetxea and Pedro Larrañaga and Isabelle Bloch and Aymeric Perchant and Claudia Boeres
+>>> reference_count >>> 53.0
+>>> is_referenced_by_count >>> 46.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database72.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T21:48:05Z', 'timestamp': 1525297685685}, 'reference-count': 53, 'publisher': 'Elsevier BV', 'issue': '12', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2002, 12, 1]], 'date-time': '2002-12-01T00:00:00Z', 'timestamp': 1038700800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[2002, 12]]}, 'DOI': '10.1016/s0031-3203(01)00232-1', 'type': 'journal-article', 'created': {'date-parts': [[2002, 10, 11]], 'date-time': '2002-10-11T21:46:03Z', 'timestamp': 1034372763000}, 'page': '2867-2880', 'source': 'Crossref', 'is-referenced-by-count': 46, 'title': ['Inexact graph matching by means of estimation of distribution algorithms'], 'prefix': '10.1016', 'volume': '35', 'author': [{'given': 'Endika', 'family': 'Bengoetxea', 'sequence': 'first', 'affiliation': []}, {'given': 'Pedro', 'family': 'Larrañaga', 'sequence': 'additional', 'affiliation': []}, {'given': 'Isabelle', 'family': 'Bloch', 'sequence': 'additional', 'affiliation': []}, {'given': 'Aymeric', 'family': 'Perchant', 'sequence': 'additional', 'affiliation': []}, {'given': 'Claudia', 'family': 'Boeres', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0031320301002321?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0031320301002321?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 9, 9]], 'date-time': '2017-09-09T14:33:42Z', 'timestamp': 1504967622000}, 'score': 131.07562, 'issued': {'date-parts': [[2002, 12]]}, 'references-count': 53, 'journal-issue': {'published-print': {'date-parts': [[2002, 12]]}, 'issue': '12'}, 'alternative-id': ['S0031320301002321'], 'URL': 'http://dx.doi.org/10.1016/s0031-3203(01)00232-1', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Inexact graph matching by means of estimation of distribution algorithms', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

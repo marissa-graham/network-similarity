@@ -1,0 +1,105 @@
+[0] Roberto M. Cesar Jr., Endika Bengoetxea, Isabelle Bloch, Pedro Larrañaga, Inexact graph matching for model-based recognition: Evaluation and comparison of optimization algorithms
+[1] B.T. Messmer, H. Bunke
+Efficient subgraph isomorphism detection: a decomposition approach
+IEEE Trans. Knowledge Data Eng., 12 (2) (2000), pp. 307-323
+[2] R.C. Wilson, E.R. Hancock
+A Bayesian compatibility model for graph matching
+Pattern Recognition Lett., 17 (3) (1996), pp. 263-276
+[3] A.D.J. Cross, E.R. Hancock
+Convergence of a Hill Climbing Genetic Algorithm for Graph Matching
+Lecture Notes in Computer Science, vol. 1654 (1999)
+[4] A.W. Finch, R.C. Wilson, E.R. Hancock
+Matching Delaunay graphs
+Pattern Recognition, 30 (1) (1997), pp. 123-140
+[5] S. Gold, A. Rangarajan
+A graduated assignment algorithm for graph matching
+IEEE Trans. Pattern Anal. Mach. Intell., 18 (4) (1996), pp. 377-388
+[6] A.D.J. Cross, E.R. Hancock
+Graph matching with a dual-step EM algorithm
+IEEE Trans. Pattern Anal. Mach. Intell., 20 (11) (1998), pp. 1236-1253
+[7] A.W. Finch, R.C. Wilson, E.R. Hancock
+Symbolic graph matching with the EM algorithm
+Pattern Recognition, 31 (11) (1998), pp. 1777-1790
+[8] P. Larrañaga, J.A. Lozano (Eds.), Estimation of Distribution Algorithms. A New Tool for Evolutionary Computation, Kluwer Academic Publishers, Dordrecht, 2001.
+[9] A. Perchant, C. Boeres, I. Bloch, M. Roux, C. Ribeiro, Model-based scene recognition using graph fuzzy homomorphism solved by genetic algorithm, in: GbR’99 Second International Workshop on Graph-Based Representations in Pattern Recognition, Castle of Haindorf, Austria, 1999, pp. 61–70.
+[10] A. Deruyver, Y. Hodé
+Constraint satisfaction problem with bilevel constraint: application to interpretation of over-segmented images
+Artif. Intell., 93 (1997), pp. 321-335
+[11] M.L. Williams, R.C. Wilson, E.R. Hancock
+Deterministic search for relational graph matching
+Pattern Recognition, 32 (1999), pp. 1255-1271
+[12] J.-P. Braquelaire, L. Brun
+Image segmentation with topological maps and inter-pixel representation
+J. Visual Commun. Image Representat., 9 (1) (1998), pp. 62-79
+[13] H. Bunke
+Error correcting graph matching: on the influence of the underlying cost function
+IEEE Trans. Pattern Anal. Mach. Intell., 21 (9) (1999), pp. 917-922
+[14] M. Skomorowski
+Use of random graph parsing for scene labelling by probabilistic relaxation
+Pattern Recognition Lett., 20 (1999), pp. 949-956
+[15] E. Bengoetxea, P. Larrañaga, I. Bloch, A. Perchant, C. Boeres
+Inexact graph matching by means of estimation of distribution algorithms
+Pattern Recognition, 35 (2002), pp. 2867-2880
+[16] M. Pantic, L.J.M. Rothkrantz
+Automatic analysis of facial expressions: the state of the art
+IEEE Trans. Pattern Anal. Mach. Intell., 22 (12) (2000), pp. 1424-1445
+[17] R. Brunelli, T. Poggio
+Face recognition: features versus templates
+IEEE Trans. Pattern Anal. Mach. Intell., 15 (10) (1993), pp. 1042-1052
+[18] R. Herpers, G. Sommer
+An attentive processing strategy for the analysis of facial features
+H. Wechsler, et al. (Eds.), Face Recognition: From Theory to Applications, NATO ASI Series F, vol. 163, Springer, Berlin (1998), pp. 457-468
+[19] E. Bengoetxea, P. Larrañaga, I. Bloch, A. Perchant
+Solving graph matching with EDAs using a permutation-based representation
+P. Larrañaga, J.A. Lozano (Eds.), Estimation of Distribution Algorithms: A New Tool for Evolutionary Computation, Kluwer Academic Publisher, Boston, Dordrecht, London (2001), pp. 239-261
+(Chapter 12)
+[20] A. Perchant, I. Bloch
+A new definition for fuzzy attributed graph homomorphism with application to structural shape recognition in brain imaging
+IMTC’99 16th IEEE Instrumentation and Measurement Technology Conference, Venice, Italy (1999), pp. 1801-1806
+[21] R.M. Cesar Jr., I. Bloch
+First results on facial feature segmentation and recognition using graph homomorphisms
+VI Simpósio Ibero-Americano de Reconhecimento de Padr oes SIARP 2001, Florianapolis, Brazil (2001), pp. 95-99
+[22] R.M. Cesar Jr., E. Bengoetxea, I. Bloch, Inexact graph matching using stochastic optimization techniques for facial, in: Proceedings of the International Conference on Pattern Recognition, ICPR 2002, vol. 2, Québec, Canada, 2002, pp. 465–468.
+[23] J.H. Holland
+Adaptation in Natural and Artificial Systems
+The University of Michigan Press, Michigan (1979)
+[24] D.E. Goldberg
+Genetic Algorithms in Search, Optimization, and Machine Learning
+Addison/Wesley, Reading, MA (1989)
+[25] Z. Michalewicz
+Genetic Algorithms+Data Structures = Evolution Programs
+Springer, Berlin, Heidelberg (1992)
+[26] D. Whitley, J. Kauth, GENITOR: a different genetic algorithm, in: Proceedings of the Rocky Mountain Conference on Artificial Intelligence, vol. 2, 1988, pp. 118–130.
+[27] H. Mühlenbein, T. Mahning
+The factorized distribution algorithm for additively decomposed functions
+Second Symposium on Artificial Intelligence Adaptive Systems, CIMAF 99, Havana, Cuba (1999), pp. 301-313
+[28] S. Baluja, Population-based incremental learning: a method for integrating genetic search based function optimization and competitive learning, Technical Report, Carnegie Mellon Report, CMU-CS-94-163, 1994.
+[29] H. Mühlenbein, G. Paaß, From recombination of genes to the estimation of distributions i. Binary parameters, in: M. Voigt, W. Ebeling, I. Rechenberg, H.-P. Schwefel (Eds.), Parallel Problem Solving from Nature—PPSN IV, Lecture Notes in Computer Science, vol. 1411, 1996, pp. 178–187.
+[30] E. Bengoetxea, P. Larrañaga, I. Bloch, A. Perchant, C. Boeres
+Learning and simulation of Bayesian networks applied to inexact graph matching
+Pattern Recognition, 35 (12) (2002), pp. 2867-2880
+[31] M. Henrion
+Propagating uncertainty in Bayesian networks by probabilistic logic sampling
+J.F. Lemmer, L.N. Kanal (Eds.), Uncertainty in Artificial Intelligence, vol. 2, North-Holland, Amsterdam (1988), pp. 149-163
+[32] H. Mühlenbein
+The equation for response to selection and its use for prediction
+Evolut. Comput., 5 (1998), pp. 303-346
+[33] S. Baluja, S. Davies, Using optimal dependency-trees for combinatorial optimization: Learning the structure of the search space, Technical Report, Carnegie Mellon Report, CMU-CS-97-107, 1997.
+[34] J.S. de Bonet, C.L. Isbell, P. Viola
+MIMIC: finding optima by estimating probability densities
+M.C. Mozer, M.I. Jordan, T. Petsche (Eds.), Advances in Neural Information Processing Systems, vol. 9, The MIT Press, Cambridge, MA (1997), pp. 424-431
+[35] R. Etxeberria, P. Larrañaga, Global optimization with Bayesian networks, in: Special Session on Distributions and Evolutionary Optimization, II Symposium on Artificial Intelligence, CIMAF99, 1999, pp. 332–339.
+[36] V. Kruger, G. Sommer
+Affine real-time face tracking using a wavelet network
+Proceedings of ICCV’99 Workshop Recognition, Analysis, and Tracking of Faces and Gestures in Real-Time Systems, Corfu, Greece (1999), pp. 141-148
+[37] R.S. Feris, V. Krueger, R.M. Cesar Jr., Efficient real-time face tracking in wavelet subspace, in: Proceedings of the Second International Workshop on Recognition, Analysis and Tracking of Faces and Gestures in Real-time Systems, Eighth IEEE International Conference on Computer Vision, RATFG-RTS—ICCV 2001—Vancouver, Canada, 2001, pp. 113–118.
+[38] P.J. Phillips, H. Moon, P.J. Rauss, S. Rizvi
+The FERET evaluation methodology for face recognition algorithms
+IEEE Trans. Pattern Anal. Mach. Intell., 22 (10) (2000), pp. 1090-1104
+[39] XM2VTSDB. The xm2vts database, http://www.ee.surrey.ac.uk/Research/VSSP/xm2vtsdb/
+[40] L.F. Costa, R.M. Cesar Jr.
+Shape Analysis and Classification: Theory and Practice
+CRC Press, Boca Raton, FL (2001)
+[41] A. Perchant, I. Bloch
+Fuzzy morphisms between graphs
+Fuzzy Sets and Systems, 128 (2) (2002), pp. 149-168

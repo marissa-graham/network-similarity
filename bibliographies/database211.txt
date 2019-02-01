@@ -1,0 +1,32 @@
+[0] Vincenzo Carletti, Pasquale Foggia, Antonio Greco, Alessia Saggese, Mario Vento, Comparing performance of graph matching algorithms on huge graphs
+[1] I. Almasri, X. Gao, N. Fedoroff. Quick mining of isomorphic exact large patterns from large graphs. IEEE International Conf. on Data Mining Workshop (2014), pp. 517–524
+[2] G. Audemard, C. Lecoutre, M. Samy-Modeliar, G. Goncalves, D. Porumbel. Scoring-Based Neighborhood Dominance for the Subgraph Isomorphism Problem. Springer International Publishing, Cham (2014), pp. 125–141
+[3] R. Battiti, F. Mascia. An Algorithm Portfolio for the Sub-graph Isomorphism Problem. Springer Berlin Heidelberg, Berlin, Heidelberg (2007), pp. 106–120
+[4] S. Boccaletti, V. Latora, Y. Moreno, M. Chavez, D. Hwang. Complex networks: Structure and dynamics. Physics Reports, 424 (4-5) (2006), pp. 175–308
+[5] V. Bonnici, R. Giugno, A. Pulvirenti, D. Shasha, A. Ferro. A subgraph isomorphism algorithm and its application to biochemical data. BMC Bioinformatics, 14 (2013)
+[6] V. Carletti, P. Foggia, A. Saggese, M. Vento. Introducing VF3: A New Algorithm for Subgraph Isomorphism. Springer International Publishing (2017), pp. 128–139
+[7] V. Carletti, P. Foggia, A. Saggese, M. Vento. Challenging the time complexity of exact subgraph isomorphism for huge and dense graphs with VF3. IEEE Transactions on Pattern Analysis and Machine Intelligence, 40 (4) (2018), pp. 804–818 https://doi.org/10.1109/TPAMI.2017.2696940
+[8] V. Carletti, P. Foggia, M. Vento, X. Jiang. Report on the first contest on graph matching algorithms for pattern search in biological databases. GbR2015 (2015), pp. 178–187
+[9] D. Conte, P. Foggia, C. Sansone, M. Vento. Thirty years of graph matching in Pattern Recognition. Int J Pattern Recogn, 18 (3) (2004), pp. 265–298
+[10] L. Cordella, P. Foggia, C. Sansone, M. Vento. A (sub)graph isomorphism algorithm for matching large graphs. IEEE Transactions on Pattern Analysis and Machine Intelligence, 26 (2004), pp. 1367–1372
+[11] L.P. Cordella, P. Foggia, C. Sansone, M. Vento. An improved algorithm for matching large graphs. 3rd IAPR-TC15 Workshop on GBR (2001), pp. 149–159
+[12] M. De Santo, P. Foggia, C. Sansone, M. Vento. A Large Database of Graphs and Its Use for Benchmarking Graph Isomorphism Algorithms. Pattern Recogn. Lett. (2003), pp. 1067–1079
+[13] P. Foggia, G. Percannella, M. Vento. Graph Matching and Learning in Pattern Recognition on the last ten years. Int J Pattern Recogn, 28 (1) (2014)
+[14] W.S. Han, J.-h. Lee, J.H. Lee. Turbo Iso: Towards Ultrafast And Robust Subgraph Isomorphism Search In Large Graph Databases. SIGMOD (2013), pp. 337–348
+[15] H. He, A.K. Singh. Graphs-At-A-Time: Query Language And Access Methods For Graph Databases. Proceedings of the 2008 ACM SIGMOD international ... (2008), pp. 405–417
+[16] D. Knossow, A. Sharma, D. Mateus, R. Horaud. Inexact matching of large and sparse graphs using laplacian eigenvectors. A. Torsello, F. Escolano, L. Brun (Eds.), Graph-Based Representations in Pattern Recognition, Springer Berlin Heidelberg, Berlin, Heidelberg (2009), pp. 144–153
+[17] D.E. Knuth. The Stanford GraphBase: A Platform for Combinatorial Computing. ACM, New York, NY, USA (1993)
+[18] L. Kotthoff, C. Mccreesh, C. Solnon. Portfolios of subgraph isomorphism algorithms. Learning and Intelligent OptimizatioN Conference (LION 10), Springer (2016)
+[19] J. Larrosa, G. Valiente. Constraint satisfaction algorithms for graph pattern matching. Mathematical Structures in Computer Science, 12 (2002), pp. 403–422
+[20] J.J. McGregor. Relational consistency algorithms and their application in finding subgraph and graph isomorphisms. Information Sciences, 19 (3) (1979), pp. 229–250
+[21] P. Santacruz, S. Algabli, F. Serratosa. Node matching computation between two large graphs in linear computational cost. P. Foggia, C.-L. Liu, M. Vento (Eds.), Graph-Based Representations in Pattern Recognition, Springer International Publishing, Cham (2017), pp. 143–153
+[22] H. Shang, Y. Zhang, X. Lin, J.X. Yu. Taming verification hardness: An efficient algorithm for testing subgraph isomorphism. Proc. VLDB Endow., 1 (1) (2008), pp. 364–375
+[23] C. Solnon. Alldifferent-based filtering for subgraph isomorphism. Artificial Intelligence, 174 (12–13) (2010), pp. 850–864
+[24] C. Solnon, Solnon datasets, 2017, (http://liris.cnrs.fr/csolnon/SIP.html).
+[25] J.R. Ullmann. Bit-vector algorithms for binary constraint satisfaction and subgraph isomorphism. Journal of Experimental Algorithmics (JEA), 15 (1) (2010)
+[26] J.R. Ullmann. An algorithm for subgraph isomorphism. J. Assoc. Comput. Mach., 23 (1976), pp. 31–42
+[27] G. Valiente, Larrosa valiente dataset, 2017, (http://www.cs.upc.edu/~valiente/research.html).
+[28] M. Vento. A long trip in the charming world of graphs for Pattern Recognition. Pattern Recognition (2014), pp. 1–11
+[29] S. Zampelli, Y. Deville, C. Solnon. Solving subgraph isomorphism problems with constraint programming. Constraints, 15 (3) (2010), pp. 327–353
+[30] S. Zhang, S. Li, J. Yang. Gaddi: Distance index based subgraph matching in biological networks. EDBT, ACM (2009), pp. 192–203
+[31] P. Zhao, J. Han. On Graph Query Optimization In Large Networks. Proc. of the VLDB Endowment, 3 (1-2) (2010), pp. 340–351

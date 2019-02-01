@@ -1,0 +1,433 @@
+>>> NEW PAPER <<<
+>>> citation >>> P. R. Ma, E. Y. S. Lee, M. Tsuchiya, "A task allocation model for distributed computing systems", IEEE Trans. Comput., vol. C-31, pp. 41-47, Jan. 1982.
+>>> DOI >>> 10.1109/tc.1982.1675884
+>>> URL >>> http://dx.doi.org/10.1109/tc.1982.1675884
+>>> year >>> 1982.0
+>>> title >>> A Task Allocation Model for Distributed Computing Systems
+>>> author >>> None
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 178.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Computers']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:58:07Z', 'timestamp': 1525388287369}, 'reference-count': 15, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Comput.'], 'published-print': {'date-parts': [[1982, 1]]}, 'DOI': '10.1109/tc.1982.1675884', 'type': 'journal-article', 'created': {'date-parts': [[2007, 9, 4]], 'date-time': '2007-09-04T20:35:10Z', 'timestamp': 1188938110000}, 'page': '41-47', 'source': 'Crossref', 'is-referenced-by-count': 178, 'title': ['A Task Allocation Model for Distributed Computing Systems'], 'prefix': '10.1109', 'volume': 'C-31', 'author': [{'family': 'Perng-Yi Richard Ma', 'sequence': 'first', 'affiliation': []}, {'family': 'Lee', 'sequence': 'additional', 'affiliation': []}, {'family': 'Tsuchiya', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Computers'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/12/35208/01675884.pdf?arnumber=1675884', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T13:32:11Z', 'timestamp': 1510666331000}, 'score': 77.21237, 'issued': {'date-parts': [[1982, 1]]}, 'references-count': 15, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1109/tc.1982.1675884', 'ISSN': ['0018-9340'], 'issn-type': [{'value': '0018-9340', 'type': 'print'}]}
+>>> hash >>> ('A Task Allocation Model for Distributed Computing Systems', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Kleinrock, A. Nilsson, "On optimal scheduling algorithms for time-shared systems", J. ACM, vol. 28, no. 3, pp. 477-486, July 1981.
+>>> DOI >>> 10.1145/322261.322266
+>>> URL >>> http://dx.doi.org/10.1145/322261.322266
+>>> year >>> 1981.0
+>>> title >>> On Optimal Scheduling Algorithms for Time-Shared Systems
+>>> author >>> Leonard Kleinrock and Arne Nilsson
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:12:13Z', 'timestamp': 1525335133070}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JACM', 'J. ACM'], 'published-print': {'date-parts': [[1981, 7, 1]]}, 'DOI': '10.1145/322261.322266', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:26:10Z', 'timestamp': 1027769170000}, 'page': '477-486', 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['On Optimal Scheduling Algorithms for Time-Shared Systems'], 'prefix': '10.1145', 'volume': '28', 'author': [{'given': 'Leonard', 'family': 'Kleinrock', 'sequence': 'first', 'affiliation': []}, {'given': 'Arne', 'family': 'Nilsson', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['Journal of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=322266&amp;ftid=6321&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T21:01:33Z', 'timestamp': 1481835693000}, 'score': 93.61679, 'issued': {'date-parts': [[1981, 7, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1145/322261.322266', 'ISSN': ['0004-5411'], 'issn-type': [{'value': '0004-5411', 'type': 'print'}]}
+>>> hash >>> ('On Optimal Scheduling Algorithms for Time-Shared Systems', 1981.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. S. Stone, S. H. Bokhari, "Control of distributed processes", Computer, vol. 11, pp. 97-106, July 1978.
+>>> DOI >>> 10.1109/c-m.1978.218272
+>>> URL >>> http://dx.doi.org/10.1109/c-m.1978.218272
+>>> year >>> 1978.0
+>>> title >>> Control of Distributed Processes
+>>> author >>> H.S. Stone and S.H. Bokhari
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 97.0
+>>> subject >>> None
+>>> container_title >>> ['Computer']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T20:37:20Z', 'timestamp': 1525379840690}, 'reference-count': 16, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '7', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer'], 'published-print': {'date-parts': [[1978, 7]]}, 'DOI': '10.1109/c-m.1978.218272', 'type': 'journal-article', 'created': {'date-parts': [[2007, 7, 12]], 'date-time': '2007-07-12T20:49:31Z', 'timestamp': 1184273371000}, 'page': '97-106', 'source': 'Crossref', 'is-referenced-by-count': 97, 'title': ['Control of Distributed Processes'], 'prefix': '10.1109', 'volume': '11', 'author': [{'given': 'H.S.', 'family': 'Stone', 'sequence': 'first', 'affiliation': []}, {'given': 'S.H.', 'family': 'Bokhari', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['Computer'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/2/34536/01647047.pdf?arnumber=1647047', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 13]], 'date-time': '2017-11-13T22:53:37Z', 'timestamp': 1510613617000}, 'score': 68.44806, 'issued': {'date-parts': [[1978, 7]]}, 'references-count': 16, 'journal-issue': {'issue': '7'}, 'URL': 'http://dx.doi.org/10.1109/c-m.1978.218272', 'ISSN': ['0018-9162'], 'issn-type': [{'value': '0018-9162', 'type': 'print'}]}
+>>> hash >>> ('Control of Distributed Processes', 1978.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. H. Bokhari, "On the mapping problem", IEEE Trans. Comput., vol. C-30, pp. 207-214, Mar. 1981.
+>>> DOI >>> 10.1109/tc.1981.1675756
+>>> URL >>> http://dx.doi.org/10.1109/tc.1981.1675756
+>>> year >>> 1981.0
+>>> title >>> On the Mapping Problem
+>>> author >>> None
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 326.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Computers']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 23]], 'date-time': '2018-05-23T23:22:30Z', 'timestamp': 1527117750285}, 'reference-count': 12, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Comput.'], 'published-print': {'date-parts': [[1981, 3]]}, 'DOI': '10.1109/tc.1981.1675756', 'type': 'journal-article', 'created': {'date-parts': [[2007, 9, 4]], 'date-time': '2007-09-04T20:35:10Z', 'timestamp': 1188938110000}, 'page': '207-214', 'source': 'Crossref', 'is-referenced-by-count': 326, 'title': ['On the Mapping Problem'], 'prefix': '10.1109', 'volume': 'C-30', 'author': [{'family': 'Bokhari', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Computers'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/12/35201/01675756.pdf?arnumber=1675756', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T13:30:42Z', 'timestamp': 1510666242000}, 'score': 70.04856, 'issued': {'date-parts': [[1981, 3]]}, 'references-count': 12, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/tc.1981.1675756', 'ISSN': ['0018-9340'], 'issn-type': [{'value': '0018-9340', 'type': 'print'}]}
+>>> hash >>> ('On the Mapping Problem', 1981.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. H. Tsai, "Graph matching problems: A survey and a tutorial", Proc. Ist Conf. Comput. Algorith., 1982-July.
+>>> DOI >>> 10.4204/eptcs.138.0.6
+>>> URL >>> http://dx.doi.org/10.4204/eptcs.138.0.6
+>>> year >>> 2013.0
+>>> title >>> Proceedings 2nd Workshop on GRAPH Inspection and Traversal Engineering
+>>> author >>> Stefan Edelkamp and Christoph Greulich
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Electronic Proceedings in Theoretical Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T04:45:51Z', 'timestamp': 1525754751351}, 'reference-count': 0, 'publisher': 'Open Publishing Association', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Electron. Proc. Theor. Comput. Sci.', 'EPTCS'], 'DOI': '10.4204/eptcs.138.0.6', 'type': 'journal-article', 'created': {'date-parts': [[2013, 12, 26]], 'date-time': '2013-12-26T07:26:03Z', 'timestamp': 1388042763000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Proceedings 2nd Workshop on GRAPH Inspection and Traversal Engineering'], 'prefix': '10.4204', 'volume': '138', 'author': [{'given': 'Stefan', 'family': 'Edelkamp', 'sequence': 'first', 'affiliation': [{'name': 'University of Bremen, Germany'}]}, {'given': 'Christoph', 'family': 'Greulich', 'sequence': 'additional', 'affiliation': [{'name': 'University of Bremen, Germany'}]}], 'member': '2720', 'published-online': {'date-parts': [[2013, 12, 30]]}, 'container-title': ['Electronic Proceedings in Theoretical Computer Science'], 'language': 'en', 'deposited': {'date-parts': [[2014, 1, 1]], 'date-time': '2014-01-01T00:41:31Z', 'timestamp': 1388536891000}, 'score': 26.45382, 'subtitle': ['Graph Matching and Shortest Path Search for Multi-Modal Public Transportation'], 'issued': {'date-parts': [[2013, 12, 30]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.4204/eptcs.138.0.6', 'ISSN': ['2075-2180'], 'issn-type': [{'value': '2075-2180', 'type': 'electronic'}]}
+>>> hash >>> ('Proceedings 2nd Workshop on GRAPH Inspection and Traversal Engineering', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. J. Nilsson, Problem Solving Methods in Artificial Intelligence, New York:McGraw-Hill, 1971.
+>>> DOI >>> 10.1145/1056578.1056583
+>>> URL >>> http://dx.doi.org/10.1145/1056578.1056583
+>>> year >>> 1971.0
+>>> title >>> Review of "Problem-Solving Methods in Artificial Intelligence by Nils J. Nilsson", McGraw-Hill Pub.
+>>> author >>> W. W. Bledsoe
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['ACM SIGART Bulletin']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T10:21:11Z', 'timestamp': 1525342871061}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '31', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIGART Bull.'], 'published-print': {'date-parts': [[1971, 12, 1]]}, 'DOI': '10.1145/1056578.1056583', 'type': 'journal-article', 'created': {'date-parts': [[2007, 1, 17]], 'date-time': '2007-01-17T18:32:02Z', 'timestamp': 1169058722000}, 'page': '8', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Review of "Problem-Solving Methods in Artificial Intelligence by Nils J. Nilsson", McGraw-Hill Pub.'], 'prefix': '10.1145', 'author': [{'given': 'W. W.', 'family': 'Bledsoe', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'container-title': ['ACM SIGART Bulletin'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1056583&amp;ftid=311315&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T05:53:51Z', 'timestamp': 1481867631000}, 'score': 54.184616, 'issued': {'date-parts': [[1971, 12, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1971, 12, 1]]}, 'issue': '31'}, 'URL': 'http://dx.doi.org/10.1145/1056578.1056583', 'ISSN': ['0163-5719'], 'issn-type': [{'value': '0163-5719', 'type': 'print'}]}
+>>> hash >>> ('Review of "Problem-Solving Methods in Artificial Intelligence by Nils J. Nilsson", McGraw-Hill Pub.', 1971.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. C. Shen, W. H. Tsai, A graph matching approach to optimal task assignment in distributed computing systems using a minimax criterion, July 1983.
+>>> DOI >>> 10.1109/tc.1985.1676563
+>>> URL >>> http://dx.doi.org/10.1109/tc.1985.1676563
+>>> year >>> 1985.0
+>>> title >>> A Graph Matching Approach to Optimal Task Assignment in Distributed Computing Systems Using a Minimax Criterion
+>>> author >>> None
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 183.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Computers']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:57:40Z', 'timestamp': 1525388260904}, 'reference-count': 18, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Comput.'], 'published-print': {'date-parts': [[1985, 3]]}, 'DOI': '10.1109/tc.1985.1676563', 'type': 'journal-article', 'created': {'date-parts': [[2007, 9, 4]], 'date-time': '2007-09-04T20:35:10Z', 'timestamp': 1188938110000}, 'page': '197-203', 'source': 'Crossref', 'is-referenced-by-count': 183, 'title': ['A Graph Matching Approach to Optimal Task Assignment in Distributed Computing Systems Using a Minimax Criterion'], 'prefix': '10.1109', 'volume': 'C-34', 'author': [{'family': 'Chien-Chung Shen', 'sequence': 'first', 'affiliation': []}, {'family': 'Wen-Hsiang Tsai', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Computers'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/12/35244/01676563.pdf?arnumber=1676563', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T01:32:15Z', 'timestamp': 1510623135000}, 'score': 80.547264, 'issued': {'date-parts': [[1985, 3]]}, 'references-count': 18, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/tc.1985.1676563', 'ISSN': ['0018-9340'], 'issn-type': [{'value': '0018-9340', 'type': 'print'}]}
+>>> hash >>> ('A Graph Matching Approach to Optimal Task Assignment in Distributed Computing Systems Using a Minimax Criterion', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. H. Tsai, K. S. Fu, "Subgraph error-correcting isomorphisms for syntactic pattern recognition", IEEE Trans. Syst. Man Cybern., vol. SMC-13, pp. 48-62, Jan./Feb. 1983.
+>>> DOI >>> 10.1109/tsmc.1983.6313029
+>>> URL >>> http://dx.doi.org/10.1109/tsmc.1983.6313029
+>>> year >>> 1983.0
+>>> title >>> Subgraph error-correcting isomorphisms for syntactic pattern recognition
+>>> author >>> Wen-Hsiang Tsai and King-Sun Fu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 64.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Systems, Man, and Cybernetics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T19:21:27Z', 'timestamp': 1525548087687}, 'reference-count': 0, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Syst., Man, Cybern.'], 'published-print': {'date-parts': [[1983, 1]]}, 'DOI': '10.1109/tsmc.1983.6313029', 'type': 'journal-article', 'created': {'date-parts': [[2012, 9, 27]], 'date-time': '2012-09-27T13:14:42Z', 'timestamp': 1348751682000}, 'page': '48-62', 'source': 'Crossref', 'is-referenced-by-count': 64, 'title': ['Subgraph error-correcting isomorphisms for syntactic pattern recognition'], 'prefix': '10.1109', 'volume': 'SMC-13', 'author': [{'given': 'Wen-Hsiang', 'family': 'Tsai', 'sequence': 'first', 'affiliation': []}, {'given': 'King-Sun', 'family': 'Fu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Systems, Man, and Cybernetics'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/21/6313021/06313029.pdf?arnumber=6313029', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T10:08:00Z', 'timestamp': 1510654080000}, 'score': 119.42103, 'issued': {'date-parts': [[1983, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1109/tsmc.1983.6313029', 'ISSN': ['0018-9472', '2168-2909'], 'issn-type': [{'value': '0018-9472', 'type': 'print'}, {'value': '2168-2909', 'type': 'electronic'}]}
+>>> hash >>> ('Subgraph error-correcting isomorphisms for syntactic pattern recognition', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. W. Chu, L. J. Holloway, M. T. Lan, K. Efe, "Task allocation in distributed data processing", Computer, vol. 13, pp. 57-69, Nov. 1980.
+>>> DOI >>> 10.1109/mc.1980.1653419
+>>> URL >>> http://dx.doi.org/10.1109/mc.1980.1653419
+>>> year >>> 1980.0
+>>> title >>> Task Allocation in Distributed Data Processing
+>>> author >>> None
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 221.0
+>>> subject >>> None
+>>> container_title >>> ['Computer']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:35:20Z', 'timestamp': 1525386920126}, 'reference-count': 18, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer'], 'published-print': {'date-parts': [[1980, 11]]}, 'DOI': '10.1109/mc.1980.1653419', 'type': 'journal-article', 'created': {'date-parts': [[2007, 8, 22]], 'date-time': '2007-08-22T20:04:20Z', 'timestamp': 1187813060000}, 'page': '57-69', 'source': 'Crossref', 'is-referenced-by-count': 221, 'title': ['Task Allocation in Distributed Data Processing'], 'prefix': '10.1109', 'volume': '13', 'author': [{'family': 'Chu', 'sequence': 'first', 'affiliation': []}, {'family': 'Holloway', 'sequence': 'additional', 'affiliation': []}, {'family': 'Min-Tsung Lan', 'sequence': 'additional', 'affiliation': []}, {'family': 'Efe', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['Computer'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/2/34652/01653419.pdf?arnumber=1653419', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T08:13:07Z', 'timestamp': 1510647187000}, 'score': 93.06893, 'issued': {'date-parts': [[1980, 11]]}, 'references-count': 18, 'journal-issue': {'issue': '11'}, 'URL': 'http://dx.doi.org/10.1109/mc.1980.1653419', 'ISSN': ['0018-9162'], 'issn-type': [{'value': '0018-9162', 'type': 'print'}]}
+>>> hash >>> ('Task Allocation in Distributed Data Processing', 1980.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. C. Price, "The assignment of computational tasks among processors in a distributed system", Proc. Nat. Comput. Conf., pp. 291-296, 1981-May.
+>>> DOI >>> 10.1145/1500412.1500453
+>>> URL >>> http://dx.doi.org/10.1145/1500412.1500453
+>>> year >>> 1981.0
+>>> title >>> The assignment of computational tasks among processors in a distributed system
+>>> author >>> Camille C. Price
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the May 4-7, 1981, national computer conference on - AFIPS '81"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T19:52:39Z', 'timestamp': 1525463559974}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1981]]}, 'DOI': '10.1145/1500412.1500453', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 2, 4]], 'date-time': '2009-02-04T13:02:04Z', 'timestamp': 1233752524000}, 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['The assignment of computational tasks among processors in a distributed system'], 'prefix': '10.1145', 'author': [{'given': 'Camille C.', 'family': 'Price', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'event': {'name': 'the May 4-7, 1981, national computer conference', 'location': 'Chicago, Illinois', 'sponsor': ['AFIPS, American Federation of Information Processing Societies'], 'acronym': "AFIPS '81", 'number': '50', 'start': {'date-parts': [[1981, 5, 4]]}, 'end': {'date-parts': [[1981, 5, 7]]}}, 'container-title': ["Proceedings of the May 4-7, 1981, national computer conference on - AFIPS '81"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1500453&amp;ftid=614017&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T04:31:15Z', 'timestamp': 1481085075000}, 'score': 58.97284, 'issued': {'date-parts': [[1981]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1500412.1500453'}
+>>> hash >>> ('The assignment of computational tasks among processors in a distributed system', 1981.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. C. Read, D. G. Corneil, "The graph isomorphism disease", J. Graph Theory, pp. 339-363, 1977.
+>>> DOI >>> 10.1002/jgt.3190010410
+>>> URL >>> http://dx.doi.org/10.1002/jgt.3190010410
+>>> year >>> 1977.0
+>>> title >>> The graph isomorphism disease
+>>> author >>> Ronald C. Read and Derek G. Corneil
+>>> reference_count >>> 36.0
+>>> is_referenced_by_count >>> 207.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Graph Theory']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T22:22:27Z', 'timestamp': 1525904547978}, 'reference-count': 36, 'publisher': 'Wiley', 'issue': '4', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 14122, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J. Graph Theory'], 'published-print': {'date-parts': [[1977]]}, 'DOI': '10.1002/jgt.3190010410', 'type': 'journal-article', 'created': {'date-parts': [[2007, 5, 29]], 'date-time': '2007-05-29T06:09:33Z', 'timestamp': 1180418973000}, 'page': '339-363', 'source': 'Crossref', 'is-referenced-by-count': 207, 'title': ['The graph isomorphism disease'], 'prefix': '10.1002', 'volume': '1', 'author': [{'given': 'Ronald C.', 'family': 'Read', 'sequence': 'first', 'affiliation': []}, {'given': 'Derek G.', 'family': 'Corneil', 'sequence': 'additional', 'affiliation': []}], 'member': '311', 'reference': [{'key': '10.1002/jgt.3190010410-BIB1', 'author': 'Aho', 'year': '1974', 'unstructured': ', and , The Design and Analysis of Computer Algorithms. Addison-Wesley, Reading, Mass. (1974).', 'volume-title': 'The Design and Analysis of Computer Algorithms'}, {'key': '10.1002/jgt.3190010410-BIB2', 'author': 'Balaban', 'volume': '11', 'first-page': '258', 'year': '1971', 'journal-title': 'J. Chem. Documentation'}, {'key': '10.1002/jgt.3190010410-BIB3', 'author': 'Booth', 'year': '1976', 'unstructured': 'Problems polynomially equivalent to graph isomorphism. Proceedings of the Symposium on New Directions and Recent Results in Algorithms and Complexity. Carnegie-Mellon University (April 1976).', 'volume-title': 'Problems polynomially equivalent to graph isomorphism'}, {'key': '10.1002/jgt.3190010410-BIB4', 'author': 'Booth', 'year': '1975', 'unstructured': 'and , Linear algorithms to recognize interval graphs and test for consecutive ones property. Proceedings of the 7th Annual ACM Symposium on the Theory of Computing. (May 1975) 255–265.'}, {'key': '10.1002/jgt.3190010410-BIB5', 'author': 'Borodin', 'first-page': '35', 'year': '1973', 'unstructured': 'Computational Complexity: theory and practice. Currents in the Theory of Computing. Ed. Prentice-Hall, Englewood Cliffs, N. J. (1973) 35–89.', 'volume-title': 'Computational Complexity: theory and practice'}, {'key': '10.1002/jgt.3190010410-BIB6', 'author': 'Bussemaker', 'year': '1970', 'unstructured': 'and , Symmetric Hadamard Matrices of order 36. T. H.-report 70-WSK-02. Department of Mathematics, Technological University, Eindhoven, Netherlands (1970).', 'volume-title': 'Symmetric Hadamard Matrices of order 36. T. H.-report 70-WSK-02. Department of Mathematics'}, {'key': '10.1002/jgt.3190010410-BIB7', 'author': 'Collatz', 'volume': '21', 'first-page': '63', 'year': '1957', 'journal-title': 'Abh. Math. Sem. Univ. Hamburg'}, {'key': '10.1002/jgt.3190010410-BIB8', 'author': 'Cook', 'year': '1971', 'unstructured': 'The complexity of theorem-proving procedures. Proceedings Third Annual ACM Symposium on the Theory of Computing (1971) 151–158.'}, {'key': '10.1002/jgt.3190010410-BIB9', 'author': 'Corneil', 'year': '1968', 'unstructured': 'Graph Isomorphism. Ph.D. Thesis. University of Toronto (1968). Available as a Department of Computer Science Technical Report.'}, {'key': '10.1002/jgt.3190010410-BIB10', 'author': 'Corneil', 'first-page': '3', 'year': '1974', 'unstructured': 'The analysis of graph theoretical algorithms. Proceedings of the Fifth Southeastern Conference on Combinatorics, Graph Theory & Computing. et al., Eds. Utilitas Mathematica, Winnipeg (1974) 3–38.', 'volume-title': 'Proceedings of the Fifth Southeastern Conference on Combinatorics, Graph Theory & Computing'}, {'key': '10.1002/jgt.3190010410-BIB11', 'author': 'Corneil', 'volume': '17', 'first-page': '51', 'year': '1970', 'journal-title': 'J. Assoc. Comput. Mach.', 'DOI': '10.1145/321556.321562', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/jgt.3190010410-BIB12', 'author': 'Corneil', 'year': '1976', 'unstructured': 'and , Algorithmic techniques for the generation and analysis of strongly regular graphs and other combinatorial configurations. Algebraic Aspects of Combinatorics (Qualicum Beach, B. C., May 1976). Proceedings to appear.'}, {'key': '10.1002/jgt.3190010410-BIB13', 'author': 'Gibbons', 'year': '1976', 'unstructured': 'Computing techniques for the construction and analysis of block designs. Ph.D. Thesis. Department of Computer Science, University of Toronto (1976). Available as a Department of Computer Science Technical Report.'}, {'key': '10.1002/jgt.3190010410-BIB14', 'author': 'Harary', 'first-page': '1', 'year': '1969', 'unstructured': 'The four color conjecture and other graphical diseases. Proof Techniques in Graph Theory. Ed. Academic Press, New York (1969) 1–10.', 'volume-title': 'Proof Techniques in Graph Theory'}, {'key': '10.1002/jgt.3190010410-BIB15', 'author': 'Harary', 'year': '1971', 'unstructured': 'Graph Theory. Addison Wesley, Reading, Mass. (1971).', 'volume-title': 'Graph Theory'}, {'key': '10.1002/jgt.3190010410-BIB16', 'author': 'Harary', 'volume': '3', 'first-page': '321', 'year': '1971', 'journal-title': 'Bull. London Math. Soc.'}, {'key': '10.1002/jgt.3190010410-BIB17', 'author': 'Hopcroft', 'first-page': '131', 'year': '1972', 'unstructured': 'and , Isomorphism of planar graphs. Complexity of Computer Computations. and , Eds. Plenum, New York (1972) 131–152.', 'volume-title': 'Complexity of Computer Computations', 'DOI': '10.1007/978-1-4684-2001-2_13', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/jgt.3190010410-BIB18', 'author': 'Hopcroft', 'year': '1974', 'unstructured': 'and , Linear time algorithm for isomorphism of planar graphs (extended abstract). Sixth Annual ACM Symposium on Theory of Computing, Seattle (May 1974).'}, {'key': '10.1002/jgt.3190010410-BIB19', 'author': 'Karp', 'first-page': '85', 'year': '1972', 'unstructured': 'Reducibility among combinatorial problems. Complexity of Computer Computations. and , Eds. Plenum, New York (1972) 85–103.', 'volume-title': 'Complexity of Computer Computations', 'DOI': '10.1007/978-1-4684-2001-2_9', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/jgt.3190010410-BIB20', 'author': 'Karp', 'volume': '5', 'first-page': '45', 'year': '1975', 'journal-title': 'Networks'}, {'key': '10.1002/jgt.3190010410-BIB21', 'author': 'Karp', 'first-page': '15', 'year': '1975', 'unstructured': 'The fast approximate solution of hard combinatorial problems. Proceedings 6th South-Eastern Conference on Combinatorics, Graph Theory and Computing. et al., Eds. Utilitas Mathematica, Winnipeg (1975) 15–31.', 'volume-title': 'Proceedings 6th South-Eastern Conference on Combinatorics, Graph Theory and Computing'}, {'key': '10.1002/jgt.3190010410-BIB22', 'author': 'Knödel', 'volume': '8', 'first-page': '329', 'year': '1971', 'journal-title': 'Computing'}, {'key': '10.1002/jgt.3190010410-BIB23', 'author': 'Kudo', 'volume': '13', 'first-page': '225', 'year': '1973', 'journal-title': 'J. Chem. Documentation'}, {'key': '10.1002/jgt.3190010410-BIB24', 'author': 'Kuhn', 'first-page': '471', 'year': '1971', 'unstructured': 'Graph isomorphism using vertex adjacency matrices. Proceedings of the 25th Summer Meeting Canadian Mathematical Congress, Lakehead University (1971) 471–476.', 'volume-title': 'Proceedings of the 25th Summer Meeting Canadian Mathematical Congress'}, {'key': '10.1002/jgt.3190010410-BIB25', 'author': 'Littlewood', 'year': '1950', 'unstructured': 'The Theory of Group Characters. Oxford University Press, Oxford. (1950).', 'volume-title': 'The Theory of Group Characters'}, {'key': '10.1002/jgt.3190010410-BIB26', 'author': 'Mathon', 'unstructured': 'Sample graphs for graph isomorphism testing. To appear as a technical report, Department of Computer Science, University of Toronto.', 'volume-title': 'Sample graphs for graph isomorphism testing'}, {'key': '10.1002/jgt.3190010410-BIB27', 'author': 'Moon', 'volume': '3', 'first-page': '123', 'year': '1965', 'journal-title': 'Israel J. Math.'}, {'key': '10.1002/jgt.3190010410-BIB28', 'author': 'Morgan', 'volume': '5', 'first-page': '107', 'year': '1965', 'journal-title': 'J. Chem. Documentation'}, {'key': '10.1002/jgt.3190010410-BIB29', 'author': 'Nagle', 'volume': '7', 'first-page': '1588', 'year': '1966', 'journal-title': 'J. Math. Phys.'}, {'key': '10.1002/jgt.3190010410-BIB30', 'author': 'Parris', 'year': '1967', 'unstructured': 'and , Graph isomorphism and the coding of graphs. Research Report UWI/CC5, University of the West Indies, Jamica (1967).'}, {'key': '10.1002/jgt.3190010410-BIB31', 'author': 'Sirovich', 'volume': '8', 'first-page': '301', 'year': '1971', 'journal-title': 'Calcolo'}, {'key': '10.1002/jgt.3190010410-BIB32', 'author': 'Spialter', 'volume': '85', 'first-page': '2012', 'year': '1963', 'journal-title': 'J. Amer. Chem. Soc.'}, {'key': '10.1002/jgt.3190010410-BIB33', 'author': 'Spialter', 'volume': '4', 'first-page': '261', 'year': '1964', 'journal-title': 'J. Chem. Documentation'}, {'key': '10.1002/jgt.3190010410-BIB34', 'author': 'Spialter', 'volume': '4', 'first-page': '269', 'year': '1964', 'journal-title': 'J. Chem. Documentation'}, {'key': '10.1002/jgt.3190010410-BIB35', 'author': 'Turner', 'volume': '16', 'first-page': '520', 'year': '1968', 'journal-title': 'SIAM J. Appl. Math.'}, {'key': '10.1002/jgt.3190010410-BIB36', 'author': 'Unger', 'volume': '7', 'first-page': '26', 'year': '1964', 'journal-title': 'Comm. ACM'}], 'container-title': ['Journal of Graph Theory'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fjgt.3190010410', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T18:02:49Z', 'timestamp': 1497722569000}, 'score': 86.99003, 'issued': {'date-parts': [[1977]]}, 'references-count': 36, 'journal-issue': {'published-print': {'date-parts': [[1977]]}, 'issue': '4'}, 'URL': 'http://dx.doi.org/10.1002/jgt.3190010410', 'relation': {'cites': []}, 'ISSN': ['0364-9024', '1097-0118'], 'issn-type': [{'value': '0364-9024', 'type': 'print'}, {'value': '1097-0118', 'type': 'electronic'}]}
+>>> hash >>> ('The graph isomorphism disease', 1977.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. S. Stone, "Critical load factors in two-processor distribluted systems", IEEE Trans. Software Eng., vol. SE-4, pp. 254-258, May 1978.
+>>> DOI >>> 10.1109/tse.1978.231502
+>>> URL >>> http://dx.doi.org/10.1109/tse.1978.231502
+>>> year >>> 1978.0
+>>> title >>> Critical Load Factors in Two-Processor Distributed Systems
+>>> author >>> H.S. Stone
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 98.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Software Engineering']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T18:52:10Z', 'timestamp': 1525373530043}, 'reference-count': 12, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IIEEE Trans. Software Eng.'], 'published-print': {'date-parts': [[1978, 5]]}, 'DOI': '10.1109/tse.1978.231502', 'type': 'journal-article', 'created': {'date-parts': [[2007, 6, 27]], 'date-time': '2007-06-27T18:41:16Z', 'timestamp': 1182969676000}, 'page': '254-258', 'source': 'Crossref', 'is-referenced-by-count': 98, 'title': ['Critical Load Factors in Two-Processor Distributed Systems'], 'prefix': '10.1109', 'volume': 'SE-4', 'author': [{'given': 'H.S.', 'family': 'Stone', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Software Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/32/35904/01702525.pdf?arnumber=1702525', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T16:25:44Z', 'timestamp': 1510676744000}, 'score': 90.96807, 'issued': {'date-parts': [[1978, 5]]}, 'references-count': 12, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/tse.1978.231502', 'ISSN': ['0098-5589'], 'issn-type': [{'value': '0098-5589', 'type': 'print'}]}
+>>> hash >>> ('Critical Load Factors in Two-Processor Distributed Systems', 1978.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K. Efe, "Heuristic models of task assignment scheduling in distributed systems", Computer, vol. 15, pp. 50-56, June 1982.
+>>> DOI >>> 10.1109/mc.1982.1654050
+>>> URL >>> http://dx.doi.org/10.1109/mc.1982.1654050
+>>> year >>> 1982.0
+>>> title >>> Heuristic Models of Task Assignment Scheduling in Distributed Systems
+>>> author >>> None
+>>> reference_count >>> 11.0
+>>> is_referenced_by_count >>> 174.0
+>>> subject >>> None
+>>> container_title >>> ['Computer']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:35:26Z', 'timestamp': 1525386926266}, 'reference-count': 11, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer'], 'published-print': {'date-parts': [[1982, 6]]}, 'DOI': '10.1109/mc.1982.1654050', 'type': 'journal-article', 'created': {'date-parts': [[2007, 8, 22]], 'date-time': '2007-08-22T20:04:20Z', 'timestamp': 1187813060000}, 'page': '50-56', 'source': 'Crossref', 'is-referenced-by-count': 174, 'title': ['Heuristic Models of Task Assignment Scheduling in Distributed Systems'], 'prefix': '10.1109', 'volume': '15', 'author': [{'family': 'Efe', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'container-title': ['Computer'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/2/34670/01654050.pdf?arnumber=1654050', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T14:22:51Z', 'timestamp': 1510669371000}, 'score': 94.11927, 'issued': {'date-parts': [[1982, 6]]}, 'references-count': 11, 'journal-issue': {'issue': '6'}, 'URL': 'http://dx.doi.org/10.1109/mc.1982.1654050', 'ISSN': ['0018-9162'], 'issn-type': [{'value': '0018-9162', 'type': 'print'}]}
+>>> hash >>> ('Heuristic Models of Task Assignment Scheduling in Distributed Systems', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T. C. K. Chow, J. A. Abraham, "Load balancing in distributed systems", IEEE Trans. Software Eng., vol. SE-8, July 1982.
+>>> DOI >>> 10.1109/tse.1982.235574
+>>> URL >>> http://dx.doi.org/10.1109/tse.1982.235574
+>>> year >>> 1982.0
+>>> title >>> Load Balancing in Distributed Systems
+>>> author >>> T.C.K. Chou and J.A. Abraham
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 103.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Software Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T18:52:24Z', 'timestamp': 1525373544052}, 'reference-count': 19, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IIEEE Trans. Software Eng.'], 'published-print': {'date-parts': [[1982, 7]]}, 'DOI': '10.1109/tse.1982.235574', 'type': 'journal-article', 'created': {'date-parts': [[2007, 6, 27]], 'date-time': '2007-06-27T18:41:16Z', 'timestamp': 1182969676000}, 'page': '401-412', 'source': 'Crossref', 'is-referenced-by-count': 103, 'title': ['Load Balancing in Distributed Systems'], 'prefix': '10.1109', 'volume': 'SE-8', 'author': [{'given': 'T.C.K.', 'family': 'Chou', 'sequence': 'first', 'affiliation': []}, {'given': 'J.A.', 'family': 'Abraham', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Software Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/32/35929/01702962.pdf?arnumber=1702962', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T15:44:13Z', 'timestamp': 1510674253000}, 'score': 68.68887, 'issued': {'date-parts': [[1982, 7]]}, 'references-count': 19, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/tse.1982.235574', 'ISSN': ['0098-5589'], 'issn-type': [{'value': '0098-5589', 'type': 'print'}]}
+>>> hash >>> ('Load Balancing in Distributed Systems', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. H. Bokhari, "Dual processor scheduling with dynamic reassignment", IEEE Trans. Software Eng., vol. SE-5, July 1979.
+>>> DOI >>> 10.1109/tse.1979.234201
+>>> URL >>> http://dx.doi.org/10.1109/tse.1979.234201
+>>> year >>> 1979.0
+>>> title >>> Dual Processor Scheduling with Dynamic Reassignment
+>>> author >>> S.H. Bokhari
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 77.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Software Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T18:52:10Z', 'timestamp': 1525373530772}, 'reference-count': 10, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IIEEE Trans. Software Eng.'], 'published-print': {'date-parts': [[1979, 7]]}, 'DOI': '10.1109/tse.1979.234201', 'type': 'journal-article', 'created': {'date-parts': [[2007, 6, 27]], 'date-time': '2007-06-27T18:41:16Z', 'timestamp': 1182969676000}, 'page': '341-349', 'source': 'Crossref', 'is-referenced-by-count': 77, 'title': ['Dual Processor Scheduling with Dynamic Reassignment'], 'prefix': '10.1109', 'volume': 'SE-5', 'author': [{'given': 'S.H.', 'family': 'Bokhari', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Software Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/32/35911/01702639.pdf?arnumber=1702639', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 13]], 'date-time': '2017-11-13T23:39:53Z', 'timestamp': 1510616393000}, 'score': 86.72494, 'issued': {'date-parts': [[1979, 7]]}, 'references-count': 10, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/tse.1979.234201', 'ISSN': ['0098-5589'], 'issn-type': [{'value': '0098-5589', 'type': 'print'}]}
+>>> hash >>> ('Dual Processor Scheduling with Dynamic Reassignment', 1979.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. S. Stone, "Multiprocessor scheduling with the aid of network flow algorithms", IEEE Trans. Software Eng., vol. SE-3, pp. 85-93, Jan. 1977.
+>>> DOI >>> 10.1109/tse.1977.233840
+>>> URL >>> http://dx.doi.org/10.1109/tse.1977.233840
+>>> year >>> 1977.0
+>>> title >>> Multiprocessor Scheduling with the Aid of Network Flow Algorithms
+>>> author >>> H.S. Stone
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 390.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Software Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 15]], 'date-time': '2018-05-15T14:42:44Z', 'timestamp': 1526395364000}, 'reference-count': 19, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IIEEE Trans. Software Eng.'], 'published-print': {'date-parts': [[1977, 1]]}, 'DOI': '10.1109/tse.1977.233840', 'type': 'journal-article', 'created': {'date-parts': [[2007, 6, 27]], 'date-time': '2007-06-27T18:41:16Z', 'timestamp': 1182969676000}, 'page': '85-93', 'source': 'Crossref', 'is-referenced-by-count': 390, 'title': ['Multiprocessor Scheduling with the Aid of Network Flow Algorithms'], 'prefix': '10.1109', 'volume': 'SE-3', 'author': [{'given': 'H.S.', 'family': 'Stone', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Software Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/32/35896/01702405.pdf?arnumber=1702405', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T16:25:12Z', 'timestamp': 1510676712000}, 'score': 96.12638, 'issued': {'date-parts': [[1977, 1]]}, 'references-count': 19, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1109/tse.1977.233840', 'ISSN': ['0098-5589'], 'issn-type': [{'value': '0098-5589', 'type': 'print'}]}
+>>> hash >>> ('Multiprocessor Scheduling with the Aid of Network Flow Algorithms', 1977.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. S. Rao, H. S. Stone, T. C. Hu, "Assignment of tasks in a distributed ocessor system with limited memory", IEEE Trans. Comput., vol. C-28, pp. 291-299, Apr. 1979.
+>>> DOI >>> 10.1109/tc.1979.1675348
+>>> URL >>> http://dx.doi.org/10.1109/tc.1979.1675348
+>>> year >>> 1979.0
+>>> title >>> Assignment of Tasks in a Distributed Processor System with Limited Memory
+>>> author >>> None
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 69.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Computers']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:57:56Z', 'timestamp': 1525388276645}, 'reference-count': 18, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Comput.'], 'published-print': {'date-parts': [[1979, 4]]}, 'DOI': '10.1109/tc.1979.1675348', 'type': 'journal-article', 'created': {'date-parts': [[2007, 9, 4]], 'date-time': '2007-09-04T20:35:10Z', 'timestamp': 1188938110000}, 'page': '291-299', 'source': 'Crossref', 'is-referenced-by-count': 69, 'title': ['Assignment of Tasks in a Distributed Processor System with Limited Memory'], 'prefix': '10.1109', 'volume': 'C-28', 'author': [{'family': 'Rao', 'sequence': 'first', 'affiliation': []}, {'family': 'Stone', 'sequence': 'additional', 'affiliation': []}, {'family': 'Hu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Computers'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/12/35180/01675348.pdf?arnumber=1675348', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 13]], 'date-time': '2017-11-13T21:31:18Z', 'timestamp': 1510608678000}, 'score': 86.20863, 'issued': {'date-parts': [[1979, 4]]}, 'references-count': 18, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/tc.1979.1675348', 'ISSN': ['0018-9340'], 'issn-type': [{'value': '0018-9340', 'type': 'print'}]}
+>>> hash >>> ('Assignment of Tasks in a Distributed Processor System with Limited Memory', 1979.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y. C. Chow, W. Kohler, "Models for dynamic load balancing in a heterogeneous multiple processor system", IEEE Trans. Comput., vol. C-28, pp. 354-361, May 1979.
+>>> DOI >>> 10.1109/tc.1979.1675365
+>>> URL >>> http://dx.doi.org/10.1109/tc.1979.1675365
+>>> year >>> 1979.0
+>>> title >>> Models for Dynamic Load Balancing in a Heterogeneous Multiple Processor System
+>>> author >>> None
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 143.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Computers']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database166.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:58:00Z', 'timestamp': 1525388280427}, 'reference-count': 18, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Comput.'], 'published-print': {'date-parts': [[1979, 5]]}, 'DOI': '10.1109/tc.1979.1675365', 'type': 'journal-article', 'created': {'date-parts': [[2007, 9, 4]], 'date-time': '2007-09-04T20:35:10Z', 'timestamp': 1188938110000}, 'page': '354-361', 'source': 'Crossref', 'is-referenced-by-count': 143, 'title': ['Models for Dynamic Load Balancing in a Heterogeneous Multiple Processor System'], 'prefix': '10.1109', 'volume': 'C-28', 'author': [{'family': 'Yuan-Chieh Chow', 'sequence': 'first', 'affiliation': []}, {'family': 'Kohle', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Computers'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/12/35181/01675365.pdf?arnumber=1675365', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 13]], 'date-time': '2017-11-13T21:31:25Z', 'timestamp': 1510608685000}, 'score': 86.50803, 'issued': {'date-parts': [[1979, 5]]}, 'references-count': 18, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/tc.1979.1675365', 'ISSN': ['0018-9340'], 'issn-type': [{'value': '0018-9340', 'type': 'print'}]}
+>>> hash >>> ('Models for Dynamic Load Balancing in a Heterogeneous Multiple Processor System', 1979.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

@@ -1,0 +1,985 @@
+>>> NEW PAPER <<<
+>>> citation >>> Z. Lin, M.R. Lyu, I. King, Matchsim: a novel neighbor-based similarity measure with maximum neighborhood matching, in: Proceedings of the 18th ACM Conference on Information and Knowledge Management, CIKM 2009, Hong Kong, China, November 2–6, 2009, pp. 1613–1616.
+>>> DOI >>> 10.1145/1645953.1646185
+>>> URL >>> http://dx.doi.org/10.1145/1645953.1646185
+>>> year >>> 2009.0
+>>> title >>> MatchSim
+>>> author >>> Zhenjiang Lin and Michael R. Lyu and Irwin King
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ["Proceeding of the 18th ACM conference on Information and knowledge management - CIKM '09"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T06:57:11Z', 'timestamp': 1525503431778}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605585123', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1145/1645953.1646185', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 11, 10]], 'date-time': '2009-11-10T18:36:45Z', 'timestamp': 1257878205000}, 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['MatchSim'], 'prefix': '10.1145', 'author': [{'given': 'Zhenjiang', 'family': 'Lin', 'sequence': 'first', 'affiliation': []}, {'given': 'Michael R.', 'family': 'Lyu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Irwin', 'family': 'King', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'Proceeding of the 18th ACM conference', 'location': 'Hong Kong, China', 'sponsor': ['SIGIR, ACM Special Interest Group on Information Retrieval', 'SIGWEB, ACM Special Interest Group on Hypertext, Hypermedia, and Web'], 'acronym': "CIKM '09", 'number': '18', 'start': {'date-parts': [[2009, 11, 2]]}, 'end': {'date-parts': [[2009, 11, 6]]}}, 'container-title': ["Proceeding of the 18th ACM conference on Information and knowledge management - CIKM '09"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1646185&amp;ftid=693818&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T23:25:29Z', 'timestamp': 1481066729000}, 'score': 129.3366, 'subtitle': ['a novel neighbor-based similarity measure with maximum neighborhood matching'], 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781605585123'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1645953.1646185'}
+>>> hash >>> ('MatchSim', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Yu, X. Lin, Irwr: incremental random walk with restart, in: SIGIR, 2013, pp. 1017–1020.
+>>> DOI >>> 10.1145/2484028.2484114
+>>> URL >>> http://dx.doi.org/10.1145/2484028.2484114
+>>> year >>> 2013.0
+>>> title >>> IRWR
+>>> author >>> Weiren Yu and Xuemin Lin
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 36th international ACM SIGIR conference on Research and development in information retrieval - SIGIR '13"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T13:42:28Z', 'timestamp': 1527255748177}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450320344', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013]]}, 'DOI': '10.1145/2484028.2484114', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 7, 30]], 'date-time': '2013-07-30T13:40:50Z', 'timestamp': 1375191650000}, 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['IRWR'], 'prefix': '10.1145', 'author': [{'given': 'Weiren', 'family': 'Yu', 'sequence': 'first', 'affiliation': []}, {'given': 'Xuemin', 'family': 'Lin', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 36th international ACM SIGIR conference', 'location': 'Dublin, Ireland', 'sponsor': ['SIGIR, ACM Special Interest Group on Information Retrieval'], 'acronym': "SIGIR '13", 'number': '36', 'start': {'date-parts': [[2013, 7, 28]]}, 'end': {'date-parts': [[2013, 8, 1]]}}, 'container-title': ["Proceedings of the 36th international ACM SIGIR conference on Research and development in information retrieval - SIGIR '13"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2484114&amp;ftid=1385496&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T01:00:12Z', 'timestamp': 1481072412000}, 'score': 72.65418, 'subtitle': ['incremental random walk with restart'], 'issued': {'date-parts': [[2013]]}, 'ISBN': ['9781450320344'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/2484028.2484114'}
+>>> hash >>> ('IRWR', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Yu, X. Lin, W. Zhang, L. Chang, J. Pei, More is simpler: effectively and efficiently assessing node-pair similarities based on hyperlinks, PVLDB 7 (1) (2013) 13–24.
+>>> DOI >>> 10.14778/2732219.2732221
+>>> URL >>> http://dx.doi.org/10.14778/2732219.2732221
+>>> year >>> 2013.0
+>>> title >>> More is simpler
+>>> author >>> Weiren Yu and Xuemin Lin and Wenjie Zhang and Lijun Chang and Jian Pei
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 12.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T11:44:58Z', 'timestamp': 1525693498532}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2013, 9, 1]]}, 'DOI': '10.14778/2732219.2732221', 'type': 'journal-article', 'created': {'date-parts': [[2015, 5, 12]], 'date-time': '2015-05-12T15:37:52Z', 'timestamp': 1431445072000}, 'page': '13-24', 'source': 'Crossref', 'is-referenced-by-count': 12, 'title': ['More is simpler'], 'prefix': '10.14778', 'volume': '7', 'author': [{'given': 'Weiren', 'family': 'Yu', 'sequence': 'first', 'affiliation': []}, {'given': 'Xuemin', 'family': 'Lin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Wenjie', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lijun', 'family': 'Chang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jian', 'family': 'Pei', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2015, 5, 12]], 'date-time': '2015-05-12T15:37:56Z', 'timestamp': 1431445076000}, 'score': 110.64488, 'subtitle': ['effectively and efficiently assessing node-pair similarities based on hyperlinks'], 'issued': {'date-parts': [[2013, 9, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2013, 9, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.14778/2732219.2732221', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('More is simpler', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. Li, J. Han, G. He, X. Jin, Y. Sun, Y. Yu, T. Wu, Fast computation of simrank for static and dynamic information networks, in: EDBT, 2010, pp. 465–476.
+>>> DOI >>> 10.1145/1739041.1739098
+>>> URL >>> http://dx.doi.org/10.1145/1739041.1739098
+>>> year >>> 2010.0
+>>> title >>> Fast computation of SimRank for static and dynamic information networks
+>>> author >>> Cuiping Li and Jiawei Han and Guoming He and Xin Jin and Yizhou Sun and Yintao Yu and Tianyi Wu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 39.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 13th International Conference on Extending Database Technology - EDBT '10"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:00:20Z', 'timestamp': 1525309220202}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605589459', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.1145/1739041.1739098', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 3, 16]], 'date-time': '2010-03-16T19:27:05Z', 'timestamp': 1268767625000}, 'source': 'Crossref', 'is-referenced-by-count': 39, 'title': ['Fast computation of SimRank for static and dynamic information networks'], 'prefix': '10.1145', 'author': [{'given': 'Cuiping', 'family': 'Li', 'sequence': 'first', 'affiliation': []}, {'given': 'Jiawei', 'family': 'Han', 'sequence': 'additional', 'affiliation': []}, {'given': 'Guoming', 'family': 'He', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xin', 'family': 'Jin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yizhou', 'family': 'Sun', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yintao', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Tianyi', 'family': 'Wu', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 13th International Conference', 'location': 'Lausanne, Switzerland', 'acronym': "EDBT '10", 'number': '13', 'start': {'date-parts': [[2010, 3, 22]]}, 'end': {'date-parts': [[2010, 3, 26]]}}, 'container-title': ["Proceedings of the 13th International Conference on Extending Database Technology - EDBT '10"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1739098&amp;ftid=763897&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T22:31:40Z', 'timestamp': 1481063500000}, 'score': 91.2684, 'issued': {'date-parts': [[2010]]}, 'ISBN': ['9781605589459'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1739041.1739098'}
+>>> hash >>> ('Fast computation of SimRank for static and dynamic information networks', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Xi, E.A. Fox, W. Fan, B. Zhang, Z. Chen, J. Yan, D. Zhuang, Simfusion: measuring similarity using unified relationship matrix, in: SIGIR, 2005, pp. 130–137.
+>>> DOI >>> 10.1145/1076034.1076059
+>>> URL >>> http://dx.doi.org/10.1145/1076034.1076059
+>>> year >>> 2005.0
+>>> title >>> SimFusion
+>>> author >>> Wensi Xi and Edward A. Fox and Weiguo Fan and Benyu Zhang and Zheng Chen and Jun Yan and Dong Zhuang
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 30.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 28th annual international ACM SIGIR conference on Research and development in information retrieval - SIGIR '05"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T23:57:30Z', 'timestamp': 1525478250589}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1595930345', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1145/1076034.1076059', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 11, 7]], 'date-time': '2005-11-07T17:34:39Z', 'timestamp': 1131384879000}, 'source': 'Crossref', 'is-referenced-by-count': 30, 'title': ['SimFusion'], 'prefix': '10.1145', 'author': [{'given': 'Wensi', 'family': 'Xi', 'sequence': 'first', 'affiliation': []}, {'given': 'Edward A.', 'family': 'Fox', 'sequence': 'additional', 'affiliation': []}, {'given': 'Weiguo', 'family': 'Fan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Benyu', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Zheng', 'family': 'Chen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jun', 'family': 'Yan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Dong', 'family': 'Zhuang', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 28th annual international ACM SIGIR conference', 'location': 'Salvador, Brazil', 'sponsor': ['SIGIR, ACM Special Interest Group on Information Retrieval'], 'acronym': "SIGIR '05", 'number': '28', 'start': {'date-parts': [[2005, 8, 15]]}, 'end': {'date-parts': [[2005, 8, 19]]}}, 'container-title': ["Proceedings of the 28th annual international ACM SIGIR conference on Research and development in information retrieval - SIGIR '05"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1076059&amp;ftid=319045&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T10:57:45Z', 'timestamp': 1481885865000}, 'score': 83.822876, 'subtitle': ['measuring similarity using unified relationship matrix'], 'issued': {'date-parts': [[2005]]}, 'ISBN': ['1595930345'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1076034.1076059'}
+>>> hash >>> ('SimFusion', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. Li, Y. Cai, H. Liu, J. He, X. Du, Exploiting the block structure of link graph for efficient similarity computation, in: PAKDD, 2009, pp. 389–400.
+>>> DOI >>> 10.1007/978-3-642-01307-2_36
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-01307-2_36
+>>> year >>> 2009.0
+>>> title >>> Exploiting the Block Structure of Link Graph for Efficient Similarity Computation
+>>> author >>> Pei Li and Yuanzhe Cai and Hongyan Liu and Jun He and Xiaoyong Du
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ['Advances in Knowledge Discovery and Data Mining', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T23:23:40Z', 'timestamp': 1525476220580}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 18, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642013065', 'type': 'print'}, {'value': '9783642013072', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2009, 1, 1]], 'date-time': '2009-01-01T00:00:00Z', 'timestamp': 1230768000000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1007/978-3-642-01307-2_36', 'type': 'book-chapter', 'created': {'date-parts': [[2009, 4, 18]], 'date-time': '2009-04-18T13:47:58Z', 'timestamp': 1240062478000}, 'page': '389-400', 'source': 'Crossref', 'is-referenced-by-count': 8, 'title': ['Exploiting the Block Structure of Link Graph for Efficient Similarity Computation'], 'prefix': '10.1007', 'author': [{'given': 'Pei', 'family': 'Li', 'sequence': 'first', 'affiliation': []}, {'given': 'Yuanzhe', 'family': 'Cai', 'sequence': 'additional', 'affiliation': []}, {'given': 'Hongyan', 'family': 'Liu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jun', 'family': 'He', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xiaoyong', 'family': 'Du', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': '36_CR1', 'unstructured': 'Getoor, L., Diehl, C.P.: Link mining: A survey. In: SIGKDD 2005 Explorations, vol.\xa07(2), pp. 3–12 (2005)', 'DOI': '10.1145/1117454.1117456', 'doi-asserted-by': 'crossref'}, {'key': '36_CR2', 'unstructured': 'Jeh, G., Widom, J.: SimRank: A measure of structural-context similarity. In: SIGKDD 2002, pp. 538–543 (2002)', 'DOI': '10.1145/775047.775126', 'doi-asserted-by': 'crossref'}, {'key': '36_CR3', 'unstructured': 'Baeza-Yates, R., Ribeiro-Neto, B.: Modern Information Retrieval. ACM Press/Addison-Wesley (1999)'}, {'key': '36_CR4', 'unstructured': 'Xi, W., Fox, E.A., Fan, W., Zhang, B., Chen, Z., Yan, J., Zhuang, D.: SimFusion: measuring similarity using unified relationship matrix. In: SIGIR 2005, pp. 130–137 (2005)', 'DOI': '10.1145/1076034.1076059', 'doi-asserted-by': 'crossref'}, {'key': '36_CR5', 'unstructured': 'Dean, J., Henzinger, M.R.: Finding Related Pages in the World Wide Web. In: WWW 1999, pp. 1467–1479 (1999)'}, {'key': '36_CR6', 'unstructured': 'Shardanand, U., Maes, P.: Social information filtering: Algorithms for automating “word of mouth”. In: Proceedings of the Conference on Human Factors in Computing Systems, Denver, Colorado (1995)', 'DOI': '10.1145/223904.223931', 'doi-asserted-by': 'crossref'}, {'key': '36_CR7', 'unstructured': 'Yin, X., Han, J.: Yu. P.S.: Linkclus: Efficient clustering via heterogeneous semantic links. In: VLDB 2006, pp. 427–438 (2006)'}, {'key': '36_CR8', 'unstructured': 'Page, L., Brin, S., Motwani, R., Winograd, T.: The PageRank citation ranking: Bringing order to the Web. Technical report, Stanford University Database Group (1998)'}, {'issue': '2', 'key': '36_CR9', 'doi-asserted-by': 'publisher', 'first-page': '48', 'DOI': '10.1145/1117454.1117461', 'volume': '7', 'author': 'J. Sun', 'year': '2005', 'unstructured': 'Sun, J., Qu, H., Chakrabarti, D., Faloutsos, C.: Relevance search and anomaly detection in bipartite graphs. SIGKDD Explorations\xa07(2), 48–55 (2005)', 'journal-title': 'SIGKDD Explorations'}, {'key': '36_CR10', 'unstructured': 'Lovasz, L.: Random walks on graphs: a survey. Combinatorics, Paul Erdos is Eighty, vol. 2, Keszthely (Hungary), pp. 1–46 (1993)'}, {'key': '36_CR11', 'unstructured': 'Kamvar, S.D., Haveliwala, T.H., Manning, C.D., Golub, G.H.: Exploiting the Block Structure of the Web for Computing PageRank. Technical Report, Stanford University, Stanford, CA (2003)'}, {'issue': '1', 'key': '36_CR12', 'doi-asserted-by': 'publisher', 'first-page': '96', 'DOI': '10.1006/jpdc.1997.1404', 'volume': '48', 'author': 'G. Karypis', 'year': '1998', 'unstructured': 'Karypis, G., Kumar, V.: Multilevel k-way partitioning scheme for irregular graphs. Journal of Parallel and Distributed Computing\xa048(1), 96–129 (1998), http://www.cs.umn.edu/~karypis', 'journal-title': 'Journal of Parallel and Distributed Computing'}, {'key': '36_CR13', 'unstructured': 'ACM Computing Classification System, http://portal.acm.org/ccs.cfm'}, {'key': '36_CR14', 'author': 'O. Kallenberg', 'year': '1997', 'unstructured': 'Kallenberg, O.: Foundations of Modern Probability. Springer, New York (1997)', 'volume-title': 'Foundations of Modern Probability'}, {'key': '36_CR15', 'unstructured': 'Meila, M., Shi, J.: Learning Segmentation by Random Walks. Advances in Neural Information Processing Systems (2001)'}, {'key': '36_CR16', 'unstructured': 'Fischer, I., Poland, J.: Amplifying the block matrix structure for spectral clustering. In: Proceedings of the 14th Annual Machine Learning Conference of Belgium and the Netherlands, pp. 21–28 (2005)'}, {'key': '36_CR17', 'author': 'L. Kaufman', 'year': '1990', 'unstructured': 'Kaufman, L., Rousseeuw, P.J.: Finding Groups in Data: an Introduction to Cluster Analysis. John Wiley & Sons, Chichester (1990)', 'volume-title': 'Finding Groups in Data: an Introduction to Cluster Analysis', 'DOI': '10.1002/9780470316801', 'doi-asserted-by': 'publisher'}, {'key': '36_CR18', 'unstructured': 'Karypis, G., Kumar, V.: METIS: Unstructured Graph Partitioning and Sparse Matrix Ordering System. Technical Report, Department of Computer Science, University of Minnesota (1995)'}], 'container-title': ['Advances in Knowledge Discovery and Data Mining', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-642-01307-2_36', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T18:59:39Z', 'timestamp': 1497812379000}, 'score': 69.35702, 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9783642013065', '9783642013072'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1007/978-3-642-01307-2_36', 'relation': {'cites': []}, 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Exploiting the Block Structure of Link Graph for Efficient Similarity Computation', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Faloutsos, P. Faloutsos, C. Faloutsos, On power-law relationships of the internet topology, in: SIGCOMM, 1999, pp. 251–262.
+>>> DOI >>> 10.1145/316194.316229
+>>> URL >>> http://dx.doi.org/10.1145/316194.316229
+>>> year >>> 1999.0
+>>> title >>> On power-law relationships of the Internet topology
+>>> author >>> Michalis Faloutsos and Petros Faloutsos and Christos Faloutsos
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1591.0
+>>> subject >>> None
+>>> container_title >>> ['ACM SIGCOMM Computer Communication Review']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T12:02:26Z', 'timestamp': 1528372946288}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIGCOMM Comput. Commun. Rev.'], 'published-print': {'date-parts': [[1999, 10, 1]]}, 'DOI': '10.1145/316194.316229', 'type': 'journal-article', 'created': {'date-parts': [[2004, 10, 12]], 'date-time': '2004-10-12T13:44:32Z', 'timestamp': 1097588672000}, 'page': '251-262', 'source': 'Crossref', 'is-referenced-by-count': 1591, 'title': ['On power-law relationships of the Internet topology'], 'prefix': '10.1145', 'volume': '29', 'author': [{'given': 'Michalis', 'family': 'Faloutsos', 'sequence': 'first', 'affiliation': []}, {'given': 'Petros', 'family': 'Faloutsos', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christos', 'family': 'Faloutsos', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['ACM SIGCOMM Computer Communication Review'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=316229&amp;ftid=21408&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 12]], 'date-time': '2016-12-12T17:35:27Z', 'timestamp': 1481564127000}, 'score': 107.103676, 'issued': {'date-parts': [[1999, 10, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1999, 10, 1]]}, 'issue': '4'}, 'URL': 'http://dx.doi.org/10.1145/316194.316229', 'ISSN': ['0146-4833'], 'issn-type': [{'value': '0146-4833', 'type': 'print'}]}
+>>> hash >>> ('On power-law relationships of the Internet topology', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Fogaras, B. Racz, Scaling link-based similarity search, in: WWW, 2005, pp. 641–650.
+>>> DOI >>> 10.1145/1060745.1060839
+>>> URL >>> http://dx.doi.org/10.1145/1060745.1060839
+>>> year >>> 2005.0
+>>> title >>> Scaling link-based similarity search
+>>> author >>> Dániel Fogaras and Balázs Rácz
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 42.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 14th international conference on World Wide Web  - WWW '05"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T21:02:08Z', 'timestamp': 1525467728892}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1595930469', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1145/1060745.1060839', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 8, 3]], 'date-time': '2005-08-03T08:31:47Z', 'timestamp': 1123057907000}, 'source': 'Crossref', 'is-referenced-by-count': 42, 'title': ['Scaling link-based similarity search'], 'prefix': '10.1145', 'author': [{'given': 'Dániel', 'family': 'Fogaras', 'sequence': 'first', 'affiliation': []}, {'given': 'Balázs', 'family': 'Rácz', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 14th international conference', 'location': 'Chiba, Japan', 'sponsor': ['ACM, Association for Computing Machinery'], 'acronym': "WWW '05", 'start': {'date-parts': [[2005, 5, 10]]}, 'end': {'date-parts': [[2005, 5, 14]]}}, 'container-title': ["Proceedings of the 14th international conference on World Wide Web  - WWW '05"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1060839&amp;ftid=314116&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T07:12:47Z', 'timestamp': 1481872367000}, 'score': 76.01178, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['1595930469'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1060745.1060839'}
+>>> hash >>> ('Scaling link-based similarity search', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> I. Guy, N. Zwerdling, D. Carmel, I. Ronen, E. Uziel, S. Yogev, S. Ofek-Koif, Personalized recommendation of social software items based on social relations, in: RecSys, 2009.
+>>> DOI >>> 10.1145/1639714.1639725
+>>> URL >>> http://dx.doi.org/10.1145/1639714.1639725
+>>> year >>> 2009.0
+>>> title >>> Personalized recommendation of social software items based on social relations
+>>> author >>> Ido Guy and Naama Zwerdling and David Carmel and Inbal Ronen and Erel Uziel and Sivan Yogev and Shila Ofek-Koifman
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 57.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the third ACM conference on Recommender systems - RecSys '09"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T06:22:19Z', 'timestamp': 1525501339208}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605584355', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1145/1639714.1639725', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 10, 27]], 'date-time': '2009-10-27T13:27:28Z', 'timestamp': 1256650048000}, 'source': 'Crossref', 'is-referenced-by-count': 57, 'title': ['Personalized recommendation of social software items based on social relations'], 'prefix': '10.1145', 'author': [{'given': 'Ido', 'family': 'Guy', 'sequence': 'first', 'affiliation': []}, {'given': 'Naama', 'family': 'Zwerdling', 'sequence': 'additional', 'affiliation': []}, {'given': 'David', 'family': 'Carmel', 'sequence': 'additional', 'affiliation': []}, {'given': 'Inbal', 'family': 'Ronen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Erel', 'family': 'Uziel', 'sequence': 'additional', 'affiliation': []}, {'given': 'Sivan', 'family': 'Yogev', 'sequence': 'additional', 'affiliation': []}, {'given': 'Shila', 'family': 'Ofek-Koifman', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the third ACM conference', 'location': 'New York, New York, USA', 'sponsor': ['SIGCHI, ACM Special Interest Group on Computer-Human Interaction'], 'acronym': "RecSys '09", 'number': '3', 'start': {'date-parts': [[2009, 10, 23]]}, 'end': {'date-parts': [[2009, 10, 25]]}}, 'container-title': ["Proceedings of the third ACM conference on Recommender systems - RecSys '09"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1639725&amp;ftid=698497&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T03:52:30Z', 'timestamp': 1481082750000}, 'score': 130.88446, 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781605584355'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1639714.1639725'}
+>>> hash >>> ('Personalized recommendation of social software items based on social relations', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. Erdoss, A. Renyi, On random graphs, Publ. Math. Debr. 6 (1959) 290–297.
+>>> DOI >>> 10.1017/9781316779422.007
+>>> URL >>> http://dx.doi.org/10.1017/9781316779422.007
+>>> year >>> None
+>>> title >>> Erd\u0151s-Rényi Random Graph Revisited
+>>> author >>> Remco van der Hofstad
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Random Graphs and Complex Networks']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T01:47:04Z', 'timestamp': 1524016024830}, 'publisher-location': 'Cambridge', 'reference-count': 0, 'publisher': 'Cambridge University Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1017/9781316779422.007', 'type': 'book-chapter', 'created': {'date-parts': [[2017, 1, 9]], 'date-time': '2017-01-09T11:04:27Z', 'timestamp': 1483959867000}, 'page': '150-176', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Erd\u0151s-Rényi Random Graph Revisited'], 'prefix': '10.1017', 'author': [{'given': 'Remco', 'family': 'van der Hofstad', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'container-title': ['Random Graphs and Complex Networks'], 'deposited': {'date-parts': [[2018, 4, 12]], 'date-time': '2018-04-12T17:11:10Z', 'timestamp': 1523553070000}, 'score': 33.531742, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9781316779422'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1017/9781316779422.007'}
+>>> hash >>> ('Erd\\u0151s-Rényi Random Graph Revisited', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Moricz, Y. Dosbayev, M. Berlyant, Pymk: friend recommendation at myspace, in: SIGMOD, 2010, pp. 999–1002.
+>>> DOI >>> 10.1145/1807167.1807276
+>>> URL >>> http://dx.doi.org/10.1145/1807167.1807276
+>>> year >>> 2010.0
+>>> title >>> PYMK
+>>> author >>> Michael Moricz and Yerbolat Dosbayev and Mikhail Berlyant
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 18.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2010 international conference on Management of data - SIGMOD '10"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T05:22:06Z', 'timestamp': 1525324926871}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450300322', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.1145/1807167.1807276', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 6, 8]], 'date-time': '2010-06-08T12:37:34Z', 'timestamp': 1276000654000}, 'source': 'Crossref', 'is-referenced-by-count': 18, 'title': ['PYMK'], 'prefix': '10.1145', 'author': [{'given': 'Michael', 'family': 'Moricz', 'sequence': 'first', 'affiliation': []}, {'given': 'Yerbolat', 'family': 'Dosbayev', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mikhail', 'family': 'Berlyant', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2010 international conference', 'location': 'Indianapolis, Indiana, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '10", 'number': '2010', 'start': {'date-parts': [[2010, 6, 6]]}, 'end': {'date-parts': [[2010, 6, 10]]}}, 'container-title': ["Proceedings of the 2010 international conference on Management of data - SIGMOD '10"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1807276&amp;ftid=805270&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T05:24:35Z', 'timestamp': 1481088275000}, 'score': 113.65693, 'subtitle': ['friend recommendation at myspace'], 'issued': {'date-parts': [[2010]]}, 'ISBN': ['9781450300322'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1807167.1807276'}
+>>> hash >>> ('PYMK', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. Lee, L.V.S. Lakshmanan, J.X. Yu, On top-k structural similarity search, in: ICDE, 2012, pp. 774–785.
+>>> DOI >>> 10.1109/icde.2012.109
+>>> URL >>> http://dx.doi.org/10.1109/icde.2012.109
+>>> year >>> 2012.0
+>>> title >>> On Top-k Structural Similarity Search
+>>> author >>> Pei Lee and Laks V.S. Lakshmanan and Jeffrey Xu Yu
+>>> reference_count >>> 23.0
+>>> is_referenced_by_count >>> 14.0
+>>> subject >>> None
+>>> container_title >>> ['2012 IEEE 28th International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T13:36:53Z', 'timestamp': 1525527413068}, 'reference-count': 23, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467300421', 'type': 'print'}, {'value': '9780769547473', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012, 4]]}, 'DOI': '10.1109/icde.2012.109', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 7, 10]], 'date-time': '2012-07-10T21:38:33Z', 'timestamp': 1341956313000}, 'source': 'Crossref', 'is-referenced-by-count': 14, 'title': ['On Top-k Structural Similarity Search'], 'prefix': '10.1109', 'author': [{'given': 'Pei', 'family': 'Lee', 'sequence': 'first', 'affiliation': []}, {'given': 'Laks V.S.', 'family': 'Lakshmanan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jeffrey Xu', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2012 IEEE International Conference on Data Engineering (ICDE 2012)', 'location': 'Arlington, VA, USA', 'start': {'date-parts': [[2012, 4, 1]]}, 'end': {'date-parts': [[2012, 4, 5]]}}, 'container-title': ['2012 IEEE 28th International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6226952/6228063/06228132.pdf?arnumber=6228132', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T21:11:30Z', 'timestamp': 1497993090000}, 'score': 52.77544, 'issued': {'date-parts': [[2012, 4]]}, 'ISBN': ['9780769547473', '9781467300421'], 'references-count': 23, 'URL': 'http://dx.doi.org/10.1109/icde.2012.109'}
+>>> hash >>> ('On Top-k Structural Similarity Search', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Z. Lin, M.R. Lyu, I. King, Extending link-based algorithms for similar web pages with neighborhood structure, in: 2007 IEEE/WIC/ACM International Conference on Web Intelligence, WI 2007, 2–5 November 2007, Silicon Valley, CA, USA, Main Conference Proceedings, 2007, pp. 263–266.
+>>> DOI >>> 10.1109/wi.2007.125
+>>> URL >>> http://dx.doi.org/10.1109/wi.2007.125
+>>> year >>> 2007.0
+>>> title >>> Extending Link-based Algorithms for Similar Web Pages with Neighborhood Structure
+>>> author >>> Zhenjiang Lin and Michael R. Lyu and Irwin King
+>>> reference_count >>> 5.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ["IEEE/WIC/ACM International Conference on Web Intelligence (WI'07)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T09:16:41Z', 'timestamp': 1525425401763}, 'reference-count': 5, 'publisher': 'IEEE', 'isbn-type': [{'value': '9780769530260', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007, 11]]}, 'DOI': '10.1109/wi.2007.125', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 4, 28]], 'date-time': '2008-04-28T17:20:22Z', 'timestamp': 1209403222000}, 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['Extending Link-based Algorithms for Similar Web Pages with Neighborhood Structure'], 'prefix': '10.1109', 'author': [{'given': 'Zhenjiang', 'family': 'Lin', 'sequence': 'first', 'affiliation': []}, {'given': 'Michael R.', 'family': 'Lyu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Irwin', 'family': 'King', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "IEEE/WIC/ACM International Conference on Web Intelligence (WI'07)", 'location': 'Fremont, CA, USA', 'start': {'date-parts': [[2007, 11, 2]]}, 'end': {'date-parts': [[2007, 11, 5]]}}, 'container-title': ["IEEE/WIC/ACM International Conference on Web Intelligence (WI'07)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4427043/4427044/04427097.pdf?arnumber=4427097', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T20:07:11Z', 'timestamp': 1489694831000}, 'score': 134.67146, 'issued': {'date-parts': [[2007, 11]]}, 'ISBN': ['0769530265', '9780769530260'], 'references-count': 5, 'URL': 'http://dx.doi.org/10.1109/wi.2007.125'}
+>>> hash >>> ('Extending Link-based Algorithms for Similar Web Pages with Neighborhood Structure', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K. Khan, B.B. Baharudin, A. Khan, Semantic-based unsupervised hybrid technique for opinion targets extraction from unstructured reviews, Arab. J. Sci. Eng. 39 (5) (2014) 3681–3689.
+>>> DOI >>> 10.1007/s13369-014-0990-1
+>>> URL >>> http://dx.doi.org/10.1007/s13369-014-0990-1
+>>> year >>> 2014.0
+>>> title >>> Semantic-Based Unsupervised Hybrid Technique for Opinion Targets Extraction from Unstructured Reviews
+>>> author >>> Khairullah Khan and Baharum B. Baharudin and Aurangzeb Khan
+>>> reference_count >>> 25.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['Arabian Journal for Science and Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T08:27:59Z', 'timestamp': 1525768079006}, 'reference-count': 25, 'publisher': 'Springer Nature', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Arab J Sci Eng'], 'published-print': {'date-parts': [[2014, 5]]}, 'DOI': '10.1007/s13369-014-0990-1', 'type': 'journal-article', 'created': {'date-parts': [[2014, 2, 28]], 'date-time': '2014-02-28T13:48:35Z', 'timestamp': 1393595315000}, 'page': '3681-3689', 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['Semantic-Based Unsupervised Hybrid Technique for Opinion Targets Extraction from Unstructured Reviews'], 'prefix': '10.1007', 'volume': '39', 'author': [{'given': 'Khairullah', 'family': 'Khan', 'sequence': 'first', 'affiliation': []}, {'given': 'Baharum B.', 'family': 'Baharudin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Aurangzeb', 'family': 'Khan', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2014, 3, 1]]}, 'reference': [{'key': '990_CR1', 'doi-asserted-by': 'crossref', 'first-page': '1585', 'DOI': '10.1007/s13369-012-0263-9', 'volume': '37', 'author': 'M. Al-Kabi', 'year': '2012', 'unstructured': 'Al-Kabi M., et\xa0al.: Examining Web search trends across Arab countries. Arab. J. Sci. Eng. 37, 1585–1593 (2012)', 'journal-title': 'Arab. J. Sci. Eng.'}, {'key': '990_CR2', 'unstructured': 'Pang, B.; Lee, L.: Opinion mining and sentiment analysis. Found. Trends Inf. Retr. 2, 135 (2008)', 'DOI': '10.1561/1500000011', 'doi-asserted-by': 'crossref'}, {'key': '990_CR3', 'unstructured': 'Liu, B.: Sentiment Analysis and Subjectivity. Handbook of Natural Language Processing (2nd edn.), pp. 627–666 (2010)'}, {'key': '990_CR4', 'unstructured': 'Feldman, R., et\xa0al.: Extracting product comparisons from discussion boards. Presented at the the 2007 Seventh IEEE International Conference on Data Mining (2007)', 'DOI': '10.1109/ICDM.2007.27', 'doi-asserted-by': 'crossref'}, {'key': '990_CR5', 'unstructured': 'Weiss, S.M., et\xa0al.: Text mining (2005)'}, {'key': '990_CR6', 'unstructured': 'Bloom, K., et\xa0al.: Extracting appraisal expressions. In: Human Language Technologies 2007: The Conference of the North American Chapter of the Association for Computational Linguistics, pp. 308–315. Rochester, New York (2007)'}, {'key': '990_CR7', 'unstructured': 'Ben-David, S., et\xa0al.: Analysis of representations for domain adaptation. Adv. Neural Inf. Process. Syst. 19 (2007)'}, {'key': '990_CR8', 'unstructured': 'Lu, Y.; Zhai, C.: Opinion integration through semi-supervised topic modeling. In: 17th International World Wide Web Conference (WWW ’08), pp. 121–130. Beijing, China (2008)', 'DOI': '10.1145/1367497.1367514', 'doi-asserted-by': 'crossref'}, {'key': '990_CR9', 'unstructured': 'Kessler, J.S., et\xa0al.: The 2010 icwsm jdpa sentment corpus for the automotive domain. In: 4th International AAAI Conference on Weblogs and Social Media Data Workshop Challenge (ICWSMDWC2010), Washington, DC (2010)'}, {'key': '990_CR10', 'unstructured': 'Lin, C.J.; Chao, P.H.: Tourism related opinion detection and tourist attraction target identification. Int. J. Comput. Linguist. Chin. Lang. Process. 15 (2010)'}, {'key': '990_CR11', 'unstructured': 'Zhai, Z., et\xa0al.: Clustering product features for opinion mining. Presented at the The fourth ACM international conference on Web search and data mining, Hong Kong (2011)', 'DOI': '10.1145/1935826.1935884', 'doi-asserted-by': 'crossref'}, {'key': '990_CR12', 'unstructured': 'Goujon, B.: Text mining for opinion target detection. In: European Intelligence and Security Informatics Conference (EISIC), pp. 332–326 (2011)'}, {'key': '990_CR13', 'unstructured': 'Hu, M.; Liu, B.: Mining and summarizing customer reviews. Presented at the 10th ACM SIGKDD international conference on Knowledge discovery and data mining, Seattle (2004)', 'DOI': '10.1145/1014052.1014073', 'doi-asserted-by': 'crossref'}, {'key': '990_CR14', 'unstructured': 'Agrawal, R.; Srikant, R.: Fast algorithms for mining association rules in large databases. Presented at the 20th International Conference on Very Large Data Bases (1994)'}, {'key': '990_CR15', 'unstructured': 'Wei, C.-P., et\xa0al.: Understanding what concerns consumers: a semantic approach to product features extraction from consumer reviews. Inf. Syst. E-bus Manag. pp. 149–167 (2010)'}, {'key': '990_CR16', 'unstructured': 'Dunning, T.:Accurate methods for the statistics of surprise and coincidence. Comput. Linguist. 19, pp. 61–74, 1993'}, {'key': '990_CR17', 'unstructured': 'Yi, J., et\xa0al.: Sentiment analyzer: extracting sentiments about a given topic using natural language processing techniques. In: Third IEEE International Conference on Data Mining (ICDM), pp. 427–434 (2003)', 'DOI': '10.1109/ICDM.2003.1250949', 'doi-asserted-by': 'crossref'}, {'key': '990_CR18', 'unstructured': 'Ferreira, L., et\xa0al.: A comparative study of feature extraction algorithms in customer reviews. In: 2008 IEEE International Conference on Semantic Computing, pp. 144–151 (2008)', 'DOI': '10.1109/ICSC.2008.40', 'doi-asserted-by': 'crossref'}, {'key': '990_CR19', 'unstructured': 'Stark, M.M.; Riesenfeld, R.F.: WordNet: an electronic lexical database. Presented at the 11th Eurographics Workshop on Rendering (1998)'}, {'key': '990_CR20', 'unstructured': 'Kamps, J., et\xa0al.: Using WordNet to measure semantic orientation of adjectives. In: 4th International Conference on Language Resources and Evaluation, pp. 1115–1118 (2004)'}, {'key': '990_CR21', 'unstructured': 'Resnik, P.: Semantic similarity in a taxonomy: an information-based measure and its application to problems of ambiguity in natural language. J. Artif. Intell. Res. 11, 95–130 (1999)'}, {'key': '990_CR22', 'unstructured': 'Xu, X., et\xa0al.: Aspect-based extractive summarization of online reviews. Presented at the 2011 ACM Symposium on Applied Computing, TaiChung (2011)'}, {'key': '990_CR23', 'unstructured': 'Ganesan, K.; Zhai, C.X.; Han, J.: Opinosis: a graph based approach to abstractive summarization of highly redundant opinions. In: 23rd International Conference on Computational Linguistics (COLING 2010), Beijing (2010)'}, {'key': '990_CR24', 'unstructured': 'Lopez-Fernandez, A., et\xa0al.: Feature extraction from product reviews using feature similarity and polarity (2009)'}, {'key': '990_CR25', 'unstructured': 'Toutanova, K.; Manning, C.D.: Enriching the knowledge sources used in a maximum entropy part-of-speech tagger. In: The Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora (EMNLP/VLC-2000), pp. 63–70 (2000)'}], 'container-title': ['Arabian Journal for Science and Engineering'], 'language': 'en', 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/s13369-014-0990-1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T08:47:33Z', 'timestamp': 1498121253000}, 'score': 128.86336, 'issued': {'date-parts': [[2014, 3, 1]]}, 'references-count': 25, 'journal-issue': {'published-print': {'date-parts': [[2014, 5]]}, 'issue': '5'}, 'alternative-id': ['990'], 'URL': 'http://dx.doi.org/10.1007/s13369-014-0990-1', 'relation': {'cites': []}, 'ISSN': ['1319-8025', '2191-4281'], 'issn-type': [{'value': '1319-8025', 'type': 'print'}, {'value': '2191-4281', 'type': 'electronic'}]}
+>>> hash >>> ('Semantic-Based Unsupervised Hybrid Technique for Opinion Targets Extraction from Unstructured Reviews', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Amsler, Application of citation-based automatic classification, Technical Report, The University of Texas at Austin Linguistics Research Center, December 1972.
+>>> DOI >>> 10.2172/5648697
+>>> URL >>> http://dx.doi.org/10.2172/5648697
+>>> year >>> 1982.0
+>>> title >>> Fusion Research Center, theory program. Progress report
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'Historical Energy Database (United States)', 'place': ['-', '-', '-'], 'acronym': ['HEDB', '-', '-']}, 'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T21:30:09Z', 'timestamp': 1525728609007}, 'reference-count': 0, 'publisher': 'Office of Scientific and Technical Information  (OSTI)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.2172/5648697', 'type': 'report', 'created': {'date-parts': [[2013, 8, 7]], 'date-time': '2013-08-07T03:48:40Z', 'timestamp': 1375847320000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Fusion Research Center, theory program. Progress report'], 'prefix': '10.2172', 'author': [{'name': 'Texas Univ., Austin (USA). Fusion Research Center', 'sequence': 'first', 'affiliation': []}], 'member': '960', 'published-online': {'date-parts': [[1982, 1, 1]]}, 'deposited': {'date-parts': [[2013, 8, 7]], 'date-time': '2013-08-07T03:48:40Z', 'timestamp': 1375847320000}, 'score': 40.044178, 'issued': {'date-parts': [[1982, 1, 1]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.2172/5648697'}
+>>> hash >>> ('Fusion Research Center, theory program. Progress report', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Z. Lin, I. King, M.R. Lyu, Pagesim: a novel link-based similarity measure for the world wide web, in: WI, 2012, pp. 687–693.
+>>> DOI >>> 10.1109/wi.2006.127
+>>> URL >>> http://dx.doi.org/10.1109/wi.2006.127
+>>> year >>> 2006.0
+>>> title >>> PageSim: A Novel Link-Based Similarity Measure for the World Wide Web
+>>> author >>> Zhenjiang Lin and Irwin King and Michael Lyu
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ["2006 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2006 Main Conference Proceedings)(WI'06)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T10:25:34Z', 'timestamp': 1525343134931}, 'reference-count': 19, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769527477', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006, 12]]}, 'DOI': '10.1109/wi.2006.127', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 1, 19]], 'date-time': '2007-01-19T16:03:20Z', 'timestamp': 1169222600000}, 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['PageSim: A Novel Link-Based Similarity Measure for the World Wide Web'], 'prefix': '10.1109', 'author': [{'given': 'Zhenjiang', 'family': 'Lin', 'sequence': 'first', 'affiliation': []}, {'given': 'Irwin', 'family': 'King', 'sequence': 'additional', 'affiliation': []}, {'given': 'Michael', 'family': 'Lyu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2006 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2006 Main Conference Proceedings)(WI'06)", 'location': 'Hong Kong, China', 'start': {'date-parts': [[2006, 12, 18]]}, 'end': {'date-parts': [[2006, 12, 22]]}}, 'container-title': ["2006 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2006 Main Conference Proceedings)(WI'06)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4061321/4061322/04061454.pdf?arnumber=4061454', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T13:20:10Z', 'timestamp': 1497705610000}, 'score': 91.919525, 'issued': {'date-parts': [[2006, 12]]}, 'ISBN': ['0769527477'], 'references-count': 19, 'URL': 'http://dx.doi.org/10.1109/wi.2006.127'}
+>>> hash >>> ('PageSim: A Novel Link-Based Similarity Measure for the World Wide Web', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Lizorkin, P. Velikhov, M.N. Grinev, D. Turdakov, Accuracy estimate and optimization techniques for simrank computation, VLDB J. 19 (1) (2010) 45–66.
+>>> DOI >>> 10.1007/s00778-009-0168-8
+>>> URL >>> http://dx.doi.org/10.1007/s00778-009-0168-8
+>>> year >>> 2009.0
+>>> title >>> Accuracy estimate and optimization techniques for SimRank computation
+>>> author >>> Dmitry Lizorkin and Pavel Velikhov and Maxim Grinev and Denis Turdakov
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 31.0
+>>> subject >>> None
+>>> container_title >>> ['The VLDB Journal']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T05:32:31Z', 'timestamp': 1525498351992}, 'reference-count': 32, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['The VLDB Journal'], 'published-print': {'date-parts': [[2010, 2]]}, 'DOI': '10.1007/s00778-009-0168-8', 'type': 'journal-article', 'created': {'date-parts': [[2009, 10, 5]], 'date-time': '2009-10-05T17:02:44Z', 'timestamp': 1254762164000}, 'page': '45-66', 'source': 'Crossref', 'is-referenced-by-count': 31, 'title': ['Accuracy estimate and optimization techniques for SimRank computation'], 'prefix': '10.1007', 'volume': '19', 'author': [{'given': 'Dmitry', 'family': 'Lizorkin', 'sequence': 'first', 'affiliation': []}, {'given': 'Pavel', 'family': 'Velikhov', 'sequence': 'additional', 'affiliation': []}, {'given': 'Maxim', 'family': 'Grinev', 'sequence': 'additional', 'affiliation': []}, {'given': 'Denis', 'family': 'Turdakov', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2009, 10, 6]]}, 'reference': [{'key': '168_CR1', 'unstructured': 'Abelson, H., Sussman, G.J.: Structure and Interpretation of Computer Programs, 2nd edn. The MIT Press (1996). http://mitpress.mit.edu/sicp/full-text/book/book.html'}, {'key': '168_CR2', 'unstructured': 'Andersen, R., Chung, F., Lang, K.: Local graph partitioning using PageRank vectors. In: FOCS ’06: Proceedings of the 47th Annual IEEE Symposium on Foundations of Computer Science, pp. 475–486. IEEE Computer Society, Washington, DC, USA (2006). doi: 10.1109/FOCS.2006.44'}, {'issue': '1', 'key': '168_CR3', 'doi-asserted-by': 'crossref', 'first-page': '408', 'DOI': '10.14778/1453856.1453903', 'volume': '1', 'author': 'I. Antonellis', 'year': '2008', 'unstructured': 'Antonellis I., Molina H.G., Chang C.C.: Simrank++: query rewriting through link analysis of the click graph. Proc. VLDB Endow. 1(1), 408–421 (2008). doi: 10.1145/1453856.1453903', 'journal-title': 'Proc. VLDB Endow.'}, {'key': '168_CR4', 'unstructured': 'Brin, S., Page, L.: The anatomy of a large-scale hypertextual Web search engine. Comput. Networks ISDN Syst. 30(1–7), 107–117 (1998). http://www.citeseer.ist.psu.edu/brin98anatomy.html'}, {'issue': '5', 'key': '168_CR5', 'doi-asserted-by': 'crossref', 'first-page': '058,701', 'DOI': '10.1103/PhysRevLett.90.058701', 'volume': '90', 'author': 'R. Cohen', 'year': '2003', 'unstructured': 'Cohen R., Havlin S.: Scale-free networks are ultrasmall. Phys. Rev. Lett. 90(5), 058,701 (2003). doi: 10.1103/PhysRevLett.90.058701', 'journal-title': 'Phys. Rev. Lett.'}, {'key': '168_CR6', 'unstructured': 'Flake, G.W., Lawrence, S., Giles, C.L.: Efficient identification of web communities. In: Sixth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 150–160. ACM Press, New York (2000)'}, {'key': '168_CR7', 'unstructured': 'Fogaras, D., Rácz, B.: Scaling link-based similarity search. In: WWW ’05: Proceedings of the 14th International Conference on World Wide Web, pp. 641–650. ACM, New York, NY, USA (2005). doi: 10.1145/1060745.1060839'}, {'key': '168_CR8', 'unstructured': 'Gabrilovich, E., Markovitch, S.: Computing semantic relatedness using Wikipedia-based explicit semantic analysis. In: Proceedings of the Twentieth International Joint Conference for Artificial Intelligence, pp. 1606–1611. Hyderabad, India (2007). http://www.cs.technion.ac.il/~shaulm/papers/pdf/Gabrilovich-Markovitch-ijcai2007.pdf'}, {'issue': '1', 'key': '168_CR9', 'first-page': '64', 'volume': '21', 'author': 'P. Ganesan', 'year': '2003', 'unstructured': 'Ganesan P., Garcia-Molina H., Widom J.: Exploiting hierarchical domain structure to compute similarity. ACM Trans. Inf. Syst. 21(1), 64–93 (2003). doi: 10.1145/635484.635487', 'journal-title': 'ACM Trans. Inf. Syst.'}, {'key': '168_CR10', 'unstructured': 'Geerts, F., Mannila, H., Terzi, E.: Relational link-based ranking. In: VLDB’2004: Proceedings of the Thirtieth International Conference on Very Large Data Bases, pp. 552–563. VLDB Endowment (2004)'}, {'key': '168_CR11', 'unstructured': 'Gleich, D.: Fast parallel pagerank: a linear system approach. Technical report (2004)'}, {'key': '168_CR12', 'unstructured': 'Jeh, G., Widom, J.: SimRank: a measure of structural-context similarity. In: KDD ’02: Proceedings of the Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 538–543. ACM Press, New York (2002). doi: 10.1145/775047.775126'}, {'key': '168_CR13', 'unstructured': 'Kamvar, S., Haveliwala, T., Manning, C., Golub, G.: Exploiting the block structure of the web for computing pagerank. Technical report (2003)'}, {'key': '168_CR14', 'unstructured': 'Kohlschütter, C., Chirita, P.A., Chirita, R., Nejdl, W.: Efficient parallel computation of pagerank. In: In Proceedings of the 28th European Conference on Information Retrieval, pp. 241–252 (2006)'}, {'key': '168_CR15', 'first-page': '1209', 'volume': '11', 'author': 'M. Kronrod', 'year': '1970', 'unstructured': 'Kronrod M., Arlazarov V., Dinic E., Faradzev I.: On economic construction of the transitive closure of a direct graph. Sov. Math (Doklady) 11, 1209–1210 (1970)', 'journal-title': 'Sov. Math (Doklady)'}, {'key': '168_CR16', 'unstructured': 'Li, L., Alderson, D., Tanaka, R., Doyle, J.C., Willinger, W.: Towards a theory of scale-free graphs: definition, properties, and implications (extended version). CoRR abs/cond-mat/0501169 (2005)'}, {'key': '168_CR17', 'unstructured': 'Liberty, E., Zucker, S.W.: The mailman algorithm: a note on matrix-vector multiplication. Inf. Process. Lett. 109(3), 179–182 (2009). http://www.cs.yale.edu/homes/el327/papers/mailmanAlgorithm.pdf'}, {'key': '168_CR18', 'unstructured': 'Lin, D.: An information-theoretic definition of similarity. In: Proceedings of 15th International Conference on Machine Learning, pp. 296–304. Morgan Kaufmann, San Francisco, CA (1998). citeseer.ist.psu.edu/95071.html'}, {'key': '168_CR19', 'unstructured': 'Lin, Z., King, I., Lyu, M.R.: PageSim: a novel link-based similarity measure for the world wide web. In: WI ’06: Proceedings of the 2006 IEEE/WIC/ACM International Conference on Web Intelligence, pp. 687–693. IEEE Computer Society, Washington, DC, USA (2006). doi: 10.1109/WI.2006.127'}, {'key': '168_CR20', 'unstructured': 'Lizorkin, D., Medelyan, O., Grineva, M.: Analysis of community structure in wikipedia. In: WWW ’09: Proceedings of the 18th International Conference on World Wide Web, pp. 1221–1222. ACM, New York, NY, USA (2009). doi: 10.1145/1526709.1526938'}, {'issue': '1', 'key': '168_CR21', 'first-page': '422', 'volume': '1', 'author': 'D. Lizorkin', 'year': '2008', 'unstructured': 'Lizorkin D., Velikhov P., Grinev M., Turdakov D.: Accuracy estimate and optimization techniques for SimRank computation. PVLDB 1(1), 422–433 (2008)', 'journal-title': 'PVLDB'}, {'key': '168_CR22', 'unstructured': 'Lu, W., Janssen, J., Milios, E.E., Japkowicz, N.: Node similarity in networked information spaces. In: Stewart, D.A., Johnson, J.H. (eds.) CASCON, p. 11. IBM (2001). http://dblp.uni-trier.de/db/conf/cascon/cascon2001.html#LuJMJ01'}, {'key': '168_CR23', 'unstructured': 'Maguitman, A.G., Menczer, F., Erdinc, F., Roinestad, H., Vespignani, A.: Algorithmic computation and approximation of semantic similarity. World Wide Web 9(4), 431–456 (2006). http://portal.acm.org/citation.cfm?id=1210403.1210410'}, {'key': '168_CR24', 'unstructured': 'Manaskasemsak, B., Rungsawang, A.: Parallel pagerank computation on a gigabit PC cluster. In: AINA ’04: Proceedings of the 18th International Conference on Advanced Information Networking and Applications, vol. 1, pp. 273-277. IEEE Computer Society, Washington, DC, USA (2004)'}, {'key': '168_CR25', 'unstructured': 'Newman, M.E., Girvan, M.: Finding and evaluating community structure in networks. Phys. Rev. E Stat. Nonlinear Soft Matter Phys. 69(2), 1–15 (2004). http://www.ncbi.nlm.nih.gov/pubmed/14995526'}, {'key': '168_CR26', 'unstructured': 'Page, L., Brin, S., Motwani, R., Winograd, T.: The pagerank citation ranking: bringing order to the web. Technical Report 1999-66, Stanford InfoLab (1999). http://ilpubs.stanford.edu:8090/422/'}, {'key': '168_CR27', 'unstructured': 'Shi, S., Yu, J., Yang, G., Wang, D.: Distributed page ranking in structured p2p networks. In: In ICPP, pp. 179–186 (2003)'}, {'issue': '4', 'key': '168_CR28', 'first-page': '265', 'volume': '24', 'author': 'H. Small', 'year': '1973', 'unstructured': 'Small H.: Co-citation in the scientific literature: a new measure of the relationship between two documents. J. Am. Soc. Inf. Sci. 24(4), 265–269 (1973)', 'journal-title': 'J. Am. Soc. Inf. Sci.'}, {'key': '168_CR29', 'unstructured': 'Song, C., Havlin, S., Makse, H.A.: Self-similarity of complex networks (2005). http://arxiv.org/abs/cond-mat/0503078'}, {'key': '168_CR30', 'unstructured': 'Strube, M., Ponzetto, S.: WikiRelate! Computing semantic relatedness using Wikipedia. In: Proceedings of the 21st National Conference on Artificial Intelligence (AAAI-06), pp. 1419–1424. Boston, Mass. (2006)'}, {'key': '168_CR31', 'unstructured': 'Xi, W., Fox, E.A., Fan, W., Zhang, B., Chen, Z., Yan, J., Zhuang, D.: SimFusion: measuring similarity using unified relationship matrix. In: SIGIR ’05: Proceedings of the 28th International ACM SIGIR Conference on Research and Development in Information Retrieval, pp. 130–137. ACM, New York, NY, USA (2005)'}, {'key': '168_CR32', 'unstructured': 'Zesch, T., Gurevych, I.: Analysis of the Wikipedia category graph for NLP applications. In: Proceedings of the TextGraphs-2 Workshop (NAACL-HLT 2007), pp. 1–8 (2007)'}], 'container-title': ['The VLDB Journal'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s00778-009-0168-8', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T00:23:59Z', 'timestamp': 1497831839000}, 'score': 115.981674, 'issued': {'date-parts': [[2009, 10, 6]]}, 'references-count': 32, 'journal-issue': {'published-print': {'date-parts': [[2010, 2]]}, 'issue': '1'}, 'alternative-id': ['168'], 'URL': 'http://dx.doi.org/10.1007/s00778-009-0168-8', 'relation': {'cites': []}, 'ISSN': ['1066-8888', '0949-877X'], 'issn-type': [{'value': '1066-8888', 'type': 'print'}, {'value': '0949-877X', 'type': 'electronic'}]}
+>>> hash >>> ('Accuracy estimate and optimization techniques for SimRank computation', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Leskovec, K.J. Lang, A. Dasgupta, M.W. Mahoney, Community structure in large networks: Natural cluster sizes and the absence of large well-defined clusters, 2008, CoRR abs/0810.1355.
+>>> DOI >>> 10.1080/15427951.2009.10129177
+>>> URL >>> http://dx.doi.org/10.1080/15427951.2009.10129177
+>>> year >>> 2009.0
+>>> title >>> Community Structure in Large Networks: Natural Cluster Sizes and the Absence of Large Well-Defined Clusters
+>>> author >>> Jure Leskovec and Kevin J. Lang and Anirban Dasgupta and Michael W. Mahoney
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 489.0
+>>> subject >>> None
+>>> container_title >>> ['Internet Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T08:42:37Z', 'timestamp': 1528188157031}, 'reference-count': 0, 'publisher': 'Internet Mathematics', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Internet Mathematics'], 'published-print': {'date-parts': [[2009, 1]]}, 'DOI': '10.1080/15427951.2009.10129177', 'type': 'journal-article', 'created': {'date-parts': [[2011, 3, 10]], 'date-time': '2011-03-10T03:29:58Z', 'timestamp': 1299727798000}, 'page': '29-123', 'source': 'Crossref', 'is-referenced-by-count': 489, 'title': ['Community Structure in Large Networks: Natural Cluster Sizes and the Absence of Large Well-Defined Clusters'], 'prefix': '10.24166', 'volume': '6', 'author': [{'given': 'Jure', 'family': 'Leskovec', 'sequence': 'first', 'affiliation': []}, {'given': 'Kevin J.', 'family': 'Lang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Anirban', 'family': 'Dasgupta', 'sequence': 'additional', 'affiliation': []}, {'given': 'Michael W.', 'family': 'Mahoney', 'sequence': 'additional', 'affiliation': []}], 'member': '10257', 'container-title': ['Internet Mathematics'], 'language': 'en', 'link': [{'URL': 'http://www.tandfonline.com/doi/pdf/10.1080/15427951.2009.10129177', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 5, 11]], 'date-time': '2017-05-11T14:40:59Z', 'timestamp': 1494513659000}, 'score': 104.5368, 'issued': {'date-parts': [[2009, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2009, 1]]}, 'issue': '1'}, 'alternative-id': ['10.1080/15427951.2009.10129177'], 'URL': 'http://dx.doi.org/10.1080/15427951.2009.10129177', 'ISSN': ['1542-7951', '1944-9488'], 'issn-type': [{'value': '1542-7951', 'type': 'print'}, {'value': '1944-9488', 'type': 'electronic'}]}
+>>> hash >>> ('Community Structure in Large Networks: Natural Cluster Sizes and the Absence of Large Well-Defined Clusters', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y. Cai, S. Chakravarthy, Pairwise similarity calculation of information networks, in: Proceedings of Data Warehousing and Knowledge Discovery—13th International Conference, DaWaK 2011, Toulouse, France, August 29–September 2, 2011, pp. 316–329.
+>>> DOI >>> 10.1007/978-3-642-23544-3_24
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-23544-3_24
+>>> year >>> 2011.0
+>>> title >>> Pairwise Similarity Calculation of Information Networks
+>>> author >>> Yuanzhe Cai and Sharma Chakravarthy
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Data Warehousing and Knowledge Discovery', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T10:58:04Z', 'timestamp': 1525431484503}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 15, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642235436', 'type': 'print'}, {'value': '9783642235443', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2011, 1, 1]], 'date-time': '2011-01-01T00:00:00Z', 'timestamp': 1293840000000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011]]}, 'DOI': '10.1007/978-3-642-23544-3_24', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 8, 17]], 'date-time': '2011-08-17T12:35:33Z', 'timestamp': 1313584533000}, 'page': '316-329', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Pairwise Similarity Calculation of Information Networks'], 'prefix': '10.1007', 'author': [{'given': 'Yuanzhe', 'family': 'Cai', 'sequence': 'first', 'affiliation': []}, {'given': 'Sharma', 'family': 'Chakravarthy', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': '24_CR1', 'unstructured': 'South florida ecosystems, http://www.cbl.umces.edu/atlss/ATLSS.html'}, {'key': '24_CR2', 'unstructured': 'Cai, Y., Chakarvarthy, S.: Extension to Pairwise Similiarity calculation in Information Networks. Technical Report TR CSE-2010-4, UT arlington. University of Texas, Arlington (May 2010)'}, {'key': '24_CR3', 'unstructured': 'Cai, Y., Cong, G., Jia, X., Liu, H., He, J., Lu, J., Du, X.: Efficient algorithm for computing link-based similarity in real world networks. In: Proceedings of the 2009 Ninth IEEE International Conference on Data Mining, pp. 734–739 (2009)', 'DOI': '10.1109/ICDM.2009.136', 'doi-asserted-by': 'crossref'}, {'key': '24_CR4', 'unstructured': 'Fogaras, D., Rcz, B.: Scaling link-based similarity search. In: Proceedings of the 14th International Conference on World Wide Web, pp. 641–650 (2005)', 'DOI': '10.1145/1060745.1060839', 'doi-asserted-by': 'crossref'}, {'issue': '4', 'key': '24_CR5', 'doi-asserted-by': 'publisher', 'first-page': '422', 'DOI': '10.1145/582415.582418', 'volume': '20', 'author': 'K. Jarvelin', 'year': '2002', 'unstructured': 'Jarvelin, K., Keklinen, J.: Cumulated gain-based evaluation of ir techniques. ACM Transactions on Information Systems\xa020(4), 422–446 (2002)', 'journal-title': 'ACM Transactions on Information Systems'}, {'key': '24_CR6', 'unstructured': 'Jeh, G., Widom, J.: Simrank: a measure of structural-context similarity. In: Proceedings of the Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 538–543 (2002)', 'DOI': '10.1145/775047.775126', 'doi-asserted-by': 'crossref'}, {'issue': '1', 'key': '24_CR7', 'doi-asserted-by': 'publisher', 'first-page': '10', 'DOI': '10.1002/asi.5090140103', 'volume': '14', 'author': 'M.M. Kessler', 'year': '1969', 'unstructured': 'Kessler, M.M.: Bibliographic coupling between scientific papers. American Documentation\xa014(1), 10–25 (1969)', 'journal-title': 'American Documentation'}, {'key': '24_CR8', 'first-page': '1', 'volume': '2', 'author': 'L. Lovsz', 'year': '1991', 'unstructured': 'Lovsz, L.: Random walks on graphs: A survey. Bolyai Society Mathematical Studies\xa02, 1–46 (1991)', 'journal-title': 'Bolyai Society Mathematical Studies'}, {'issue': '3', 'key': '24_CR9', 'doi-asserted-by': 'publisher', 'first-page': '335', 'DOI': '10.1080/15427951.2004.10129091', 'volume': '1', 'author': 'A.N. Langville', 'year': '2004', 'unstructured': 'Langville, A.N., Meyer, C.D.: Deeper inside pagerank. Internet Mathematics\xa01(3), 335–380 (2004)', 'journal-title': 'Internet Mathematics'}, {'issue': '1', 'key': '24_CR10', 'doi-asserted-by': 'publisher', 'first-page': '45', 'DOI': '10.1007/s00778-009-0168-8', 'volume': '19', 'author': 'D. Lizorkin', 'year': '2010', 'unstructured': 'Lizorkin, D., Velikhov, P., Grinev, M., Turdakov, D.: Accuracy estimate and optimization techniques for simrank computation. The VLDB Journal The International Journal on Very Large Data Bases\xa019(1), 45–66 (2010)', 'journal-title': 'The VLDB Journal The International Journal on Very Large Data Bases'}, {'issue': '4', 'key': '24_CR11', 'doi-asserted-by': 'publisher', 'first-page': '367', 'DOI': '10.2307/2937047', 'volume': '61', 'author': 'N.D. Martinez', 'year': '1991', 'unstructured': 'Martinez, N.D.: Artifacts or attributes? effects of resolution on the little rock lake food web. Ecological Monographs\xa061(4), 367–392 (1991)', 'journal-title': 'Ecological Monographs'}, {'issue': '5105', 'key': '24_CR12', 'doi-asserted-by': 'publisher', 'first-page': '242', 'DOI': '10.1126/science.260.5105.242', 'volume': '260', 'author': 'N.D. Martinez', 'year': '1993', 'unstructured': 'Martinez, N.D.: Effect of scale on food web structure. Science\xa0260(5105), 242–243 (1993)', 'journal-title': 'Science'}, {'key': '24_CR13', 'first-page': '28', 'volume': '2', 'author': 'H. Small', 'year': '1974', 'unstructured': 'Small, H.: Co-citation in the scientific literature: A new measure of the relationship between two documents. Journal of the American Society for Information Science\xa02, 28–31 (1974)', 'journal-title': 'Journal of the American Society for Information Science'}, {'key': '24_CR14', 'unstructured': 'Yin, X., Han, J., Yu, P.S.: Linkclus: efficient clustering via heterogeneous semantic links. In: Proceedings of the 32nd International Conference on Very Large Data Bases, pp. 427–438 (2006)'}, {'key': '24_CR15', 'doi-asserted-by': 'publisher', 'first-page': '327', 'DOI': '10.2307/3546748', 'volume': '87', 'author': 'P. Yodzis', 'year': '1999', 'unstructured': 'Yodzis, P., Winemiller, K.O.: In search of operational trophospecies in a tropical aquatic food web. Oikos\xa087, 327–340 (1999)', 'journal-title': 'Oikos'}], 'container-title': ['Data Warehousing and Knowledge Discovery', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-642-23544-3_24', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T04:50:48Z', 'timestamp': 1497934248000}, 'score': 89.20482, 'issued': {'date-parts': [[2011]]}, 'ISBN': ['9783642235436', '9783642235443'], 'references-count': 15, 'URL': 'http://dx.doi.org/10.1007/978-3-642-23544-3_24', 'relation': {'cites': []}, 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Pairwise Similarity Calculation of Information Networks', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. Jeh, J. Widom, Scaling personalized web search, in: WWW, 2003, pp. 271–279.
+>>> DOI >>> 10.1145/775189.775191
+>>> URL >>> http://dx.doi.org/10.1145/775189.775191
+>>> year >>> 2003.0
+>>> title >>> Scaling personalized web search
+>>> author >>> Glen Jeh and Jennifer Widom
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the twelfth international conference on World Wide Web  - WWW '03"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 30]], 'date-time': '2018-04-30T00:54:41Z', 'timestamp': 1525049681169}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.1145/775189.775191', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 2, 4]], 'date-time': '2004-02-04T21:24:20Z', 'timestamp': 1075929860000}, 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Scaling personalized web search'], 'prefix': '10.1145', 'author': [{'given': 'Glen', 'family': 'Jeh', 'sequence': 'first', 'affiliation': []}, {'given': 'Jennifer', 'family': 'Widom', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the twelfth international conference', 'location': 'Budapest, Hungary', 'sponsor': ['ACM, Association for Computing Machinery'], 'acronym': "WWW '03", 'number': '20', 'start': {'date-parts': [[2003, 5, 20]]}, 'end': {'date-parts': [[2003, 5, 24]]}}, 'container-title': ["Proceedings of the twelfth international conference on World Wide Web  - WWW '03"], 'deposited': {'date-parts': [[2015, 4, 9]], 'date-time': '2015-04-09T23:52:14Z', 'timestamp': 1428623534000}, 'score': 70.475365, 'issued': {'date-parts': [[2003]]}, 'ISBN': ['1581136803'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/775189.775191'}
+>>> hash >>> ('Scaling personalized web search', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y. Sun, J. Han, X. Yan, P.S. Yu, T. Wu, Pathsim: meta path-based top-k similarity search in heterogeneous information networks, PVLDB 4 (11) (2011) 992–1003.
+>>> DOI >>> 10.1145/2396761.2398565
+>>> URL >>> http://dx.doi.org/10.1145/2396761.2398565
+>>> year >>> 2012.0
+>>> title >>> User guided entity similarity search using meta-path selection in heterogeneous information networks
+>>> author >>> Xiao Yu and Yizhou Sun and Brandon Norick and Tiancheng Mao and Jiawei Han
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 18.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 21st ACM international conference on Information and knowledge management - CIKM '12"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T22:07:22Z', 'timestamp': 1525558042886}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450311564', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012]]}, 'DOI': '10.1145/2396761.2398565', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 11, 15]], 'date-time': '2012-11-15T16:38:00Z', 'timestamp': 1352997480000}, 'source': 'Crossref', 'is-referenced-by-count': 18, 'title': ['User guided entity similarity search using meta-path selection in heterogeneous information networks'], 'prefix': '10.1145', 'author': [{'given': 'Xiao', 'family': 'Yu', 'sequence': 'first', 'affiliation': []}, {'given': 'Yizhou', 'family': 'Sun', 'sequence': 'additional', 'affiliation': []}, {'given': 'Brandon', 'family': 'Norick', 'sequence': 'additional', 'affiliation': []}, {'given': 'Tiancheng', 'family': 'Mao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jiawei', 'family': 'Han', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 21st ACM international conference', 'location': 'Maui, Hawaii, USA', 'sponsor': ['SIGWEB, ACM Special Interest Group on Hypertext, Hypermedia, and Web', 'SIGIR, ACM Special Interest Group on Information Retrieval'], 'acronym': "CIKM '12", 'number': '21', 'start': {'date-parts': [[2012, 10, 29]]}, 'end': {'date-parts': [[2012, 11, 2]]}}, 'container-title': ["Proceedings of the 21st ACM international conference on Information and knowledge management - CIKM '12"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2398565&amp;ftid=1313412&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T04:07:25Z', 'timestamp': 1481083645000}, 'score': 55.41502, 'issued': {'date-parts': [[2012]]}, 'ISBN': ['9781450311564'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/2396761.2398565'}
+>>> hash >>> ('User guided entity similarity search using meta-path selection in heterogeneous information networks', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Zhang, H. Hu, Z. He, W. Wang, Top-k similarity search in heterogeneous information networks with x-star network schema, in: Expert Systems with Applications, 2015, http://dx.doi.org/10.1016/j.eswa.2014.08.039.
+>>> DOI >>> 10.1016/j.eswa.2014.08.039
+>>> URL >>> http://dx.doi.org/10.1016/j.eswa.2014.08.039
+>>> year >>> 2015.0
+>>> title >>> Top-k similarity search in heterogeneous information networks with x-star network schema
+>>> author >>> Mingxi Zhang and Hao Hu and Zhenying He and Wei Wang
+>>> reference_count >>> 35.0
+>>> is_referenced_by_count >>> 14.0
+>>> subject >>> None
+>>> container_title >>> ['Expert Systems with Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T04:29:46Z', 'timestamp': 1525840186647}, 'reference-count': 35, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2015, 2, 1]], 'date-time': '2015-02-01T00:00:00Z', 'timestamp': 1422748800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'funder': [{'name': 'National Science Foundation of China', 'award': ['61170007', '61170006', '61202376']}, {'name': 'Bidding Program of Shanghai Research Institute of Publishing and Media', 'award': ['SAYB1410']}, {'name': 'Innovation Program of Shanghai Municipal Education Commission', 'award': ['13YZ075', '13ZZ111']}], 'content-domain': {'domain': ['elsevier.com', 'sciencedirect.com'], 'crossmark-restriction': True}, 'short-container-title': ['Expert Systems with Applications'], 'published-print': {'date-parts': [[2015, 2]]}, 'DOI': '10.1016/j.eswa.2014.08.039', 'type': 'journal-article', 'created': {'date-parts': [[2014, 9, 10]], 'date-time': '2014-09-10T11:22:20Z', 'timestamp': 1410348140000}, 'page': '699-712', 'update-policy': 'http://dx.doi.org/10.1016/elsevier_cm_policy', 'source': 'Crossref', 'is-referenced-by-count': 14, 'title': ['Top-k similarity search in heterogeneous information networks with x-star network schema'], 'prefix': '10.1016', 'volume': '42', 'author': [{'given': 'Mingxi', 'family': 'Zhang', 'sequence': 'first', 'affiliation': []}, {'given': 'Hao', 'family': 'Hu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Zhenying', 'family': 'He', 'sequence': 'additional', 'affiliation': []}, {'given': 'Wei', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Expert Systems with Applications'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0957417414005211?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0957417414005211?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T20:11:41Z', 'timestamp': 1498162301000}, 'score': 92.97309, 'issued': {'date-parts': [[2015, 2]]}, 'references-count': 35, 'journal-issue': {'published-print': {'date-parts': [[2015, 2]]}, 'issue': '2'}, 'alternative-id': ['S0957417414005211'], 'URL': 'http://dx.doi.org/10.1016/j.eswa.2014.08.039', 'ISSN': ['0957-4174'], 'issn-type': [{'value': '0957-4174', 'type': 'print'}], 'assertion': [{'value': 'Elsevier', 'name': 'publisher', 'label': 'This article is maintained by'}, {'value': 'Top-k similarity search in heterogeneous information networks with x-star network schema', 'name': 'articletitle', 'label': 'Article Title'}, {'value': 'Expert Systems with Applications', 'name': 'journaltitle', 'label': 'Journal Title'}, {'value': 'http://dx.doi.org/10.1016/j.eswa.2014.08.039', 'name': 'articlelink', 'label': 'CrossRef DOI link to publisher maintained version'}, {'value': 'article', 'name': 'content_type', 'label': 'Content Type'}, {'value': 'Copyright © 2014 Elsevier Ltd. All rights reserved.', 'name': 'copyright', 'label': 'Copyright'}]}
+>>> hash >>> ('Top-k similarity search in heterogeneous information networks with x-star network schema', 2015.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Lizorkin, P. Velikhov, M.N. Grinev, D. Turdakov, Accuracy estimate and optimization techniques for simrank computation, Proc. VLDB Endow. 1 (1) (2008) 422–433.
+>>> DOI >>> 10.14778/1453856.1453904
+>>> URL >>> http://dx.doi.org/10.14778/1453856.1453904
+>>> year >>> 2008.0
+>>> title >>> Accuracy estimate and optimization techniques for SimRank computation
+>>> author >>> Dmitry Lizorkin and Pavel Velikhov and Maxim Grinev and Denis Turdakov
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 20.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:31:27Z', 'timestamp': 1525797087510}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2008, 8, 1]]}, 'DOI': '10.14778/1453856.1453904', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '422-433', 'source': 'Crossref', 'is-referenced-by-count': 20, 'title': ['Accuracy estimate and optimization techniques for SimRank computation'], 'prefix': '10.14778', 'volume': '1', 'author': [{'given': 'Dmitry', 'family': 'Lizorkin', 'sequence': 'first', 'affiliation': []}, {'given': 'Pavel', 'family': 'Velikhov', 'sequence': 'additional', 'affiliation': []}, {'given': 'Maxim', 'family': 'Grinev', 'sequence': 'additional', 'affiliation': []}, {'given': 'Denis', 'family': 'Turdakov', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:18:39Z', 'timestamp': 1403612319000}, 'score': 131.74191, 'issued': {'date-parts': [[2008, 8, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2008, 8, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.14778/1453856.1453904', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('Accuracy estimate and optimization techniques for SimRank computation', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Abusaimeh, M. Shkoukani, F. Alshrouf, Balancing the network clusters for the lifetime enhancement in dense wireless sensor networks, Arab. J. Sci. Eng. 39 (5) (2014) 3771–3779.
+>>> DOI >>> 10.1007/s13369-014-1059-x
+>>> URL >>> http://dx.doi.org/10.1007/s13369-014-1059-x
+>>> year >>> 2014.0
+>>> title >>> Balancing the Network Clusters for the Lifetime Enhancement in Dense Wireless Sensor Networks
+>>> author >>> Hesham Abusaimeh and Mohammad Shkoukani and Faiz Alshrouf
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Arabian Journal for Science and Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T10:19:19Z', 'timestamp': 1525774759955}, 'reference-count': 15, 'publisher': 'Springer Nature', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Arab J Sci Eng'], 'published-print': {'date-parts': [[2014, 5]]}, 'DOI': '10.1007/s13369-014-1059-x', 'type': 'journal-article', 'created': {'date-parts': [[2014, 3, 30]], 'date-time': '2014-03-30T08:24:25Z', 'timestamp': 1396167865000}, 'page': '3771-3779', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Balancing the Network Clusters for the Lifetime Enhancement in Dense Wireless Sensor Networks'], 'prefix': '10.1007', 'volume': '39', 'author': [{'given': 'Hesham', 'family': 'Abusaimeh', 'sequence': 'first', 'affiliation': []}, {'given': 'Mohammad', 'family': 'Shkoukani', 'sequence': 'additional', 'affiliation': []}, {'given': 'Faiz', 'family': 'Alshrouf', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2014, 3, 31]]}, 'reference': [{'key': '1059_CR1', 'unstructured': 'Akyildiz, I.F.; Su, W.; Sankarasubramaniam, Y.; Cyirci, E.: Wireless sensor network: a survey. In: IEEE Communication Magazine, March 2002'}, {'issue': '6', 'key': '1059_CR2', 'doi-asserted-by': 'crossref', 'first-page': '54', 'DOI': '10.1109/MWC.2004.1368897', 'volume': '11', 'author': 'K. Romer', 'year': '2004', 'unstructured': 'Romer, K.; Mattern, F.: The design space of wireless sesnsor network. IEEE Wirel. Commun. 11(6), 54–61 (2004)', 'journal-title': 'IEEE Wirel. Commun.'}, {'key': '1059_CR3', 'unstructured': 'Xu, Y.; Heidemann, J.; Estrin, D.; Geography-informed eneregy conservation for ad Hoc routing. In: ACM/IEEE International Conference Mobile Computing Networking, July 2011, pp.70–84'}, {'key': '1059_CR4', 'unstructured': 'Jindal, A.; Psounis, K.: Aclustering method that uses lossy aggregation of data. ACM Sensys, Nov 2004, pp. 269–270'}, {'key': '1059_CR5', 'unstructured': 'IEEE P802.15 Working Groups for WPANs: Cluster tree network, April 2001'}, {'key': '1059_CR6', 'unstructured': 'Akyildiz, I.F.; Vuran, M.C.; Akan, O.B.: On eploiting spatial and temporal correlation in wireless sensor networks. In: Proceedings of the WiOpt’04: Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks, University of Cambridge, UK, March 2004'}, {'key': '1059_CR7', 'unstructured': 'Roundy, S.; Wright, P.K.; Rabaey, J.M.: Energy Scavenging For Wireless Sensor Network. Kluwer Academic Publishers (2004)', 'DOI': '10.1007/978-1-4615-0485-6', 'doi-asserted-by': 'crossref'}, {'key': '1059_CR8', 'unstructured': 'Abusaimeh, H.; Yang, S.:Energy-aware optimisation of the number of clusters and cluster-Heads in WSN. 2012 International Conference on Innovations in Information Technology (IIT), 978-1-4673-1101-4/12/$31.00 © 2012 IEEE, March 2012', 'DOI': '10.1109/INNOVATIONS.2012.6207726', 'doi-asserted-by': 'crossref'}, {'key': '1059_CR9', 'unstructured': 'Ergen, S.C.: ZigBee/IEEE 802.15.4 Summary. http://www.sinemergen.com/ZigBee.pdf (2004). Accessed Dec 2013'}, {'key': '1059_CR10', 'unstructured': 'Jolly, V.; Latifi, S.:Comprehensive Study of Routing Management in Wireless Sensor Networks Part 2, (2006)'}, {'key': '1059_CR11', 'unstructured': 'Likas, A.; Wlassis, N.; Verbeek, J.J.: The golbal k-means clustering algorithm. The Journal of the Pattern Recognition Society, 2002 Pattern Recognition Society, Published by Elsevier, pp. 451–461, March 2002'}, {'key': '1059_CR12', 'unstructured': 'Kharazian, A.A.; Jamshidi, K.; Khayambashi, M.R.: Adaptive clustering in wireless sensor network: considering nodes with lowest-energy. Int. J. Ad hoc Sens. Ubiquitiois Comput. (IJASUC) (2) (2012)'}, {'key': '1059_CR13', 'unstructured': 'USC Information Sciences Institute, Marina del Rey. Network Simulator-NS2. http://www.isi.edu/nsnam/ns . Accessed Dec 2013'}, {'key': '1059_CR14', 'unstructured': 'IEEE Std 802.15.4-2003, IEEE Standard for Information technology—telecommunications and information exchange between systems—local and metropolitan area networks—specific requirements—part 15.4: wireless medium access control (MAC) and physical layer (PHY), specifications for low-rate wireless personal area networks (LR-WPANs) (2003)'}, {'key': '1059_CR15', 'unstructured': 'Fall K.; Varadhan K.: The ns Manual, (formerly ns Notes and Documentation), 19 Jan 2007'}], 'container-title': ['Arabian Journal for Science and Engineering'], 'language': 'en', 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/s13369-014-1059-x', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T10:37:56Z', 'timestamp': 1498127876000}, 'score': 136.95908, 'issued': {'date-parts': [[2014, 3, 31]]}, 'references-count': 15, 'journal-issue': {'published-print': {'date-parts': [[2014, 5]]}, 'issue': '5'}, 'alternative-id': ['1059'], 'URL': 'http://dx.doi.org/10.1007/s13369-014-1059-x', 'relation': {'cites': []}, 'ISSN': ['1319-8025', '2191-4281'], 'issn-type': [{'value': '1319-8025', 'type': 'print'}, {'value': '2191-4281', 'type': 'electronic'}]}
+>>> hash >>> ('Balancing the Network Clusters for the Lifetime Enhancement in Dense Wireless Sensor Networks', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y. Sun, Y. Yu, J. Han, Ranking-based clustering of heterogeneous information networks with star network schema, in: KDD, 2009, pp. 797–806.
+>>> DOI >>> 10.1145/1557019.1557107
+>>> URL >>> http://dx.doi.org/10.1145/1557019.1557107
+>>> year >>> 2009.0
+>>> title >>> Ranking-based clustering of heterogeneous information networks with star network schema
+>>> author >>> Yizhou Sun and Yintao Yu and Jiawei Han
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 128.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining - KDD '09"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T13:02:29Z', 'timestamp': 1527771749444}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605584959', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1145/1557019.1557107', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 6, 30]], 'date-time': '2009-06-30T13:10:54Z', 'timestamp': 1246367454000}, 'source': 'Crossref', 'is-referenced-by-count': 128, 'title': ['Ranking-based clustering of heterogeneous information networks with star network schema'], 'prefix': '10.1145', 'author': [{'given': 'Yizhou', 'family': 'Sun', 'sequence': 'first', 'affiliation': []}, {'given': 'Yintao', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jiawei', 'family': 'Han', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 15th ACM SIGKDD international conference', 'location': 'Paris, France', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGKDD, ACM Special Interest Group on Knowledge Discovery in Data', 'SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "KDD '09", 'number': '15', 'start': {'date-parts': [[2009, 6, 28]]}, 'end': {'date-parts': [[2009, 7, 1]]}}, 'container-title': ["Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining - KDD '09"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1557107&amp;ftid=643779&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T21:08:39Z', 'timestamp': 1481058519000}, 'score': 79.89909, 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781605584959'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1557019.1557107'}
+>>> hash >>> ('Ranking-based clustering of heterogeneous information networks with star network schema', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M.M. Kessler, Bibliographic coupling between scientific papers, Am. Doc. 14 (1963) 10–25.
+>>> DOI >>> 10.1002/asi.5090140103
+>>> URL >>> http://dx.doi.org/10.1002/asi.5090140103
+>>> year >>> 1963.0
+>>> title >>> Bibliographic coupling between scientific papers
+>>> author >>> M. M. Kessler
+>>> reference_count >>> 2.0
+>>> is_referenced_by_count >>> 494.0
+>>> subject >>> None
+>>> container_title >>> ['American Documentation']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 4]], 'date-time': '2018-06-04T13:42:34Z', 'timestamp': 1528119754695}, 'reference-count': 2, 'publisher': 'Wiley', 'issue': '1', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 19236, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Amer. Doc.'], 'published-print': {'date-parts': [[1963, 1]]}, 'DOI': '10.1002/asi.5090140103', 'type': 'journal-article', 'created': {'date-parts': [[2007, 6, 30]], 'date-time': '2007-06-30T06:16:29Z', 'timestamp': 1183184189000}, 'page': '10-25', 'source': 'Crossref', 'is-referenced-by-count': 494, 'title': ['Bibliographic coupling between scientific papers'], 'prefix': '10.1002', 'volume': '14', 'author': [{'given': 'M. M.', 'family': 'Kessler', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'reference': [{'key': '10.1002/asi.5090140103-BIB1', 'author': 'Kessler', 'year': '1961', 'unstructured': '1961. An experimental study of bibliographic coupling between technical papers. M.I.T. Report R-1, November. (Revised June 1962. To be published in the IRE Transactions PGIT.)'}, {'key': '10.1002/asi.5090140103-BIB2', 'author': 'Kessler', 'year': '1960', 'unstructured': '1960. An experimental communication center for scientific and technical information. M. I. T. 4G-0002, March.'}], 'container-title': ['American Documentation'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fasi.5090140103', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 4, 11]], 'date-time': '2017-04-11T16:54:44Z', 'timestamp': 1491929684000}, 'score': 71.21807, 'issued': {'date-parts': [[1963, 1]]}, 'references-count': 2, 'journal-issue': {'published-print': {'date-parts': [[1963, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1002/asi.5090140103', 'relation': {'cites': []}, 'ISSN': ['0096-946X', '1936-6108'], 'issn-type': [{'value': '0096-946X', 'type': 'print'}, {'value': '1936-6108', 'type': 'electronic'}]}
+>>> hash >>> ('Bibliographic coupling between scientific papers', 1963.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H.G. Small, Co-citation in the scientific literature: a new measure of the relationship between two documents, J. Am. Soc. Inf. Sci. 24 (4) (1973) 265–269.
+>>> DOI >>> 10.1002/asi.4630240406
+>>> URL >>> http://dx.doi.org/10.1002/asi.4630240406
+>>> year >>> 1973.0
+>>> title >>> Co-citation in the scientific literature: A new measure of the relationship between two documents
+>>> author >>> Henry Small
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 991.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the American Society for Information Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T12:22:39Z', 'timestamp': 1528287759928}, 'reference-count': 10, 'publisher': 'Wiley', 'issue': '4', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 15402, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J. Am. Soc. Inf. Sci.'], 'published-print': {'date-parts': [[1973, 7]]}, 'DOI': '10.1002/asi.4630240406', 'type': 'journal-article', 'created': {'date-parts': [[2007, 6, 27]], 'date-time': '2007-06-27T19:46:47Z', 'timestamp': 1182973607000}, 'page': '265-269', 'source': 'Crossref', 'is-referenced-by-count': 991, 'title': ['Co-citation in the scientific literature: A new measure of the relationship between two documents'], 'prefix': '10.1002', 'volume': '24', 'author': [{'given': 'Henry', 'family': 'Small', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'reference': [{'key': '10.1002/asi.4630240406-BIB1', 'author': 'Kessler', 'volume': '14', 'first-page': '10', 'year': '1963', 'journal-title': 'American Documentation'}, {'key': '10.1002/asi.4630240406-BIB2', 'author': 'Garfield', 'volume': '122', 'first-page': '108', 'year': '1955', 'journal-title': 'Science'}, {'key': '10.1002/asi.4630240406-BIB3', 'author': 'Salton', 'volume': '10', 'first-page': '440', 'year': '1963', 'journal-title': 'Journal of the ACM'}, {'key': '10.1002/asi.4630240406-BIB4', 'author': 'Price', 'volume': '4', 'first-page': '271', 'year': '1968', 'journal-title': 'Information Storage and Retrieval'}, {'key': '10.1002/asi.4630240406-BIB5', 'author': 'Stevens', 'first-page': '269', 'year': '1965', 'unstructured': 'and , Eds., Statistical Association Methods for Mechanized Documentation (National Bureau of Standards Miscellaneous Publications 269, 1965).', 'volume-title': 'Statistical Association Methods for Mechanized Documentation'}, {'key': '10.1002/asi.4630240406-BIB7', 'author': 'Garfield', 'year': '1970', 'unstructured': '“Citation Indexing, Historio-Bibliography, and the Sociology of Science,” Proceedings of the Third International Congress of Medical Librarianship, Amsterdam, 5–9 May 1969, (Excerpta Medica 1970) pp. 187–204.'}, {'key': '10.1002/asi.4630240406-BIB8', 'author': 'Cawkell', 'year': '1968', 'unstructured': 'Search Strategies using the Science Citation Index, in Computer Based Information Retrieval Systems, B. Hougton, Ed. (London, 1968) pp. 27–44.'}, {'key': '10.1002/asi.4630240406-BIB9', 'author': 'Gell-Mann', 'volume': '175', 'first-page': '2195', 'year': '1968', 'journal-title': 'The Physical Review'}, {'key': '10.1002/asi.4630240406-BIB10', 'author': 'Lovelace', 'volume': '28B', 'first-page': '264', 'year': '1968', 'journal-title': 'Physics Letters', 'DOI': '10.1016/0370-2693(68)90255-4', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/asi.4630240406-BIB11', 'author': 'Schiminovich', 'volume': '6', 'first-page': '417', 'year': '1971', 'journal-title': 'Information Storage and Retrieval'}], 'container-title': ['Journal of the American Society for Information Science'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fasi.4630240406', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T19:25:08Z', 'timestamp': 1497727508000}, 'score': 94.62318, 'issued': {'date-parts': [[1973, 7]]}, 'references-count': 10, 'journal-issue': {'published-print': {'date-parts': [[1973, 7]]}, 'issue': '4'}, 'URL': 'http://dx.doi.org/10.1002/asi.4630240406', 'relation': {'cites': []}, 'ISSN': ['0002-8231', '1097-4571'], 'issn-type': [{'value': '0002-8231', 'type': 'print'}, {'value': '1097-4571', 'type': 'electronic'}]}
+>>> hash >>> ('Co-citation in the scientific literature: A new measure of the relationship between two documents', 1973.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Clauset, C.R. Shalizi, M.E.J. Newman, Power-law distributions in empirical data, SIAM Rev. 51 (4) (2009) 661–703.
+>>> DOI >>> 10.1137/070710111
+>>> URL >>> http://dx.doi.org/10.1137/070710111
+>>> year >>> 2009.0
+>>> title >>> Power-Law Distributions in Empirical Data
+>>> author >>> Aaron Clauset and Cosma Rohilla Shalizi and M. E. J. Newman
+>>> reference_count >>> 43.0
+>>> is_referenced_by_count >>> 2740.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Review']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T10:22:30Z', 'timestamp': 1528453350749}, 'reference-count': 43, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM Rev.'], 'published-print': {'date-parts': [[2009, 11, 4]]}, 'DOI': '10.1137/070710111', 'type': 'journal-article', 'created': {'date-parts': [[2009, 11, 4]], 'date-time': '2009-11-04T23:08:18Z', 'timestamp': 1257376098000}, 'page': '661-703', 'source': 'Crossref', 'is-referenced-by-count': 2740, 'title': ['Power-Law Distributions in Empirical Data'], 'prefix': '10.1137', 'volume': '51', 'author': [{'given': 'Aaron', 'family': 'Clauset', 'sequence': 'first', 'affiliation': []}, {'given': 'Cosma Rohilla', 'family': 'Shalizi', 'sequence': 'additional', 'affiliation': []}, {'given': 'M. E. J.', 'family': 'Newman', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Review'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/070710111', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T01:24:29Z', 'timestamp': 1497835469000}, 'score': 91.22271, 'issued': {'date-parts': [[2009, 11, 4]]}, 'references-count': 43, 'journal-issue': {'published-print': {'date-parts': [[2009, 11, 4]]}, 'issue': '4'}, 'alternative-id': ['10.1137/070710111'], 'URL': 'http://dx.doi.org/10.1137/070710111', 'ISSN': ['0036-1445', '1095-7200'], 'issn-type': [{'value': '0036-1445', 'type': 'print'}, {'value': '1095-7200', 'type': 'electronic'}]}
+>>> hash >>> ('Power-Law Distributions in Empirical Data', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Sanchez, M. Batet, D. Isern, A. Valls, Ontology-based semantic similarity: a new feature-based approach, Expert Syst. Appl. 39 (9) (2012) 7718–7728.
+>>> DOI >>> 10.1016/j.eswa.2012.01.082
+>>> URL >>> http://dx.doi.org/10.1016/j.eswa.2012.01.082
+>>> year >>> 2012.0
+>>> title >>> Ontology-based semantic similarity: A new feature-based approach
+>>> author >>> David Sánchez and Montserrat Batet and David Isern and Aida Valls
+>>> reference_count >>> 55.0
+>>> is_referenced_by_count >>> 138.0
+>>> subject >>> None
+>>> container_title >>> ['Expert Systems with Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T15:02:35Z', 'timestamp': 1528470155886}, 'reference-count': 55, 'publisher': 'Elsevier BV', 'issue': '9', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2012, 7, 1]], 'date-time': '2012-07-01T00:00:00Z', 'timestamp': 1341100800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Expert Systems with Applications'], 'published-print': {'date-parts': [[2012, 7]]}, 'DOI': '10.1016/j.eswa.2012.01.082', 'type': 'journal-article', 'created': {'date-parts': [[2012, 1, 20]], 'date-time': '2012-01-20T15:33:52Z', 'timestamp': 1327073632000}, 'page': '7718-7728', 'source': 'Crossref', 'is-referenced-by-count': 138, 'title': ['Ontology-based semantic similarity: A new feature-based approach'], 'prefix': '10.1016', 'volume': '39', 'author': [{'given': 'David', 'family': 'Sánchez', 'sequence': 'first', 'affiliation': []}, {'given': 'Montserrat', 'family': 'Batet', 'sequence': 'additional', 'affiliation': []}, {'given': 'David', 'family': 'Isern', 'sequence': 'additional', 'affiliation': []}, {'given': 'Aida', 'family': 'Valls', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Expert Systems with Applications'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0957417412000954?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0957417412000954?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T13:02:22Z', 'timestamp': 1497963742000}, 'score': 113.15582, 'issued': {'date-parts': [[2012, 7]]}, 'references-count': 55, 'journal-issue': {'published-print': {'date-parts': [[2012, 7]]}, 'issue': '9'}, 'alternative-id': ['S0957417412000954'], 'URL': 'http://dx.doi.org/10.1016/j.eswa.2012.01.082', 'ISSN': ['0957-4174'], 'issn-type': [{'value': '0957-4174', 'type': 'print'}]}
+>>> hash >>> ('Ontology-based semantic similarity: A new feature-based approach', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Zhang, Z. He, H. Hu, W. Wang, E-rank: a structural-based similarity measure in social networks, in: WI, 2012, pp. 415–422.
+>>> DOI >>> 10.1109/wi-iat.2012.111
+>>> URL >>> http://dx.doi.org/10.1109/wi-iat.2012.111
+>>> year >>> 2012.0
+>>> title >>> E-rank: A Structural-Based Similarity Measure in Social Networks
+>>> author >>> Mingxi Zhang and Zhenying He and Hao Hu and Wei Wang
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['2012 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T17:17:49Z', 'timestamp': 1525713469283}, 'reference-count': 27, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467360579', 'type': 'print'}, {'value': '9780769548807', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012, 12]]}, 'DOI': '10.1109/wi-iat.2012.111', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 5, 8]], 'date-time': '2013-05-08T21:31:47Z', 'timestamp': 1368048707000}, 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['E-rank: A Structural-Based Similarity Measure in Social Networks'], 'prefix': '10.1109', 'author': [{'given': 'Mingxi', 'family': 'Zhang', 'sequence': 'first', 'affiliation': []}, {'given': 'Zhenying', 'family': 'He', 'sequence': 'additional', 'affiliation': []}, {'given': 'Hao', 'family': 'Hu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Wei', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2012 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT)', 'location': 'Macau, China', 'start': {'date-parts': [[2012, 12, 4]]}, 'end': {'date-parts': [[2012, 12, 7]]}}, 'container-title': ['2012 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6511123/6511847/06511917.pdf?arnumber=6511917', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 22]], 'date-time': '2017-03-22T17:35:24Z', 'timestamp': 1490204124000}, 'score': 57.78768, 'issued': {'date-parts': [[2012, 12]]}, 'ISBN': ['9781467360579', '9780769548807'], 'references-count': 27, 'URL': 'http://dx.doi.org/10.1109/wi-iat.2012.111'}
+>>> hash >>> ('E-rank: A Structural-Based Similarity Measure in Social Networks', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Leskovec, J.M. Kleinberg, C. Faloutsos, Graphs over time: densification laws, shrinking diameters and possible explanations, in: KDD, 2005, pp. 177–187.
+>>> DOI >>> 10.1145/1081870.1081893
+>>> URL >>> http://dx.doi.org/10.1145/1081870.1081893
+>>> year >>> 2005.0
+>>> title >>> Graphs over time
+>>> author >>> Jure Leskovec and Jon Kleinberg and Christos Faloutsos
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 503.0
+>>> subject >>> None
+>>> container_title >>> ["Proceeding of the eleventh ACM SIGKDD international conference on Knowledge discovery in data mining  - KDD '05"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T18:22:40Z', 'timestamp': 1528222960780}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '159593135X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1145/1081870.1081893', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 11, 7]], 'date-time': '2005-11-07T17:34:39Z', 'timestamp': 1131384879000}, 'source': 'Crossref', 'is-referenced-by-count': 503, 'title': ['Graphs over time'], 'prefix': '10.1145', 'author': [{'given': 'Jure', 'family': 'Leskovec', 'sequence': 'first', 'affiliation': []}, {'given': 'Jon', 'family': 'Kleinberg', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christos', 'family': 'Faloutsos', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'Proceeding of the eleventh ACM SIGKDD international conference', 'location': 'Chicago, Illinois, USA', 'sponsor': ['SIGKDD, ACM Special Interest Group on Knowledge Discovery in Data', 'ACM, Association for Computing Machinery'], 'acronym': "KDD '05", 'number': '11', 'start': {'date-parts': [[2005, 8, 21]]}, 'end': {'date-parts': [[2005, 8, 24]]}}, 'container-title': ["Proceeding of the eleventh ACM SIGKDD international conference on Knowledge discovery in data mining  - KDD '05"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1081893&amp;ftid=319659&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T11:14:33Z', 'timestamp': 1481886873000}, 'score': 108.71511, 'subtitle': ['densification laws, shrinking diameters and possible explanations'], 'issued': {'date-parts': [[2005]]}, 'ISBN': ['159593135X'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1081870.1081893'}
+>>> hash >>> ('Graphs over time', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. Jeh, J. Widom, Simrank: a measure of structural-context similarity, in: KDD, 2002, pp. 538–543.
+>>> DOI >>> 10.1145/775107.775126
+>>> URL >>> http://dx.doi.org/10.1145/775107.775126
+>>> year >>> 2002.0
+>>> title >>> SimRank
+>>> author >>> Glen Jeh and Jennifer Widom
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '02"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 30]], 'date-time': '2018-04-30T01:15:11Z', 'timestamp': 1525050911699}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.1145/775107.775126', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 2, 3]], 'date-time': '2004-02-03T17:05:38Z', 'timestamp': 1075827938000}, 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['SimRank'], 'prefix': '10.1145', 'author': [{'given': 'Glen', 'family': 'Jeh', 'sequence': 'first', 'affiliation': []}, {'given': 'Jennifer', 'family': 'Widom', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the eighth ACM SIGKDD international conference', 'location': 'Edmonton, Alberta, Canada', 'sponsor': ['SIGKDD, ACM Special Interest Group on Knowledge Discovery in Data', 'SIGMOD, ACM Special Interest Group on Management of Data', 'AAAI'], 'acronym': "KDD '02", 'number': '8', 'start': {'date-parts': [[2002, 7, 23]]}, 'end': {'date-parts': [[2002, 7, 26]]}}, 'container-title': ["Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '02"], 'deposited': {'date-parts': [[2015, 4, 9]], 'date-time': '2015-04-09T23:53:00Z', 'timestamp': 1428623580000}, 'score': 70.27822, 'subtitle': ['a measure of structural-context similarity'], 'issued': {'date-parts': [[2002]]}, 'ISBN': ['158113567X'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/775107.775126'}
+>>> hash >>> ('SimRank', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Lin, X. Kong, P.S. Yu, Q. Wu, Y. Jia, C. Li, Community detection in incomplete information networks, in: WWW, 2012, pp. 341–350.
+>>> DOI >>> 10.1145/2187836.2187883
+>>> URL >>> http://dx.doi.org/10.1145/2187836.2187883
+>>> year >>> 2012.0
+>>> title >>> Community detection in incomplete information networks
+>>> author >>> Wangqun Lin and Xiangnan Kong and Philip S. Yu and Quanyuan Wu and Yan Jia and Chuan Li
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 36.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 21st international conference on World Wide Web - WWW '12"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T08:42:45Z', 'timestamp': 1525509765305}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450312295', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012]]}, 'DOI': '10.1145/2187836.2187883', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 4, 24]], 'date-time': '2012-04-24T18:41:27Z', 'timestamp': 1335292887000}, 'source': 'Crossref', 'is-referenced-by-count': 36, 'title': ['Community detection in incomplete information networks'], 'prefix': '10.1145', 'author': [{'given': 'Wangqun', 'family': 'Lin', 'sequence': 'first', 'affiliation': []}, {'given': 'Xiangnan', 'family': 'Kong', 'sequence': 'additional', 'affiliation': []}, {'given': 'Philip S.', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Quanyuan', 'family': 'Wu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yan', 'family': 'Jia', 'sequence': 'additional', 'affiliation': []}, {'given': 'Chuan', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 21st international conference', 'location': 'Lyon, France', 'sponsor': ['Univ. de Lyon, Universite de Lyon', 'SIGWEB, ACM Special Interest Group on Hypertext, Hypermedia, and Web'], 'acronym': "WWW '12", 'number': '21', 'start': {'date-parts': [[2012, 4, 16]]}, 'end': {'date-parts': [[2012, 4, 20]]}}, 'container-title': ["Proceedings of the 21st international conference on World Wide Web - WWW '12"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2187883&amp;ftid=1205543&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T19:54:35Z', 'timestamp': 1481918075000}, 'score': 67.332436, 'issued': {'date-parts': [[2012]]}, 'ISBN': ['9781450312295'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/2187836.2187883'}
+>>> hash >>> ('Community detection in incomplete information networks', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> X. Zhao, C. Xiao, X. Lin, Q. Liu, W. Zhang, A partition-based approach to structure similarity search, PVLDB 7 (3) (2013) 169–180.
+>>> DOI >>> 10.14778/2732232.2732236
+>>> URL >>> http://dx.doi.org/10.14778/2732232.2732236
+>>> year >>> 2013.0
+>>> title >>> A partition-based approach to structure similarity search
+>>> author >>> Xiang Zhao and Chuan Xiao and Xuemin Lin and Qing Liu and Wenjie Zhang
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T11:44:58Z', 'timestamp': 1525693498470}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2013, 11, 1]]}, 'DOI': '10.14778/2732232.2732236', 'type': 'journal-article', 'created': {'date-parts': [[2015, 5, 12]], 'date-time': '2015-05-12T15:37:52Z', 'timestamp': 1431445072000}, 'page': '169-180', 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['A partition-based approach to structure similarity search'], 'prefix': '10.14778', 'volume': '7', 'author': [{'given': 'Xiang', 'family': 'Zhao', 'sequence': 'first', 'affiliation': []}, {'given': 'Chuan', 'family': 'Xiao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xuemin', 'family': 'Lin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Qing', 'family': 'Liu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Wenjie', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2015, 5, 12]], 'date-time': '2015-05-12T15:38:13Z', 'timestamp': 1431445093000}, 'score': 68.83766, 'issued': {'date-parts': [[2013, 11, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2013, 11, 1]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.14778/2732232.2732236', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('A partition-based approach to structure similarity search', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> X. Yin, J. Han, P.S. Yu, Linkclus: efficient clustering via heterogeneous semantic links, in: VLDB, 2006, pp. 427–438.
+>>> DOI >>> 10.14778/2140436.2140437
+>>> URL >>> http://dx.doi.org/10.14778/2140436.2140437
+>>> year >>> 2012.0
+>>> title >>> Relation strength-aware clustering of heterogeneous information networks with incomplete attributes
+>>> author >>> Yizhou Sun and Charu C. Aggarwal and Jiawei Han
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 41.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 17]], 'date-time': '2018-05-17T11:22:29Z', 'timestamp': 1526556149728}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2012, 1, 1]]}, 'DOI': '10.14778/2140436.2140437', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '394-405', 'source': 'Crossref', 'is-referenced-by-count': 41, 'title': ['Relation strength-aware clustering of heterogeneous information networks with incomplete attributes'], 'prefix': '10.14778', 'volume': '5', 'author': [{'given': 'Yizhou', 'family': 'Sun', 'sequence': 'first', 'affiliation': []}, {'given': 'Charu C.', 'family': 'Aggarwal', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jiawei', 'family': 'Han', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:28:00Z', 'timestamp': 1403612880000}, 'score': 30.511047, 'issued': {'date-parts': [[2012, 1, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2012, 1, 1]]}, 'issue': '5'}, 'URL': 'http://dx.doi.org/10.14778/2140436.2140437', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('Relation strength-aware clustering of heterogeneous information networks with incomplete attributes', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Carmel, N. Zwerdling, I. Guy, S. Ofek-Koifman, N. Har'El, I. Ronen, E. Uziel, S. Yogev, S. Chernov, Personalized social search based on the user's social network, in: CIKM, 2009, pp. 1227–1236.
+>>> DOI >>> 10.1145/1645953.1646109
+>>> URL >>> http://dx.doi.org/10.1145/1645953.1646109
+>>> year >>> 2009.0
+>>> title >>> Personalized social search based on the user's social network
+>>> author >>> David Carmel and Naama Zwerdling and Ido Guy and Shila Ofek-Koifman and Nadav Har'el and Inbal Ronen and Erel Uziel and Sivan Yogev and Sergey Chernov
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 58.0
+>>> subject >>> None
+>>> container_title >>> ["Proceeding of the 18th ACM conference on Information and knowledge management - CIKM '09"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 14]], 'date-time': '2018-05-14T11:02:25Z', 'timestamp': 1526295745628}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605585123', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1145/1645953.1646109', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 11, 10]], 'date-time': '2009-11-10T18:36:45Z', 'timestamp': 1257878205000}, 'source': 'Crossref', 'is-referenced-by-count': 58, 'title': ["Personalized social search based on the user's social network"], 'prefix': '10.1145', 'author': [{'given': 'David', 'family': 'Carmel', 'sequence': 'first', 'affiliation': []}, {'given': 'Naama', 'family': 'Zwerdling', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ido', 'family': 'Guy', 'sequence': 'additional', 'affiliation': []}, {'given': 'Shila', 'family': 'Ofek-Koifman', 'sequence': 'additional', 'affiliation': []}, {'given': 'Nadav', 'family': "Har'el", 'sequence': 'additional', 'affiliation': []}, {'given': 'Inbal', 'family': 'Ronen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Erel', 'family': 'Uziel', 'sequence': 'additional', 'affiliation': []}, {'given': 'Sivan', 'family': 'Yogev', 'sequence': 'additional', 'affiliation': []}, {'given': 'Sergey', 'family': 'Chernov', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'Proceeding of the 18th ACM conference', 'location': 'Hong Kong, China', 'sponsor': ['SIGIR, ACM Special Interest Group on Information Retrieval', 'SIGWEB, ACM Special Interest Group on Hypertext, Hypermedia, and Web'], 'acronym': "CIKM '09", 'number': '18', 'start': {'date-parts': [[2009, 11, 2]]}, 'end': {'date-parts': [[2009, 11, 6]]}}, 'container-title': ["Proceeding of the 18th ACM conference on Information and knowledge management - CIKM '09"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1646109&amp;ftid=693456&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T23:24:12Z', 'timestamp': 1481066652000}, 'score': 106.43913, 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781605585123'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1645953.1646109'}
+>>> hash >>> ("Personalized social search based on the user's social network", 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Sanchez, M. Batet, A semantic similarity method based on information content exploiting multiple ontologies, Expert Syst. Appl. 40 (4) (2013) 1393–1399.
+>>> DOI >>> 10.1016/j.eswa.2012.08.049
+>>> URL >>> http://dx.doi.org/10.1016/j.eswa.2012.08.049
+>>> year >>> 2013.0
+>>> title >>> A semantic similarity method based on information content exploiting multiple ontologies
+>>> author >>> David Sánchez and Montserrat Batet
+>>> reference_count >>> 39.0
+>>> is_referenced_by_count >>> 31.0
+>>> subject >>> None
+>>> container_title >>> ['Expert Systems with Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T17:13:12Z', 'timestamp': 1525540392771}, 'reference-count': 39, 'publisher': 'Elsevier BV', 'issue': '4', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2013, 3, 1]], 'date-time': '2013-03-01T00:00:00Z', 'timestamp': 1362096000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Expert Systems with Applications'], 'published-print': {'date-parts': [[2013, 3]]}, 'DOI': '10.1016/j.eswa.2012.08.049', 'type': 'journal-article', 'created': {'date-parts': [[2012, 9, 1]], 'date-time': '2012-09-01T05:24:11Z', 'timestamp': 1346477051000}, 'page': '1393-1399', 'source': 'Crossref', 'is-referenced-by-count': 31, 'title': ['A semantic similarity method based on information content exploiting multiple ontologies'], 'prefix': '10.1016', 'volume': '40', 'author': [{'given': 'David', 'family': 'Sánchez', 'sequence': 'first', 'affiliation': []}, {'given': 'Montserrat', 'family': 'Batet', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Expert Systems with Applications'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S095741741201010X?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S095741741201010X?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T23:31:08Z', 'timestamp': 1498001468000}, 'score': 99.39194, 'issued': {'date-parts': [[2013, 3]]}, 'references-count': 39, 'journal-issue': {'published-print': {'date-parts': [[2013, 3]]}, 'issue': '4'}, 'alternative-id': ['S095741741201010X'], 'URL': 'http://dx.doi.org/10.1016/j.eswa.2012.08.049', 'ISSN': ['0957-4174'], 'issn-type': [{'value': '0957-4174', 'type': 'print'}]}
+>>> hash >>> ('A semantic similarity method based on information content exploiting multiple ontologies', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y. Cai, M. Zhang, C. Ding, S. Chakravarthy, Closed form solutions of similarity algorithms, in: SIGIR, 2010, pp. 709–710.
+>>> DOI >>> 10.1145/1835449.1835577
+>>> URL >>> http://dx.doi.org/10.1145/1835449.1835577
+>>> year >>> 2010.0
+>>> title >>> Closed form solution of similarity algorithms
+>>> author >>> Yuanzhe Cai and Miao Zhang and Chris Ding and Sharma Chakravarthy
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ["Proceeding of the 33rd international ACM SIGIR conference on Research and development in information retrieval - SIGIR '10"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:59:49Z', 'timestamp': 1525334389146}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450301534', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.1145/1835449.1835577', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 7, 20]], 'date-time': '2010-07-20T15:39:10Z', 'timestamp': 1279640350000}, 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['Closed form solution of similarity algorithms'], 'prefix': '10.1145', 'author': [{'given': 'Yuanzhe', 'family': 'Cai', 'sequence': 'first', 'affiliation': []}, {'given': 'Miao', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Chris', 'family': 'Ding', 'sequence': 'additional', 'affiliation': []}, {'given': 'Sharma', 'family': 'Chakravarthy', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'Proceeding of the 33rd international ACM SIGIR conference', 'location': 'Geneva, Switzerland', 'sponsor': ['SIGIR, ACM Special Interest Group on Information Retrieval'], 'acronym': "SIGIR '10", 'number': '33', 'start': {'date-parts': [[2010, 7, 19]]}, 'end': {'date-parts': [[2010, 7, 23]]}}, 'container-title': ["Proceeding of the 33rd international ACM SIGIR conference on Research and development in information retrieval - SIGIR '10"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1835577&amp;ftid=816690&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T05:16:25Z', 'timestamp': 1481087785000}, 'score': 66.55151, 'issued': {'date-parts': [[2010]]}, 'ISBN': ['9781450301534'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1835449.1835577'}
+>>> hash >>> ('Closed form solution of similarity algorithms', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Gehrke, P. Ginsparg, J.M. Kleinberg, Overview of the 2003 kdd cup, SIGKDD Explor. 5 (2) (2003) 149–151.
+>>> DOI >>> 10.1145/980972.980992
+>>> URL >>> http://dx.doi.org/10.1145/980972.980992
+>>> year >>> 2003.0
+>>> title >>> Overview of the 2003 KDD Cup
+>>> author >>> Johannes Gehrke and Paul Ginsparg and Jon Kleinberg
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 84.0
+>>> subject >>> None
+>>> container_title >>> ['ACM SIGKDD Explorations Newsletter']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T17:02:34Z', 'timestamp': 1528390954412}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIGKDD Explor. Newsl.'], 'published-print': {'date-parts': [[2003, 12, 1]]}, 'DOI': '10.1145/980972.980992', 'type': 'journal-article', 'created': {'date-parts': [[2007, 1, 17]], 'date-time': '2007-01-17T18:32:02Z', 'timestamp': 1169058722000}, 'page': '149', 'source': 'Crossref', 'is-referenced-by-count': 84, 'title': ['Overview of the 2003 KDD Cup'], 'prefix': '10.1145', 'volume': '5', 'author': [{'given': 'Johannes', 'family': 'Gehrke', 'sequence': 'first', 'affiliation': []}, {'given': 'Paul', 'family': 'Ginsparg', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jon', 'family': 'Kleinberg', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['ACM SIGKDD Explorations Newsletter'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=980992&amp;ftid=254323&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T09:22:00Z', 'timestamp': 1481880120000}, 'score': 106.362686, 'issued': {'date-parts': [[2003, 12, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2003, 12, 1]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1145/980972.980992', 'ISSN': ['1931-0145'], 'issn-type': [{'value': '1931-0145', 'type': 'print'}]}
+>>> hash >>> ('Overview of the 2003 KDD Cup', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J.-Y. Pan, H.-J. Yang, C. Faloutsos, P. Duygulu, Automatic multimedia crossmodal correlation discovery, in: KDD, 2004, pp. 653–658.
+>>> DOI >>> 10.1145/1014052.1014135
+>>> URL >>> http://dx.doi.org/10.1145/1014052.1014135
+>>> year >>> 2004.0
+>>> title >>> Automatic multimedia cross-modal correlation discovery
+>>> author >>> Jia-Yu Pan and Hyung-Jeong Yang and Christos Faloutsos and Pinar Duygulu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 131.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2004 ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '04"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T07:54:10Z', 'timestamp': 1525420450397}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1581138889', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1145/1014052.1014135', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 10, 7]], 'date-time': '2004-10-07T17:39:48Z', 'timestamp': 1097170788000}, 'source': 'Crossref', 'is-referenced-by-count': 131, 'title': ['Automatic multimedia cross-modal correlation discovery'], 'prefix': '10.1145', 'author': [{'given': 'Jia-Yu', 'family': 'Pan', 'sequence': 'first', 'affiliation': []}, {'given': 'Hyung-Jeong', 'family': 'Yang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christos', 'family': 'Faloutsos', 'sequence': 'additional', 'affiliation': []}, {'given': 'Pinar', 'family': 'Duygulu', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2004 ACM SIGKDD international conference', 'location': 'Seattle, WA, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data', 'SIGKDD, ACM Special Interest Group on Knowledge Discovery in Data', 'ACM, Association for Computing Machinery'], 'acronym': "KDD '04", 'number': '10', 'start': {'date-parts': [[2004, 8, 22]]}, 'end': {'date-parts': [[2004, 8, 25]]}}, 'container-title': ["Proceedings of the 2004 ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '04"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1014135&amp;ftid=273914&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T07:57:57Z', 'timestamp': 1481875077000}, 'score': 72.31571, 'issued': {'date-parts': [[2004]]}, 'ISBN': ['1581138889'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1014052.1014135'}
+>>> hash >>> ('Automatic multimedia cross-modal correlation discovery', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. Zhao, J. Han, Y. Sun, P-rank: a comprehensive structural similarity measure over information networks, in: CIKM, 2009, pp. 553–562.
+>>> DOI >>> 10.1145/1645953.1646025
+>>> URL >>> http://dx.doi.org/10.1145/1645953.1646025
+>>> year >>> 2009.0
+>>> title >>> P-Rank
+>>> author >>> Peixiang Zhao and Jiawei Han and Yizhou Sun
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 45.0
+>>> subject >>> None
+>>> container_title >>> ["Proceeding of the 18th ACM conference on Information and knowledge management - CIKM '09"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database2.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T06:42:32Z', 'timestamp': 1528267352057}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605585123', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1145/1645953.1646025', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 11, 10]], 'date-time': '2009-11-10T18:36:45Z', 'timestamp': 1257878205000}, 'source': 'Crossref', 'is-referenced-by-count': 45, 'title': ['P-Rank'], 'prefix': '10.1145', 'author': [{'given': 'Peixiang', 'family': 'Zhao', 'sequence': 'first', 'affiliation': []}, {'given': 'Jiawei', 'family': 'Han', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yizhou', 'family': 'Sun', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'Proceeding of the 18th ACM conference', 'location': 'Hong Kong, China', 'sponsor': ['SIGIR, ACM Special Interest Group on Information Retrieval', 'SIGWEB, ACM Special Interest Group on Hypertext, Hypermedia, and Web'], 'acronym': "CIKM '09", 'number': '18', 'start': {'date-parts': [[2009, 11, 2]]}, 'end': {'date-parts': [[2009, 11, 6]]}}, 'container-title': ["Proceeding of the 18th ACM conference on Information and knowledge management - CIKM '09"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1646025&amp;ftid=693074&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T23:26:09Z', 'timestamp': 1481066769000}, 'score': 73.710335, 'subtitle': ['a comprehensive structural similarity measure over information networks'], 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781605585123'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1645953.1646025'}
+>>> hash >>> ('P-Rank', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

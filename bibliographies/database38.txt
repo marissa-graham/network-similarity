@@ -1,0 +1,51 @@
+[0] Xiang Bai, Longin Jan Latecki, Path Similarity Skeleton Graph Matching
+[1] H. Blum, "Biological Shape and Visual Science", J. Theoretical Biology, vol. 38, pp. 205-287, 1973.
+[2] T.B. Sebastian, B.B. Kimia, "Curves vs Skeletons in Object Recognition", Signal Processing, vol. 85, no. 2, pp. 247-263, 2005.
+[3] R. Basri, L. Costa, D. Geiger, D. Jacobs, "Determining the Similarity of Deformable Shapes", Vision Research, vol. 38, pp. 2365-2385, 1998.
+[4] D.P. Huttenlocher, G.A. Klanderman, W.J. Rucklidge, "Comparing Images Using the Hausdorff Distance", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 15, no. 9, pp. 850-863, Sept. 1993.
+[5] S. Belongie, J. Puzhicha, J. Malik, "Shape Matching and Object Recognition Using Shape Contexts", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 24, no. 4, pp. 509-522, Apr. 2002.
+[6] D. Shaked, A.M. Bruckstein, "Pruning Medial Axes", Computer Vision and Image Understanding, vol. 69, no. 2, pp. 156-169, 1998.
+[7] S.C. Zhu, A.L. Yuille, "FORMS: A Flexible Object Recognition and Modeling System", Int'l J. Computer Vision, vol. 20, no. 3, pp. 187-212, 1996.
+[8] T. Liu, D. Geiger, "Approximate Tree Matching and Shape Similarity", Proc. Int'l Conf. Computer Vision, pp. 456-462, 1999.
+[9] D. Geiger, T. Liu, R.V. Kohn, "Representation and Self-Similarity of Shapes", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 25, no. 1, pp. 86-99, Jan. 2003.
+[10] C. Di Ruberto, "Recognition of Shapes by Attributed Skeletal Graphs", Pattern Recognition, vol. 37, no. 1, pp. 21-31, 2004.
+[11] M. Pelillo, K. Siddiqi, S.W. Zucker, "Matching Hierarchical Structures Using Association Graphs", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 21, no. 11, pp. 1105-1120, Nov. 1999.
+[12] M. Pelillo, "Matching Free Trees Maximal Cliques and Monotone Game Dynamics", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 24, no. 11, pp. 1535-1541, Nov. 2002.
+[13] B.B. Kimia, A.R. Tannenbaum, S.W. Zucker, "Shape Shocks and Deformations I: The Components of 2D Shape and the Reaction-Diffusion Space", Int'l J. Computer Vision, vol. 15, no. 3, pp. 189-224, 1995.
+[14] T.B. Sebastian, P. Klein, B.B. Kimia, "Recognition of Shapes by Editing Shock Graphs", Proc. Int'l Conf. Computer Vision, pp. 755-762, 2001.
+[15] T.B. Sebastian, P.N. Klein, B.B. Kimia, "Recognition of Shapes by Editing Their Shock Graphs", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 26, no. 5, pp. 550-571, May 2004.
+[16] K. Siddiqi, A. Shkoufandeh, S. Dickinson, S. Zucker, "Shock Graphs and Shape Matching", Proc. Int'l Conf. Computer Vision, pp. 222-229, 1998.
+[17] K. Siddiqi, B. Kimia, A. Tannenbaum, S. Zucker, "Shocks Shapes and Wiggles", Image and Vision Computing, vol. 17, no. 5, pp. 365-373, 1999.
+[18] K. Siddiqi, A. Shokoufandeh, S. Dickinson, S. Zucker, "Shock Graphs and Shape Matching", Int'l J. Computer Vision, no. 1, pp. 13-32, 1999.
+[19] K. Siddiqi, B.B. Kimia, "Parts of Visual Form: Computational Aspects", IEEE Trans. Pattern Analysis and Machine Intelligence, no. 3, pp. 239-251, Mar. 1995.
+[20] M. Hilaga, Y. Shinagawa, T. Kohmura, T.L. Kunii, "Topology Matching for Fully Automatic Similarity Estimation of 3D Shapes", Proc. ACM SIGGRAPH '01, pp. 203-212, 2001.
+[21] C. Aslan, S. Tari, "An Axis Based Representation for Recognition", Proc. Int'l Conf. Computer Vision, pp. 1339-1346, 2005.
+[22] A. Torsello, E.R. Hancock, "Computing Approximate Tree Edit Distance Using Relaxation Labeling", Pattern Recognition Letters, vol. 24, no. 8, pp. 1089-1097, 2003.
+[23] A. Torsello, E.R. Hancock, "A Skeletal Measure of 2D Shape Similarity", Computer Vision and Image Understanding, vol. 95, no. 1, pp. 1-29, 2004.
+[24] A. Torsello, D. Hidovic-Rowe, M. Pelillo, "Polynomial-Time Metrics for Attributed Trees", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 27, no. 7, pp. 1087-1099, July 2005.
+[25] A. Shokoufandeh, D. Macrini, S. Dickinson, K. Siddiqi, S.W. Zucker, "Indexing Hierarchical Structures Using Graph Spectra", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 27, no. 7, pp. 1125-1140, July 2005.
+[26] F. Demirci, A. Shokoufandeh, S. Dickinson, Y. Keselman, L. Bretzner, "Many-to-Many Feature Matching Using Spherical Coding of Directed Graphs", Proc. European Conf. Computer Vision, pp. 322-335, 2004.
+[27] F. Demirci, A. Shokoufandeh, Y. Keselman, L. Bretzner, S. Dickinson, "Object Recognition as Many-to-Many Feature Matching", Int'l J. Computer Vision, vol. 69, no. 2, pp. 203-222, 2006.
+[28] W.-P. Choi, K.-M. Lam, W.-C. Siu, "Extraction of the Euclidean Skeleton Based on a Connectivity Criterion", Pattern Recognition, vol. 36, no. 3, pp. 721-729, 2003.
+[29] H.I. Choi, S.W. Choi, H.P. Moon, "Mathematical Theory of Medial Axis Transform", Pacific J. Math., vol. 181, no. 1, pp. 57-88, 1997.
+[30] L.J. Latecki, R. Lakmper, "Convexity Rule for Shape Decomposition Based on Discrete Contour Evolution", Computer Vision and Image Understanding, vol. 73, no. 3, pp. 441-454, 1999.
+[31] L.J. Latecki, R. Lakmper, "Shape Similarity Measure Based on Correspondence of Visual Parts", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 22, no. 10, pp. 1185-1190, Oct. 2000.
+[32] L.J. Latecki, R. Lakmper, U. Eckhardt, "Shape Descriptors for Non-Rigid Shapes with a Single Closed Contour", Proc. Computer Vision and Pattern Recognition, pp. 424-429, 2000.
+[33] X. Bai, L.J. Latecki, W.-Y. Liu, "Skeleton Pruning by Contour Partitioning", Proc. Int'l Conf. Discrete Geometry for Computer Imagery, pp. 567-579, 2006.
+[34] X. Bai, L.J. Latecki, W.-Y. Liu, "Skeleton Pruning by Contour Partitioning with Discrete Curve Evolution", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 29, no. 3, pp. 449-462, Mar. 2007.
+[35] R.L. Ogniewicz, O. Kbler, "Hierarchic Voronoi Skeletons", Pattern Recognition, vol. 28, no. 3, pp. 343-359, 1995.
+[36] L.J. Latecki, V. Megalooikonomou, Q. Wang, R. Lakmper, C.A. Ratanamahatana, E. Keogh, "Partial Elastic Matching of Time Series", Proc. IEEE Int'l Conf. Data Mining, pp. 701-704, 2005.
+[37] T. Sebastian, P. Klein, B. Kimia, "On Aligning Curves", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 25, no. 1, pp. 116-125, Jan. 2003.
+[38] C.M. Cyr, B.B. Kimia, "3D Object Recognition Using Shape Similarity-Based Aspect Graph", Proc. Int'l Conf. Computer Vision, pp. 254-261, 2001.
+[39] H. Sakoe, S. Chiba, "Dynamic Programming Algorithm Optimization for Spoken Word Recognition", IEEE Trans. Acoustics Speech and Signal Processing, vol. 26, no. 1, pp. 43-49, 1978.
+[40] J. Aach, G. Church, "Aligning Gene Expression Time Series with Time Warping Algorithms", Bioinformatics, vol. 17, no. 6, pp. 495-508, 2001.
+[41] G. Kollios, M. Vlachos, D. Gunopoulos, "Discovering Similar Multidimensional Trajectories", Proc. Int'l Conf. Data Eng., pp. 673-684, 2002.
+[42] S. Chu, E. Keogh, D. Hart, M. Pazzani, "Iterative Deepening Dynamic Time Warping for Time Series", Proc. SIAM Int'l Conf. Data Mining, 2002.
+[43] B. Yi, K. Jagadish, C. Faloutsos, "Efficient Retrieval of Similar Time Sequences under Time Warping", Proc. Int'l Conf. Data Eng., pp. 23-27, 1998.
+[44] G. Das, D. Gunopoulos, H. Mannila, "Finding Similar Timie Series", Proc. European Symp. Principles of Data Mining and Knowledge Discovery, pp. 88-100, 1997.
+[45] M. Vlachos, M. Hadjieleftheriou, D. Gunopoulos, E. Keogh, "Indexing Multi-Dimensional Time-Series with Support for Multiple Distance Measures", Proc. ACM SIGKDD, pp. 216-225, 2003.
+[46] J. August, K. Siddiqi, S. Zucker, "Ligature Instabilities and the Perceptual Organization of Shape", Computer Vision and Image Understanding, vol. 76, no. 3, pp. 231-243, 1999.
+[47] H. Ling, D.W. Jacobs, "Shape Classification Using Inner-Distance", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 29, no. 2, pp. 286-299, Feb. 2007.
+[48] Z. Tu, A. Yuille, "Shape Matching and Recognition: Using Generative Models and Informative Features", Proc. European Conf. Computer Vision, vol. 3, pp. 195-209, 2004.
+[49] W.Y. Kim, A.C. Kak, "3-D Object Recognition Using Bipartite Matching Embedded in Discrete Relaxation", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 13, no. 3, pp. 224-251, Mar. 1991.
+[50] X. Bai, X. Yang, D. Yu, L.J. Latecki, "Skeleton-Based Shape Classification Using Path Similarity", Int'l J. Pattern Recognition and Artificial Intelligence.

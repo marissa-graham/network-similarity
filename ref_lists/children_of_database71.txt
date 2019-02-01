@@ -1,0 +1,865 @@
+>>> NEW PAPER <<<
+>>> citation >>> X. Zhu and D. Ramanan. Face detection, pose estimation, and landmark localization in the wild. In CVPR, 2012.
+>>> DOI >>> 10.1109/cvpr.2012.6248014
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2012.6248014
+>>> year >>> 2012.0
+>>> title >>> Face detection, pose estimation, and landmark localization in the wild
+>>> author >>> None
+>>> reference_count >>> 41.0
+>>> is_referenced_by_count >>> 19.0
+>>> subject >>> None
+>>> container_title >>> ['2012 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 28]], 'date-time': '2018-05-28T05:22:27Z', 'timestamp': 1527484947309}, 'reference-count': 41, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467312264', 'type': 'print'}, {'value': '9781467312271', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012, 6]]}, 'DOI': '10.1109/cvpr.2012.6248014', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 8, 1]], 'date-time': '2012-08-01T15:05:51Z', 'timestamp': 1343833551000}, 'source': 'Crossref', 'is-referenced-by-count': 19, 'title': ['Face detection, pose estimation, and landmark localization in the wild'], 'prefix': '10.1109', 'author': [{'family': 'Xiangxin Zhu', 'sequence': 'first', 'affiliation': []}, {'given': 'D.', 'family': 'Ramanan', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2012 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Providence, RI', 'start': {'date-parts': [[2012, 6, 16]]}, 'end': {'date-parts': [[2012, 6, 21]]}}, 'container-title': ['2012 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6235193/6247647/06248014.pdf?arnumber=6248014', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T22:18:31Z', 'timestamp': 1497997111000}, 'score': 73.784966, 'issued': {'date-parts': [[2012, 6]]}, 'ISBN': ['9781467312288', '9781467312264', '9781467312271'], 'references-count': 41, 'URL': 'http://dx.doi.org/10.1109/cvpr.2012.6248014'}
+>>> hash >>> ('Face detection, pose estimation, and landmark localization in the wild', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Li, X. Huang, and L. He. Object matching using a locally affine invariant and linear programming techniques. IEEE Trans. Pattern Anal. Mach. Intell., 35(2):411â€“424, 2013.
+>>> DOI >>> 10.1109/tpami.2012.99
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2012.99
+>>> year >>> 2013.0
+>>> title >>> Object Matching Using a Locally Affine Invariant and Linear Programming Techniques
+>>> author >>> Hongsheng Li and Xiaolei Huang and Lei He
+>>> reference_count >>> 44.0
+>>> is_referenced_by_count >>> 26.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T09:01:15Z', 'timestamp': 1525510875586}, 'reference-count': 44, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2013, 2]]}, 'DOI': '10.1109/tpami.2012.99', 'type': 'journal-article', 'created': {'date-parts': [[2012, 4, 27]], 'date-time': '2012-04-27T22:50:29Z', 'timestamp': 1335567029000}, 'page': '411-424', 'source': 'Crossref', 'is-referenced-by-count': 26, 'title': ['Object Matching Using a Locally Affine Invariant and Linear Programming Techniques'], 'prefix': '10.1109', 'volume': '35', 'author': [{'given': 'Hongsheng', 'family': 'Li', 'sequence': 'first', 'affiliation': []}, {'given': 'Xiaolei', 'family': 'Huang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lei', 'family': 'He', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/6384519/06189359.pdf?arnumber=6189359', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T14:45:14Z', 'timestamp': 1510670714000}, 'score': 115.72726, 'issued': {'date-parts': [[2013, 2]]}, 'references-count': 44, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2012.99', 'ISSN': ['0162-8828', '2160-9292'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}, {'value': '2160-9292', 'type': 'electronic'}]}
+>>> hash >>> ('Object Matching Using a Locally Affine Invariant and Linear Programming Techniques', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> I. Kemelmacher-Shlizerman and S. M. Seitz. Face reconstruction in the wild. In ICCV, 2011.
+>>> DOI >>> 10.1109/iccv.2011.6126439
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2011.6126439
+>>> year >>> 2011.0
+>>> title >>> Face reconstruction in the wild
+>>> author >>> Ira Kemelmacher-Shlizerman and Steven M. Seitz
+>>> reference_count >>> 15.0
+>>> is_referenced_by_count >>> 44.0
+>>> subject >>> None
+>>> container_title >>> ['2011 International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T02:02:09Z', 'timestamp': 1525485729111}, 'reference-count': 15, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781457711015', 'type': 'print'}, {'value': '9781457711008', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011, 11]]}, 'DOI': '10.1109/iccv.2011.6126439', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 1, 31]], 'date-time': '2012-01-31T21:40:48Z', 'timestamp': 1328046048000}, 'source': 'Crossref', 'is-referenced-by-count': 44, 'title': ['Face reconstruction in the wild'], 'prefix': '10.1109', 'author': [{'given': 'Ira', 'family': 'Kemelmacher-Shlizerman', 'sequence': 'first', 'affiliation': []}, {'given': 'Steven M.', 'family': 'Seitz', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2011 IEEE International Conference on Computer Vision (ICCV)', 'location': 'Barcelona, Spain', 'start': {'date-parts': [[2011, 11, 6]]}, 'end': {'date-parts': [[2011, 11, 13]]}}, 'container-title': ['2011 International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6118259/6126217/06126439.pdf?arnumber=6126439', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T13:36:55Z', 'timestamp': 1497965815000}, 'score': 64.944435, 'issued': {'date-parts': [[2011, 11]]}, 'ISBN': ['9781457711022', '9781457711015', '9781457711008'], 'references-count': 15, 'URL': 'http://dx.doi.org/10.1109/iccv.2011.6126439'}
+>>> hash >>> ('Face reconstruction in the wild', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Vukadinovic and M. Pantic. Fully automatic facial feature point detection using Gabor feature based boosted classifiers. In ICSMC, 2005.
+>>> DOI >>> 10.1109/icsmc.2005.1571392
+>>> URL >>> http://dx.doi.org/10.1109/icsmc.2005.1571392
+>>> year >>> None
+>>> title >>> Fully Automatic Facial Feature Point Detection Using Gabor Feature Based Boosted Classifiers
+>>> author >>> D. Vukadinovic and M. Pantic
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 115.0
+>>> subject >>> None
+>>> container_title >>> ['2005 IEEE International Conference on Systems, Man and Cybernetics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:47:30Z', 'timestamp': 1525484850908}, 'reference-count': 22, 'publisher': 'IEEE', 'isbn-type': [{'value': '0780392981', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icsmc.2005.1571392', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 1, 18]], 'date-time': '2006-01-18T23:42:54Z', 'timestamp': 1137627774000}, 'source': 'Crossref', 'is-referenced-by-count': 115, 'title': ['Fully Automatic Facial Feature Point Detection Using Gabor Feature Based Boosted Classifiers'], 'prefix': '10.1109', 'author': [{'given': 'D.', 'family': 'Vukadinovic', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Pantic', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2005 IEEE International Conference on Systems, Man and Cybernetics', 'location': 'Waikoloa, HI, USA'}, 'container-title': ['2005 IEEE International Conference on Systems, Man and Cybernetics'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10498/33255/01571392.pdf?arnumber=1571392', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 14]], 'date-time': '2017-03-14T21:23:40Z', 'timestamp': 1489526620000}, 'score': 120.84053, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0780392981'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1109/icsmc.2005.1571392'}
+>>> hash >>> ('Fully Automatic Facial Feature Point Detection Using Gabor Feature Based Boosted Classifiers', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Uricar, V. Franc, and V. Hlavac. Detector of facial landmarks learned by the Â´ structured output svm. In VISAPP, 2012.
+>>> DOI >>> 10.1007/978-3-642-38241-3_26
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-38241-3_26
+>>> year >>> 2013.0
+>>> title >>> Facial Landmarks Detector Learned by the Structured Output SVM
+>>> author >>> Michal U\u0159i\u010dá\u0159 and Vojt\u011bch Franc and Václav Hlavá\u010d
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Communications in Computer and Information Science', 'Computer Vision, Imaging and Computer Graphics. Theory and Application']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T17:33:02Z', 'timestamp': 1525714382673}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642382406', 'type': 'print'}, {'value': '9783642382413', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013]]}, 'DOI': '10.1007/978-3-642-38241-3_26', 'type': 'book-chapter', 'created': {'date-parts': [[2013, 5, 14]], 'date-time': '2013-05-14T10:27:14Z', 'timestamp': 1368527234000}, 'page': '383-398', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Facial Landmarks Detector Learned by the Structured Output SVM'], 'prefix': '10.1007', 'author': [{'given': 'Michal', 'family': 'U\u0159i\u010dá\u0159', 'sequence': 'first', 'affiliation': []}, {'given': 'Vojt\u011bch', 'family': 'Franc', 'sequence': 'additional', 'affiliation': []}, {'given': 'Václav', 'family': 'Hlavá\u010d', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Communications in Computer and Information Science', 'Computer Vision, Imaging and Computer Graphics. Theory and Application'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-642-38241-3_26', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 5, 14]], 'date-time': '2013-05-14T10:27:18Z', 'timestamp': 1368527238000}, 'score': 84.005516, 'issued': {'date-parts': [[2013]]}, 'ISBN': ['9783642382406', '9783642382413'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-38241-3_26', 'ISSN': ['1865-0929', '1865-0937'], 'issn-type': [{'value': '1865-0929', 'type': 'print'}, {'value': '1865-0937', 'type': 'electronic'}]}
+>>> hash >>> ('Facial Landmarks Detector Learned by the Structured Output SVM', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Everingham, J. Sivic, and A. Zisserman. â€œHello! my name is... Buffyâ€\x9d â€“ automatic naming of characters in TV video. In BMVC, 2006.
+>>> DOI >>> 10.5244/c.20.92
+>>> URL >>> http://dx.doi.org/10.5244/c.20.92
+>>> year >>> 2006.0
+>>> title >>> Hello! My name is... Buffy'' -- Automatic Naming of Characters in TV Video
+>>> author >>> M. R. Everingham and J. Sivic and A. Zisserman
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 176.0
+>>> subject >>> None
+>>> container_title >>> ['Procedings of the British Machine Vision Conference 2006']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T02:31:20Z', 'timestamp': 1525487480713}, 'reference-count': 0, 'publisher': 'British Machine Vision Association', 'isbn-type': [{'value': '1901725324', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.5244/c.20.92', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 2, 7]], 'date-time': '2012-02-07T13:58:26Z', 'timestamp': 1328623106000}, 'source': 'Crossref', 'is-referenced-by-count': 176, 'title': ["Hello! My name is... Buffy'' -- Automatic Naming of Characters in TV Video"], 'prefix': '10.5244', 'author': [{'given': 'M. R.', 'family': 'Everingham', 'sequence': 'first', 'affiliation': []}, {'given': 'J.', 'family': 'Sivic', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Zisserman', 'sequence': 'additional', 'affiliation': []}], 'member': '3205', 'event': {'name': 'British Machine Vision Conference 2006', 'theme': 'Machine Vision, Image Processing & Pattern Recognition', 'location': 'Edinburgh', 'sponsor': ['British Machine Vision Association'], 'acronym': 'BMVC 2006', 'number': '2006'}, 'container-title': ['Procedings of the British Machine Vision Conference 2006'], 'deposited': {'date-parts': [[2012, 2, 7]], 'date-time': '2012-02-07T13:59:54Z', 'timestamp': 1328623194000}, 'score': 87.64749, 'issued': {'date-parts': [[2006]]}, 'ISBN': ['1901725324'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.5244/c.20.92', 'article-number': '92'}
+>>> hash >>> ("Hello! My name is... Buffy'' -- Automatic Naming of Characters in TV Video", 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T. F. Cootes, C. J. Taylor, D. H. Cooper, and J. Graham. Active shape modelstheir training and application. Comput. Vis. Image Underst., 61(1):38â€“59, 1995.
+>>> DOI >>> 10.1006/cviu.1995.1004
+>>> URL >>> http://dx.doi.org/10.1006/cviu.1995.1004
+>>> year >>> 1995.0
+>>> title >>> Active Shape Models-Their Training and Application
+>>> author >>> T.F. Cootes and C.J. Taylor and D.H. Cooper and J. Graham
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3487.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision and Image Understanding']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T15:02:35Z', 'timestamp': 1528470155979}, 'reference-count': 0, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1995, 1, 1]], 'date-time': '1995-01-01T00:00:00Z', 'timestamp': 788918400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Vision and Image Understanding'], 'published-print': {'date-parts': [[1995, 1]]}, 'DOI': '10.1006/cviu.1995.1004', 'type': 'journal-article', 'created': {'date-parts': [[2002, 10, 6]], 'date-time': '2002-10-06T22:36:01Z', 'timestamp': 1033943761000}, 'page': '38-59', 'source': 'Crossref', 'is-referenced-by-count': 3487, 'title': ['Active Shape Models-Their Training and Application'], 'prefix': '10.1006', 'volume': '61', 'author': [{'given': 'T.F.', 'family': 'Cootes', 'sequence': 'first', 'affiliation': []}, {'given': 'C.J.', 'family': 'Taylor', 'sequence': 'additional', 'affiliation': []}, {'given': 'D.H.', 'family': 'Cooper', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Graham', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Computer Vision and Image Understanding'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1077314285710041?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1077314285710041?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2015, 2, 14]], 'date-time': '2015-02-14T05:00:00Z', 'timestamp': 1423890000000}, 'score': 70.92101, 'issued': {'date-parts': [[1995, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1995, 1]]}, 'issue': '1'}, 'alternative-id': ['S1077314285710041'], 'URL': 'http://dx.doi.org/10.1006/cviu.1995.1004', 'ISSN': ['1077-3142'], 'issn-type': [{'value': '1077-3142', 'type': 'print'}]}
+>>> hash >>> ('Active Shape Models-Their Training and Application', 1995.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. M. Coughlan and S. J. Ferreira. Finding deformable shapes using loopy belief propagation. In ECCV, 2002.
+>>> DOI >>> 10.1007/3-540-47977-5_30
+>>> URL >>> http://dx.doi.org/10.1007/3-540-47977-5_30
+>>> year >>> 2002.0
+>>> title >>> Finding Deformable Shapes Using Loopy Belief Propagation
+>>> author >>> James M. Coughlan and Sabino J. Ferreira
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 20.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision — ECCV 2002', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T16:41:18Z', 'timestamp': 1525365678812}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540437468', 'type': 'print'}, {'value': '9783540479772', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.1007/3-540-47977-5_30', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 5, 18]], 'date-time': '2007-05-18T17:07:52Z', 'timestamp': 1179508072000}, 'page': '453-468', 'source': 'Crossref', 'is-referenced-by-count': 20, 'title': ['Finding Deformable Shapes Using Loopy Belief Propagation'], 'prefix': '10.1007', 'author': [{'given': 'James M.', 'family': 'Coughlan', 'sequence': 'first', 'affiliation': []}, {'given': 'Sabino J.', 'family': 'Ferreira', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2002, 4, 29]]}, 'container-title': ['Computer Vision — ECCV 2002', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-47977-5_30', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 9, 3]], 'date-time': '2014-09-03T18:46:06Z', 'timestamp': 1409769966000}, 'score': 80.972435, 'issued': {'date-parts': [[2002]]}, 'ISBN': ['9783540437468', '9783540479772'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-47977-5_30', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('Finding Deformable Shapes Using Loopy Belief Propagation', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. F. Felzenszwalb and D. P. Huttenlocher. Pictorial structures for object recognition. Int. J. Comput. Vis., 61(1):55â€“79, 2005.
+>>> DOI >>> 10.1023/b:visi.0000042934.15159.49
+>>> URL >>> http://dx.doi.org/10.1023/b:visi.0000042934.15159.49
+>>> year >>> 2005.0
+>>> title >>> Pictorial Structures for Object Recognition
+>>> author >>> Pedro F. Felzenszwalb and Daniel P. Huttenlocher
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1065.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T15:02:35Z', 'timestamp': 1528470155984}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['International Journal of Computer Vision'], 'published-print': {'date-parts': [[2005, 1]]}, 'DOI': '10.1023/b:visi.0000042934.15159.49', 'type': 'journal-article', 'created': {'date-parts': [[2004, 9, 28]], 'date-time': '2004-09-28T01:06:26Z', 'timestamp': 1096333586000}, 'page': '55-79', 'source': 'Crossref', 'is-referenced-by-count': 1065, 'title': ['Pictorial Structures for Object Recognition'], 'prefix': '10.1007', 'volume': '61', 'author': [{'given': 'Pedro F.', 'family': 'Felzenszwalb', 'sequence': 'first', 'affiliation': []}, {'given': 'Daniel P.', 'family': 'Huttenlocher', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['International Journal of Computer Vision'], 'language': 'en', 'deposited': {'date-parts': [[2012, 12, 29]], 'date-time': '2012-12-29T00:53:18Z', 'timestamp': 1356742398000}, 'score': 69.366135, 'issued': {'date-parts': [[2005, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1023/b:visi.0000042934.15159.49', 'ISSN': ['0920-5691'], 'issn-type': [{'value': '0920-5691', 'type': 'print'}]}
+>>> hash >>> ('Pictorial Structures for Object Recognition', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> I. Kemelmacher-Shlizerman, A. Sankar, E. Shechtman, and S. M. Seitz. Being John Malkovich. In ECCV, 2010.
+>>> DOI >>> 10.1007/978-3-642-15549-9_25
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-15549-9_25
+>>> year >>> 2010.0
+>>> title >>> Being John Malkovich
+>>> author >>> Ira Kemelmacher-Shlizerman and Aditya Sankar and Eli Shechtman and Steven M. Seitz
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision – ECCV 2010', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 23]], 'date-time': '2018-05-23T15:42:27Z', 'timestamp': 1527090147287}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642155482', 'type': 'print'}, {'value': '9783642155499', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.1007/978-3-642-15549-9_25', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 9, 5]], 'date-time': '2010-09-05T11:38:07Z', 'timestamp': 1283686687000}, 'page': '341-353', 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['Being John Malkovich'], 'prefix': '10.1007', 'author': [{'given': 'Ira', 'family': 'Kemelmacher-Shlizerman', 'sequence': 'first', 'affiliation': []}, {'given': 'Aditya', 'family': 'Sankar', 'sequence': 'additional', 'affiliation': []}, {'given': 'Eli', 'family': 'Shechtman', 'sequence': 'additional', 'affiliation': []}, {'given': 'Steven M.', 'family': 'Seitz', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Computer Vision – ECCV 2010', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-15549-9_25', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 22]], 'date-time': '2014-01-22T17:32:15Z', 'timestamp': 1390411935000}, 'score': 91.014626, 'issued': {'date-parts': [[2010]]}, 'ISBN': ['9783642155482', '9783642155499'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-15549-9_25', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Being John Malkovich', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Lucey, Y. Wang, J. M. Saragih, and J. F. Cohn. Non-rigid face tracking with enforced convexity and local appearance consistency constraint. Image Vision Comput., 28(5):781â€“789, 2010.
+>>> DOI >>> 10.1016/j.imavis.2009.09.009
+>>> URL >>> http://dx.doi.org/10.1016/j.imavis.2009.09.009
+>>> year >>> 2010.0
+>>> title >>> Non-rigid face tracking with enforced convexity and local appearance consistency constraint
+>>> author >>> Simon Lucey and Yang Wang and Jason Saragih and Jeffery F. Cohn
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 12.0
+>>> subject >>> None
+>>> container_title >>> ['Image and Vision Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T05:23:45Z', 'timestamp': 1525497825917}, 'reference-count': 28, 'publisher': 'Elsevier BV', 'issue': '5', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2010, 5, 1]], 'date-time': '2010-05-01T00:00:00Z', 'timestamp': 1272672000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Image and Vision Computing'], 'published-print': {'date-parts': [[2010, 5]]}, 'DOI': '10.1016/j.imavis.2009.09.009', 'type': 'journal-article', 'created': {'date-parts': [[2009, 9, 30]], 'date-time': '2009-09-30T09:18:57Z', 'timestamp': 1254302337000}, 'page': '781-789', 'source': 'Crossref', 'is-referenced-by-count': 12, 'title': ['Non-rigid face tracking with enforced convexity and local appearance consistency constraint'], 'prefix': '10.1016', 'volume': '28', 'author': [{'given': 'Simon', 'family': 'Lucey', 'sequence': 'first', 'affiliation': []}, {'given': 'Yang', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jason', 'family': 'Saragih', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jeffery F.', 'family': 'Cohn', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Image and Vision Computing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0262885609001966?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0262885609001966?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T00:15:13Z', 'timestamp': 1497831313000}, 'score': 130.83403, 'issued': {'date-parts': [[2010, 5]]}, 'references-count': 28, 'journal-issue': {'published-print': {'date-parts': [[2010, 5]]}, 'issue': '5'}, 'alternative-id': ['S0262885609001966'], 'URL': 'http://dx.doi.org/10.1016/j.imavis.2009.09.009', 'ISSN': ['0262-8856'], 'issn-type': [{'value': '0262-8856', 'type': 'print'}]}
+>>> hash >>> ('Non-rigid face tracking with enforced convexity and local appearance consistency constraint', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T. F. Cootes, M. C. Ionita, C. Lindner, and P. Sauer. Robust and accurate shape model fitting using random forest regression voting. In ECCV, 2012.
+>>> DOI >>> 10.1007/978-3-642-33786-4_21
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-33786-4_21
+>>> year >>> 2012.0
+>>> title >>> Robust and Accurate Shape Model Fitting Using Random Forest Regression Voting
+>>> author >>> Tim F. Cootes and Mircea C. Ionita and Claudia Lindner and Patrick Sauer
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 48.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision – ECCV 2012', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 16]], 'date-time': '2018-05-16T23:02:31Z', 'timestamp': 1526511751433}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642337857', 'type': 'print'}, {'value': '9783642337864', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012]]}, 'DOI': '10.1007/978-3-642-33786-4_21', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 9, 26]], 'date-time': '2012-09-26T08:04:51Z', 'timestamp': 1348646691000}, 'page': '278-291', 'source': 'Crossref', 'is-referenced-by-count': 48, 'title': ['Robust and Accurate Shape Model Fitting Using Random Forest Regression Voting'], 'prefix': '10.1007', 'author': [{'given': 'Tim F.', 'family': 'Cootes', 'sequence': 'first', 'affiliation': []}, {'given': 'Mircea C.', 'family': 'Ionita', 'sequence': 'additional', 'affiliation': []}, {'given': 'Claudia', 'family': 'Lindner', 'sequence': 'additional', 'affiliation': []}, {'given': 'Patrick', 'family': 'Sauer', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Computer Vision – ECCV 2012', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-33786-4_21', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 24]], 'date-time': '2014-01-24T14:16:39Z', 'timestamp': 1390572999000}, 'score': 108.7306, 'issued': {'date-parts': [[2012]]}, 'ISBN': ['9783642337857', '9783642337864'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-33786-4_21', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Robust and Accurate Shape Model Fitting Using Random Forest Regression Voting', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Baker and I. Matthews. Lucas-Kanade 20 years on: A unifying framework. Int. J. Comput. Vis., 56(3):221â€“255, 2004.
+>>> DOI >>> 10.1023/b:visi.0000011205.11775.fd
+>>> URL >>> http://dx.doi.org/10.1023/b:visi.0000011205.11775.fd
+>>> year >>> 2004.0
+>>> title >>> Lucas-Kanade 20 Years On: A Unifying Framework
+>>> author >>> Simon Baker and Iain Matthews
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1194.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T15:02:35Z', 'timestamp': 1528470155947}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['International Journal of Computer Vision'], 'published-print': {'date-parts': [[2004, 2]]}, 'DOI': '10.1023/b:visi.0000011205.11775.fd', 'type': 'journal-article', 'created': {'date-parts': [[2004, 1, 13]], 'date-time': '2004-01-13T14:19:10Z', 'timestamp': 1074003550000}, 'page': '221-255', 'source': 'Crossref', 'is-referenced-by-count': 1194, 'title': ['Lucas-Kanade 20 Years On: A Unifying Framework'], 'prefix': '10.1007', 'volume': '56', 'author': [{'given': 'Simon', 'family': 'Baker', 'sequence': 'first', 'affiliation': []}, {'given': 'Iain', 'family': 'Matthews', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['International Journal of Computer Vision'], 'language': 'en', 'deposited': {'date-parts': [[2012, 12, 29]], 'date-time': '2012-12-29T00:52:23Z', 'timestamp': 1356742343000}, 'score': 66.18046, 'issued': {'date-parts': [[2004, 2]]}, 'references-count': 0, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1023/b:visi.0000011205.11775.fd', 'ISSN': ['0920-5691'], 'issn-type': [{'value': '0920-5691', 'type': 'print'}]}
+>>> hash >>> ('Lucas-Kanade 20 Years On: A Unifying Framework', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Milborrow and F. Nicolls. Locating facial features with an extended active shape model. In ECCV, 2008.
+>>> DOI >>> 10.1007/978-3-540-88693-8_37
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-88693-8_37
+>>> year >>> None
+>>> title >>> Locating Facial Features with an Extended Active Shape Model
+>>> author >>> Stephen Milborrow and Fred Nicolls
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 95.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 28]], 'date-time': '2018-05-28T05:22:27Z', 'timestamp': 1527484947305}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540886921', 'type': 'print'}, {'value': '9783540886938', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/978-3-540-88693-8_37', 'type': 'book-chapter', 'created': {'date-parts': [[2008, 10, 11]], 'date-time': '2008-10-11T00:49:12Z', 'timestamp': 1223686152000}, 'page': '504-513', 'source': 'Crossref', 'is-referenced-by-count': 95, 'title': ['Locating Facial Features with an Extended Active Shape Model'], 'prefix': '10.1007', 'author': [{'given': 'Stephen', 'family': 'Milborrow', 'sequence': 'first', 'affiliation': []}, {'given': 'Fred', 'family': 'Nicolls', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-540-88693-8_37', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 21]], 'date-time': '2014-01-21T14:08:31Z', 'timestamp': 1390313311000}, 'score': 76.44559, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9783540886921', '9783540886938'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-540-88693-8_37', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Locating Facial Features with an Extended Active Shape Model', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Cristinacce and T. F. Cootes. Boosted regression active shape models. In BMVC, 2007.
+>>> DOI >>> 10.5244/c.21.79
+>>> URL >>> http://dx.doi.org/10.5244/c.21.79
+>>> year >>> 2007.0
+>>> title >>> Boosted Regression Active Shape Models
+>>> author >>> D. Cristinacce and T. F. Cootes
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 62.0
+>>> subject >>> None
+>>> container_title >>> ['Procedings of the British Machine Vision Conference 2007']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T15:26:21Z', 'timestamp': 1525793181150}, 'reference-count': 0, 'publisher': 'British Machine Vision Association', 'isbn-type': [{'value': '1901725340', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.5244/c.21.79', 'type': 'proceedings-article', 'created': {'date-parts': [[2011, 10, 12]], 'date-time': '2011-10-12T13:49:34Z', 'timestamp': 1318427374000}, 'source': 'Crossref', 'is-referenced-by-count': 62, 'title': ['Boosted Regression Active Shape Models'], 'prefix': '10.5244', 'author': [{'given': 'D.', 'family': 'Cristinacce', 'sequence': 'first', 'affiliation': []}, {'given': 'T. F.', 'family': 'Cootes', 'sequence': 'additional', 'affiliation': []}], 'member': '3205', 'event': {'name': 'British Machine Vision Conference 2007', 'theme': 'Machine Vision, Image Processing & Pattern Recognition', 'location': 'Warwick', 'sponsor': ['British Machine Vision Association'], 'acronym': 'BMVC 2007', 'number': '2007'}, 'container-title': ['Procedings of the British Machine Vision Conference 2007'], 'deposited': {'date-parts': [[2011, 10, 12]], 'date-time': '2011-10-12T13:50:15Z', 'timestamp': 1318427415000}, 'score': 77.50196, 'issued': {'date-parts': [[2007]]}, 'ISBN': ['1901725340'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.5244/c.21.79', 'article-number': '79'}
+>>> hash >>> ('Boosted Regression Active Shape Models', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. N. Belhumeur, D. W. Jacobs, D. J. Kriegman, and N. Kumar. Localizing parts of faces using a consensus of exemplars. In CVPR, 2011.
+>>> DOI >>> 10.1109/cvpr.2011.5995602
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2011.5995602
+>>> year >>> 2011.0
+>>> title >>> Localizing parts of faces using a consensus of exemplars
+>>> author >>> Peter N. Belhumeur and David W. Jacobs and David J. Kriegman and Neeraj Kumar
+>>> reference_count >>> 24.0
+>>> is_referenced_by_count >>> 225.0
+>>> subject >>> None
+>>> container_title >>> ['CVPR 2011']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 23]], 'date-time': '2018-05-23T15:22:33Z', 'timestamp': 1527088953462}, 'reference-count': 24, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781457703942', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011, 6]]}, 'DOI': '10.1109/cvpr.2011.5995602', 'type': 'proceedings-article', 'created': {'date-parts': [[2011, 8, 25]], 'date-time': '2011-08-25T20:42:30Z', 'timestamp': 1314304950000}, 'source': 'Crossref', 'is-referenced-by-count': 225, 'title': ['Localizing parts of faces using a consensus of exemplars'], 'prefix': '10.1109', 'author': [{'given': 'Peter N.', 'family': 'Belhumeur', 'sequence': 'first', 'affiliation': []}, {'given': 'David W.', 'family': 'Jacobs', 'sequence': 'additional', 'affiliation': []}, {'given': 'David J.', 'family': 'Kriegman', 'sequence': 'additional', 'affiliation': []}, {'given': 'Neeraj', 'family': 'Kumar', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2011 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Colorado Springs, CO, USA', 'start': {'date-parts': [[2011, 6, 20]]}, 'end': {'date-parts': [[2011, 6, 25]]}}, 'container-title': ['CVPR 2011'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5968010/5995307/05995602.pdf?arnumber=5995602', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T05:12:27Z', 'timestamp': 1497935547000}, 'score': 105.53549, 'issued': {'date-parts': [[2011, 6]]}, 'ISBN': ['9781457703942'], 'references-count': 24, 'URL': 'http://dx.doi.org/10.1109/cvpr.2011.5995602'}
+>>> hash >>> ('Localizing parts of faces using a consensus of exemplars', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> O. Jesorsky, K. J. Kirchberg, and R. Frischholz. Robust face detection using the Hausdorff distance. In AVBPA, 2001.
+>>> DOI >>> 10.1007/3-540-45344-x_14
+>>> URL >>> http://dx.doi.org/10.1007/3-540-45344-x_14
+>>> year >>> 2001.0
+>>> title >>> Robust Face Detection Using the Hausdorff Distance
+>>> author >>> Oliver Jesorsky and Klaus J. Kirchberg and Robert W. Frischholz
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 229.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Audio- and Video-Based Biometric Person Authentication']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T15:42:32Z', 'timestamp': 1528386152254}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540422167', 'type': 'print'}, {'value': '9783540453444', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.1007/3-540-45344-x_14', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 10, 28]], 'date-time': '2007-10-28T00:47:36Z', 'timestamp': 1193532456000}, 'page': '90-95', 'source': 'Crossref', 'is-referenced-by-count': 229, 'title': ['Robust Face Detection Using the Hausdorff Distance'], 'prefix': '10.1007', 'author': [{'given': 'Oliver', 'family': 'Jesorsky', 'sequence': 'first', 'affiliation': []}, {'given': 'Klaus J.', 'family': 'Kirchberg', 'sequence': 'additional', 'affiliation': []}, {'given': 'Robert W.', 'family': 'Frischholz', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2001, 8, 17]]}, 'container-title': ['Lecture Notes in Computer Science', 'Audio- and Video-Based Biometric Person Authentication'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-45344-X_14', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 26]], 'date-time': '2014-08-26T23:16:42Z', 'timestamp': 1409095002000}, 'score': 77.423904, 'issued': {'date-parts': [[2001]]}, 'ISBN': ['9783540422167', '9783540453444'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-45344-x_14', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('Robust Face Detection Using the Hausdorff Distance', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> V. Le, J. Brandt, L. Bourdev, Z. Lin, and T. Huang. Interactive facial feature localization. In ECCV, 2012.
+>>> DOI >>> 10.1007/978-3-642-33712-3_49
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-33712-3_49
+>>> year >>> 2012.0
+>>> title >>> Interactive Facial Feature Localization
+>>> author >>> Vuong Le and Jonathan Brandt and Zhe Lin and Lubomir Bourdev and Thomas S. Huang
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 107.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision – ECCV 2012', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T13:02:33Z', 'timestamp': 1527253353844}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642337116', 'type': 'print'}, {'value': '9783642337123', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012]]}, 'DOI': '10.1007/978-3-642-33712-3_49', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 9, 26]], 'date-time': '2012-09-26T03:00:38Z', 'timestamp': 1348628438000}, 'page': '679-692', 'source': 'Crossref', 'is-referenced-by-count': 107, 'title': ['Interactive Facial Feature Localization'], 'prefix': '10.1007', 'author': [{'given': 'Vuong', 'family': 'Le', 'sequence': 'first', 'affiliation': []}, {'given': 'Jonathan', 'family': 'Brandt', 'sequence': 'additional', 'affiliation': []}, {'given': 'Zhe', 'family': 'Lin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lubomir', 'family': 'Bourdev', 'sequence': 'additional', 'affiliation': []}, {'given': 'Thomas S.', 'family': 'Huang', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Computer Vision – ECCV 2012', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-33712-3_49', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 24]], 'date-time': '2014-01-24T14:12:46Z', 'timestamp': 1390572766000}, 'score': 72.54664, 'issued': {'date-parts': [[2012]]}, 'ISBN': ['9783642337116', '9783642337123'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-33712-3_49', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Interactive Facial Feature Localization', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Wiskott, J.-M. Fellous, N. Kruger, and C. Von der Malsburg. Face recogni- Â¨ tion by elastic bunch graph matching. IEEE Trans. Pattern Anal. Mach. Intell., 19(7):775â€“779, 1997.
+>>> DOI >>> 10.1109/34.598235
+>>> URL >>> http://dx.doi.org/10.1109/34.598235
+>>> year >>> 1997.0
+>>> title >>> Face recognition by elastic bunch graph matching
+>>> author >>> L. Wiskott and J.-M. Fellous and N. Kuiger and C. von der Malsburg
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 1514.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365379}, 'reference-count': 12, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '7', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[1997, 7]]}, 'DOI': '10.1109/34.598235', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '775-779', 'source': 'Crossref', 'is-referenced-by-count': 1514, 'title': ['Face recognition by elastic bunch graph matching'], 'prefix': '10.1109', 'volume': '19', 'author': [{'given': 'L.', 'family': 'Wiskott', 'sequence': 'first', 'affiliation': []}, {'given': 'J.-M.', 'family': 'Fellous', 'sequence': 'additional', 'affiliation': []}, {'given': 'N.', 'family': 'Kuiger', 'sequence': 'additional', 'affiliation': []}, {'given': 'C.', 'family': 'von der Malsburg', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/13123/00598235.pdf?arnumber=598235', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T01:31:54Z', 'timestamp': 1489109514000}, 'score': 98.85771, 'issued': {'date-parts': [[1997, 7]]}, 'references-count': 12, 'journal-issue': {'issue': '7'}, 'URL': 'http://dx.doi.org/10.1109/34.598235', 'ISSN': ['0162-8828', '2160-9292'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}, {'value': '2160-9292', 'type': 'electronic'}]}
+>>> hash >>> ('Face recognition by elastic bunch graph matching', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Eckhardt, I. R. Fasel, and J. R. Movellan. Towards practical facial feature detection. IJPRAI, 23(3):379â€“400, 2009.
+>>> DOI >>> 10.1142/s0218001409007247
+>>> URL >>> http://dx.doi.org/10.1142/s0218001409007247
+>>> year >>> 2009.0
+>>> title >>> TOWARDS PRACTICAL FACIAL FEATURE DETECTION
+>>> author >>> MICAH ECKHARDT and IAN FASEL and JAVIER MOVELLAN
+>>> reference_count >>> 9.0
+>>> is_referenced_by_count >>> 29.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Pattern Recognition and Artificial Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:30:28Z', 'timestamp': 1525483828178}, 'reference-count': 9, 'publisher': 'World Scientific Pub Co Pte Lt', 'issue': '03', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int. J. Patt. Recogn. Artif. Intell.'], 'published-print': {'date-parts': [[2009, 5]]}, 'DOI': '10.1142/s0218001409007247', 'type': 'journal-article', 'created': {'date-parts': [[2009, 6, 15]], 'date-time': '2009-06-15T04:10:35Z', 'timestamp': 1245039035000}, 'page': '379-400', 'source': 'Crossref', 'is-referenced-by-count': 29, 'title': ['TOWARDS PRACTICAL FACIAL FEATURE DETECTION'], 'prefix': '10.1142', 'volume': '23', 'author': [{'given': 'MICAH', 'family': 'ECKHARDT', 'sequence': 'first', 'affiliation': []}, {'given': 'IAN', 'family': 'FASEL', 'sequence': 'additional', 'affiliation': []}, {'given': 'JAVIER', 'family': 'MOVELLAN', 'sequence': 'additional', 'affiliation': []}], 'member': '219', 'reference': [{'key': 'rf4', 'author': 'Campadelli P.', 'year': '2007', 'volume-title': 'Face Recognition'}, {'key': 'rf5', 'author': 'Campadelli P.', 'volume': '18', 'year': '2007', 'series-title': 'NATO Science Series', 'volume-title': 'The Fundamentals of Verbal and Non Verbal Communication and the Biometrical Issues'}, {'key': 'rf9', 'DOI': '10.1016/j.cviu.2004.07.014', 'doi-asserted-by': 'publisher'}, {'key': 'rf12', 'DOI': '10.1214/aos/1016218223', 'doi-asserted-by': 'publisher'}, {'key': 'rf14', 'author': 'Huang J.', 'volume': '7', 'journal-title': 'Int. J. Patt. Recogn. Artif. Intell.'}, {'key': 'rf16', 'DOI': '10.1109/TASSP.1987.1165237', 'doi-asserted-by': 'publisher'}, {'key': 'rf22', 'DOI': '10.1016/S0262-8856(97)00070-X', 'doi-asserted-by': 'publisher'}, {'key': 'rf28', 'DOI': '10.1109/34.598235', 'doi-asserted-by': 'publisher'}, {'key': 'rf32', 'author': 'Zhou Z. H.', 'journal-title': 'Patt. Recogn. J.'}], 'container-title': ['International Journal of Pattern Recognition and Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://www.worldscientific.com/doi/pdf/10.1142/S0218001409007247', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 2]], 'date-time': '2016-12-02T04:43:11Z', 'timestamp': 1480653791000}, 'score': 73.12558, 'issued': {'date-parts': [[2009, 5]]}, 'references-count': 9, 'journal-issue': {'published-print': {'date-parts': [[2009, 5]]}, 'issue': '03'}, 'alternative-id': ['10.1142/S0218001409007247'], 'URL': 'http://dx.doi.org/10.1142/s0218001409007247', 'relation': {'cites': []}, 'ISSN': ['0218-0014', '1793-6381'], 'issn-type': [{'value': '0218-0014', 'type': 'print'}, {'value': '1793-6381', 'type': 'electronic'}]}
+>>> hash >>> ('TOWARDS PRACTICAL FACIAL FEATURE DETECTION', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Jiang, M. S. Drew, and Z.-N. Li. Matching by linear programming and successive convexification. IEEE Trans. Pattern Anal. Mach. Intell., 29(6):959â€“ 975, 2007.
+>>> DOI >>> 10.1109/tpami.2007.1048
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2007.1048
+>>> year >>> 2007.0
+>>> title >>> Matching by Linear Programming and Successive Convexification
+>>> author >>> Hao Jiang and Mark S. Drew and Ze-Nian Li
+>>> reference_count >>> 29.0
+>>> is_referenced_by_count >>> 51.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T15:35:26Z', 'timestamp': 1525361726565}, 'reference-count': 29, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2007, 6]]}, 'DOI': '10.1109/tpami.2007.1048', 'type': 'journal-article', 'created': {'date-parts': [[2007, 4, 25]], 'date-time': '2007-04-25T18:57:24Z', 'timestamp': 1177527444000}, 'page': '959-975', 'source': 'Crossref', 'is-referenced-by-count': 51, 'title': ['Matching by Linear Programming and Successive Convexification'], 'prefix': '10.1109', 'volume': '29', 'author': [{'given': 'Hao', 'family': 'Jiang', 'sequence': 'first', 'affiliation': []}, {'given': 'Mark S.', 'family': 'Drew', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ze-Nian', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/4160941/04160948.pdf?arnumber=4160948', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T09:14:11Z', 'timestamp': 1510650851000}, 'score': 104.443436, 'issued': {'date-parts': [[2007, 6]]}, 'references-count': 29, 'journal-issue': {'issue': '6'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2007.1048', 'ISSN': ['0162-8828', '2160-9292'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}, {'value': '2160-9292', 'type': 'electronic'}]}
+>>> hash >>> ('Matching by Linear Programming and Successive Convexification', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Rivera and A. M. Martinez. Learning deformable shape manifolds. Pattern Recognit., 45(4):1792â€“1801, 2012.
+>>> DOI >>> 10.1016/j.patcog.2011.09.023
+>>> URL >>> http://dx.doi.org/10.1016/j.patcog.2011.09.023
+>>> year >>> 2012.0
+>>> title >>> Learning deformable shape manifolds
+>>> author >>> Samuel Rivera and Aleix M. Martinez
+>>> reference_count >>> 33.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T17:18:22Z', 'timestamp': 1525454302203}, 'reference-count': 33, 'publisher': 'Elsevier BV', 'issue': '4', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2012, 4, 1]], 'date-time': '2012-04-01T00:00:00Z', 'timestamp': 1333238400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[2012, 4]]}, 'DOI': '10.1016/j.patcog.2011.09.023', 'type': 'journal-article', 'created': {'date-parts': [[2011, 10, 31]], 'date-time': '2011-10-31T22:08:44Z', 'timestamp': 1320098924000}, 'page': '1792-1801', 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['Learning deformable shape manifolds'], 'prefix': '10.1016', 'volume': '45', 'author': [{'given': 'Samuel', 'family': 'Rivera', 'sequence': 'first', 'affiliation': []}, {'given': 'Aleix M.', 'family': 'Martinez', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S003132031100402X?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S003132031100402X?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T08:53:26Z', 'timestamp': 1497948806000}, 'score': 70.68251, 'issued': {'date-parts': [[2012, 4]]}, 'references-count': 33, 'journal-issue': {'published-print': {'date-parts': [[2012, 4]]}, 'issue': '4'}, 'alternative-id': ['S003132031100402X'], 'URL': 'http://dx.doi.org/10.1016/j.patcog.2011.09.023', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Learning deformable shape manifolds', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Lucey, I. Matthews, C. Hu, Z. Ambadar, F. De la Torre, and J. Cohn. AAM derived face representations for robust facial action recognition. In FG, 2006.
+>>> DOI >>> 10.1109/fgr.2006.17
+>>> URL >>> http://dx.doi.org/10.1109/fgr.2006.17
+>>> year >>> None
+>>> title >>> AAM Derived Face Representations for Robust Facial Action Recognition
+>>> author >>> None
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 55.0
+>>> subject >>> None
+>>> container_title >>> ['7th International Conference on Automatic Face and Gesture Recognition (FGR06)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T20:29:08Z', 'timestamp': 1525292948686}, 'reference-count': 13, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769525032', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/fgr.2006.17', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 4, 28]], 'date-time': '2006-04-28T11:05:46Z', 'timestamp': 1146222346000}, 'source': 'Crossref', 'is-referenced-by-count': 55, 'title': ['AAM Derived Face Representations for Robust Facial Action Recognition'], 'prefix': '10.1109', 'author': [{'given': 'S.', 'family': 'Lucey', 'sequence': 'first', 'affiliation': []}, {'given': 'I.', 'family': 'Matthews', 'sequence': 'additional', 'affiliation': []}, {'family': 'Changbo Hu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Z.', 'family': 'Ambadar', 'sequence': 'additional', 'affiliation': []}, {'given': 'F.', 'family': 'de la Torre', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Cohn', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '7th International Conference on Automatic Face and Gesture Recognition (FGR06)', 'location': 'Southampton, UK'}, 'container-title': ['7th International Conference on Automatic Face and Gesture Recognition (FGR06)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10739/33863/01613014.pdf?arnumber=1613014', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 15]], 'date-time': '2017-03-15T02:54:37Z', 'timestamp': 1489546477000}, 'score': 112.99116, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769525032'], 'references-count': 13, 'URL': 'http://dx.doi.org/10.1109/fgr.2006.17'}
+>>> hash >>> ('AAM Derived Face Representations for Robust Facial Action Recognition', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T. F. Cootes, G. J. Edwards, and C. J. Taylor. Active appearance models. IEEE Trans. Pattern Anal. Mach. Intell., 23(6):681â€“685, 2001.
+>>> DOI >>> 10.1109/34.927467
+>>> URL >>> http://dx.doi.org/10.1109/34.927467
+>>> year >>> 2001.0
+>>> title >>> Active appearance models
+>>> author >>> T.F. Cootes and G.J. Edwards and C.J. Taylor
+>>> reference_count >>> 14.0
+>>> is_referenced_by_count >>> 2306.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T10:42:38Z', 'timestamp': 1528368158504}, 'reference-count': 14, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2001, 6]]}, 'DOI': '10.1109/34.927467', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T18:32:16Z', 'timestamp': 1030213936000}, 'page': '681-685', 'source': 'Crossref', 'is-referenced-by-count': 2306, 'title': ['Active appearance models'], 'prefix': '10.1109', 'volume': '23', 'author': [{'given': 'T.F.', 'family': 'Cootes', 'sequence': 'first', 'affiliation': []}, {'given': 'G.J.', 'family': 'Edwards', 'sequence': 'additional', 'affiliation': []}, {'given': 'C.J.', 'family': 'Taylor', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/20053/00927467.pdf?arnumber=927467', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T17:04:51Z', 'timestamp': 1489165491000}, 'score': 83.83845, 'issued': {'date-parts': [[2001, 6]]}, 'references-count': 14, 'journal-issue': {'issue': '6'}, 'URL': 'http://dx.doi.org/10.1109/34.927467', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Active appearance models', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. F. Valstar, B. MartÂ´Ä±nez, X. Binefa, and M. Pantic. Facial point detection using boosted regression and graph models. In CVPR, 2010.
+>>> DOI >>> 10.1109/cvpr.2010.5539996
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2010.5539996
+>>> year >>> 2010.0
+>>> title >>> Facial point detection using boosted regression and graph models
+>>> author >>> Michel Valstar and Brais Martinez and Xavier Binefa and Maja Pantic
+>>> reference_count >>> 24.0
+>>> is_referenced_by_count >>> 125.0
+>>> subject >>> None
+>>> container_title >>> ['2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 14]], 'date-time': '2018-05-14T14:22:31Z', 'timestamp': 1526307751569}, 'reference-count': 24, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424469840', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010, 6]]}, 'DOI': '10.1109/cvpr.2010.5539996', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 8, 10]], 'date-time': '2010-08-10T17:57:43Z', 'timestamp': 1281463063000}, 'source': 'Crossref', 'is-referenced-by-count': 125, 'title': ['Facial point detection using boosted regression and graph models'], 'prefix': '10.1109', 'author': [{'given': 'Michel', 'family': 'Valstar', 'sequence': 'first', 'affiliation': []}, {'given': 'Brais', 'family': 'Martinez', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xavier', 'family': 'Binefa', 'sequence': 'additional', 'affiliation': []}, {'given': 'Maja', 'family': 'Pantic', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2010 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'San Francisco, CA, USA', 'start': {'date-parts': [[2010, 6, 13]]}, 'end': {'date-parts': [[2010, 6, 18]]}}, 'container-title': ['2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5521876/5539770/05539996.pdf?arnumber=5539996', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T12:23:03Z', 'timestamp': 1497874983000}, 'score': 84.557106, 'issued': {'date-parts': [[2010, 6]]}, 'ISBN': ['9781424469840'], 'references-count': 24, 'URL': 'http://dx.doi.org/10.1109/cvpr.2010.5539996'}
+>>> hash >>> ('Facial point detection using boosted regression and graph models', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. M. Saragih, S. Lucey, and J. F. Cohn. Deformable model fitting by regularized landmark mean-shift. Int. J. Comput. Vis., 91(2):200â€“215, 2011.
+>>> DOI >>> 10.1007/s11263-010-0380-4
+>>> URL >>> http://dx.doi.org/10.1007/s11263-010-0380-4
+>>> year >>> 2010.0
+>>> title >>> Deformable Model Fitting by Regularized Landmark Mean-Shift
+>>> author >>> Jason M. Saragih and Simon Lucey and Jeffrey F. Cohn
+>>> reference_count >>> 39.0
+>>> is_referenced_by_count >>> 371.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 1]], 'date-time': '2018-06-01T01:22:27Z', 'timestamp': 1527816147306}, 'reference-count': 39, 'publisher': 'Springer Nature', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int J Comput Vis'], 'published-print': {'date-parts': [[2011, 1]]}, 'DOI': '10.1007/s11263-010-0380-4', 'type': 'journal-article', 'created': {'date-parts': [[2010, 9, 24]], 'date-time': '2010-09-24T17:07:00Z', 'timestamp': 1285348020000}, 'page': '200-215', 'source': 'Crossref', 'is-referenced-by-count': 371, 'title': ['Deformable Model Fitting by Regularized Landmark Mean-Shift'], 'prefix': '10.1007', 'volume': '91', 'author': [{'given': 'Jason M.', 'family': 'Saragih', 'sequence': 'first', 'affiliation': []}, {'given': 'Simon', 'family': 'Lucey', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jeffrey F.', 'family': 'Cohn', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2010, 9, 25]]}, 'reference': [{'key': '380_CR1', 'doi-asserted-by': 'crossref', 'first-page': '1064', 'DOI': '10.1109/TPAMI.2004.53', 'volume': '26', 'author': 'S. Avidan', 'year': '2004', 'unstructured': 'Avidan, S. (2004). Support vector tracking. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 26, 1064–1072.', 'journal-title': 'IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)'}, {'key': '380_CR2', 'unstructured': 'Basso, C., Vetter, T., & Blanz, V. (2003). Regularized 3D morphable models. In IEEE international workshop on higher-level knowledge in 3D modeling and motion analysis (HLK’03) (p.\xa03).'}, {'key': '380_CR3', 'unstructured': 'Black, M., & Anandan, P. (1993). The robust estimation of multiple motions: affine and piecewise-smooth flow fields. Tech. rep., Xerox PARC.'}, {'key': '380_CR4', 'unstructured': 'Blake, A., Isard, M., & Reynard, D. (1994). Learning to track curves in motion. In IEEE conference on decision theory and control (pp.\xa03788–3793).'}, {'issue': '3', 'key': '380_CR5', 'doi-asserted-by': 'crossref', 'first-page': '211', 'DOI': '10.1023/B:VISI.0000045324.43199.43', 'volume': '61', 'author': 'A. Bruhn', 'year': '2005', 'unstructured': 'Bruhn, A., Weickert, J., & Schnörr, C. (2005). Lucas/Kanade meets Horn/Schunck: combining local and global optic flow methods. International Journal of Computer Vision, 61(3), 211–231.', 'journal-title': 'International Journal of Computer Vision'}, {'issue': '5', 'key': '380_CR6', 'doi-asserted-by': 'crossref', 'first-page': '767', 'DOI': '10.1109/TPAMI.2007.1057', 'volume': '29', 'author': 'M. Carreira-Perpinan', 'year': '2007', 'unstructured': 'Carreira-Perpinan, M. (2007). Gaussian mean-shift is an EM algorithm. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 29(5), 767–776.', 'journal-title': 'IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)'}, {'key': '380_CR7', 'doi-asserted-by': 'crossref', 'first-page': '625', 'DOI': '10.1007/3-540-44935-3_44', 'volume': '2695', 'author': 'M. Carreira-Perpinan', 'year': '2003', 'unstructured': 'Carreira-Perpinan, M., & Williams, C. (2003). On the number of modes of a Gaussian mixture. Lecture Notes in Computer Science, 2695, 625–640.', 'journal-title': 'Lecture Notes in Computer Science'}, {'key': '380_CR8', 'unstructured': 'Cootes, T., & Taylor, C. (1992). Active shape models—‘smart snakes’. In British machine vision conference (BMVC’92) (pp.\xa0266–275).'}, {'key': '380_CR9', 'unstructured': 'Cristinacce, D., & Cootes, T. (2004). A comparison of shape constrained facial feature detectors. In IEEE international conference on automatic face and gesture recognition (FG’04) (pp.\xa0375–380).'}, {'key': '380_CR10', 'unstructured': 'Cristinacce, D., & Cootes, T. (2006). Feature detection and tracking with constrained local models. In British machine vision conference (BMVC’06) (pp.\xa0929–938).'}, {'key': '380_CR11', 'unstructured': 'Cristinacce, D., & Cootes, T. (2007). Boosted active shape models. In British machine vision conference (BMVC’07) (vol.\xa02, pp.\xa0880–889).'}, {'issue': '1', 'key': '380_CR12', 'first-page': '1', 'volume': '39', 'author': 'A. Dempster', 'year': '1977', 'unstructured': 'Dempster, A., Laird, N., & Rubin, D. (1977). Maximum likelihood from incomplete data via the EM algorithm. Journal of the Royal Statistical Society Series B (Methodological), 39(1), 1–38.', 'journal-title': 'Journal of the Royal Statistical Society Series B (Methodological)'}, {'key': '380_CR13', 'unstructured': 'Edwards, G., Taylor, C., & Cootes, T. (1998). Interpreting face images using active appearance models. In IEEE international conference on automatic face and gesture recognition (FG’98) (pp.\xa0300–305).'}, {'issue': '3', 'key': '380_CR14', 'doi-asserted-by': 'crossref', 'first-page': '471', 'DOI': '10.1109/TPAMI.2005.59', 'volume': '27', 'author': 'M. Fashing', 'year': '2005', 'unstructured': 'Fashing, M., & Tomasi, C. (2005). Mean shift as a bound optimization. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 27(3), 471–474.', 'journal-title': 'IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)'}, {'key': '380_CR15', 'unstructured': 'Felzenszwalb, P., & Huttenlocher, D. (2004). Efficient belief propagation for early vision. In IEEE conference on computer vision and pattern recognition (CVPR’04) (vol.\xa01, pp.\xa0261–268).'}, {'key': '380_CR16', 'doi-asserted-by': 'crossref', 'first-page': '32', 'DOI': '10.1109/TIT.1975.1055330', 'volume': '21', 'author': 'K. Fukunaga', 'year': '1975', 'unstructured': 'Fukunaga, K., & Hostetler, L. (1975). The estimation of the gradient of a density function, with applications in pattern recognition. IEEE Transactions on Information Theory, 21, 32–40.', 'journal-title': 'IEEE Transactions on Information Theory'}, {'key': '380_CR17', 'author': 'A. Gelman', 'year': '1995', 'unstructured': 'Gelman, A., Carlin, J., Stern, H., & Rubinx, D. (1995). Bayesian data analysis. London/Boca Raton: Chapman & Hall/CRC Press.', 'volume-title': 'Bayesian data analysis'}, {'key': '380_CR18', 'unstructured': 'Gross, R., Matthews, I., & Baker, S. (2004). Constructing and fitting active appearance models with occlusion. In Proceedings of the IEEE workshop on face processing in video (p.\xa072).'}, {'key': '380_CR19', 'unstructured': 'Gross, R., Matthews, I., Cohn, J., Kanade, T., & Baker, S. (2008). Multi-pie. In IEEE international conference on automatic face and gesture recognition (FG’08) (pp.\xa01–8).'}, {'key': '380_CR20', 'unstructured': 'Gu, L., & Kanade, T. (2008). A generative shape regularization model for robust face alignment. In European conference on computer vision (ECCV’08) (pp.\xa0413–426).'}, {'key': '380_CR21', 'unstructured': 'Huang, G., Ramesh, M., Berg, T., & Learned-Miller, E. (2007). Labeled faces in the wild: a database for studying face recognition in unconstrained environments. Tech. rep. 07-49, University of Massachusetts, Amherst.'}, {'key': '380_CR22', 'unstructured': 'Liu, X. (2007). Generic face alignment using boosted appearance model. In IEEE conference on computer vision and pattern recognition (CVPR’07) (pp.\xa01–8).'}, {'key': '380_CR23', 'doi-asserted-by': 'crossref', 'first-page': '135', 'DOI': '10.1023/B:VISI.0000029666.37597.d3', 'volume': '60', 'author': 'I Matthews', 'year': '2004', 'unstructured': 'Matthews, I Baker, S. (2004). Active appearance models revisited. International Journal of Computer Vision, 60, 135–164.', 'journal-title': 'International Journal of Computer Vision'}, {'key': '380_CR24', 'unstructured': 'Messer, K., Matas, J., Kittler, J., Lüttin, J., & Maitre, G. (1999). XM2VTSDB: The extended M2VTS database. In International conference of audio- and video-based biometric person authentication (AVBPA’99) (pp.\xa072–77).'}, {'issue': '7', 'key': '380_CR25', 'doi-asserted-by': 'crossref', 'first-page': '696', 'DOI': '10.1109/34.598227', 'volume': '19', 'author': 'B. Moghaddam', 'year': '1997', 'unstructured': 'Moghaddam, B., & Pentland, A. (1997). Probabilistic visual learning for object representation. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 19(7), 696–710.', 'journal-title': 'IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)'}, {'key': '380_CR26', 'unstructured': 'Nguyen, M., & De\xa0la\xa0Torre Frade, F. (2008). Local minima free parameterized appearance models. In IEEE conference on computer vision and pattern recognition (CVPR’08) (pp.\xa01–8).'}, {'key': '380_CR27', 'doi-asserted-by': 'crossref', 'first-page': '47', 'DOI': '10.1016/S0262-8856(01)00076-2', 'volume': '20', 'author': 'K. Nickels', 'year': '2002', 'unstructured': 'Nickels, K., & Hutchinson, S. (2002). Estimating uncertainty in SSD-based feature tracking. Image and Vision Computing, 20, 47–58.', 'journal-title': 'Image and Vision Computing'}, {'key': '380_CR28', 'unstructured': 'Roberts, M., Cootes, T., & Adams, J. (2007). Robust active appearance models with iteratively rescaled kernels. In British machine vision conference (BMVC’07) (vol.\xa01, pp.\xa0302–311).'}, {'key': '380_CR29', 'unstructured': 'Romdhani, S., Gong, S., & Psarrou, A. (1999). A multi-view nonlinear active shape model using kernel PCA. In British machine vision conference (BMVC’99) (pp.\xa0438–492).'}, {'key': '380_CR30', 'unstructured': 'Saragih, J. (2008). The generative learning and discriminative fitting of linear deformable models. PhD thesis, The Australian National University, Australia.'}, {'key': '380_CR31', 'unstructured': 'Saragih, J., Lucey, S., & Cohn, J. (2009). Face alignment through subspace constrained mean-shifts. In IEEE international conference on computer vision (ICCV’09) (pp.\xa01034–1041).'}, {'key': '380_CR32', 'author': 'B. Silverman', 'year': '1986', 'unstructured': 'Silverman, B. (1986). Density estimation for statistics and data analysis. London/Boca Raton: Chapman & Hall/CRC Press.', 'volume-title': 'Density estimation for statistics and data analysis', 'DOI': '10.1007/978-1-4899-3324-9', 'doi-asserted-by': 'crossref'}, {'issue': '7', 'key': '380_CR33', 'doi-asserted-by': 'crossref', 'first-page': '787', 'DOI': '10.1109/TPAMI.2003.1206509', 'volume': '25', 'author': 'J. Sun', 'year': '2003', 'unstructured': 'Sun, J., Zheng, N., & Shum, H. (2003). Stereo matching using belief propagation. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 25(7), 787–800.', 'journal-title': 'IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)'}, {'issue': '5', 'key': '380_CR34', 'doi-asserted-by': 'crossref', 'first-page': '878', 'DOI': '10.1109/TPAMI.2007.70752', 'volume': '30', 'author': 'L. Torresani', 'year': '2008', 'unstructured': 'Torresani, L., Hertzmann, A., & Bregler, C. (2008). Nonrigid structure-from-motion: estimating shape and motion with hierarchical priors. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 30(5), 878–892.', 'journal-title': 'IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)'}, {'key': '380_CR35', 'unstructured': 'Wang, Y., Lucey, S., & Cohn, J. (2008a). Enforcing convexity for improved alignment with constrained local models. In IEEE conference on computer vision and pattern recognition (CVPR’08) (pp.\xa01–8).'}, {'key': '380_CR36', 'unstructured': 'Wang, Y., Lucey, S., Cohn, J., & Saragih, J. (2008b). Non-rigid face tracking with local appearance consistency constraint. In IEEE international conference on automatic face and gesture recognition (FG’08).'}, {'key': '380_CR37', 'unstructured': 'Yedidia, J., Freeman, W., & Weiss, Y. (2002). Constructing free energy approximations and generalized belief propagation algorithms. Tech. rep., Mitsubishi Electric Research Laboratories (MERL).'}, {'key': '380_CR38', 'unstructured': 'Zhou, S., & Comaniciu, D. (2007). Shape regression machine. In Information processing in medical imaging (IPMI’07) (pp.\xa013–25).'}, {'issue': '1', 'key': '380_CR39', 'doi-asserted-by': 'crossref', 'first-page': '115', 'DOI': '10.1109/TPAMI.2005.3', 'volume': '27', 'author': 'X. Zhou', 'year': '2005', 'unstructured': 'Zhou, X., Comaniciu, D., & Gupta, A. (2005). An information fusion framework for robust shape tracking. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 27(1), 115–129.', 'journal-title': 'IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)'}], 'container-title': ['International Journal of Computer Vision'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s11263-010-0380-4', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T14:28:12Z', 'timestamp': 1497882492000}, 'score': 107.42008, 'issued': {'date-parts': [[2010, 9, 25]]}, 'references-count': 39, 'journal-issue': {'published-print': {'date-parts': [[2011, 1]]}, 'issue': '2'}, 'alternative-id': ['380'], 'URL': 'http://dx.doi.org/10.1007/s11263-010-0380-4', 'relation': {'cites': []}, 'ISSN': ['0920-5691', '1573-1405'], 'issn-type': [{'value': '0920-5691', 'type': 'print'}, {'value': '1573-1405', 'type': 'electronic'}]}
+>>> hash >>> ('Deformable Model Fitting by Regularized Landmark Mean-Shift', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Roweis and L. Saul. Nonlinear dimensionality reduction by locally linear embedding. Science, 290(5500):2323â€“2326, 2000.
+>>> DOI >>> 10.1126/science.290.5500.2323
+>>> URL >>> http://dx.doi.org/10.1126/science.290.5500.2323
+>>> year >>> 2000.0
+>>> title >>> Nonlinear Dimensionality Reduction by Locally Linear Embedding
+>>> author >>> S. T. Roweis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 5711.0
+>>> subject >>> None
+>>> container_title >>> ['Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T21:42:35Z', 'timestamp': 1528494155825}, 'reference-count': 0, 'publisher': 'American Association for the Advancement of Science (AAAS)', 'issue': '5500', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2000, 12, 22]]}, 'DOI': '10.1126/science.290.5500.2323', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T09:47:44Z', 'timestamp': 1027763264000}, 'page': '2323-2326', 'source': 'Crossref', 'is-referenced-by-count': 5711, 'title': ['Nonlinear Dimensionality Reduction by Locally Linear Embedding'], 'prefix': '10.1126', 'volume': '290', 'author': [{'given': 'S. T.', 'family': 'Roweis', 'sequence': 'first', 'affiliation': []}], 'member': '221', 'container-title': ['Science'], 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1126/science.290.5500.2323', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 23]], 'date-time': '2016-12-23T16:02:31Z', 'timestamp': 1482508951000}, 'score': 93.56025, 'issued': {'date-parts': [[2000, 12, 22]]}, 'references-count': 0, 'journal-issue': {'issue': '5500'}, 'URL': 'http://dx.doi.org/10.1126/science.290.5500.2323', 'ISSN': ['0036-8075', '1095-9203'], 'issn-type': [{'value': '0036-8075', 'type': 'print'}, {'value': '1095-9203', 'type': 'electronic'}]}
+>>> hash >>> ('Nonlinear Dimensionality Reduction by Locally Linear Embedding', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Cristinacce and T. F. Cootes. Feature detection and tracking with constrained local models. In BMVC, 2006.
+>>> DOI >>> 10.5244/c.20.95
+>>> URL >>> http://dx.doi.org/10.5244/c.20.95
+>>> year >>> 2006.0
+>>> title >>> Feature Detection and Tracking with Constrained Local Models
+>>> author >>> D. Cristinacce and T. F. Cootes
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 247.0
+>>> subject >>> None
+>>> container_title >>> ['Procedings of the British Machine Vision Conference 2006']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 14]], 'date-time': '2018-05-14T14:22:31Z', 'timestamp': 1526307751636}, 'reference-count': 0, 'publisher': 'British Machine Vision Association', 'isbn-type': [{'value': '1901725324', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.5244/c.20.95', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 2, 7]], 'date-time': '2012-02-07T13:58:26Z', 'timestamp': 1328623106000}, 'source': 'Crossref', 'is-referenced-by-count': 247, 'title': ['Feature Detection and Tracking with Constrained Local Models'], 'prefix': '10.5244', 'author': [{'given': 'D.', 'family': 'Cristinacce', 'sequence': 'first', 'affiliation': []}, {'given': 'T. F.', 'family': 'Cootes', 'sequence': 'additional', 'affiliation': []}], 'member': '3205', 'event': {'name': 'British Machine Vision Conference 2006', 'theme': 'Machine Vision, Image Processing & Pattern Recognition', 'location': 'Edinburgh', 'sponsor': ['British Machine Vision Association'], 'acronym': 'BMVC 2006', 'number': '2006'}, 'container-title': ['Procedings of the British Machine Vision Conference 2006'], 'deposited': {'date-parts': [[2012, 2, 7]], 'date-time': '2012-02-07T13:59:59Z', 'timestamp': 1328623199000}, 'score': 72.61047, 'issued': {'date-parts': [[2006]]}, 'ISBN': ['1901725324'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.5244/c.20.95', 'article-number': '95'}
+>>> hash >>> ('Feature Detection and Tracking with Constrained Local Models', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Besag. On the statistical analysis of dirty pictures. J. R. Stat. Soc. Series B Stat. Methodol., pages 259â€“302, 1986.
+>>> DOI >>> 10.1080/02664769300000059
+>>> URL >>> http://dx.doi.org/10.1080/02664769300000059
+>>> year >>> 1993.0
+>>> title >>> Statistical analysis of dirty pictures*
+>>> author >>> Julian Besag
+>>> reference_count >>> 51.0
+>>> is_referenced_by_count >>> 26.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Applied Statistics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T19:39:37Z', 'timestamp': 1525376377447}, 'reference-count': 51, 'publisher': 'Informa UK Limited', 'issue': '5-6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Applied Statistics'], 'published-print': {'date-parts': [[1993, 1]]}, 'DOI': '10.1080/02664769300000059', 'type': 'journal-article', 'created': {'date-parts': [[2007, 7, 7]], 'date-time': '2007-07-07T12:01:25Z', 'timestamp': 1183809685000}, 'page': '63-87', 'source': 'Crossref', 'is-referenced-by-count': 26, 'title': ['Statistical analysis of dirty pictures*'], 'prefix': '10.1080', 'volume': '20', 'author': [{'given': 'Julian', 'family': 'Besag', 'sequence': 'first', 'affiliation': []}], 'member': '301', 'published-online': {'date-parts': [[2010, 4, 6]]}, 'reference': [{'key': 'CIT0001', 'DOI': '10.1109/TIT.1965.1053827', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0002', 'author': 'Bartlett M.S.', 'volume': '43', 'first-page': '191', 'year': '1969', 'journal-title': 'Bulletin of the International Statistical Institute'}, {'key': 'CIT0003', 'author': 'Besag J.E.', 'first-page': '192', 'year': '1974', 'journal-title': 'Journal of the Royal Statistical Society, B 36'}, {'key': 'CIT0004', 'DOI': '10.2307/2987782', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0005', 'author': 'Besag J. E.', 'first-page': '38', 'year': '1976', 'journal-title': 'Princeton University Department of Statistics Technical Report 108'}, {'key': 'CIT0006', 'author': 'Besag J.E.', 'first-page': '47', 'volume-title': 'Proceedings of the 10th European Meeting of Statisticians'}, {'key': 'CIT0007', 'DOI': '10.1093/biomet/64.3.616', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0008', 'author': 'Besag J.E.', 'volume': '47', 'first-page': '77', 'year': '1978', 'journal-title': 'Bulletin of the International Statistical Institute'}, {'key': 'CIT0009', 'author': 'Besag J.E.', 'volume': '50', 'first-page': '422', 'year': '1983', 'journal-title': 'Bulletin of the International Statistical Institute'}, {'key': 'CIT0010', 'DOI': '10.1016/0734-189X(83)90108-1', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0011', 'DOI': '10.1109/TGE.1975.294402', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0012', 'author': 'Cross G.C.', 'volume': '5', 'first-page': '25', 'year': '1993', 'journal-title': 'IEEE Transactions on Pattern Analysis of Machine Intelligence'}, {'key': 'CIT0013', 'DOI': '10.1109/TPAMI.1984.4767595', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0014', 'author': 'Devijver P.A.', 'year': '1985', 'volume-title': 'Pattern Recognition in Practice II'}, {'key': 'CIT0015', 'author': 'Devijver P.A.', 'year': '1982', 'volume-title': 'Pattern Recognition: A Statistical Approach'}, {'key': 'CIT0016', 'author': 'Fu K.S.', 'year': '1980', 'volume-title': 'Statistical Pattern Classification using Contextual Information'}, {'key': 'CIT0017', 'DOI': '10.2307/3212474', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0018', 'author': 'Geman S.', 'first-page': '12', 'volume-title': 'Proceedings of the American Statistical Association'}, {'key': 'CIT0019', 'author': 'Green P.J.', 'first-page': '299', 'year': '1985', 'journal-title': 'Journal of the Royal Statistical Society B 47'}, {'key': 'CIT0020', 'unstructured': 'Grenander ,  U.  1983.  “Tutorial in Pattern Theory. Division of Applied Mathematics”. Brown University.'}, {'key': 'CIT0021', 'DOI': '10.1038/272686a0', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0022', 'author': 'Hand D.J.', 'year': '1981', 'volume-title': 'Discrimination and Classification'}, {'key': 'CIT0023', 'author': 'Hansen F.R.', 'volume': '12', 'first-page': '357', 'year': '1982', 'journal-title': 'Compucational Vision Graphics and Image Processing'}, {'key': 'CIT0024', 'DOI': '10.1016/0031-3203(85)90054-8', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0025', 'DOI': '10.1093/biomet/57.1.97', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0026', 'author': 'Hjort N.L.', 'first-page': '1', 'volume-title': 'Proceedings of the 18th International Symposium on Remote Sensing of Environment'}, {'key': 'CIT0027', 'DOI': '10.1109/TPAMI.1983.4767390', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0028', 'author': 'Kanal L.N.', 'year': '1980', 'volume-title': 'Markov mesh models. In Image Modelling'}, {'key': 'CIT0029', 'author': 'Kay J.W.', 'first-page': '44', 'volume-title': 'Proceedings of the 2nd International Conference on Image Processing and Applications, Conf. Publ'}, {'key': 'CIT0030', 'unstructured': 'Kent, J. T. & Mardia, K. V. (1986) Spatial classification using fuzzy membership models'}, {'key': 'CIT0031', 'unstructured': 'Kiiveri, H. T. & Campbell, N. A. (1986) Allocation of remotely sensed data using Markov models for spectral variables and pixel labels'}, {'key': 'CIT0032', 'DOI': '10.1090/conm/001', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0033', 'DOI': '10.1126/science.220.4598.671', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0034', 'DOI': '10.1016/0262-8856(84)90040-4', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0035', 'author': 'Kittler J.', 'first-page': '270', 'volume-title': 'Proceedings of the 7th International Conference Pattern Recognition'}, {'key': 'CIT0036', 'DOI': '10.1109/TGRS.1985.289471', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0037', 'DOI': '10.2307/3213345', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0038', 'DOI': '10.2307/1426425', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0039', 'DOI': '10.1017/CBO9780511897122', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0040', 'author': 'Rosenfield A.', 'volume': '2', 'year': '1982', 'volume-title': 'Digital Picture Processing'}, {'key': 'CIT0041', 'DOI': '10.1109/TSMC.1976.4309519', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0042', 'unstructured': 'Saebo, H. V., Braten, K., Hjort, N. L., Llewellyn, B. & Mohm, E. (1985) Contextual classification of remotely sensed data: statistical methods and development of a system. Report No. 768, Norwegian Computing Centre, Oslo'}, {'key': 'CIT0043', 'DOI': '10.1038/309748a0', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0044', 'unstructured': 'Skilling, J. (1986) Maximum entropy data analysis'}, {'key': 'CIT0045', 'DOI': '10.2307/3213266', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0046', 'DOI': '10.1007/BF01029421', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0047', 'author': 'Switzer P.', 'volume': '50', 'first-page': '962', 'year': '1983', 'journal-title': 'Bulletin of the International Statistical Institute'}, {'key': 'CIT0048', 'DOI': '10.1038/312381b0', 'doi-asserted-by': 'publisher'}, {'key': 'CIT0049', 'author': 'Titterington D.M.', 'volume': '6', 'first-page': '656', 'year': '1984', 'volume-title': 'IEEE Transactions on Pattern Analysis on Machine Intelligence'}, {'key': 'CIT0050', 'author': 'Titterington D.M.', 'volume-title': 'Proceedings of the IMA Conference on Mathematics and Signal Processing, Bath'}, {'key': 'CIT0051', 'DOI': '10.1016/0031-3203(83)90012-2', 'doi-asserted-by': 'publisher'}], 'container-title': ['Journal of Applied Statistics'], 'language': 'en', 'link': [{'URL': 'http://www.tandfonline.com/doi/pdf/10.1080/10256018808623883', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 14]], 'date-time': '2016-12-14T12:15:23Z', 'timestamp': 1481717723000}, 'score': 42.803627, 'issued': {'date-parts': [[1993, 1]]}, 'references-count': 51, 'journal-issue': {'published-online': {'date-parts': [[2010, 4, 6]]}, 'published-print': {'date-parts': [[1993, 1]]}, 'issue': '5-6'}, 'alternative-id': ['10.1080/02664769300000059'], 'URL': 'http://dx.doi.org/10.1080/02664769300000059', 'relation': {'cites': []}, 'ISSN': ['0266-4763', '1360-0532'], 'issn-type': [{'value': '0266-4763', 'type': 'print'}, {'value': '1360-0532', 'type': 'electronic'}]}
+>>> hash >>> ('Statistical analysis of dirty pictures*', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Gu and T. Kanade. A generative shape regularization model for robust face alignment. In ECCV, 2008.
+>>> DOI >>> 10.1007/978-3-540-88682-2_32
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-88682-2_32
+>>> year >>> 2008.0
+>>> title >>> A Generative Shape Regularization Model for Robust Face Alignment
+>>> author >>> Leon Gu and Takeo Kanade
+>>> reference_count >>> 23.0
+>>> is_referenced_by_count >>> 17.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T15:26:20Z', 'timestamp': 1525793180438}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 23, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540886815', 'type': 'print'}, {'value': '9783540886822', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2008, 1, 1]], 'date-time': '2008-01-01T00:00:00Z', 'timestamp': 1199145600000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.1007/978-3-540-88682-2_32', 'type': 'book-chapter', 'created': {'date-parts': [[2008, 10, 11]], 'date-time': '2008-10-11T19:59:49Z', 'timestamp': 1223755189000}, 'page': '413-426', 'source': 'Crossref', 'is-referenced-by-count': 17, 'title': ['A Generative Shape Regularization Model for Robust Face Alignment'], 'prefix': '10.1007', 'author': [{'given': 'Leon', 'family': 'Gu', 'sequence': 'first', 'affiliation': []}, {'given': 'Takeo', 'family': 'Kanade', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': '32_CR1', 'unstructured': 'Terzopoulos, D., Witkin, A., Kass, M.: Snakes: Active contour models. In: International Conference on Computer Vision, pp. 259–268 (1987)'}, {'key': '32_CR2', 'author': 'U. Grenander', 'year': '1991', 'unstructured': 'Grenander, U., Chow, Y., Keenan, D.M.: Hands: a pattern theoretic study of biological shapes. Springer, New York (1991)', 'volume-title': 'Hands: a pattern theoretic study of biological shapes', 'DOI': '10.1007/978-1-4612-3046-5', 'doi-asserted-by': 'publisher'}, {'key': '32_CR3', 'doi-asserted-by': 'publisher', 'first-page': '99', 'DOI': '10.1007/BF00127169', 'volume': '8', 'author': 'A.L. Yuille', 'year': '1992', 'unstructured': 'Yuille, A.L., Hallinan, P.W., Cohen, D.S.: Feature extraction from faces using deformable templates. International Journal of Computer Vision\xa08, 99–111 (1992)', 'journal-title': 'International Journal of Computer Vision'}, {'key': '32_CR4', 'unstructured': 'Cootes, T.F., Taylor, C., Cooper, D., Graham, J.: Active shape models - their training and their applications. Computer Vision and Image Understanding (1995)', 'DOI': '10.1006/cviu.1995.1004', 'doi-asserted-by': 'crossref'}, {'key': '32_CR5', 'doi-asserted-by': 'publisher', 'first-page': '5', 'DOI': '10.1023/A:1008078328650', 'volume': '29', 'author': 'M. Isard', 'year': '1998', 'unstructured': 'Isard, M., Blake, A.: Condensation - conditional density propagation for visual tracking. International Journal of Computer Vision\xa029, 5–28 (1998)', 'journal-title': 'International Journal of Computer Vision'}, {'key': '32_CR6', 'doi-asserted-by': 'publisher', 'first-page': '681', 'DOI': '10.1109/34.927467', 'volume': '23', 'author': 'T. Cootes', 'year': '2001', 'unstructured': 'Cootes, T., Edwards, G., Taylor, C.: Active appearance models. IEEE Trans. Pattern Anal. Mach. Intell.\xa023, 681–685 (2001)', 'journal-title': 'IEEE Trans. Pattern Anal. Mach. Intell.'}, {'key': '32_CR7', 'unstructured': 'Blanz, V., Vetter, T.: A morphable model for the synthesis of 3d-faces. In: ACM SIGGRAPH (1999)'}, {'key': '32_CR8', 'doi-asserted-by': 'publisher', 'first-page': '567', 'DOI': '10.1016/S0262-8856(98)00175-9', 'volume': '17', 'author': 'T. Cootes', 'year': '1999', 'unstructured': 'Cootes, T., Taylor, C.: A mixture model for representing shape variation. IVC\xa017, 567–573 (1999)', 'journal-title': 'IVC'}, {'key': '32_CR9', 'unstructured': 'Twining, C., Taylor, C.: Kernel principal component analysis and the construction of non-linear active shape models. In: British Machine Vision Conference (2001)', 'DOI': '10.5244/C.15.4', 'doi-asserted-by': 'crossref'}, {'key': '32_CR10', 'unstructured': 'Zhou, Y., Zhang, W., Tang, X., Shum, H.: A bayesian mixture model for multi-view face alignment. In: Proceedings of Computer Vision and Pattern Recognition (2005)'}, {'key': '32_CR11', 'unstructured': 'Gu, L., Kanande, T.: 3d alignment of face in a single image. In: Computer Vision and Pattern Recognition (2006)'}, {'key': '32_CR12', 'unstructured': 'Zhang, Z., Liu, Z., Adler, D., Cohen, M.F., Hanson, E., Shan, Y.: Robust and rapid generation of animated faces from video images - a model-based modeling approach. International Jornal of Computer Vision (2004)', 'DOI': '10.1023/B:VISI.0000015915.50080.85', 'doi-asserted-by': 'crossref'}, {'key': '32_CR13', 'unstructured': 'Liang, L., Wen, F., Xu, Y.Q., tang, X., Shum, H.Y.: Accurate face alignment using shape constrained markov network. In: Computer Vision and Pattern Recognition (2006)'}, {'key': '32_CR14', 'doi-asserted-by': 'publisher', 'first-page': '225', 'DOI': '10.1109/34.485529', 'volume': '18', 'author': 'Y. Amit', 'year': '1996', 'unstructured': 'Amit, Y., Kong, A.: Graphical templates for model registration. IEEE Trans. Pattern Anal. Mach. Intell.\xa018, 225–236 (1996)', 'journal-title': 'IEEE Trans. Pattern Anal. Mach. Intell.'}, {'key': '32_CR15', 'unstructured': 'Coughlan, J., Yuille, A., English, C., Snow, D.: Efficient optimization of a deformable template using dynamic programming. In: Computer Vision and Pattern Recognition, pp. 747–752 (1998)', 'DOI': '10.1109/CVPR.1998.698687', 'doi-asserted-by': 'crossref'}, {'key': '32_CR16', 'series-title': 'Lecture Notes in Computer Science', 'doi-asserted-by': 'crossref', 'first-page': '453', 'DOI': '10.1007/3-540-47977-5_30', 'volume-title': 'Biometric Authentication', 'author': 'J. Coughlan', 'year': '2002', 'unstructured': 'Coughlan, J., Ferreira, S.: Finding deformable shapes using loopy belief propagation. In: Tistarelli, M., Bigun, J., Jain, A.K. (eds.) ECCV 2002. LNCS, vol.\xa02359, pp. 453–468. Springer, Heidelberg (2002)'}, {'key': '32_CR17', 'series-title': 'Lecture Notes in Computer Science', 'doi-asserted-by': 'publisher', 'first-page': '469', 'DOI': '10.1007/978-3-540-24670-1_36', 'volume-title': 'Computer Vision - ECCV 2004', 'author': 'T. Ahonen', 'year': '2004', 'unstructured': 'Ahonen, T., Hadid, A., Pietikainen, M.: Face recognition with local binary patterns. In: Pajdla, T., Matas, J(G.) (eds.) ECCV 2004. LNCS, vol.\xa03024, pp. 469–481. Springer, Heidelberg (2004)'}, {'key': '32_CR18', 'unstructured': 'Cristinacce, D., Cootes, T.: Boosted regression active shape models. In: British Machine Vision Conference, pp. 880–889 (2007)', 'DOI': '10.5244/C.21.79', 'doi-asserted-by': 'crossref'}, {'key': '32_CR19', 'unstructured': 'Zhou, Y., Gu, L., Zhang, H.: Bayesian tangent shape model: Estimating shape and pose parameters via bayesian inference. In: Computer Vision and Pattern Recognition, pp. 109–116 (2003)'}, {'key': '32_CR20', 'doi-asserted-by': 'publisher', 'first-page': '443', 'DOI': '10.1162/089976699300016728', 'volume': '11', 'author': 'M.E. Tipping', 'year': '1999', 'unstructured': 'Tipping, M.E., Bishop, C.M.: Mixtures of probabilistic principal component analysers. Neural Computation\xa011, 443–482 (1999)', 'journal-title': 'Neural Computation'}, {'key': '32_CR21', 'unstructured': 'Rowley, H., Baluja, S., Kanade, T.: Rotation invariant neural network-based face detection. In: Computer Vision and Pattern Recognition, pp. 38–44 (1998)'}, {'key': '32_CR22', 'unstructured': 'Gross, R., Matthews, I., Cohn, J., Baker, S.: Guide to the cmu multi-pie face database. Technical report, CMU RI (2002)'}, {'key': '32_CR23', 'unstructured': 'Martinez, A., Benavente, R.: The ar face database. CVC Technical Report 24 (1998)'}], 'container-title': ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-540-88682-2_32', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 9, 11]], 'date-time': '2017-09-11T12:33:19Z', 'timestamp': 1505133199000}, 'score': 75.475815, 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9783540886815', '9783540886822'], 'references-count': 23, 'URL': 'http://dx.doi.org/10.1007/978-3-540-88682-2_32', 'relation': {'cites': []}, 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('A Generative Shape Regularization Model for Robust Face Alignment', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Liang, R. Xiao, F. Wen, and J. Sun. Face alignment via component-based discriminative search. In ECCV, 2008.
+>>> DOI >>> 10.1007/978-3-540-88688-4_6
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-88688-4_6
+>>> year >>> 2008.0
+>>> title >>> Face Alignment Via Component-Based Discriminative Search
+>>> author >>> Lin Liang and Rong Xiao and Fang Wen and Jian Sun
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 37.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 28]], 'date-time': '2018-05-28T05:22:27Z', 'timestamp': 1527484947319}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 28, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540886853', 'type': 'print'}, {'value': '9783540886884', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2008, 1, 1]], 'date-time': '2008-01-01T00:00:00Z', 'timestamp': 1199145600000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.1007/978-3-540-88688-4_6', 'type': 'book-chapter', 'created': {'date-parts': [[2008, 10, 13]], 'date-time': '2008-10-13T14:20:43Z', 'timestamp': 1223907643000}, 'page': '72-85', 'source': 'Crossref', 'is-referenced-by-count': 37, 'title': ['Face Alignment Via Component-Based Discriminative Search'], 'prefix': '10.1007', 'author': [{'given': 'Lin', 'family': 'Liang', 'sequence': 'first', 'affiliation': []}, {'given': 'Rong', 'family': 'Xiao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Fang', 'family': 'Wen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jian', 'family': 'Sun', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'issue': '8', 'key': '6_CR1', 'doi-asserted-by': 'publisher', 'first-page': '1064', 'DOI': '10.1109/TPAMI.2004.53', 'volume': '26', 'author': 'S. Avidan', 'year': '2004', 'unstructured': 'Avidan, S.: Support vector tracking. IEEE Trans. on PAMI\xa026(8), 1064–1072 (2004)', 'journal-title': 'IEEE Trans. on PAMI'}, {'key': '6_CR2', 'author': 'A. Blake', 'year': '1998', 'unstructured': 'Blake, A., Isard, M.: Active Contours. Springer, London (1998)', 'volume-title': 'Active Contours', 'DOI': '10.1007/978-1-4471-1555-7', 'doi-asserted-by': 'publisher'}, {'key': '6_CR3', 'unstructured': 'Chen, H., Xu, Y.-Q., Shum, H.-Y., Zhu, S.-C., Zheng, N.-N.: Example-based facial sketch generation with non-parametric sampling, vol.\xa02, pp. 433–438 (2001)'}, {'key': '6_CR4', 'author': 'T. Cootes', 'year': '1998', 'unstructured': 'Cootes, T., Edwards, G., Taylor, C.: Active appearance models. In: Burkhardt, H., Neumann, B. (eds.) ECCV 1998. LNCS, vol.\xa01407. Springer, Heidelberg (1998)', 'series-title': 'Lecture Notes in Computer Science', 'volume-title': 'Computer Vision - ECCV’98'}, {'key': '6_CR5', 'unstructured': 'Cootes, T.F., Taylor, C.J.: Constrained active appearance models. In: ICCV, vol.\xa0I, pp. 748–754 (2001)', 'DOI': '10.1109/ICCV.2001.937601', 'doi-asserted-by': 'crossref'}, {'key': '6_CR6', 'doi-asserted-by': 'publisher', 'first-page': '38', 'DOI': '10.1006/cviu.1995.1004', 'volume': '61', 'author': 'T.F. Cootes', 'year': '1995', 'unstructured': 'Cootes, T.F., Taylor, C.J., Graham, J.: Active shape models – their training and application. Computer Vision and Image Understanding\xa061, 38–59 (1995)', 'journal-title': 'Computer Vision and Image Understanding'}, {'issue': '8', 'key': '6_CR7', 'doi-asserted-by': 'publisher', 'first-page': '567', 'DOI': '10.1016/S0262-8856(98)00175-9', 'volume': '17', 'author': 'T.F. Cootes', 'year': '1999', 'unstructured': 'Cootes, T.F., Taylor, C.J.: A mixture model for representing shape variation. Image and Vision Computing\xa017(8), 567–574 (1999)', 'journal-title': 'Image and Vision Computing'}, {'key': '6_CR8', 'unstructured': 'Cootes, T.F., Walker, K., Taylor, C.J.: View-based active appearance models. Automatic Face and Gesture Recognition, 227–232 (2000)'}, {'key': '6_CR9', 'unstructured': 'Cristinacce, D., Cootes, T.F.: Boosted regression active shape models, vol.\xa02, pp. 880–889 (2007)'}, {'key': '6_CR10', 'unstructured': 'Cui, J., Wen, F., Xiao, R., Tang, X.: Easyalbum: An interactive photo annotation system based on face clustering and re-ranking. In: SIGCHI (2007)'}, {'key': '6_CR11', 'unstructured': 'Gu, L., Kanade, T.: 3d alignment of face in a single image, vol.\xa01, pp. 1305–1312 (2006)'}, {'key': '6_CR12', 'unstructured': 'Hou, X., Li, S.Z., Zhang, H., Cheng, Q.: Direct appearance models, vol.\xa0I, pp. 828–833 (2001)'}, {'key': '6_CR13', 'unstructured': 'Huang, G.B., Ramesh, M., Berg, T., Miller, E.L.: Labeled faces in the wild: A database for studying face recognition in unconstrained environments. Technical Report, 25(12):07–49 (October 2007)'}, {'key': '6_CR14', 'unstructured': 'Li, Y., Ai, H., Yamashita, T., Lao, S., Kawade, M.: Tracking in low frame rate video: A cascade particle filter with discriminative observers of different lifespans. In: CVPR, pp. 1–8 (2007)'}, {'key': '6_CR15', 'unstructured': 'Liang, L., Wen, F., Xu, Y., Tang, X., Shum, H.-Y.: Accurate face alignment using shape constrained markov network. In: CVPR 2006 (2006)', 'DOI': '10.1109/CVPR.2006.45', 'doi-asserted-by': 'crossref'}, {'key': '6_CR16', 'unstructured': 'Liu, C., Shum, H.-Y., Zhang, C.: Hierarchical shape modeling for automatic face localization. In: ECCV, pp. 687–703 (2002)', 'DOI': '10.1007/3-540-47967-8_46', 'doi-asserted-by': 'crossref'}, {'key': '6_CR17', 'unstructured': 'Liu, X.: Generic face alignment using boosted appearance model. In: CVPR 2007 (2007)', 'DOI': '10.1109/CVPR.2007.383265', 'doi-asserted-by': 'crossref'}, {'key': '6_CR18', 'unstructured': 'Martinez, A.M., Benavente, R.: The ar face database. CVC Technical Report\xa0(24) (1998)'}, {'issue': '2', 'key': '6_CR19', 'doi-asserted-by': 'publisher', 'first-page': '135', 'DOI': '10.1023/B:VISI.0000029666.37597.d3', 'volume': '60', 'author': 'I. Matthews', 'year': '2004', 'unstructured': 'Matthews, I., Baker, S.: Active appearance models revisited. IJCV\xa060(2), 135–164 (2004)', 'journal-title': 'IJCV'}, {'issue': '8', 'key': '6_CR20', 'doi-asserted-by': 'publisher', 'first-page': '1292', 'DOI': '10.1109/TPAMI.2005.167', 'volume': '27', 'author': 'A. Blake', 'year': '2005', 'unstructured': 'Blake, A., Williams, O., Cipolla, R.: Sparse bayesian learning for efficient visual tracking. IEEE Trans. on PAMI\xa027(8), 1292–1304 (2005)', 'journal-title': 'IEEE Trans. on PAMI'}, {'issue': '10', 'key': '6_CR21', 'doi-asserted-by': 'publisher', 'first-page': '1090', 'DOI': '10.1109/34.879790', 'volume': '22', 'author': 'P.J. Phillips', 'year': '2000', 'unstructured': 'Phillips, P.J., Moon, H., Rauss, P.J., Rizvi, S.: The feret evaluation methodology for face recognition algorithms. IEEE Trans. on PAMI\xa022(10), 1090–1104 (2000)', 'journal-title': 'IEEE Trans. on PAMI'}, {'key': '6_CR22', 'unstructured': 'Romdhani, S., Cong, S., Psarrou, A.: A multi-view non-linear active shape model using kernel pca. In: BMVC 1999 (1999)'}, {'issue': '12', 'key': '6_CR23', 'doi-asserted-by': 'publisher', 'first-page': '1615', 'DOI': '10.1109/TPAMI.2003.1251154', 'volume': '25', 'author': 'T. Sim', 'year': '2003', 'unstructured': 'Sim, T., Baker, S., Bsat, M.: The cmu pose, illumination, and expression database. IEEE Trans. on PAMI\xa025(12), 1615–1618 (2003)', 'journal-title': 'IEEE Trans. on PAMI'}, {'key': '6_CR24', 'unstructured': 'Tu, J., Zhang, Z., Zeng, Z., Huang, T.: Face localization via hierarchical condensation with fisher boosting feature selection. In: CVPR, vol.\xa02, pp. 719–724 (2004)'}, {'key': '6_CR25', 'unstructured': 'Viola, P., Jones, M.J.: Robust real-time face detection. In: IJCV, vol.\xa057(2), pp. 137–154 (2004)', 'DOI': '10.1023/B:VISI.0000013087.49260.fb', 'doi-asserted-by': 'crossref'}, {'key': '6_CR26', 'unstructured': 'Wiskott, L., Fellous, J.M., Krüger, N., von der Malsburg, C.: Face recognition by elastic bunch graph matching. In: ICIP 1997 (1997)', 'DOI': '10.1109/ICIP.1997.647401', 'doi-asserted-by': 'crossref'}, {'key': '6_CR27', 'unstructured': 'Yuille, A.L., Cohen, D.S., Hallinan, P.W.: Feature extraction from faces using deformable templates. In: CVPR, pp. 104–109.', 'DOI': '10.1109/CVPR.1989.37836', 'doi-asserted-by': 'crossref'}, {'key': '6_CR28', 'unstructured': 'Zhou, Y., Gu, L., Zhang, H.-J.: Bayesian tangent shape model: Estimating shape and pose parameters via bayesian inference. In: CVPR, vol.\xa01, pp. 109–116 (2003)'}], 'container-title': ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-540-88688-4_6', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 9, 22]], 'date-time': '2017-09-22T04:25:11Z', 'timestamp': 1506054311000}, 'score': 77.71571, 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9783540886853', '9783540886884'], 'references-count': 28, 'URL': 'http://dx.doi.org/10.1007/978-3-540-88688-4_6', 'relation': {'cites': []}, 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Face Alignment Via Component-Based Discriminative Search', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Dantone, J. Gall, G. Fanelli, and L. Van Gool. Real-time facial feature detection using conditional regression forests. In CVPR, 2012.
+>>> DOI >>> 10.1109/cvpr.2012.6247976
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2012.6247976
+>>> year >>> 2012.0
+>>> title >>> Real-time facial feature detection using conditional regression forests
+>>> author >>> M. Dantone and J. Gall and G. Fanelli and L. Van Gool
+>>> reference_count >>> 31.0
+>>> is_referenced_by_count >>> 150.0
+>>> subject >>> None
+>>> container_title >>> ['2012 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T07:42:40Z', 'timestamp': 1528357360138}, 'reference-count': 31, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467312264', 'type': 'print'}, {'value': '9781467312271', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012, 6]]}, 'DOI': '10.1109/cvpr.2012.6247976', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 8, 1]], 'date-time': '2012-08-01T15:05:51Z', 'timestamp': 1343833551000}, 'source': 'Crossref', 'is-referenced-by-count': 150, 'title': ['Real-time facial feature detection using conditional regression forests'], 'prefix': '10.1109', 'author': [{'given': 'M.', 'family': 'Dantone', 'sequence': 'first', 'affiliation': []}, {'given': 'J.', 'family': 'Gall', 'sequence': 'additional', 'affiliation': []}, {'given': 'G.', 'family': 'Fanelli', 'sequence': 'additional', 'affiliation': []}, {'given': 'L.', 'family': 'Van Gool', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2012 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Providence, RI', 'start': {'date-parts': [[2012, 6, 16]]}, 'end': {'date-parts': [[2012, 6, 21]]}}, 'container-title': ['2012 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6235193/6247647/06247976.pdf?arnumber=6247976', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T22:18:35Z', 'timestamp': 1497997115000}, 'score': 98.68473, 'issued': {'date-parts': [[2012, 6]]}, 'ISBN': ['9781467312288', '9781467312264', '9781467312271'], 'references-count': 31, 'URL': 'http://dx.doi.org/10.1109/cvpr.2012.6247976'}
+>>> hash >>> ('Real-time facial feature detection using conditional regression forests', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Liang, F. Wen, Y.-Q. Xu, X. Tang, and H.-Y. Shum. Accurate face alignment using shape constrained Markov network. In CVPR, 2006.
+>>> DOI >>> 10.1109/cvpr.2006.45
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2006.45
+>>> year >>> None
+>>> title >>> Accurate Face Alignment using Shape Constrained Markov Network
+>>> author >>> None
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ["2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Volume 1 (CVPR'06)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:20:47Z', 'timestamp': 1525310447761}, 'reference-count': 16, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769525970', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2006.45', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 7, 10]], 'date-time': '2006-07-10T19:59:56Z', 'timestamp': 1152561596000}, 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['Accurate Face Alignment using Shape Constrained Markov Network'], 'prefix': '10.1109', 'author': [{'family': 'Lin Liang', 'sequence': 'first', 'affiliation': []}, {'family': 'Fang Wen', 'sequence': 'additional', 'affiliation': []}, {'family': 'Ying-Qing Xu', 'sequence': 'additional', 'affiliation': []}, {'family': 'Xiaoou Tang', 'sequence': 'additional', 'affiliation': []}, {'family': 'Heung-Yeung Shum', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Volume 1 (CVPR'06)", 'location': 'New York, NY, USA'}, 'container-title': ["2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Volume 1 (CVPR'06)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10924/34373/01640901.pdf?arnumber=1640901', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T07:23:16Z', 'timestamp': 1497684196000}, 'score': 89.43733, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769525970'], 'references-count': 16, 'URL': 'http://dx.doi.org/10.1109/cvpr.2006.45'}
+>>> hash >>> ('Accurate Face Alignment using Shape Constrained Markov Network', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. F. Felzenszwalb, R. B. Girshick, D. A. McAllester, and D. Ramanan. Object detection with discriminatively trained part-based models. IEEE Trans. Pattern Anal. Mach. Intell., 32(9):1627â€“1645, 2010.
+>>> DOI >>> 10.1109/tpami.2009.167
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2009.167
+>>> year >>> 2010.0
+>>> title >>> Object Detection with Discriminatively Trained Part-Based Models
+>>> author >>> P F Felzenszwalb and R B Girshick and D McAllester and D Ramanan
+>>> reference_count >>> 45.0
+>>> is_referenced_by_count >>> 3412.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T18:22:34Z', 'timestamp': 1528482154608}, 'reference-count': 45, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '9', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2010, 9]]}, 'DOI': '10.1109/tpami.2009.167', 'type': 'journal-article', 'created': {'date-parts': [[2009, 9, 24]], 'date-time': '2009-09-24T19:50:33Z', 'timestamp': 1253821833000}, 'page': '1627-1645', 'source': 'Crossref', 'is-referenced-by-count': 3412, 'title': ['Object Detection with Discriminatively Trained Part-Based Models'], 'prefix': '10.1109', 'volume': '32', 'author': [{'given': 'P F', 'family': 'Felzenszwalb', 'sequence': 'first', 'affiliation': []}, {'given': 'R B', 'family': 'Girshick', 'sequence': 'additional', 'affiliation': []}, {'given': 'D', 'family': 'McAllester', 'sequence': 'additional', 'affiliation': []}, {'given': 'D', 'family': 'Ramanan', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/5530071/05255236.pdf?arnumber=5255236', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T02:56:17Z', 'timestamp': 1510628177000}, 'score': 137.10716, 'issued': {'date-parts': [[2010, 9]]}, 'references-count': 45, 'journal-issue': {'issue': '9'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2009.167', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Object Detection with Discriminatively Trained Part-Based Models', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> X. Xiong and F. De la Torre. Supervised descent method and its application to face alignment. In CVPR, 2013.
+>>> DOI >>> 10.1109/cvpr.2013.75
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2013.75
+>>> year >>> 2013.0
+>>> title >>> Supervised Descent Method and Its Applications to Face Alignment
+>>> author >>> Xuehan Xiong and Fernando De la Torre
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 631.0
+>>> subject >>> None
+>>> container_title >>> ['2013 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 1]], 'date-time': '2018-06-01T16:42:32Z', 'timestamp': 1527871352208}, 'reference-count': 32, 'publisher': 'IEEE', 'isbn-type': [{'value': '9780769549897', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013, 6]]}, 'DOI': '10.1109/cvpr.2013.75', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 10, 10]], 'date-time': '2013-10-10T23:22:10Z', 'timestamp': 1381447330000}, 'source': 'Crossref', 'is-referenced-by-count': 631, 'title': ['Supervised Descent Method and Its Applications to Face Alignment'], 'prefix': '10.1109', 'author': [{'given': 'Xuehan', 'family': 'Xiong', 'sequence': 'first', 'affiliation': []}, {'given': 'Fernando', 'family': 'De la Torre', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2013 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Portland, OR, USA', 'start': {'date-parts': [[2013, 6, 23]]}, 'end': {'date-parts': [[2013, 6, 28]]}}, 'container-title': ['2013 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6596161/6618844/06618919.pdf?arnumber=6618919', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 21]], 'date-time': '2017-06-21T23:29:48Z', 'timestamp': 1498087788000}, 'score': 71.7599, 'issued': {'date-parts': [[2013, 6]]}, 'ISBN': ['9780769549897'], 'references-count': 32, 'URL': 'http://dx.doi.org/10.1109/cvpr.2013.75'}
+>>> hash >>> ('Supervised Descent Method and Its Applications to Face Alignment', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> X. Cao, Y. Wei, F. Wen, and J. Sun. Face alignment by explicit shape regression. In CVPR, 2012.
+>>> DOI >>> 10.1109/cvpr.2012.6248015
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2012.6248015
+>>> year >>> 2012.0
+>>> title >>> Face alignment by Explicit Shape Regression
+>>> author >>> None
+>>> reference_count >>> 20.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['2012 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database71.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 28]], 'date-time': '2018-05-28T05:22:27Z', 'timestamp': 1527484947320}, 'reference-count': 20, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467312264', 'type': 'print'}, {'value': '9781467312271', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012, 6]]}, 'DOI': '10.1109/cvpr.2012.6248015', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 8, 1]], 'date-time': '2012-08-01T15:05:51Z', 'timestamp': 1343833551000}, 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Face alignment by Explicit Shape Regression'], 'prefix': '10.1109', 'author': [{'family': 'Xudong Cao', 'sequence': 'first', 'affiliation': []}, {'family': 'Yichen Wei', 'sequence': 'additional', 'affiliation': []}, {'family': 'Fang Wen', 'sequence': 'additional', 'affiliation': []}, {'family': 'Jian Sun', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2012 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Providence, RI', 'start': {'date-parts': [[2012, 6, 16]]}, 'end': {'date-parts': [[2012, 6, 21]]}}, 'container-title': ['2012 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6235193/6247647/06248015.pdf?arnumber=6248015', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T22:18:33Z', 'timestamp': 1497997113000}, 'score': 67.91422, 'issued': {'date-parts': [[2012, 6]]}, 'ISBN': ['9781467312288', '9781467312264', '9781467312271'], 'references-count': 20, 'URL': 'http://dx.doi.org/10.1109/cvpr.2012.6248015'}
+>>> hash >>> ('Face alignment by Explicit Shape Regression', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

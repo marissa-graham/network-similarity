@@ -1,0 +1,1441 @@
+>>> NEW PAPER <<<
+>>> citation >>> Raghuraman Gopalan, Ruonan Li, and Rama Chellappa, â€œDomain adaptation for object recognition: An unsupervised approach,â€\x9d in IEEE ICCV, 2011, pp. 999â€“1006.
+>>> DOI >>> 10.1109/iccv.2011.6126344
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2011.6126344
+>>> year >>> 2011.0
+>>> title >>> Domain adaptation for object recognition: An unsupervised approach
+>>> author >>> None
+>>> reference_count >>> 43.0
+>>> is_referenced_by_count >>> 213.0
+>>> subject >>> None
+>>> container_title >>> ['2011 International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 26]], 'date-time': '2018-05-26T01:02:35Z', 'timestamp': 1527296555918}, 'reference-count': 43, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781457711015', 'type': 'print'}, {'value': '9781457711008', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011, 11]]}, 'DOI': '10.1109/iccv.2011.6126344', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 1, 31]], 'date-time': '2012-01-31T21:40:48Z', 'timestamp': 1328046048000}, 'source': 'Crossref', 'is-referenced-by-count': 213, 'title': ['Domain adaptation for object recognition: An unsupervised approach'], 'prefix': '10.1109', 'author': [{'given': 'Raghuraman', 'family': 'Gopalan', 'sequence': 'first', 'affiliation': []}, {'family': 'Ruonan Li', 'sequence': 'additional', 'affiliation': []}, {'given': 'Rama', 'family': 'Chellappa', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2011 IEEE International Conference on Computer Vision (ICCV)', 'location': 'Barcelona, Spain', 'start': {'date-parts': [[2011, 11, 6]]}, 'end': {'date-parts': [[2011, 11, 13]]}}, 'container-title': ['2011 International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6118259/6126217/06126344.pdf?arnumber=6126344', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T13:37:03Z', 'timestamp': 1497965823000}, 'score': 80.13759, 'issued': {'date-parts': [[2011, 11]]}, 'ISBN': ['9781457711022', '9781457711015', '9781457711008'], 'references-count': 43, 'URL': 'http://dx.doi.org/10.1109/iccv.2011.6126344'}
+>>> hash >>> ('Domain adaptation for object recognition: An unsupervised approach', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A.C. Berg, T.L. Berg, J. Malik, "Shape Matching and Object Recognition Using Low Distortion Correspondences", Proc. IEEE Conf. Computer Vision and Pattern Recognition (CVPR), pp. 26-33, 2005.
+>>> DOI >>> 10.1109/cvpr.2005.320
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2005.320
+>>> year >>> None
+>>> title >>> Shape Matching and Object Recognition Using Low Distortion Correspondences
+>>> author >>> A.C. Berg and T.L. Berg and J. Malik
+>>> reference_count >>> 33.0
+>>> is_referenced_by_count >>> 316.0
+>>> subject >>> None
+>>> container_title >>> ["2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T20:43:41Z', 'timestamp': 1525466621148}, 'reference-count': 33, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769523722', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2005.320', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 7, 27]], 'date-time': '2005-07-27T17:52:28Z', 'timestamp': 1122486748000}, 'source': 'Crossref', 'is-referenced-by-count': 316, 'title': ['Shape Matching and Object Recognition Using Low Distortion Correspondences'], 'prefix': '10.1109', 'author': [{'given': 'A.C.', 'family': 'Berg', 'sequence': 'first', 'affiliation': []}, {'given': 'T.L.', 'family': 'Berg', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Malik', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)", 'location': 'San Diego, CA, USA'}, 'container-title': ["2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/9901/31472/01467245.pdf?arnumber=1467245', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T21:35:45Z', 'timestamp': 1497648945000}, 'score': 114.96676, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769523722'], 'references-count': 33, 'URL': 'http://dx.doi.org/10.1109/cvpr.2005.320'}
+>>> hash >>> ('Shape Matching and Object Recognition Using Low Distortion Correspondences', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E.E. Hemayed, "A Survey of Camera Self-Calibration", Proc. IEEE Conf. Advanced Video and Signal Based Surveillance, pp. 351-357, 2003.
+>>> DOI >>> 10.1109/avss.2003.1217942
+>>> URL >>> http://dx.doi.org/10.1109/avss.2003.1217942
+>>> year >>> None
+>>> title >>> A survey of camera self-calibration
+>>> author >>> E.E. Hemayed
+>>> reference_count >>> 60.0
+>>> is_referenced_by_count >>> 55.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the IEEE Conference on Advanced Video and Signal Based Surveillance, 2003.']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:54:15Z', 'timestamp': 1525395255970}, 'reference-count': 60, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769519717', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/avss.2003.1217942', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 1, 24]], 'date-time': '2004-01-24T04:33:03Z', 'timestamp': 1074918783000}, 'source': 'Crossref', 'is-referenced-by-count': 55, 'title': ['A survey of camera self-calibration'], 'prefix': '10.1109', 'author': [{'given': 'E.E.', 'family': 'Hemayed', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'event': {'name': 'IEEE Conference on Advanced Video and Signal Based Surveillance. AVSS 2003', 'location': 'Miami, FL, USA', 'acronym': 'AVSS-03'}, 'container-title': ['Proceedings of the IEEE Conference on Advanced Video and Signal Based Surveillance, 2003.'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8638/27377/01217942.pdf?arnumber=1217942', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T03:18:23Z', 'timestamp': 1497583103000}, 'score': 79.02276, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769519717'], 'references-count': 60, 'URL': 'http://dx.doi.org/10.1109/avss.2003.1217942'}
+>>> hash >>> ('A survey of camera self-calibration', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> O. Duchenne, F. Bach, I.-S. Kweon, J. Ponce, "A Tensor-Based Algorithm for High-Order Graph Matching", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 33, no. 12, pp. 2383-2395, Dec. 2011.
+>>> DOI >>> 10.1109/tpami.2011.110
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2011.110
+>>> year >>> 2011.0
+>>> title >>> A Tensor-Based Algorithm for High-Order Graph Matching
+>>> author >>> None
+>>> reference_count >>> 36.0
+>>> is_referenced_by_count >>> 114.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 26]], 'date-time': '2018-05-26T01:02:35Z', 'timestamp': 1527296555920}, 'reference-count': 36, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '12', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2011, 12]]}, 'DOI': '10.1109/tpami.2011.110', 'type': 'journal-article', 'created': {'date-parts': [[2011, 6, 17]], 'date-time': '2011-06-17T14:57:43Z', 'timestamp': 1308322663000}, 'page': '2383-2395', 'source': 'Crossref', 'is-referenced-by-count': 114, 'title': ['A Tensor-Based Algorithm for High-Order Graph Matching'], 'prefix': '10.1109', 'volume': '33', 'author': [{'given': 'O.', 'family': 'Duchenne', 'sequence': 'first', 'affiliation': []}, {'given': 'F.', 'family': 'Bach', 'sequence': 'additional', 'affiliation': []}, {'family': 'In-So Kweon', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jean', 'family': 'Ponce', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/6047995/05871640.pdf?arnumber=5871640', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T08:06:46Z', 'timestamp': 1510646806000}, 'score': 100.68756, 'issued': {'date-parts': [[2011, 12]]}, 'references-count': 36, 'journal-issue': {'issue': '12'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2011.110', 'ISSN': ['0162-8828', '2160-9292'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}, {'value': '2160-9292', 'type': 'electronic'}]}
+>>> hash >>> ('A Tensor-Based Algorithm for High-Order Graph Matching', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Albarelli, S.R. Bulo, A. Torsello, M. Pelillo, "Matching as a Non-Cooperative Game", Proc. IEEE Int'l Conf. Computer Vision (ICCV), pp. 1319-1326, 2009.
+>>> DOI >>> 10.1109/iccv.2009.5459312
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2009.5459312
+>>> year >>> 2009.0
+>>> title >>> Matching as a non-cooperative game
+>>> author >>> Andrea Albarelli and Samuel Rota Bulo and Andrea Torsello and Marcello Pelillo
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 23.0
+>>> subject >>> None
+>>> container_title >>> ['2009 IEEE 12th International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T03:54:13Z', 'timestamp': 1525319653479}, 'reference-count': 22, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424444205', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 9]]}, 'DOI': '10.1109/iccv.2009.5459312', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 5, 12]], 'date-time': '2010-05-12T20:36:14Z', 'timestamp': 1273696574000}, 'source': 'Crossref', 'is-referenced-by-count': 23, 'title': ['Matching as a non-cooperative game'], 'prefix': '10.1109', 'author': [{'given': 'Andrea', 'family': 'Albarelli', 'sequence': 'first', 'affiliation': []}, {'given': 'Samuel', 'family': 'Rota Bulo', 'sequence': 'additional', 'affiliation': []}, {'given': 'Andrea', 'family': 'Torsello', 'sequence': 'additional', 'affiliation': []}, {'given': 'Marcello', 'family': 'Pelillo', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 IEEE 12th International Conference on Computer Vision (ICCV)', 'location': 'Kyoto', 'start': {'date-parts': [[2009, 9, 29]]}, 'end': {'date-parts': [[2009, 10, 2]]}}, 'container-title': ['2009 IEEE 12th International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5453389/5459144/05459312.pdf?arnumber=5459312', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 18]], 'date-time': '2017-03-18T19:14:39Z', 'timestamp': 1489864479000}, 'score': 100.68927, 'issued': {'date-parts': [[2009, 9]]}, 'ISBN': ['9781424444205'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1109/iccv.2009.5459312'}
+>>> hash >>> ('Matching as a non-cooperative game', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Baochen Sun, Jiashi Feng, and Kate Saenko, â€œReturn of frustratingly easy domain adaptation,â€\x9d in AAAI, 2016.
+>>> DOI >>> 10.1109/iccv.2013.116
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2013.116
+>>> year >>> 2013.0
+>>> title >>> Frustratingly Easy NBNN Domain Adaptation
+>>> author >>> Tatiana Tommasi and Barbara Caputo
+>>> reference_count >>> 29.0
+>>> is_referenced_by_count >>> 21.0
+>>> subject >>> None
+>>> container_title >>> ['2013 IEEE International Conference on Computer Vision']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 0.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T08:58:34Z', 'timestamp': 1525769914192}, 'reference-count': 29, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781479928408', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013, 12]]}, 'DOI': '10.1109/iccv.2013.116', 'type': 'proceedings-article', 'created': {'date-parts': [[2014, 3, 7]], 'date-time': '2014-03-07T21:30:17Z', 'timestamp': 1394227817000}, 'source': 'Crossref', 'is-referenced-by-count': 21, 'title': ['Frustratingly Easy NBNN Domain Adaptation'], 'prefix': '10.1109', 'author': [{'given': 'Tatiana', 'family': 'Tommasi', 'sequence': 'first', 'affiliation': []}, {'given': 'Barbara', 'family': 'Caputo', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2013 IEEE International Conference on Computer Vision (ICCV)', 'location': 'Sydney, Australia', 'start': {'date-parts': [[2013, 12, 1]]}, 'end': {'date-parts': [[2013, 12, 8]]}}, 'container-title': ['2013 IEEE International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6750807/6751100/06751221.pdf?arnumber=6751221', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 23]], 'date-time': '2017-03-23T17:55:16Z', 'timestamp': 1490291716000}, 'score': 42.806248, 'issued': {'date-parts': [[2013, 12]]}, 'ISBN': ['9781479928408'], 'references-count': 29, 'URL': 'http://dx.doi.org/10.1109/iccv.2013.116'}
+>>> hash >>> ('Frustratingly Easy NBNN Domain Adaptation', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Jiayuan Huang, Alexander J Smola, Arthur Gretton, Karsten M Borgwardt, and Bernhard Scholkopf, â€œCorrecting sample se- Â¨ lection bias by unlabeled data,â€\x9d in NIPS, 2007, p. 601.
+>>> DOI >>> 10.7551/mitpress/9780262170055.003.0008
+>>> URL >>> http://dx.doi.org/10.7551/mitpress/9780262170055.003.0008
+>>> year >>> 2008.0
+>>> title >>> Covariate Shift by Kernel Mean Matching
+>>> author >>> Arthur Gretton and Alex Smola and Jiayuan Huang and Marcel Schmittfull and Karsten Borgwardt and Bernhard Schölkopf
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Dataset Shift in Machine Learning']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 0.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T00:21:15Z', 'timestamp': 1525738875631}, 'reference-count': 0, 'publisher': 'The MIT Press', 'isbn-type': [{'value': '9780262170055', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 12, 12]]}, 'DOI': '10.7551/mitpress/9780262170055.003.0008', 'type': 'book-chapter', 'created': {'date-parts': [[2013, 10, 10]], 'date-time': '2013-10-10T02:36:13Z', 'timestamp': 1381372573000}, 'page': '131-160', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Covariate Shift by Kernel Mean Matching'], 'prefix': '10.7551', 'author': [{'given': 'Arthur', 'family': 'Gretton', 'sequence': 'first', 'affiliation': []}, {'given': 'Alex', 'family': 'Smola', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jiayuan', 'family': 'Huang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Marcel', 'family': 'Schmittfull', 'sequence': 'additional', 'affiliation': []}, {'given': 'Karsten', 'family': 'Borgwardt', 'sequence': 'additional', 'affiliation': []}, {'given': 'Bernhard', 'family': 'Schölkopf', 'sequence': 'additional', 'affiliation': []}], 'member': '281', 'container-title': ['Dataset Shift in Machine Learning'], 'deposited': {'date-parts': [[2013, 10, 10]], 'date-time': '2013-10-10T02:36:18Z', 'timestamp': 1381372578000}, 'score': 55.433266, 'issued': {'date-parts': [[2008, 12, 12]]}, 'ISBN': ['9780262170055'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.7551/mitpress/9780262170055.003.0008'}
+>>> hash >>> ('Covariate Shift by Kernel Mean Matching', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Leordeanu, M. Hebert, "A Spectral Technique for Correspondence Problems Using Pairwise Constraints", Proc. IEEE Int'l Conf. Computer Vision (ICCV), pp. 1482-1489, 2005.
+>>> DOI >>> 10.1109/iccv.2005.20
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2005.20
+>>> year >>> 2005.0
+>>> title >>> A spectral technique for correspondence problems using pairwise constraints
+>>> author >>> M. Leordeanu and M. Hebert
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 380.0
+>>> subject >>> None
+>>> container_title >>> ["Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 30]], 'date-time': '2018-05-30T15:22:49Z', 'timestamp': 1527693769259}, 'reference-count': 17, 'publisher': 'IEEE', 'isbn-type': [{'value': '076952334X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1109/iccv.2005.20', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 12, 10]], 'date-time': '2005-12-10T20:49:09Z', 'timestamp': 1134247749000}, 'source': 'Crossref', 'is-referenced-by-count': 380, 'title': ['A spectral technique for correspondence problems using pairwise constraints'], 'prefix': '10.1109', 'author': [{'given': 'M.', 'family': 'Leordeanu', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Hebert', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1", 'location': 'Beijing, China', 'start': {'date-parts': [[2005, 10, 17]]}, 'end': {'date-parts': [[2005, 10, 21]]}}, 'container-title': ["Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10347/32976/01544893.pdf?arnumber=1544893', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 14]], 'date-time': '2017-03-14T15:55:27Z', 'timestamp': 1489506927000}, 'score': 101.14938, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['076952334X'], 'references-count': 17, 'URL': 'http://dx.doi.org/10.1109/iccv.2005.20'}
+>>> hash >>> ('A spectral technique for correspondence problems using pairwise constraints', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Raghuraman Gopalan, Ruonan Li, and Rama Chellappa, â€œUnsupervised adaptation across domain shifts by generating intermediate data representations,â€\x9d IEEE TPAMI, vol. 36, no. 11, pp. 2288â€“2302, 2014.
+>>> DOI >>> 10.1109/tpami.2013.249
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2013.249
+>>> year >>> 2014.0
+>>> title >>> Unsupervised Adaptation Across Domain Shifts by Generating Intermediate Data Representations
+>>> author >>> None
+>>> reference_count >>> 58.0
+>>> is_referenced_by_count >>> 45.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 26]], 'date-time': '2018-05-26T01:02:35Z', 'timestamp': 1527296555922}, 'reference-count': 58, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2014, 11, 1]]}, 'DOI': '10.1109/tpami.2013.249', 'type': 'journal-article', 'created': {'date-parts': [[2014, 1, 31]], 'date-time': '2014-01-31T17:53:04Z', 'timestamp': 1391190784000}, 'page': '2288-2302', 'source': 'Crossref', 'is-referenced-by-count': 45, 'title': ['Unsupervised Adaptation Across Domain Shifts by Generating Intermediate Data Representations'], 'prefix': '10.1109', 'volume': '36', 'author': [{'given': 'Raghuraman', 'family': 'Gopalan', 'sequence': 'first', 'affiliation': []}, {'family': 'Ruonan Li', 'sequence': 'additional', 'affiliation': []}, {'given': 'Rama', 'family': 'Chellappa', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/34/6914638/06684145.pdf?arnumber=6684145', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T07:02:11Z', 'timestamp': 1498114931000}, 'score': 105.65141, 'issued': {'date-parts': [[2014, 11, 1]]}, 'references-count': 58, 'journal-issue': {'issue': '11'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2013.249', 'ISSN': ['0162-8828', '2160-9292'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}, {'value': '2160-9292', 'type': 'electronic'}]}
+>>> hash >>> ('Unsupervised Adaptation Across Domain Shifts by Generating Intermediate Data Representations', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Stephen Boyd et al., â€œDistributed optimization and statistical learning via the alternating direction method of multipliers,â€\x9d Foundations and Trends R in Machine Learning, vol. 3, no. 1, pp. 1â€“122, 2011.
+>>> DOI >>> 10.1561/2200000016
+>>> URL >>> http://dx.doi.org/10.1561/2200000016
+>>> year >>> 2010.0
+>>> title >>> Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers
+>>> author >>> Stephen Boyd
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3403.0
+>>> subject >>> None
+>>> container_title >>> ['Foundations and Trends® in Machine Learning']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T21:42:35Z', 'timestamp': 1528494155867}, 'reference-count': 0, 'publisher': 'Now Publishers', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['FNT in Machine Learning'], 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.1561/2200000016', 'type': 'journal-article', 'created': {'date-parts': [[2011, 8, 11]], 'date-time': '2011-08-11T11:21:18Z', 'timestamp': 1313061678000}, 'page': '1-122', 'source': 'Crossref', 'is-referenced-by-count': 3403, 'title': ['Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers'], 'prefix': '10.1561', 'volume': '3', 'author': [{'given': 'Stephen', 'family': 'Boyd', 'sequence': 'first', 'affiliation': []}], 'member': '432', 'container-title': ['Foundations and Trends® in Machine Learning'], 'language': 'en', 'deposited': {'date-parts': [[2017, 12, 20]], 'date-time': '2017-12-20T22:05:25Z', 'timestamp': 1513807525000}, 'score': 87.9988, 'issued': {'date-parts': [[2010]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2011]]}, 'published-print': {'date-parts': [[2010]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1561/2200000016', 'ISSN': ['1935-8237', '1935-8245'], 'issn-type': [{'value': '1935-8237', 'type': 'print'}, {'value': '1935-8245', 'type': 'electronic'}]}
+>>> hash >>> ('Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. Griffin, A. Holub, and P. Perona, â€œCaltech-256 object category dataset,â€\x9d Tech. Rep. 7694, California Institute of Technology, 2007.
+>>> DOI >>> 10.2172/957505
+>>> URL >>> http://dx.doi.org/10.2172/957505
+>>> year >>> 2007.0
+>>> title >>> Power Systems Advanced Research
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 0.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'National Energy Technology Laboratory', 'place': ['Pittsburgh, PA, and Morgantown, WV', '-', '-'], 'acronym': ['NETL', '-', '-']}, 'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:46:59Z', 'timestamp': 1525484819064}, 'reference-count': 0, 'publisher': 'Office of Scientific and Technical Information  (OSTI)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.2172/957505', 'type': 'report', 'created': {'date-parts': [[2009, 6, 25]], 'date-time': '2009-06-25T02:47:12Z', 'timestamp': 1245898032000}, 'approved': {'date-parts': [[2009, 6, 24]]}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Power Systems Advanced Research'], 'prefix': '10.2172', 'author': [{'name': 'California Institute of Technology', 'sequence': 'first', 'affiliation': []}, {'name': 'California Institute Of Technology', 'sequence': 'additional', 'affiliation': []}], 'member': '960', 'published-online': {'date-parts': [[2007, 3, 31]]}, 'deposited': {'date-parts': [[2009, 6, 24]], 'date-time': '2009-06-24T22:47:16Z', 'timestamp': 1245883636000}, 'score': 29.712715, 'issued': {'date-parts': [[2007, 3, 31]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.2172/957505'}
+>>> hash >>> ('Power Systems Advanced Research', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G.L. Scott, H.C. Longuet-Higgins, "An Algorithm for Associating the Features of Two Images", Biological Sciences, no. 1309, pp. 21-26, 1991.
+>>> DOI >>> 10.1098/rspb.1991.0045
+>>> URL >>> http://dx.doi.org/10.1098/rspb.1991.0045
+>>> year >>> 1991.0
+>>> title >>> An Algorithm for Associating the Features of Two Images
+>>> author >>> G. L. Scott and H. C. Longuet-Higgins
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 241.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the Royal Society B: Biological Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:31:09Z', 'timestamp': 1525336269850}, 'reference-count': 0, 'publisher': 'The Royal Society', 'issue': '1309', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proceedings of the Royal Society B: Biological Sciences'], 'published-print': {'date-parts': [[1991, 4, 22]]}, 'DOI': '10.1098/rspb.1991.0045', 'type': 'journal-article', 'created': {'date-parts': [[2006, 12, 15]], 'date-time': '2006-12-15T20:32:03Z', 'timestamp': 1166214723000}, 'page': '21-26', 'source': 'Crossref', 'is-referenced-by-count': 241, 'title': ['An Algorithm for Associating the Features of Two Images'], 'prefix': '10.1098', 'volume': '244', 'author': [{'given': 'G. L.', 'family': 'Scott', 'sequence': 'first', 'affiliation': []}, {'given': 'H. C.', 'family': 'Longuet-Higgins', 'sequence': 'additional', 'affiliation': []}], 'member': '175', 'container-title': ['Proceedings of the Royal Society B: Biological Sciences'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1098/rspb.1991.0045', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 23]], 'date-time': '2016-12-23T01:10:03Z', 'timestamp': 1482455403000}, 'score': 68.08504, 'issued': {'date-parts': [[1991, 4, 22]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1991, 4, 22]]}, 'issue': '1309'}, 'URL': 'http://dx.doi.org/10.1098/rspb.1991.0045', 'ISSN': ['0962-8452', '1471-2954'], 'issn-type': [{'value': '0962-8452', 'type': 'print'}, {'value': '1471-2954', 'type': 'electronic'}]}
+>>> hash >>> ('An Algorithm for Associating the Features of Two Images', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Boqing Gong, Yuan Shi, Fei Sha, and Kristen Grauman, â€œGeodesic flow kernel for unsupervised domain adaptation,â€\x9d in IEEE CVPR, 2012, pp. 2066â€“2073.
+>>> DOI >>> 10.1109/cvpr.2012.6247911
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2012.6247911
+>>> year >>> 2012.0
+>>> title >>> Geodesic flow kernel for unsupervised domain adaptation
+>>> author >>> None
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 39.0
+>>> subject >>> None
+>>> container_title >>> ['2012 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 11]], 'date-time': '2018-05-11T21:02:25Z', 'timestamp': 1526072545957}, 'reference-count': 28, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467312264', 'type': 'print'}, {'value': '9781467312271', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012, 6]]}, 'DOI': '10.1109/cvpr.2012.6247911', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 8, 1]], 'date-time': '2012-08-01T15:05:51Z', 'timestamp': 1343833551000}, 'source': 'Crossref', 'is-referenced-by-count': 39, 'title': ['Geodesic flow kernel for unsupervised domain adaptation'], 'prefix': '10.1109', 'author': [{'family': 'Boqing Gong', 'sequence': 'first', 'affiliation': []}, {'family': 'Yuan Shi', 'sequence': 'additional', 'affiliation': []}, {'family': 'Fei Sha', 'sequence': 'additional', 'affiliation': []}, {'given': 'K.', 'family': 'Grauman', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2012 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Providence, RI', 'start': {'date-parts': [[2012, 6, 16]]}, 'end': {'date-parts': [[2012, 6, 21]]}}, 'container-title': ['2012 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6235193/6247647/06247911.pdf?arnumber=6247911', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T22:18:34Z', 'timestamp': 1497997114000}, 'score': 113.17181, 'issued': {'date-parts': [[2012, 6]]}, 'ISBN': ['9781467312288', '9781467312264', '9781467312271'], 'references-count': 28, 'URL': 'http://dx.doi.org/10.1109/cvpr.2012.6247911'}
+>>> hash >>> ('Geodesic flow kernel for unsupervised domain adaptation', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K. Mikolajczyk, C. Schmid, "A Performance Evaluation of Local Descriptors", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 27, no. 10, pp. 1615-1630, Oct. 2005.
+>>> DOI >>> 10.1109/tpami.2005.188
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2005.188
+>>> year >>> 2005.0
+>>> title >>> A performance evaluation of local descriptors
+>>> author >>> K. Mikolajczyk and C. Schmid
+>>> reference_count >>> 45.0
+>>> is_referenced_by_count >>> 3173.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T16:02:45Z', 'timestamp': 1528473765935}, 'reference-count': 45, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '10', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2005, 10]]}, 'DOI': '10.1109/tpami.2005.188', 'type': 'journal-article', 'created': {'date-parts': [[2005, 8, 24]], 'date-time': '2005-08-24T13:57:19Z', 'timestamp': 1124891839000}, 'page': '1615-1630', 'source': 'Crossref', 'is-referenced-by-count': 3173, 'title': ['A performance evaluation of local descriptors'], 'prefix': '10.1109', 'volume': '27', 'author': [{'given': 'K.', 'family': 'Mikolajczyk', 'sequence': 'first', 'affiliation': []}, {'given': 'C.', 'family': 'Schmid', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/32189/01498756.pdf?arnumber=1498756', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T01:41:35Z', 'timestamp': 1510623695000}, 'score': 94.68966, 'issued': {'date-parts': [[2005, 10]]}, 'references-count': 45, 'journal-issue': {'issue': '10'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2005.188', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A performance evaluation of local descriptors', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Nicolas Courty, Remi Flamary, Devis Tuia, and Alain Rako- Â´ tomamonjy, â€œOptimal transport for domain adaptation,â€\x9d IEEE TPAMI, vol. 39, no. 9, pp. 1853â€“1865, 2017.
+>>> DOI >>> 10.1109/tpami.2016.2615921
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2016.2615921
+>>> year >>> 2017.0
+>>> title >>> Optimal Transport for Domain Adaptation
+>>> author >>> Nicolas Courty and Remi Flamary and Devis Tuia and Alain Rakotomamonjy
+>>> reference_count >>> 53.0
+>>> is_referenced_by_count >>> 5.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 26]], 'date-time': '2018-05-26T01:02:35Z', 'timestamp': 1527296555934}, 'reference-count': 53, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '9', 'funder': [{'DOI': '10.13039/501100001711', 'name': 'Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung', 'doi-asserted-by': 'publisher', 'award': ['PP00P2-150593']}, {'DOI': '10.13039/501100004617', 'name': "Institut National des Sciences de l'Univers, Centre National de la Recherche Scientifique", 'doi-asserted-by': 'publisher', 'award': []}, {'name': 'Topase project', 'award': []}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2017, 9, 1]]}, 'DOI': '10.1109/tpami.2016.2615921', 'type': 'journal-article', 'created': {'date-parts': [[2016, 10, 7]], 'date-time': '2016-10-07T19:18:54Z', 'timestamp': 1475867934000}, 'page': '1853-1865', 'source': 'Crossref', 'is-referenced-by-count': 5, 'title': ['Optimal Transport for Domain Adaptation'], 'prefix': '10.1109', 'volume': '39', 'author': [{'given': 'Nicolas', 'family': 'Courty', 'sequence': 'first', 'affiliation': []}, {'given': 'Remi', 'family': 'Flamary', 'sequence': 'additional', 'affiliation': []}, {'given': 'Devis', 'family': 'Tuia', 'sequence': 'additional', 'affiliation': []}, {'given': 'Alain', 'family': 'Rakotomamonjy', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/34/8000766/07586038.pdf?arnumber=7586038', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 10, 3]], 'date-time': '2017-10-03T02:48:13Z', 'timestamp': 1506998893000}, 'score': 68.780945, 'issued': {'date-parts': [[2017, 9, 1]]}, 'references-count': 53, 'journal-issue': {'issue': '9'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2016.2615921', 'ISSN': ['0162-8828', '2160-9292'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}, {'value': '2160-9292', 'type': 'electronic'}]}
+>>> hash >>> ('Optimal Transport for Domain Adaptation', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Martin Jaggi, â€œRevisiting frank-wolfe: Projection-free sparse convex optimization.,â€\x9d in ICML, 2013, pp. 427â€“435.
+>>> DOI >>> 10.1145/1143844.1143856
+>>> URL >>> http://dx.doi.org/10.1145/1143844.1143856
+>>> year >>> 2006.0
+>>> title >>> Convex optimization techniques for fitting sparse Gaussian graphical models
+>>> author >>> Onureena Banerjee and Laurent El Ghaoui and Alexandre d'Aspremont and Georges Natsoulis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 29.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 23rd international conference on Machine learning  - ICML '06"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 0.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:51:47Z', 'timestamp': 1525312307593}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1595933832', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.1145/1143844.1143856', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 7, 24]], 'date-time': '2006-07-24T16:53:01Z', 'timestamp': 1153759981000}, 'source': 'Crossref', 'is-referenced-by-count': 29, 'title': ['Convex optimization techniques for fitting sparse Gaussian graphical models'], 'prefix': '10.1145', 'author': [{'given': 'Onureena', 'family': 'Banerjee', 'sequence': 'first', 'affiliation': []}, {'given': 'Laurent El', 'family': 'Ghaoui', 'sequence': 'additional', 'affiliation': []}, {'given': 'Alexandre', 'family': "d'Aspremont", 'sequence': 'additional', 'affiliation': []}, {'given': 'Georges', 'family': 'Natsoulis', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 23rd international conference', 'location': 'Pittsburgh, Pennsylvania', 'sponsor': ['undetermined'], 'acronym': "ICML '06", 'number': '23', 'start': {'date-parts': [[2006, 6, 25]]}, 'end': {'date-parts': [[2006, 6, 29]]}}, 'container-title': ["Proceedings of the 23rd international conference on Machine learning  - ICML '06"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1143856&amp;ftid=364238&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T17:56:22Z', 'timestamp': 1481910982000}, 'score': 29.609932, 'issued': {'date-parts': [[2006]]}, 'ISBN': ['1595933832'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1143844.1143856'}
+>>> hash >>> ('Convex optimization techniques for fitting sparse Gaussian graphical models', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Olivier Duchenne, Francis Bach, In-So Kweon, and Jean Ponce, â€œA tensor-based algorithm for high-order graph matching,â€\x9d IEEE TPAMI, vol. 33, no. 12, pp. 2383â€“2395, 2011.
+>>> DOI >>> 10.1109/cvprw.2009.5206619
+>>> URL >>> http://dx.doi.org/10.1109/cvprw.2009.5206619
+>>> year >>> 2009.0
+>>> title >>> A tensor-based algorithm for high-order graph matching
+>>> author >>> O. Duchenne and F. Bach and I. Kweon and J. Ponce
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['2009 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 28]], 'date-time': '2018-04-28T05:40:14Z', 'timestamp': 1524894014168}, 'reference-count': 0, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 6]]}, 'DOI': '10.1109/cvprw.2009.5206619', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 8, 24]], 'date-time': '2009-08-24T15:11:50Z', 'timestamp': 1251126710000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['A tensor-based algorithm for high-order graph matching'], 'prefix': '10.1109', 'author': [{'given': 'O.', 'family': 'Duchenne', 'sequence': 'first', 'affiliation': []}, {'given': 'F.', 'family': 'Bach', 'sequence': 'additional', 'affiliation': []}, {'given': 'I.', 'family': 'Kweon', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Ponce', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Miami, FL, USA', 'start': {'date-parts': [[2009, 6, 20]]}, 'end': {'date-parts': [[2009, 6, 25]]}}, 'container-title': ['2009 IEEE Conference on Computer Vision and Pattern Recognition'], 'deposited': {'date-parts': [[2014, 11, 4]], 'date-time': '2014-11-04T18:14:50Z', 'timestamp': 1415124890000}, 'score': 86.1229, 'issued': {'date-parts': [[2009, 6]]}, 'ISBN': ['9781424439928'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1109/cvprw.2009.5206619'}
+>>> hash >>> ('A tensor-based algorithm for high-order graph matching', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M.R. Garey, D.S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness., 1979.
+>>> DOI >>> 10.1137/1024022
+>>> URL >>> http://dx.doi.org/10.1137/1024022
+>>> year >>> 1982.0
+>>> title >>> Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)
+>>> author >>> Juris Hartmanis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Review']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:58:37Z', 'timestamp': 1525445917657}, 'reference-count': 0, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM Rev.'], 'published-print': {'date-parts': [[1982, 1]]}, 'DOI': '10.1137/1024022', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 7]], 'date-time': '2005-03-07T06:58:10Z', 'timestamp': 1110178690000}, 'page': '90-91', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)'], 'prefix': '10.1137', 'volume': '24', 'author': [{'given': 'Juris', 'family': 'Hartmanis', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Review'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/1024022', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T18:00:43Z', 'timestamp': 1485712843000}, 'score': 57.632065, 'issued': {'date-parts': [[1982, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1982, 1]]}, 'issue': '1'}, 'alternative-id': ['10.1137/1024022'], 'URL': 'http://dx.doi.org/10.1137/1024022', 'ISSN': ['0036-1445', '1095-7200'], 'issn-type': [{'value': '0036-1445', 'type': 'print'}, {'value': '1095-7200', 'type': 'electronic'}]}
+>>> hash >>> ('Computers and Intractability: A Guide to the Theory of NP-Completeness (Michael R. Garey and David S. Johnson)', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> U Kang, M. Hebert, S. Park, "Fast and Scalable Approximate Spectral Graph Matching for Correspondence Problems", Information Sciences, vol. 220, no. 20, pp. 306-318, 2013.
+>>> DOI >>> 10.1016/j.ins.2012.07.008
+>>> URL >>> http://dx.doi.org/10.1016/j.ins.2012.07.008
+>>> year >>> 2013.0
+>>> title >>> Fast and scalable approximate spectral graph matching for correspondence problems
+>>> author >>> U Kang and Martial Hebert and Soonyong Park
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 17.0
+>>> subject >>> None
+>>> container_title >>> ['Information Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T15:20:34Z', 'timestamp': 1525533634951}, 'reference-count': 32, 'publisher': 'Elsevier BV', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2013, 1, 1]], 'date-time': '2013-01-01T00:00:00Z', 'timestamp': 1356998400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Information Sciences'], 'published-print': {'date-parts': [[2013, 1]]}, 'DOI': '10.1016/j.ins.2012.07.008', 'type': 'journal-article', 'created': {'date-parts': [[2012, 7, 31]], 'date-time': '2012-07-31T04:12:48Z', 'timestamp': 1343707968000}, 'page': '306-318', 'source': 'Crossref', 'is-referenced-by-count': 17, 'title': ['Fast and scalable approximate spectral graph matching for correspondence problems'], 'prefix': '10.1016', 'volume': '220', 'author': [{'given': 'U', 'family': 'Kang', 'sequence': 'first', 'affiliation': []}, {'given': 'Martial', 'family': 'Hebert', 'sequence': 'additional', 'affiliation': []}, {'given': 'Soonyong', 'family': 'Park', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Information Sciences'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0020025512004720?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0020025512004720?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T22:12:24Z', 'timestamp': 1497996744000}, 'score': 115.89442, 'issued': {'date-parts': [[2013, 1]]}, 'references-count': 32, 'alternative-id': ['S0020025512004720'], 'URL': 'http://dx.doi.org/10.1016/j.ins.2012.07.008', 'ISSN': ['0020-0255'], 'issn-type': [{'value': '0020-0255', 'type': 'print'}]}
+>>> hash >>> ('Fast and scalable approximate spectral graph matching for correspondence problems', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Antonio Torralba and Alexei A Efros, â€œUnbiased look at dataset bias,â€\x9d in IEEE CVPR, 2011, pp. 1521â€“1528.
+>>> DOI >>> 10.1109/cvpr.2011.5995347
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2011.5995347
+>>> year >>> 2011.0
+>>> title >>> Unbiased look at dataset bias
+>>> author >>> Antonio Torralba and Alexei A. Efros
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 247.0
+>>> subject >>> None
+>>> container_title >>> ['CVPR 2011']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:50Z', 'timestamp': 1528225370081}, 'reference-count': 21, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781457703942', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011, 6]]}, 'DOI': '10.1109/cvpr.2011.5995347', 'type': 'proceedings-article', 'created': {'date-parts': [[2011, 8, 25]], 'date-time': '2011-08-25T20:42:30Z', 'timestamp': 1314304950000}, 'source': 'Crossref', 'is-referenced-by-count': 247, 'title': ['Unbiased look at dataset bias'], 'prefix': '10.1109', 'author': [{'given': 'Antonio', 'family': 'Torralba', 'sequence': 'first', 'affiliation': []}, {'given': 'Alexei A.', 'family': 'Efros', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2011 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Colorado Springs, CO, USA', 'start': {'date-parts': [[2011, 6, 20]]}, 'end': {'date-parts': [[2011, 6, 25]]}}, 'container-title': ['CVPR 2011'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5968010/5995307/05995347.pdf?arnumber=5995347', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T05:12:23Z', 'timestamp': 1497935543000}, 'score': 70.994194, 'issued': {'date-parts': [[2011, 6]]}, 'ISBN': ['9781457703942'], 'references-count': 21, 'URL': 'http://dx.doi.org/10.1109/cvpr.2011.5995347'}
+>>> hash >>> ('Unbiased look at dataset bias', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G.H. Golub, C.F.V. Loan, Matrix Computations., 1996.
+>>> DOI >>> 10.2307/3619868
+>>> URL >>> http://dx.doi.org/10.2307/3619868
+>>> year >>> 1990.0
+>>> title >>> Matrix Computations
+>>> author >>> A. Iserles and G. H. Golub and C. F. Van Loan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['The Mathematical Gazette']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T10:41:01Z', 'timestamp': 1525344061705}, 'reference-count': 0, 'publisher': 'JSTOR', 'issue': '469', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['The Mathematical Gazette'], 'published-print': {'date-parts': [[1990, 10]]}, 'DOI': '10.2307/3619868', 'type': 'journal-article', 'created': {'date-parts': [[2007, 1, 23]], 'date-time': '2007-01-23T18:47:15Z', 'timestamp': 1169578035000}, 'page': '322', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Matrix Computations'], 'prefix': '10.2307', 'volume': '74', 'author': [{'given': 'A.', 'family': 'Iserles', 'sequence': 'first', 'affiliation': []}, {'given': 'G. H.', 'family': 'Golub', 'sequence': 'additional', 'affiliation': []}, {'given': 'C. F. Van', 'family': 'Loan', 'sequence': 'additional', 'affiliation': []}], 'member': '1121', 'container-title': ['The Mathematical Gazette'], 'deposited': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T12:44:00Z', 'timestamp': 1524055440000}, 'score': 35.111156, 'issued': {'date-parts': [[1990, 10]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1990, 10]]}, 'issue': '469'}, 'URL': 'http://dx.doi.org/10.2307/3619868', 'ISSN': ['0025-5572'], 'issn-type': [{'value': '0025-5572', 'type': 'print'}]}
+>>> hash >>> ('Matrix Computations', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. Fielding, M. Kam, "Weighted Matchings for Dense Stereo Correspondence", Pattern Recognition, vol. 33, no. 9, pp. 1511-1524, 2000.
+>>> DOI >>> 10.1016/s0031-3203(99)00132-6
+>>> URL >>> http://dx.doi.org/10.1016/s0031-3203(99)00132-6
+>>> year >>> 2000.0
+>>> title >>> Weighted matchings for dense stereo correspondence
+>>> author >>> Gabriel Fielding and Moshe Kam
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T22:03:45Z', 'timestamp': 1525298625900}, 'reference-count': 28, 'publisher': 'Elsevier BV', 'issue': '9', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2000, 9, 1]], 'date-time': '2000-09-01T00:00:00Z', 'timestamp': 967766400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[2000, 9]]}, 'DOI': '10.1016/s0031-3203(99)00132-6', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T15:01:39Z', 'timestamp': 1027609299000}, 'page': '1511-1524', 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['Weighted matchings for dense stereo correspondence'], 'prefix': '10.1016', 'volume': '33', 'author': [{'given': 'Gabriel', 'family': 'Fielding', 'sequence': 'first', 'affiliation': []}, {'given': 'Moshe', 'family': 'Kam', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0031320399001326?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0031320399001326?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 9, 11]], 'date-time': '2017-09-11T08:16:26Z', 'timestamp': 1505117786000}, 'score': 106.18143, 'issued': {'date-parts': [[2000, 9]]}, 'references-count': 28, 'journal-issue': {'published-print': {'date-parts': [[2000, 9]]}, 'issue': '9'}, 'alternative-id': ['S0031320399001326'], 'URL': 'http://dx.doi.org/10.1016/s0031-3203(99)00132-6', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Weighted matchings for dense stereo correspondence', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R.A. Horn, C.R. Johnson, Matrix Analysis., 1985.
+>>> DOI >>> 10.1017/cbo9780511810817
+>>> URL >>> http://dx.doi.org/10.1017/cbo9780511810817
+>>> year >>> 1985.0
+>>> title >>> Matrix analysis
+>>> author >>> Roger A. Horn and Charles R. Johnson
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 6141.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T21:42:35Z', 'timestamp': 1528494155868}, 'publisher-location': 'Cambridge', 'reference-count': 0, 'publisher': 'Cambridge University Press', 'isbn-type': [{'value': '9780511810817', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1985]]}, 'DOI': '10.1017/cbo9780511810817', 'type': 'monograph', 'created': {'date-parts': [[2013, 3, 13]], 'date-time': '2013-03-13T09:16:23Z', 'timestamp': 1363166183000}, 'source': 'Crossref', 'is-referenced-by-count': 6141, 'title': ['Matrix analysis'], 'prefix': '10.1017', 'author': [{'given': 'Roger A.', 'family': 'Horn', 'sequence': 'first', 'affiliation': []}, {'given': 'Charles R.', 'family': 'Johnson', 'sequence': 'additional', 'affiliation': []}], 'member': '56', 'published-online': {'date-parts': [[2009]]}, 'deposited': {'date-parts': [[2016, 10, 15]], 'date-time': '2016-10-15T15:34:37Z', 'timestamp': 1476545677000}, 'score': 36.29381, 'issued': {'date-parts': [[1985]]}, 'ISBN': ['9780511810817'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1017/cbo9780511810817'}
+>>> hash >>> ('Matrix analysis', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> F. Zhou, F. De la Torre, "Factorized Graph Matching", Proc. IEEE Conf. Computer Vision and Pattern Recognition (CVPR), pp. 127-134, 2012.
+>>> DOI >>> 10.1109/cvpr.2012.6247667
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2012.6247667
+>>> year >>> 2012.0
+>>> title >>> Factorized graph matching
+>>> author >>> None
+>>> reference_count >>> 40.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['2012 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T15:31:06Z', 'timestamp': 1525534266491}, 'reference-count': 40, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467312264', 'type': 'print'}, {'value': '9781467312271', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012, 6]]}, 'DOI': '10.1109/cvpr.2012.6247667', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 8, 1]], 'date-time': '2012-08-01T15:05:51Z', 'timestamp': 1343833551000}, 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['Factorized graph matching'], 'prefix': '10.1109', 'author': [{'family': 'Feng Zhou', 'sequence': 'first', 'affiliation': []}, {'given': 'F.', 'family': 'De la Torre', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2012 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Providence, RI', 'start': {'date-parts': [[2012, 6, 16]]}, 'end': {'date-parts': [[2012, 6, 21]]}}, 'container-title': ['2012 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6235193/6247647/06247667.pdf?arnumber=6247667', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 21]], 'date-time': '2017-03-21T21:12:56Z', 'timestamp': 1490130776000}, 'score': 81.66149, 'issued': {'date-parts': [[2012, 6]]}, 'ISBN': ['9781467312288', '9781467312264', '9781467312271'], 'references-count': 40, 'URL': 'http://dx.doi.org/10.1109/cvpr.2012.6247667'}
+>>> hash >>> ('Factorized graph matching', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C.D. Martin, Higher-Order Kronecker Products and Tensor Decompositions, Aug. 2005.
+>>> DOI >>> 10.2172/923081
+>>> URL >>> http://dx.doi.org/10.2172/923081
+>>> year >>> 2006.0
+>>> title >>> Multilinear operators for higher-order decompositions.
+>>> author >>> Tamara Gibson Kolda
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 23.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'Sandia National Laboratories (SNL)', 'place': ['Albuquerque, NM, and Livermore, CA', '-'], 'acronym': ['SNL', '-']}, 'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T06:07:33Z', 'timestamp': 1525414053574}, 'reference-count': 0, 'publisher': 'Office of Scientific and Technical Information  (OSTI)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.2172/923081', 'type': 'report', 'created': {'date-parts': [[2008, 2, 8]], 'date-time': '2008-02-08T03:27:16Z', 'timestamp': 1202441236000}, 'approved': {'date-parts': [[2008, 2, 7]]}, 'source': 'Crossref', 'is-referenced-by-count': 23, 'title': ['Multilinear operators for higher-order decompositions.'], 'prefix': '10.2172', 'author': [{'given': 'Tamara Gibson', 'family': 'Kolda', 'sequence': 'first', 'affiliation': []}], 'member': '960', 'published-online': {'date-parts': [[2006, 4, 1]]}, 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 29.804068, 'issued': {'date-parts': [[2006, 4, 1]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.2172/923081'}
+>>> hash >>> ('Multilinear operators for higher-order decompositions.', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K. Lange, Numerical Analysis for Statisticians., 1999.
+>>> DOI >>> 10.1007/b98850
+>>> URL >>> http://dx.doi.org/10.1007/b98850
+>>> year >>> 1999.0
+>>> title >>> Numerical Analysis for Statisticians
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Statistics and Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T03:37:19Z', 'timestamp': 1525491439202}, 'publisher-location': 'New York', 'reference-count': 0, 'publisher': 'Springer-Verlag', 'isbn-type': [{'value': '0387949798', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1007/b98850', 'type': 'book', 'created': {'date-parts': [[2006, 3, 31]], 'date-time': '2006-03-31T13:40:36Z', 'timestamp': 1143812436000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Numerical Analysis for Statisticians'], 'prefix': '10.1007', 'member': '297', 'container-title': ['Statistics and Computing'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/b98850', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 9, 13]], 'date-time': '2013-09-13T16:54:16Z', 'timestamp': 1379091256000}, 'score': 35.278923, 'issued': {'date-parts': [[1999]]}, 'ISBN': ['0387949798'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/b98850'}
+>>> hash >>> ('Numerical Analysis for Statisticians', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. Kofidis, Phillip, A. Regalia, "On the Best Rank-1 Approximation of Higher-Order Supersymmetric Tensors", SIAM J. Matrix Analysis and Applications, vol. 23, pp. 863-884, 2002.
+>>> DOI >>> 10.1137/s0895479801387413
+>>> URL >>> http://dx.doi.org/10.1137/s0895479801387413
+>>> year >>> 2002.0
+>>> title >>> On the Best Rank-1 Approximation of Higher-Order Supersymmetric Tensors
+>>> author >>> Eleftherios Kofidis and Phillip A. Regalia
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 175.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Matrix Analysis and Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 23]], 'date-time': '2018-05-23T23:22:30Z', 'timestamp': 1527117750278}, 'reference-count': 16, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Matrix Anal. & Appl.'], 'published-print': {'date-parts': [[2002, 1]]}, 'DOI': '10.1137/s0895479801387413', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 11]], 'date-time': '2003-06-11T15:12:06Z', 'timestamp': 1055344326000}, 'page': '863-884', 'source': 'Crossref', 'is-referenced-by-count': 175, 'title': ['On the Best Rank-1 Approximation of Higher-Order Supersymmetric Tensors'], 'prefix': '10.1137', 'volume': '23', 'author': [{'given': 'Eleftherios', 'family': 'Kofidis', 'sequence': 'first', 'affiliation': []}, {'given': 'Phillip A.', 'family': 'Regalia', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Matrix Analysis and Applications'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/S0895479801387413', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 10, 2]], 'date-time': '2017-10-02T16:06:32Z', 'timestamp': 1506960392000}, 'score': 117.58043, 'issued': {'date-parts': [[2002, 1]]}, 'references-count': 16, 'journal-issue': {'published-print': {'date-parts': [[2002, 1]]}, 'issue': '3'}, 'alternative-id': ['10.1137/S0895479801387413'], 'URL': 'http://dx.doi.org/10.1137/s0895479801387413', 'ISSN': ['0895-4798', '1095-7162'], 'issn-type': [{'value': '0895-4798', 'type': 'print'}, {'value': '1095-7162', 'type': 'electronic'}]}
+>>> hash >>> ('On the Best Rank-1 Approximation of Higher-Order Supersymmetric Tensors', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T.G. Kolda, "A Counterexample to the Possibility of an Extension of the Eckart-Young Low-Rank Approximation Theorem for the Orthogonal Rank Tensor Decomposition", SIAM J. Matrix Analysis and Applications, vol. 24, pp. 762-767, 2003.
+>>> DOI >>> 10.1137/s0895479801394465
+>>> URL >>> http://dx.doi.org/10.1137/s0895479801394465
+>>> year >>> 2003.0
+>>> title >>> A Counterexample to the Possibility of an Extension of the Eckart--Young Low-Rank Approximation Theorem for the Orthogonal Rank Tensor Decomposition
+>>> author >>> Tamara G. Kolda
+>>> reference_count >>> 5.0
+>>> is_referenced_by_count >>> 37.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Matrix Analysis and Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T14:42:29Z', 'timestamp': 1528382549147}, 'reference-count': 5, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Matrix Anal. & Appl.'], 'published-print': {'date-parts': [[2003, 1]]}, 'DOI': '10.1137/s0895479801394465', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 11]], 'date-time': '2003-06-11T15:12:06Z', 'timestamp': 1055344326000}, 'page': '762-767', 'source': 'Crossref', 'is-referenced-by-count': 37, 'title': ['A Counterexample to the Possibility of an Extension of the Eckart--Young Low-Rank Approximation Theorem for the Orthogonal Rank Tensor Decomposition'], 'prefix': '10.1137', 'volume': '24', 'author': [{'given': 'Tamara G.', 'family': 'Kolda', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Matrix Analysis and Applications'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/S0895479801394465', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 10, 2]], 'date-time': '2017-10-02T16:05:48Z', 'timestamp': 1506960348000}, 'score': 124.90448, 'issued': {'date-parts': [[2003, 1]]}, 'references-count': 5, 'journal-issue': {'published-print': {'date-parts': [[2003, 1]]}, 'issue': '3'}, 'alternative-id': ['10.1137/S0895479801394465'], 'URL': 'http://dx.doi.org/10.1137/s0895479801394465', 'ISSN': ['0895-4798', '1095-7162'], 'issn-type': [{'value': '0895-4798', 'type': 'print'}, {'value': '1095-7162', 'type': 'electronic'}]}
+>>> hash >>> ('A Counterexample to the Possibility of an Extension of the Eckart--Young Low-Rank Approximation Theorem for the Orthogonal Rank Tensor Decomposition', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G.J. Brostow, J. Shotton, J. Fauqueur, R. Cipolla, "Segmentation and Recognition Using Structure from Motion Point Clouds", Proc. European Conf. Computer Vision (ECCV), pp. 44-57, 2008.
+>>> DOI >>> 10.1007/978-3-540-88682-2_5
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-88682-2_5
+>>> year >>> 2008.0
+>>> title >>> Segmentation and Recognition Using Structure from Motion Point Clouds
+>>> author >>> Gabriel J. Brostow and Jamie Shotton and Julien Fauqueur and Roberto Cipolla
+>>> reference_count >>> 31.0
+>>> is_referenced_by_count >>> 72.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T15:22:37Z', 'timestamp': 1525447357603}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 31, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540886815', 'type': 'print'}, {'value': '9783540886822', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2008, 1, 1]], 'date-time': '2008-01-01T00:00:00Z', 'timestamp': 1199145600000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.1007/978-3-540-88682-2_5', 'type': 'book-chapter', 'created': {'date-parts': [[2008, 10, 11]], 'date-time': '2008-10-11T19:59:49Z', 'timestamp': 1223755189000}, 'page': '44-57', 'source': 'Crossref', 'is-referenced-by-count': 72, 'title': ['Segmentation and Recognition Using Structure from Motion Point Clouds'], 'prefix': '10.1007', 'author': [{'given': 'Gabriel J.', 'family': 'Brostow', 'sequence': 'first', 'affiliation': []}, {'given': 'Jamie', 'family': 'Shotton', 'sequence': 'additional', 'affiliation': []}, {'given': 'Julien', 'family': 'Fauqueur', 'sequence': 'additional', 'affiliation': []}, {'given': 'Roberto', 'family': 'Cipolla', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': '5_CR1', 'author': 'R.I. Hartley', 'year': '2004', 'edition': '2', 'unstructured': 'Hartley, R.I., Zisserman, A.: Multiple View Geometry in Computer Vision, 2nd edn. Cambridge University Press, Cambridge (2004)', 'volume-title': 'Multiple View Geometry in Computer Vision', 'DOI': '10.1017/CBO9780511811685', 'doi-asserted-by': 'publisher'}, {'key': '5_CR2', 'unstructured': 'Merrell, P., Akbarzadeh, A., Wang, L., Mordohai, P., Frahm, J.M., Yang, R., Nister, D., Pollefeys, M.: Real-time visibility-based fusion of depth maps. In: Proceedings of the International Conference on Computer Vision (ICCV) (2007)', 'DOI': '10.1109/ICCV.2007.4408984', 'doi-asserted-by': 'crossref'}, {'key': '5_CR3', 'unstructured': 'Posner, I., Schroeter, D., Newman, P.M.: Describing composite urban workspaces. In: ICRA (2007)', 'DOI': '10.1109/ROBOT.2007.364244', 'doi-asserted-by': 'crossref'}, {'key': '5_CR4', 'unstructured': 'Boujou: 2d3 Ltd. (2007), \n                    \n                      http://www.2d3.com\n                    \n                    \n                  \n                '}, {'key': '5_CR5', 'unstructured': 'Chum, O., Zisserman, A.: An exemplar model for learning object classes. In: CVPR (2007)', 'DOI': '10.1109/CVPR.2007.383050', 'doi-asserted-by': 'crossref'}, {'key': '5_CR6', 'unstructured': 'Li, L.J., Fei-Fei, L.: What, where and who? classifying events by scene and object recognition. In: ICCV (2007)', 'DOI': '10.1109/ICCV.2007.4408872', 'doi-asserted-by': 'crossref'}, {'key': '5_CR7', 'unstructured': 'Shotton, J., Johnson, M., Cipolla, R.: Semantic texton forests for image categorization and segmentation. In: CVPR (2008)', 'DOI': '10.1109/CVPR.2008.4587503', 'doi-asserted-by': 'crossref'}, {'key': '5_CR8', 'unstructured': 'Hoiem, D., Efros, A.A., Hebert, M.: Putting objects in perspective. In: CVPR, vol.\xa02, pp. 2137–2144 (2006)', 'DOI': '10.1109/CVPR.2006.232', 'doi-asserted-by': 'crossref'}, {'key': '5_CR9', 'unstructured': 'Hoiem, D., Efros, A.A., Hebert, M.: Geometric context from a single image. In: ICCV, vol.\xa01, pp. 654–661 (2005)', 'DOI': '10.1109/ICCV.2005.107', 'doi-asserted-by': 'crossref'}, {'key': '5_CR10', 'unstructured': 'Huber, D., Kapuria, A., Donamukkala, R., Hebert, M.: Parts-based 3d object classification. In: CVPR, pp. 82–89 (2004)'}, {'key': '5_CR11', 'unstructured': 'Hoiem, D., Rother, C., Winn, J.: 3d layout crf for multi-view object class recognition and segmentation. In: CVPR (2007)'}, {'key': '5_CR12', 'unstructured': 'Kushal, A., Schmid, C., Ponce, J.: Flexible object models for category-level 3d object recognition. In: CVPR (2007)', 'DOI': '10.1109/CVPR.2007.383149', 'doi-asserted-by': 'crossref'}, {'key': '5_CR13', 'unstructured': 'Pingkun, Y., Khan, S., Shah, M.: 3d model based object class detection in an arbitrary view. In: ICCV (2007)'}, {'key': '5_CR14', 'unstructured': 'Savarese, S., Fei-Fei, L.: 3d generic object categorization, localization and pose estimation. In: ICCV (2007)', 'DOI': '10.1109/ICCV.2007.4408987', 'doi-asserted-by': 'crossref'}, {'key': '5_CR15', 'series-title': 'Lecture Notes in Computer Science', 'doi-asserted-by': 'publisher', 'first-page': '428', 'DOI': '10.1007/11744047_33', 'volume-title': 'Computer Vision – ECCV 2006', 'author': 'N. Dalal', 'year': '2006', 'unstructured': 'Dalal, N., Triggs, B., Schmid, C.: Human detection using oriented histograms of flow and appearance. In: Leonardis, A., Bischof, H., Pinz, A. (eds.) ECCV 2006. LNCS, vol.\xa03954, pp. 428–441. Springer, Heidelberg (2006)'}, {'issue': '2', 'key': '5_CR16', 'doi-asserted-by': 'publisher', 'first-page': '129', 'DOI': '10.1016/0262-8856(95)93154-K', 'volume': '13', 'author': 'C. Cedras', 'year': '1995', 'unstructured': 'Cedras, C., Shah, M.: Motion-based recognition: A survey. IVC\xa013(2), 129–155 (1995)', 'journal-title': 'IVC'}, {'key': '5_CR17', 'unstructured': 'Laptev, I., Lindeberg, T.: Space-time interest points. In: ICCV, pp. 432–439 (2003)', 'DOI': '10.1109/ICCV.2003.1238378', 'doi-asserted-by': 'crossref'}, {'key': '5_CR18', 'unstructured': 'Viola, P.A., Jones, M.J., Snow, D.: Detecting pedestrians using patterns of motion and appearance. In: ICCV, pp. 734–741 (2003)', 'DOI': '10.1109/ICCV.2003.1238422', 'doi-asserted-by': 'crossref'}, {'key': '5_CR19', 'unstructured': 'Yin, P., Criminisi, A., Winn, J.M., Essa, I.: Tree-based classifiers for bilayer video segmentation. In: CVPR (2007)', 'DOI': '10.1109/CVPR.2007.383008', 'doi-asserted-by': 'crossref'}, {'key': '5_CR20', 'unstructured': 'Wiles, C., Brady, M.: Closing the loop on multiple motions. In: ICCV, pp. 308–313 (1995)', 'DOI': '10.1109/ICCV.1995.466924', 'doi-asserted-by': 'crossref'}, {'key': '5_CR21', 'unstructured': 'Kang, J., Cohen, I., Medioni, G.G., Yuan, C.: Detection and tracking of moving objects from a moving platform in presence of strong parallax. In: ICCV, pp. 10–17 (2005)'}, {'key': '5_CR22', 'unstructured': 'Leibe, B., Cornelis, N., Cornelis, K., Gool, L.J.V.: Dynamic 3d scene analysis from a moving vehicle. In: CVPR (2007)'}, {'key': '5_CR23', 'unstructured': 'Efros, A.A., Berg, A.C., Mori, G., Malik, J.: Recognizing action at a distance. In: ICCV, pp. 726–733 (2003)', 'DOI': '10.1109/ICCV.2003.1238420', 'doi-asserted-by': 'crossref'}, {'key': '5_CR24', 'unstructured': 'Harris, C., Stephens, M.: A Combined Corner and Edge Detector. In: 4th ALVEY Vision Conference, pp. 147–151 (1988)', 'DOI': '10.5244/C.2.23', 'doi-asserted-by': 'crossref'}, {'key': '5_CR25', 'doi-asserted-by': 'publisher', 'first-page': '261', 'DOI': '10.1142/S0218195904001470', 'volume': '14', 'author': 'N.J. Mitra', 'year': '2004', 'unstructured': 'Mitra, N.J., Nguyen, A., Guibas, L.: Estimating surface normals in noisy point cloud data. International Journal of Computational Geometry and Applications\xa014, 261–276 (2004)', 'journal-title': 'International Journal of Computational Geometry and Applications'}, {'key': '5_CR26', 'series-title': 'Lecture Notes in Computer Science', 'doi-asserted-by': 'publisher', 'first-page': '203', 'DOI': '10.1007/BFb0014497', 'volume-title': 'Applied Computational Geometry. Towards Geometric Engineering', 'author': 'J.R. Shewchuk', 'year': '1996', 'unstructured': 'Shewchuk, J.R.: Triangle: Engineering a 2D Quality Mesh Generator and Delaunay Triangulator. In: Lin, M.C., Manocha, D. (eds.) FCRC-WS 1996 and WACG 1996. LNCS, vol.\xa01148, pp. 203–222. Springer, Heidelberg (1996)'}, {'key': '5_CR27', 'series-title': 'Lecture Notes in Computer Science', 'doi-asserted-by': 'publisher', 'first-page': '1', 'DOI': '10.1007/11744023_1', 'volume-title': 'Computer Vision – ECCV 2006', 'author': 'J. Shotton', 'year': '2006', 'unstructured': 'Shotton, J., Winn, J., Rother, C., Criminisi, A.: Textonboost: Joint appearance, shape and context modeling for multi-class object recognition and segmentation. In: Leonardis, A., Bischof, H., Pinz, A. (eds.) ECCV 2006. LNCS, vol.\xa03951, pp. 1–15. Springer, Heidelberg (2006)'}, {'key': '5_CR28', 'unstructured': 'Viola, P., Jones, M.: Rapid object detection using a boosted cascade of simple features. In: CVPR, vol.\xa01, pp. 511–518 (2001)', 'DOI': '10.1109/CVPR.2001.990517', 'doi-asserted-by': 'crossref'}, {'issue': '7', 'key': '5_CR29', 'doi-asserted-by': 'publisher', 'first-page': '1545', 'DOI': '10.1162/neco.1997.9.7.1545', 'volume': '9', 'author': 'Y. Amit', 'year': '1997', 'unstructured': 'Amit, Y., Geman, D.: Shape quantization and recognition with randomized trees. Neural Computation\xa09(7), 1545–1588 (1997)', 'journal-title': 'Neural Computation'}, {'issue': '1', 'key': '5_CR30', 'doi-asserted-by': 'publisher', 'first-page': '3', 'DOI': '10.1007/s10994-006-6226-1', 'volume': '36', 'author': 'P. Geurts', 'year': '2006', 'unstructured': 'Geurts, P., Ernst, D., Wehenkel, L.: Extremely randomized trees. Machine Learning\xa036(1), 3–42 (2006)', 'journal-title': 'Machine Learning'}, {'key': '5_CR31', 'unstructured': 'Winn, J., Shotton, J.: The layout consistent random field for recognizing and segmenting partially occluded objects. In: CVPR (2006)', 'DOI': '10.1109/CVPR.2006.305', 'doi-asserted-by': 'crossref'}], 'container-title': ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-540-88682-2_5', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 9, 11]], 'date-time': '2017-09-11T12:32:10Z', 'timestamp': 1505133130000}, 'score': 119.15022, 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9783540886815', '9783540886822'], 'references-count': 31, 'URL': 'http://dx.doi.org/10.1007/978-3-540-88682-2_5', 'relation': {'cites': []}, 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Segmentation and Recognition Using Structure from Motion Point Clouds', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Masashi Sugiyama, Shinichi Nakajima, Hisashi Kashima, Paul V Buenau, and Motoaki Kawanabe, â€œDirect importance estimation with model selection and its application to covariate shift adaptation,â€\x9d in NIPS, 2008, pp. 1433â€“1440.
+>>> DOI >>> 10.7551/mitpress/9780262017091.003.0004
+>>> URL >>> http://dx.doi.org/10.7551/mitpress/9780262017091.003.0004
+>>> year >>> 2012.0
+>>> title >>> Importance Estimation
+>>> author >>> Masashi Sugiyama and Motoaki Kawanabe
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Machine Learning in Non-Stationary Environments']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T23:38:36Z', 'timestamp': 1525736316672}, 'reference-count': 0, 'publisher': 'The MIT Press', 'isbn-type': [{'value': '9780262017091', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012, 3, 30]]}, 'DOI': '10.7551/mitpress/9780262017091.003.0004', 'type': 'book-chapter', 'created': {'date-parts': [[2013, 9, 26]], 'date-time': '2013-09-26T14:48:58Z', 'timestamp': 1380206938000}, 'page': '72-102', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Importance Estimation'], 'prefix': '10.7551', 'author': [{'given': 'Masashi', 'family': 'Sugiyama', 'sequence': 'first', 'affiliation': []}, {'given': 'Motoaki', 'family': 'Kawanabe', 'sequence': 'additional', 'affiliation': []}], 'member': '281', 'container-title': ['Machine Learning in Non-Stationary Environments'], 'deposited': {'date-parts': [[2013, 10, 11]], 'date-time': '2013-10-11T16:04:51Z', 'timestamp': 1381507491000}, 'score': 59.905533, 'issued': {'date-parts': [[2012, 3, 30]]}, 'ISBN': ['9780262017091'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.7551/mitpress/9780262017091.003.0004'}
+>>> hash >>> ('Importance Estimation', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Marguerite Frank and Philip Wolfe, â€œAn algorithm for quadratic programming,â€\x9d Naval Research Logistics (NRL), vol. 3, no. 1-2, pp. 95â€“110, 1956.
+>>> DOI >>> 10.1002/nav.3800030109
+>>> URL >>> http://dx.doi.org/10.1002/nav.3800030109
+>>> year >>> 1956.0
+>>> title >>> An algorithm for quadratic programming
+>>> author >>> Marguerite Frank and Philip Wolfe
+>>> reference_count >>> 14.0
+>>> is_referenced_by_count >>> 805.0
+>>> subject >>> None
+>>> container_title >>> ['Naval Research Logistics Quarterly']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T06:22:30Z', 'timestamp': 1528352550940}, 'reference-count': 14, 'publisher': 'Wiley', 'issue': '1-2', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 21733, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Naval Research Logistics'], 'published-print': {'date-parts': [[1956, 3]]}, 'DOI': '10.1002/nav.3800030109', 'type': 'journal-article', 'created': {'date-parts': [[2007, 5, 7]], 'date-time': '2007-05-07T09:20:07Z', 'timestamp': 1178529607000}, 'page': '95-110', 'source': 'Crossref', 'is-referenced-by-count': 805, 'title': ['An algorithm for quadratic programming'], 'prefix': '10.1002', 'volume': '3', 'author': [{'given': 'Marguerite', 'family': 'Frank', 'sequence': 'first', 'affiliation': []}, {'given': 'Philip', 'family': 'Wolfe', 'sequence': 'additional', 'affiliation': []}], 'member': '311', 'reference': [{'key': '10.1002/nav.3800030109-BIB1', 'author': 'Barankin', 'unstructured': 'and , Toward Quadratic Programming, O. N. R. Logistics Projects at Columbia Univ. and U. C. L. A., Univ. of California at Berkeley.', 'volume-title': 'Toward Quadratic Programming, O. N. R. Logistics Projects at Columbia Univ. and U. C. L. A.'}, {'key': '10.1002/nav.3800030109-BIB2', 'author': 'Charnes', 'year': '1953', 'unstructured': ', and , An Introduction to Linear Programming, Wiley, 1953.', 'volume-title': 'An Introduction to Linear Programming'}, {'key': '10.1002/nav.3800030109-BIB3', 'author': 'Dantzig', 'year': '1951', 'unstructured': '“Maximization of a linear function of variables subject to linear inequalities,” Activity Analysis of Production and Allocation ( ed.), Wiley, 1951.', 'volume-title': 'Activity Analysis of Production and Allocation'}, {'key': '10.1002/nav.3800030109-BIB4', 'author': 'Dantzig', 'volume': '5', 'first-page': '183', 'year': '1955', 'journal-title': 'Pacific J. Math.', 'DOI': '10.2140/pjm.1955.5.183', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/nav.3800030109-BIB5', 'author': 'König', 'year': '1936', 'unstructured': 'Theorie der Endlichen und Unendlichen Graphen, Leipzig, 1936.'}, {'key': '10.1002/nav.3800030109-BIB6', 'author': 'Kuhn', 'year': '1951', 'unstructured': 'and , “Nonlinear programming,” Proceedings of the Second Berkeley Symposium on Mathematical Statistics and Probability, 481–492 (1951).'}, {'key': '10.1002/nav.3800030109-BIB7', 'author': 'Saaty', 'volume': '62', 'first-page': '326', 'year': '1955', 'journal-title': 'Amer. Math. Monthly'}, {'key': '10.1002/nav.3800030109-BIB8', 'author': 'Debreu', 'volume': '20', 'first-page': '295', 'year': '1952', 'journal-title': 'Econometrica'}, {'key': '10.1002/nav.3800030109-BIB9', 'author': 'Mann', 'volume': '58', 'first-page': '430', 'year': '1943', 'journal-title': 'Amer. Math. Monthly'}, {'key': '10.1002/nav.3800030109-BIB10', 'author': 'Phipps', 'volume': '59', 'first-page': '230', 'year': '1952', 'journal-title': 'Amer. Math. Monthly'}, {'key': '10.1002/nav.3800030109-BIB11', 'author': 'Arrow', 'year': '1951', 'unstructured': 'and , “A gradient method for approximating saddle points and constrained maxima,” RAND P-223 ( June 1951). To appear in Proceedings of the Third Berkeley Symposium on Mathematical Statistics and Probability.'}, {'key': '10.1002/nav.3800030109-BIB12', 'author': 'Charnes', 'year': '1954', 'unstructured': 'and , “Minimization of non-linear separable convex functionals (Computational theory of linear programming IV),” O.N.R. Research Memorandum No. 16, Carnegie Institute of Technology ( May, 1954).'}, {'key': '10.1002/nav.3800030109-BIB13', 'author': 'Manne', 'year': '1953', 'unstructured': '“Concave programming for gasoline blends,” RAND P-383 ( April 1953).'}, {'key': '10.1002/nav.3800030109-BIB14', 'author': 'Markowitz', 'volume': '3', 'year': '1956', 'journal-title': 'Naval Research Logistics Quarterly'}], 'container-title': ['Naval Research Logistics Quarterly'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fnav.3800030109', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T17:00:32Z', 'timestamp': 1497718832000}, 'score': 77.94011, 'issued': {'date-parts': [[1956, 3]]}, 'references-count': 14, 'journal-issue': {'published-print': {'date-parts': [[1956, 3]]}, 'issue': '1-2'}, 'URL': 'http://dx.doi.org/10.1002/nav.3800030109', 'relation': {'cites': []}, 'ISSN': ['0028-1441', '1931-9193'], 'issn-type': [{'value': '0028-1441', 'type': 'print'}, {'value': '1931-9193', 'type': 'electronic'}]}
+>>> hash >>> ('An algorithm for quadratic programming', 1956.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Sinkhorn, "A Relationship between Arbitrary Positive Matrices and Doubly Stochastic Matrices", Annals Math. Statistics, vol. 35, no. 2, pp. 876-879, 1964.
+>>> DOI >>> 10.1214/aoms/1177703591
+>>> URL >>> http://dx.doi.org/10.1214/aoms/1177703591
+>>> year >>> 1964.0
+>>> title >>> A Relationship Between Arbitrary Positive Matrices and Doubly Stochastic Matrices
+>>> author >>> Richard Sinkhorn
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 265.0
+>>> subject >>> None
+>>> container_title >>> ['The Annals of Mathematical Statistics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 24]], 'date-time': '2018-05-24T15:02:41Z', 'timestamp': 1527174161068}, 'reference-count': 0, 'publisher': 'Institute of Mathematical Statistics', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Ann. Math. Statist.'], 'published-print': {'date-parts': [[1964, 6]]}, 'DOI': '10.1214/aoms/1177703591', 'type': 'journal-article', 'created': {'date-parts': [[2007, 12, 17]], 'date-time': '2007-12-17T22:53:54Z', 'timestamp': 1197932034000}, 'page': '876-879', 'source': 'Crossref', 'is-referenced-by-count': 265, 'title': ['A Relationship Between Arbitrary Positive Matrices and Doubly Stochastic Matrices'], 'prefix': '10.1214', 'volume': '35', 'author': [{'given': 'Richard', 'family': 'Sinkhorn', 'sequence': 'first', 'affiliation': []}], 'member': '108', 'container-title': ['The Annals of Mathematical Statistics'], 'language': 'en', 'link': [{'URL': 'http://projecteuclid.org/download/pdf_1/euclid.aoms/1177703591', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 5, 10]], 'date-time': '2017-05-10T14:22:40Z', 'timestamp': 1494426160000}, 'score': 123.76653, 'issued': {'date-parts': [[1964, 6]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1964, 6]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1214/aoms/1177703591', 'ISSN': ['0003-4851'], 'issn-type': [{'value': '0003-4851', 'type': 'print'}]}
+>>> hash >>> ('A Relationship Between Arbitrary Positive Matrices and Doubly Stochastic Matrices', 1964.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Delbert Dueck and Brendan J Frey, â€œNon-metric affinity propagation for unsupervised image categorization,â€\x9d in IEEE ICCV, 2007, pp. 1â€“8.
+>>> DOI >>> 10.1109/iccv.2007.4408853
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2007.4408853
+>>> year >>> 2007.0
+>>> title >>> Non-metric affinity propagation for unsupervised image categorization
+>>> author >>> Delbert Dueck and Brendan J. Frey
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 59.0
+>>> subject >>> None
+>>> container_title >>> ['2007 IEEE 11th International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365109}, 'reference-count': 21, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424416301', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.1109/iccv.2007.4408853', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 1, 4]], 'date-time': '2008-01-04T20:34:53Z', 'timestamp': 1199478893000}, 'source': 'Crossref', 'is-referenced-by-count': 59, 'title': ['Non-metric affinity propagation for unsupervised image categorization'], 'prefix': '10.1109', 'author': [{'given': 'Delbert', 'family': 'Dueck', 'sequence': 'first', 'affiliation': []}, {'given': 'Brendan J.', 'family': 'Frey', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2007 IEEE 11th International Conference on Computer Vision', 'location': 'Rio de Janeiro, Brazil', 'start': {'date-parts': [[2007, 10, 14]]}, 'end': {'date-parts': [[2007, 10, 21]]}}, 'container-title': ['2007 IEEE 11th International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4408818/4408819/04408853.pdf?arnumber=4408853', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T02:39:51Z', 'timestamp': 1497753591000}, 'score': 76.55834, 'issued': {'date-parts': [[2007]]}, 'ISBN': ['9781424416301'], 'references-count': 21, 'URL': 'http://dx.doi.org/10.1109/iccv.2007.4408853'}
+>>> hash >>> ('Non-metric affinity propagation for unsupervised image categorization', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Cho, J. Lee, K.M. Lee, "Reweighted Random Walks for Graph Matching", Proc. European Conf. Computer Vision (ECCV), pp. 492-505, 2010.
+>>> DOI >>> 10.1007/978-3-642-15555-0_36
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-15555-0_36
+>>> year >>> 2010.0
+>>> title >>> Reweighted Random Walks for Graph Matching
+>>> author >>> Minsu Cho and Jungmin Lee and Kyoung Mu Lee
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 64.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision – ECCV 2010', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T17:03:01Z', 'timestamp': 1525712581407}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642155543', 'type': 'print'}, {'value': '9783642155550', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.1007/978-3-642-15555-0_36', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 9, 5]], 'date-time': '2010-09-05T14:56:32Z', 'timestamp': 1283698592000}, 'page': '492-505', 'source': 'Crossref', 'is-referenced-by-count': 64, 'title': ['Reweighted Random Walks for Graph Matching'], 'prefix': '10.1007', 'author': [{'given': 'Minsu', 'family': 'Cho', 'sequence': 'first', 'affiliation': []}, {'given': 'Jungmin', 'family': 'Lee', 'sequence': 'additional', 'affiliation': []}, {'given': 'Kyoung Mu', 'family': 'Lee', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Computer Vision – ECCV 2010', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-15555-0_36', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 22]], 'date-time': '2014-01-22T17:33:30Z', 'timestamp': 1390412010000}, 'score': 92.580864, 'issued': {'date-parts': [[2010]]}, 'ISBN': ['9783642155543', '9783642155550'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-15555-0_36', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Reweighted Random Walks for Graph Matching', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sinno Jialin Pan, Ivor W Tsang, James T Kwok, and Qiang Yang, â€œDomain adaptation via transfer component analysis,â€\x9d IEEE Trans. Neural Networks, vol. 22, no. 2, pp. 199â€“210, 2011.
+>>> DOI >>> 10.1109/tnn.2010.2091281
+>>> URL >>> http://dx.doi.org/10.1109/tnn.2010.2091281
+>>> year >>> 2011.0
+>>> title >>> Domain Adaptation via Transfer Component Analysis
+>>> author >>> Sinno Jialin Pan and Ivor W. Tsang and James T. Kwok and Qiang Yang
+>>> reference_count >>> 37.0
+>>> is_referenced_by_count >>> 320.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Neural Networks']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T15:02:36Z', 'timestamp': 1528470156020}, 'reference-count': 37, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Neural Netw.'], 'published-print': {'date-parts': [[2011, 2]]}, 'DOI': '10.1109/tnn.2010.2091281', 'type': 'journal-article', 'created': {'date-parts': [[2010, 11, 23]], 'date-time': '2010-11-23T21:02:22Z', 'timestamp': 1290546142000}, 'page': '199-210', 'source': 'Crossref', 'is-referenced-by-count': 320, 'title': ['Domain Adaptation via Transfer Component Analysis'], 'prefix': '10.1109', 'volume': '22', 'author': [{'given': 'Sinno Jialin', 'family': 'Pan', 'sequence': 'first', 'affiliation': []}, {'given': 'Ivor W.', 'family': 'Tsang', 'sequence': 'additional', 'affiliation': []}, {'given': 'James T.', 'family': 'Kwok', 'sequence': 'additional', 'affiliation': []}, {'given': 'Qiang', 'family': 'Yang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Neural Networks'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/72/5710128/05640675.pdf?arnumber=5640675', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 1, 24]], 'date-time': '2018-01-24T00:51:18Z', 'timestamp': 1516755078000}, 'score': 82.98595, 'issued': {'date-parts': [[2011, 2]]}, 'references-count': 37, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1109/tnn.2010.2091281', 'ISSN': ['1045-9227', '1941-0093'], 'issn-type': [{'value': '1045-9227', 'type': 'print'}, {'value': '1941-0093', 'type': 'electronic'}]}
+>>> hash >>> ('Domain Adaptation via Transfer Component Analysis', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bianca Zadrozny, â€œLearning and evaluating classifiers under sample selection bias,â€\x9d in ICML, 2004, p. 114.
+>>> DOI >>> 10.1145/1015330.1015425
+>>> URL >>> http://dx.doi.org/10.1145/1015330.1015425
+>>> year >>> 2004.0
+>>> title >>> Learning and evaluating classifiers under sample selection bias
+>>> author >>> Bianca Zadrozny
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 99.0
+>>> subject >>> None
+>>> container_title >>> ["Twenty-first international conference on Machine learning  - ICML '04"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 26]], 'date-time': '2018-05-26T01:02:35Z', 'timestamp': 1527296555928}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1581138285', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1145/1015330.1015425', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 10, 7]], 'date-time': '2004-10-07T17:39:48Z', 'timestamp': 1097170788000}, 'source': 'Crossref', 'is-referenced-by-count': 99, 'title': ['Learning and evaluating classifiers under sample selection bias'], 'prefix': '10.1145', 'author': [{'given': 'Bianca', 'family': 'Zadrozny', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'event': {'name': 'Twenty-first international conference', 'location': 'Banff, Alberta, Canada', 'sponsor': ['undetermined'], 'acronym': "ICML '04", 'number': '21', 'start': {'date-parts': [[2004, 7, 4]]}, 'end': {'date-parts': [[2004, 7, 8]]}}, 'container-title': ["Twenty-first international conference on Machine learning  - ICML '04"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1015425&amp;ftid=273391&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T08:12:56Z', 'timestamp': 1481875976000}, 'score': 72.79113, 'issued': {'date-parts': [[2004]]}, 'ISBN': ['1581138285'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1015330.1015425'}
+>>> hash >>> ('Learning and evaluating classifiers under sample selection bias', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Krger, R. Westermann, "Linear Algebra Operators for GPU Implementation of Numerical Algorithms", ACM Trans. Graphics, vol. 22, pp. 908-916, 2003. Access at ACM
+>>> DOI >>> 10.1145/882262.882363
+>>> URL >>> http://dx.doi.org/10.1145/882262.882363
+>>> year >>> 2003.0
+>>> title >>> Linear algebra operators for GPU implementation of numerical algorithms
+>>> author >>> Jens Krüger and Rüdiger Westermann
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 210.0
+>>> subject >>> None
+>>> container_title >>> ['ACM Transactions on Graphics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 21]], 'date-time': '2018-05-21T18:43:00Z', 'timestamp': 1526928180768}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['TOG', 'ACM Trans. Graph.'], 'published-print': {'date-parts': [[2003, 7, 1]]}, 'DOI': '10.1145/882262.882363', 'type': 'journal-article', 'created': {'date-parts': [[2003, 10, 10]], 'date-time': '2003-10-10T09:44:12Z', 'timestamp': 1065779052000}, 'page': '908', 'source': 'Crossref', 'is-referenced-by-count': 210, 'title': ['Linear algebra operators for GPU implementation of numerical algorithms'], 'prefix': '10.1145', 'volume': '22', 'author': [{'given': 'Jens', 'family': 'Krüger', 'sequence': 'first', 'affiliation': []}, {'given': 'Rüdiger', 'family': 'Westermann', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['ACM Transactions on Graphics'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=882363&amp;ftid=226132&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T08:36:12Z', 'timestamp': 1481877372000}, 'score': 107.241295, 'issued': {'date-parts': [[2003, 7, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2003, 7, 1]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.1145/882262.882363', 'ISSN': ['0730-0301'], 'issn-type': [{'value': '0730-0301', 'type': 'print'}]}
+>>> hash >>> ('Linear algebra operators for GPU implementation of numerical algorithms', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Lee, M. Cho, K.M. Lee, "Hyper-Graph Matching via Reweighted Random Walks", Proc. IEEE Conf. Computer Vision and Pattern Recognition (CVPR), pp. 1633-1640, 2011.
+>>> DOI >>> 10.1109/cvpr.2011.5995387
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2011.5995387
+>>> year >>> 2011.0
+>>> title >>> Hyper-graph matching via reweighted random walks
+>>> author >>> Jungmin Lee and Minsu Cho and Kyoung Mu Lee
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 39.0
+>>> subject >>> None
+>>> container_title >>> ['CVPR 2011']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T11:25:53Z', 'timestamp': 1525433153024}, 'reference-count': 21, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781457703942', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011, 6]]}, 'DOI': '10.1109/cvpr.2011.5995387', 'type': 'proceedings-article', 'created': {'date-parts': [[2011, 8, 25]], 'date-time': '2011-08-25T20:42:30Z', 'timestamp': 1314304950000}, 'source': 'Crossref', 'is-referenced-by-count': 39, 'title': ['Hyper-graph matching via reweighted random walks'], 'prefix': '10.1109', 'author': [{'given': 'Jungmin', 'family': 'Lee', 'sequence': 'first', 'affiliation': []}, {'given': 'Minsu', 'family': 'Cho', 'sequence': 'additional', 'affiliation': []}, {'given': 'Kyoung Mu', 'family': 'Lee', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2011 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Colorado Springs, CO, USA', 'start': {'date-parts': [[2011, 6, 20]]}, 'end': {'date-parts': [[2011, 6, 25]]}}, 'container-title': ['CVPR 2011'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5968010/5995307/05995387.pdf?arnumber=5995387', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T05:12:08Z', 'timestamp': 1497935528000}, 'score': 102.47218, 'issued': {'date-parts': [[2011, 6]]}, 'ISBN': ['9781457703942'], 'references-count': 21, 'URL': 'http://dx.doi.org/10.1109/cvpr.2011.5995387'}
+>>> hash >>> ('Hyper-graph matching via reweighted random walks', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Basura Fernando, Amaury Habrard, Marc Sebban, and Tinne Tuytelaars, â€œUnsupervised visual domain adaptation using subspace alignment,â€\x9d in IEEE ICCV, 2013, pp. 2960â€“2967.
+>>> DOI >>> 10.1109/iccv.2013.368
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2013.368
+>>> year >>> 2013.0
+>>> title >>> Unsupervised Visual Domain Adaptation Using Subspace Alignment
+>>> author >>> Basura Fernando and Amaury Habrard and Marc Sebban and Tinne Tuytelaars
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 152.0
+>>> subject >>> None
+>>> container_title >>> ['2013 IEEE International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365366}, 'reference-count': 19, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781479928408', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013, 12]]}, 'DOI': '10.1109/iccv.2013.368', 'type': 'proceedings-article', 'created': {'date-parts': [[2014, 3, 7]], 'date-time': '2014-03-07T21:30:17Z', 'timestamp': 1394227817000}, 'source': 'Crossref', 'is-referenced-by-count': 152, 'title': ['Unsupervised Visual Domain Adaptation Using Subspace Alignment'], 'prefix': '10.1109', 'author': [{'given': 'Basura', 'family': 'Fernando', 'sequence': 'first', 'affiliation': []}, {'given': 'Amaury', 'family': 'Habrard', 'sequence': 'additional', 'affiliation': []}, {'given': 'Marc', 'family': 'Sebban', 'sequence': 'additional', 'affiliation': []}, {'given': 'Tinne', 'family': 'Tuytelaars', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2013 IEEE International Conference on Computer Vision (ICCV)', 'location': 'Sydney, Australia', 'start': {'date-parts': [[2013, 12, 1]]}, 'end': {'date-parts': [[2013, 12, 8]]}}, 'container-title': ['2013 IEEE International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6750807/6751100/06751479.pdf?arnumber=6751479', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 23]], 'date-time': '2017-03-23T22:17:20Z', 'timestamp': 1490307440000}, 'score': 99.09344, 'issued': {'date-parts': [[2013, 12]]}, 'ISBN': ['9781479928408'], 'references-count': 19, 'URL': 'http://dx.doi.org/10.1109/iccv.2013.368'}
+>>> hash >>> ('Unsupervised Visual Domain Adaptation Using Subspace Alignment', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Cho, K.M. Lee, "Progressive Graph Matching: Making a Move of Graphs via Probabilistic Voting", Proc. IEEE Conf. Computer Vision and Pattern Recognition (CVPR), pp. 398-405, 2012.
+>>> DOI >>> 10.1109/cvpr.2012.6247701
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2012.6247701
+>>> year >>> 2012.0
+>>> title >>> Progressive graph matching: Making a move of graphs via probabilistic voting
+>>> author >>> None
+>>> reference_count >>> 24.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['2012 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T15:31:09Z', 'timestamp': 1525534269182}, 'reference-count': 24, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467312264', 'type': 'print'}, {'value': '9781467312271', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012, 6]]}, 'DOI': '10.1109/cvpr.2012.6247701', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 8, 1]], 'date-time': '2012-08-01T15:05:51Z', 'timestamp': 1343833551000}, 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Progressive graph matching: Making a move of graphs via probabilistic voting'], 'prefix': '10.1109', 'author': [{'family': 'Minsu Cho', 'sequence': 'first', 'affiliation': []}, {'family': 'Kyoung Mu Lee', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2012 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Providence, RI', 'start': {'date-parts': [[2012, 6, 16]]}, 'end': {'date-parts': [[2012, 6, 21]]}}, 'container-title': ['2012 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6235193/6247647/06247701.pdf?arnumber=6247701', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 21]], 'date-time': '2017-03-21T21:13:31Z', 'timestamp': 1490130811000}, 'score': 95.681274, 'issued': {'date-parts': [[2012, 6]]}, 'ISBN': ['9781467312288', '9781467312264', '9781467312271'], 'references-count': 24, 'URL': 'http://dx.doi.org/10.1109/cvpr.2012.6247701'}
+>>> hash >>> ('Progressive graph matching: Making a move of graphs via probabilistic voting', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Chertok, Y. Keller, "Efficient High Order Matching", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 32, no. 12, pp. 2205-2215, Dec. 2010.
+>>> DOI >>> 10.1109/tpami.2010.51
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2010.51
+>>> year >>> 2010.0
+>>> title >>> Efficient High Order Matching
+>>> author >>> Michael Chertok and Yosi Keller
+>>> reference_count >>> 41.0
+>>> is_referenced_by_count >>> 41.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:15:52Z', 'timestamp': 1525310152873}, 'reference-count': 41, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '12', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2010, 12]]}, 'DOI': '10.1109/tpami.2010.51', 'type': 'journal-article', 'created': {'date-parts': [[2010, 3, 19]], 'date-time': '2010-03-19T12:31:56Z', 'timestamp': 1269001916000}, 'page': '2205-2215', 'source': 'Crossref', 'is-referenced-by-count': 41, 'title': ['Efficient High Order Matching'], 'prefix': '10.1109', 'volume': '32', 'author': [{'given': 'Michael', 'family': 'Chertok', 'sequence': 'first', 'affiliation': []}, {'given': 'Yosi', 'family': 'Keller', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/5611449/05432196.pdf?arnumber=5432196', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T08:06:06Z', 'timestamp': 1510646766000}, 'score': 92.75885, 'issued': {'date-parts': [[2010, 12]]}, 'references-count': 41, 'journal-issue': {'issue': '12'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2010.51', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Efficient High Order Matching', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J.V. Lieven De Lathauwer, B. De Moor, "On the Best Rank-1 and Rank-(r1r2...rn) Approximation of Higher-Order Tensors", SIAM J. Matrix Analysis and Applications, vol. 21, no. 4, pp. 1324-1342, 2000.
+>>> DOI >>> 10.1137/s0895479898346995
+>>> URL >>> http://dx.doi.org/10.1137/s0895479898346995
+>>> year >>> 2000.0
+>>> title >>> On the Best Rank-1 and Rank-(R1 ,R2 ,. . .,RN) Approximation of Higher-Order Tensors
+>>> author >>> Lieven De Lathauwer and Bart De Moor and Joos Vandewalle
+>>> reference_count >>> 11.0
+>>> is_referenced_by_count >>> 622.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Matrix Analysis and Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T15:02:35Z', 'timestamp': 1528470155918}, 'reference-count': 11, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Matrix Anal. & Appl.'], 'published-print': {'date-parts': [[2000, 1]]}, 'DOI': '10.1137/s0895479898346995', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 11]], 'date-time': '2003-06-11T15:12:06Z', 'timestamp': 1055344326000}, 'page': '1324-1342', 'source': 'Crossref', 'is-referenced-by-count': 622, 'title': ['On the Best Rank-1 and Rank-(R1 ,R2 ,. . .,RN) Approximation of Higher-Order Tensors'], 'prefix': '10.1137', 'volume': '21', 'author': [{'given': 'Lieven', 'family': 'De Lathauwer', 'sequence': 'first', 'affiliation': []}, {'given': 'Bart', 'family': 'De Moor', 'sequence': 'additional', 'affiliation': []}, {'given': 'Joos', 'family': 'Vandewalle', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Matrix Analysis and Applications'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/S0895479898346995', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 10, 2]], 'date-time': '2017-10-02T16:05:54Z', 'timestamp': 1506960354000}, 'score': 110.86781, 'issued': {'date-parts': [[2000, 1]]}, 'references-count': 11, 'journal-issue': {'published-print': {'date-parts': [[2000, 1]]}, 'issue': '4'}, 'alternative-id': ['10.1137/S0895479898346995'], 'URL': 'http://dx.doi.org/10.1137/s0895479898346995', 'ISSN': ['0895-4798', '1095-7162'], 'issn-type': [{'value': '0895-4798', 'type': 'print'}, {'value': '1095-7162', 'type': 'electronic'}]}
+>>> hash >>> ('On the Best Rank-1 and Rank-(R1 ,R2 ,. . .,RN) Approximation of Higher-Order Tensors', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kate Saenko, Brian Kulis, Mario Fritz, and Trevor Darrell, â€œAdapting visual category models to new domains,â€\x9d in ECCV, 2010, pp. 213â€“226.
+>>> DOI >>> 10.1007/978-3-642-15561-1_16
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-15561-1_16
+>>> year >>> 2010.0
+>>> title >>> Adapting Visual Category Models to New Domains
+>>> author >>> Kate Saenko and Brian Kulis and Mario Fritz and Trevor Darrell
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 132.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision – ECCV 2010', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T15:02:36Z', 'timestamp': 1528470156062}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642155604', 'type': 'print'}, {'value': '9783642155611', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.1007/978-3-642-15561-1_16', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 9, 5]], 'date-time': '2010-09-05T11:42:57Z', 'timestamp': 1283686977000}, 'page': '213-226', 'source': 'Crossref', 'is-referenced-by-count': 132, 'title': ['Adapting Visual Category Models to New Domains'], 'prefix': '10.1007', 'author': [{'given': 'Kate', 'family': 'Saenko', 'sequence': 'first', 'affiliation': []}, {'given': 'Brian', 'family': 'Kulis', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mario', 'family': 'Fritz', 'sequence': 'additional', 'affiliation': []}, {'given': 'Trevor', 'family': 'Darrell', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Computer Vision – ECCV 2010', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-15561-1_16', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 22]], 'date-time': '2014-01-22T17:34:36Z', 'timestamp': 1390412076000}, 'score': 85.923035, 'issued': {'date-parts': [[2010]]}, 'ISBN': ['9783642155604', '9783642155611'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-15561-1_16', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Adapting Visual Category Models to New Domains', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J.L. Bentley, "Multidimensional Binary Search Trees Used for Associative Searching", Comm. ACM, vol. 18, no. 9, pp. 509-517, 1975. Access at ACM
+>>> DOI >>> 10.1145/361002.361007
+>>> URL >>> http://dx.doi.org/10.1145/361002.361007
+>>> year >>> 1975.0
+>>> title >>> Multidimensional binary search trees used for associative searching
+>>> author >>> Jon Louis Bentley
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2086.0
+>>> subject >>> None
+>>> container_title >>> ['Communications of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T21:42:35Z', 'timestamp': 1528494155821}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '9', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Commun. ACM'], 'published-print': {'date-parts': [[1975, 9, 1]]}, 'DOI': '10.1145/361002.361007', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:34:59Z', 'timestamp': 1027769699000}, 'page': '509-517', 'source': 'Crossref', 'is-referenced-by-count': 2086, 'title': ['Multidimensional binary search trees used for associative searching'], 'prefix': '10.1145', 'volume': '18', 'author': [{'given': 'Jon Louis', 'family': 'Bentley', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'container-title': ['Communications of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=361007&amp;ftid=48955&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T23:26:29Z', 'timestamp': 1481844389000}, 'score': 106.51495, 'issued': {'date-parts': [[1975, 9, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '9'}, 'URL': 'http://dx.doi.org/10.1145/361002.361007', 'ISSN': ['0001-0782'], 'issn-type': [{'value': '0001-0782', 'type': 'print'}]}
+>>> hash >>> ('Multidimensional binary search trees used for associative searching', 1975.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T. Cour, P. Srinivasan, J. Shi, "Balanced Graph Matching", Proc. Advances in Neural Information Processing Systems (NIPS), pp. 313-320, 2006.
+>>> DOI >>> 10.1007/978-0-387-36594-7
+>>> URL >>> http://dx.doi.org/10.1007/978-0-387-36594-7
+>>> year >>> 2006.0
+>>> title >>> Information Technology For Balanced Manufacturing Systems
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['IFIP International Federation for Information Processing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T12:45:15Z', 'timestamp': 1525351515847}, 'publisher-location': 'Boston, MA', 'reference-count': 0, 'publisher': 'Springer US', 'isbn-type': [{'value': '9780387365909', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.1007/978-0-387-36594-7', 'type': 'book', 'created': {'date-parts': [[2007, 3, 7]], 'date-time': '2007-03-07T17:50:17Z', 'timestamp': 1173289817000}, 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Information Technology For Balanced Manufacturing Systems'], 'prefix': '10.1007', 'member': '297', 'container-title': ['IFIP International Federation for Information Processing'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-0-387-36594-7', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 9, 6]], 'date-time': '2013-09-06T21:14:02Z', 'timestamp': 1378502042000}, 'score': 34.063034, 'issued': {'date-parts': [[2006]]}, 'ISBN': ['9780387365909'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-0-387-36594-7'}
+>>> hash >>> ('Information Technology For Balanced Manufacturing Systems', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Gold, A. Rangarajan, "A Graduated Assignment Algorithm for Graph Matching", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 18, no. 4, pp. 377-388, Apr. 1996.
+>>> DOI >>> 10.1109/34.491619
+>>> URL >>> http://dx.doi.org/10.1109/34.491619
+>>> year >>> 1996.0
+>>> title >>> A graduated assignment algorithm for graph matching
+>>> author >>> S. Gold and A. Rangarajan
+>>> reference_count >>> 58.0
+>>> is_referenced_by_count >>> 504.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:33Z', 'timestamp': 1525333533505}, 'reference-count': 58, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1996, 4]]}, 'DOI': '10.1109/34.491619', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '377-388', 'source': 'Crossref', 'is-referenced-by-count': 504, 'title': ['A graduated assignment algorithm for graph matching'], 'prefix': '10.1109', 'volume': '18', 'author': [{'given': 'S.', 'family': 'Gold', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Rangarajan', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/10562/00491619.pdf?arnumber=491619', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:28:39Z', 'timestamp': 1497522519000}, 'score': 103.98404, 'issued': {'date-parts': [[1996, 4]]}, 'references-count': 58, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/34.491619', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A graduated assignment algorithm for graph matching', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Matas, O. Chum, U. Martin, T. Pajdla, "Robust Wide Baseline Stereo from Maximally Stable Extremal Regions", Proc. British Machine Vision Conf. (BMVC), pp. 384-393, 2002.
+>>> DOI >>> 10.5244/c.16.36
+>>> URL >>> http://dx.doi.org/10.5244/c.16.36
+>>> year >>> 2002.0
+>>> title >>> Robust Wide Baseline Stereo from Maximally Stable Extremal Regions
+>>> author >>> J. Matas and O. Chum and M. Urban and T. Pajdla
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 488.0
+>>> subject >>> None
+>>> container_title >>> ['Procedings of the British Machine Vision Conference 2002']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T22:42:33Z', 'timestamp': 1528324953935}, 'reference-count': 0, 'publisher': 'British Machine Vision Association', 'isbn-type': [{'value': '1901725197', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.5244/c.16.36', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 2, 5]], 'date-time': '2013-02-05T17:20:08Z', 'timestamp': 1360084808000}, 'source': 'Crossref', 'is-referenced-by-count': 488, 'title': ['Robust Wide Baseline Stereo from Maximally Stable Extremal Regions'], 'prefix': '10.5244', 'author': [{'given': 'J.', 'family': 'Matas', 'sequence': 'first', 'affiliation': []}, {'given': 'O.', 'family': 'Chum', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Urban', 'sequence': 'additional', 'affiliation': []}, {'given': 'T.', 'family': 'Pajdla', 'sequence': 'additional', 'affiliation': []}], 'member': '3205', 'event': {'name': 'British Machine Vision Conference 2002', 'theme': 'Machine Vision, Image Processing & Pattern Recognition', 'location': 'Cardiff', 'sponsor': ['British Machine Vision Association'], 'acronym': 'BMVC 2002', 'number': '2002'}, 'container-title': ['Procedings of the British Machine Vision Conference 2002'], 'deposited': {'date-parts': [[2013, 2, 5]], 'date-time': '2013-02-05T17:21:02Z', 'timestamp': 1360084862000}, 'score': 130.07213, 'issued': {'date-parts': [[2002]]}, 'ISBN': ['1901725197'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.5244/c.16.36', 'article-number': '36'}
+>>> hash >>> ('Robust Wide Baseline Stereo from Maximally Stable Extremal Regions', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Herbert Bay, Tinne Tuytelaars, and Luc Van Gool, â€œSurf: Speeded up robust features,â€\x9d in ECCV, 2006, pp. 404â€“417.
+>>> DOI >>> 10.1007/11744023_32
+>>> URL >>> http://dx.doi.org/10.1007/11744023_32
+>>> year >>> 2006.0
+>>> title >>> SURF: Speeded Up Robust Features
+>>> author >>> Herbert Bay and Tinne Tuytelaars and Luc Van Gool
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 1286.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision – ECCV 2006', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T18:22:34Z', 'timestamp': 1528482154615}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 27, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540338321', 'type': 'print'}, {'value': '9783540338338', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2006, 1, 1]], 'date-time': '2006-01-01T00:00:00Z', 'timestamp': 1136073600000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.1007/11744023_32', 'type': 'book-chapter', 'created': {'date-parts': [[2006, 7, 23]], 'date-time': '2006-07-23T09:32:27Z', 'timestamp': 1153647147000}, 'page': '404-417', 'source': 'Crossref', 'is-referenced-by-count': 1286, 'title': ['SURF: Speeded Up Robust Features'], 'prefix': '10.1007', 'author': [{'given': 'Herbert', 'family': 'Bay', 'sequence': 'first', 'affiliation': []}, {'given': 'Tinne', 'family': 'Tuytelaars', 'sequence': 'additional', 'affiliation': []}, {'given': 'Luc', 'family': 'Van Gool', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'issue': '2', 'key': '32_CR1', 'doi-asserted-by': 'publisher', 'first-page': '79', 'DOI': '10.1023/A:1008045108935', 'volume': '30', 'author': 'T. Lindeberg', 'year': '1998', 'unstructured': 'Lindeberg, T.: Feature detection with automatic scale selection. IJCV\xa030(2), 79–116 (1998)', 'journal-title': 'IJCV'}, {'key': '32_CR2', 'doi-asserted-by': 'publisher', 'first-page': '91', 'DOI': '10.1023/B:VISI.0000029664.99615.94', 'volume': '60', 'author': 'D. Lowe', 'year': '2004', 'unstructured': 'Lowe, D.: Distinctive image features from scale-invariant keypoints, cascade filtering approach. IJCV\xa060, 91–110 (2004)', 'journal-title': 'IJCV'}, {'key': '32_CR3', 'series-title': 'Lecture Notes in Computer Science', 'doi-asserted-by': 'publisher', 'first-page': '128', 'DOI': '10.1007/3-540-47969-4_9', 'volume-title': 'Computer Vision - ECCV 2002', 'author': 'K. Mikolajczyk', 'year': '2002', 'unstructured': 'Mikolajczyk, K., Schmid, C.: An affine invariant interest point detector. In: Heyden, A., Sparr, G., Nielsen, M., Johansen, P. (eds.) ECCV 2002. LNCS, vol.\xa02350, pp. 128–142. Springer, Heidelberg (2002)'}, {'key': '32_CR4', 'unstructured': 'Ke, Y., Sukthankar, R.: PCA-SIFT: A more distinctive representation for local image descriptors. In: CVPR, vol.\xa0(2), pp. 506–513 (2004)'}, {'key': '32_CR5', 'unstructured': 'Tuytelaars, T., Van Gool, L.: Wide baseline stereo based on local, affinely invariant regions. In: BMVC, pp. 412–422 (2000)', 'DOI': '10.5244/C.14.38', 'doi-asserted-by': 'crossref'}, {'key': '32_CR6', 'unstructured': 'Matas, J., Chum, O., Urban, M., Pajdla, T.: Robust wide baseline stereo from maximally stable extremal regions. In: BMVC, pp. 384–393 (2002)', 'DOI': '10.5244/C.16.36', 'doi-asserted-by': 'crossref'}, {'key': '32_CR7', 'unstructured': 'Mikolajczyk, K., Schmid, C.: A performance evaluation of local descriptors. In: CVPR, vol.\xa02, pp. 257–263 (2003)', 'DOI': '10.1109/CVPR.2003.1211478', 'doi-asserted-by': 'crossref'}, {'key': '32_CR8', 'doi-asserted-by': 'publisher', 'first-page': '1615', 'DOI': '10.1109/TPAMI.2005.188', 'volume': '27', 'author': 'K. Mikolajczyk', 'year': '2005', 'unstructured': 'Mikolajczyk, K., Schmid, C.: A performance evaluation of local descriptors. PAMI\xa027, 1615–1630 (2005)', 'journal-title': 'PAMI'}, {'key': '32_CR9', 'doi-asserted-by': 'publisher', 'first-page': '43', 'DOI': '10.1007/s11263-005-3848-x', 'volume': '65', 'author': 'K. Mikolajczyk', 'year': '2005', 'unstructured': 'Mikolajczyk, K., Tuytelaars, T., Schmid, C., Zisserman, A., Matas, J., Schaffalitzky, F., Kadir, T., Van Gool, L.: A comparison of affine region detectors. IJCV\xa065, 43–72 (2005)', 'journal-title': 'IJCV'}, {'key': '32_CR10', 'unstructured': 'Harris, C., Stephens, M.: A combined corner and edge detector. In: Proceedings of the Alvey Vision Conference, pp. 147–151 (1988)', 'DOI': '10.5244/C.2.23', 'doi-asserted-by': 'crossref'}, {'key': '32_CR11', 'unstructured': 'Mikolajczyk, K., Schmid, C.: Indexing based on scale invariant interest points. In: ICCV, vol.\xa01, pp. 525–531 (2001)', 'DOI': '10.1109/ICCV.2001.937561', 'doi-asserted-by': 'crossref'}, {'key': '32_CR12', 'unstructured': 'Lowe, D.: Object recognition from local scale-invariant features. In: ICCV (1999)', 'DOI': '10.1109/ICCV.1999.790410', 'doi-asserted-by': 'crossref'}, {'issue': '2', 'key': '32_CR13', 'doi-asserted-by': 'publisher', 'first-page': '83', 'DOI': '10.1023/A:1012460413855', 'volume': '45', 'author': 'T. Kadir', 'year': '2001', 'unstructured': 'Kadir, T., Brady, M.: Scale, saliency and image description. IJCV\xa045(2), 83–105 (2001)', 'journal-title': 'IJCV'}, {'key': '32_CR14', 'unstructured': 'Jurie, F., Schmid, C.: Scale-invariant shape features for recognition of object categories. In: CVPR, vol.\xa0II, pp. 90–96 (2004)', 'DOI': '10.1109/CVPR.2004.1315149', 'doi-asserted-by': 'crossref'}, {'key': '32_CR15', 'doi-asserted-by': 'publisher', 'first-page': '63', 'DOI': '10.1023/B:VISI.0000027790.02288.f2', 'volume': '60', 'author': 'K. Mikolajczyk', 'year': '2004', 'unstructured': 'Mikolajczyk, K., Schmid, C.: Scale and affine invariant interest point detectors. IJCV\xa060, 63–86 (2004)', 'journal-title': 'IJCV'}, {'key': '32_CR16', 'doi-asserted-by': 'publisher', 'first-page': '171', 'DOI': '10.1007/BF01249895', 'volume': '4', 'author': 'L.M.J. Florack', 'year': '1994', 'unstructured': 'Florack, L.M.J., ter Haar Romeny, B.M., Koenderink, J.J., Viergever, M.A.: General intensity transformations and differential invariants. JMIV\xa04, 171–187 (1994)', 'journal-title': 'JMIV'}, {'key': '32_CR17', 'first-page': '3', 'volume': '94', 'author': 'F. Mindru', 'year': '2004', 'unstructured': 'Mindru, F., Tuytelaars, T., Van Gool, L., Moons, T.: Moment invariants for recognition under changing viewpoint and illumination. CVIU\xa094, 3–27 (2004)', 'journal-title': 'CVIU'}, {'key': '32_CR18', 'unstructured': 'Baumberg, A.: Reliable feature matching across widely separated views. In: CVPR, pp. 774–781 (2000)', 'DOI': '10.1109/CVPR.2000.855899', 'doi-asserted-by': 'crossref'}, {'key': '32_CR19', 'series-title': 'Lecture Notes in Computer Science', 'doi-asserted-by': 'publisher', 'first-page': '414', 'DOI': '10.1007/3-540-47969-4_28', 'volume-title': 'Computer Vision - ECCV 2002', 'author': 'F. Schaffalitzky', 'year': '2002', 'unstructured': 'Schaffalitzky, F., Zisserman, A.: Multi-view matching for unordered image sets, or how do I organize my holiday snaps? In: Heyden, A., Sparr, G., Nielsen, M., Johansen, P. (eds.) ECCV 2002. LNCS, vol.\xa02350, pp. 414–431. Springer, Heidelberg (2002)'}, {'key': '32_CR20', 'doi-asserted-by': 'publisher', 'first-page': '891', 'DOI': '10.1109/34.93808', 'volume': '13', 'author': 'W.T. Freeman', 'year': '1991', 'unstructured': 'Freeman, W.T., Adelson, E.H.: The design and use of steerable filters. PAMI\xa013, 891–906 (1991)', 'journal-title': 'PAMI'}, {'key': '32_CR21', 'unstructured': 'Carneiro, G., Jepson, A.: Multi-scale phase-based local features. In: CVPR, vol.\xa0(1), pp. 736–743 (2003)', 'DOI': '10.1109/CVPR.2003.1211426', 'doi-asserted-by': 'crossref'}, {'key': '32_CR22', 'unstructured': 'Se, S., Ng, H., Jasiobedzki, P., Moyung, T.: Vision based modeling and localization for planetary exploration rovers. In: Proceedings of International Astronautical Congress (2004)'}, {'key': '32_CR23', 'unstructured': 'Viola, P., Jones, M.: Rapid object detection using a boosted cascade of simple features. In: CVPR, vol.\xa0(1), pp. 511–518 (2001)', 'DOI': '10.1109/CVPR.2001.990517', 'doi-asserted-by': 'crossref'}, {'key': '32_CR24', 'doi-asserted-by': 'publisher', 'first-page': '363', 'DOI': '10.1007/BF00336961', 'volume': '50', 'author': 'J. Koenderink', 'year': '1984', 'unstructured': 'Koenderink, J.: The structure of images. Biological Cybernetics\xa050, 363–370 (1984)', 'journal-title': 'Biological Cybernetics'}, {'key': '32_CR25', 'unstructured': 'Lindeberg, T.: Discrete Scale-Space Theory and the Scale-Space Primal Sketch, PhD, KTH Stockholm, KTH (1991)'}, {'key': '32_CR26', 'unstructured': 'Lindeberg, T., Bretzner, L.: Real-time scale selection in hybrid multi-scale representations. In: Scale-Space, pp. 148–163 (2003)', 'DOI': '10.1007/3-540-44935-3_11', 'doi-asserted-by': 'crossref'}, {'key': '32_CR27', 'unstructured': 'Brown, M., Lowe, D.: Invariant features from interest point groups. In: BMVC (2002)', 'DOI': '10.5244/C.16.23', 'doi-asserted-by': 'crossref'}], 'container-title': ['Computer Vision – ECCV 2006', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/11744023_32', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 9, 4]], 'date-time': '2017-09-04T02:34:40Z', 'timestamp': 1504492480000}, 'score': 79.87911, 'issued': {'date-parts': [[2006]]}, 'ISBN': ['9783540338321', '9783540338338'], 'references-count': 27, 'URL': 'http://dx.doi.org/10.1007/11744023_32', 'relation': {'cites': []}, 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('SURF: Speeded Up Robust Features', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H.W. Kuhn, "The Hungarian Method for the Assignment Problem", Naval Research Logistics Quarterly, vol. 2, pp. 83-97, 1955.
+>>> DOI >>> 10.1002/nav.3800020109
+>>> URL >>> http://dx.doi.org/10.1002/nav.3800020109
+>>> year >>> 1955.0
+>>> title >>> The Hungarian method for the assignment problem
+>>> author >>> H. W. Kuhn
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 2866.0
+>>> subject >>> None
+>>> container_title >>> ['Naval Research Logistics Quarterly']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T21:42:35Z', 'timestamp': 1528494155858}, 'reference-count': 13, 'publisher': 'Wiley', 'issue': '1-2', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 22099, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Naval Research Logistics'], 'published-print': {'date-parts': [[1955, 3]]}, 'DOI': '10.1002/nav.3800020109', 'type': 'journal-article', 'created': {'date-parts': [[2007, 5, 7]], 'date-time': '2007-05-07T04:06:17Z', 'timestamp': 1178510777000}, 'page': '83-97', 'source': 'Crossref', 'is-referenced-by-count': 2866, 'title': ['The Hungarian method for the assignment problem'], 'prefix': '10.1002', 'volume': '2', 'author': [{'given': 'H. W.', 'family': 'Kuhn', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'reference': [{'key': '10.1002/nav.3800020109-BIB1', 'author': 'König', 'volume': '77', 'first-page': '453', 'year': '1916', 'journal-title': 'Math. Ann.'}, {'key': '10.1002/nav.3800020109-BIB2', 'author': 'Frobenius', 'year': '1917', 'unstructured': '“Über zerlegbare Determinanten,” Sitzungsber., Preuss. Akad. Wiss. (1917) 274–277.'}, {'key': '10.1002/nav.3800020109-BIB3', 'author': 'Egerváry', 'year': '1953', 'unstructured': '“Matrixok kombinatorius tulájdonsigairól.” Mat. Fiz. Lapok (1931) 16–28 (translated as “Combinatorial Properties of Matrices” by H. W. Kuhn, ONR Logistics Project, Princeton (1953), mimeographed).'}, {'key': '10.1002/nav.3800020109-BIB4', 'author': 'Hall', 'volume': '10', 'first-page': '26', 'year': '1935', 'journal-title': 'J. London Math. Soc.'}, {'key': '10.1002/nav.3800020109-BIB5', 'author': 'Easterfield', 'volume': '21', 'first-page': '219', 'year': '1946', 'journal-title': 'J. London Math. Soc.'}, {'key': '10.1002/nav.3800020109-BIB6', 'author': 'Birkhoff', 'volume': 'A5', 'first-page': '147', 'year': '1946', 'journal-title': 'Univ. Nac. Tucumán. Revista'}, {'key': '10.1002/nav.3800020109-BIB7', 'author': 'Thorndike', 'volume': '15', 'first-page': '215', 'year': '1950', 'journal-title': 'Psychometrika'}, {'key': '10.1002/nav.3800020109-BIB8', 'author': 'Dantzig', 'year': '1951', 'unstructured': '“Application of the Simplex Method to a Transportation Problem,” Chapter XXIII in Activity Analysis of Production and Allocation, Cowles Commission Monograph No. 13, ed. T. C. Koopmans, New York, 1951.'}, {'key': '10.1002/nav.3800020109-BIB9', 'author': 'Votaw', 'volume': '10', 'first-page': '155', 'year': '1952', 'journal-title': 'Symposium on Linear Inequalities and Programming, SCOOP'}, {'key': '10.1002/nav.3800020109-BIB10', 'author': 'von Neumann', 'volume': '28', 'first-page': '5', 'year': '1953', 'journal-title': 'Contributions to the Theory of Games II, Ann. Math. Study'}, {'key': '10.1002/nav.3800020109-BIB11', 'author': 'Dwyer', 'volume': '19', 'first-page': '11', 'year': '1954', 'journal-title': 'Psychometrika'}, {'key': '10.1002/nav.3800020109-BIB12', 'author': 'Flood', 'volume': '3', 'first-page': '369', 'year': '1953', 'journal-title': 'Pacific J. Math.', 'DOI': '10.2140/pjm.1953.3.369', 'doi-asserted-by': 'crossref'}, {'key': '10.1002/nav.3800020109-BIB13', 'author': 'Motzkin', 'journal-title': 'Proc. of Sixth Symposium on Applied Mathematics'}], 'container-title': ['Naval Research Logistics Quarterly'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fnav.3800020109', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T17:00:26Z', 'timestamp': 1497718826000}, 'score': 87.726036, 'issued': {'date-parts': [[1955, 3]]}, 'references-count': 13, 'journal-issue': {'published-print': {'date-parts': [[1955, 3]]}, 'issue': '1-2'}, 'URL': 'http://dx.doi.org/10.1002/nav.3800020109', 'relation': {'cites': []}, 'ISSN': ['0028-1441', '1931-9193'], 'issn-type': [{'value': '0028-1441', 'type': 'print'}, {'value': '1931-9193', 'type': 'electronic'}]}
+>>> hash >>> ('The Hungarian method for the assignment problem', 1955.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Brown, D.G. Lowe, "Recognising Panoramas", Proc. IEEE Int'l Conf. Computer Vision (ICCV), pp. 1218-1227, 2003.
+>>> DOI >>> 10.1109/iccv.2003.1238630
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2003.1238630
+>>> year >>> 2003.0
+>>> title >>> Recognising panoramas
+>>> author >>> None
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 375.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings Ninth IEEE International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 16]], 'date-time': '2018-05-16T23:02:31Z', 'timestamp': 1526511751484}, 'reference-count': 18, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769519504', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.1109/iccv.2003.1238630', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 6, 3]], 'date-time': '2004-06-03T20:14:56Z', 'timestamp': 1086293696000}, 'source': 'Crossref', 'is-referenced-by-count': 375, 'title': ['Recognising panoramas'], 'prefix': '10.1109', 'author': [{'family': 'Brown', 'sequence': 'first', 'affiliation': []}, {'family': 'Lowe', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'ICCV 2003: 9th International Conference on Computer Vision', 'location': 'Nice, France', 'start': {'date-parts': [[2003, 10, 13]]}, 'end': {'date-parts': [[2003, 10, 16]]}}, 'container-title': ['Proceedings Ninth IEEE International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8769/27772/01238630.pdf?arnumber=1238630', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T07:46:45Z', 'timestamp': 1497599205000}, 'score': 68.7559, 'issued': {'date-parts': [[2003]]}, 'ISBN': ['0769519504'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1109/iccv.2003.1238630'}
+>>> hash >>> ('Recognising panoramas', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Takafumi Kanamori, Shohei Hido, and Masashi Sugiyama, â€œEfficient direct density ratio estimation for non-stationarity adaptation and outlier detection,â€\x9d in NIPS, 2009, pp. 809â€“816.
+>>> DOI >>> 10.1109/icdm.2008.49
+>>> URL >>> http://dx.doi.org/10.1109/icdm.2008.49
+>>> year >>> 2008.0
+>>> title >>> Inlier-Based Outlier Detection via Direct Density Ratio Estimation
+>>> author >>> Shohei Hido and Yuta Tsuboi and Hisashi Kashima and Masashi Sugiyama and Takafumi Kanamori
+>>> reference_count >>> 24.0
+>>> is_referenced_by_count >>> 14.0
+>>> subject >>> None
+>>> container_title >>> ['2008 Eighth IEEE International Conference on Data Mining']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 0.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T20:16:48Z', 'timestamp': 1525465008146}, 'reference-count': 24, 'publisher': 'IEEE', 'isbn-type': [{'value': '9780769535029', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 12]]}, 'DOI': '10.1109/icdm.2008.49', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 2, 13]], 'date-time': '2009-02-13T19:59:01Z', 'timestamp': 1234555141000}, 'source': 'Crossref', 'is-referenced-by-count': 14, 'title': ['Inlier-Based Outlier Detection via Direct Density Ratio Estimation'], 'prefix': '10.1109', 'author': [{'given': 'Shohei', 'family': 'Hido', 'sequence': 'first', 'affiliation': []}, {'given': 'Yuta', 'family': 'Tsuboi', 'sequence': 'additional', 'affiliation': []}, {'given': 'Hisashi', 'family': 'Kashima', 'sequence': 'additional', 'affiliation': []}, {'given': 'Masashi', 'family': 'Sugiyama', 'sequence': 'additional', 'affiliation': []}, {'given': 'Takafumi', 'family': 'Kanamori', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2008 Eighth IEEE International Conference on Data Mining (ICDM)', 'location': 'Pisa, Italy', 'start': {'date-parts': [[2008, 12, 15]]}, 'end': {'date-parts': [[2008, 12, 19]]}}, 'container-title': ['2008 Eighth IEEE International Conference on Data Mining'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4781077/4781078/04781117.pdf?arnumber=4781117', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T16:45:25Z', 'timestamp': 1497804325000}, 'score': 64.42687, 'issued': {'date-parts': [[2008, 12]]}, 'ISBN': ['9780769535029'], 'references-count': 24, 'URL': 'http://dx.doi.org/10.1109/icdm.2008.49'}
+>>> hash >>> ('Inlier-Based Outlier Detection via Direct Density Ratio Estimation', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Mingsheng Long, Jianmin Wang, Guiguang Ding, Jiaguang Sun, and Philip S Yu, â€œTransfer feature learning with joint distribution adaptation,â€\x9d in IEEE ICCV, 2013, pp. 2200â€“2207.
+>>> DOI >>> 10.1109/iccv.2013.274
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2013.274
+>>> year >>> 2013.0
+>>> title >>> Transfer Feature Learning with Joint Distribution Adaptation
+>>> author >>> Mingsheng Long and Jianmin Wang and Guiguang Ding and Jiaguang Sun and Philip S. Yu
+>>> reference_count >>> 26.0
+>>> is_referenced_by_count >>> 66.0
+>>> subject >>> None
+>>> container_title >>> ['2013 IEEE International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T15:02:36Z', 'timestamp': 1528470156063}, 'reference-count': 26, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781479928408', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013, 12]]}, 'DOI': '10.1109/iccv.2013.274', 'type': 'proceedings-article', 'created': {'date-parts': [[2014, 3, 7]], 'date-time': '2014-03-07T21:30:17Z', 'timestamp': 1394227817000}, 'source': 'Crossref', 'is-referenced-by-count': 66, 'title': ['Transfer Feature Learning with Joint Distribution Adaptation'], 'prefix': '10.1109', 'author': [{'given': 'Mingsheng', 'family': 'Long', 'sequence': 'first', 'affiliation': []}, {'given': 'Jianmin', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Guiguang', 'family': 'Ding', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jiaguang', 'family': 'Sun', 'sequence': 'additional', 'affiliation': []}, {'given': 'Philip S.', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2013 IEEE International Conference on Computer Vision (ICCV)', 'location': 'Sydney, Australia', 'start': {'date-parts': [[2013, 12, 1]]}, 'end': {'date-parts': [[2013, 12, 8]]}}, 'container-title': ['2013 IEEE International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6750807/6751100/06751384.pdf?arnumber=6751384', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 23]], 'date-time': '2017-03-23T18:11:16Z', 'timestamp': 1490292676000}, 'score': 66.256325, 'issued': {'date-parts': [[2013, 12]]}, 'ISBN': ['9781479928408'], 'references-count': 26, 'URL': 'http://dx.doi.org/10.1109/iccv.2013.274'}
+>>> hash >>> ('Transfer Feature Learning with Joint Distribution Adaptation', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Zass, A. Shashua, "Probabilistic Graph and Hypergraph Matching", Proc. IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2008.
+>>> DOI >>> 10.1109/cvpr.2008.4587500
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2008.4587500
+>>> year >>> 2008.0
+>>> title >>> Probabilistic graph and hypergraph matching
+>>> author >>> Ron Zass and Amnon Shashua
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 129.0
+>>> subject >>> None
+>>> container_title >>> ['2008 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:54:20Z', 'timestamp': 1525438460229}, 'reference-count': 18, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424422425', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 6]]}, 'DOI': '10.1109/cvpr.2008.4587500', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 8, 12]], 'date-time': '2008-08-12T14:28:49Z', 'timestamp': 1218551329000}, 'source': 'Crossref', 'is-referenced-by-count': 129, 'title': ['Probabilistic graph and hypergraph matching'], 'prefix': '10.1109', 'author': [{'given': 'Ron', 'family': 'Zass', 'sequence': 'first', 'affiliation': []}, {'given': 'Amnon', 'family': 'Shashua', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2008 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Anchorage, AK, USA', 'start': {'date-parts': [[2008, 6, 23]]}, 'end': {'date-parts': [[2008, 6, 28]]}}, 'container-title': ['2008 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4558014/4587335/04587500.pdf?arnumber=4587500', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T14:14:04Z', 'timestamp': 1489673644000}, 'score': 106.32179, 'issued': {'date-parts': [[2008, 6]]}, 'ISBN': ['9781424422425'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1109/cvpr.2008.4587500'}
+>>> hash >>> ('Probabilistic graph and hypergraph matching', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Maciel, J. Costeira, "A Global Solution to Sparse Correspondence Problems", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 25, no. 2, pp. 187-199, Feb. 2003.
+>>> DOI >>> 10.1109/tpami.2003.1177151
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2003.1177151
+>>> year >>> 2003.0
+>>> title >>> A global solution to sparse correspondence problems
+>>> author >>> J. Maciel and J.P. Costeira
+>>> reference_count >>> 30.0
+>>> is_referenced_by_count >>> 102.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 23]], 'date-time': '2018-05-23T22:42:30Z', 'timestamp': 1527115350837}, 'reference-count': 30, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2003, 2]]}, 'DOI': '10.1109/tpami.2003.1177151', 'type': 'journal-article', 'created': {'date-parts': [[2003, 3, 7]], 'date-time': '2003-03-07T18:58:16Z', 'timestamp': 1047063496000}, 'page': '187-199', 'source': 'Crossref', 'is-referenced-by-count': 102, 'title': ['A global solution to sparse correspondence problems'], 'prefix': '10.1109', 'volume': '25', 'author': [{'given': 'J.', 'family': 'Maciel', 'sequence': 'first', 'affiliation': []}, {'given': 'J.P.', 'family': 'Costeira', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'language': 'en', 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/26436/01177151.pdf?arnumber=1177151', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 2, 4]], 'date-time': '2018-02-04T03:58:13Z', 'timestamp': 1517716693000}, 'score': 99.131454, 'issued': {'date-parts': [[2003, 2]]}, 'references-count': 30, 'journal-issue': {'published-print': {'date-parts': [[2003, 2]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2003.1177151', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A global solution to sparse correspondence problems', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Boqing Gong, Kristen Grauman, and Fei Sha, â€œConnecting the dots with landmarks: Discriminatively learning domaininvariant features for unsupervised domain adaptation.,â€\x9d in ICML, 2013, pp. 222â€“230.
+>>> DOI >>> 10.1109/cvpr.2012.6247911
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2012.6247911
+>>> year >>> 2012.0
+>>> title >>> Geodesic flow kernel for unsupervised domain adaptation
+>>> author >>> None
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 39.0
+>>> subject >>> None
+>>> container_title >>> ['2012 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 11]], 'date-time': '2018-05-11T21:02:25Z', 'timestamp': 1526072545957}, 'reference-count': 28, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467312264', 'type': 'print'}, {'value': '9781467312271', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012, 6]]}, 'DOI': '10.1109/cvpr.2012.6247911', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 8, 1]], 'date-time': '2012-08-01T15:05:51Z', 'timestamp': 1343833551000}, 'source': 'Crossref', 'is-referenced-by-count': 39, 'title': ['Geodesic flow kernel for unsupervised domain adaptation'], 'prefix': '10.1109', 'author': [{'family': 'Boqing Gong', 'sequence': 'first', 'affiliation': []}, {'family': 'Yuan Shi', 'sequence': 'additional', 'affiliation': []}, {'family': 'Fei Sha', 'sequence': 'additional', 'affiliation': []}, {'given': 'K.', 'family': 'Grauman', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2012 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Providence, RI', 'start': {'date-parts': [[2012, 6, 16]]}, 'end': {'date-parts': [[2012, 6, 21]]}}, 'container-title': ['2012 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6235193/6247647/06247911.pdf?arnumber=6247911', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T22:18:34Z', 'timestamp': 1497997114000}, 'score': 78.18895, 'issued': {'date-parts': [[2012, 6]]}, 'ISBN': ['9781467312288', '9781467312264', '9781467312271'], 'references-count': 28, 'URL': 'http://dx.doi.org/10.1109/cvpr.2012.6247911'}
+>>> hash >>> ('Geodesic flow kernel for unsupervised domain adaptation', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D.G. Lowe, "Distinctive Image Features from Scale-Invariant Keypoints", Int'l J. Computer Vision, vol. 60, no. 2, pp. 91-110, 2004.
+>>> DOI >>> 10.1023/b:visi.0000029664.99615.94
+>>> URL >>> http://dx.doi.org/10.1023/b:visi.0000029664.99615.94
+>>> year >>> 2004.0
+>>> title >>> Distinctive Image Features from Scale-Invariant Keypoints
+>>> author >>> David G. Lowe
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 20680.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 9]], 'date-time': '2018-06-09T06:02:28Z', 'timestamp': 1528524148086}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['International Journal of Computer Vision'], 'published-print': {'date-parts': [[2004, 11]]}, 'DOI': '10.1023/b:visi.0000029664.99615.94', 'type': 'journal-article', 'created': {'date-parts': [[2004, 6, 2]], 'date-time': '2004-06-02T04:09:50Z', 'timestamp': 1086149390000}, 'page': '91-110', 'source': 'Crossref', 'is-referenced-by-count': 20680, 'title': ['Distinctive Image Features from Scale-Invariant Keypoints'], 'prefix': '10.1007', 'volume': '60', 'author': [{'given': 'David G.', 'family': 'Lowe', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['International Journal of Computer Vision'], 'language': 'en', 'deposited': {'date-parts': [[2012, 12, 29]], 'date-time': '2012-12-29T00:53:06Z', 'timestamp': 1356742386000}, 'score': 96.35393, 'issued': {'date-parts': [[2004, 11]]}, 'references-count': 0, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1023/b:visi.0000029664.99615.94', 'ISSN': ['0920-5691'], 'issn-type': [{'value': '0920-5691', 'type': 'print'}]}
+>>> hash >>> ('Distinctive Image Features from Scale-Invariant Keypoints', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A.M. Leroy, P.J. Rousseeuw, Robust Regression and Outlier Detection., 2003.
+>>> DOI >>> 10.1002/0471725382
+>>> URL >>> http://dx.doi.org/10.1002/0471725382
+>>> year >>> 1987.0
+>>> title >>> Robust Regression and Outlier Detection
+>>> author >>> Peter J. Rousseeuw and Annick M. Leroy
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2033.0
+>>> subject >>> None
+>>> container_title >>> ['Wiley Series in Probability and Statistics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 9]], 'date-time': '2018-06-09T10:22:29Z', 'timestamp': 1528539749300}, 'publisher-location': 'Hoboken, NJ, USA', 'reference-count': 0, 'publisher': 'John Wiley & Sons, Inc.', 'isbn-type': [{'value': '9780471852339', 'type': 'print'}, {'value': '9780471725381', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1987, 10, 19]]}, 'DOI': '10.1002/0471725382', 'type': 'book', 'created': {'date-parts': [[2005, 1, 28]], 'date-time': '2005-01-28T23:03:49Z', 'timestamp': 1106953429000}, 'source': 'Crossref', 'is-referenced-by-count': 2033, 'title': ['Robust Regression and Outlier Detection'], 'prefix': '10.1002', 'author': [{'given': 'Peter J.', 'family': 'Rousseeuw', 'sequence': 'first', 'affiliation': []}, {'given': 'Annick M.', 'family': 'Leroy', 'sequence': 'additional', 'affiliation': []}], 'member': '311', 'published-online': {'date-parts': [[2005, 1, 28]]}, 'container-title': ['Wiley Series in Probability and Statistics'], 'deposited': {'date-parts': [[2011, 8, 23]], 'date-time': '2011-08-23T07:38:34Z', 'timestamp': 1314085114000}, 'score': 67.64541, 'subtitle': ['Rousseeuw/Robust Regression & Outlier Detection'], 'issued': {'date-parts': [[1987, 10, 19]]}, 'ISBN': ['9780471725381', '9780471852339'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1002/0471725382', 'ISSN': ['1940-6347'], 'issn-type': [{'value': '1940-6347', 'type': 'electronic'}]}
+>>> hash >>> ('Robust Regression and Outlier Detection', 1987.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R.C. Veltkamp, M. Tanase, "Content-Based Image Retrieval Systems: A Survey", 2000.
+>>> DOI >>> 10.1007/978-1-4615-0987-5_5
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4615-0987-5_5
+>>> year >>> 2002.0
+>>> title >>> A Survey of Content-Based Image Retrieval Systems
+>>> author >>> Remco C. Veltkamp and Mirela Tanase
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 57.0
+>>> subject >>> None
+>>> container_title >>> ['Content-Based Image and Video Retrieval']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T06:40:18Z', 'timestamp': 1525416018463}, 'publisher-location': 'Boston, MA', 'reference-count': 0, 'publisher': 'Springer US', 'isbn-type': [{'value': '9781461353386', 'type': 'print'}, {'value': '9781461509875', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.1007/978-1-4615-0987-5_5', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 6, 25]], 'date-time': '2011-06-25T05:07:15Z', 'timestamp': 1308978435000}, 'page': '47-101', 'source': 'Crossref', 'is-referenced-by-count': 57, 'title': ['A Survey of Content-Based Image Retrieval Systems'], 'prefix': '10.1007', 'author': [{'given': 'Remco C.', 'family': 'Veltkamp', 'sequence': 'first', 'affiliation': []}, {'given': 'Mirela', 'family': 'Tanase', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Content-Based Image and Video Retrieval'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-1-4615-0987-5_5', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 9]], 'date-time': '2014-01-09T16:01:14Z', 'timestamp': 1389283274000}, 'score': 64.68189, 'issued': {'date-parts': [[2002]]}, 'ISBN': ['9781461353386', '9781461509875'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4615-0987-5_5'}
+>>> hash >>> ('A Survey of Content-Based Image Retrieval Systems', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Leordeanu, M. Hebert, R. Sukthankar, "Beyond Local Appearance: Category Recognition from Pairwise Interactions of Simple Features", Proc. IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2007.
+>>> DOI >>> 10.1109/cvpr.2007.383091
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2007.383091
+>>> year >>> 2007.0
+>>> title >>> Beyond Local Appearance: Category Recognition from Pairwise Interactions of Simple Features
+>>> author >>> Marius Leordeanu and Martial Hebert and Rahul Sukthankar
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 63.0
+>>> subject >>> None
+>>> container_title >>> ['2007 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T21:27:32Z', 'timestamp': 1525382852625}, 'reference-count': 27, 'publisher': 'IEEE', 'isbn-type': [{'value': '1424411807', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007, 6]]}, 'DOI': '10.1109/cvpr.2007.383091', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 7, 23]], 'date-time': '2007-07-23T20:33:13Z', 'timestamp': 1185222793000}, 'source': 'Crossref', 'is-referenced-by-count': 63, 'title': ['Beyond Local Appearance: Category Recognition from Pairwise Interactions of Simple Features'], 'prefix': '10.1109', 'author': [{'given': 'Marius', 'family': 'Leordeanu', 'sequence': 'first', 'affiliation': []}, {'given': 'Martial', 'family': 'Hebert', 'sequence': 'additional', 'affiliation': []}, {'given': 'Rahul', 'family': 'Sukthankar', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2007 IEEE Conference on Computer Vision and Pattern Recognition', 'location': 'Minneapolis, MN, USA', 'start': {'date-parts': [[2007, 6, 17]]}, 'end': {'date-parts': [[2007, 6, 22]]}}, 'container-title': ['2007 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4269955/4269956/04270116.pdf?arnumber=4270116', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T21:18:43Z', 'timestamp': 1497734323000}, 'score': 123.16138, 'issued': {'date-parts': [[2007, 6]]}, 'ISBN': ['1424411793', '1424411807'], 'references-count': 27, 'URL': 'http://dx.doi.org/10.1109/cvpr.2007.383091'}
+>>> hash >>> ('Beyond Local Appearance: Category Recognition from Pairwise Interactions of Simple Features', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Jerome Friedman, Trevor Hastie, and Robert Tibshirani, â€œA note on the group lasso and a sparse group lasso,â€\x9d arXiv preprint arXiv:1001.0736, 2010.
+>>> DOI >>> 10.1080/10618600.2012.681250
+>>> URL >>> http://dx.doi.org/10.1080/10618600.2012.681250
+>>> year >>> 2013.0
+>>> title >>> A Sparse-Group Lasso
+>>> author >>> Noah Simon and Jerome Friedman and Trevor Hastie and Robert Tibshirani
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 221.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Computational and Graphical Statistics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database56.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T21:42:35Z', 'timestamp': 1528494155853}, 'reference-count': 13, 'publisher': 'Informa UK Limited', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Computational and Graphical Statistics'], 'published-print': {'date-parts': [[2013, 4]]}, 'DOI': '10.1080/10618600.2012.681250', 'type': 'journal-article', 'created': {'date-parts': [[2012, 9, 10]], 'date-time': '2012-09-10T16:46:18Z', 'timestamp': 1347295578000}, 'page': '231-245', 'source': 'Crossref', 'is-referenced-by-count': 221, 'title': ['A Sparse-Group Lasso'], 'prefix': '10.1080', 'volume': '22', 'author': [{'given': 'Noah', 'family': 'Simon', 'sequence': 'first', 'affiliation': []}, {'given': 'Jerome', 'family': 'Friedman', 'sequence': 'additional', 'affiliation': []}, {'given': 'Trevor', 'family': 'Hastie', 'sequence': 'additional', 'affiliation': []}, {'given': 'Robert', 'family': 'Tibshirani', 'sequence': 'additional', 'affiliation': []}], 'member': '301', 'reference': [{'key': 'CIT0001', 'author': 'Becker S.', 'year': '2009', 'journal-title': 'arXiv:0904:3367v1'}, {'key': 'CIT0002', 'author': 'Burczynski M.', 'volume': '8', 'first-page': '51', 'year': '2006', 'journal-title': 'Journal of Molecular Diagnostics', 'DOI': '10.2353/jmoldx.2006.050079', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0005', 'author': 'Friedman J.', 'volume': '33', 'first-page': '1', 'year': '2010', 'journal-title': 'Journal of Statistical Software', 'DOI': '10.18637/jss.v033.i01', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0006', 'author': 'Jacob L.', 'first-page': '433', 'year': '2009', 'volume-title': 'ACM Proceedings of the 26th Annual International Conference on Machine Learning'}, {'key': 'CIT0007', 'author': 'Ma X.', 'volume': '5', 'first-page': '607', 'year': '2004', 'journal-title': 'Cancer Cell', 'DOI': '10.1016/j.ccr.2004.05.015', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0008', 'author': 'Meier L.', 'volume': '70', 'first-page': '53', 'year': '2008', 'journal-title': 'Journal of the Royal Statistical Society, Series B', 'DOI': '10.1111/j.1467-9868.2007.00627.x', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0009', 'author': 'Nesterov Y.', 'year': '2007', 'journal-title': 'Gradient Methods for Minimizing Composite Objective Function'}, {'key': 'CIT0010', 'author': 'Puig A.', 'first-page': '113', 'year': '2009', 'volume-title': "SSP'09, IEEE/SP 15th Workshop on Statistical Signal Processing"}, {'key': 'CIT0011', 'author': 'Subramanian A.', 'volume': '102', 'first-page': '15545', 'year': '2005', 'journal-title': 'Proceedings of the National Academy of Sciences of the United States of America', 'DOI': '10.1073/pnas.0506580102', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0012', 'author': 'Tibshirani R.', 'volume': '58', 'first-page': '267', 'year': '1996', 'journal-title': 'Journal of the Royal Statistical Society, Series B'}, {'key': 'CIT0013', 'author': 'Yuan M.', 'volume': '68', 'first-page': '49', 'year': '2007', 'journal-title': 'Journal of the Royal Statistical Society, Series B', 'DOI': '10.1111/j.1467-9868.2005.00532.x', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0014', 'author': 'Zhou H.', 'volume': '26', 'first-page': '2375', 'year': '2010', 'journal-title': 'Bioinformatics', 'DOI': '10.1093/bioinformatics/btq448', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0015', 'author': 'Zou H.', 'volume': '67', 'first-page': '301', 'year': '2005', 'journal-title': 'Journal of the Royal Statistical Society, Series B', 'DOI': '10.1111/j.1467-9868.2005.00503.x', 'doi-asserted-by': 'crossref'}], 'container-title': ['Journal of Computational and Graphical Statistics'], 'language': 'en', 'link': [{'URL': 'http://www.tandfonline.com/doi/pdf/10.1080/10256018808623883', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T23:58:06Z', 'timestamp': 1498003086000}, 'score': 61.594276, 'issued': {'date-parts': [[2013, 4]]}, 'references-count': 13, 'journal-issue': {'published-print': {'date-parts': [[2013, 4]]}, 'issue': '2'}, 'alternative-id': ['10.1080/10618600.2012.681250'], 'URL': 'http://dx.doi.org/10.1080/10618600.2012.681250', 'relation': {'cites': []}, 'ISSN': ['1061-8600', '1537-2715'], 'issn-type': [{'value': '1061-8600', 'type': 'print'}, {'value': '1537-2715', 'type': 'electronic'}]}
+>>> hash >>> ('A Sparse-Group Lasso', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

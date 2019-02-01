@@ -1,0 +1,59 @@
+[0] Pin-Yu Chen, Lingfei Wu, Sijia Liu, Indika Rajapakse, Fast Incremental von Neumann Graph Entropy Computation: Theory Algorithm and Applications
+[1] D. Shuman, S. Narang, P. Frossard, A. Ortega, and P. Vandergheynst, “The emerging field of signal processing on graphs: Extending high-dimensional data analysis to networks and other irregular domains,” IEEE Signal Process. Mag., vol. 30, no. 3, pp. 83–98, 2013.
+[2] V. Kalofolias, “How to learn a graph from smooth signals,” in International Conference on Artificial Intelligence and Statistics (AISTATS), 2016, p. 920–929.
+[3] D. Luo, H. Huang, F. Nie, and C. H. Ding, “Forging the graphs: A low rank and positive semidefinite graph learning approach,” in Advances in Neural Information Processing Systems (NIPS), 2012, pp. 2960–2968.
+[4] R. Shivanna and C. Bhattacharyya, “Learning on graphs using orthonormal representation is statistically consistent,” in Advances in Neural Information Processing Systems (NIPS), 2014, pp. 3635–3643.
+[5] Y. Wang, Y.-X. Wang, and A. Singh, “Graph connectivity in noisy sparse subspace clustering,” in Artificial Intelligence and Statistics, 2016, pp. 538–546.
+[6] T. N. Kipf and M. Welling, “Variational graph auto-encoders,” in Advances in Neural Information Processing Systems (NIPS) Bayesian Deep Learning Workshop, 2016.
+[7] P. Papadimitriou, A. Dasdan, and H. Garcia-Molina, “Web graph similarity for anomaly detection,” Journal of Internet Services and Applications, vol. 1, no. 1, pp. 19–30, 2010.
+[8] L. Akoglu, H. Tong, and D. Koutra, “Graph based anomaly detection and description: a survey,” Data Mining and Knowledge Discovery, vol. 29, no. 3, pp. 626–688, 2015.
+[9] S. Ranshous, S. Shen, D. Koutra, S. Harenberg, C. Faloutsos, and N. F. Samatova, “Anomaly detection in dynamic networks: a survey,” Wiley Interdisciplinary Reviews: Computational Statistics, vol. 7, no. 3, pp. 223–247, 2015.
+[10] P. Yanardag and S. Vishwanathan, “A structural smoothing framework for robust graph comparison,” in Advances in Neural Information Processing Systems (NIPS), 2015, pp. 2134–2142.
+[11] J. L. Sharpnack, A. Krishnamurthy, and A. Singh, “Near-optimal anomaly detection in graphs using lovasz extended scan statistic,” in Advances in Neural Information Processing Systems (NIPS), 2013, pp. 1959–1967.
+[12] D. Koutra, N. Shah, J. T. Vogelstein, B. Gallagher, and C. Faloutsos, “DeltaCon: Principled massive-graph similarity function with attribution,” ACM Transactions on Knowledge Discovery from Data, vol. 10, no. 3, p. 28, 2016.
+[13] G. Simonyi, “Graph entropy: A survey,” Combinatorial Optimization, vol. 20, pp. 399–441, 1995.
+[14] J. Shetty and J. Adibi, “Discovering important nodes through graph entropy the case of enron email database,” in Proceedings of the 3rd international workshop on Link discovery. ACM, 2005, pp. 74–81.
+[15] A. Li and Y. Pan, “Structural information and dynamical complexity of networks,” IEEE Transactions on Information Theory, vol. 62, no. 6, pp. 3290–3339, 2016.
+[16] S. L. Braunstein, S. Ghosh, and S. Severini, “The Laplacian of a graph as a density matrix: a basic combinatorial approach to separability of mixed states,” Annals of Combinatorics, vol. 10, no. 3, pp. 291–317, 2006.
+[17] F. Passerini and S. Severini, “The von Neumann entropy of networks,” arXiv preprint arXiv:0812.2597, 2008.
+[18] ——, “Quantifying complexity in networks: the von Neumann entropy,” International Journal of Agent Technologies and Systems (IJATS), vol. 1, no. 4, pp. 58–67, 2009.
+[19] D. M. Endres and J. E. Schindelin, “A new metric for probability distributions,” IEEE Transactions on Information theory, vol. 49, no. 7, pp. 1858–1860, 2003.
+[20] J. Briët and P. Harremoës, “Properties of classical and quantum Jensen-Shannon divergence,” Physical Review A, vol. 79, no. 5, p. 052311, 2009.
+[21] K. Anand and G. Bianconi, “Entropy measures for networks: Toward an information theory of complex topologies,” Physical Review E, vol. 80, no. 4, p. 045102, 2009.
+[22] K. Anand, G. Bianconi, and S. Severini, “Shannon and von Neumann entropy of random networks with heterogeneous expected degree,” Physical Review E, vol. 83, no. 3, p. 036109, 2011.
+[23] M. De Domenico, V. Nicosia, A. Arenas, and V. Latora, “Structural reducibility of multilayer networks,” Nature Communications, vol. 6, 2015.
+[24] L. Han, F. Escolano, E. R. Hancock, and R. C. Wilson, “Graph characterizations from von Neumann entropy,” Pattern Recognition Letters, vol. 33, no. 15, pp. 1958–1967, 2012.
+[25] L. Bai and E. R. Hancock, “Depth-based complexity traces of graphs,” Pattern Recognition, vol. 47, no. 3, pp. 1172–1186, 2014.
+[26] L. Seaman, H. Chen, M. Brown, D. Wangsa, G. Patterson, J. Camps, G. S. Omenn, T. Ried, and I. Rajapakse, “Nucleome analysis reveals structure-function relationships for colon cancer,” Molecular Cancer Research, pp. molcanres–0374, 2017.
+[27] Z. Li, P. J. Mucha, and D. Taylor, “Network-ensemble comparisons with stochastic rewiring and von Neumann entropy,” arXiv preprint arXiv:1704.01053, 2017.
+[28] J. Shi and J. Malik, “Normalized cuts and image segmentation,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 22, no. 8, pp. 888–905, 2000.
+[29] F. Chung, “Laplacians and the Cheeger inequality for directed graphs,” Annals of Combinatorics, vol. 9, no. 1, pp. 1–19, 2005.
+[30] C. Ye, R. C. Wilson, C. H. Comin, L. d. F. Costa, and E. R. Hancock, “Approximate von Neumann entropy for directed graphs,” Physical Review E, vol. 89, no. 5, p. 052804, 2014.
+[31] J. Von Neumann, Mathematical foundations of quantum mechanics. Princeton university press, 1955, no. 2.
+[32] U. Luxburg, “A tutorial on spectral clustering,” Statistics and Computing, vol. 17, no. 4, pp. 395–416, Dec. 2007.
+[33] Z. Bai, J. Demmel, J. Dongarra, A. Ruhe, and H. van der Vorst, Templates for the solution of algebraic eigenvalue problems: a practical guide. SIAM, 2000.
+[34] R. A. Horn and C. R. Johnson, Matrix Analysis. Cambridge University Press, 1990.
+[35] W. Du, X. Li, Y. Li, and S. Severini, “A note on the von Neumann entropy of random graphs,” Linear Algebra and its Applications, vol. 433, no. 11-12, pp. 1722–1725, 2010.
+[36] R. Merris, “Laplacian matrices of graphs: a survey,” Linear Algebra and its Applications, vol. 197-198, pp. 143–176, 1994.
+[37] L. Wu, E. Romero, and A. Stathopoulos, “Primme_SVDS: A high-performance preconditioned svd solver for accurate large-scale computations,” arXiv preprint arXiv:1607.01404, 2016.
+[38] W. N. Anderson Jr and T. D. Morley, “Eigenvalues of the Laplacian of a graph,” Linear and Multilinear Algebra, vol. 18, no. 2, pp. 141–145, 1985.
+[39] P. Erdös and A. Rényi, “On random graphs, I,” Publicationes Mathematicae (Debrecen), vol. 6, pp. 290–297, 1959.
+[40] A.-L. Barabási and R. Albert, “Emergence of scaling in random networks,” Science, vol. 286, no. 5439, pp. 509–512, Oct. 1999.
+[41] D. J. Watts and S. H. Strogatz, “Collective dynamics of ‘small-world’ networks,” Nature, vol. 393, no. 6684, pp. 440–442, Jun. 1998.
+[42] P. Van Mieghem, Graph Spectra for Complex Networks. Cambridge University Press, 2010.
+[43] K.-I. Goh, B. Kahng, and D. Kim, “Spectra and eigenvectors of scale-free networks,” Physical Review E, vol. 64, no. 5, p. 051903, 2001.
+[44] A. E. Mislove, “Online social networks: measurement, analysis, and applications to distributed information systems,” Ph.D. dissertation, Rice University, 2009.
+[45] J. Preusse, J. Kunegis, M. Thimm, S. Staab, and T. Gottron, “Structural dynamics of knowledge networks,” in International AAAI Conference on Weblogs and Social Media, 2013.
+[46] A. Beloqui, M.-E. Guazzaroni, F. Pazos, J. M. Vieites, M. Godoy, O. V. Golyshina, T. N. Chernikova, A. Waliczek, R. Silva-Rocha, Y. Al-ramahi et al., “Reactome array: forging a link between metabolome and genome,” Science, vol. 326, no. 5950, pp. 252–257, 2009.
+[47] S. Liu, H. Chen, S. Ronquist, L. Seaman, N. Ceglia, W. Meixner, L. A. Muir, P.-Y. Chen, G. Higgins, P. Baldi, S. Smale, A. Hero, and I. Rajapakse, “Genome architecture leads a bifurcation in cell identity,” bioRxiv, 2017.
+[48] L. R. Dice, “Measures of the amount of ecologic association between species,” Ecology, vol. 26, no. 3, pp. 297–302, 1945.
+[49] T. Sørensen, “A method of establishing groups of equal amplitude in plant sociology based on similarity of species and its application to analyses of the vegetation on danish commons,” Kongelige Danske Videnskabernes Selskab, vol. 5, pp. 1–34, 1948.
+[50] H. Bunke, P. J. Dickinson, M. Kraetzl, and W. D. Wallis, A graph-theoretic approach to enterprise network dynamics. Springer Science & Business Media, 2007, vol. 24.
+[51] R. C. Wilson and P. Zhu, “A study of graph spectra for comparing graphs and trees,” Pattern Recognition, vol. 41, no. 9, pp. 2833–2841, 2008.
+[52] P.-Y. Chen and A. O. Hero, “Node removal vulnerability of the largest component of a network,” in IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2013, pp. 587–590.
+[53] M. Fiedler, “Algebraic connectivity of graphs,” Czechoslovak Mathematical Journal, vol. 23, no. 98, pp. 298–305, 1973.
+[54] H. Weintraub, S. J. Tapscott, R. L. Davis, M. J. Thayer, M. A. Adam, A. B. Lassar, and A. D. Miller, “Activation of muscle-specific genes in pigment, nerve, fat, liver, and fibroblast cell lines by forced expression of myod,” Proceedings of the National Academy of Sciences, vol. 86, no. 14, pp. 5434–5438, 1989.
+[55] H. Weintraub, “The myod family and myogenesis: redundancy, networks, and thresholds,” Cell, vol. 75, no. 7, pp. 1241–1244, 1993.
+[56] D. Del Vecchio, H. Abdallah, Y. Qian, and J. J. Collins, “A blueprint for a synthetic genetic feedback controller to reprogram cell fate,” Cell Systems, 2017.
+[57] P.-Y. Chen, S. Choudhury, and A. O. Hero, “Multi-centrality graph spectral decompositions and their application to cyber intrusion detection,” in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2016, pp. 4553–4557.
+[58] J. Leskovec, J. Kleinberg, and C. Faloutsos, “Graphs over time: densification laws, shrinking diameters and possible explanations,” in ACM International Conference on Knowledge Discovery and Data Mining (KDD), 2005, pp. 177–187.

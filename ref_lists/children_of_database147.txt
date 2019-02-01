@@ -1,0 +1,433 @@
+>>> NEW PAPER <<<
+>>> citation >>> BOOTH, K S Problems polynomlally equivalent to graph lsomorphtsm Tech Rep CS-77-04, Dept Comptr SCl, U of Waterloo, Waterloo, Ont, Canada, 1977
+>>> DOI >>> 10.2514/3.5356
+>>> URL >>> http://dx.doi.org/10.2514/3.5356
+>>> year >>> 1969.0
+>>> title >>> Two formulations for optimization problems with state-variable inequality constraints.
+>>> author >>> None
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['AIAA Journal']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T10:46:15Z', 'timestamp': 1525430775531}, 'reference-count': 13, 'publisher': 'American Institute of Aeronautics and Astronautics (AIAA)', 'issue': '7', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['AIAA Journal'], 'published-print': {'date-parts': [[1969, 7]]}, 'DOI': '10.2514/3.5356', 'type': 'journal-article', 'created': {'date-parts': [[2008, 6, 6]], 'date-time': '2008-06-06T01:50:44Z', 'timestamp': 1212717044000}, 'page': '1378-1380', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Two formulations for optimization problems with state-variable inequality constraints.'], 'prefix': '10.2514', 'volume': '7', 'author': [{'name': 'LASTMAN, G. J. (WATERLOO, U., DEPT. OF APPLIED MATHEMATICS, WATERLOO, ONTARIO, CANADA.)', 'sequence': 'first', 'affiliation': []}], 'member': '1387', 'reference': [{'key': 'p_9', 'author': 'Hall I. M.', 'first-page': '4', 'year': '1962', 'journal-title': 'Quarterly Journal of Mechanics and Applied Mechanics'}, {'key': 'p_10', 'author': 'Sauer R.', 'year': '1967', 'volume-title': 'TM1147'}, {'key': 'p_11', 'author': 'Oswatitsch K.', 'year': '1949', 'volume-title': 'TM1215'}, {'key': 'p_12', 'author': 'Mendelson R. S.', 'year': '1964', 'volume-title': 'TR HSM-R037'}, {'key': 'p_13', 'author': 'Sims J. L.', 'year': '1964', 'volume-title': 'TMX-53081'}, {'key': 'p_14', 'author': 'Kliegel J. R.', 'year': '1966', 'volume-title': 'Rept. 02874-6002-ROOO'}, {'key': 'p_15', 'DOI': '10.2514/3.5349', 'doi-asserted-by': 'publisher'}, {'key': 'p_21', 'volume-title': 'tQ known constants'}, {'key': 'p_28', 'DOI': '10.2514/3.2107', 'doi-asserted-by': 'publisher'}, {'key': 'p_29', 'DOI': '10.2514/3.3480', 'doi-asserted-by': 'publisher'}, {'key': 'p_30', 'DOI': '10.2514/3.4793', 'doi-asserted-by': 'publisher'}, {'key': 'p_31', 'DOI': '10.1016/0022-247X(65)90122-8', 'doi-asserted-by': 'publisher'}, {'key': 'p_32', 'DOI': '10.2514/3.2209', 'doi-asserted-by': 'publisher'}], 'container-title': ['AIAA Journal'], 'language': 'en', 'deposited': {'date-parts': [[2012, 9, 14]], 'date-time': '2012-09-14T00:16:56Z', 'timestamp': 1347581816000}, 'score': 46.346493, 'issued': {'date-parts': [[1969, 7]]}, 'references-count': 13, 'journal-issue': {'published-print': {'date-parts': [[1969, 7]]}, 'issue': '7'}, 'alternative-id': ['10.2514/3.5356'], 'URL': 'http://dx.doi.org/10.2514/3.5356', 'relation': {'cites': []}, 'ISSN': ['0001-1452', '1533-385X'], 'issn-type': [{'value': '0001-1452', 'type': 'print'}, {'value': '1533-385X', 'type': 'electronic'}]}
+>>> hash >>> ('Two formulations for optimization problems with state-variable inequality constraints.', 1969.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> LEKKERKERKER, C.G, AND BOLAND, J CH. Representation of a finite graph by a set of mtervals on the real line Fund Math 51 (1962), 45-64
+>>> DOI >>> 10.4064/fm-51-1-45-64
+>>> URL >>> http://dx.doi.org/10.4064/fm-51-1-45-64
+>>> year >>> 1962.0
+>>> title >>> Representation of a finite graph by a set of intervals on the real line
+>>> author >>> C. Lekkeikerker and J. Boland
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 103.0
+>>> subject >>> None
+>>> container_title >>> ['Fundamenta Mathematicae']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T12:42:28Z', 'timestamp': 1527252148765}, 'reference-count': 0, 'publisher': 'Institute of Mathematics, Polish Academy of Sciences', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Fund. Math.'], 'DOI': '10.4064/fm-51-1-45-64', 'type': 'journal-article', 'created': {'date-parts': [[2017, 9, 13]], 'date-time': '2017-09-13T13:45:45Z', 'timestamp': 1505310345000}, 'page': '45-64', 'source': 'Crossref', 'is-referenced-by-count': 103, 'title': ['Representation of a finite graph by a set of intervals on the real line'], 'prefix': '10.4064', 'volume': '51', 'author': [{'given': 'C.', 'family': 'Lekkeikerker', 'sequence': 'first', 'affiliation': []}, {'given': 'J.', 'family': 'Boland', 'sequence': 'first', 'affiliation': []}], 'member': '2508', 'published-online': {'date-parts': [[1962]]}, 'container-title': ['Fundamenta Mathematicae'], 'language': 'en', 'deposited': {'date-parts': [[2017, 9, 13]], 'date-time': '2017-09-13T14:20:21Z', 'timestamp': 1505312421000}, 'score': 72.60314, 'issued': {'date-parts': [[1962]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1962]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.4064/fm-51-1-45-64', 'ISSN': ['0016-2736', '1730-6329'], 'issn-type': [{'value': '0016-2736', 'type': 'print'}, {'value': '1730-6329', 'type': 'electronic'}]}
+>>> hash >>> ('Representation of a finite graph by a set of intervals on the real line', 1962.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> GAVRIL, F The mtersectlon graphs of subtrees m trees are exactly the chordal graphs J Combmatortal Theory 16, 1 (1974), 47-56
+>>> DOI >>> 10.1016/0095-8956(74)90094-x
+>>> URL >>> http://dx.doi.org/10.1016/0095-8956(74)90094-x
+>>> year >>> 1974.0
+>>> title >>> The intersection graphs of subtrees in trees are exactly the chordal graphs
+>>> author >>> F\u01cenic\u01ce Gavril
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 277.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Combinatorial Theory, Series B']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T08:50:18Z', 'timestamp': 1525423818378}, 'reference-count': 16, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1974, 2, 1]], 'date-time': '1974-02-01T00:00:00Z', 'timestamp': 128908800000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 14411, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Combinatorial Theory, Series B'], 'published-print': {'date-parts': [[1974, 2]]}, 'DOI': '10.1016/0095-8956(74)90094-x', 'type': 'journal-article', 'created': {'date-parts': [[2004, 11, 6]], 'date-time': '2004-11-06T18:03:10Z', 'timestamp': 1099764190000}, 'page': '47-56', 'source': 'Crossref', 'is-referenced-by-count': 277, 'title': ['The intersection graphs of subtrees in trees are exactly the chordal graphs'], 'prefix': '10.1016', 'volume': '16', 'author': [{'given': 'F\u01cenic\u01ce', 'family': 'Gavril', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Combinatorial Theory, Series B'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:009589567490094X?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:009589567490094X?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T11:33:32Z', 'timestamp': 1497612812000}, 'score': 92.81762, 'issued': {'date-parts': [[1974, 2]]}, 'references-count': 16, 'journal-issue': {'published-print': {'date-parts': [[1974, 2]]}, 'issue': '1'}, 'alternative-id': ['009589567490094X'], 'URL': 'http://dx.doi.org/10.1016/0095-8956(74)90094-x', 'ISSN': ['0095-8956'], 'issn-type': [{'value': '0095-8956', 'type': 'print'}]}
+>>> hash >>> ('The intersection graphs of subtrees in trees are exactly the chordal graphs', 1974.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> George Schick Lueker, Efficient algorithms for chordal graphs and interval graphs., Princeton University, Princeton, NJ, 1975
+>>> DOI >>> 10.23943/princeton/9780691175638.003.0008
+>>> URL >>> http://dx.doi.org/10.23943/princeton/9780691175638.003.0008
+>>> year >>> 2018.0
+>>> title >>> Decomposing Graphs
+>>> author >>> Arthur Benjamin and Gary Chartrand and Ping Zhang
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Princeton University Press']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 29]], 'date-time': '2018-05-29T12:40:32Z', 'timestamp': 1527597632341}, 'reference-count': 0, 'publisher': 'Princeton University Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2018, 5, 24]]}, 'abstract': "<p>This chapter considers problems of whether a graph can be decomposed into certain other kinds of graphs, primarily cycles. It begins with a background on nineteenth-century mathematician Thomas Penyngton Kirkman and the problem he invented known as Kirkman's Schoolgirl Problem, stated as: How many triples can be formed with <italic>x</italic> symbols in such a way that no pair of symbols occurs more than once in the triple? This is followed by a discussion of the Steiner triple system, the relationship between cyclic decomposition problems and a problem called Alspach's Conjecture, graceful graphs, and the Graceful Tree Conjecture. The chapter concludes with an analysis of the puzzle dubbed Instant Insanity and how graphs can be utilized to solve it.</p>", 'DOI': '10.23943/princeton/9780691175638.003.0008', 'type': 'book', 'created': {'date-parts': [[2018, 5, 29]], 'date-time': '2018-05-29T12:13:19Z', 'timestamp': 1527595999000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Decomposing Graphs'], 'prefix': '10.23943', 'author': [{'given': 'Arthur', 'family': 'Benjamin', 'sequence': 'first', 'affiliation': []}, {'given': 'Gary', 'family': 'Chartrand', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ping', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}], 'member': '10341', 'container-title': ['Princeton University Press'], 'original-title': ['Decomposing Graphs'], 'deposited': {'date-parts': [[2018, 5, 29]], 'date-time': '2018-05-29T12:13:20Z', 'timestamp': 1527596000000}, 'score': 54.347767, 'issued': {'date-parts': [[2018, 5, 24]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.23943/princeton/9780691175638.003.0008'}
+>>> hash >>> ('Decomposing Graphs', 2018.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Alfred V. Aho , John E. Hopcroft, The Design and Analysis of Computer Algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1974
+>>> DOI >>> 10.1002/zamm.19790590233
+>>> URL >>> http://dx.doi.org/10.1002/zamm.19790590233
+>>> year >>> 1979.0
+>>> title >>> Aho, A. V. / Hopcroft, J. E. / Ullman, J. D., The Design and Analysis of Computer Algorithms. London-Amsterdam-Don Mills-Sydney. Addison-Wesley Publ. Comp. 1974 X, 470 S., $ 24,–
+>>> author >>> W. Issel
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['ZAMM - Zeitschrift für Angewandte Mathematik und Mechanik']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T17:44:45Z', 'timestamp': 1525369485974}, 'reference-count': 0, 'publisher': 'Wiley', 'issue': '2', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 13392, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Z. angew. Math. Mech.'], 'published-print': {'date-parts': [[1979]]}, 'DOI': '10.1002/zamm.19790590233', 'type': 'journal-article', 'created': {'date-parts': [[2007, 6, 6]], 'date-time': '2007-06-06T11:48:28Z', 'timestamp': 1181130508000}, 'page': '141-141', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Aho, A. V. / Hopcroft, J. E. / Ullman, J. D., The Design and Analysis of Computer Algorithms. London-Amsterdam-Don Mills-Sydney. Addison-Wesley Publ. Comp. 1974 X, 470 S., $ 24,–'], 'prefix': '10.1002', 'volume': '59', 'author': [{'given': 'W.', 'family': 'Issel', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'container-title': ['ZAMM - Zeitschrift für Angewandte Mathematik und Mechanik'], 'language': 'de', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fzamm.19790590233', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 4, 10]], 'date-time': '2017-04-10T01:26:09Z', 'timestamp': 1491787569000}, 'score': 46.103436, 'issued': {'date-parts': [[1979]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1979]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.1002/zamm.19790590233', 'ISSN': ['0044-2267', '1521-4001'], 'issn-type': [{'value': '0044-2267', 'type': 'print'}, {'value': '1521-4001', 'type': 'electronic'}]}
+>>> hash >>> ('Aho, A. V. / Hopcroft, J. E. / Ullman, J. D., The Design and Analysis of Computer Algorithms. London-Amsterdam-Don Mills-Sydney. Addison-Wesley Publ. Comp. 1974 X, 470 S., $ 24,–', 1979.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> KARP, R M. Reduclblhty among combmatonal problems In Complexay of Computer Computations, R E Miller and J W Thatcher, Eds., Plenum Press, New York, 1972, pp 85-104
+>>> DOI >>> 10.2307/2271828
+>>> URL >>> http://dx.doi.org/10.2307/2271828
+>>> year >>> 1975.0
+>>> title >>> Karp                Richard M.. Reducibility among combinatorial problems. Complexity of computer computations, Proceedings of a Symposium on the Complexity of Computer Computations, held March 20-22, 1972, at the IBM Thomas J. Watson Center, Yorktown Heights, New York, edited by Miller                Raymond E. and Thatcher                James W., Plenum Press, New York and London             1972, pp. 85–103.
+>>> author >>> Ronald V. Book
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['The Journal of Symbolic Logic']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T21:25:17Z', 'timestamp': 1525296317537}, 'reference-count': 0, 'publisher': 'Cambridge University Press (CUP)', 'issue': '04', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J. symb. log.'], 'published-print': {'date-parts': [[1975, 12]]}, 'DOI': '10.2307/2271828', 'type': 'journal-article', 'created': {'date-parts': [[2006, 5, 6]], 'date-time': '2006-05-06T21:38:25Z', 'timestamp': 1146951505000}, 'page': '618-619', 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Karp\n                Richard M.. Reducibility among combinatorial problems. Complexity of computer computations, Proceedings of a Symposium on the Complexity of Computer Computations, held March 20-22, 1972, at the IBM Thomas J. Watson Center, Yorktown Heights, New York, edited by Miller\n                Raymond E. and Thatcher\n                James W., Plenum Press, New York and London \n            1972, pp. 85–103.'], 'prefix': '10.1017', 'volume': '40', 'author': [{'given': 'Ronald V.', 'family': 'Book', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'published-online': {'date-parts': [[2014, 3, 12]]}, 'container-title': ['The Journal of Symbolic Logic'], 'language': 'en', 'link': [{'URL': 'https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0022481200052531', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 4, 22]], 'date-time': '2017-04-22T07:21:17Z', 'timestamp': 1492845677000}, 'score': 59.815613, 'issued': {'date-parts': [[1975, 12]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1975, 12]]}, 'issue': '04'}, 'alternative-id': ['S0022481200052531'], 'URL': 'http://dx.doi.org/10.2307/2271828', 'ISSN': ['0022-4812', '1943-5886'], 'issn-type': [{'value': '0022-4812', 'type': 'print'}, {'value': '1943-5886', 'type': 'electronic'}]}
+>>> hash >>> ('Karp                Richard M.. Reducibility among combinatorial problems. Complexity of computer computations, Proceedings of a Symposium on the Complexity of Computer Computations, held March 20-22, 1972, at the IBM Thomas J. Watson Center, Yorktown Heights, New York, edited by Miller                Raymond E. and Thatcher                James W., Plenum Press, New York and London             1972, pp. 85–103.', 1975.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> GAVRIL, F Algorithms for mmunum coloring, maxunum chque, minimum covering by chques, and maxtmum independent set of a chordal graph SIAM J Comptng 1, 2 (1972), 180--187
+>>> DOI >>> 10.1137/0201013
+>>> URL >>> http://dx.doi.org/10.1137/0201013
+>>> year >>> 1972.0
+>>> title >>> Algorithms for Minimum Coloring, Maximum Clique, Minimum Covering by Cliques, and Maximum Independent Set of a Chordal Graph
+>>> author >>> F\u0103nic\u0103 Gavril
+>>> reference_count >>> 9.0
+>>> is_referenced_by_count >>> 242.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:29:35Z', 'timestamp': 1525444175332}, 'reference-count': 9, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[1972, 6]]}, 'DOI': '10.1137/0201013', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 24]], 'date-time': '2005-02-24T10:53:01Z', 'timestamp': 1109242381000}, 'page': '180-187', 'source': 'Crossref', 'is-referenced-by-count': 242, 'title': ['Algorithms for Minimum Coloring, Maximum Clique, Minimum Covering by Cliques, and Maximum Independent Set of a Chordal Graph'], 'prefix': '10.1137', 'volume': '1', 'author': [{'given': 'F\u0103nic\u0103', 'family': 'Gavril', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0201013', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T16:13:21Z', 'timestamp': 1485706401000}, 'score': 99.34361, 'issued': {'date-parts': [[1972, 6]]}, 'references-count': 9, 'journal-issue': {'published-print': {'date-parts': [[1972, 6]]}, 'issue': '2'}, 'alternative-id': ['10.1137/0201013'], 'URL': 'http://dx.doi.org/10.1137/0201013', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('Algorithms for Minimum Coloring, Maximum Clique, Minimum Covering by Cliques, and Maximum Independent Set of a Chordal Graph', 1972.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. E. Hopcroft , J. K. Wong, Linear time algorithm for isomorphism of planar graphs (Preliminary Report), Proceedings of the sixth annual ACM symposium on Theory of computing, p.172-184, April 30-May 02, 1974, Seattle, Washington, USA  [doi>10.1145/800119.803896]
+>>> DOI >>> 10.1145/800119.803896
+>>> URL >>> http://dx.doi.org/10.1145/800119.803896
+>>> year >>> 1974.0
+>>> title >>> Linear time algorithm for isomorphism of planar graphs (Preliminary Report)
+>>> author >>> J. E. Hopcroft and J. K. Wong
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 35.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the sixth annual ACM symposium on Theory of computing  - STOC '74"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:07Z', 'timestamp': 1525392367739}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1974]]}, 'DOI': '10.1145/800119.803896', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 35, 'title': ['Linear time algorithm for isomorphism of planar graphs (Preliminary Report)'], 'prefix': '10.1145', 'author': [{'given': 'J. E.', 'family': 'Hopcroft', 'sequence': 'first', 'affiliation': []}, {'given': 'J. K.', 'family': 'Wong', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the sixth annual ACM symposium', 'location': 'Seattle, Washington, United States', 'sponsor': ['SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '74", 'number': '6', 'start': {'date-parts': [[1974, 4, 30]]}, 'end': {'date-parts': [[1974, 5, 2]]}}, 'container-title': ["Proceedings of the sixth annual ACM symposium on Theory of computing  - STOC '74"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=803896&amp;ftid=53755&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T01:41:18Z', 'timestamp': 1481852478000}, 'score': 99.27636, 'issued': {'date-parts': [[1974]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/800119.803896'}
+>>> hash >>> ('Linear time algorithm for isomorphism of planar graphs (Preliminary Report)', 1974.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> ROSE, D J, TAR/AN, R E, AND LUEKER, G S Algorithmic aspects of vertex ellmmatton on graphs SIAM ~ Comptng 5, 2 (1976), 266-283
+>>> DOI >>> 10.1137/0205021
+>>> URL >>> http://dx.doi.org/10.1137/0205021
+>>> year >>> 1976.0
+>>> title >>> Algorithmic Aspects of Vertex Elimination on Graphs
+>>> author >>> Donald J. Rose and R. Endre Tarjan and George S. Lueker
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 480.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 11]], 'date-time': '2018-05-11T13:42:34Z', 'timestamp': 1526046154337}, 'reference-count': 21, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[1976, 6]]}, 'DOI': '10.1137/0205021', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 24]], 'date-time': '2005-02-24T10:57:56Z', 'timestamp': 1109242676000}, 'page': '266-283', 'source': 'Crossref', 'is-referenced-by-count': 480, 'title': ['Algorithmic Aspects of Vertex Elimination on Graphs'], 'prefix': '10.1137', 'volume': '5', 'author': [{'given': 'Donald J.', 'family': 'Rose', 'sequence': 'first', 'affiliation': []}, {'given': 'R. Endre', 'family': 'Tarjan', 'sequence': 'additional', 'affiliation': []}, {'given': 'George S.', 'family': 'Lueker', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0205021', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T17:15:04Z', 'timestamp': 1485710104000}, 'score': 73.23941, 'issued': {'date-parts': [[1976, 6]]}, 'references-count': 21, 'journal-issue': {'published-print': {'date-parts': [[1976, 6]]}, 'issue': '2'}, 'alternative-id': ['10.1137/0205021'], 'URL': 'http://dx.doi.org/10.1137/0205021', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('Algorithmic Aspects of Vertex Elimination on Graphs', 1976.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> ROBERTS, F.S. Dzscrete Mathematwal Models, wuh Apphcatzons to Soctal, Bzologtcal and Envwonmental Problems Prentice-Hall, Englewood Chffs, N J, 1976
+>>> DOI >>> 10.1093/sf/55.1.212
+>>> URL >>> http://dx.doi.org/10.1093/sf/55.1.212
+>>> year >>> 1976.0
+>>> title >>> BEHAVIOR, SOCIAL PROBLEMS, AND CHANGE. By John H. Kunkel. Englewood Cliffs: Prentice Hall, 1975. 213 pp. $9.95
+>>> author >>> J. W. Michaels
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Social Forces']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T13:21:25Z', 'timestamp': 1525440085974}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Social Forces'], 'published-print': {'date-parts': [[1976, 9, 1]]}, 'DOI': '10.1093/sf/55.1.212', 'type': 'journal-article', 'created': {'date-parts': [[2011, 9, 18]], 'date-time': '2011-09-18T13:31:18Z', 'timestamp': 1316352678000}, 'page': '212-213', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['BEHAVIOR, SOCIAL PROBLEMS, AND CHANGE. By John H. Kunkel. Englewood Cliffs: Prentice Hall, 1975. 213 pp. $9.95'], 'prefix': '10.1093', 'volume': '55', 'author': [{'given': 'J. W.', 'family': 'Michaels', 'sequence': 'first', 'affiliation': []}], 'member': '286', 'container-title': ['Social Forces'], 'language': 'en', 'link': [{'URL': 'http://academic.oup.com/sf/article-pdf/55/1/212/7006209/55-1-212.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 24]], 'date-time': '2017-08-24T09:20:45Z', 'timestamp': 1503566445000}, 'score': 34.346375, 'issued': {'date-parts': [[1976, 9, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1976, 9, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1093/sf/55.1.212', 'ISSN': ['0037-7732', '1534-7605'], 'issn-type': [{'value': '0037-7732', 'type': 'print'}, {'value': '1534-7605', 'type': 'electronic'}]}
+>>> hash >>> ('BEHAVIOR, SOCIAL PROBLEMS, AND CHANGE. By John H. Kunkel. Englewood Cliffs: Prentice Hall, 1975. 213 pp. $9.95', 1976.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> HOPCROFT, J.E., AND TARJAN, R E. Isomorphism of planar graphs In Complexity of Computer Computatwns, R E. Miller and J W Thatcher, Eds, Plenum Press, New York, 1972, pp 131-152
+>>> DOI >>> 10.1007/978-1-4684-2001-2_13
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4684-2001-2_13
+>>> year >>> 1972.0
+>>> title >>> Isomorphism of Planar Graphs (Working Paper)
+>>> author >>> J. E. Hopcroft and R. E. Tarjan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 29.0
+>>> subject >>> None
+>>> container_title >>> ['Complexity of Computer Computations']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T07:32:31Z', 'timestamp': 1525505551302}, 'publisher-location': 'Boston, MA', 'reference-count': 0, 'publisher': 'Springer US', 'isbn-type': [{'value': '9781468420036', 'type': 'print'}, {'value': '9781468420012', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1972]]}, 'DOI': '10.1007/978-1-4684-2001-2_13', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 4, 8]], 'date-time': '2012-04-08T04:48:06Z', 'timestamp': 1333860486000}, 'page': '131-152', 'source': 'Crossref', 'is-referenced-by-count': 29, 'title': ['Isomorphism of Planar Graphs (Working Paper)'], 'prefix': '10.1007', 'author': [{'given': 'J. E.', 'family': 'Hopcroft', 'sequence': 'first', 'affiliation': []}, {'given': 'R. E.', 'family': 'Tarjan', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Complexity of Computer Computations'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-1-4684-2001-2_13', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 10]], 'date-time': '2014-01-10T17:40:13Z', 'timestamp': 1389375613000}, 'score': 81.84015, 'issued': {'date-parts': [[1972]]}, 'ISBN': ['9781468420036', '9781468420012'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4684-2001-2_13'}
+>>> hash >>> ('Isomorphism of Planar Graphs (Working Paper)', 1972.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> HAJ6S, G Uber eme Art von Graphen Int. Math Nachnchten 11 (1957), 65
+>>> DOI >>> 10.1007/978-3-322-92380-6_4
+>>> URL >>> http://dx.doi.org/10.1007/978-3-322-92380-6_4
+>>> year >>> 2005.0
+>>> title >>> Mehr über Grade von Ecken
+>>> author >>> Manfred Nitzsche
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Graphen für Einsteiger']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T09:45:47Z', 'timestamp': 1525513547080}, 'publisher-location': 'Wiesbaden', 'reference-count': 0, 'publisher': 'Vieweg+Teubner Verlag', 'isbn-type': [{'value': '9783834800565', 'type': 'print'}, {'value': '9783322923806', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1007/978-3-322-92380-6_4', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 5, 12]], 'date-time': '2012-05-12T07:03:56Z', 'timestamp': 1336806236000}, 'page': '65-71', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Mehr über Grade von Ecken'], 'prefix': '10.1007', 'author': [{'given': 'Manfred', 'family': 'Nitzsche', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Graphen für Einsteiger'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-322-92380-6_4', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 15]], 'date-time': '2014-01-15T15:18:38Z', 'timestamp': 1389799118000}, 'score': 34.38358, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['9783834800565', '9783322923806'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-322-92380-6_4'}
+>>> hash >>> ('Mehr über Grade von Ecken', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> LEMPEL, A, EVEN S, AND CEDERBAUM, I An algorithm for plananty testmg of graphs Proc Int Symp Theory of Graphs, Rome, July 1966, P Rosenstlehl, Ed., Gordon and Breach, New York, 1967, pp 215-232
+>>> DOI >>> 10.1016/s0021-9800(67)80069-3
+>>> URL >>> http://dx.doi.org/10.1016/s0021-9800(67)80069-3
+>>> year >>> 1967.0
+>>> title >>> Regular line-symmetric graphs
+>>> author >>> Jon Folkman
+>>> reference_count >>> 3.0
+>>> is_referenced_by_count >>> 57.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Combinatorial Theory']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T02:28:53Z', 'timestamp': 1525400933577}, 'reference-count': 3, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1967, 10, 1]], 'date-time': '1967-10-01T00:00:00Z', 'timestamp': -71107200000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 29]], 'date-time': '2013-07-29T00:00:00Z', 'timestamp': 1375056000000}, 'delay-in-days': 16738, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Combinatorial Theory'], 'published-print': {'date-parts': [[1967, 10]]}, 'DOI': '10.1016/s0021-9800(67)80069-3', 'type': 'journal-article', 'created': {'date-parts': [[2007, 12, 1]], 'date-time': '2007-12-01T08:03:34Z', 'timestamp': 1196496214000}, 'page': '215-232', 'source': 'Crossref', 'is-referenced-by-count': 57, 'title': ['Regular line-symmetric graphs'], 'prefix': '10.1016', 'volume': '3', 'author': [{'given': 'Jon', 'family': 'Folkman', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Combinatorial Theory'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0021980067800693?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0021980067800693?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2015, 3, 17]], 'date-time': '2015-03-17T00:12:50Z', 'timestamp': 1426551170000}, 'score': 42.499702, 'issued': {'date-parts': [[1967, 10]]}, 'references-count': 3, 'journal-issue': {'published-print': {'date-parts': [[1967, 10]]}, 'issue': '3'}, 'alternative-id': ['S0021980067800693'], 'URL': 'http://dx.doi.org/10.1016/s0021-9800(67)80069-3', 'ISSN': ['0021-9800'], 'issn-type': [{'value': '0021-9800', 'type': 'print'}]}
+>>> hash >>> ('Regular line-symmetric graphs', 1967.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> HIRSCHBERG, D, AND EDELBERG, M On the complextty of computing graph ~somorph~sm Tech Rep TR- 130, Comptr. Sci. Lab, Dept EE, Prmceton U, Princeton, N J, Aug 1973
+>>> DOI >>> 10.23956/ijarcsse/sv7i5/0244
+>>> URL >>> http://dx.doi.org/10.23956/ijarcsse/sv7i5/0244
+>>> year >>> 2017.0
+>>> title >>> Design and Construction of a Global System for Mobile Communication (GSM) Based Control System for Electrical Appliances
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Advanced Research in Computer Science and Software Engineering']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T20:06:23Z', 'timestamp': 1525723583953}, 'reference-count': 0, 'publisher': 'Advance Academic Publisher', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IJARCSSE'], 'published-print': {'date-parts': [[2017, 5, 30]]}, 'DOI': '10.23956/ijarcsse/sv7i5/0244', 'type': 'journal-article', 'created': {'date-parts': [[2017, 8, 5]], 'date-time': '2017-08-05T11:42:38Z', 'timestamp': 1501933358000}, 'page': '277-281', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Design and Construction of a Global System for Mobile Communication (GSM) Based Control System for Electrical Appliances'], 'prefix': '10.23956', 'volume': '7', 'author': [{'given': 'Iyapo Kamoru', 'family': 'Olarewaju', 'sequence': 'first', 'affiliation': []}, {'name': 'Dept of Sci. Lab., Tech., RUGIPO Nigeria', 'sequence': 'first', 'affiliation': []}, {'given': 'Oseni Kazeem', 'family': 'John', 'sequence': 'additional', 'affiliation': []}, {'given': 'Odo Ekundare', 'family': 'Ayodele', 'sequence': 'additional', 'affiliation': []}, {'given': 'Fasunla Olukayode', 'family': 'Michael', 'sequence': 'additional', 'affiliation': []}, {'given': 'Raimi Oluwole', 'family': 'Abiodun', 'sequence': 'additional', 'affiliation': []}, {'name': 'Dept of Sci. Lab., Tech., MAP Nigeria', 'sequence': 'additional', 'affiliation': []}, {'name': 'Dept of Physics, FUOYE Nigeria', 'sequence': 'additional', 'affiliation': []}, {'name': 'Dept of Sci. Lab., Tech., RUGIPO Nigeria', 'sequence': 'additional', 'affiliation': []}, {'name': 'Dept of Mech. Engr’g, FUTA Nigeria', 'sequence': 'additional', 'affiliation': []}], 'member': '10044', 'published-online': {'date-parts': [[2017, 5, 30]]}, 'container-title': ['International Journal of Advanced Research in Computer Science and Software Engineering'], 'deposited': {'date-parts': [[2017, 8, 5]], 'date-time': '2017-08-05T11:43:23Z', 'timestamp': 1501933403000}, 'score': 29.288548, 'issued': {'date-parts': [[2017, 5, 30]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2017, 5, 30]]}, 'published-print': {'date-parts': [[2017, 5, 30]]}, 'issue': '5'}, 'URL': 'http://dx.doi.org/10.23956/ijarcsse/sv7i5/0244', 'ISSN': ['2277-6451', '2277-128X'], 'issn-type': [{'value': '2277-6451', 'type': 'print'}, {'value': '2277-128X', 'type': 'electronic'}]}
+>>> hash >>> ('Design and Construction of a Global System for Mobile Communication (GSM) Based Control System for Electrical Appliances', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> YOUNG, S.M. Implementatton of PQ-tree algorithms Masters Th., Dept Comptr Sci, U. of Washington, Seattle, Wash, 1977
+>>> DOI >>> 10.2514/3.44037
+>>> URL >>> http://dx.doi.org/10.2514/3.44037
+>>> year >>> 1969.0
+>>> title >>> Wall interference effects in wind-tunnel testing of STOL aircraft.
+>>> author >>> None
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Aircraft']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T10:44:12Z', 'timestamp': 1525430652133}, 'reference-count': 13, 'publisher': 'American Institute of Aeronautics and Astronautics (AIAA)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Aircraft'], 'published-print': {'date-parts': [[1969, 5]]}, 'DOI': '10.2514/3.44037', 'type': 'journal-article', 'created': {'date-parts': [[2008, 6, 5]], 'date-time': '2008-06-05T18:26:32Z', 'timestamp': 1212690392000}, 'page': '209-214', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Wall interference effects in wind-tunnel testing of STOL aircraft.'], 'prefix': '10.2514', 'volume': '6', 'author': [{'name': 'JOPPA, R. G. (WASHINGTON, U., DEPT. OF AERONAUTICS AND ASTRONAUTICS,SEATTLE, WASH..)', 'sequence': 'first', 'affiliation': []}], 'member': '1387', 'reference': [{'key': 'p_27', 'DOI': '10.4050/JAHS.6.1', 'doi-asserted-by': 'publisher'}, {'key': 'p_28', 'author': 'Heyson H. H.', 'year': '1960', 'volume-title': 'TR R-71'}, {'key': 'p_29', 'author': 'Heyson H. H.', 'year': '1962', 'volume-title': "Linearized Theory of Wind Tunnel Jet Boundary Corrections and Ground Effect for VTOL-STOL Models/' TR R-124"}, {'key': 'p_30', 'author': 'Grunwald K. J.', 'year': '1965', 'volume-title': 'TN D-2887'}, {'key': 'p_31', 'unstructured': 'Heyson, H. H. and Grunwald, K. J. "Wind Tunnel Boundary Interference for V/STOL Testing," Conference on V/STOL and STOL Aircraft, NASA SP-116, 1966, pp.409-434.'}, {'key': 'p_32', 'unstructured': 'Staff of Powered-Lift Aerodynamics Section,NASA Langley Research Center, "Wall Effects and Scale Effects in V/STOL Model Testing," AIAA Aerodynamic Testing Conference, AIAA, New York, March 1964, pp.8-16.'}, {'key': 'p_33', 'DOI': '10.1111/j.1749-6632.1968.tb15245.x', 'doi-asserted-by': 'publisher'}, {'key': 'p_34', 'DOI': '10.2514/3.43828', 'doi-asserted-by': 'publisher'}, {'key': 'p_35', 'author': 'Spreiter J. R.', 'volume': '18', 'issue': '1', 'year': '1951', 'journal-title': 'Journal of the Aeronautical Sciences'}, {'key': 'p_36', 'DOI': '10.1007/BF02079924', 'doi-asserted-by': 'publisher'}, {'key': 'p_37', 'author': 'Westwater F. L.', 'year': '1935', 'volume-title': 'R and M 1692'}, {'key': 'p_38', 'author': 'Heyson H. H.', 'year': '1957', 'volume-title': 'Rept. 1319'}, {'key': 'p_39', 'author': 'Joppa R. G.', 'year': '1967', 'volume-title': 'CR-845'}], 'container-title': ['Journal of Aircraft'], 'language': 'en', 'deposited': {'date-parts': [[2012, 9, 14]], 'date-time': '2012-09-14T01:36:13Z', 'timestamp': 1347586573000}, 'score': 31.778116, 'issued': {'date-parts': [[1969, 5]]}, 'references-count': 13, 'journal-issue': {'published-print': {'date-parts': [[1969, 5]]}, 'issue': '3'}, 'alternative-id': ['10.2514/3.44037'], 'URL': 'http://dx.doi.org/10.2514/3.44037', 'relation': {'cites': []}, 'ISSN': ['0021-8669', '1533-3868'], 'issn-type': [{'value': '0021-8669', 'type': 'print'}, {'value': '1533-3868', 'type': 'electronic'}]}
+>>> hash >>> ('Wall interference effects in wind-tunnel testing of STOL aircraft.', 1969.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kellogg Speed Booth, Pq-tree algorithms., University of California, Berkeley, 1975
+>>> DOI >>> 10.23846/srs003
+>>> URL >>> http://dx.doi.org/10.23846/srs003
+>>> year >>> 2016.0
+>>> title >>> Identification and measurement of health-related spillovers in impact evaluations
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'International Initiative for Impact Evaluation (3ie)', 'place': ['US'], 'acronym': ['3ie']}, 'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T07:53:39Z', 'timestamp': 1525852419839}, 'reference-count': 0, 'publisher': 'International Initiative for Impact Evaluation (3ie)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2016, 7]]}, 'DOI': '10.23846/srs003', 'type': 'report', 'created': {'date-parts': [[2017, 1, 12]], 'date-time': '2017-01-12T08:22:20Z', 'timestamp': 1484209340000}, 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Identification and measurement of health-related spillovers in impact evaluations'], 'prefix': '10.23846', 'author': [{'given': 'Jade', 'family': 'Benjamin-Chung', 'sequence': 'first', 'affiliation': []}, {'name': 'University of California, Berkeley', 'sequence': 'first', 'affiliation': []}, {'given': 'Diana', 'family': 'Tran', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jaynal', 'family': 'Abedin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Benjamin', 'family': 'F. Arnold', 'sequence': 'additional', 'affiliation': []}, {'given': 'David', 'family': 'Berger', 'sequence': 'additional', 'affiliation': []}, {'given': 'Alan', 'family': 'Hubbard', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ashley', 'family': 'Clark', 'sequence': 'additional', 'affiliation': []}, {'given': 'Stephen', 'family': 'P. Luby', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lauren', 'family': 'Falcao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Edward', 'family': 'Miguel', 'sequence': 'additional', 'affiliation': []}, {'given': 'Veronica', 'family': ' Jimenez', 'sequence': 'additional', 'affiliation': []}, {'given': 'John', 'family': 'M. Colford', 'sequence': 'additional', 'affiliation': []}, {'given': 'Eugene', 'family': 'Konagaya', 'sequence': 'additional', 'affiliation': []}, {'name': 'University of California, Berkeley ', 'sequence': 'additional', 'affiliation': []}, {'name': 'International Centre for Diarrhoeal Disease Research, Bangladesh ', 'sequence': 'additional', 'affiliation': []}, {'name': 'University of California, Berkeley ', 'sequence': 'additional', 'affiliation': []}, {'name': 'University of California, Berkeley ', 'sequence': 'additional', 'affiliation': []}, {'name': 'University of California, Berkeley ', 'sequence': 'additional', 'affiliation': []}, {'name': 'University of California, Berkeley ', 'sequence': 'additional', 'affiliation': []}, {'name': 'Stanford University', 'sequence': 'additional', 'affiliation': []}, {'name': 'University of California, Berkeley ', 'sequence': 'additional', 'affiliation': []}, {'name': 'University of California, Berkeley ', 'sequence': 'additional', 'affiliation': []}, {'name': 'University of California, Berkeley ', 'sequence': 'additional', 'affiliation': []}, {'name': 'University of California, Berkeley ', 'sequence': 'additional', 'affiliation': []}, {'name': 'University of California, Berkeley ', 'sequence': 'additional', 'affiliation': []}], 'member': '9933', 'published-online': {'date-parts': [[2016, 7]]}, 'original-title': ['Identification and measurement of health-related spillovers in impact evaluations'], 'deposited': {'date-parts': [[2017, 1, 12]], 'date-time': '2017-01-12T08:22:20Z', 'timestamp': 1484209340000}, 'score': 33.280884, 'issued': {'date-parts': [[2016, 7]]}, 'references-count': 0, 'alternative-id': ['Systematic Review Summary 3'], 'URL': 'http://dx.doi.org/10.23846/srs003'}
+>>> hash >>> ('Identification and measurement of health-related spillovers in impact evaluations', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> BOOTH, K S, AND LUEKER, G S Testmg for the consecutive ones property, interval graphs, and graph plananty using PQ-tree algonthms J Comptr Syst Scz 13, 3 (1976), 335-379
+>>> DOI >>> 10.1016/s0022-0000(76)80045-1
+>>> URL >>> http://dx.doi.org/10.1016/s0022-0000(76)80045-1
+>>> year >>> 1976.0
+>>> title >>> Testing for the consecutive ones property, interval graphs, and graph planarity using PQ-tree algorithms
+>>> author >>> Kellogg S. Booth and George S. Lueker
+>>> reference_count >>> 31.0
+>>> is_referenced_by_count >>> 585.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Computer and System Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T15:22:32Z', 'timestamp': 1528384952200}, 'reference-count': 31, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1976, 12, 1]], 'date-time': '1976-12-01T00:00:00Z', 'timestamp': 218246400000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 13377, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Computer and System Sciences'], 'published-print': {'date-parts': [[1976, 12]]}, 'DOI': '10.1016/s0022-0000(76)80045-1', 'type': 'journal-article', 'created': {'date-parts': [[2010, 10, 15]], 'date-time': '2010-10-15T12:34:41Z', 'timestamp': 1287146081000}, 'page': '335-379', 'source': 'Crossref', 'is-referenced-by-count': 585, 'title': ['Testing for the consecutive ones property, interval graphs, and graph planarity using PQ-tree algorithms'], 'prefix': '10.1016', 'volume': '13', 'author': [{'given': 'Kellogg S.', 'family': 'Booth', 'sequence': 'first', 'affiliation': []}, {'given': 'George S.', 'family': 'Lueker', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Computer and System Sciences'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0022000076800451?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0022000076800451?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T15:08:18Z', 'timestamp': 1497884898000}, 'score': 80.02757, 'issued': {'date-parts': [[1976, 12]]}, 'references-count': 31, 'journal-issue': {'published-print': {'date-parts': [[1976, 12]]}, 'issue': '3'}, 'alternative-id': ['S0022000076800451'], 'URL': 'http://dx.doi.org/10.1016/s0022-0000(76)80045-1', 'ISSN': ['0022-0000'], 'issn-type': [{'value': '0022-0000', 'type': 'print'}]}
+>>> hash >>> ('Testing for the consecutive ones property, interval graphs, and graph planarity using PQ-tree algorithms', 1976.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> FULKERSON, D R, AND GROSS, O A Incidence matrices and interval graphs Pactfic J Math 15, 3 (1965), 835-855
+>>> DOI >>> 10.2140/pjm.1965.15.835
+>>> URL >>> http://dx.doi.org/10.2140/pjm.1965.15.835
+>>> year >>> 1965.0
+>>> title >>> Incidence matrices and interval graphs
+>>> author >>> Delbert Fulkerson and Oliver Gross
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 512.0
+>>> subject >>> None
+>>> container_title >>> ['Pacific Journal of Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database147.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T15:22:32Z', 'timestamp': 1528384952353}, 'reference-count': 0, 'publisher': 'Mathematical Sciences Publishers', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pacific J. Math.'], 'published-print': {'date-parts': [[1965, 9, 1]]}, 'DOI': '10.2140/pjm.1965.15.835', 'type': 'journal-article', 'created': {'date-parts': [[2012, 11, 30]], 'date-time': '2012-11-30T22:05:53Z', 'timestamp': 1354313153000}, 'page': '835-855', 'source': 'Crossref', 'is-referenced-by-count': 512, 'title': ['Incidence matrices and interval graphs'], 'prefix': '10.2140', 'volume': '15', 'author': [{'given': 'Delbert', 'family': 'Fulkerson', 'sequence': 'first', 'affiliation': []}, {'given': 'Oliver', 'family': 'Gross', 'sequence': 'additional', 'affiliation': []}], 'member': '910', 'container-title': ['Pacific Journal of Mathematics'], 'language': 'en', 'link': [{'URL': 'http://msp.org/pjm/1965/15-3/pjm-v15-n3-p11-s.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 11]], 'date-time': '2017-03-11T19:09:26Z', 'timestamp': 1489259366000}, 'score': 83.446465, 'issued': {'date-parts': [[1965, 9, 1]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[1965]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.2140/pjm.1965.15.835', 'ISSN': ['0030-8730', '0030-8730'], 'issn-type': [{'value': '0030-8730', 'type': 'print'}, {'value': '0030-8730', 'type': 'electronic'}]}
+>>> hash >>> ('Incidence matrices and interval graphs', 1965.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

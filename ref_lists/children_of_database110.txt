@@ -1,0 +1,193 @@
+>>> NEW PAPER <<<
+>>> citation >>> Gentner, D., Falkenhainer, B. and Forbus, K. (1986) The structure mapping engine, Proceedings of AAAl-86.,
+>>> DOI >>> 10.1016/0004-3702(89)90077-5
+>>> URL >>> http://dx.doi.org/10.1016/0004-3702(89)90077-5
+>>> year >>> 1989.0
+>>> title >>> The structure-mapping engine: Algorithm and examples
+>>> author >>> Brian Falkenhainer and Kenneth D. Forbus and Dedre Gentner
+>>> reference_count >>> 84.0
+>>> is_referenced_by_count >>> 402.0
+>>> subject >>> None
+>>> container_title >>> ['Artificial Intelligence']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database110.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T02:22:29Z', 'timestamp': 1526955749206}, 'reference-count': 84, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1989, 11, 1]], 'date-time': '1989-11-01T00:00:00Z', 'timestamp': 625881600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Artificial Intelligence'], 'published-print': {'date-parts': [[1989, 11]]}, 'DOI': '10.1016/0004-3702(89)90077-5', 'type': 'journal-article', 'created': {'date-parts': [[2003, 3, 14]], 'date-time': '2003-03-14T13:02:52Z', 'timestamp': 1047646972000}, 'page': '1-63', 'source': 'Crossref', 'is-referenced-by-count': 402, 'title': ['The structure-mapping engine: Algorithm and examples'], 'prefix': '10.1016', 'volume': '41', 'author': [{'given': 'Brian', 'family': 'Falkenhainer', 'sequence': 'first', 'affiliation': []}, {'given': 'Kenneth D.', 'family': 'Forbus', 'sequence': 'additional', 'affiliation': []}, {'given': 'Dedre', 'family': 'Gentner', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0004370289900775?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0004370289900775?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2018, 2, 6]], 'date-time': '2018-02-06T01:24:32Z', 'timestamp': 1517880272000}, 'score': 60.36491, 'issued': {'date-parts': [[1989, 11]]}, 'references-count': 84, 'journal-issue': {'published-print': {'date-parts': [[1989, 11]]}, 'issue': '1'}, 'alternative-id': ['0004370289900775'], 'URL': 'http://dx.doi.org/10.1016/0004-3702(89)90077-5', 'ISSN': ['0004-3702'], 'issn-type': [{'value': '0004-3702', 'type': 'print'}]}
+>>> hash >>> ('The structure-mapping engine: Algorithm and examples', 1989.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sowa, J. F. (1991) Toward the expressive power of natural language. In Sowa, J. (ed.) Principles of Semantic Networks: Explorations in the Representation of Knowledge, (San Mateo, Morgan Kaufmann), 157 â€“ 189 .
+>>> DOI >>> 10.1016/b978-1-4832-0771-1.50011-4
+>>> URL >>> http://dx.doi.org/10.1016/b978-1-4832-0771-1.50011-4
+>>> year >>> 1991.0
+>>> title >>> TOWARD THE EXPRESSIVE POWER OF NATURAL LANGUAGE
+>>> author >>> John F. Sowa
+>>> reference_count >>> 23.0
+>>> is_referenced_by_count >>> 10.0
+>>> subject >>> None
+>>> container_title >>> ['Principles of Semantic Networks']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database110.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T10:30:29Z', 'timestamp': 1525861829989}, 'reference-count': 23, 'publisher': 'Elsevier', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1991, 1, 1]], 'date-time': '1991-01-01T00:00:00Z', 'timestamp': 662688000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1991]]}, 'DOI': '10.1016/b978-1-4832-0771-1.50011-4', 'type': 'book-chapter', 'created': {'date-parts': [[2015, 4, 11]], 'date-time': '2015-04-11T01:31:55Z', 'timestamp': 1428715915000}, 'page': '157-189', 'source': 'Crossref', 'is-referenced-by-count': 10, 'title': ['TOWARD THE EXPRESSIVE POWER OF NATURAL LANGUAGE'], 'prefix': '10.1016', 'author': [{'given': 'John F.', 'family': 'Sowa', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Principles of Semantic Networks'], 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:B9781483207711500114?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:B9781483207711500114?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 23]], 'date-time': '2017-06-23T09:09:31Z', 'timestamp': 1498208971000}, 'score': 101.624725, 'issued': {'date-parts': [[1991]]}, 'ISBN': ['9781483207711'], 'references-count': 23, 'URL': 'http://dx.doi.org/10.1016/b978-1-4832-0771-1.50011-4'}
+>>> hash >>> ('TOWARD THE EXPRESSIVE POWER OF NATURAL LANGUAGE', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Myaeng, S. H. (1992) Conceptual graphs as a framework for text retrieval. In Eklund, P., Nagle, T. & Gerholtz, L. (eds) Current Direction.' in Conceptual Structures Research, (Ellis Horwood) (in press).
+>>> DOI >>> 10.1007/3-540-58328-9_5
+>>> URL >>> http://dx.doi.org/10.1007/3-540-58328-9_5
+>>> year >>> 1994.0
+>>> title >>> Linguistic processing of text for a large-scale conceptual Information Retrieval system
+>>> author >>> Sung H. Myaeng and Christopher Khoo and Ming Li
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['Conceptual Structures: Current Practices', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database110.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T04:01:36Z', 'timestamp': 1525492896033}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540583288', 'type': 'print'}, {'value': '9783540386759', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1994]]}, 'DOI': '10.1007/3-540-58328-9_5', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 2, 26]], 'date-time': '2012-02-26T15:46:40Z', 'timestamp': 1330271200000}, 'page': '69-83', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Linguistic processing of text for a large-scale conceptual Information Retrieval system'], 'prefix': '10.1007', 'author': [{'given': 'Sung H.', 'family': 'Myaeng', 'sequence': 'first', 'affiliation': []}, {'given': 'Christopher', 'family': 'Khoo', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ming', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2005, 5, 29]]}, 'container-title': ['Conceptual Structures: Current Practices', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/3-540-58328-9_5', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T23:22:06Z', 'timestamp': 1389050526000}, 'score': 52.283463, 'issued': {'date-parts': [[1994]]}, 'ISBN': ['9783540583288', '9783540386759'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-58328-9_5', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Linguistic processing of text for a large-scale conceptual Information Retrieval system', 1994.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Myaeng . S. H. (1990) Conceptual graph matching as a plausible inferencing technique for text retrieval, Proceedings of the 5th Conceptual Structures Workshop, held in conjunction with AAAI-90, Boston, MA .
+>>> DOI >>> 10.1007/3-540-58328-9_5
+>>> URL >>> http://dx.doi.org/10.1007/3-540-58328-9_5
+>>> year >>> 1994.0
+>>> title >>> Linguistic processing of text for a large-scale conceptual Information Retrieval system
+>>> author >>> Sung H. Myaeng and Christopher Khoo and Ming Li
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['Conceptual Structures: Current Practices', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database110.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T04:01:36Z', 'timestamp': 1525492896033}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540583288', 'type': 'print'}, {'value': '9783540386759', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1994]]}, 'DOI': '10.1007/3-540-58328-9_5', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 2, 26]], 'date-time': '2012-02-26T15:46:40Z', 'timestamp': 1330271200000}, 'page': '69-83', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Linguistic processing of text for a large-scale conceptual Information Retrieval system'], 'prefix': '10.1007', 'author': [{'given': 'Sung H.', 'family': 'Myaeng', 'sequence': 'first', 'affiliation': []}, {'given': 'Christopher', 'family': 'Khoo', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ming', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2005, 5, 29]]}, 'container-title': ['Conceptual Structures: Current Practices', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/3-540-58328-9_5', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T23:22:06Z', 'timestamp': 1389050526000}, 'score': 47.973213, 'issued': {'date-parts': [[1994]]}, 'ISBN': ['9783540583288', '9783540386759'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-58328-9_5', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Linguistic processing of text for a large-scale conceptual Information Retrieval system', 1994.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Nagle, T. E., Esch, J. W. and Mineau, G. (1990) A notation for conceptual structure graph matchers, Proceedings of the 5th Conceptual Structures Workshop, held in conjunction with AAAI-9O, Boston, MA .
+>>> DOI >>> 10.1007/10722280_11
+>>> URL >>> http://dx.doi.org/10.1007/10722280_11
+>>> year >>> 2000.0
+>>> title >>> Conceptual Graphs, Metamodeling, and Notation of Concepts
+>>> author >>> Olivier Gerbé and Guy W. Mineau and Rudolf K. Keller
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Conceptual Structures: Logical, Linguistic, and Computational Issues']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database110.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T09:07:29Z', 'timestamp': 1525338449055}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540678595', 'type': 'print'}, {'value': '9783540446637', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2000]]}, 'DOI': '10.1007/10722280_11', 'type': 'book-chapter', 'created': {'date-parts': [[2006, 12, 30]], 'date-time': '2006-12-30T02:49:25Z', 'timestamp': 1167446965000}, 'page': '157-171', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Conceptual Graphs, Metamodeling, and Notation of Concepts'], 'prefix': '10.1007', 'author': [{'given': 'Olivier', 'family': 'Gerbé', 'sequence': 'first', 'affiliation': []}, {'given': 'Guy W.', 'family': 'Mineau', 'sequence': 'additional', 'affiliation': []}, {'given': 'Rudolf K.', 'family': 'Keller', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Lecture Notes in Computer Science', 'Conceptual Structures: Logical, Linguistic, and Computational Issues'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/10722280_11', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 25]], 'date-time': '2014-08-25T17:06:06Z', 'timestamp': 1408986366000}, 'score': 42.786568, 'issued': {'date-parts': [[2000]]}, 'ISBN': ['9783540678595', '9783540446637'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/10722280_11', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Conceptual Graphs, Metamodeling, and Notation of Concepts', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ballard, D. H. and Brown, C. M. (1982) Computer Vision, (Prentice Hall).
+>>> DOI >>> 10.1207/s15328023top1003_30
+>>> URL >>> http://dx.doi.org/10.1207/s15328023top1003_30
+>>> year >>> 1983.0
+>>> title >>> Tonto's FriendTonto's FriendSilvermanR. E.Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 573 + xxi pp.Tonto's FriendDavisS. F.Instructor's manual: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 168 pp.Tonto's FriendSilvermanR. E.Test item file: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 169 pp. (File includes 972 questions.)Tonto's FriendWinsten-VelenL.Study guide and workbook: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 315 pp.
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Teaching of Psychology']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database110.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:12:39Z', 'timestamp': 1525482759711}, 'reference-count': 0, 'publisher': 'SAGE Publications', 'issue': '3', 'license': [{'URL': 'http://journals.sagepub.com/page/policies/text-and-data-mining-license', 'start': {'date-parts': [[1983, 10, 1]], 'date-time': '1983-10-01T00:00:00Z', 'timestamp': 433814400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Teaching of Psychology'], 'published-print': {'date-parts': [[1983, 10]]}, 'DOI': '10.1207/s15328023top1003_30', 'type': 'journal-article', 'created': {'date-parts': [[2005, 12, 22]], 'date-time': '2005-12-22T16:56:47Z', 'timestamp': 1135270607000}, 'page': '189-190', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ["Tonto's FriendTonto's FriendSilvermanR. E.Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 573 + xxi pp.Tonto's FriendDavisS. F.Instructor's manual: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 168 pp.Tonto's FriendSilvermanR. E.Test item file: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 169 pp. (File includes 972 questions.)Tonto's FriendWinsten-VelenL.Study guide and workbook: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 315 pp."], 'prefix': '10.1177', 'volume': '10', 'member': '179', 'published-online': {'date-parts': [[2016, 8, 26]]}, 'container-title': ['Teaching of Psychology'], 'language': 'en', 'link': [{'URL': 'http://journals.sagepub.com/doi/pdf/10.1207/s15328023top1003_30', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://journals.sagepub.com/doi/pdf/10.1207/s15328023top1003_30', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 1, 21]], 'date-time': '2018-01-21T16:13:39Z', 'timestamp': 1516551219000}, 'score': 26.652016, 'issued': {'date-parts': [[1983, 10]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2016, 8, 26]]}, 'published-print': {'date-parts': [[1983, 10]]}, 'issue': '3'}, 'alternative-id': ['10.1207/s15328023top1003_30'], 'URL': 'http://dx.doi.org/10.1207/s15328023top1003_30', 'ISSN': ['0098-6283', '1532-8023'], 'issn-type': [{'value': '0098-6283', 'type': 'print'}, {'value': '1532-8023', 'type': 'electronic'}]}
+>>> hash >>> ("Tonto's FriendTonto's FriendSilvermanR. E.Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 573 + xxi pp.Tonto's FriendDavisS. F.Instructor's manual: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 168 pp.Tonto's FriendSilvermanR. E.Test item file: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 169 pp. (File includes 972 questions.)Tonto's FriendWinsten-VelenL.Study guide and workbook: Psychology (4th Ed.). Englewood Cliffs, NJ: Prentice-Hall, 1982, 315 pp.", 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sowa, J. F. (1984) Conceptual Structures: Information Processing in Mind and Machine, (Reading, MA : Addison Wesley).
+>>> DOI >>> 10.1080/01449298408901755
+>>> URL >>> http://dx.doi.org/10.1080/01449298408901755
+>>> year >>> 1984.0
+>>> title >>> An approach to IKBS development based on a review of Conceptual Structures: Information Processing in Mind and Machine by J. F. Sowa
+>>> author >>> Dan Diaper
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Behaviour & Information Technology']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database110.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T18:29:47Z', 'timestamp': 1525372187940}, 'reference-count': 16, 'publisher': 'Informa UK Limited', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Behaviour & Information Technology'], 'published-print': {'date-parts': [[1984, 7]]}, 'DOI': '10.1080/01449298408901755', 'type': 'journal-article', 'created': {'date-parts': [[2007, 6, 25]], 'date-time': '2007-06-25T07:32:05Z', 'timestamp': 1182756725000}, 'page': '249-255', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['An approach to IKBS development based on a review of Conceptual Structures: Information Processing in Mind and Machine by J. F. Sowa'], 'prefix': '10.1080', 'volume': '3', 'author': [{'given': 'Dan', 'family': 'Diaper', 'sequence': 'first', 'affiliation': []}], 'member': '301', 'published-online': {'date-parts': [[2011, 2, 16]]}, 'reference': [{'key': 'CIT0001', 'author': 'ALLPORT D. A.', 'volume': '24', 'first-page': '225', 'year': '1972', 'journal-title': 'Quarterly Journal of Experimental Psychology', 'DOI': '10.1080/00335557243000102', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0002', 'author': 'BALLARD D. H.', 'volume': '306', 'first-page': '21', 'year': '1983', 'journal-title': 'Nature, London', 'DOI': '10.1038/306021a0', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0003', 'author': 'CRAIK F. I. M.', 'volume': '11', 'first-page': '671', 'year': '1972', 'journal-title': 'Journal of Verbal Learning and Verbal Behaviour', 'DOI': '10.1016/S0022-5371(72)80001-X', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0004', 'author': 'CROMER R. F.', 'year': '1974', 'volume-title': 'New Perspectives in Child Development'}, {'key': 'CIT0005', 'author': 'DIAPER D.', 'year': '1982', 'series-title': 'Unpublished Ph.D. thesis'}, {'key': 'CIT0006', 'author': 'DUDA R. O.', 'year': '1982', 'volume-title': 'Expert Systems 82'}, {'key': 'CIT0007', 'author': 'FODOR J. A.', 'first-page': '124', 'year': '1981', 'journal-title': 'Scientific American'}, {'key': 'CIT0008', 'author': 'HINTON G. E.', 'year': '1981', 'volume-title': 'Parallel Models of Associative Memory'}, {'key': 'CIT0009', 'author': 'HINTON G. E.', 'year': '1983', 'volume-title': 'Optimal perceptual inference'}, {'key': 'CIT0010', 'author': 'JAMES W.', 'volume': '2', 'year': '1890', 'volume-title': 'The Principles of Psychology', 'DOI': '10.1037/11059-000', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0011', 'author': 'JOHNSON-LAIRD P. N.', 'volume': '4', 'first-page': '71', 'year': '1980', 'journal-title': 'Cognitive Science', 'DOI': '10.1207/s15516709cog0401_4', 'doi-asserted-by': 'crossref'}, {'key': 'CIT0012', 'author': 'JOHNSON-LAIRD P. N.', 'year': '1977', 'volume-title': 'Thinking: Readings in Cognitive Science'}, {'key': 'CIT0013', 'author': 'MANDLER G.', 'year': '1975', 'volume-title': 'Information Processing and Cognition: The Loyola Symposium'}, {'key': 'CIT0014', 'author': 'POPPER K. R.', 'year': '1979', 'volume-title': 'Objective Knowledge: An Evolutionary Approach'}, {'key': 'CIT0015', 'author': 'SMALL D. W.', 'volume': '25', 'first-page': '253', 'year': '1983', 'journal-title': 'Human Factors'}, {'key': 'CIT0016', 'author': 'SOWA J. F.', 'year': '1984', 'volume-title': 'Conceptual Structures: Information Processing in Mind and Machine'}], 'container-title': ['Behaviour & Information Technology'], 'language': 'en', 'link': [{'URL': 'http://www.tandfonline.com/doi/pdf/10.1080/01449298408901755', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T19:04:27Z', 'timestamp': 1497726267000}, 'score': 49.002342, 'issued': {'date-parts': [[1984, 7]]}, 'references-count': 16, 'journal-issue': {'published-online': {'date-parts': [[2011, 2, 16]]}, 'published-print': {'date-parts': [[1984, 7]]}, 'issue': '3'}, 'alternative-id': ['10.1080/01449298408901755'], 'URL': 'http://dx.doi.org/10.1080/01449298408901755', 'relation': {'cites': []}, 'ISSN': ['0144-929X', '1362-3001'], 'issn-type': [{'value': '0144-929X', 'type': 'print'}, {'value': '1362-3001', 'type': 'electronic'}]}
+>>> hash >>> ('An approach to IKBS development based on a review of Conceptual Structures: Information Processing in Mind and Machine by J. F. Sowa', 1984.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Metzler, D. P. and Hass, S. W. (1989) The constituent object parser: syntactic structure matching for information retrieval, ACM Transactions on Information Systems, 7 : 292 â€“ 316 .
+>>> DOI >>> 10.1145/65943.65949
+>>> URL >>> http://dx.doi.org/10.1145/65943.65949
+>>> year >>> 1989.0
+>>> title >>> The constituent object parser: syntactic structure matching for information retrieval
+>>> author >>> Douglas P. Metzler and Stephanie W. Haas
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['ACM Transactions on Information Systems']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database110.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:12:34Z', 'timestamp': 1525335154015}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['TOIS', 'ACM Trans. Inf. Syst.'], 'published-print': {'date-parts': [[1989, 7, 1]]}, 'DOI': '10.1145/65943.65949', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:29:00Z', 'timestamp': 1027769340000}, 'page': '292-316', 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['The constituent object parser: syntactic structure matching for information retrieval'], 'prefix': '10.1145', 'volume': '7', 'author': [{'given': 'Douglas P.', 'family': 'Metzler', 'sequence': 'first', 'affiliation': []}, {'given': 'Stephanie W.', 'family': 'Haas', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['ACM Transactions on Information Systems'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=65949&amp;ftid=12803&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T19:41:51Z', 'timestamp': 1481830911000}, 'score': 101.66638, 'issued': {'date-parts': [[1989, 7, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1145/65943.65949', 'ISSN': ['1046-8188'], 'issn-type': [{'value': '1046-8188', 'type': 'print'}]}
+>>> hash >>> ('The constituent object parser: syntactic structure matching for information retrieval', 1989.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

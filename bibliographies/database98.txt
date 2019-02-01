@@ -1,0 +1,40 @@
+[0] Olivier Duchenne, Armand Joulin, Jean Ponce, A graph-matching kernel for object categorization
+[1] A. Berg. Shape Matching and Object Recognition. PhD thesis, UC Berkeley, 2005.
+[2] A. C. Berg, T. L. Berg, and J. Malik. Shape matching and object recognition using low distortion correspondence. In CVPR, 2005.
+[3] O. Boiman, E. Schechtman, and M. Irani. In defense of nearestneighbor based image classification. In CVPR, 2008.
+[4] Y. Boureau, F. Bach, Y. LeCun, and J. Ponce. Learning mid-level features for recognition. In CVPR, 2010.
+[5] Y. Boykov, O. Veksler, and R. Zabih. Fast approximate energy minimization via graph cuts. PAM1, 23:12221239, 2001.
+[6] B. Caputo and L. Jie. A performance evaluation of exact and approximate match kernels for object recognition. ELCVIA, 8:15-26, 2009.
+[7] G. Csurka, C. Bray, C. Dance, and L. Fan. Visual categorization with bags of keypoints. In ECCV Workshop, 2004.
+[8] N. Dalal and B. Triggs. Histograms of oriented gradients for human detection. In CVPR, 2005.
+[9] P. Felzenszwalb and D. Huttenlocher. Pictorial structures for object recognition. IJCV, 61:55-79, 2005.
+[10] P. F. Felzenszwalb, R. B. Girshick, D. McAllester, and D. Ramanan. Object detection with discriminatively trained part based models. In CVPR, 2008.
+[11] P. F. Felzenszwalb and D. P. Huttenlocher. Efficient belief propagation for early vision. IJCV, 70:41-54, 2006.
+[12] R. Fergus, P. Perona, and A. Zisserman. A sparse object category model for efficient learning and exhaustive recognition. In CVPR, 2005.
+[13] R. Fergus, P. Perona, and A. Zisserman. Weakly supervised scaleinvariant learning of models for visual recognition. IJCV, 71:273-303, 2006.
+[14] M. Fischler and R. Elschlager. The representation and matching of pictorial structures. IEEE Transactions on Computers, C-22:67-92, 1973.
+[15] P. Gehler and S. Nowozin. On feature combination for multiclass object classication. In ICCV, 2009.
+[16] K. Grauman and T. Darrell. Pyramid match kernels: Discriminative classification with sets of image features. In ICCV, 2005.
+[17] K. Grauman and T. Darrell. Pyramid Match Hashing: Sub-Linear Time Indexing Over Partial Correspondences. In CVPR, 2007.
+[18] G. Griffin, A. Holub, and P. Perona. Caltech-256 object category dataset. Technical report, Caltech, 2007.
+[19] C. Gu, J. Lim, P. Arbelaez, and J.Malik. Recognition using regions. In CVPR, 2009.
+[20] H. Ishikawa. Exact optimization for markov random fields with convex priors. PAM1, 25:1333-1336, 2003.
+[21] H. Jegou, M. Douze, and C. Schmid. Improving bag-of-features for large scale image search. IJCV, 87:313-336, 2010.
+[22] H. Y. Jung, K. M. Lee, and S. U. Lee. Toward global minimum through combined local minima. In ECCV, 2008.
+[23] J. Kim Asymmetric region-to-image matching for comparing images with generic object categories. In CVPR, 2010.
+[24] V. Kolmogorov. Convergent tree-reweighted message passing for energy minimization. PAM1, 28:1568-1583, 2006.
+[25] V. Kolmogorov and R. Zabih. What energy functions can be minimized via graph cuts? PAM1, 26:147-159, 2004.
+[26] S. Lazebnik, C. Schmid, and J. Ponce. Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories. In CVPR, 2006.
+[27] M. Leordeanu and M. Hebert. A spectral technique for for correspondance problems using pairwise constraints. In ICCV, 2005.
+[28] C. Liu, J. Yuen, A. Torralba, J. Sivic, and W. T. Freeman. Sift flow: Dense correspondence across different scenes. In ECCV, 2008.
+[29] D. Lowe. Distinctive image features from scale-invariant keypoints. IJCV, 60:91-110, 2004.
+[30] C. Schmid and R. Mohr. Local grayvalue invariants for image retrieval. PAMI, 19:530-535, 1997.
+[31] A. Shekhovtsov, I. Kovtun, and V. Hlavac. Efficient MRF deformation model for non-rigid image matching. CVIU, 112:91-99, 2008.
+[32] J. Sivic and A. Zisserman. Video Google: A text retrieval approach to object matching in videos. In ICCV, 2003.
+[33] S. Todorovic and N. Ahuja. Learning subcategory relevances for category recognition. In CVPR, 2008.
+[34] M.Wainwright, T. Jaakkola, and A.Willsky. Exact map estimates by (hyper)tree agreement. In NIPS, 2002.
+[35] C. Wallraven, B. Caputo, and A. Graf. Recognition with local features: The kernel recipe. In ICCV, 2003.
+[36] J. Yang, Y. Li, Y. Tian, L. Duan, and W. Gao. Group-sensitive multiple kernel learning for object categorization. In ICCV, 2009.
+[37] J. Yang, K. Yu, Y. Gong, and T. Huang. Linear spatial pyramid matching using sparse coding for image classification. In CVPR, 2009.
+[38] J. Yang, K. Yu, and T. Huang. Efficient highly over-complete sparse coding using a mixture model. In ECCV, 2010.
+[39] J. Zhang, M. Marszalek, S. Lazebnik, and C. Schmid. Local features and kernels for classification of texture and object categories: A comprehensive study. IJCV, 73:213-238, 2007.

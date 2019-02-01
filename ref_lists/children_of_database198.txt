@@ -1,0 +1,313 @@
+>>> NEW PAPER <<<
+>>> citation >>> Peluffo-OrdÃ³Ã±ez, D.H., Castro-Hoyos, C., Acosta-Medina, C.D., Castellanos-DomÃ­nguez, G.: Quadratic problem formulation with linear constraints for normalized cut clustering. In: Bayro-Corrochano, E., Hancock, E. (eds.) CIARP 2014. LNCS, vol. 8827, pp. 408â€“415. Springer, Cham (2014).  https://doi.org/10.1007/978-3-319-12568-8_50
+>>> DOI >>> 10.1007/978-3-319-12568-8_50
+>>> URL >>> http://dx.doi.org/10.1007/978-3-319-12568-8_50
+>>> year >>> 2014.0
+>>> title >>> Quadratic Problem Formulation with Linear Constraints for Normalized Cut Clustering
+>>> author >>> D. H. Peluffo-Ordóñez and C. Castro-Hoyos and Carlos D. Acosta-Medina and Germán Castellanos-Domínguez
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database198.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T07:42:28Z', 'timestamp': 1527234148696}, 'publisher-location': 'Cham', 'reference-count': 0, 'publisher': 'Springer International Publishing', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2014]]}, 'DOI': '10.1007/978-3-319-12568-8_50', 'type': 'book-chapter', 'created': {'date-parts': [[2014, 10, 23]], 'date-time': '2014-10-23T21:38:58Z', 'timestamp': 1414100338000}, 'page': '408-415', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Quadratic Problem Formulation with Linear Constraints for Normalized Cut Clustering'], 'prefix': '10.1007', 'author': [{'given': 'D. H.', 'family': 'Peluffo-Ordóñez', 'sequence': 'first', 'affiliation': []}, {'given': 'C.', 'family': 'Castro-Hoyos', 'sequence': 'additional', 'affiliation': []}, {'given': 'Carlos D.', 'family': 'Acosta-Medina', 'sequence': 'additional', 'affiliation': []}, {'given': 'Germán', 'family': 'Castellanos-Domínguez', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-319-12568-8_50', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 10, 23]], 'date-time': '2014-10-23T21:40:06Z', 'timestamp': 1414100406000}, 'score': 91.211586, 'issued': {'date-parts': [[2014]]}, 'ISBN': ['9783319125671', '9783319125688'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-319-12568-8_50', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Quadratic Problem Formulation with Linear Constraints for Normalized Cut Clustering', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Xu, L., Li, W., Schuurmans, D.: Fast normalized cut with linear constraints. In: 2009 IEEE Conference on Computer Vision and Pattern Recognition, pp. 2866â€“2873. IEEE (2009)
+>>> DOI >>> 10.1109/cvpr.2009.5206561
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2009.5206561
+>>> year >>> 2009.0
+>>> title >>> Fast normalized cut with linear constraints
+>>> author >>> None
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['2009 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database198.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T00:17:37Z', 'timestamp': 1525306657767}, 'reference-count': 18, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424439928', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 6]]}, 'DOI': '10.1109/cvpr.2009.5206561', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 3, 1]], 'date-time': '2010-03-01T18:36:32Z', 'timestamp': 1267468592000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Fast normalized cut with linear constraints'], 'prefix': '10.1109', 'author': [{'family': 'Linli Xu', 'sequence': 'first', 'affiliation': []}, {'family': 'Wenye Li', 'sequence': 'additional', 'affiliation': []}, {'given': 'Dale', 'family': 'Schuurmans', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops (CVPR Workshops)', 'location': 'Miami, FL', 'start': {'date-parts': [[2009, 6, 20]]}, 'end': {'date-parts': [[2009, 6, 25]]}}, 'container-title': ['2009 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5191365/5206488/05206561.pdf?arnumber=5206561', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T21:51:47Z', 'timestamp': 1524088307000}, 'score': 103.21022, 'issued': {'date-parts': [[2009, 6]]}, 'ISBN': ['9781424439928'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1109/cvpr.2009.5206561'}
+>>> hash >>> ('Fast normalized cut with linear constraints', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Li, T., Dou, Y., Liu, X.: Joint diversity regularization and graph regularization for multiple kernel k-means clustering via latent variables. Neurocomputing 218, 154â€“163 (2016)
+>>> DOI >>> 10.1016/j.neucom.2016.08.060
+>>> URL >>> http://dx.doi.org/10.1016/j.neucom.2016.08.060
+>>> year >>> 2016.0
+>>> title >>> Joint diversity regularization and graph regularization for multiple kernel k-means clustering via latent variables
+>>> author >>> Teng Li and Yong Dou and Xinwang Liu
+>>> reference_count >>> 24.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Neurocomputing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database198.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T07:42:28Z', 'timestamp': 1527234148641}, 'reference-count': 24, 'publisher': 'Elsevier BV', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2016, 12, 1]], 'date-time': '2016-12-01T00:00:00Z', 'timestamp': 1480550400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'funder': [{'DOI': '10.13039/501100001809', 'name': 'National Natural Science Foundation of China', 'doi-asserted-by': 'publisher', 'award': ['61402507', '61303070', '61403405', 'U1435219']}], 'content-domain': {'domain': ['elsevier.com', 'sciencedirect.com'], 'crossmark-restriction': True}, 'short-container-title': ['Neurocomputing'], 'published-print': {'date-parts': [[2016, 12]]}, 'DOI': '10.1016/j.neucom.2016.08.060', 'type': 'journal-article', 'created': {'date-parts': [[2016, 9, 3]], 'date-time': '2016-09-03T06:04:59Z', 'timestamp': 1472882699000}, 'page': '154-163', 'update-policy': 'http://dx.doi.org/10.1016/elsevier_cm_policy', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Joint diversity regularization and graph regularization for multiple kernel k-means clustering via latent variables'], 'prefix': '10.1016', 'volume': '218', 'author': [{'given': 'Teng', 'family': 'Li', 'sequence': 'first', 'affiliation': []}, {'given': 'Yong', 'family': 'Dou', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xinwang', 'family': 'Liu', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Neurocomputing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0925231216309560?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0925231216309560?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2018, 5, 10]], 'date-time': '2018-05-10T22:57:22Z', 'timestamp': 1525993042000}, 'score': 123.65933, 'issued': {'date-parts': [[2016, 12]]}, 'references-count': 24, 'alternative-id': ['S0925231216309560'], 'URL': 'http://dx.doi.org/10.1016/j.neucom.2016.08.060', 'ISSN': ['0925-2312'], 'issn-type': [{'value': '0925-2312', 'type': 'print'}], 'assertion': [{'value': 'Elsevier', 'name': 'publisher', 'label': 'This article is maintained by'}, {'value': 'Joint diversity regularization and graph regularization for multiple kernel k-means clustering via latent variables', 'name': 'articletitle', 'label': 'Article Title'}, {'value': 'Neurocomputing', 'name': 'journaltitle', 'label': 'Journal Title'}, {'value': 'http://dx.doi.org/10.1016/j.neucom.2016.08.060', 'name': 'articlelink', 'label': 'CrossRef DOI link to publisher maintained version'}, {'value': 'article', 'name': 'content_type', 'label': 'Content Type'}, {'value': '© 2016 Elsevier B.V. All rights reserved.', 'name': 'copyright', 'label': 'Copyright'}]}
+>>> hash >>> ('Joint diversity regularization and graph regularization for multiple kernel k-means clustering via latent variables', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Yu, S.X., Shi, J.: Multiclass spectral clustering. In: Proceedings of Ninth IEEE International Conference on Computer Vision, ICCV 2003, vol. 1, pp. 313â€“319. IEEE (2003)
+>>> DOI >>> 10.1109/iccv.2003.1238361
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2003.1238361
+>>> year >>> 2003.0
+>>> title >>> Multiclass spectral clustering
+>>> author >>> None
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 256.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings Ninth IEEE International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database198.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T07:42:28Z', 'timestamp': 1527234148684}, 'reference-count': 10, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769519504', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.1109/iccv.2003.1238361', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 3, 21]], 'date-time': '2005-03-21T20:07:39Z', 'timestamp': 1111435659000}, 'source': 'Crossref', 'is-referenced-by-count': 256, 'title': ['Multiclass spectral clustering'], 'prefix': '10.1109', 'author': [{'family': 'Yu', 'sequence': 'first', 'affiliation': []}, {'family': 'Shi', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'ICCV 2003: 9th International Conference on Computer Vision', 'location': 'Nice, France', 'start': {'date-parts': [[2003, 10, 13]]}, 'end': {'date-parts': [[2003, 10, 16]]}}, 'container-title': ['Proceedings Ninth IEEE International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8769/27772/01238361.pdf?arnumber=1238361', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 13]], 'date-time': '2017-03-13T17:37:40Z', 'timestamp': 1489426660000}, 'score': 94.52748, 'issued': {'date-parts': [[2003]]}, 'ISBN': ['0769519504'], 'references-count': 10, 'URL': 'http://dx.doi.org/10.1109/iccv.2003.1238361'}
+>>> hash >>> ('Multiclass spectral clustering', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Dhillon, I.S., Guan, Y., Kulis, B.: Kernel k-means, spectral clustering and normalized cuts. In: Proceedings of the 2004 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD 2004, pp. 551â€“556. ACM (2004)
+>>> DOI >>> 10.1145/1014052.1014118
+>>> URL >>> http://dx.doi.org/10.1145/1014052.1014118
+>>> year >>> 2004.0
+>>> title >>> Kernel k-means
+>>> author >>> Inderjit S. Dhillon and Yuqiang Guan and Brian Kulis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 188.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2004 ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '04"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database198.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 2]], 'date-time': '2018-06-02T09:42:28Z', 'timestamp': 1527932548676}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1581138889', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1145/1014052.1014118', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 10, 7]], 'date-time': '2004-10-07T17:39:48Z', 'timestamp': 1097170788000}, 'source': 'Crossref', 'is-referenced-by-count': 188, 'title': ['Kernel k-means'], 'prefix': '10.1145', 'author': [{'given': 'Inderjit S.', 'family': 'Dhillon', 'sequence': 'first', 'affiliation': []}, {'given': 'Yuqiang', 'family': 'Guan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Brian', 'family': 'Kulis', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2004 ACM SIGKDD international conference', 'location': 'Seattle, WA, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data', 'SIGKDD, ACM Special Interest Group on Knowledge Discovery in Data', 'ACM, Association for Computing Machinery'], 'acronym': "KDD '04", 'number': '10', 'start': {'date-parts': [[2004, 8, 22]]}, 'end': {'date-parts': [[2004, 8, 25]]}}, 'container-title': ["Proceedings of the 2004 ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '04"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1014118&amp;ftid=273897&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T08:49:21Z', 'timestamp': 1481878161000}, 'score': 139.40494, 'subtitle': ['spectral clustering and normalized cuts'], 'issued': {'date-parts': [[2004]]}, 'ISBN': ['1581138889'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1014052.1014118'}
+>>> hash >>> ('Kernel k-means', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Botev, Z.I., Grotowski, J.F., Kroese, D.P.: Kernel density estimation via diffusion. Ann. Stat. 38(5), 2916â€“2957 (2010)
+>>> DOI >>> 10.1214/10-aos799
+>>> URL >>> http://dx.doi.org/10.1214/10-aos799
+>>> year >>> 2010.0
+>>> title >>> Kernel density estimation via diffusion
+>>> author >>> Z. I. Botev and J. F. Grotowski and D. P. Kroese
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 529.0
+>>> subject >>> None
+>>> container_title >>> ['The Annals of Statistics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database198.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T14:22:29Z', 'timestamp': 1528381349532}, 'reference-count': 0, 'publisher': 'Institute of Mathematical Statistics', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Ann. Statist.'], 'published-print': {'date-parts': [[2010, 10]]}, 'DOI': '10.1214/10-aos799', 'type': 'journal-article', 'created': {'date-parts': [[2010, 8, 16]], 'date-time': '2010-08-16T13:24:09Z', 'timestamp': 1281965049000}, 'page': '2916-2957', 'source': 'Crossref', 'is-referenced-by-count': 529, 'title': ['Kernel density estimation via diffusion'], 'prefix': '10.1214', 'volume': '38', 'author': [{'given': 'Z. I.', 'family': 'Botev', 'sequence': 'first', 'affiliation': []}, {'given': 'J. F.', 'family': 'Grotowski', 'sequence': 'additional', 'affiliation': []}, {'given': 'D. P.', 'family': 'Kroese', 'sequence': 'additional', 'affiliation': []}], 'member': '108', 'container-title': ['The Annals of Statistics'], 'language': 'en', 'link': [{'URL': 'http://projecteuclid.org/download/pdfview_1/euclid.aos/1281964340', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 5, 10]], 'date-time': '2017-05-10T14:09:10Z', 'timestamp': 1494425350000}, 'score': 97.25843, 'issued': {'date-parts': [[2010, 10]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2010, 10]]}, 'issue': '5'}, 'URL': 'http://dx.doi.org/10.1214/10-aos799', 'ISSN': ['0090-5364'], 'issn-type': [{'value': '0090-5364', 'type': 'print'}]}
+>>> hash >>> ('Kernel density estimation via diffusion', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Peluffo-OrdÃ³Ã±ez, D.H., Castro-Ospina, A.E., Chavez-Chamorro, D., Acosta-Medina, C.D., Castellanos-DomÃ­nguez, G.: Normalized cuts clustering with prior knowledge and a pre-clustering stage. In: ESANN 2013 proceedings, 21st European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (2013)
+>>> DOI >>> 10.1016/j.neucom.2012.03.002
+>>> URL >>> http://dx.doi.org/10.1016/j.neucom.2012.03.002
+>>> year >>> 2012.0
+>>> title >>> Advances in artificial neural networks, machine learning, and computational intelligence (ESANN 2011)
+>>> author >>> John A. Lee and Petra Schneider and John Quinn
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Neurocomputing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database198.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T05:31:05Z', 'timestamp': 1525498265660}, 'reference-count': 0, 'publisher': 'Elsevier BV', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2012, 8, 1]], 'date-time': '2012-08-01T00:00:00Z', 'timestamp': 1343779200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Neurocomputing'], 'published-print': {'date-parts': [[2012, 8]]}, 'DOI': '10.1016/j.neucom.2012.03.002', 'type': 'journal-article', 'created': {'date-parts': [[2012, 3, 18]], 'date-time': '2012-03-18T00:30:52Z', 'timestamp': 1332030652000}, 'page': '1-2', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Advances in artificial neural networks, machine learning, and computational intelligence (ESANN 2011)'], 'prefix': '10.1016', 'volume': '90', 'author': [{'given': 'John A.', 'family': 'Lee', 'sequence': 'first', 'affiliation': []}, {'given': 'Petra', 'family': 'Schneider', 'sequence': 'additional', 'affiliation': []}, {'given': 'John', 'family': 'Quinn', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Neurocomputing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0925231212001646?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0925231212001646?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2016, 1, 10]], 'date-time': '2016-01-10T14:00:23Z', 'timestamp': 1452434423000}, 'score': 58.385674, 'issued': {'date-parts': [[2012, 8]]}, 'references-count': 0, 'alternative-id': ['S0925231212001646'], 'URL': 'http://dx.doi.org/10.1016/j.neucom.2012.03.002', 'ISSN': ['0925-2312'], 'issn-type': [{'value': '0925-2312', 'type': 'print'}]}
+>>> hash >>> ('Advances in artificial neural networks, machine learning, and computational intelligence (ESANN 2011)', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Zelnik-Manor, L., Perona, P.: Self-tuning spectral clustering. In: Advances on Neural Information Processing Systems, vol. 2, pp. 1601â€“1608. MIT Press (2004)
+>>> DOI >>> 10.1109/cvpr.2005.89
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2005.89
+>>> year >>> None
+>>> title >>> Beyond Pairwise Clustering
+>>> author >>> None
+>>> reference_count >>> 33.0
+>>> is_referenced_by_count >>> 59.0
+>>> subject >>> None
+>>> container_title >>> ["2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database198.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:50Z', 'timestamp': 1528225370089}, 'reference-count': 33, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769523722', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2005.89', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 7, 27]], 'date-time': '2005-07-27T17:52:28Z', 'timestamp': 1122486748000}, 'source': 'Crossref', 'is-referenced-by-count': 59, 'title': ['Beyond Pairwise Clustering'], 'prefix': '10.1109', 'author': [{'given': 'S.', 'family': 'Agarwal', 'sequence': 'first', 'affiliation': []}, {'family': 'Jongwoo Lim', 'sequence': 'additional', 'affiliation': []}, {'given': 'L.', 'family': 'Zelnik-Manor', 'sequence': 'additional', 'affiliation': []}, {'given': 'P.', 'family': 'Perona', 'sequence': 'additional', 'affiliation': []}, {'given': 'D.', 'family': 'Kriegman', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.', 'family': 'Belongie', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)", 'location': 'San Diego, CA, USA'}, 'container-title': ["2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/9901/31473/01467530.pdf?arnumber=1467530', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T21:35:49Z', 'timestamp': 1497648949000}, 'score': 36.730896, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769523722'], 'references-count': 33, 'URL': 'http://dx.doi.org/10.1109/cvpr.2005.89'}
+>>> hash >>> ('Beyond Pairwise Clustering', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Castro-Ospina, A.E., Castro-Hoyos, C., Peluffo-Ordonez, D., Castellanos-Dominguez, G.: Novel heuristic search for ventricular arrhythmia detection using normalized cut clustering. In: 2013 35th Annual International Conference of the IEEE Engineering Medicine and Biology Society, pp. 7076â€“7079. IEEE (2013)
+>>> DOI >>> 10.1109/embc.2013.6611188
+>>> URL >>> http://dx.doi.org/10.1109/embc.2013.6611188
+>>> year >>> 2013.0
+>>> title >>> Novel heuristic search for ventricular arrhythmia detection using normalized cut clustering
+>>> author >>> A. E. Castro-Ospina and C. Castro-Hoyos and D. Peluffo-Ordonez and G. Castellanos-Dominguez
+>>> reference_count >>> 9.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['2013 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database198.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T07:42:28Z', 'timestamp': 1527234148695}, 'reference-count': 9, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781457702167', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013, 7]]}, 'DOI': '10.1109/embc.2013.6611188', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 10, 1]], 'date-time': '2013-10-01T18:37:56Z', 'timestamp': 1380652676000}, 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['Novel heuristic search for ventricular arrhythmia detection using normalized cut clustering'], 'prefix': '10.1109', 'author': [{'given': 'A. E.', 'family': 'Castro-Ospina', 'sequence': 'first', 'affiliation': []}, {'given': 'C.', 'family': 'Castro-Hoyos', 'sequence': 'additional', 'affiliation': []}, {'given': 'D.', 'family': 'Peluffo-Ordonez', 'sequence': 'additional', 'affiliation': []}, {'given': 'G.', 'family': 'Castellanos-Dominguez', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2013 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)', 'location': 'Osaka', 'start': {'date-parts': [[2013, 7, 3]]}, 'end': {'date-parts': [[2013, 7, 7]]}}, 'container-title': ['2013 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6596169/6609410/06611188.pdf?arnumber=6611188', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 23]], 'date-time': '2017-03-23T02:55:59Z', 'timestamp': 1490237759000}, 'score': 142.04448, 'issued': {'date-parts': [[2013, 7]]}, 'ISBN': ['9781457702167'], 'references-count': 9, 'URL': 'http://dx.doi.org/10.1109/embc.2013.6611188'}
+>>> hash >>> ('Novel heuristic search for ventricular arrhythmia detection using normalized cut clustering', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Peluffo-OrdÃ³Ã±ez, D.H., Acosta-Medina, C.D., Castellanos-DomÃ­nguez, C.G.: An Improved multi-class spectral clustering based on normalized cuts. In: Alvarez, L., Mejail, M., Gomez, L., Jacobo, J. (eds.) CIARP 2012. LNCS, vol. 7441, pp. 130â€“137. Springer, Heidelberg (2012).  https://doi.org/10.1007/978-3-642-33275-3_16
+>>> DOI >>> 10.1007/978-3-642-33275-3_16
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-33275-3_16
+>>> year >>> 2012.0
+>>> title >>> An Improved Multi-Class Spectral Clustering Based on Normalized Cuts
+>>> author >>> Diego Hernán Peluffo-Ordóñez and Carlos Daniel Acosta-Medina and César Germáan Castellanos-Domínguez
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database198.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T07:42:28Z', 'timestamp': 1527234148659}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642332746', 'type': 'print'}, {'value': '9783642332753', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012]]}, 'DOI': '10.1007/978-3-642-33275-3_16', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 8, 11]], 'date-time': '2012-08-11T04:42:33Z', 'timestamp': 1344660153000}, 'page': '130-137', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['An Improved Multi-Class Spectral Clustering Based on Normalized Cuts'], 'prefix': '10.1007', 'author': [{'given': 'Diego Hernán', 'family': 'Peluffo-Ordóñez', 'sequence': 'first', 'affiliation': []}, {'given': 'Carlos Daniel', 'family': 'Acosta-Medina', 'sequence': 'additional', 'affiliation': []}, {'given': 'César Germáan', 'family': 'Castellanos-Domínguez', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-642-33275-3_16', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 24]], 'date-time': '2014-01-24T14:27:09Z', 'timestamp': 1390573629000}, 'score': 75.32876, 'issued': {'date-parts': [[2012]]}, 'ISBN': ['9783642332746', '9783642332753'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-33275-3_16', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('An Improved Multi-Class Spectral Clustering Based on Normalized Cuts', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Langone, R., Mall, R., Alzate, C., Suykens, J.A.K.: Kernel spectral clustering and applications. In: Celebi, M.E., Aydin, K. (eds.) Unsupervised Learning Algorithms, pp. 135â€“161. Springer, Cham (2016).  https://doi.org/10.1007/978-3-319-24211-8_6
+>>> DOI >>> 10.1007/978-3-319-24211-8_6
+>>> URL >>> http://dx.doi.org/10.1007/978-3-319-24211-8_6
+>>> year >>> 2016.0
+>>> title >>> Kernel Spectral Clustering and Applications
+>>> author >>> Rocco Langone and Raghvendra Mall and Carlos Alzate and Johan A. K. Suykens
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Unsupervised Learning Algorithms']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database198.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T07:42:28Z', 'timestamp': 1527234148698}, 'publisher-location': 'Cham', 'reference-count': 0, 'publisher': 'Springer International Publishing', 'isbn-type': [{'value': '9783319242095', 'type': 'print'}, {'value': '9783319242118', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2016, 1, 1]], 'date-time': '2016-01-01T00:00:00Z', 'timestamp': 1451606400000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2016]]}, 'DOI': '10.1007/978-3-319-24211-8_6', 'type': 'book-chapter', 'created': {'date-parts': [[2016, 4, 29]], 'date-time': '2016-04-29T12:46:02Z', 'timestamp': 1461933962000}, 'page': '135-161', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Kernel Spectral Clustering and Applications'], 'prefix': '10.1007', 'author': [{'given': 'Rocco', 'family': 'Langone', 'sequence': 'first', 'affiliation': []}, {'given': 'Raghvendra', 'family': 'Mall', 'sequence': 'additional', 'affiliation': []}, {'given': 'Carlos', 'family': 'Alzate', 'sequence': 'additional', 'affiliation': []}, {'given': 'Johan A. K.', 'family': 'Suykens', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2016, 4, 30]]}, 'container-title': ['Unsupervised Learning Algorithms'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-319-24211-8_6', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 4, 29]], 'date-time': '2016-04-29T12:46:03Z', 'timestamp': 1461933963000}, 'score': 105.959076, 'issued': {'date-parts': [[2016]]}, 'ISBN': ['9783319242095', '9783319242118'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-319-24211-8_6'}
+>>> hash >>> ('Kernel Spectral Clustering and Applications', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Peluffo-OrdÃ³Ã±ez, D.H.: Dynamic spectral clustering based on kernels. Ph.D. thesis, Universidad Nacional de Colombia (2013)
+>>> DOI >>> 10.17230/ingciencia.10.20.2
+>>> URL >>> http://dx.doi.org/10.17230/ingciencia.10.20.2
+>>> year >>> 2014.0
+>>> title >>> Study of the Spectral Response in the Visible Spectral Region the ZnSe thin Films
+>>> author >>> None
+>>> reference_count >>> 5.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Ingeniería y Ciencia']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database198.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T19:59:55Z', 'timestamp': 1525723195425}, 'reference-count': 5, 'publisher': 'Universidad EAFIT', 'issue': '20', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['ing.cienc.'], 'published-print': {'date-parts': [[2014]]}, 'DOI': '10.17230/ingciencia.10.20.2', 'type': 'journal-article', 'created': {'date-parts': [[2015, 9, 23]], 'date-time': '2015-09-23T15:38:47Z', 'timestamp': 1443022727000}, 'page': '23-35', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Study of the Spectral Response in the Visible Spectral Region the ZnSe thin Films'], 'prefix': '10.17230', 'volume': '10', 'author': [{'given': 'A.', 'family': 'Pardo', 'sequence': 'first', 'affiliation': []}, {'name': 'Universidad Nacional de Colombia', 'sequence': 'first', 'affiliation': []}, {'given': 'H.G.', 'family': 'Castro-Lora', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Torres', 'sequence': 'additional', 'affiliation': []}, {'given': 'L.D.', 'family': 'López-Carreño', 'sequence': 'additional', 'affiliation': []}, {'given': 'H. M.', 'family': 'Martínez', 'sequence': 'additional', 'affiliation': []}, {'given': 'N. T.', 'family': 'Ramírez', 'sequence': 'additional', 'affiliation': []}, {'name': 'Universidad Nacional de Colombia', 'sequence': 'additional', 'affiliation': []}, {'name': 'Universidad Nacional de Colombia', 'sequence': 'additional', 'affiliation': []}, {'name': 'Universidad Nacional de Colombia', 'sequence': 'additional', 'affiliation': []}, {'name': 'Universidad Nacional de Colombia', 'sequence': 'additional', 'affiliation': []}, {'name': 'Universidad Nacional de Colombia', 'sequence': 'additional', 'affiliation': []}], 'member': '6902', 'published-online': {'date-parts': [[2014]]}, 'container-title': ['Ingeniería y Ciencia'], 'original-title': ['Estudio de la respuesta espectral en el visible de películas delgadas de ZnSe'], 'deposited': {'date-parts': [[2015, 9, 25]], 'date-time': '2015-09-25T15:34:13Z', 'timestamp': 1443195253000}, 'score': 49.41761, 'issued': {'date-parts': [[2014]]}, 'references-count': 5, 'journal-issue': {'published-online': {'date-parts': [[2014]]}, 'published-print': {'date-parts': [[2014]]}, 'issue': '20'}, 'URL': 'http://dx.doi.org/10.17230/ingciencia.10.20.2', 'ISSN': ['1794-9165', '2256-4314'], 'issn-type': [{'value': '1794-9165', 'type': 'print'}, {'value': '2256-4314', 'type': 'electronic'}]}
+>>> hash >>> ('Study of the Spectral Response in the Visible Spectral Region the ZnSe thin Films', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Dhillon, I.S., Guan, Y., Kulis, B.: Weighted graph cuts without eigenvectors a multilevel approach. IEEE Trans. Pattern Anal. Mach. Intell. 29(11), 1944â€“1957 (2007)
+>>> DOI >>> 10.1109/tpami.2007.1115
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2007.1115
+>>> year >>> 2007.0
+>>> title >>> Weighted Graph Cuts without Eigenvectors A Multilevel Approach
+>>> author >>> Inderjit S. Dhillon and Yuqiang Guan and Brian Kulis
+>>> reference_count >>> 30.0
+>>> is_referenced_by_count >>> 261.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database198.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 4]], 'date-time': '2018-06-04T17:02:31Z', 'timestamp': 1528131751225}, 'reference-count': 30, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2007, 11]]}, 'DOI': '10.1109/tpami.2007.1115', 'type': 'journal-article', 'created': {'date-parts': [[2007, 9, 17]], 'date-time': '2007-09-17T19:33:54Z', 'timestamp': 1190057634000}, 'page': '1944-1957', 'source': 'Crossref', 'is-referenced-by-count': 261, 'title': ['Weighted Graph Cuts without Eigenvectors A Multilevel Approach'], 'prefix': '10.1109', 'volume': '29', 'author': [{'given': 'Inderjit S.', 'family': 'Dhillon', 'sequence': 'first', 'affiliation': []}, {'given': 'Yuqiang', 'family': 'Guan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Brian', 'family': 'Kulis', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/4302752/04302760.pdf?arnumber=4302760', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T12:20:34Z', 'timestamp': 1510662034000}, 'score': 118.34836, 'issued': {'date-parts': [[2007, 11]]}, 'references-count': 30, 'journal-issue': {'issue': '11'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2007.1115', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Weighted Graph Cuts without Eigenvectors A Multilevel Approach', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

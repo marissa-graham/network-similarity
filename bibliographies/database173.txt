@@ -1,0 +1,50 @@
+[0] Yifan Chen, Xiang Zhao, Xuemin Lin, Yang Wang, Deke Guo, Efficient Mining of Frequent Patterns on Uncertain Graphs
+[1] E. Adar and C. Re, “Managing uncertainty in social networks,” IEEE Data Eng. Bull., vol. 30, no. 2, pp. 15–22, 2007.
+[2] P. Boldi, F. Bonchi, A. Gionis, and T. Tassa, “Injecting uncertainty in graphs for identity obfuscation,” PVLDB, vol. 5, no. 11, pp.1376–1387, 2012.
+[3] S. Biswas and R. Morris, “Exor: opportunistic multi-hop routing for wireless networks,” in SIGCOMM, 2005, pp. 133–144.
+[4] J. Ghosh, H. Q. Ngo, S. Yoon, and C. Qiao, “On a routing problem within probabilistic graphs and its application to intermittently connected networks,” in INFOCOM, 2007, pp. 1721–1729.
+[5] D. Chu, A. Deshpande, J. M. Hellerstein, and W. Hong, “Approximate data collection in sensor networks using probabilistic models,” in ICDE, 2006, p. 48.
+[6] S. Asthana, O. D. King, F. D. Gibbons, and F. P. Roth, “Predicting protein complex membership using probabilistic network reliability,” Genome Res., vol. 14, no. 6, pp. 1170–1175, 2004.
+[7] D. Rhodes, S. Tomlins, S. Varambally, V. Mahavisno, T. Barrette, S. Kalyana-Sundaram, D. Ghosh, A. Pandey, and A. C. AM., “Probabilistic model of the human protein-protein interaction network,” Nat Biotechnol., vol. 23, no. 8, pp. 1–9, 2005.
+[8] R. Jiang, Z. Tu, T. Chen, and F. Sun, “Network motif identification in stochastic networks,” PNAS, vol. 103, no. 25, pp. 9404–9409,2006.
+[9] H. Cheng, X. Yan, and J. Han, “Mining graph patterns,” in Frequent Pattern Mining, 2014, pp. 307–338.
+[10] Y. Cho and A. Zhang, “Predicting protein function by frequent functional association pattern mining in protein interaction networks,” IEEE Trans. Information Technology in Biomedicine, vol. 14, no. 1, pp. 30–36, 2010.
+[11] M. Schuhmacher and S. P. Ponzetto, “Knowledge-based graph document modeling,” in Seventh ACM International Conference on Web Search and Data Mining, WSDM 2014, New York, NY, USA, February 24-28, 2014, 2014, pp. 543–552.
+[12] Y. Gu, C. Gao, L. Wang, and G. Yu, “Subgraph similarity maximal all-matching over a large uncertain graph,” World Wide Web, vol. 19, no. 5, pp. 755–782, 2016.
+[13] Y. Yuan, G. Wang, and L. Chen, “Pattern match query in a large uncertain graph,” in CIKM, 2014, pp. 519–528.
+[14] Z. Sun, H. Wang, H. Wang, B. Shao, and J. Li, “Efficient subgraph matching on billion node graphs,” PVLDB, vol. 5, no. 9, pp. 788–799, 2012.
+[15] M. Potamias, F. Bonchi, A. Gionis, and G. Kollios, “k-nearest neighbors in uncertain graphs,” PVLDB, vol. 3, no. 1, pp. 997–1008, 2010.
+[16] A. Khan, F. Bonchi, A. Gionis, and F. Gullo, “Fast reliability search in uncertain graphs,” in Proceedings of the 17th International Conference on Extending Database Technology, EDBT 2014, Athens, Greece, March 24-28, 2014., 2014, pp. 535–546
+[17] R. Jin, L. Liu, B. Ding, and H. Wang, “Distance-constraint reachability computation in uncertain graphs,” PVLDB, vol. 4, no. 9, pp.551–562, 2011.
+[18] Z. Zou, J. Li, H. Gao, and S. Zhang, “Mining frequent subgraph patterns from uncertain graph data,” IEEE TKDE, vol. 22, no. 9, pp. 1203–1218, 2010.
+[19] J. Li, Z. Zou, and H. Gao, “Mining frequent subgraphs over uncertain graph databases under probabilistic semantics,” VLDB J., vol. 21, no. 6, pp. 753–777, 2012.
+[20] Y. Chen, X. Zhao, X. Lin, and Y. Wang, “Towards frequent subgraph mining on single large uncertain graphs,” in ICDM, 2015, pp. 41–50.
+[21] X. Yan and J. Han, “gSpan: Graph-based substructure pattern mining,” in ICDM, 2002, pp. 721–724.
+[22] V. V. Vazirani, Approximation Algorithms. Berlin: Springer, 2003.
+[23] T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein, Introduction to algorithms. MIT press, 2009.
+[24] J. Leskovec, J. M. Kleinberg, and C. Faloutsos, “Graphs over time: densification laws, shrinking diameters and possible explanations,” in SIGKDD, 2005, pp. 177–187.
+[25] O. Papapetrou, E. Ioannou, and D. Skoutas, “Efficient discovery of frequent subgraph patterns in uncertain graph databases.” in EDBT, 2011, pp. 355–366.
+[26] A. P. Mukherjee, P. Xu, and S. Tirthapura, “Mining maximal cliques from an uncertain graph,” in ICDE, 2015.
+[27] P. Hintsanen and H. Toivonen, “Finding reliable subgraphs from large probabilistic graphs,” DMKD, vol. 17, no. 1, pp. 3–23, 2008.
+[28] R. Jin, L. Liu, and C. C. Aggarwal, “Discovering highly reliable subgraphs in uncertain graphs,” in SIGKDD, 2011, pp. 992–1000.
+[29] G. Kollios, M. Potamias, and E. Terzi, “Clustering large probabilistic graphs,” IEEE TKDE, vol. 25, no. 2, pp. 325–336, 2013.
+[30] L. Liu, R. Jin, C. C. Aggarwal, and Y. Shen, “Reliable clustering on uncertain graphs,” in ICDM, 2012, pp. 459–468.
+[31] F. Bonchi, F. Gullo, A. Kaltenbrunner, and Y. Volkovich, “Core decomposition of uncertain graphs,” in SIGKDD, 2014, pp. 1316–1325.
+[32] P. Parchas, F. Gullo, D. Papadias, and F. Bonchi, “The pursuit of a good possible world: extracting representative instances of uncertain graphs,” in SIGMOD, 2014, pp. 967–978.
+[33] M. Kuramochi and G. Karypis, “Finding frequent patterns in a large sparse graph,” DMKD, vol. 11, no. 3, pp. 243–271, 2005.
+[34] M. Fiedler and C. Borgelt, “Support computation for mining frequent subgraphs in a single graph,” in MLG, 2007.
+[35] B. Bringmann and S. Nijssen, “What is frequent in a single graph?” in PAKDD, 2008, pp. 858–863.
+[36] M. Elseidy, E. Abdelhamid, S. Skiadopoulos, and P. Kalnis, “GraMi: Frequent subgraph and pattern mining in a single large graph,” PVLDB, vol. 7, no. 7, pp. 517–528, 2014.
+[37] M. Kuramochi and G. Karypis, “GREW-A scalable frequent subgraph discovery algorithm,” in ICDM, 2004, pp. 439–442.
+[38] C. Chen, X. Yan, F. Zhu, and J. Han, “gApprox: Mining frequent approximate patterns from a massive network,” in ICDM, 2007, pp. 445–450.
+[39] S. Nijssen and J. N. Kok, “A quickstart in frequent structure mining can make a difference,” in SIGKDD, 2004, pp. 647–652.
+[40] Y. Cheng, Y. Yuan, G. Wang, B. Qiao, and Z. Wang, “Efficient sampling methods for shortest path query over uncertain graphs,” in DASFAA, 2014, pp. 124–140.
+[41] Y. Tong, X. Zhang, C. C. Cao, and L. Chen, “Efficient probabilistic supergraph search over large uncertain graphs,” in CIKM, 2014, pp. 809–818.
+[42] Y. Yuan, G. Wang, H. Wang, and L. Chen, “Efficient subgraph search over large uncertain graphs,” PVLDB, vol. 4, no. 11, pp.876–886, 2011.
+[43] W. Zhang, X. Lin, Y. Zhang, K. Zhu, and G. Zhu, “Efficient probabilistic supergraph search,” IEEE TKDE, vol. 28, no. 4, pp.965–978, April 2016.
+[44] W. E. Moustafa, A. Kimmig, A. Deshpande, and L. Getoor, “Subgraph pattern matching over uncertain graphs with identity linkage uncertainty,” in ICDE, 2014, pp. 904–915.
+[45] Y. Yuan, G. Wang, L. Chen, and H. Wang, “Efficient subgraph similarity search on large probabilistic graph databases,” PVLDB, vol. 5, no. 9, pp. 800–811, 2012.
+[46] Z. Zou and J. Li, “Structural-context similarities for uncertain graphs,” in ICDM, 2013, pp. 1325–1330.
+[47] R. Li, J. X. Yu, R. Mao, and T. Jin, “Efficient and accurate query evaluation on uncertain graphs via recursive stratified sampling,” in ICDE, 2014, pp. 892–903.
+[48] A. Renyi, Probability Theory. North, Holland, Amsterdam, 1970.
+[49] N. N. Dalvi and D. Suciu, “Efficient query evaluation on probabilistic databases,” in VLDB, 2004, pp. 864–875.

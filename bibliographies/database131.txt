@@ -1,0 +1,317 @@
+[0] Meng Zhang, Methods and Implementations of Road-Network Matching 
+[1] AdV, Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland
+(2003). Amtliches Topographisch- Kartographisches Informationssystem ATKIS, 2003
+[2] Anders, K. -H. & Bobrich J. (2004). MRDB approach for automatic incremental update, ICA Workshop on
+Generalisation and Multiple Representation, Leicester, England, August 2004
+[3] Arkin, E., Chew, P., Huttenlocher, D., Kedem, K. & Mitchel, J. (1991). An efficiently computable metric for
+comparing polygonal shapes, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol.
+13(3), pp. 209-216, 1991
+[4] Badard, T. (1999). On the automatic retrieval of updates in geographic databases based on geographic
+data matching tools, ICC-Proceedings, '99, Ottawa, pp. 1291-1300
+[5] Baltsavias, E.P., (2004). Object extraction and revision by image analysis using existing geodata and
+knowledge: current status and steps towards operational systems, ISPRS Journal of
+Photogrammetry and Remote Sensing 58 (3–4), pp. 129-51
+[6] Besl, P. & McKay, N. (1992). A method for reginstration of 3-d shapes, Trans. PAMI, Vol. 14(2), pp. 239-
+256
+[7] Beyer, W. g. (1987). CRC Standard Mathematical Tables, 28th ed. Boca Raton, FL: CRC Press, pp. 123-
+124, 1987
+[8] Blasby, D., Davis, M., Kim, D. & Ramsey, P. (2003). A white paper - GIS Conflation using Open Source
+Tools, http://www.jump-project.org/assets/JUMP_Conflation_Whitepaper.pdf (accessed on 2009-
+07-27)
+[9] Brown, J., Rao, A. & Baran, J. (1995). A Full-Featured ArcInfo Conflation System, Proc. of the Fifteenth
+Annual ESRI User Conference, 1995, http://training.esri.com/campus/library/Bibliography/
+RecordDetail.cfm?ID=9621 (accessed on 2009-07-27)
+[10] Butenuth, M., Gösseln, G.v., Tiedge, M., Heipke C., Lipeck, U. & Sester M. (2007). Integration of
+heterogeneous geospatial data in a federated database, ISPRS Journal of Photogrammetry &
+Remote Sensing 62 (2007), 328-346
+[11] Cecconi, A. (2003). Integration of Cartographic Generalization and Multi-Scale Databases for Enhanced
+Web Mapping, dissertation, University Zurich, 2003
+[12] Chen, C.-C. (2005). Automatically and Accurately Conflating Road Vector Data, Street Maps and
+Orthoimagery, Ph. D. Dissertation, University of Southern California, May 2005
+[13] Chen, C.-C., Thakkar, S., Knoblok, C.A. & Shahabi, C. (2003). Automatically Annotating and Integrating
+Spatial Datasets, Proc. of the 8th International Symposium on Spatial and Temporal Databases
+(SSTD'03), Santorini Island, Greece, July 24-27, 2003, pp. 469-488 http://www.isi.edu/infoagents/papers/chen03-sstd.pdf
+(accessed on 2009-10-08)
+[14] Cichociski, P. (2008): Application of Advanced Topological Rules in the Process of Building Geographical
+Databases Supporting the Valuation of Real Estates, Integrating Generations, FIG Working Week
+2008 Stockholm, Sweden, 2008
+[15] Cobb, M.A., Chung, M.J., Foley, H., Petry, F.E., Shaw, K.B. & Miller, H.V. (1998). A rule-based approach
+for the conflation of attributed vector data, Geoinformatica, Vol. 2, No.1, pp. 7-35
+[16] Cohen, W.W. (2000). Data integration using similarity joins and a word-based information representation
+language, ACM Transactions on Information Systems (TOIS), Vol. 18(3), pp. 288 ~ 321, 2000 
+[17] Cormen, T.H., Leiserson, C.E., Rivest, R.L. & Clifford Stein (2001). Introduction to Algorithms, Second
+Edition, MIT Press and McGraw-Hill, pp. 527-529 of section 22.1: Representations of graphs. ISBN
+0-262-03293-7
+[18] Dempster, A. (1968). Upper and lower probabilities induced by multivalued mapping, Annals of
+Mathematical Statistics, AMS-38, pp. 325-339
+[19] Deng, M., Chen, X. & Li, Z. (2005): A Generalized Hausdorff Distance For Spatial Objects In GIS, in Proc.
+of the 4th ISPRS Workshop on Dynamic and Multi-dimensional GIS, pp. 10 -15, Pontypridd, UK,
+2005
+[20] Deretsky, Z. & U. Rodny (1993). Automatic Conflation of Digital Maps, Proc. of IEEE-IEE Vehicle
+Navigation & Information Systems Conference, A27-A29, 1993
+[21] Devogele, T. (2002). A new Merging Process for Data Integration Based on the Discrete Frechét Distance,
+Proc. of the Joint International Symposium on Geospatial Theory, Processing and Applications.
+Ottawa
+[22] Devogele, T, Parent, C. & Spaccapietra S. (1998). On spatial database integration, International Journal
+of Geographical Information Science, Vol.12(4), pp. 335-352.
+[23] Devogele, T., Trevisan, J. & Raynal, L. (1996). Building a multi-scale database with scale-transition
+relationships, Advances GIS Research II, Taylor & Francis, London, pp. 337-351
+[24] Dowman, I., (1998). Automated procedures for integration of satellite images and map data for change
+detection: the archangel project, International Archives of Photogrammetry and Remote Sensing 32
+(Part 4), pp. 162-169.
+[25] Doytsher, Y., Filin, S. & Ezra, E. (2001). Transformation of Datasets in a Linear-based Map Conflation
+Framework, Surveying and Land Information Systems, Vol. 61, No. 3, 2001, pp.159-169
+[26] Dunkars, M. (2003). Matching of datasets, ScanGIS'2003 - The 9th Scandinavian Research Conference
+on Geographical Information Science, Espoo, Finland, June 4-6, 2003, http://www.scangis.org/
+scangis2003/papers/19.pdf (accessed on 2009-07-27)
+[27] Dunkars, M. (2004): Multiple representation databases for topological information, Dissertation, ISBN: 91-
+7323-100-2, KTH, Infrastructure, Stockholm, Sweden
+[28] Eiter, T. & Mannila H. (1994). Computing discrete Fréchet distance, Technical report of Christian Doppler
+Labor für Expertensensyteme, Technical University of Vienna, Austria, http://www.kr.tuwien.ac.at/
+staff/eiter/et-archive/cdtr9464.ps.gz (accessed on 2009-07-27)
+[29] Fisher, R., Perkins, S., Walker, A. & Wolfart, E. (2003). Affine Transformation, 2003,
+http://homepages.inf.ed.ac.uk/rbf/HIPR2/affine.htm (accessed on 2009-07-27)
+[30] Franklin, W.R., Sivaswami, V., Sun, D., Kankanhalli, M. & Narayanaswami, C. (1994). Calculating the
+area of overlaid polygons without constructing the overlay, Cartography and Geographic
+Information Systems 21, pp. 81-89
+[31] Gabay, Y. & Doytsher, Y. (1994). Automatic adjustment of line maps, Proc. of GIS/LIS’94 Annual
+Convention. American Congress on Surveying and Mapping, American Society for Photogrammetry
+and Remote Sensing, Association of American Geographers, Urban and Regional Information
+Systems Association, and AM/FM International, Phoenix, Arizona, pp. 333-341
+[32] Gabay, Y. & Doytsher, Y. (1995). Automatic feature correction in merging of line maps, Proc. of the 1995
+ACSM-ASPRS Annual Convention 2, pp. 404-410
+[33] Gillman, D.W. (1985). Triangulations for Rubber-Sheeting, Proc. of Auto-Carto 7, Falls Church, VA:
+ACSM/ASP 
+[34] Gösseln, G. v. & Sester, M. (2003). Semantic and geometric Integration of geoscientific Data Sets with
+ATKIS - Applied to Geo-Objects from Geology and Soil Science, Proc. of ISPRS Commission IV
+Joint Workshop "Challenges in Geospatial Analysis, Integration and Visualization II", Stuttgart,
+Germany, pp. 111-116, September 8 - 9, 2003
+[35] Gösseln, G.v. & Sester, M. (2004). Intergration of geoscientific data sets and the German digital map
+using a matching approach, XXth ISPRS Congress, Istanbul, Turkey, pp. 1249-1254, July 12-23,
+2004
+[36] Gösseln, G.v. (2005). A matching approach for the integration, change detection and adaptation of
+heterogeneous vector data sets, XXII International Cartography Conference, 2005
+[37] Hampe, M. & Sester, M. (2004). Generating and Using A Multi-Representation Data-Base (MRDB) for
+Mobile Applications, Papers of the ICA Workshop on Generalisation and Multiple Representation,
+Leicester, 9 pages in CD-Proc., August 20-21, 2004
+[38] Hangouët, J.-F. (1995). Computation of the Hausdorff Distance between Plane Vector Polylines. AutoCarto12,
+ACSM/ASPRS Annual Convention & Exposition Technical Papers, Charlotte, NC, USA,
+February 27-March 1, 1995
+[39] Haunert, J.-H. & Sester, M. (2004). Using the Straight Skeleton for Generalisation in a Multiple
+Representation Environment, 7th ICA Workshop on Generalisation and Multiple Representation,
+2004
+[40] Haunert, J-H and Sester, M. (2008). Area Collapse and Road Centerlines based on Straight Skeletons,
+Geoinformatica (2008) 12, pp.169-191, Springer, 2008
+[41] Hoelf, E.G. & Samet, H. (1991). Efficient processing of spatial queries in line segment databases, Proc. of
+2nd Symposium on Large Spatial Database (SSD’ 91), Zurich, Switzerland, August 1991
+[42] Hu, Y., Chen, J., Li, Z., Zhao R. (2008): Road Data Updating Using Tools of Matching and Map
+Generalization, ISPRS Vol. XXXVII, Part B4. Beijing, 2008
+[43] Jones, C B, Kidner, D B, Luo, L Q, Bundy Gl & Ware J M. (1996). Database design for a multi-scale
+spatial information system, International Journal of Geographical Information Science, Vol. 10(8),
+pp. 901-920
+[44] Jong-Sun, P., Dong-Ho, S. & Tae-Kyung, S. (2001). Development of a map matching method using the
+multiple hypothesis technique, IEEE Intelligent Transportation Systems Conference. Oakland, CA,
+USA
+[45] JUMP (2006). The JUMP Project, http://www.jump-project.org/, (accessed on 2009-10-08)
+[46] Kampshoff, S. (2005). Integration heterogener raumbezogener Objekte aus fragmentierten
+Geodatenbeständen, Dissertation, Rheinisch-Westfälischen Technischen Hochschule Aachen,
+Germany, 2005
+[47] Kang, H. (2001). Spatial Data Integration: A Case Study of Map Conflation with Census Bureau and Local
+Government Data, University Consortium for Geographic Information Science, Summer Assembly,
+June 2001, http://www.cobblestoneconcepts.com/ucgis2summer/kang/kang_main.htm (accessed
+on 2009-10-10)
+[48] Kashyap, V. & Sheth, A. (1996). Semantic and Schematic Similarities between Database Objects: A
+Context-based approach, In. International Journal on Very Large Data Bases, Vol. 5/4, pp.276-304,
+Spinger, 1996
+[49] Kolahdouzan, M., Chen, C., Shahabi C. & Knoblock C. A. (2005). GeoMatchMaker Automatic and
+Efficient Matching of Vector Data with Spatial Attributes in Unknown Geometry Systems, UCGIS
+Summer Assembly 2005, USA, http://www.ucgis.org/summer2005/studentpapers.htm (accessed on
+2009-07-28) 
+[50] Lanig, S. & Zipf, A. (2009): Interoperable processing of digital elevation models in grid infrastructures,
+Earth Science Informatics, volume 2, pp.107-116, Springer, 2009
+[51] Levenshtein VI (1965). Binary Codes Capable of Correcting Deletions, Insertions, and Reversals, Soviet
+Physics - Doklady, 10(8), pp. 707-710, Translated from Doklady Akademii Nauk SSSR, 163(4), pp.
+845-848
+[52] Löcherbach, T. (1994). Fusion of multi-sensor images and digital map data for the reconstruction and
+interpretation of agricultural landuse units, International Archives of Photogrammetry and Remote
+Sensing 30 (Part 3/2), pp. 505-511
+[53] Lupien, A. E. & Moreland, W.H. (1987). A general approach to map compilation, AUTOCARTO 8, ACSMASPRS,
+Falls Church, Va., pp 630-639
+[54] Lüscher, P., Burghardt, D. & Weibel, R. (2007). Matching road data of scales with an order of magnitude
+difference, CD-Proc. of the XXIII International Cartographic Conference (ICC), Incremental
+Updating and Versioning of Spatial Data, Moscow, Russia, August 4-10, 2007
+[55] Lv, W., Liao, W., Wu, D. & Xie, J. (2008). A New Road Network Model and Its Application in a Traffic
+Information System, Proc. of the Fourth International Conference on Autonomic and Autonomous
+Systems (ICAS 2008)
+[56] Mantel, D. & Lipeck, U. (2004). Matching Cartographic Objects in Spatial Databases, ISPRS Vol. XXXV,
+ISPRS Congress, Commission 4, Istanbul, Turkey, July 12-23, 2004
+[57] Marchal, F., Hackney, J. & Axhausen, K. W. (2004). Efficient Map-Matching of Large GPS Data Sets -
+Tests on a Speed Monitoring Experiment in Zurich, Vol. 244 of Arbeitsbericht Verkehrs und
+Raumplanung
+[58] Markovsky, I. & Mahmoodi, S. (2009). Least squares contour alignment, IEEE Signal Processing Letters,
+16 (1). pp. 41-44. ISSN 1070-9908
+[59] Mascret, A., Devogele, T., Le Berre, I. & Hénaff, A. (2006). Coastline matching process based on the
+discrete Fréchet distance, Proc. of the 12th International Symposium on Spatial Data Handling
+(SDH), pp. 383-400, Springer: Vienna, Austria, 2006.
+[60] Meng, L. & Töllner, D. (2004). Ein Reverse-Engineering-Ansatz zur Generalisierung topographischer
+Daten, KN 4/2004, pp.159-163
+[61] Min, D., Zhilin, L. and Xiaoyong, C. (2007). Extended Hausdorff distance for spatial objects in GIS,
+International, Journal of Geographical Information Science, Vol. 21(4), pp. 459 - 475
+[62] Moosavi A. & Alesheikh A. A. (2008). Developing of Vector Matching Algorithm Considering Topologic
+Relations, Proc. of Map Middle East 2008, Dubai, UAE, 2008
+[63] Mustière, S. & Devogele, T. (2008). Matching networks with different levels of detail, GeoInformatica
+(2008), Vol.12, pp. 435-453, Springer
+[64] Mustière, S. (2006). Results of experiments of automated matching of networks at different scales, ISPRS
+Vol. XXXVI. ISPRS Workshop - Multiple representation and interoperability of spatial data,
+Hannover, Germany, February 22-24, 2006
+[65] Navarro, G. (2001). A guided tour to approximate string matching, ACM Computing Surveys, Vol. 33(1),
+pp. 31-88, 2001
+[66] Neuland, M. & Kürner, T. (2007). Analysis of the impact of map-matching on the accuracy of propagation
+models, Advances in Radio Science, Vol. 5, pp.367-372
+[67] Novak, K., (1992). Rectification of digital imagery, Photogrammetric Engineering and Remote Sensing 58,
+pp. 339-344
+[68] Nystuen, J.D., Frank, A.I., Frank, Jr., L., (1997). Assessing topological similarity of spatial networks, Proc.
+of International Conference on Interoperating Geographic Information Systems, Santa Barbara,
+California, USA
+[69] Ochieng, W.Y., Quddus, M.A. & Noland, R.B. (2003). Map-Matching in Complex Urban Road Networks,
+Brazilian Journal of Cartography (Revista Brasileira de Cartografia), Vol. 55 (2), pp. 1-18
+[70] Olteanu A.-M. (2007). Matching geographical data using the Theory of Evidence, CD-Proc. of the XXIII
+International Cartographic Conference (ICC), Incremental Updating and Versioning of Spatial Data,
+Moscow, Russia, August 4-10, 2007
+[71] Olteanu, A.-M., Mustière, S., & Ruas, A. (2006). Matching imperfect spatial data, 7th International
+Symposium on Spatial Accuracy Assessment in Natural Resources and Environmental Sciences,
+Lisbon, Portugal, July 5-7, 2006
+[72] Paleo, B.W. (2007). An approximate gazetteer for GATE based on levenshtein distance, Student Section
+of the European Summer School in Logic, Language and Information (ESSLLI),
+http://www.logic.at/people/bruno/Papers/2007-GATE-ESSLLI.pdf, (accessed on 2009-07-27).
+[73] Parent, C. & Spaccapietra, S. (2000). Database Integration: the Key to Data Interoperability, Advances in
+Object-Oriented Data Modeling, Papazoglou, M. P., Spaccapietra, S. & Z. Tari (Eds.), The MIT
+Press, 2000, http://lbdwww.epfl.ch/e/publications_new/articles.pdf/OObook.pdf (accessed on 2009-
+07-27)
+[74] Pendyala, R.M. (2002). Technical Report: Development of GIS-based Conflation Tools for Data
+Integration and Matching, Final Report: Executive Summary, http://www.dot.state.fl.us/researchCenter/Completed_Proj/Summary_PL/FDOT_BC353_21_rpt.pdf
+(accessed on 2009-10-01)
+[75] Pyo, J.-S., Shin, D.-H. & Sung T.-K. (2001). Development of a Map Matching Method Using The Multiple
+Hypothesis Technique, Proc. of IEEE Intelligent Transportation Systems Conference, pp. 23 - 27
+[76] Quddus, M. A., Noland, R. B., & Ochieng, W. Y. (2006). A High Accuracy Fuzzy Logic Based Map
+Matching Algorithm for Road Transport, Journal of Intelligent Transportation Systems: Technology,
+Planning, and Operations, Vol. 10 (3), pp.103-115
+[77] Quddus, M.A., Ochieng, W.Y., Zhao, L. & Noland, R.B. (2003). A General Map Matching Algorithm for
+Transport Telematics Applications. GPS Solutions Journal, Vol. 7 (3), pp. 157-167.
+[78] Raimond, A.-M. O. & Mustière, S. (2008). Data Matching - a Matter of Belief, Headway in Spatial Data
+Handling, 13th International Symposium on Spatial Data Handling (SDH), pp. 501-519, Spinger
+Montpellier, France, 2008
+[79] Rosen, B. & Saalfeld, A. (1985). Match Criteria for Automatic Alignment, Proc. of Auto-Carto VII, 1985
+[80] Rossum, G. v. (1998). Python Patterns - Implementing Graphs, Python Software Foundation,
+http://www.python.org/doc/essays/graphs.html, (accessed on 2009-07-27)
+[81] Rucklidge, W.J. (1996). Efficient visual recognition using the Hausdorff distance, a book of Lecture Notes
+in Computer Science, 1173, Berlin: Springer.
+[82] Saalfeld, A. (1985). A Fast Rubber-Sheeting Transformation Using Simplicial Coordinates," October issue
+of The American Cartographer
+[83] Saalfeld A. (1988). Conflation: Automated map compilation, International Journal of Geographic
+Information Systems, Vol. 2(3): pp. 217-228
+[84] Safra, E & Doytsher, Y. (2006). Using matching algorithms for improving locations in cadastral maps,
+XXIII FIG Congress, Munich, Germany, October 2006 
+[85] Safra, E., Kanza Y., Sagiv Y. & Doytsher Y. (2006). Efficient integration of road maps, Proc. of the 14th
+annual ACM international symposium on Advances in geographic information systems
+SESSION:Data integration, pp. 59-66, Arlington, Virginia, USA, 2006
+[86] Schimandl, F., Zhang, M., Mustafa, M., Meng, L. (2009). Real time application for traffic state estimation
+based on large sets of floating car data, International Scientific Conference on Mobility and
+Transport - ITS for larger Cities, Munich, Germany, May 12-13th, 2009
+[87] Sehgal, V., Getoor, L. & Viechnicki, P.D. (2006). Entity resolution in geospatial data integration, Proc. of
+the 14th annual ACM international symposium on Advances in geographic information system,
+SESSION: Data integration, pp. 83-90, Arlington, Virginia, USA, 2006
+[88] Sester, M., Anders, K. & Walter, V. (1998). Linking Objects of Different Spatial Data Sets by Integration
+and Aggregation, GeoInfomatica, Vol.2, No.4, pp 335-358
+[89] Shafer. G (1976). A Mathematical Theory of Evidence, Princeton University Press
+[90] Sheeren, D., Mustière, S. & Zucker, J.-D. (2004). How to Integrate Heterogeneous Spatial Database in a
+Consistent Way? ADBIS 2004: advances in databases and information systems, pp. 364-378,
+LNCS 3255, Springer, 2004
+[91] Sheth, A. (1991). Semantic issues in Multidatabase Systesms, SIGMOD Record, special issue on
+Semantic Issues in Multidatabases, ed. 20(4), 1991
+[92] Song, W., Haithcoat, T.L. & Keller, J.M. (2006). A Snake-based Approach for TIGER Road Data
+Conflation, Cartography and Geographic Information Science, Vol. 33, No. 4, pp. 287-298, 2006
+[93] Stigmar, H. (2005). Matching Route Data and Topographic Data in a Real-Time Environment, 10th
+Scandinavian Research Conference on Geographical Information Science, June 13-15, 2005,
+Stockholm, http://www.scangis.org/scangis2005/papers/stigmar.pdf (accessed on 2009-07-28)
+[94] Stigmar, H. (2006). Some Aspects of Mobile Map Services, Licentiate Dissertation, ISSN 1652-4810,
+Lund University, Sweden
+[95] Stilla, U., (1995). Map-aided structural analysis of aerial images. ISPRS Journal of Photogrammetry and
+Remote Sensing 50, pp. 3-10
+[96] Tele Atlas, MultiNet™ User Guide Shapefile Format, 2003
+[97] Theobald, D. M. (2001). Understanding Topology and Shapefiles, Arc User, http://www.esri.com/
+news/arcuser/0401/topo.html (accessed on 2009-07-27)
+[98] Tiedge M., Lipeck, U. & Mantel, D., (2004). Design of a Database System for Linking Geoscientific Data,
+Geotechnologien Science Report "Information Systems in Earth Management", No. 4,
+Koordinierungsbüro Geotechnologien, Potsdam, 2004, pp. 83-87, http://www.dbs.unihannover.de/schriften/publications/TLM2004a.pdf
+(accessed on 2009-10-01)
+[99] Thom, S. (2005). A Strategy for Collapsing OS Integrated Transport Network™ dual carriageways, 8th
+ICA WORKSHOP on Generalisation and Multiple Representation, A Coruña, July 7-8, 2005
+[100] Tomaselli, L. (1994). Topological transfer: evolving linear GIS accuracy. URISA Proc., pp. 245-259
+[101] United Maps (2009). http://www.unitedmaps.net/ (accessed on 2009-08-27)
+[102] Unser, M., Neimark, M.A. & Lee, C. (1994). Affine Transformations of Images: A Least Squares
+Formulation, Proc. of the 1994 IEEE International Conference on Image Processing (ICIP'94),
+Austin TX, USA, vol. III, pp. 558-561, November 13-16, 1994
+[103] Veltkamp R. C. (2001). Shape Matching: Similarity Measures and Algorithms, Technical report of
+Department of Computing Science, Utrecht University, Netherlands, http://www.cs.uu.nl/research/
+techreps/repo/CS-2001/2001-03.pdf (accessed on 2009-07-27)
+[104] Vivid Solutions (2005). http://www.vividsolutions.com/JCS/ (accessed on 2009-07-27)
+[105] Volz, S. & Walter, V. (2004). Linking Different Geospatial Databases by Explicit Relations, Proc. of the
+XXth ISPRS Congress, Comm. IV, Istanbul, Turkey, pp. 152-157
+[106] Volz, S. & Bofinger, J.M. (2002). Integration of spatial data within a generic platform for location-based
+applications, Proc. of the Joint International Symposium on Geospatial Theory, Processing and
+Applications, Ottawa, Canada, 2002
+[107] Volz, S. (2006). An iterative approach for matching multiple representations of street data, Hampe, M.,
+Sester, M. and Harrie, L. (eds.): ISPRS Vol. XXXVI., ISPRS Workshop - Multiple representation and
+interoperability of spatial data, Hannover, Germany, February 22-24, 2006
+[108] Walter, V. & Fritsch, D. (1999). Matching Spatial Data Sets: a Statistical Approach, International Journal
+of Geographical Information Science, Vol.13, No.5, pp. 445-473
+[109] Walter, V. (1997). Zuordnung von raumbezogenen Daten - am Beispiel der Datenmodelle ATKIS und
+GDF, Dissertation, Deutsche Geodätische Kommission (DGK) Reihe C, Nummer 480.
+[110] Wang, Y. (1998). Principles and applications of structural image matching, ISPRS Journal of
+Photogrammetry and Remote Sensing 53, 154±165
+[111] White, M. & Griffin, P. (1985). Piecewise Linear Rubber-Sheet Map Transformations, October issue of
+The American Cartographer
+[112] Wikipedia (2009) A
+: http://en.wikipedia.org/wiki/Grid_(spatial_index), accessed on 2009-07-02
+[113] Wikipedia (2009) B
+: http://en.wikipedia.org/wiki/OpenStreetMap, accessed on 2009-10-02
+[114] Wu, D., Zhu, T., Lv, W. & Gao, X. (2007). A Heuristic Map-Matching Algorithm by Using Vector-Based
+Recognition, International Multi-Conference on Computing in the Global Information Technology,
+Guadeloupe, French Caribbean
+[115] Xiong, D. & Sperling, J. (2004). Semiautomated matching for network database integration, Vol. 59,
+Issues 1-2, ISPRS Journal of Photogrammetry and Remote Sensing, Special Issue on Advanced
+Techniques for Analysis of Geo-spatial Data, pp. 35 - 46, August 2004
+[116] Xiong, D. (2000). A three-stage computational approach to network matching, Transportation Research
+Part C: Emerging Technologies Vol. 8, pp. 71-89
+[117] Yang, J.-S., Kang, S.-P. & Chon, K.-S. ( 2005). The Map Matching Algorithm Of GPS Data With
+Relatively Long Polling Time Intervals, Journal Of The Eastern Asia Society For Transportation
+Studies, Vol. 6, pp. 2561-2573
+[118] Yuan, S. & Tao, C. (1999). Development of Conflation Components, Proc. of Geoinformatics'99, Ann
+Arbor, pp. 1-13, June 19-21, 1999
+[119] Zhang, M. & Meng, L. (2007). An iterative road-matching approach for the integration of postal data,
+Computers, Environment and Urban Systems, Vol. 31/5, pp. 598-616, Elsevier, 2007
+[120] Zhang, M. & Meng, L. (2008). Delimited Stroke Oriented Algorithm- Working Principle and Implementation
+for the Matching of Road Networks, Journal of Geographic Information Sciences, Vol. 14/1, pp. 44-
+53, June 2008
+[121] Zhang, M., Meng, L. & Qian, H. (2007). A structure-oriented matching approach for the integration of
+different road networks, CD-Proc. of the XXIII International Cartographic Conference (ICC),
+Incremental Updating and Versioning of Spatial Data, Moscow, Russia, August 4-10, 2007
+[122] Zhang, M., Mustafa, M., Schimandl, F. & Meng, L. (2009). A Grid-Based Spatial Index for Matching
+between Moving Vehicles and Road-Network in a Real-Time Environment, Proc. of the XXIV International Cartographic Conference (ICC), Santiago, Chile, November 15-21, 2009, pages
+pending
+[123] Zhang, M., Shi, W. & Meng, L. (2005). A generic matching algorithm for line networks of different
+resolutions, Workshop of ICA Commission on Generalization and Multiple Representation
+Computering Faculty of A Coruña University - Campus de Elviña, Spain
+[124] Zhang, M., Liu, L., Gong, H. & Meng, L. (2008). An automatic approach to integrate routing-relevant
+information from different resources. 16th ACM SIGSPATIAL International Conference on
+Advances in Geographic Information Systems (ACM GIS), Irvine, CA, USA, November 5-7, 2008
+[125] Zhang, Y., Heipke, C., Butenuth, M., & Hu, X. (2006). Automatic extraction of wind erosion obstacles by
+integration of GIS data, DSM and stereo images. International Journal of Remote Sensing 27 (8),
+pp. 1677-1690.
+[126] Zhang, Q. & Couloigner, I. (2005). Spatio-Temporal Modeling in Road Network Change Detection and
+Updating, Proc. of the International Symposium on Spatio-temporal Modeling, Spatial Reasoning,
+Analysis, Data Mining and Data Fusion, Peking University, China, August 27-29, 2005
+[127] Zhou, J. (2005). A Three-step General Map Matching Method in the GIS Environment: Travel
+/Transportation Study Perspective., UCGIS Summer Assembly 2005, USA, http://www.ucgis.org/
+summer2005/studentpapers.htm (accessed on 2009-06-07) 

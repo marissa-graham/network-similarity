@@ -1,0 +1,409 @@
+>>> NEW PAPER <<<
+>>> citation >>> S. Rice, H. Bunke, and T. Nartker, ªClasses of Cost Functions for String Matching,º Algorithmica, vol. 18, no. 2, pp. 271-280, 1997.
+>>> DOI >>> 10.1007/bf02526038
+>>> URL >>> http://dx.doi.org/10.1007/bf02526038
+>>> year >>> 1997.0
+>>> title >>> Classes of cost functions for string edit distance
+>>> author >>> S. V. Rice and H. Bunke and T. A. Nartker
+>>> reference_count >>> 8.0
+>>> is_referenced_by_count >>> 21.0
+>>> subject >>> None
+>>> container_title >>> ['Algorithmica']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:03:08Z', 'timestamp': 1525330988370}, 'reference-count': 8, 'publisher': 'Springer Nature', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Algorithmica'], 'published-print': {'date-parts': [[1997, 6]]}, 'DOI': '10.1007/bf02526038', 'type': 'journal-article', 'created': {'date-parts': [[2006, 11, 8]], 'date-time': '2006-11-08T04:45:41Z', 'timestamp': 1162961141000}, 'page': '271-280', 'source': 'Crossref', 'is-referenced-by-count': 21, 'title': ['Classes of cost functions for string edit distance'], 'prefix': '10.1007', 'volume': '18', 'author': [{'given': 'S. V.', 'family': 'Rice', 'sequence': 'first', 'affiliation': []}, {'given': 'H.', 'family': 'Bunke', 'sequence': 'additional', 'affiliation': []}, {'given': 'T. A.', 'family': 'Nartker', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'BF02526038_CR1', 'author': 'A. V. Aho', 'first-page': '255', 'year': '1990', 'unstructured': 'A. V. Aho, Algorithms for finding patterns in strings, inHandbook of Theoretical Computer Science, vol. A (J. van Leeuwen, ed.), Elsevier, Amsterdam, 1990, pp. 255–300.', 'volume-title': 'Handbook of Theoretical Computer Science'}, {'key': 'BF02526038_CR2', 'year': '1983', 'unstructured': 'D. Sankoff and J. Kruskal, eds.,Time Warps, String Edits, and Macromolecules: The Theory and Practice of Sequence Comparison, Addison-Wesley, Reading, MA, 1983.', 'volume-title': 'Time Warps, String Edits, and Macromolecules: The Theory and Practice of Sequence Comparison'}, {'key': 'BF02526038_CR3', 'unstructured': 'J. Kanai, T. A. Nartker, S. V. Rice, and G. Nagy, Performance metrics for document understanding systems,Proceedings of the Second International Conference on Document Analysis and Recognition, 1993, pp. 424–427.'}, {'key': 'BF02526038_CR4', 'first-page': '312', 'volume': '12', 'author': 'D. Gusfield', 'year': '1994', 'unstructured': 'D. Gusfield, K. Balasubramanian, and D. Naor, Parametric optimization of sequence alignment,Algorithmica,12 (1994), 312–326.', 'journal-title': 'Algorithmica'}, {'issue': '1', 'key': 'BF02526038_CR5', 'first-page': '202', 'volume': '25', 'author': 'H. Bunke', 'year': '1995', 'unstructured': 'H. Bunke and J. Csirik, Parametric string edit distance and its application to pattern recognition,IEEE Trans. Systems Man Cybernet.,25(1) (1995), 202–206.', 'journal-title': 'IEEE Trans. Systems Man Cybernet.'}, {'issue': '1', 'key': 'BF02526038_CR6', 'doi-asserted-by': 'crossref', 'first-page': '168', 'DOI': '10.1145/321796.321811', 'volume': '21', 'author': 'R. A. Wagner', 'year': '1974', 'unstructured': 'R. A. Wagner and M. J. Fischer, The string-to-string correction problem,J. Assoc. Comput. Mach.,21(1) (1974), 168–173.', 'journal-title': 'J. Assoc. Comput. Mach.'}, {'key': 'BF02526038_CR7', 'first-page': '100', 'volume': '64', 'author': 'E. Ukkonen', 'year': '1985', 'unstructured': 'E. Ukkonen, Algorithms for approximate string matching,Inform. and Control,64 (1985), 100–118.', 'journal-title': 'Inform. and Control'}, {'key': 'BF02526038_CR8', 'first-page': '251', 'volume': '1', 'author': 'E. W. Myers', 'year': '1986', 'unstructured': 'E. W. Myers, AnO(N D) difference algorithm and its variations,Algorithmica,1 (1986), 251–266.', 'journal-title': 'Algorithmica'}], 'container-title': ['Algorithmica'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF02526038', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T11:10:23Z', 'timestamp': 1497697823000}, 'score': 92.9534, 'issued': {'date-parts': [[1997, 6]]}, 'references-count': 8, 'journal-issue': {'published-print': {'date-parts': [[1997, 6]]}, 'issue': '2'}, 'alternative-id': ['BF02526038'], 'URL': 'http://dx.doi.org/10.1007/bf02526038', 'relation': {'cites': []}, 'ISSN': ['0178-4617', '1432-0541'], 'issn-type': [{'value': '0178-4617', 'type': 'print'}, {'value': '1432-0541', 'type': 'electronic'}]}
+>>> hash >>> ('Classes of cost functions for string edit distance', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W.J. Christmas, J. Kittler, and M. Petrou, ªStructural Matching in Computer Vision Using Probabilistic Relaxation,º IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 17, no. 8, pp. 749-764, 1995.
+>>> DOI >>> 10.1109/34.400565
+>>> URL >>> http://dx.doi.org/10.1109/34.400565
+>>> year >>> 1995.0
+>>> title >>> Structural matching in computer vision using probabilistic relaxation
+>>> author >>> W.J. Christmas and J. Kittler and M. Petrou
+>>> reference_count >>> 45.0
+>>> is_referenced_by_count >>> 244.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T16:22:37Z', 'timestamp': 1525537357016}, 'reference-count': 45, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '8', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1995]]}, 'DOI': '10.1109/34.400565', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T17:57:42Z', 'timestamp': 1030211862000}, 'page': '749-764', 'source': 'Crossref', 'is-referenced-by-count': 244, 'title': ['Structural matching in computer vision using probabilistic relaxation'], 'prefix': '10.1109', 'volume': '17', 'author': [{'given': 'W.J.', 'family': 'Christmas', 'sequence': 'first', 'affiliation': []}, {'given': 'J.', 'family': 'Kittler', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Petrou', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/9031/00400565.pdf?arnumber=400565', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:28:58Z', 'timestamp': 1497522538000}, 'score': 115.79709, 'issued': {'date-parts': [[1995]]}, 'references-count': 45, 'journal-issue': {'issue': '8'}, 'URL': 'http://dx.doi.org/10.1109/34.400565', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Structural matching in computer vision using probabilistic relaxation', 1995.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S.W. Lu, Y. Ren, and C.Y. Suen, ªHierarchical Attributed Graph Representation and Recognition of Handwritten Chinese Characters,º Pattern Recognition, vol. 24, pp. 617-632, 1991.
+>>> DOI >>> 10.1016/0031-3203(91)90029-5
+>>> URL >>> http://dx.doi.org/10.1016/0031-3203(91)90029-5
+>>> year >>> 1991.0
+>>> title >>> Hierarchical attributed graph representation and recognition of handwritten chinese characters
+>>> author >>> None
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 67.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 28]], 'date-time': '2018-05-28T11:02:36Z', 'timestamp': 1527505356332}, 'reference-count': 18, 'publisher': 'Elsevier BV', 'issue': '7', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1991, 1, 1]], 'date-time': '1991-01-01T00:00:00Z', 'timestamp': 662688000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[1991, 1]]}, 'DOI': '10.1016/0031-3203(91)90029-5', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 30]], 'date-time': '2003-06-30T18:41:01Z', 'timestamp': 1056998461000}, 'page': '617-632', 'source': 'Crossref', 'is-referenced-by-count': 67, 'title': ['Hierarchical attributed graph representation and recognition of handwritten chinese characters'], 'prefix': '10.1016', 'volume': '24', 'author': [{'family': 'Si Wei Lu', 'sequence': 'first', 'affiliation': []}, {'given': 'Ying', 'family': 'Ren', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ching Y.', 'family': 'Suen', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0031320391900295?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0031320391900295?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T22:56:52Z', 'timestamp': 1497567412000}, 'score': 110.523415, 'issued': {'date-parts': [[1991, 1]]}, 'references-count': 18, 'journal-issue': {'published-print': {'date-parts': [[1991, 1]]}, 'issue': '7'}, 'alternative-id': ['0031320391900295'], 'URL': 'http://dx.doi.org/10.1016/0031-3203(91)90029-5', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Hierarchical attributed graph representation and recognition of handwritten chinese characters', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y.-K. Wang, K.-C. Fan, and J.-T. Horng, ªGenetic-Based Search for ErrorCorrecting Graph Isomorphism,º IEEE Trans. Systems, Man, and Cybernetics, vol. 27, pp. 588-597, May 1997.
+>>> DOI >>> 10.1109/3477.604100
+>>> URL >>> http://dx.doi.org/10.1109/3477.604100
+>>> year >>> 1997.0
+>>> title >>> Genetic-based search for error-correcting graph isomorphism
+>>> author >>> None
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 30.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Systems, Man and Cybernetics, Part B (Cybernetics)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:31:16Z', 'timestamp': 1525332676388}, 'reference-count': 18, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Syst., Man, Cybern. B'], 'published-print': {'date-parts': [[1997]]}, 'DOI': '10.1109/3477.604100', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T19:45:59Z', 'timestamp': 1030218359000}, 'page': '588-597', 'source': 'Crossref', 'is-referenced-by-count': 30, 'title': ['Genetic-based search for error-correcting graph isomorphism'], 'prefix': '10.1109', 'volume': '27', 'author': [{'family': 'Yuan-Kai Wang', 'sequence': 'first', 'affiliation': []}, {'family': 'Kuo-Chin Fan', 'sequence': 'additional', 'affiliation': []}, {'family': 'Jorng-Tzong Horng', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Systems, Man and Cybernetics, Part B (Cybernetics)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/3477/13260/00604100.pdf?arnumber=604100', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:10:24Z', 'timestamp': 1497521424000}, 'score': 76.40569, 'issued': {'date-parts': [[1997]]}, 'references-count': 18, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/3477.604100', 'ISSN': ['1083-4419'], 'issn-type': [{'value': '1083-4419', 'type': 'print'}]}
+>>> hash >>> ('Genetic-based search for error-correcting graph isomorphism', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Herault, R. Horaud, F. Veillon, and J.J. Niez, ªSymbolic Image Matching by Simulated Annealing,º Proc. British Machine Vision Conf., pp. 319-324, Oxford, U.K., 1990.
+>>> DOI >>> 10.5244/c.4.57
+>>> URL >>> http://dx.doi.org/10.5244/c.4.57
+>>> year >>> 1990.0
+>>> title >>> Symbolic image matching by simulated annealing
+>>> author >>> L. Herault and R. Horaud and F. Veillon and J. Niez
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> ['Procedings of the British Machine Vision Conference 1990']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T15:25:56Z', 'timestamp': 1525706756892}, 'reference-count': 0, 'publisher': 'British Machine Vision Association', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1990]]}, 'DOI': '10.5244/c.4.57', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 4, 6]], 'date-time': '2013-04-06T06:05:49Z', 'timestamp': 1365228349000}, 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['Symbolic image matching by simulated annealing'], 'prefix': '10.5244', 'author': [{'given': 'L.', 'family': 'Herault', 'sequence': 'first', 'affiliation': []}, {'given': 'R.', 'family': 'Horaud', 'sequence': 'additional', 'affiliation': []}, {'given': 'F.', 'family': 'Veillon', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Niez', 'sequence': 'additional', 'affiliation': []}], 'member': '3205', 'event': {'name': 'British Machine Vision Conference 1990', 'theme': 'Machine Vision, Image Processing & Pattern Recognition', 'location': 'Oxford', 'sponsor': ['British Machine Vision Association'], 'acronym': 'BMVC 1990', 'number': '1990'}, 'container-title': ['Procedings of the British Machine Vision Conference 1990'], 'deposited': {'date-parts': [[2013, 4, 6]], 'date-time': '2013-04-06T06:06:08Z', 'timestamp': 1365228368000}, 'score': 105.56448, 'issued': {'date-parts': [[1990]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.5244/c.4.57', 'article-number': '57'}
+>>> hash >>> ('Symbolic image matching by simulated annealing', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Rocha and T. Pavlidis, ªA Shape Analysis Model with Applications to a Character Recognition System,º IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 16, pp. 393-404, 1994.
+>>> DOI >>> 10.1109/34.277592
+>>> URL >>> http://dx.doi.org/10.1109/34.277592
+>>> year >>> 1994.0
+>>> title >>> A shape analysis model with applications to a character recognition system
+>>> author >>> J. Rocha and T. Pavlidis
+>>> reference_count >>> 20.0
+>>> is_referenced_by_count >>> 85.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:48Z', 'timestamp': 1525333548029}, 'reference-count': 20, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1994, 4]]}, 'DOI': '10.1109/34.277592', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T17:57:42Z', 'timestamp': 1030211862000}, 'page': '393-404', 'source': 'Crossref', 'is-referenced-by-count': 85, 'title': ['A shape analysis model with applications to a character recognition system'], 'prefix': '10.1109', 'volume': '16', 'author': [{'given': 'J.', 'family': 'Rocha', 'sequence': 'first', 'affiliation': []}, {'given': 'T.', 'family': 'Pavlidis', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/6857/00277592.pdf?arnumber=277592', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T09:25:05Z', 'timestamp': 1489051505000}, 'score': 105.21925, 'issued': {'date-parts': [[1994, 4]]}, 'references-count': 20, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/34.277592', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A shape analysis model with applications to a character recognition system', 1994.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L.G. Shapiro and R.M. Haralick, ªStructural Descriptions and Inexact Matching,º IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 3, pp. 504-519, 1981.
+>>> DOI >>> 10.1109/tpami.1981.4767144
+>>> URL >>> http://dx.doi.org/10.1109/tpami.1981.4767144
+>>> year >>> 1981.0
+>>> title >>> Structural Descriptions and Inexact Matching
+>>> author >>> Linda G. Shapiro and Robert M. Haralick
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 289.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T22:22:27Z', 'timestamp': 1525904547987}, 'reference-count': 18, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[1981, 9]]}, 'DOI': '10.1109/tpami.1981.4767144', 'type': 'journal-article', 'created': {'date-parts': [[2009, 1, 29]], 'date-time': '2009-01-29T21:35:15Z', 'timestamp': 1233264915000}, 'page': '504-519', 'source': 'Crossref', 'is-referenced-by-count': 289, 'title': ['Structural Descriptions and Inexact Matching'], 'prefix': '10.1109', 'volume': 'PAMI-3', 'author': [{'given': 'Linda G.', 'family': 'Shapiro', 'sequence': 'first', 'affiliation': []}, {'given': 'Robert M.', 'family': 'Haralick', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/4767139/04767144.pdf?arnumber=4767144', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T00:15:04Z', 'timestamp': 1510618504000}, 'score': 89.15078, 'issued': {'date-parts': [[1981, 9]]}, 'references-count': 18, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/tpami.1981.4767144', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Structural Descriptions and Inexact Matching', 1981.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S.W. Lee, J.H. Kim, and F.C.A. Groen, ªTranslation-, Rotation-, and ScaleInvariant Recognition of Hand-Drawn Symbols in Schematic Diagrams,º Int'l J. Pattern Recognition and Artificial Intelligence, vol. 4, no. 1, pp. 1-15, 1990.
+>>> DOI >>> 10.1142/s0218001490000022
+>>> URL >>> http://dx.doi.org/10.1142/s0218001490000022
+>>> year >>> 1990.0
+>>> title >>> TRANSLATION-, ROTATION- AND SCALE- INVARIANT RECOGNITION OF HAND-DRAWN SYMBOLS IN SCHEMATIC DIAGRAMS
+>>> author >>> SEONG-WHAN LEE and JIN H. KIM and FRANS C.A. GROEN
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 19.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Pattern Recognition and Artificial Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T10:16:40Z', 'timestamp': 1525429000980}, 'reference-count': 0, 'publisher': 'World Scientific Pub Co Pte Lt', 'issue': '01', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int. J. Patt. Recogn. Artif. Intell.'], 'published-print': {'date-parts': [[1990, 3]]}, 'DOI': '10.1142/s0218001490000022', 'type': 'journal-article', 'created': {'date-parts': [[2004, 11, 29]], 'date-time': '2004-11-29T02:14:37Z', 'timestamp': 1101694477000}, 'page': '1-25', 'source': 'Crossref', 'is-referenced-by-count': 19, 'title': ['TRANSLATION-, ROTATION- AND SCALE- INVARIANT RECOGNITION OF HAND-DRAWN SYMBOLS IN SCHEMATIC DIAGRAMS'], 'prefix': '10.1142', 'volume': '04', 'author': [{'given': 'SEONG-WHAN', 'family': 'LEE', 'sequence': 'first', 'affiliation': []}, {'given': 'JIN H.', 'family': 'KIM', 'sequence': 'additional', 'affiliation': []}, {'given': 'FRANS C.A.', 'family': 'GROEN', 'sequence': 'additional', 'affiliation': []}], 'member': '219', 'container-title': ['International Journal of Pattern Recognition and Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://www.worldscientific.com/doi/pdf/10.1142/S0218001490000022', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 2]], 'date-time': '2016-12-02T05:49:49Z', 'timestamp': 1480657789000}, 'score': 82.39608, 'issued': {'date-parts': [[1990, 3]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1990, 3]]}, 'issue': '01'}, 'alternative-id': ['10.1142/S0218001490000022'], 'URL': 'http://dx.doi.org/10.1142/s0218001490000022', 'ISSN': ['0218-0014', '1793-6381'], 'issn-type': [{'value': '0218-0014', 'type': 'print'}, {'value': '1793-6381', 'type': 'electronic'}]}
+>>> hash >>> ('TRANSLATION-, ROTATION- AND SCALE- INVARIANT RECOGNITION OF HAND-DRAWN SYMBOLS IN SCHEMATIC DIAGRAMS', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Xu and E. Oja, ªImproved Simulated Annealing, Boltzmann Machine, and Attributed Graph Matching,º Lecture Notes in Computer Science 412, L. Almeida, ed., pp. 151-161, Springer Verlag, 1990.
+>>> DOI >>> 10.1007/3-540-52255-7_36
+>>> URL >>> http://dx.doi.org/10.1007/3-540-52255-7_36
+>>> year >>> 1990.0
+>>> title >>> Improved simulated annealing, Boltzmann machine, and attributed graph matching
+>>> author >>> Lei Xu and Erkki Oja
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 10.0
+>>> subject >>> None
+>>> container_title >>> ['Neural Networks', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T03:59:15Z', 'timestamp': 1525492755058}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540522553', 'type': 'print'}, {'value': '9783540469391', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1990]]}, 'DOI': '10.1007/3-540-52255-7_36', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 2, 25]], 'date-time': '2012-02-25T21:27:03Z', 'timestamp': 1330205223000}, 'page': '151-160', 'source': 'Crossref', 'is-referenced-by-count': 10, 'title': ['Improved simulated annealing, Boltzmann machine, and attributed graph matching'], 'prefix': '10.1007', 'author': [{'given': 'Lei', 'family': 'Xu', 'sequence': 'first', 'affiliation': []}, {'given': 'Erkki', 'family': 'Oja', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2005, 6, 8]]}, 'container-title': ['Neural Networks', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/3-540-52255-7_36', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T23:04:27Z', 'timestamp': 1389049467000}, 'score': 89.23071, 'issued': {'date-parts': [[1990]]}, 'ISBN': ['9783540522553', '9783540469391'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-52255-7_36', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Improved simulated annealing, Boltzmann machine, and attributed graph matching', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Bunke, ªOn a Relation between Graph Edit Distance and Maximum Common Subgraph,º Pattern Recognition Letters, vol. 18, pp. 689-694, 1997.
+>>> DOI >>> 10.1016/s0167-8655(97)00060-3
+>>> URL >>> http://dx.doi.org/10.1016/s0167-8655(97)00060-3
+>>> year >>> 1997.0
+>>> title >>> On a relation between graph edit distance and maximum common subgraph
+>>> author >>> H. Bunke
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 194.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition Letters']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T15:22:43Z', 'timestamp': 1525447363087}, 'reference-count': 17, 'publisher': 'Elsevier BV', 'issue': '8', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1997, 8, 1]], 'date-time': '1997-08-01T00:00:00Z', 'timestamp': 870393600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition Letters'], 'published-print': {'date-parts': [[1997, 8]]}, 'DOI': '10.1016/s0167-8655(97)00060-3', 'type': 'journal-article', 'created': {'date-parts': [[2003, 5, 19]], 'date-time': '2003-05-19T18:50:41Z', 'timestamp': 1053370241000}, 'page': '689-694', 'source': 'Crossref', 'is-referenced-by-count': 194, 'title': ['On a relation between graph edit distance and maximum common subgraph'], 'prefix': '10.1016', 'volume': '18', 'author': [{'given': 'H.', 'family': 'Bunke', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition Letters'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0167865597000603?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0167865597000603?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T01:52:11Z', 'timestamp': 1497491531000}, 'score': 122.68452, 'issued': {'date-parts': [[1997, 8]]}, 'references-count': 17, 'journal-issue': {'published-print': {'date-parts': [[1997, 8]]}, 'issue': '8'}, 'alternative-id': ['S0167865597000603'], 'URL': 'http://dx.doi.org/10.1016/s0167-8655(97)00060-3', 'ISSN': ['0167-8655'], 'issn-type': [{'value': '0167-8655', 'type': 'print'}]}
+>>> hash >>> ('On a relation between graph edit distance and maximum common subgraph', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Sanfeliu and K.S. Fu, ªA Distance Measure between Attributed Relational Graphs for Pattern Recognition,º IEEE Trans. Systems, Man, and Cybernetics, vol. 13, pp. 353-363, 1983.
+>>> DOI >>> 10.1109/tsmc.1983.6313167
+>>> URL >>> http://dx.doi.org/10.1109/tsmc.1983.6313167
+>>> year >>> 1983.0
+>>> title >>> A distance measure between attributed relational graphs for pattern recognition
+>>> author >>> Alberto Sanfeliu and King-Sun Fu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 301.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Systems, Man, and Cybernetics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365348}, 'reference-count': 0, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Syst., Man, Cybern.'], 'published-print': {'date-parts': [[1983, 5]]}, 'DOI': '10.1109/tsmc.1983.6313167', 'type': 'journal-article', 'created': {'date-parts': [[2012, 9, 27]], 'date-time': '2012-09-27T13:14:42Z', 'timestamp': 1348751682000}, 'page': '353-362', 'source': 'Crossref', 'is-referenced-by-count': 301, 'title': ['A distance measure between attributed relational graphs for pattern recognition'], 'prefix': '10.1109', 'volume': 'SMC-13', 'author': [{'given': 'Alberto', 'family': 'Sanfeliu', 'sequence': 'first', 'affiliation': []}, {'given': 'King-Sun', 'family': 'Fu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Systems, Man, and Cybernetics'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/21/6313159/06313167.pdf?arnumber=6313167', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T10:09:05Z', 'timestamp': 1510654145000}, 'score': 106.91536, 'issued': {'date-parts': [[1983, 5]]}, 'references-count': 0, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/tsmc.1983.6313167', 'ISSN': ['0018-9472', '2168-2909'], 'issn-type': [{'value': '0018-9472', 'type': 'print'}, {'value': '2168-2909', 'type': 'electronic'}]}
+>>> hash >>> ('A distance measure between attributed relational graphs for pattern recognition', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> B. Messmer and H. Bunke, ªA New Algorithm for Error-Tolerant Subgraph Isomorphism Detection,º IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 20, pp. 493-505, 1998.
+>>> DOI >>> 10.1109/34.682179
+>>> URL >>> http://dx.doi.org/10.1109/34.682179
+>>> year >>> 1998.0
+>>> title >>> A new algorithm for error-tolerant subgraph isomorphism detection
+>>> author >>> B.T. Messmer and H. Bunke
+>>> reference_count >>> 26.0
+>>> is_referenced_by_count >>> 147.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:32Z', 'timestamp': 1525333532010}, 'reference-count': 26, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1998, 5]]}, 'DOI': '10.1109/34.682179', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '493-504', 'source': 'Crossref', 'is-referenced-by-count': 147, 'title': ['A new algorithm for error-tolerant subgraph isomorphism detection'], 'prefix': '10.1109', 'volume': '20', 'author': [{'given': 'B.T.', 'family': 'Messmer', 'sequence': 'first', 'affiliation': []}, {'given': 'H.', 'family': 'Bunke', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx4/34/14993/00682179.pdf?arnumber=682179', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T09:17:05Z', 'timestamp': 1512983825000}, 'score': 112.83483, 'issued': {'date-parts': [[1998, 5]]}, 'references-count': 26, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/34.682179', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A new algorithm for error-tolerant subgraph isomorphism detection', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J.R. Ullman, ªAn Algorithm for Subgraph Isomorphism,º J. ACM, vol. 23, no. 1, pp. 31-42, 1976.
+>>> DOI >>> 10.1145/321921.321925
+>>> URL >>> http://dx.doi.org/10.1145/321921.321925
+>>> year >>> 1976.0
+>>> title >>> An Algorithm for Subgraph Isomorphism
+>>> author >>> J. R. Ullmann
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 762.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T23:42:34Z', 'timestamp': 1527810154318}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JACM', 'J. ACM'], 'published-print': {'date-parts': [[1976, 1, 1]]}, 'DOI': '10.1145/321921.321925', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:26:10Z', 'timestamp': 1027769170000}, 'page': '31-42', 'source': 'Crossref', 'is-referenced-by-count': 762, 'title': ['An Algorithm for Subgraph Isomorphism'], 'prefix': '10.1145', 'volume': '23', 'author': [{'given': 'J. R.', 'family': 'Ullmann', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'container-title': ['Journal of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=321925&amp;ftid=7450&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T20:46:45Z', 'timestamp': 1481834805000}, 'score': 57.60391, 'issued': {'date-parts': [[1976, 1, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1145/321921.321925', 'ISSN': ['0004-5411'], 'issn-type': [{'value': '0004-5411', 'type': 'print'}]}
+>>> hash >>> ('An Algorithm for Subgraph Isomorphism', 1976.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Horaud and T. Skordas, ªStereo Correspondence through Feature Grouping and Maximal Cliques,º IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 11, no. 11, pp. 1,168-1,180, Nov. 1989.
+>>> DOI >>> 10.1109/34.42855
+>>> URL >>> http://dx.doi.org/10.1109/34.42855
+>>> year >>> 1989.0
+>>> title >>> Stereo correspondence through feature grouping and maximal cliques
+>>> author >>> R. Horaud and T. Skordas
+>>> reference_count >>> 23.0
+>>> is_referenced_by_count >>> 165.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:42Z', 'timestamp': 1525333542999}, 'reference-count': 23, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1989]]}, 'DOI': '10.1109/34.42855', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T17:57:42Z', 'timestamp': 1030211862000}, 'page': '1168-1180', 'source': 'Crossref', 'is-referenced-by-count': 165, 'title': ['Stereo correspondence through feature grouping and maximal cliques'], 'prefix': '10.1109', 'volume': '11', 'author': [{'given': 'R.', 'family': 'Horaud', 'sequence': 'first', 'affiliation': []}, {'given': 'T.', 'family': 'Skordas', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/1634/00042855.pdf?arnumber=42855', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T08:01:14Z', 'timestamp': 1489046474000}, 'score': 113.78121, 'issued': {'date-parts': [[1989]]}, 'references-count': 23, 'journal-issue': {'issue': '11'}, 'URL': 'http://dx.doi.org/10.1109/34.42855', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Stereo correspondence through feature grouping and maximal cliques', 1989.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R.A. Wagner and M.J. Fischer, ªThe String-to-String Correction Problem,º J. ACM, vol. 21, no. 1, pp. 168-173, 1974.
+>>> DOI >>> 10.1145/321796.321811
+>>> URL >>> http://dx.doi.org/10.1145/321796.321811
+>>> year >>> 1974.0
+>>> title >>> The String-to-String Correction Problem
+>>> author >>> Robert A. Wagner and Michael J. Fischer
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1055.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T16:22:28Z', 'timestamp': 1527783748142}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JACM', 'J. ACM'], 'published-print': {'date-parts': [[1974, 1, 1]]}, 'DOI': '10.1145/321796.321811', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:26:10Z', 'timestamp': 1027769170000}, 'page': '168-173', 'source': 'Crossref', 'is-referenced-by-count': 1055, 'title': ['The String-to-String Correction Problem'], 'prefix': '10.1145', 'volume': '21', 'author': [{'given': 'Robert A.', 'family': 'Wagner', 'sequence': 'first', 'affiliation': []}, {'given': 'Michael J.', 'family': 'Fischer', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['Journal of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=321811&amp;ftid=8044&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T21:51:59Z', 'timestamp': 1481838719000}, 'score': 81.95555, 'issued': {'date-parts': [[1974, 1, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1145/321796.321811', 'ISSN': ['0004-5411'], 'issn-type': [{'value': '0004-5411', 'type': 'print'}]}
+>>> hash >>> ('The String-to-String Correction Problem', 1974.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E.K. Wong, ªModel Matching in Robot Vision by Subgraph Isomorphism,º Pattern Recognition, vol. 25, no. 3, pp. 287-304, 1992.
+>>> DOI >>> 10.1016/0031-3203(92)90111-u
+>>> URL >>> http://dx.doi.org/10.1016/0031-3203(92)90111-u
+>>> year >>> 1992.0
+>>> title >>> Model matching in robot vision by subgraph isomorphism
+>>> author >>> E.K. Wong
+>>> reference_count >>> 26.0
+>>> is_referenced_by_count >>> 43.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T19:29:12Z', 'timestamp': 1525375752907}, 'reference-count': 26, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1992, 3, 1]], 'date-time': '1992-03-01T00:00:00Z', 'timestamp': 699408000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[1992, 3]]}, 'DOI': '10.1016/0031-3203(92)90111-u', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 30]], 'date-time': '2003-06-30T18:41:01Z', 'timestamp': 1056998461000}, 'page': '287-303', 'source': 'Crossref', 'is-referenced-by-count': 43, 'title': ['Model matching in robot vision by subgraph isomorphism'], 'prefix': '10.1016', 'volume': '25', 'author': [{'given': 'E.K.', 'family': 'Wong', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:003132039290111U?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:003132039290111U?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T22:56:47Z', 'timestamp': 1497567407000}, 'score': 83.95187, 'issued': {'date-parts': [[1992, 3]]}, 'references-count': 26, 'journal-issue': {'published-print': {'date-parts': [[1992, 3]]}, 'issue': '3'}, 'alternative-id': ['003132039290111U'], 'URL': 'http://dx.doi.org/10.1016/0031-3203(92)90111-u', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Model matching in robot vision by subgraph isomorphism', 1992.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Pearce, T. Caelli, and W.F. Bischof, ªRulegraphs for Graph Matching in Pattern Recognition,º Pattern Recognition, vol. 27, no. 9, pp. 1,231-1,246, 1994.
+>>> DOI >>> 10.1016/0031-3203(94)90007-8
+>>> URL >>> http://dx.doi.org/10.1016/0031-3203(94)90007-8
+>>> year >>> 1994.0
+>>> title >>> Rulegraphs for graph matching in pattern recognition
+>>> author >>> Adrian Pearce and Terry Caelli and Walter F. Bischof
+>>> reference_count >>> 37.0
+>>> is_referenced_by_count >>> 21.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database7.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T19:28:57Z', 'timestamp': 1525375737233}, 'reference-count': 37, 'publisher': 'Elsevier BV', 'issue': '9', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1994, 9, 1]], 'date-time': '1994-09-01T00:00:00Z', 'timestamp': 778377600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[1994, 9]]}, 'DOI': '10.1016/0031-3203(94)90007-8', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 30]], 'date-time': '2003-06-30T18:41:01Z', 'timestamp': 1056998461000}, 'page': '1231-1247', 'source': 'Crossref', 'is-referenced-by-count': 21, 'title': ['Rulegraphs for graph matching in pattern recognition'], 'prefix': '10.1016', 'volume': '27', 'author': [{'given': 'Adrian', 'family': 'Pearce', 'sequence': 'first', 'affiliation': []}, {'given': 'Terry', 'family': 'Caelli', 'sequence': 'additional', 'affiliation': []}, {'given': 'Walter F.', 'family': 'Bischof', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0031320394900078?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0031320394900078?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2018, 2, 26]], 'date-time': '2018-02-26T02:16:29Z', 'timestamp': 1519611389000}, 'score': 95.85575, 'issued': {'date-parts': [[1994, 9]]}, 'references-count': 37, 'journal-issue': {'published-print': {'date-parts': [[1994, 9]]}, 'issue': '9'}, 'alternative-id': ['0031320394900078'], 'URL': 'http://dx.doi.org/10.1016/0031-3203(94)90007-8', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Rulegraphs for graph matching in pattern recognition', 1994.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

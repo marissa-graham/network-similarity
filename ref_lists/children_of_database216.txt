@@ -1,0 +1,457 @@
+>>> NEW PAPER <<<
+>>> citation >>> Testing Graph Isomorphism. SIAM J. Comput. 38, 1 (2008), 207â€“225.  [doi>10.1137/070680795]
+>>> DOI >>> 10.1137/070680795
+>>> URL >>> http://dx.doi.org/10.1137/070680795
+>>> year >>> 2008.0
+>>> title >>> Testing Graph Isomorphism
+>>> author >>> Eldar Fischer and Arie Matsliah
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 10.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 20]], 'date-time': '2018-06-20T21:22:40Z', 'timestamp': 1529529760686}, 'reference-count': 10, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[2008, 1]]}, 'DOI': '10.1137/070680795', 'type': 'journal-article', 'created': {'date-parts': [[2008, 3, 29]], 'date-time': '2008-03-29T07:17:28Z', 'timestamp': 1206775048000}, 'page': '207-225', 'source': 'Crossref', 'is-referenced-by-count': 10, 'title': ['Testing Graph Isomorphism'], 'prefix': '10.1137', 'volume': '38', 'author': [{'given': 'Eldar', 'family': 'Fischer', 'sequence': 'first', 'affiliation': []}, {'given': 'Arie', 'family': 'Matsliah', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/070680795', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T16:52:40Z', 'timestamp': 1485708760000}, 'score': 57.55956, 'issued': {'date-parts': [[2008, 1]]}, 'references-count': 10, 'journal-issue': {'published-print': {'date-parts': [[2008, 1]]}, 'issue': '1'}, 'alternative-id': ['10.1137/070680795'], 'URL': 'http://dx.doi.org/10.1137/070680795', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('Testing Graph Isomorphism', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sublinear Time Algorithms for Earth Moverâ€™s Distance. Theory Comput. Syst. 48, 2 (2011), 428â€“442. 010- 9265- 8  [doi>10.1007/s00224-010-9265-8]
+>>> DOI >>> 10.1007/s00224-010-9265-8
+>>> URL >>> http://dx.doi.org/10.1007/s00224-010-9265-8
+>>> year >>> 2010.0
+>>> title >>> Sublinear Time Algorithms for Earth Mover’s Distance
+>>> author >>> Khanh Do Ba and Huy L. Nguyen and Huy N. Nguyen and Ronitt Rubinfeld
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Theory of Computing Systems']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T02:12:24Z', 'timestamp': 1525313544840}, 'reference-count': 19, 'publisher': 'Springer Nature', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Theory Comput Syst'], 'published-print': {'date-parts': [[2011, 2]]}, 'DOI': '10.1007/s00224-010-9265-8', 'type': 'journal-article', 'created': {'date-parts': [[2010, 4, 9]], 'date-time': '2010-04-09T17:48:22Z', 'timestamp': 1270835302000}, 'page': '428-442', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Sublinear Time Algorithms for Earth Mover’s Distance'], 'prefix': '10.1007', 'volume': '48', 'author': [{'given': 'Khanh Do', 'family': 'Ba', 'sequence': 'first', 'affiliation': []}, {'given': 'Huy L.', 'family': 'Nguyen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Huy N.', 'family': 'Nguyen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ronitt', 'family': 'Rubinfeld', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2010, 4, 10]]}, 'reference': [{'key': '9265_CR1', 'author': 'N. Alon', 'first-page': '240', 'year': '2000', 'unstructured': 'Alon, N., Dar, S., Parnas, M., Ron, D.: Testing of clustering. In: FOCS ’00: Proceedings of the 41st Annual Symposium on Foundations of Computer Science, p. 240. IEEE Computer Society, Washington (2000)', 'volume-title': 'FOCS ’00: Proceedings of the 41st Annual Symposium on Foundations of Computer Science', 'DOI': '10.1109/SFCS.2000.892111', 'doi-asserted-by': 'crossref'}, {'key': '9265_CR2', 'author': 'A. Andoni', 'first-page': '343', 'year': '2008', 'unstructured': 'Andoni, A., Indyk, P., Krauthgamer, R.: Earth mover distance over high-dimensional spaces. In: SODA ’08: Proceedings of the Nineteenth Annual ACM-SIAM Symposium on Discrete Algorithms, pp. 343–352. Society for Industrial and Applied Mathematics, Philadelphia (2008)', 'volume-title': 'SODA ’08: Proceedings of the Nineteenth Annual ACM-SIAM Symposium on Discrete Algorithms'}, {'key': '9265_CR3', 'author': 'Y. Bartal', 'first-page': '184', 'year': '1996', 'unstructured': 'Bartal, Y.: Probabilistic approximation of metric spaces and its algorithmic applications. In: FOCS ’96: Proceedings of the 37th Annual Symposium on Foundations of Computer Science, p. 184. IEEE Computer Society, Washington (1996)', 'volume-title': 'FOCS ’96: Proceedings of the 37th Annual Symposium on Foundations of Computer Science'}, {'key': '9265_CR4', 'author': 'T. Batu', 'first-page': '259', 'year': '2000', 'unstructured': 'Batu, T., Fortnow, L., Rubinfeld, R., Smith, W.D., White, P.: Testing that distributions are close. In: FOCS ’00: Proceedings of the 41st Annual Symposium on Foundations of Computer Science, p. 259. IEEE Computer Society, Washington (2000)', 'volume-title': 'FOCS ’00: Proceedings of the 41st Annual Symposium on Foundations of Computer Science', 'DOI': '10.1109/SFCS.2000.892113', 'doi-asserted-by': 'crossref'}, {'key': '9265_CR5', 'author': 'T. Batu', 'first-page': '442', 'year': '2001', 'unstructured': 'Batu, T., Fortnow, L., Fischer, E., Kumar, R., Rubinfeld, R., White, P.: Testing random variables for independence and identity. In: FOCS ’01: Proceedings of the 42nd IEEE Symposium on Foundations of Computer Science, p. 442. IEEE Computer Society, Washington (2001)', 'volume-title': 'FOCS ’01: Proceedings of the 42nd IEEE Symposium on Foundations of Computer Science'}, {'key': '9265_CR6', 'author': 'M.S. Charikar', 'first-page': '380', 'year': '2002', 'unstructured': 'Charikar, M.S.: Similarity estimation techniques from rounding algorithms. In: STOC ’02: Proceedings of the Thirty-Fourth Annual ACM Symposium on Theory of Computing, pp. 380–388. ACM, New York (2002)', 'volume-title': 'STOC ’02: Proceedings of the Thirty-Fourth Annual ACM Symposium on Theory of Computing', 'DOI': '10.1145/509907.509965', 'doi-asserted-by': 'crossref'}, {'key': '9265_CR7', 'author': 'S. Cohen', 'first-page': '1076', 'year': '1999', 'unstructured': 'Cohen, S., Guibas, L.: The earth mover’s distance under transformation sets. In: ICCV ’99: Proceedings of the International Conference on Computer Vision, vol.\xa02, p. 1076. IEEE Computer Society, Washington (1999)', 'volume-title': 'ICCV ’99: Proceedings of the International Conference on Computer Vision', 'DOI': '10.1109/ICCV.1999.790393', 'doi-asserted-by': 'crossref'}, {'key': '9265_CR8', 'author': 'J. Fakcharoenphol', 'first-page': '448', 'year': '2003', 'unstructured': 'Fakcharoenphol, J., Rao, S., Talwar, K.: A tight bound on approximating arbitrary metrics by tree metrics. In: STOC ’03: Proceedings of the Thirty-Fifth Annual ACM Symposium on Theory of Computing, pp. 448–455. ACM, New York (2003)', 'volume-title': 'STOC ’03: Proceedings of the Thirty-Fifth Annual ACM Symposium on Theory of Computing', 'DOI': '10.1145/780542.780608', 'doi-asserted-by': 'crossref'}, {'key': '9265_CR9', 'unstructured': 'Goldreich, O., Ron, D.: On testing expansion in bounded-degree graphs. In: Electronic Colloquium on Computational Complexity (ECCC), 7(20), (2000)'}, {'key': '9265_CR10', 'author': 'P. Indyk', 'first-page': '39', 'year': '2007', 'unstructured': 'Indyk, P.: A near linear time constant factor approximation for Euclidean bichromatic matching (cost). In: SODA ’07: Proceedings of the Eighteenth Annual ACM-SIAM Symposium on Discrete Algorithms, pp. 39–42. Society for Industrial and Applied Mathematics, Philadelphia (2007)', 'volume-title': 'SODA ’07: Proceedings of the Eighteenth Annual ACM-SIAM Symposium on Discrete Algorithms'}, {'key': '9265_CR11', 'unstructured': 'Indyk, P., Thaper, N.: Fast image retrieval via embeddings. In: 3rd International Workshop on Statistical and Computational Theories of Vision. ICCV (2003)'}, {'key': '9265_CR12', 'unstructured': 'Peleg, S., Werman, M., Rom, H.: A unified approach to the change of resolution: space and gray-level (1989)'}, {'key': '9265_CR13', 'unstructured': 'Rubner, Y., Tomasi, C.: Texture metrics. In: Systems, Man, and Cybernetics, 1998. 1998 IEEE International Conference on, vol. 5, pp. 4601–4607 Oct. 1998'}, {'key': '9265_CR14', 'unstructured': 'Rubner, Y., Guibas, L.J., Tomasi, C.: The earth movers distance, multi-dimensional scaling, and color-based image retrieval. In: APRA Image Understanding Workshop, pp. 661–668, May 1997'}, {'key': '9265_CR15', 'unstructured': 'Rubner, Y., Tomasi, C., Guibas, L.J.: A metric for distributions with applications to image databases. In Computer Vision, 1998. Sixth International Conference on, pp. 59–66 (1998)'}, {'issue': '2', 'key': '9265_CR16', 'doi-asserted-by': 'crossref', 'first-page': '99', 'DOI': '10.1023/A:1026543900054', 'volume': '40', 'author': 'Y. Rubner', 'year': '2000', 'unstructured': 'Rubner, Y., Tomasi, C., Guibas, L.J.: The earth mover’s distance as a metric for image retrieval. Int. J. Comput. Vision 40(2), 99–121 (2000)', 'journal-title': 'Int. J. Comput. Vision'}, {'key': '9265_CR17', 'unstructured': 'Ruzon, M.A., Tomasi, C.: Color Edge Detection with the Compass Operator, vol. 2, p. 166 (1999)'}, {'key': '9265_CR18', 'unstructured': 'Ruzon, M.A., Tomasi, C.: Corner detection in textured color images. In: Computer Vision, 1999. The Proceedings of the Seventh IEEE International Conference on, vol. 2, pp. 1039–1045 (1999)'}, {'key': '9265_CR19', 'author': 'P. Valiant', 'first-page': '383', 'year': '2008', 'unstructured': 'Valiant, P.: Testing symmetric properties of distributions. In: STOC ’08: Proceedings of the 40th Annual ACM Symposium on Theory of Computing, pp. 383–392. ACM, New York (2008)', 'volume-title': 'STOC ’08: Proceedings of the 40th Annual ACM Symposium on Theory of Computing', 'DOI': '10.1145/1374376.1374432', 'doi-asserted-by': 'crossref'}], 'container-title': ['Theory of Computing Systems'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s00224-010-9265-8', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T06:58:04Z', 'timestamp': 1497855484000}, 'score': 61.65525, 'issued': {'date-parts': [[2010, 4, 10]]}, 'references-count': 19, 'journal-issue': {'published-print': {'date-parts': [[2011, 2]]}, 'issue': '2'}, 'alternative-id': ['9265'], 'URL': 'http://dx.doi.org/10.1007/s00224-010-9265-8', 'relation': {'cites': []}, 'ISSN': ['1432-4350', '1433-0490'], 'issn-type': [{'value': '1432-4350', 'type': 'print'}, {'value': '1433-0490', 'type': 'electronic'}]}
+>>> hash >>> ('Sublinear Time Algorithms for Earth Mover’s Distance', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Paul Valiant. 2011.
+>>> DOI >>> 10.1109/focs.2011.81
+>>> URL >>> http://dx.doi.org/10.1109/focs.2011.81
+>>> year >>> 2011.0
+>>> title >>> Testing symmetric properties of distributions
+>>> author >>> Paul Valiant
+>>> reference_count >>> 30.0
+>>> is_referenced_by_count >>> 20.0
+>>> subject >>> None
+>>> container_title >>> ['2011 IEEE 52nd Annual Symposium on Foundations of Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T23:03:44Z', 'timestamp': 1525475024850}, 'reference-count': 30, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781457718434', 'type': 'print'}, {'value': '9780769545714', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011, 10]]}, 'DOI': '10.1109/focs.2011.81', 'type': 'proceedings-article', 'created': {'date-parts': [[2011, 12, 23]], 'date-time': '2011-12-23T16:39:51Z', 'timestamp': 1324658391000}, 'source': 'Crossref', 'is-referenced-by-count': 20, 'title': ['The Power of Linear Estimators'], 'prefix': '10.1109', 'author': [{'given': 'Gregory', 'family': 'Valiant', 'sequence': 'first', 'affiliation': []}, {'given': 'Paul', 'family': 'Valiant', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2011 IEEE 52nd Annual Symposium on Foundations of Computer Science (FOCS)', 'location': 'Palm Springs, CA, USA', 'start': {'date-parts': [[2011, 10, 22]]}, 'end': {'date-parts': [[2011, 10, 25]]}}, 'container-title': ['2011 IEEE 52nd Annual Symposium on Foundations of Computer Science'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6108120/6108130/06108201.pdf?arnumber=6108201', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T11:47:32Z', 'timestamp': 1497959252000}, 'score': 21.56533, 'issued': {'date-parts': [[2011, 10]]}, 'ISBN': ['9780769545714', '9781457718434'], 'references-count': 30, 'URL': 'http://dx.doi.org/10.1109/focs.2011.81'}
+>>> hash >>> ('Testing symmetric properties of distributions', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Testing Forest-Isomorphism in the Adjacency List Model. In Automata, Languages, and Programming - 41st International Colloquium, ICALP 2014, Copenhagen, Denmark, July 8-11, 2014, Proceedings, Part I. 763â€“774. 3- 662- 43948- 7_63  [doi>10.1007/978-3-662-43948-7_63]
+>>> DOI >>> 10.1007/978-3-662-43948-7_63
+>>> URL >>> http://dx.doi.org/10.1007/978-3-662-43948-7_63
+>>> year >>> 2014.0
+>>> title >>> Testing Forest-Isomorphism in the Adjacency List Model
+>>> author >>> Mitsuru Kusumoto and Yuichi Yoshida
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Automata, Languages, and Programming', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T15:47:11Z', 'timestamp': 1525794431118}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783662439470', 'type': 'print'}, {'value': '9783662439487', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2014]]}, 'DOI': '10.1007/978-3-662-43948-7_63', 'type': 'book-chapter', 'created': {'date-parts': [[2014, 6, 11]], 'date-time': '2014-06-11T16:10:36Z', 'timestamp': 1402503036000}, 'page': '763-774', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Testing Forest-Isomorphism in the Adjacency List Model'], 'prefix': '10.1007', 'author': [{'given': 'Mitsuru', 'family': 'Kusumoto', 'sequence': 'first', 'affiliation': []}, {'given': 'Yuichi', 'family': 'Yoshida', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Automata, Languages, and Programming', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-662-43948-7_63', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 6, 11]], 'date-time': '2014-06-11T16:11:28Z', 'timestamp': 1402503088000}, 'score': 73.77599, 'issued': {'date-parts': [[2014]]}, 'ISBN': ['9783662439470', '9783662439487'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-662-43948-7_63', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Testing Forest-Isomorphism in the Adjacency List Model', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sanjeev Arora, Alan M. Frieze, and Haim Kaplan. 2002. A new rounding procedure for the assignment problem with applications to dense graph arrangement problems. Math. Program. 92, 1 (2002), 1â€“36.  [doi>10.1007/s101070100271]
+>>> DOI >>> 10.1007/s101070100271
+>>> URL >>> http://dx.doi.org/10.1007/s101070100271
+>>> year >>> 2002.0
+>>> title >>> A new rounding procedure for the assignment problem with applications to dense graph arrangement problems
+>>> author >>> Sanjeev Arora and Alan Frieze and Haim Kaplan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 24.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematical Programming']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 20]], 'date-time': '2018-06-20T21:22:40Z', 'timestamp': 1529529760691}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002, 3, 1]]}, 'DOI': '10.1007/s101070100271', 'type': 'journal-article', 'created': {'date-parts': [[2003, 3, 24]], 'date-time': '2003-03-24T16:48:27Z', 'timestamp': 1048524507000}, 'page': '1-36', 'source': 'Crossref', 'is-referenced-by-count': 24, 'title': ['A new rounding procedure for the assignment problem with applications to dense graph arrangement problems'], 'prefix': '10.1007', 'volume': '92', 'author': [{'given': 'Sanjeev', 'family': 'Arora', 'sequence': 'first', 'affiliation': []}, {'given': 'Alan', 'family': 'Frieze', 'sequence': 'additional', 'affiliation': []}, {'given': 'Haim', 'family': 'Kaplan', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Mathematical Programming'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s101070100271', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 3, 28]], 'date-time': '2013-03-28T18:16:45Z', 'timestamp': 1364494605000}, 'score': 105.099266, 'issued': {'date-parts': [[2002, 3, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'alternative-id': ['87MGKWAQ274LN614'], 'URL': 'http://dx.doi.org/10.1007/s101070100271', 'ISSN': ['0025-5610'], 'issn-type': [{'value': '0025-5610', 'type': 'print'}]}
+>>> hash >>> ('A new rounding procedure for the assignment problem with applications to dense graph arrangement problems', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Tugkan Batu, Lance Fortnow, Ronitt Rubinfeld, Warren D. Smith, and Patrick White. 2013. Testing Closeness of Discrete Distributions. J. ACM 60, 1 (2013), 4.  [doi>10.1145/2432622.2432626]
+>>> DOI >>> 10.1145/2432622.2432626
+>>> URL >>> http://dx.doi.org/10.1145/2432622.2432626
+>>> year >>> 2013.0
+>>> title >>> Testing Closeness of Discrete Distributions
+>>> author >>> Tu\u011fkan Batu and Lance Fortnow and Ronitt Rubinfeld and Warren D. Smith and Patrick White
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 20.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T13:37:57Z', 'timestamp': 1525700277362}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JACM', 'J. ACM'], 'published-print': {'date-parts': [[2013, 2, 1]]}, 'DOI': '10.1145/2432622.2432626', 'type': 'journal-article', 'created': {'date-parts': [[2013, 3, 5]], 'date-time': '2013-03-05T20:28:36Z', 'timestamp': 1362515316000}, 'page': '1-25', 'source': 'Crossref', 'is-referenced-by-count': 20, 'title': ['Testing Closeness of Discrete Distributions'], 'prefix': '10.1145', 'volume': '60', 'author': [{'given': 'Tu\u011fkan', 'family': 'Batu', 'sequence': 'first', 'affiliation': []}, {'given': 'Lance', 'family': 'Fortnow', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ronitt', 'family': 'Rubinfeld', 'sequence': 'additional', 'affiliation': []}, {'given': 'Warren D.', 'family': 'Smith', 'sequence': 'additional', 'affiliation': []}, {'given': 'Patrick', 'family': 'White', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['Journal of the ACM'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2432626&amp;ftid=1350091&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T04:52:33Z', 'timestamp': 1481086353000}, 'score': 89.47597, 'issued': {'date-parts': [[2013, 2, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2013, 2, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1145/2432622.2432626', 'ISSN': ['0004-5411'], 'issn-type': [{'value': '0004-5411', 'type': 'print'}]}
+>>> hash >>> ('Testing Closeness of Discrete Distributions', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Krzysztof Onak and Xiaorui Sun. 2017. Probability-Revealing Samples. Manuscript (2017).
+>>> DOI >>> 10.1093/lpr/mgx007
+>>> URL >>> http://dx.doi.org/10.1093/lpr/mgx007
+>>> year >>> 2017.0
+>>> title >>> Probability-Revealing Samples
+>>> author >>> Krzysztof Onak and Xiaorui Sun
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Law, Probability And Risk']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T18:06:17Z', 'timestamp': 1525716377833}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Law, Probability and Risk'], 'DOI': '10.1093/lpr/mgx007', 'type': 'journal-article', 'created': {'date-parts': [[2017, 7, 14]], 'date-time': '2017-07-14T11:28:34Z', 'timestamp': 1500031714000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['OUP accepted manuscript'], 'prefix': '10.1093', 'member': '286', 'published-online': {'date-parts': [[2017]]}, 'container-title': ['Law, Probability And Risk'], 'deposited': {'date-parts': [[2017, 9, 1]], 'date-time': '2017-09-01T11:09:50Z', 'timestamp': 1504264190000}, 'score': 28.02491, 'issued': {'date-parts': [[2017]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1093/lpr/mgx007', 'ISSN': ['1470-8396', '1470-840X'], 'issn-type': [{'value': '1470-8396', 'type': 'print'}, {'value': '1470-840X', 'type': 'electronic'}]}
+>>> hash >>> ('Probability-Revealing Samples', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Oded Goldreich, Shafi Goldwasser, and Dana Ron. 1998. Property Testing and its Connection to Learning and Approximation. J. ACM 45, 4 (1998), 653â€“750.  [doi>10.1145/285055.285060]
+>>> DOI >>> 10.1145/285055.285060
+>>> URL >>> http://dx.doi.org/10.1145/285055.285060
+>>> year >>> 1998.0
+>>> title >>> Property testing and its connection to learning and approximation
+>>> author >>> Oded Goldreich and Shari Goldwasser and Dana Ron
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 312.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 20]], 'date-time': '2018-06-20T23:02:29Z', 'timestamp': 1529535749813}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JACM', 'J. ACM'], 'published-print': {'date-parts': [[1998, 7, 1]]}, 'DOI': '10.1145/285055.285060', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:25:57Z', 'timestamp': 1027769157000}, 'page': '653-750', 'source': 'Crossref', 'is-referenced-by-count': 312, 'title': ['Property testing and its connection to learning and approximation'], 'prefix': '10.1145', 'volume': '45', 'author': [{'given': 'Oded', 'family': 'Goldreich', 'sequence': 'first', 'affiliation': []}, {'given': 'Shari', 'family': 'Goldwasser', 'sequence': 'additional', 'affiliation': []}, {'given': 'Dana', 'family': 'Ron', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['Journal of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=285060&amp;ftid=9332&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T21:47:36Z', 'timestamp': 1481838456000}, 'score': 91.52953, 'issued': {'date-parts': [[1998, 7, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1145/285055.285060', 'ISSN': ['0004-5411'], 'issn-type': [{'value': '0004-5411', 'type': 'print'}]}
+>>> hash >>> ('Property testing and its connection to learning and approximation', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Testing Symmetric Properties of Distributions. SIAM J. Comput. 40, 6 (2011), 1927â€“1968.
+>>> DOI >>> 10.1137/080734066
+>>> URL >>> http://dx.doi.org/10.1137/080734066
+>>> year >>> 2011.0
+>>> title >>> Testing Symmetric Properties of Distributions
+>>> author >>> Paul Valiant
+>>> reference_count >>> 11.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 20]], 'date-time': '2018-06-20T21:22:40Z', 'timestamp': 1529529760683}, 'reference-count': 11, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[2011, 1]]}, 'DOI': '10.1137/080734066', 'type': 'journal-article', 'created': {'date-parts': [[2011, 12, 22]], 'date-time': '2011-12-22T15:05:42Z', 'timestamp': 1324566342000}, 'page': '1927-1968', 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['Testing Symmetric Properties of Distributions'], 'prefix': '10.1137', 'volume': '40', 'author': [{'given': 'Paul', 'family': 'Valiant', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/080734066', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T17:12:53Z', 'timestamp': 1485709973000}, 'score': 57.831047, 'issued': {'date-parts': [[2011, 1]]}, 'references-count': 11, 'journal-issue': {'published-print': {'date-parts': [[2011, 1]]}, 'issue': '6'}, 'alternative-id': ['10.1137/080734066'], 'URL': 'http://dx.doi.org/10.1137/080734066', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('Testing Symmetric Properties of Distributions', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Jasine Babu, Areej Khoury, and Ilan Newman. 2016. Every Property of Outerplanar Graphs is Testable. In Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques, APPROX/RANDOM 2016, September 7-9, 2016, Paris, France. 21:1â€“21:19. 2016.21  [doi>10.4230/LIPIcs.APPROXRANDOM.2016.21]
+>>> DOI >>> 10.1007/978-3-540-85363-3_25
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-85363-3_25
+>>> year >>> 2016.0
+>>> title >>> Every Property of Outerplanar Graphs is Testable
+>>> author >>> Jasine Babu and Areej Khoury and Ilan Newman
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Approximation, Randomization and Combinatorial Optimization. Algorithms and Techniques']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T13:26:20Z', 'timestamp': 1525440380489}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540853626', 'type': 'print'}, {'value': '9783540853633', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/978-3-540-85363-3_25', 'type': 'book-chapter', 'created': {'date-parts': [[2008, 8, 27]], 'date-time': '2008-08-27T19:29:28Z', 'timestamp': 1219865368000}, 'page': '303-316', 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['On the Degree Sequences of Random Outerplanar and Series-Parallel Graphs'], 'prefix': '10.1007', 'author': [{'given': 'Nicla', 'family': 'Bernasconi', 'sequence': 'first', 'affiliation': []}, {'given': 'Konstantinos', 'family': 'Panagiotou', 'sequence': 'additional', 'affiliation': []}, {'given': 'Angelika', 'family': 'Steger', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Lecture Notes in Computer Science', 'Approximation, Randomization and Combinatorial Optimization. Algorithms and Techniques'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-540-85363-3_25', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 18]], 'date-time': '2014-01-18T19:55:19Z', 'timestamp': 1390074919000}, 'score': 61.54686, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9783540853626', '9783540853633'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-540-85363-3_25', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Every Property of Outerplanar Graphs is Testable', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Tugkan Batu, Lance Fortnow, Eldar Fischer, Ravi Kumar, Ronitt Rubinfeld, and Patrick White. 2001. Testing Random Variables for Independence and Identity. In 42nd Annual Symposium on Foundations of Computer Science, FOCS 2001, 14-17 October 2001, Las Vegas, Nevada, USA. 442â€“451. 2001.959920  [doi>10.1109/SFCS.2001.959920]
+>>> DOI >>> 10.1109/sfcs.2001.959920
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.2001.959920
+>>> year >>> None
+>>> title >>> Testing random variables for independence and identity
+>>> author >>> T. Batu and E. Fischer and L. Fortnow and R. Kumar and R. Rubinfeld and P. White
+>>> reference_count >>> 8.0
+>>> is_referenced_by_count >>> 24.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings 2001 IEEE International Conference on Cluster Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 20]], 'date-time': '2018-06-20T21:22:40Z', 'timestamp': 1529529760700}, 'reference-count': 8, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769511163', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/sfcs.2001.959920', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 8, 29]], 'date-time': '2005-08-29T12:47:11Z', 'timestamp': 1125319631000}, 'source': 'Crossref', 'is-referenced-by-count': 24, 'title': ['Testing random variables for independence and identity'], 'prefix': '10.1109', 'author': [{'given': 'T.', 'family': 'Batu', 'sequence': 'first', 'affiliation': []}, {'given': 'E.', 'family': 'Fischer', 'sequence': 'additional', 'affiliation': []}, {'given': 'L.', 'family': 'Fortnow', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.', 'family': 'Kumar', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.', 'family': 'Rubinfeld', 'sequence': 'additional', 'affiliation': []}, {'given': 'P.', 'family': 'White', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2001 IEEE International Conference on Cluster Computing', 'location': 'Newport Beach, CA, USA', 'acronym': 'CLUSTR-01'}, 'container-title': ['Proceedings 2001 IEEE International Conference on Cluster Computing'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/7601/20736/00959920.pdf?arnumber=959920', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T23:01:36Z', 'timestamp': 1497654096000}, 'score': 114.34128, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769511163'], 'references-count': 8, 'URL': 'http://dx.doi.org/10.1109/sfcs.2001.959920'}
+>>> hash >>> ('Testing random variables for independence and identity', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Khanh Do Ba, Huy L. Nguyen, Huy N. Nguyen, and Ronitt Rubinfeld. 2011.
+>>> DOI >>> 10.1093/benz/9780199773787.article.b00130051
+>>> URL >>> http://dx.doi.org/10.1093/benz/9780199773787.article.b00130051
+>>> year >>> 2011.0
+>>> title >>> Sublinear time algorithms for earth mover's distance
+>>> author >>> Khanh Do Ba and Huy L. Nguyen and Huy N. Nguyen and Ronitt Rubinfeld
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Benezit Dictionary of Artists']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:27:52Z', 'timestamp': 1525796872120}, 'reference-count': 0, 'publisher': 'Oxford University Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011, 10, 31]]}, 'DOI': '10.1093/benz/9780199773787.article.b00130051', 'type': 'reference-entry', 'created': {'date-parts': [[2018, 1, 23]], 'date-time': '2018-01-23T12:13:24Z', 'timestamp': 1516709604000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Nguyen Quang Huy'], 'prefix': '10.1093', 'member': '286', 'container-title': ['Benezit Dictionary of Artists'], 'original-title': ['Nguyen Quang Huy'], 'deposited': {'date-parts': [[2018, 1, 26]], 'date-time': '2018-01-26T09:19:09Z', 'timestamp': 1516958349000}, 'score': 58.261787, 'issued': {'date-parts': [[2011, 10, 31]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1093/benz/9780199773787.article.b00130051'}
+>>> hash >>> ("Sublinear time algorithms for earth mover's distance", 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Oded Goldreich and Dana Ron. 2000. On Testing Expansion in Bounded-Degree Graphs. Electronic Colloquium on Computational Complexity (ECCC) 7, 20 (2000). http://eccc.hpiweb.de/ecccreports/2000/TR00- 020/index.html
+>>> DOI >>> 10.1109/ccc.2004.1313758
+>>> URL >>> http://dx.doi.org/10.1109/ccc.2004.1313758
+>>> year >>> 2000.0
+>>> title >>> On Testing Expansion in Bounded-Degree Graphs
+>>> author >>> Oded Goldreich and Dana Ron
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings. 19th IEEE Annual Conference on Computational Complexity, 2004.']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:03:10Z', 'timestamp': 1525384990730}, 'reference-count': 0, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769521207', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1109/ccc.2004.1313758', 'type': 'proceedings-article', 'created': {'date-parts': [[2011, 2, 4]], 'date-time': '2011-02-04T20:00:50Z', 'timestamp': 1296849650000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['10th anniversary ECCC-the electronic colloquium on computational complexity'], 'prefix': '10.1109', 'member': '263', 'event': {'name': 'Proceedings. 19th IEEE Annual Conference on Computational Complexity, 2004.', 'location': 'Amherst, MA, USA', 'start': {'date-parts': [[2004, 6, 24]]}, 'end': {'date-parts': [[2004, 6, 24]]}}, 'container-title': ['Proceedings. 19th IEEE Annual Conference on Computational Complexity, 2004.'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/9188/29139/01313758.pdf?arnumber=1313758', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 14]], 'date-time': '2017-03-14T01:04:30Z', 'timestamp': 1489453470000}, 'score': 66.80675, 'issued': {'date-parts': [[2004]]}, 'ISBN': ['0769521207'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1109/ccc.2004.1313758'}
+>>> hash >>> ('On Testing Expansion in Bounded-Degree Graphs', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Mitsuru Kusumoto and Yuichi Yoshida. 2014.
+>>> DOI >>> 10.1093/benz/9780199773787.article.b00179185
+>>> URL >>> http://dx.doi.org/10.1093/benz/9780199773787.article.b00179185
+>>> year >>> 2014.0
+>>> title >>> Testing forest-isomorphism in the adjacency list model
+>>> author >>> Mitsuru Kusumoto and Yuichi Yoshida
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Benezit Dictionary of Artists']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T10:35:01Z', 'timestamp': 1525775701542}, 'reference-count': 0, 'publisher': 'Oxford University Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011, 10, 31]]}, 'DOI': '10.1093/benz/9780199773787.article.b00179185', 'type': 'reference-book', 'created': {'date-parts': [[2017, 12, 16]], 'date-time': '2017-12-16T15:06:16Z', 'timestamp': 1513436776000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Takahashi, Yuichi'], 'prefix': '10.1093', 'member': '286', 'container-title': ['Benezit Dictionary of Artists'], 'original-title': ['Takahashi, Yuichi'], 'deposited': {'date-parts': [[2017, 12, 16]], 'date-time': '2017-12-16T15:06:17Z', 'timestamp': 1513436777000}, 'score': 20.443314, 'issued': {'date-parts': [[2011, 10, 31]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1093/benz/9780199773787.article.b00179185'}
+>>> hash >>> ('Testing forest-isomorphism in the adjacency list model', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ilan Newman and Christian Sohler. 2013. Every Property of Hyperfinite Graphs Is Testable. SIAM J. Comput. 42, 3 (2013), 1095â€“1112.
+>>> DOI >>> 10.1137/120890946
+>>> URL >>> http://dx.doi.org/10.1137/120890946
+>>> year >>> 2013.0
+>>> title >>> Every Property of Hyperfinite Graphs Is Testable
+>>> author >>> Ilan Newman and Christian Sohler
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 10.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 20]], 'date-time': '2018-06-20T21:22:40Z', 'timestamp': 1529529760704}, 'reference-count': 10, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[2013, 1]]}, 'DOI': '10.1137/120890946', 'type': 'journal-article', 'created': {'date-parts': [[2013, 6, 14]], 'date-time': '2013-06-14T19:26:25Z', 'timestamp': 1371237985000}, 'page': '1095-1112', 'source': 'Crossref', 'is-referenced-by-count': 10, 'title': ['Every Property of Hyperfinite Graphs Is Testable'], 'prefix': '10.1137', 'volume': '42', 'author': [{'given': 'Ilan', 'family': 'Newman', 'sequence': 'first', 'affiliation': []}, {'given': 'Christian', 'family': 'Sohler', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/120890946', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T17:16:43Z', 'timestamp': 1485710203000}, 'score': 107.82848, 'issued': {'date-parts': [[2013, 1]]}, 'references-count': 10, 'journal-issue': {'published-print': {'date-parts': [[2013, 1]]}, 'issue': '3'}, 'alternative-id': ['10.1137/120890946'], 'URL': 'http://dx.doi.org/10.1137/120890946', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('Every Property of Hyperfinite Graphs Is Testable', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> LÃ¡szlÃ³ Babai. 2016.
+>>> DOI >>> 10.2529/piers091005062944
+>>> URL >>> http://dx.doi.org/10.2529/piers091005062944
+>>> year >>> 2016.0
+>>> title >>> Graph isomorphism in quasipolynomial time
+>>> author >>> László Babai
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['PIERS Online']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T03:57:41Z', 'timestamp': 1525319861909}, 'reference-count': 0, 'publisher': 'PIERS Enterprise', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['PIERS Online'], 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.2529/piers091005062944', 'type': 'journal-article', 'created': {'date-parts': [[2010, 5, 13]], 'date-time': '2010-05-13T21:35:47Z', 'timestamp': 1273786547000}, 'page': '307-313', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Analysis of Inhomogeneous Static Magnetic Field-Induced Antinociceptive Activity in Mice'], 'prefix': '10.2529', 'volume': '6', 'author': [{'given': 'JÃ¡nos F.', 'family': 'LÃ¡szlÃ³', 'sequence': 'first', 'affiliation': []}, {'given': 'KlÃ¡ra', 'family': 'Gyires', 'sequence': 'additional', 'affiliation': []}], 'member': '1430', 'container-title': ['PIERS Online'], 'language': 'en', 'deposited': {'date-parts': [[2011, 6, 28]], 'date-time': '2011-06-28T08:05:06Z', 'timestamp': 1309248306000}, 'score': 20.380638, 'issued': {'date-parts': [[2010]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2010]]}, 'issue': '4'}, 'alternative-id': ['10.2529/PIERS091005062944'], 'URL': 'http://dx.doi.org/10.2529/piers091005062944', 'ISSN': ['1931-7360'], 'issn-type': [{'value': '1931-7360', 'type': 'electronic'}]}
+>>> hash >>> ('Graph isomorphism in quasipolynomial time', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Oded Goldreich and Dana Ron. 2002. Property Testing in Bounded Degree Graphs. Algorithmica 32, 2 (2002), 302â€“343. 001- 0078- 7  [doi>10.1007/s00453-001-0078-7]
+>>> DOI >>> 10.1007/s00453-001-0078-7
+>>> URL >>> http://dx.doi.org/10.1007/s00453-001-0078-7
+>>> year >>> 2002.0
+>>> title >>> Property Testing in Bounded Degree Graphs
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 109.0
+>>> subject >>> None
+>>> container_title >>> ['Algorithmica']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T19:15:14Z', 'timestamp': 1525288514849}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Algorithmica'], 'published-print': {'date-parts': [[2002, 2]]}, 'DOI': '10.1007/s00453-001-0078-7', 'type': 'journal-article', 'created': {'date-parts': [[2002, 10, 6]], 'date-time': '2002-10-06T13:44:04Z', 'timestamp': 1033911844000}, 'page': '302-343', 'source': 'Crossref', 'is-referenced-by-count': 109, 'title': ['Property Testing in Bounded Degree Graphs'], 'prefix': '10.1007', 'volume': '32', 'author': [{'family': 'Goldreich', 'sequence': 'first', 'affiliation': []}, {'family': 'Ron', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Algorithmica'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s00453-001-0078-7', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 3, 24]], 'date-time': '2013-03-24T23:31:02Z', 'timestamp': 1364167862000}, 'score': 106.94676, 'issued': {'date-parts': [[2002, 2]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2002, 2]]}, 'issue': '2'}, 'alternative-id': ['78'], 'URL': 'http://dx.doi.org/10.1007/s00453-001-0078-7', 'ISSN': ['0178-4617', '1432-0541'], 'issn-type': [{'value': '0178-4617', 'type': 'print'}, {'value': '1432-0541', 'type': 'electronic'}]}
+>>> hash >>> ('Property Testing in Bounded Degree Graphs', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ronitt Rubinfeld. 2012. Taming big probability distributions. ACM Crossroads 19, 1 (2012), 24â€“28.  [doi>10.1145/2331042.2331052]
+>>> DOI >>> 10.1145/2331042.2331052
+>>> URL >>> http://dx.doi.org/10.1145/2331042.2331052
+>>> year >>> 2012.0
+>>> title >>> Taming big probability distributions
+>>> author >>> Ronitt Rubinfeld
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['XRDS: Crossroads, The ACM Magazine for Students']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 20]], 'date-time': '2018-06-20T22:42:29Z', 'timestamp': 1529534549645}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['XRDS'], 'published-print': {'date-parts': [[2012, 9, 1]]}, 'DOI': '10.1145/2331042.2331052', 'type': 'journal-article', 'created': {'date-parts': [[2012, 9, 12]], 'date-time': '2012-09-12T21:21:57Z', 'timestamp': 1347484917000}, 'page': '24', 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['Taming big probability distributions'], 'prefix': '10.1145', 'volume': '19', 'author': [{'given': 'Ronitt', 'family': 'Rubinfeld', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'container-title': ['XRDS: Crossroads, The ACM Magazine for Students'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2331052&amp;ftid=1284868&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T04:24:59Z', 'timestamp': 1481084699000}, 'score': 73.667534, 'issued': {'date-parts': [[2012, 9, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2012, 9, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1145/2331042.2331052', 'ISSN': ['1528-4972'], 'issn-type': [{'value': '1528-4972', 'type': 'print'}]}
+>>> hash >>> ('Taming big probability distributions', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> 120890946  [doi>10.1137/120890946]
+>>> DOI >>> 10.1002/cbic.201190031
+>>> URL >>> http://dx.doi.org/10.1002/cbic.201190031
+>>> year >>> 2013.0
+>>> title >>> Every Property of Hyperfinite Graphs Is Testable
+>>> author >>> Ilan Newman and Christian Sohler
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['ChemBioChem']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database216.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T04:08:03Z', 'timestamp': 1525406883744}, 'reference-count': 0, 'publisher': 'Wiley', 'issue': '8', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 1569, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['ChemBioChem'], 'published-print': {'date-parts': [[2011, 5, 16]]}, 'DOI': '10.1002/cbic.201190031', 'type': 'journal-article', 'created': {'date-parts': [[2011, 5, 16]], 'date-time': '2011-05-16T05:31:11Z', 'timestamp': 1305523871000}, 'page': '1137-1137', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Cover Picture: Ribosomal Synthesis of Backbone-Macrocyclic Peptides Containing \u03b3-Amino Acids (ChemBioChem 8/2011)'], 'prefix': '10.1002', 'volume': '12', 'author': [{'given': 'Yukinori', 'family': 'Ohshiro', 'sequence': 'first', 'affiliation': []}, {'given': 'Eiji', 'family': 'Nakajima', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yuki', 'family': 'Goto', 'sequence': 'additional', 'affiliation': []}, {'given': 'Shinichiro', 'family': 'Fuse', 'sequence': 'additional', 'affiliation': []}, {'given': 'Takashi', 'family': 'Takahashi', 'sequence': 'additional', 'affiliation': []}, {'given': 'Takayuki', 'family': 'Doi', 'sequence': 'additional', 'affiliation': []}, {'given': 'Hiroaki', 'family': 'Suga', 'sequence': 'additional', 'affiliation': []}], 'member': '311', 'published-online': {'date-parts': [[2011, 5, 16]]}, 'container-title': ['ChemBioChem'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcbic.201190031', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 3, 30]], 'date-time': '2017-03-30T04:04:59Z', 'timestamp': 1490846699000}, 'score': 17.062405, 'issued': {'date-parts': [[2011, 5, 16]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2011, 5, 16]]}, 'issue': '8'}, 'URL': 'http://dx.doi.org/10.1002/cbic.201190031', 'ISSN': ['1439-4227'], 'issn-type': [{'value': '1439-4227', 'type': 'print'}]}
+>>> hash >>> ('Every Property of Hyperfinite Graphs Is Testable', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

@@ -1,0 +1,505 @@
+>>> NEW PAPER <<<
+>>> citation >>> Kong, D., Ding, C.H.Q., Huang, H., Nie, F.: An iterative locally linear embedding algorithm. In: 29th International Conference on Machine Learning (ICML), Edinburgh, Scotland, UK (2010)
+>>> DOI >>> 10.1145/1015330.1015365
+>>> URL >>> http://dx.doi.org/10.1145/1015330.1015365
+>>> year >>> 2010.0
+>>> title >>> An iterative locally linear embedding algorithm
+>>> author >>> D Kong and C H Q Ding and H Huang and F Nie
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 28.0
+>>> subject >>> None
+>>> container_title >>> ["Twenty-first international conference on Machine learning  - ICML '04"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T14:42:42Z', 'timestamp': 1527000162913}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1581138285', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1145/1015330.1015365', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 10, 7]], 'date-time': '2004-10-07T17:39:48Z', 'timestamp': 1097170788000}, 'source': 'Crossref', 'is-referenced-by-count': 28, 'title': ['Learning large margin classifiers locally and globally'], 'prefix': '10.1145', 'author': [{'given': 'Kaizhu', 'family': 'Huang', 'sequence': 'first', 'affiliation': []}, {'given': 'Haiqin', 'family': 'Yang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Irwin', 'family': 'King', 'sequence': 'additional', 'affiliation': []}, {'given': 'Michael R.', 'family': 'Lyu', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'Twenty-first international conference', 'location': 'Banff, Alberta, Canada', 'sponsor': ['undetermined'], 'acronym': "ICML '04", 'number': '21', 'start': {'date-parts': [[2004, 7, 4]]}, 'end': {'date-parts': [[2004, 7, 8]]}}, 'container-title': ["Twenty-first international conference on Machine learning  - ICML '04"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1015365&amp;ftid=273147&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T08:01:09Z', 'timestamp': 1481875269000}, 'score': 45.41419, 'issued': {'date-parts': [[2004]]}, 'ISBN': ['1581138285'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1015330.1015365'}
+>>> hash >>> ('An iterative locally linear embedding algorithm', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Yuan, Y., Mou, L., Lu, X.: Scene recognition by manifold regularized deep learning architecture. IEEE Trans. Neural Netw. Learn. Syst. 26(10), 2222–2233 (2015)
+>>> DOI >>> 10.1109/tnnls.2014.2359471
+>>> URL >>> http://dx.doi.org/10.1109/tnnls.2014.2359471
+>>> year >>> 2015.0
+>>> title >>> Scene Recognition by Manifold Regularized Deep Learning Architecture
+>>> author >>> Yuan Yuan and Lichao Mou and Xiaoqiang Lu
+>>> reference_count >>> 53.0
+>>> is_referenced_by_count >>> 52.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Neural Networks and Learning Systems']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 22]], 'date-time': '2018-06-22T19:22:32Z', 'timestamp': 1529695352035}, 'reference-count': 53, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '10', 'funder': [{'DOI': '10.13039/501100001809', 'name': 'National Natural Science Foundation of China', 'doi-asserted-by': 'publisher', 'award': ['61100079', '61172143']}, {'name': 'National Basic Research Program (973 Program) of China', 'award': ['2012CB719905']}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Neural Netw. Learning Syst.'], 'published-print': {'date-parts': [[2015, 10]]}, 'DOI': '10.1109/tnnls.2014.2359471', 'type': 'journal-article', 'created': {'date-parts': [[2015, 1, 22]], 'date-time': '2015-01-22T19:45:39Z', 'timestamp': 1421955939000}, 'page': '2222-2233', 'source': 'Crossref', 'is-referenced-by-count': 52, 'title': ['Scene Recognition by Manifold Regularized Deep Learning Architecture'], 'prefix': '10.1109', 'volume': '26', 'author': [{'given': 'Yuan', 'family': 'Yuan', 'sequence': 'first', 'affiliation': []}, {'given': 'Lichao', 'family': 'Mou', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xiaoqiang', 'family': 'Lu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Neural Networks and Learning Systems'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/5962385/7287875/07018034.pdf?arnumber=7018034', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 23]], 'date-time': '2017-06-23T04:08:58Z', 'timestamp': 1498190938000}, 'score': 112.767525, 'issued': {'date-parts': [[2015, 10]]}, 'references-count': 53, 'journal-issue': {'issue': '10'}, 'URL': 'http://dx.doi.org/10.1109/tnnls.2014.2359471', 'ISSN': ['2162-237X', '2162-2388'], 'issn-type': [{'value': '2162-237X', 'type': 'print'}, {'value': '2162-2388', 'type': 'electronic'}]}
+>>> hash >>> ('Scene Recognition by Manifold Regularized Deep Learning Architecture', 2015.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Raducanu, B., Dornaika, F.: A supervised non-linear dimensionality reduction approach for manifold learning. Pattern Recogn. 45(6), 2432–2444 (2012)
+>>> DOI >>> 10.1016/j.patcog.2011.12.006
+>>> URL >>> http://dx.doi.org/10.1016/j.patcog.2011.12.006
+>>> year >>> 2012.0
+>>> title >>> A supervised non-linear dimensionality reduction approach for manifold learning
+>>> author >>> B. Raducanu and F. Dornaika
+>>> reference_count >>> 38.0
+>>> is_referenced_by_count >>> 45.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 11]], 'date-time': '2018-06-11T12:02:30Z', 'timestamp': 1528718550006}, 'reference-count': 38, 'publisher': 'Elsevier BV', 'issue': '6', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2012, 6, 1]], 'date-time': '2012-06-01T00:00:00Z', 'timestamp': 1338508800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[2012, 6]]}, 'DOI': '10.1016/j.patcog.2011.12.006', 'type': 'journal-article', 'created': {'date-parts': [[2011, 12, 20]], 'date-time': '2011-12-20T09:25:26Z', 'timestamp': 1324373126000}, 'page': '2432-2444', 'source': 'Crossref', 'is-referenced-by-count': 45, 'title': ['A supervised non-linear dimensionality reduction approach for manifold learning'], 'prefix': '10.1016', 'volume': '45', 'author': [{'given': 'B.', 'family': 'Raducanu', 'sequence': 'first', 'affiliation': []}, {'given': 'F.', 'family': 'Dornaika', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0031320311005073?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0031320311005073?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T11:35:02Z', 'timestamp': 1497958502000}, 'score': 109.54661, 'issued': {'date-parts': [[2012, 6]]}, 'references-count': 38, 'journal-issue': {'published-print': {'date-parts': [[2012, 6]]}, 'issue': '6'}, 'alternative-id': ['S0031320311005073'], 'URL': 'http://dx.doi.org/10.1016/j.patcog.2011.12.006', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('A supervised non-linear dimensionality reduction approach for manifold learning', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Samaria, F.S., Harter, A.C.: Parameterisation of a stochastic model for human face identification. In: 2ed IEEE Workshop on Applications of Computer Vision, pp. 138–142. IEEE, Sarasota (2010)
+>>> DOI >>> 10.1109/acv.1994.341300
+>>> URL >>> http://dx.doi.org/10.1109/acv.1994.341300
+>>> year >>> None
+>>> title >>> Parameterisation of a stochastic model for human face identification
+>>> author >>> F.S. Samaria and A.C. Harter
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 683.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of 1994 IEEE Workshop on Applications of Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 26]], 'date-time': '2018-06-26T11:42:28Z', 'timestamp': 1530013348189}, 'reference-count': 10, 'publisher': 'IEEE Comput. Soc. Press', 'isbn-type': [{'value': '081866410X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/acv.1994.341300', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 12, 17]], 'date-time': '2002-12-17T14:36:54Z', 'timestamp': 1040135814000}, 'source': 'Crossref', 'is-referenced-by-count': 683, 'title': ['Parameterisation of a stochastic model for human face identification'], 'prefix': '10.1109', 'author': [{'given': 'F.S.', 'family': 'Samaria', 'sequence': 'first', 'affiliation': []}, {'given': 'A.C.', 'family': 'Harter', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '1994 IEEE Workshop on Applications of Computer Vision', 'location': 'Sarasota, FL, USA', 'acronym': 'ACV-94'}, 'container-title': ['Proceedings of 1994 IEEE Workshop on Applications of Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx2/998/7985/00341300.pdf?arnumber=341300', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T12:29:50Z', 'timestamp': 1489062590000}, 'score': 93.5146, 'issued': {'date-parts': [[None]]}, 'ISBN': ['081866410X'], 'references-count': 10, 'URL': 'http://dx.doi.org/10.1109/acv.1994.341300'}
+>>> hash >>> ('Parameterisation of a stochastic model for human face identification', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Tenenbaum, J.B., De, S.V., Langford, J.C.: A global geometric framework for nonlinear dimensionality reduction. Science 290(5500), 2319–2323 (2000)
+>>> DOI >>> 10.1126/science.290.5500.2319
+>>> URL >>> http://dx.doi.org/10.1126/science.290.5500.2319
+>>> year >>> 2000.0
+>>> title >>> A Global Geometric Framework for Nonlinear Dimensionality Reduction
+>>> author >>> J. B. Tenenbaum
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 5111.0
+>>> subject >>> None
+>>> container_title >>> ['Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 27]], 'date-time': '2018-06-27T02:22:29Z', 'timestamp': 1530066149315}, 'reference-count': 0, 'publisher': 'American Association for the Advancement of Science (AAAS)', 'issue': '5500', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2000, 12, 22]]}, 'DOI': '10.1126/science.290.5500.2319', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T09:47:44Z', 'timestamp': 1027763264000}, 'page': '2319-2323', 'source': 'Crossref', 'is-referenced-by-count': 5111, 'title': ['A Global Geometric Framework for Nonlinear Dimensionality Reduction'], 'prefix': '10.1126', 'volume': '290', 'author': [{'given': 'J. B.', 'family': 'Tenenbaum', 'sequence': 'first', 'affiliation': []}], 'member': '221', 'container-title': ['Science'], 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1126/science.290.5500.2319', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 23]], 'date-time': '2016-12-23T10:36:11Z', 'timestamp': 1482489371000}, 'score': 86.75447, 'issued': {'date-parts': [[2000, 12, 22]]}, 'references-count': 0, 'journal-issue': {'issue': '5500'}, 'URL': 'http://dx.doi.org/10.1126/science.290.5500.2319', 'ISSN': ['0036-8075', '1095-9203'], 'issn-type': [{'value': '0036-8075', 'type': 'print'}, {'value': '1095-9203', 'type': 'electronic'}]}
+>>> hash >>> ('A Global Geometric Framework for Nonlinear Dimensionality Reduction', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ni, B., Yan, S., Kassim, A.: Learning a propagable graph for semisupervised learning: classification and regression. IEEE Trans. Knowl. Data Eng. 24(1), 114–126 (2012)
+>>> DOI >>> 10.1109/tkde.2010.209
+>>> URL >>> http://dx.doi.org/10.1109/tkde.2010.209
+>>> year >>> 2012.0
+>>> title >>> Learning a Propagable Graph for Semisupervised Learning: Classification and Regression
+>>> author >>> None
+>>> reference_count >>> 30.0
+>>> is_referenced_by_count >>> 27.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Knowledge and Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 11]], 'date-time': '2018-06-11T12:02:29Z', 'timestamp': 1528718549995}, 'reference-count': 30, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Knowl. Data Eng.'], 'published-print': {'date-parts': [[2012, 1]]}, 'DOI': '10.1109/tkde.2010.209', 'type': 'journal-article', 'created': {'date-parts': [[2010, 11, 9]], 'date-time': '2010-11-09T19:09:33Z', 'timestamp': 1289329773000}, 'page': '114-126', 'source': 'Crossref', 'is-referenced-by-count': 27, 'title': ['Learning a Propagable Graph for Semisupervised Learning: Classification and Regression'], 'prefix': '10.1109', 'volume': '24', 'author': [{'family': 'Bingbing Ni', 'sequence': 'first', 'affiliation': []}, {'family': 'Shuicheng Yan', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Kassim', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Knowledge and Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/69/6084775/05611521.pdf?arnumber=5611521', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T10:32:23Z', 'timestamp': 1510655543000}, 'score': 116.15668, 'issued': {'date-parts': [[2012, 1]]}, 'references-count': 30, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1109/tkde.2010.209', 'ISSN': ['1041-4347'], 'issn-type': [{'value': '1041-4347', 'type': 'print'}]}
+>>> hash >>> ('Learning a Propagable Graph for Semisupervised Learning: Classification and Regression', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Geng, X., Zhan, D.C., Zhou, Z.H.: Supervised nonlinear dimensionality reduction for visualization and classification. IEEE Trans. Syst. Man Cybern. Part B (Cybern.) 35(6), 1098–1107 (2005)
+>>> DOI >>> 10.1109/tsmcb.2005.850151
+>>> URL >>> http://dx.doi.org/10.1109/tsmcb.2005.850151
+>>> year >>> 2005.0
+>>> title >>> Supervised Nonlinear Dimensionality Reduction for Visualization and Classification
+>>> author >>> X. Geng and D.-C. Zhan and Z.-H. Zhou
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 212.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Systems, Man and Cybernetics, Part B (Cybernetics)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 16]], 'date-time': '2018-06-16T06:42:30Z', 'timestamp': 1529131350531}, 'reference-count': 18, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Syst., Man, Cybern. B'], 'published-print': {'date-parts': [[2005, 12]]}, 'DOI': '10.1109/tsmcb.2005.850151', 'type': 'journal-article', 'created': {'date-parts': [[2005, 11, 22]], 'date-time': '2005-11-22T16:42:56Z', 'timestamp': 1132677776000}, 'page': '1098-1107', 'source': 'Crossref', 'is-referenced-by-count': 212, 'title': ['Supervised Nonlinear Dimensionality Reduction for Visualization and Classification'], 'prefix': '10.1109', 'volume': '35', 'author': [{'given': 'X.', 'family': 'Geng', 'sequence': 'first', 'affiliation': []}, {'given': 'D.-C.', 'family': 'Zhan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Z.-H.', 'family': 'Zhou', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Systems, Man and Cybernetics, Part B (Cybernetics)'], 'language': 'en', 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/3477/32939/01542257.pdf?arnumber=1542257', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T01:05:33Z', 'timestamp': 1497661533000}, 'score': 114.36474, 'issued': {'date-parts': [[2005, 12]]}, 'references-count': 18, 'journal-issue': {'published-print': {'date-parts': [[2005, 12]]}, 'issue': '6'}, 'URL': 'http://dx.doi.org/10.1109/tsmcb.2005.850151', 'ISSN': ['1083-4419'], 'issn-type': [{'value': '1083-4419', 'type': 'print'}]}
+>>> hash >>> ('Supervised Nonlinear Dimensionality Reduction for Visualization and Classification', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Nie, F., Xu, D., Li, X., Xiang, S.: Semisupervised dimensionality reduction and classification through virtual label regression. IEEE Trans. Syst. Man Cybern. Part B (Cybern.) 41(3), 675–685 (2011)
+>>> DOI >>> 10.1109/tsmcb.2010.2085433
+>>> URL >>> http://dx.doi.org/10.1109/tsmcb.2010.2085433
+>>> year >>> 2011.0
+>>> title >>> Semisupervised Dimensionality Reduction and Classification Through Virtual Label Regression
+>>> author >>> None
+>>> reference_count >>> 39.0
+>>> is_referenced_by_count >>> 53.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 11]], 'date-time': '2018-06-11T12:02:29Z', 'timestamp': 1528718549985}, 'reference-count': 39, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Syst., Man, Cybern. B'], 'published-print': {'date-parts': [[2011, 6]]}, 'DOI': '10.1109/tsmcb.2010.2085433', 'type': 'journal-article', 'created': {'date-parts': [[2010, 12, 9]], 'date-time': '2010-12-09T14:54:34Z', 'timestamp': 1291906474000}, 'page': '675-685', 'source': 'Crossref', 'is-referenced-by-count': 53, 'title': ['Semisupervised Dimensionality Reduction and Classification Through Virtual Label Regression'], 'prefix': '10.1109', 'volume': '41', 'author': [{'family': 'Feiping Nie', 'sequence': 'first', 'affiliation': []}, {'family': 'Dong Xu', 'sequence': 'additional', 'affiliation': []}, {'family': 'Xuelong Li', 'sequence': 'additional', 'affiliation': []}, {'family': 'Shiming Xiang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/3477/5767816/05645697.pdf?arnumber=5645697', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T03:59:26Z', 'timestamp': 1510631966000}, 'score': 103.97115, 'issued': {'date-parts': [[2011, 6]]}, 'references-count': 39, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/tsmcb.2010.2085433', 'ISSN': ['1083-4419', '1941-0492'], 'issn-type': [{'value': '1083-4419', 'type': 'print'}, {'value': '1941-0492', 'type': 'electronic'}]}
+>>> hash >>> ('Semisupervised Dimensionality Reduction and Classification Through Virtual Label Regression', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hou, C., Nie, F., Li, X., Yi, D., Wu, Y.: Joint embedding learning and sparse regression: a framework for unsupervised feature selection. IEEE Trans. Cybern. 44(6), 793–804 (2014)
+>>> DOI >>> 10.1109/tcyb.2013.2272642
+>>> URL >>> http://dx.doi.org/10.1109/tcyb.2013.2272642
+>>> year >>> 2014.0
+>>> title >>> Joint Embedding Learning and Sparse Regression: A Framework for Unsupervised Feature Selection
+>>> author >>> None
+>>> reference_count >>> 45.0
+>>> is_referenced_by_count >>> 107.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Cybernetics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 19]], 'date-time': '2018-06-19T01:22:29Z', 'timestamp': 1529371349256}, 'reference-count': 45, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '6', 'funder': [{'DOI': '10.13039/501100001809', 'name': 'National Natural Science Foundation of China', 'doi-asserted-by': 'crossref', 'award': ['61005003', '61072093', '91120302', '60975038', '61125106']}, {'name': 'National Basic Research Program of China (973 Program)', 'award': ['2012CB316400']}, {'name': 'Shaanxi Key Innovation Team of Science and Technology', 'award': ['2012KCT-04']}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Cybern.'], 'published-print': {'date-parts': [[2014, 6]]}, 'DOI': '10.1109/tcyb.2013.2272642', 'type': 'journal-article', 'created': {'date-parts': [[2013, 7, 22]], 'date-time': '2013-07-22T18:03:25Z', 'timestamp': 1374516205000}, 'page': '793-804', 'source': 'Crossref', 'is-referenced-by-count': 107, 'title': ['Joint Embedding Learning and Sparse Regression: A Framework for Unsupervised Feature Selection'], 'prefix': '10.1109', 'volume': '44', 'author': [{'family': 'Chenping Hou', 'sequence': 'first', 'affiliation': []}, {'family': 'Feiping Nie', 'sequence': 'additional', 'affiliation': []}, {'family': 'Xuelong Li', 'sequence': 'additional', 'affiliation': []}, {'family': 'Dongyun Yi', 'sequence': 'additional', 'affiliation': []}, {'family': 'Yi Wu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Cybernetics'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6221036/6814883/06565365.pdf?arnumber=6565365', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 21]], 'date-time': '2017-06-21T16:36:27Z', 'timestamp': 1498062987000}, 'score': 116.2446, 'issued': {'date-parts': [[2014, 6]]}, 'references-count': 45, 'journal-issue': {'issue': '6'}, 'URL': 'http://dx.doi.org/10.1109/tcyb.2013.2272642', 'ISSN': ['2168-2267', '2168-2275'], 'issn-type': [{'value': '2168-2267', 'type': 'print'}, {'value': '2168-2275', 'type': 'electronic'}]}
+>>> hash >>> ('Joint Embedding Learning and Sparse Regression: A Framework for Unsupervised Feature Selection', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> He, X., Cai, D., Han, J.: Semi-supervised discriminant analysis. In: 11th IEEE International Conference on Computer Vision (ICCV), pp. 1–7. IEEE, Rio de Janeiro (2007)
+>>> DOI >>> 10.1109/iccv.2007.4408856
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2007.4408856
+>>> year >>> 2007.0
+>>> title >>> Semi-supervised Discriminant Analysis
+>>> author >>> Deng Cai and Xiaofei He and Jiawei Han
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 271.0
+>>> subject >>> None
+>>> container_title >>> ['2007 IEEE 11th International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 22]], 'date-time': '2018-06-22T21:42:33Z', 'timestamp': 1529703753932}, 'reference-count': 27, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424416301', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.1109/iccv.2007.4408856', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 1, 4]], 'date-time': '2008-01-04T20:34:53Z', 'timestamp': 1199478893000}, 'source': 'Crossref', 'is-referenced-by-count': 271, 'title': ['Semi-supervised Discriminant Analysis'], 'prefix': '10.1109', 'author': [{'given': 'Deng', 'family': 'Cai', 'sequence': 'first', 'affiliation': []}, {'given': 'Xiaofei', 'family': 'He', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jiawei', 'family': 'Han', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2007 IEEE 11th International Conference on Computer Vision', 'location': 'Rio de Janeiro, Brazil', 'start': {'date-parts': [[2007, 10, 14]]}, 'end': {'date-parts': [[2007, 10, 21]]}}, 'container-title': ['2007 IEEE 11th International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4408818/4408819/04408856.pdf?arnumber=4408856', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T02:40:03Z', 'timestamp': 1497753603000}, 'score': 95.90789, 'issued': {'date-parts': [[2007]]}, 'ISBN': ['9781424416301'], 'references-count': 27, 'URL': 'http://dx.doi.org/10.1109/iccv.2007.4408856'}
+>>> hash >>> ('Semi-supervised Discriminant Analysis', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Yan, S., Xu, D., Yang, Q., Zhang, L., Tang, X., Zhang, H.J.: Discriminant analysis with tensor representation. In: IEEE Computer Society Conference on Computer Vision and Pattern Recognition, pp. 526–532. IEEE, San Diego (2005)
+>>> DOI >>> 10.1109/cvpr.2005.131
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2005.131
+>>> year >>> None
+>>> title >>> Discriminant Analysis with Tensor Representation
+>>> author >>> None
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 25.0
+>>> subject >>> None
+>>> container_title >>> ["2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T20:43:41Z', 'timestamp': 1525466621501}, 'reference-count': 18, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769523722', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2005.131', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 7, 27]], 'date-time': '2005-07-27T17:52:28Z', 'timestamp': 1122486748000}, 'source': 'Crossref', 'is-referenced-by-count': 25, 'title': ['Discriminant Analysis with Tensor Representation'], 'prefix': '10.1109', 'author': [{'family': 'Shuicheng Yan', 'sequence': 'first', 'affiliation': []}, {'family': 'Dong Xu', 'sequence': 'additional', 'affiliation': []}, {'family': 'Qiang Yang', 'sequence': 'additional', 'affiliation': []}, {'family': 'Lei Zhang', 'sequence': 'additional', 'affiliation': []}, {'family': 'Xiaoou Tang', 'sequence': 'additional', 'affiliation': []}, {'family': 'Hong-Jiang Zhang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)", 'location': 'San Diego, CA, USA'}, 'container-title': ["2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/9901/31472/01467312.pdf?arnumber=1467312', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 15]], 'date-time': '2017-03-15T00:31:45Z', 'timestamp': 1489537905000}, 'score': 97.70131, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769523722'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1109/cvpr.2005.131'}
+>>> hash >>> ('Discriminant Analysis with Tensor Representation', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Li, L.J., Li, F.F.: What, where and who? Classifying events by scene and object recognition. In: 11th IEEE International Conference on Computer Vision (ICCV), pp. 1–8. IEEE, Rio de Janeiro (2007)
+>>> DOI >>> 10.1109/iccv.2007.4408872
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2007.4408872
+>>> year >>> 2007.0
+>>> title >>> What, where and who? Classifying events by scene and object recognition
+>>> author >>> None
+>>> reference_count >>> 26.0
+>>> is_referenced_by_count >>> 278.0
+>>> subject >>> None
+>>> container_title >>> ['2007 IEEE 11th International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 16]], 'date-time': '2018-06-16T14:02:31Z', 'timestamp': 1529157751374}, 'reference-count': 26, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424416301', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.1109/iccv.2007.4408872', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 7, 18]], 'date-time': '2008-07-18T17:19:35Z', 'timestamp': 1216401575000}, 'source': 'Crossref', 'is-referenced-by-count': 278, 'title': ['What, where and who? Classifying events by scene and object recognition'], 'prefix': '10.1109', 'author': [{'given': 'Li-Jia', 'family': 'Li', 'sequence': 'first', 'affiliation': []}, {'family': 'Li Fei-Fei', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2007 IEEE 11th International Conference on Computer Vision', 'location': 'Rio de Janeiro, Brazil', 'start': {'date-parts': [[2007, 10, 14]]}, 'end': {'date-parts': [[2007, 10, 21]]}}, 'container-title': ['2007 IEEE 11th International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4408818/4408819/04408872.pdf?arnumber=4408872', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T10:04:59Z', 'timestamp': 1497780299000}, 'score': 107.89703, 'issued': {'date-parts': [[2007]]}, 'ISBN': ['9781424416301'], 'references-count': 26, 'URL': 'http://dx.doi.org/10.1109/iccv.2007.4408872'}
+>>> hash >>> ('What, where and who? Classifying events by scene and object recognition', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Roweis, S.T., Saul, L.K.: Nonlinear dimensionality reduction by locally linear embedding. Science 290(5500), 2323–2326 (2000)
+>>> DOI >>> 10.1126/science.290.5500.2323
+>>> URL >>> http://dx.doi.org/10.1126/science.290.5500.2323
+>>> year >>> 2000.0
+>>> title >>> Nonlinear Dimensionality Reduction by Locally Linear Embedding
+>>> author >>> S. T. Roweis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 5757.0
+>>> subject >>> None
+>>> container_title >>> ['Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 27]], 'date-time': '2018-06-27T02:22:29Z', 'timestamp': 1530066149307}, 'reference-count': 0, 'publisher': 'American Association for the Advancement of Science (AAAS)', 'issue': '5500', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2000, 12, 22]]}, 'DOI': '10.1126/science.290.5500.2323', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T09:47:44Z', 'timestamp': 1027763264000}, 'page': '2323-2326', 'source': 'Crossref', 'is-referenced-by-count': 5757, 'title': ['Nonlinear Dimensionality Reduction by Locally Linear Embedding'], 'prefix': '10.1126', 'volume': '290', 'author': [{'given': 'S. T.', 'family': 'Roweis', 'sequence': 'first', 'affiliation': []}], 'member': '221', 'container-title': ['Science'], 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1126/science.290.5500.2323', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 23]], 'date-time': '2016-12-23T16:02:31Z', 'timestamp': 1482508951000}, 'score': 93.5899, 'issued': {'date-parts': [[2000, 12, 22]]}, 'references-count': 0, 'journal-issue': {'issue': '5500'}, 'URL': 'http://dx.doi.org/10.1126/science.290.5500.2323', 'ISSN': ['0036-8075', '1095-9203'], 'issn-type': [{'value': '0036-8075', 'type': 'print'}, {'value': '1095-9203', 'type': 'electronic'}]}
+>>> hash >>> ('Nonlinear Dimensionality Reduction by Locally Linear Embedding', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Zhu, X., Ghahramani, Z., Lafferty, J.D.: Semi-supervised learning using gaussian fields and harmonic functions. In: 20th International Conference on Machine Learning, Washington DC, USA, pp. 912–919 (2003)
+>>> DOI >>> 10.1145/1102351.1102484
+>>> URL >>> http://dx.doi.org/10.1145/1102351.1102484
+>>> year >>> 2003.0
+>>> title >>> Semi-supervised learning using gaussian fields and harmonic functions
+>>> author >>> John Lafferty and Xiaojin Zhu and J Lafferty
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 37.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 22nd international conference on Machine learning  - ICML '05"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T06:24:26Z', 'timestamp': 1525760666559}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1595931805', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1145/1102351.1102484', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 2, 6]], 'date-time': '2006-02-06T15:52:40Z', 'timestamp': 1139241160000}, 'source': 'Crossref', 'is-referenced-by-count': 37, 'title': ['Harmonic mixtures'], 'prefix': '10.1145', 'author': [{'given': 'Xiaojin', 'family': 'Zhu', 'sequence': 'first', 'affiliation': []}, {'given': 'John', 'family': 'Lafferty', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 22nd international conference', 'location': 'Bonn, Germany', 'sponsor': ['undetermined'], 'acronym': "ICML '05", 'number': '22', 'start': {'date-parts': [[2005, 8, 7]]}, 'end': {'date-parts': [[2005, 8, 11]]}}, 'container-title': ["Proceedings of the 22nd international conference on Machine learning  - ICML '05"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1102484&amp;ftid=339802&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T12:37:09Z', 'timestamp': 1481891829000}, 'score': 58.368614, 'subtitle': ['combining mixture models and graph-based methods for inductive and scalable semi-supervised learning'], 'issued': {'date-parts': [[2005]]}, 'ISBN': ['1595931805'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1102351.1102484'}
+>>> hash >>> ('Semi-supervised learning using gaussian fields and harmonic functions', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Yan, S., Xu, D., Zhang, B., Zhang, H.J., Yang, Q., Lin, S.: Graph embedding and extensions: a general framework for dimensionality reduction. IEEE Trans. Pattern Anal. Mach. Intell. 29(1), 40–51 (2007)
+>>> DOI >>> 10.1109/tpami.2007.250598
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2007.250598
+>>> year >>> 2007.0
+>>> title >>> Graph Embedding and Extensions: A General Framework for Dimensionality Reduction
+>>> author >>> Shuicheng Yan and Dong Xu and Benyu Zhang and Hong-jiang Zhang and Qiang Yang and Stephen Lin
+>>> reference_count >>> 33.0
+>>> is_referenced_by_count >>> 1535.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 22]], 'date-time': '2018-06-22T19:22:26Z', 'timestamp': 1529695346971}, 'reference-count': 33, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2007, 1]]}, 'DOI': '10.1109/tpami.2007.250598', 'type': 'journal-article', 'created': {'date-parts': [[2006, 12, 1]], 'date-time': '2006-12-01T14:44:55Z', 'timestamp': 1164984295000}, 'page': '40-51', 'source': 'Crossref', 'is-referenced-by-count': 1535, 'title': ['Graph Embedding and Extensions: A General Framework for Dimensionality Reduction'], 'prefix': '10.1109', 'volume': '29', 'author': [{'given': 'Shuicheng', 'family': 'Yan', 'sequence': 'first', 'affiliation': []}, {'given': 'Dong', 'family': 'Xu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Benyu', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Hong-jiang', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Qiang', 'family': 'Yang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Stephen', 'family': 'Lin', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/4016543/04016549.pdf?arnumber=4016549', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T12:22:04Z', 'timestamp': 1510662124000}, 'score': 97.678665, 'issued': {'date-parts': [[2007, 1]]}, 'references-count': 33, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2007.250598', 'ISSN': ['0162-8828', '2160-9292'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}, {'value': '2160-9292', 'type': 'electronic'}]}
+>>> hash >>> ('Graph Embedding and Extensions: A General Framework for Dimensionality Reduction', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> He, X., Niyogi, P.: Locality preserving projections. Adv. Neural Inf. Proc. Syst. 2(5), 153–160 (2004)
+>>> DOI >>> 10.1109/tnnls.2014.2303798
+>>> URL >>> http://dx.doi.org/10.1109/tnnls.2014.2303798
+>>> year >>> 2004.0
+>>> title >>> Locality preserving projections
+>>> author >>> X He and P Niyogi
+>>> reference_count >>> 40.0
+>>> is_referenced_by_count >>> 29.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Neural Networks and Learning Systems']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 15]], 'date-time': '2018-06-15T07:42:29Z', 'timestamp': 1529048549934}, 'reference-count': 40, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '11', 'funder': [{'name': 'National Science Foundation of China', 'award': ['61271341', '60971104']}, {'name': 'Sichuan Basic Science and Technology Foundation', 'award': ['2013JY0036']}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Neural Netw. Learning Syst.'], 'published-print': {'date-parts': [[2014, 11]]}, 'DOI': '10.1109/tnnls.2014.2303798', 'type': 'journal-article', 'created': {'date-parts': [[2014, 3, 26]], 'date-time': '2014-03-26T18:04:57Z', 'timestamp': 1395857097000}, 'page': '2065-2074', 'source': 'Crossref', 'is-referenced-by-count': 29, 'title': ['Discriminant Locality Preserving Projections Based on L1-Norm Maximization'], 'prefix': '10.1109', 'volume': '25', 'author': [{'given': 'Fujin', 'family': 'Zhong', 'sequence': 'first', 'affiliation': []}, {'given': 'Jiashu', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Defang', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Neural Networks and Learning Systems'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/5962385/6924821/06778755.pdf?arnumber=6778755', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T10:24:03Z', 'timestamp': 1498127043000}, 'score': 35.606056, 'issued': {'date-parts': [[2014, 11]]}, 'references-count': 40, 'journal-issue': {'issue': '11'}, 'URL': 'http://dx.doi.org/10.1109/tnnls.2014.2303798', 'ISSN': ['2162-237X', '2162-2388'], 'issn-type': [{'value': '2162-237X', 'type': 'print'}, {'value': '2162-2388', 'type': 'electronic'}]}
+>>> hash >>> ('Locality preserving projections', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Lazebnik, S., Schmid, C., Ponce, J.: Beyond bags of features: spatial pyramid matching for recognizing natural scene categories. In: IEEE Computer Society Conference on Computer Vision and Pattern Recognition, vol. 2, pp. 2169–2178. IEEE, New York (2006)
+>>> DOI >>> 10.1109/cvpr.2006.68
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2006.68
+>>> year >>> None
+>>> title >>> Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories
+>>> author >>> S. Lazebnik and C. Schmid and J. Ponce
+>>> reference_count >>> 25.0
+>>> is_referenced_by_count >>> 2753.0
+>>> subject >>> None
+>>> container_title >>> ["2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Volume 2 (CVPR'06)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 22]], 'date-time': '2018-06-22T23:42:33Z', 'timestamp': 1529710953368}, 'reference-count': 25, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769525970', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/cvpr.2006.68', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 7, 10]], 'date-time': '2006-07-10T19:59:56Z', 'timestamp': 1152561596000}, 'source': 'Crossref', 'is-referenced-by-count': 2753, 'title': ['Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories'], 'prefix': '10.1109', 'author': [{'given': 'S.', 'family': 'Lazebnik', 'sequence': 'first', 'affiliation': []}, {'given': 'C.', 'family': 'Schmid', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.', 'family': 'Ponce', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Volume 2 (CVPR'06)", 'location': 'New York, NY, USA'}, 'container-title': ["2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Volume 2 (CVPR'06)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10924/34374/01641019.pdf?arnumber=1641019', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T07:23:18Z', 'timestamp': 1497684198000}, 'score': 138.46588, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769525970'], 'references-count': 25, 'URL': 'http://dx.doi.org/10.1109/cvpr.2006.68'}
+>>> hash >>> ('Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Cheng, H., Liu, Z., Yang, J.: Sparsity induced similarity measure for label propagation. In: 12th IEEE International Conference on Computer Vision (ICCV), pp. 317–324. IEEE, Kyoto (2009)
+>>> DOI >>> 10.1109/iccv.2009.5459267
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2009.5459267
+>>> year >>> 2009.0
+>>> title >>> Sparsity induced similarity measure for label propagation
+>>> author >>> None
+>>> reference_count >>> 31.0
+>>> is_referenced_by_count >>> 45.0
+>>> subject >>> None
+>>> container_title >>> ['2009 IEEE 12th International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T03:54:16Z', 'timestamp': 1525319656928}, 'reference-count': 31, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424444205', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 9]]}, 'DOI': '10.1109/iccv.2009.5459267', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 5, 12]], 'date-time': '2010-05-12T20:36:14Z', 'timestamp': 1273696574000}, 'source': 'Crossref', 'is-referenced-by-count': 45, 'title': ['Sparsity induced similarity measure for label propagation'], 'prefix': '10.1109', 'author': [{'family': 'Hong Cheng', 'sequence': 'first', 'affiliation': []}, {'family': 'Zicheng Liu', 'sequence': 'additional', 'affiliation': []}, {'family': 'Jie Yang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 IEEE 12th International Conference on Computer Vision (ICCV)', 'location': 'Kyoto', 'start': {'date-parts': [[2009, 9, 29]]}, 'end': {'date-parts': [[2009, 10, 2]]}}, 'container-title': ['2009 IEEE 12th International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5453389/5459144/05459267.pdf?arnumber=5459267', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T08:07:24Z', 'timestamp': 1497859644000}, 'score': 98.51214, 'issued': {'date-parts': [[2009, 9]]}, 'ISBN': ['9781424444205'], 'references-count': 31, 'URL': 'http://dx.doi.org/10.1109/iccv.2009.5459267'}
+>>> hash >>> ('Sparsity induced similarity measure for label propagation', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Shi, X., Guo, Z., Lai, Z., Yang, Y., Bao, Z., Zhang, D.: A framework of joint graph embedding and sparse regression for dimensionality reduction. IEEE Trans. Image Process. 24(4), 1341–1355 (2015)
+>>> DOI >>> 10.1109/tip.2015.2405474
+>>> URL >>> http://dx.doi.org/10.1109/tip.2015.2405474
+>>> year >>> 2015.0
+>>> title >>> A Framework of Joint Graph Embedding and Sparse Regression for Dimensionality Reduction
+>>> author >>> None
+>>> reference_count >>> 51.0
+>>> is_referenced_by_count >>> 28.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Image Processing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 11]], 'date-time': '2018-06-11T12:02:29Z', 'timestamp': 1528718549972}, 'reference-count': 51, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'funder': [{'DOI': '10.13039/501100001809', 'name': 'National Natural Science Foundation of China', 'doi-asserted-by': 'publisher', 'award': ['61101150']}, {'name': 'Shenzhen Special Fund for the Strategic Development of Emerging Industries', 'award': ['JCYJ20120831165730901']}, {'name': 'Key Laboratory of Measurement and Control of Complex Systems of Engineering, Ministry of Education, Southeast University, Nanjing, China', 'award': []}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. on Image Process.'], 'published-print': {'date-parts': [[2015, 4]]}, 'DOI': '10.1109/tip.2015.2405474', 'type': 'journal-article', 'created': {'date-parts': [[2015, 2, 19]], 'date-time': '2015-02-19T20:41:12Z', 'timestamp': 1424378472000}, 'page': '1341-1355', 'source': 'Crossref', 'is-referenced-by-count': 28, 'title': ['A Framework of Joint Graph Embedding and Sparse Regression for Dimensionality Reduction'], 'prefix': '10.1109', 'volume': '24', 'author': [{'family': 'Xiaoshuang Shi', 'sequence': 'first', 'affiliation': []}, {'family': 'Zhenhua Guo', 'sequence': 'additional', 'affiliation': []}, {'family': 'Zhihui Lai', 'sequence': 'additional', 'affiliation': []}, {'family': 'Yujiu Yang', 'sequence': 'additional', 'affiliation': []}, {'family': 'Zhifeng Bao', 'sequence': 'additional', 'affiliation': []}, {'given': 'David', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Image Processing'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/83/7038243/07045492.pdf?arnumber=7045492', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 23]], 'date-time': '2017-06-23T05:55:12Z', 'timestamp': 1498197312000}, 'score': 92.04172, 'issued': {'date-parts': [[2015, 4]]}, 'references-count': 51, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/tip.2015.2405474', 'ISSN': ['1057-7149', '1941-0042'], 'issn-type': [{'value': '1057-7149', 'type': 'print'}, {'value': '1941-0042', 'type': 'electronic'}]}
+>>> hash >>> ('A Framework of Joint Graph Embedding and Sparse Regression for Dimensionality Reduction', 2015.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Yu, G., Zhang, G., Domeniconi, C., Yu, Z., You, J.: Semi-supervised classification based on random subspace dimensionality reduction. Pattern Recogn. 45(3), 1119–1135 (2012)
+>>> DOI >>> 10.1016/j.patcog.2011.08.024
+>>> URL >>> http://dx.doi.org/10.1016/j.patcog.2011.08.024
+>>> year >>> 2012.0
+>>> title >>> Semi-supervised classification based on random subspace dimensionality reduction
+>>> author >>> Guoxian Yu and Guoji Zhang and Carlotta Domeniconi and Zhiwen Yu and Jane You
+>>> reference_count >>> 42.0
+>>> is_referenced_by_count >>> 39.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 11]], 'date-time': '2018-06-11T12:02:29Z', 'timestamp': 1528718549975}, 'reference-count': 42, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2012, 3, 1]], 'date-time': '2012-03-01T00:00:00Z', 'timestamp': 1330560000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[2012, 3]]}, 'DOI': '10.1016/j.patcog.2011.08.024', 'type': 'journal-article', 'created': {'date-parts': [[2011, 9, 1]], 'date-time': '2011-09-01T13:16:02Z', 'timestamp': 1314882962000}, 'page': '1119-1135', 'source': 'Crossref', 'is-referenced-by-count': 39, 'title': ['Semi-supervised classification based on random subspace dimensionality reduction'], 'prefix': '10.1016', 'volume': '45', 'author': [{'given': 'Guoxian', 'family': 'Yu', 'sequence': 'first', 'affiliation': []}, {'given': 'Guoji', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Carlotta', 'family': 'Domeniconi', 'sequence': 'additional', 'affiliation': []}, {'given': 'Zhiwen', 'family': 'Yu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jane', 'family': 'You', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0031320311003633?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0031320311003633?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T05:36:59Z', 'timestamp': 1497937019000}, 'score': 106.98346, 'issued': {'date-parts': [[2012, 3]]}, 'references-count': 42, 'journal-issue': {'published-print': {'date-parts': [[2012, 3]]}, 'issue': '3'}, 'alternative-id': ['S0031320311003633'], 'URL': 'http://dx.doi.org/10.1016/j.patcog.2011.08.024', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Semi-supervised classification based on random subspace dimensionality reduction', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Pei, X., Chen, C., Guan, Y.: Joint sparse representation and embedding propagation learning: a framework for graph-based semisupervised learning. IEEE Trans. Neural Netw. Learn. Syst. 28(12), 2949–2960 (2017)
+>>> DOI >>> 10.1109/tnnls.2016.2609434
+>>> URL >>> http://dx.doi.org/10.1109/tnnls.2016.2609434
+>>> year >>> 2017.0
+>>> title >>> Joint Sparse Representation and Embedding Propagation Learning: A Framework for Graph-Based Semisupervised Learning
+>>> author >>> Xiaobing Pei and Chuanbo Chen and Yue Guan
+>>> reference_count >>> 37.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Neural Networks and Learning Systems']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database208.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 17]], 'date-time': '2018-04-17T14:57:35Z', 'timestamp': 1523977055129}, 'reference-count': 37, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '12', 'funder': [{'name': 'Fundamental Research Funds for the Central Universities', 'award': ['HUST: 2015TS110']}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Neural Netw. Learning Syst.'], 'published-print': {'date-parts': [[2017, 12]]}, 'DOI': '10.1109/tnnls.2016.2609434', 'type': 'journal-article', 'created': {'date-parts': [[2016, 9, 28]], 'date-time': '2016-09-28T18:13:56Z', 'timestamp': 1475086436000}, 'page': '2949-2960', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Joint Sparse Representation and Embedding Propagation Learning: A Framework for Graph-Based Semisupervised Learning'], 'prefix': '10.1109', 'volume': '28', 'author': [{'ORCID': 'http://orcid.org/0000-0002-2978-0659', 'authenticated-orcid': False, 'given': 'Xiaobing', 'family': 'Pei', 'sequence': 'first', 'affiliation': []}, {'given': 'Chuanbo', 'family': 'Chen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yue', 'family': 'Guan', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Neural Networks and Learning Systems'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/5962385/8113707/07579160.pdf?arnumber=7579160', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 18]], 'date-time': '2017-12-18T22:43:13Z', 'timestamp': 1513636993000}, 'score': 110.10088, 'issued': {'date-parts': [[2017, 12]]}, 'references-count': 37, 'journal-issue': {'issue': '12'}, 'URL': 'http://dx.doi.org/10.1109/tnnls.2016.2609434', 'ISSN': ['2162-237X', '2162-2388'], 'issn-type': [{'value': '2162-237X', 'type': 'print'}, {'value': '2162-2388', 'type': 'electronic'}]}
+>>> hash >>> ('Joint Sparse Representation and Embedding Propagation Learning: A Framework for Graph-Based Semisupervised Learning', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

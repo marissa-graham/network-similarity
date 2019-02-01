@@ -1,0 +1,40 @@
+[0] Matthias Rupp, Ewgenij Proschak, Gisbert Schneider, Kernel Approach to Molecular Similarity Based on Iterative Graph Similarity
+[1] Concepts and Applications of Molecular Similarity; Johnson, M., Maggiora, G., Eds.; Wiley:  New York, 1990.
+[2] Willett, P. Chemical similarity searching. J. Chem. Inf. Comput. Sci. 1998, 38, 983−996.
+[3] Todeschini, R.; Consonni, V. Handbook of Molecular Descriptors; Wiley-VCH:  Weinheim, Germany, 2000.
+[4] Shawe-Taylor, J.; Cristianini, N. Kernel methods for pattern analysis; Cambridge University Press:  New York, NY, 2004.
+[5] Haussler, D. Convolution kernels on discrete structures; Technical Report UCSC-CRL-99-10; Department of Computer Science, University of California:  Santa Cruz, CA, 1999.
+[6] Gärtner, T. A survey of kernels for structured data. ACM SIG Knowledge Discovery Data Min. Explor. Newsl. 2003, 5, 49−58.
+[7] Kashima, H.; Tsuda, K.; Inokuchi, A. Marginalized kernels between labeled graphs. Proceedings of the 20th International Conference on Machine Learning (ICML 2003), Washington, DC, U.S.A., 2003; Fawcett, T., Mishra, N., Eds.; AAAI Press:  Menlo Park, CA, pp 321−328.
+[8] Gärtner, T.; Lloyd, J.; Flach, P. Kernels and distances for structured data. Machine Learning 2004, 57, 205−232.
+[9] Mahé, P.; Ueda, N.; Akutsu, T.; Perret, J.-L.; Vert, J.-P. Extensions of marginalized graph kernels. Proceedings of the 21st International Conference on Machine Learning (ICML 2004), Banff, Canada, 2004; Brodley, C., Ed.; Omnipress:  Madison, WI, pp 552−559.
+Borgwardt, K.; Ong, C. S.; Schönauer, S.; Vishwanathan, S.; Smola, A.; Kriegel, H.-P. Protein function prediction via graph kernels. Bioinformatics 2005, 21S1, i47−i56.
+[11] Fröhlich, H.; Wegner, J.; Sieker, F.; Zell, A. Optimal assignment kernels for attributed molecular graphs. Proceedings of the 22nd International Conference on Machine Learning (ICML 2005), Bonn, Germany, 2005; de Raedt, L., Wrobel, S., Eds.; Omnipress:  Madison, WI, pp 225−232.
+[12] Jain, B.; Geibel, P.; Wysotzki, F. SVM learning with the Schur-Hadamard inner product for graphs. Neurocomputing 2005, 64, 93−105.
+[13] Menchetti, S.; Costa, F.; Frasconi, P. Weighted decomposition kernels. Proceedings of the 22nd International Conference on Machine Learning (ICML 2005), Bonn, Germany, 2005; de Raedt, L., Wrobel, S., Eds.; Omnipress:  Madison, WI.
+[14] Ralaivola, L.; Swamidass, S.; Saigo, H.; Baldi, P. Graph kernels for chemical informatics. Neural Networks 2005, 18, 1093−1110.
+[15] Ramon, J.; Gärtner, T. Expressivity versus efficiency of graph kernels. Presented at Proceedings of the 1st International Workshop on Mining Graphs, Trees and Sequences (MGTS 2003) [Online], Cavtat-Dubrovnik, Croatia, 2003. University of Osaka, Institute for Scientific and Industrial Research Web site. www.ar.sanken.osaka-u.ac.jp/MGTS-2003CFP.html (accessed Sep 17, 2007).
+[16] Gärtner, T.; Flach, P.; Wrobel, S. On graph kernels:  Hardness results and efficient alternatives. In Learning Theory and Kernel Machines, Proceedings of the 16th Annual Conference on Learning Theory and 7th Kernel Workshop (COLT/Kernel 2003), Washington, DC, U.S.A., 2003; Schölkopf, B., Warmuth, M., Eds.; Springer:  Berlin, Germany, pp 129−143.
+[17] Fröhlich, H.; Wegner, J.; Zell, A. Assignment kernels for chemical compounds. Proceedings of the 2005 International Joint Conference on Neural Networks (IJCNN 2005), Montréal, Canada, 2005; Elsevier:  Amsterdam, The Netherlands, pp 913−918.
+[18] Kuhn, H. The Hungarian method for the assignment problem. Bull. Am. Math. Soc. 1955, 61, 557−558.
+[19] Munkres, J. Algorithms for the assignment and transportation problems. J. Soc. Ind. Appl. Math. 1957, 5, 32−38.
+Bourgeois, F.; Lassalle, J.-C. An extension of the munkres algorithm for the assignment problem to rectangular matrices. Comm. ACM 1971, 14, 802−804.
+[21] Zager, L. Graph similarity and matching, Master's thesis, Massachusetts Institute of Technology:  Cambridge, MA, 2005.
+[22] Granas, A.; Dugundji, J. Fixed point theory; Springer:  New York, NY, 2003.
+[23] Boser, B.; Guyon, I.; Vapnik, V. A training algorithm for optimal margin classifiers. Proceedings of the 5th Annual ACM Conference on Computational Learning Theory (COLT 1992), Pittsburgh, PA, 1992; ACM:  pp 144−152.
+[24] Joachims, T. Making large-scale SVM learning practical. In Advances in Kernel Methods:  Support Vector Learning; Schölkopf, B., Burges, C., Smola, A., Eds.; MIT:  Cambridge, MA, 1999; pp 169−184.
+[25] Viswanadhan, V.; Ghose, A.; Revankar, G.; Robins, R. Atomic physicochemical parameters for three dimensional structure directed quantitative structure-activity relationships. 4. Additional parameters for hydrophobic and dispersive interactions and their applications for an automated superposition of certain naturally occurring nucleoside antibiotics. J. Chem. Inf. Comput. Sci. 1989, 29, 163−172.
+[26] Schneider, G.; Neidhart, W.; Giller, T.; Schmid, G. "Scaffold-hopping" by topological pharmacophore search:  A contribution to virtual screening. Angew. Chem., Int. Ed. 1999, 38, 2894−2896.
+[27] Gasteiger, J.; Marsili, M. Iterative partial equalization of orbital electronegativity − a rapid access to atomic charges. Tetrahedron 1980, 36, 3219−3228.
+[28] Kohavi, R. A study of cross-validation and bootstrap for accuracy estimation and model selection. Proceedings of the 14th International Joint Conference on Artificial Intelligence (IJCAI 1995), Montréal, Canada, 1995; Morgan Kaufmann:  San Francisco, CA, pp 1137−1145.
+[29] Matthews, B. Comparison of the predicted and observed secondary structure of T4 phage lysozyme. Biochim. Biophys. Acta 1975, 405, 442−451.
+Baldi, P.; Brunak, S.; Chauvin, Y.; Andersen, C.; Nielsen, H. Assessing the accuracy of prediction algorithms for classification:  An overview. Bioinformatics 2000, 16, 412−424.
+[31] Cherkassky, V.; Ma, Y. Practical selection of SVM parameters and noise estimation for SVM regression. Neural Networks 2004, 17, 113−126.
+[32] Schneider, P.; Schneider, G. Collection of bioactive reference compounds for focused library design. QSAR Comb. Sci. 2003, 22, 713−718.
+[33] Helma, C.; Kramer, S. A survey of the predictive toxicology challenge 2000−2001. Bioinformatics 2003, 19, 1179−1182.
+[34] Hou, T.; Xu, X. ADME evaluation in drug discovery. 3. Modeling blood-brain barrier partitioning using simple molecular descriptors. J. Chem. Inf. Comput. Sci. 2003, 43, 2137−2152.
+[35] Proschak, E.; Wegner, J.; Schüller, A.; Schneider, G.; Fechner, U. Molecular query language (MQL) − A context-free grammar for substructure matching. J. Chem. Inf. Model. 2007, 47, 295−301.
+[36] Byvatov, E.; Fechner, U.; Sadowski, J.; Schneider, G. Comparison of support vector machine and artificial neural network systems for drug/nondrug classification. J. Chem. Inf. Comput. Sci. 2003, 43, 1882−1889.
+[37] Müller, K.-R.; Rätsch, G.; Sonnenburg, S.; Mika, S.; Grimm, M.; Heinrich, N. Classifying ‘drug-likeness' with kernel-based learning methods. J. Chem. Inf. Model. 2005, 45, 249−253.
+[38] Fröhlich, H.; Wegner, J.; Sieker, F.; Zell, A. Kernel functions for attributed molecular graphs − A new similarity-based approach to ADME prediction in classification and regression. QSAR Comb. Sci. 2006, 25, 317−326.
+[39] Greene, D.; Cunningham, P. Practical solutions to the problem of diagonal dominance in kernel document clustering. Proceedings of the 23rd International Conference on Machine Learning (ICML 2006), Pittsburgh, PA, 2006; Cohen, W., Moore, A., Eds.; ACM:  pp 377−384.

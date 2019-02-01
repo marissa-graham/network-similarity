@@ -1,0 +1,697 @@
+>>> NEW PAPER <<<
+>>> citation >>> H. A. Almohamad and S. O. Duffuaa. A linear programming approach for the weighted graph matching problem. IEEE TPAMI, 15(5):522-525, 1993.
+>>> DOI >>> 10.1109/34.211474
+>>> URL >>> http://dx.doi.org/10.1109/34.211474
+>>> year >>> 1993.0
+>>> title >>> A linear programming approach for the weighted graph matching problem
+>>> author >>> H.A. Almohamad and S.O. Duffuaa
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 113.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:21:15Z', 'timestamp': 1525332075502}, 'reference-count': 12, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1993, 5]]}, 'DOI': '10.1109/34.211474', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '522-525', 'source': 'Crossref', 'is-referenced-by-count': 113, 'title': ['A linear programming approach for the weighted graph matching problem'], 'prefix': '10.1109', 'volume': '15', 'author': [{'given': 'H.A.', 'family': 'Almohamad', 'sequence': 'first', 'affiliation': []}, {'given': 'S.O.', 'family': 'Duffuaa', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/5515/00211474.pdf?arnumber=211474', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T06:21:04Z', 'timestamp': 1489040464000}, 'score': 92.49421, 'issued': {'date-parts': [[1993, 5]]}, 'references-count': 12, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/34.211474', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A linear programming approach for the weighted graph matching problem', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Zager and G. Verghese. Graph similarity scoring and matching. Applied Mathematics Letters, 21(1):86-94, 2008.
+>>> DOI >>> 10.1016/j.aml.2007.01.006
+>>> URL >>> http://dx.doi.org/10.1016/j.aml.2007.01.006
+>>> year >>> 2008.0
+>>> title >>> Graph similarity scoring and matching
+>>> author >>> Laura A. Zager and George C. Verghese
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 70.0
+>>> subject >>> None
+>>> container_title >>> ['Applied Mathematics Letters']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T13:58:20Z', 'timestamp': 1525355900404}, 'reference-count': 19, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2008, 1, 1]], 'date-time': '2008-01-01T00:00:00Z', 'timestamp': 1199145600000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 2024, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Applied Mathematics Letters'], 'published-print': {'date-parts': [[2008, 1]]}, 'DOI': '10.1016/j.aml.2007.01.006', 'type': 'journal-article', 'created': {'date-parts': [[2007, 3, 22]], 'date-time': '2007-03-22T10:59:14Z', 'timestamp': 1174561154000}, 'page': '86-94', 'source': 'Crossref', 'is-referenced-by-count': 70, 'title': ['Graph similarity scoring and matching'], 'prefix': '10.1016', 'volume': '21', 'author': [{'given': 'Laura A.', 'family': 'Zager', 'sequence': 'first', 'affiliation': []}, {'given': 'George C.', 'family': 'Verghese', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Applied Mathematics Letters'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0893965907001012?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0893965907001012?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T15:35:38Z', 'timestamp': 1497713738000}, 'score': 94.592995, 'issued': {'date-parts': [[2008, 1]]}, 'references-count': 19, 'journal-issue': {'published-print': {'date-parts': [[2008, 1]]}, 'issue': '1'}, 'alternative-id': ['S0893965907001012'], 'URL': 'http://dx.doi.org/10.1016/j.aml.2007.01.006', 'ISSN': ['0893-9659'], 'issn-type': [{'value': '0893-9659', 'type': 'print'}]}
+>>> hash >>> ('Graph similarity scoring and matching', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Melnik, H. Garcia-Molina, and E. Rahm. Similarity flooding: A versatile graph matching algorithm and its application to schema matching. In ICDE, 2002.
+>>> DOI >>> 10.1109/icde.2002.994702
+>>> URL >>> http://dx.doi.org/10.1109/icde.2002.994702
+>>> year >>> None
+>>> title >>> Similarity flooding: a versatile graph matching algorithm and its application to schema matching
+>>> author >>> S. Melnik and H. Garcia-Molina and E. Rahm
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 305.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings 18th International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T17:02:29Z', 'timestamp': 1528304549974}, 'reference-count': 18, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769515312', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icde.2002.994702', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 6, 25]], 'date-time': '2003-06-25T20:23:04Z', 'timestamp': 1056572584000}, 'source': 'Crossref', 'is-referenced-by-count': 305, 'title': ['Similarity flooding: a versatile graph matching algorithm and its application to schema matching'], 'prefix': '10.1109', 'author': [{'given': 'S.', 'family': 'Melnik', 'sequence': 'first', 'affiliation': []}, {'given': 'H.', 'family': 'Garcia-Molina', 'sequence': 'additional', 'affiliation': []}, {'given': 'E.', 'family': 'Rahm', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '18th International Conference on Data Engineering', 'location': 'San Jose, CA, USA', 'acronym': 'ICDE-02'}, 'container-title': ['Proceedings 18th International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/7807/21451/00994702.pdf?arnumber=994702', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T20:00:23Z', 'timestamp': 1489176023000}, 'score': 116.06857, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769515312'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1109/icde.2002.994702'}
+>>> hash >>> ('Similarity flooding: a versatile graph matching algorithm and its application to schema matching', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. H. Q. Ding, T. Li, and M. I. Jordan. Nonnegative matrix factorization for combinatorial optimization: Spectral clustering, graph matching, and clique finding. In ICDM, pages 183-192, 2008.
+>>> DOI >>> 10.1109/icdm.2008.130
+>>> URL >>> http://dx.doi.org/10.1109/icdm.2008.130
+>>> year >>> 2008.0
+>>> title >>> Nonnegative Matrix Factorization for Combinatorial Optimization: Spectral Clustering, Graph Matching, and Clique Finding
+>>> author >>> Chris Ding and Tao Li and Michael I. Jordan
+>>> reference_count >>> 38.0
+>>> is_referenced_by_count >>> 30.0
+>>> subject >>> None
+>>> container_title >>> ['2008 Eighth IEEE International Conference on Data Mining']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:23:02Z', 'timestamp': 1528226582378}, 'reference-count': 38, 'publisher': 'IEEE', 'isbn-type': [{'value': '9780769535029', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 12]]}, 'DOI': '10.1109/icdm.2008.130', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 2, 13]], 'date-time': '2009-02-13T19:59:01Z', 'timestamp': 1234555141000}, 'source': 'Crossref', 'is-referenced-by-count': 30, 'title': ['Nonnegative Matrix Factorization for Combinatorial Optimization: Spectral Clustering, Graph Matching, and Clique Finding'], 'prefix': '10.1109', 'author': [{'given': 'Chris', 'family': 'Ding', 'sequence': 'first', 'affiliation': []}, {'given': 'Tao', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}, {'given': 'Michael I.', 'family': 'Jordan', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2008 Eighth IEEE International Conference on Data Mining (ICDM)', 'location': 'Pisa, Italy', 'start': {'date-parts': [[2008, 12, 15]]}, 'end': {'date-parts': [[2008, 12, 19]]}}, 'container-title': ['2008 Eighth IEEE International Conference on Data Mining'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4781077/4781078/04781113.pdf?arnumber=4781113', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 18]], 'date-time': '2017-03-18T02:55:46Z', 'timestamp': 1489805746000}, 'score': 96.51584, 'issued': {'date-parts': [[2008, 12]]}, 'ISBN': ['9780769535029'], 'references-count': 38, 'URL': 'http://dx.doi.org/10.1109/icdm.2008.130'}
+>>> hash >>> ('Nonnegative Matrix Factorization for Combinatorial Optimization: Spectral Clustering, Graph Matching, and Clique Finding', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Boyd and L. Vandenberghe. Convex Optimization. Cambridge University Press, New York, NY, USA, 2004.
+>>> DOI >>> 10.1017/cbo9780511804441
+>>> URL >>> http://dx.doi.org/10.1017/cbo9780511804441
+>>> year >>> 2004.0
+>>> title >>> Convex Optimization
+>>> author >>> Stephen Boyd and Lieven Vandenberghe
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 16980.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T05:22:32Z', 'timestamp': 1528435352121}, 'publisher-location': 'Cambridge', 'reference-count': 0, 'publisher': 'Cambridge University Press', 'isbn-type': [{'value': '9780511804441', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1017/cbo9780511804441', 'type': 'monograph', 'created': {'date-parts': [[2013, 8, 5]], 'date-time': '2013-08-05T04:52:28Z', 'timestamp': 1375678348000}, 'source': 'Crossref', 'is-referenced-by-count': 16980, 'title': ['Convex Optimization'], 'prefix': '10.1017', 'author': [{'given': 'Stephen', 'family': 'Boyd', 'sequence': 'first', 'affiliation': []}, {'given': 'Lieven', 'family': 'Vandenberghe', 'sequence': 'additional', 'affiliation': []}], 'member': '56', 'published-online': {'date-parts': [[2009]]}, 'deposited': {'date-parts': [[2016, 10, 15]], 'date-time': '2016-10-15T14:51:42Z', 'timestamp': 1476543102000}, 'score': 49.960674, 'issued': {'date-parts': [[2004]]}, 'ISBN': ['9780511804441'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1017/cbo9780511804441'}
+>>> hash >>> ('Convex Optimization', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Broder, R. Kumar, F. Maghoul, p. Raghavan, S. Rajagopalan, R. Stata, A. Tomkins, and J. Wiener. Graph structure in the web. Comput. Netw., 33(1-6):309-320, June 2000.
+>>> DOI >>> 10.1016/s1389-1286(00)00083-9
+>>> URL >>> http://dx.doi.org/10.1016/s1389-1286(00)00083-9
+>>> year >>> 2000.0
+>>> title >>> Graph structure in the Web
+>>> author >>> Andrei Broder and Ravi Kumar and Farzin Maghoul and Prabhakar Raghavan and Sridhar Rajagopalan and Raymie Stata and Andrew Tomkins and Janet Wiener
+>>> reference_count >>> 33.0
+>>> is_referenced_by_count >>> 1008.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Networks']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T13:02:36Z', 'timestamp': 1525784556670}, 'reference-count': 33, 'publisher': 'Elsevier BV', 'issue': '1-6', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2000, 6, 1]], 'date-time': '2000-06-01T00:00:00Z', 'timestamp': 959817600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Networks'], 'published-print': {'date-parts': [[2000, 6]]}, 'DOI': '10.1016/s1389-1286(00)00083-9', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T15:58:42Z', 'timestamp': 1027612722000}, 'page': '309-320', 'source': 'Crossref', 'is-referenced-by-count': 1008, 'title': ['Graph structure in the Web'], 'prefix': '10.1016', 'volume': '33', 'author': [{'given': 'Andrei', 'family': 'Broder', 'sequence': 'first', 'affiliation': []}, {'given': 'Ravi', 'family': 'Kumar', 'sequence': 'additional', 'affiliation': []}, {'given': 'Farzin', 'family': 'Maghoul', 'sequence': 'additional', 'affiliation': []}, {'given': 'Prabhakar', 'family': 'Raghavan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Sridhar', 'family': 'Rajagopalan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Raymie', 'family': 'Stata', 'sequence': 'additional', 'affiliation': []}, {'given': 'Andrew', 'family': 'Tomkins', 'sequence': 'additional', 'affiliation': []}, {'given': 'Janet', 'family': 'Wiener', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Computer Networks'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1389128600000839?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1389128600000839?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 9, 13]], 'date-time': '2017-09-13T11:39:26Z', 'timestamp': 1505302766000}, 'score': 109.083984, 'issued': {'date-parts': [[2000, 6]]}, 'references-count': 33, 'journal-issue': {'published-print': {'date-parts': [[2000, 6]]}, 'issue': '1-6'}, 'alternative-id': ['S1389128600000839'], 'URL': 'http://dx.doi.org/10.1016/s1389-1286(00)00083-9', 'ISSN': ['1389-1286'], 'issn-type': [{'value': '1389-1286', 'type': 'print'}]}
+>>> hash >>> ('Graph structure in the Web', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Albert and A.-L. BarabÃ¡si. Statistical mechanics of complex networks. CoRR, cond-mat/0106096, 2001.
+>>> DOI >>> 10.1515/9781400841356.503
+>>> URL >>> http://dx.doi.org/10.1515/9781400841356.503
+>>> year >>> 2011.0
+>>> title >>> Error and attack tolerance of complex networks
+>>> author >>> RÃ©ka Albert and Hawoong Jeong and Albert-Laszlo BarabÃ¡si
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['The Structure and Dynamics of Networks']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T06:52:13Z', 'timestamp': 1525762333144}, 'publisher-location': 'Princeton', 'reference-count': 0, 'publisher': 'Princeton University Press', 'isbn-type': [{'value': '9781400841356', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011, 12, 31]]}, 'DOI': '10.1515/9781400841356.503', 'type': 'book-chapter', 'created': {'date-parts': [[2017, 11, 23]], 'date-time': '2017-11-23T08:11:30Z', 'timestamp': 1511424690000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Error and attack tolerance of complex networks'], 'prefix': '10.1515', 'author': [{'given': 'RÃ©ka', 'family': 'Albert', 'sequence': 'first', 'affiliation': []}, {'given': 'Hawoong', 'family': 'Jeong', 'sequence': 'additional', 'affiliation': []}, {'given': 'Albert-Laszlo', 'family': 'BarabÃ¡si', 'sequence': 'additional', 'affiliation': []}], 'member': '374', 'container-title': ['The Structure and Dynamics of Networks'], 'link': [{'URL': 'http://www.degruyter.com/view/books/9781400841356/9781400841356.503/9781400841356.503.xml', 'content-type': 'text/html', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://www.degruyter.com/view/books/9781400841356/9781400841356.503/9781400841356.503.xml', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 23]], 'date-time': '2017-11-23T08:12:08Z', 'timestamp': 1511424728000}, 'score': 42.08235, 'issued': {'date-parts': [[2011, 12, 31]]}, 'ISBN': ['9781400841356'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1515/9781400841356.503'}
+>>> hash >>> ('Error and attack tolerance of complex networks', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Conte, p. Foggia, C. Sansone, and M. Vento. Thirty years of graph matching in pattern recognition. IJPRAI, 18(3):265-298, 2004.
+>>> DOI >>> 10.1142/s0218001404003228
+>>> URL >>> http://dx.doi.org/10.1142/s0218001404003228
+>>> year >>> 2004.0
+>>> title >>> THIRTY YEARS OF GRAPH MATCHING IN PATTERN RECOGNITION
+>>> author >>> D. CONTE and P. FOGGIA and C. SANSONE and M. VENTO
+>>> reference_count >>> 97.0
+>>> is_referenced_by_count >>> 467.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Pattern Recognition and Artificial Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T06:42:33Z', 'timestamp': 1527230553629}, 'reference-count': 97, 'publisher': 'World Scientific Pub Co Pte Lt', 'issue': '03', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int. J. Patt. Recogn. Artif. Intell.'], 'published-print': {'date-parts': [[2004, 5]]}, 'DOI': '10.1142/s0218001404003228', 'type': 'journal-article', 'created': {'date-parts': [[2004, 5, 10]], 'date-time': '2004-05-10T10:06:26Z', 'timestamp': 1084183586000}, 'page': '265-298', 'source': 'Crossref', 'is-referenced-by-count': 467, 'title': ['THIRTY YEARS OF GRAPH MATCHING IN PATTERN RECOGNITION'], 'prefix': '10.1142', 'volume': '18', 'author': [{'given': 'D.', 'family': 'CONTE', 'sequence': 'first', 'affiliation': []}, {'given': 'P.', 'family': 'FOGGIA', 'sequence': 'additional', 'affiliation': []}, {'given': 'C.', 'family': 'SANSONE', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'VENTO', 'sequence': 'additional', 'affiliation': []}], 'member': '219', 'reference': [{'key': 'rf1', 'author': 'Aho A. V.', 'year': '1974', 'volume-title': 'The Design and Analysis of Computer Algorithms'}, {'key': 'rf2', 'DOI': '10.1109/71.598276', 'doi-asserted-by': 'publisher'}, {'key': 'rf3', 'DOI': '10.1109/34.211474', 'doi-asserted-by': 'publisher'}, {'key': 'rf6', 'DOI': '10.1137/0215075', 'doi-asserted-by': 'publisher'}, {'key': 'rf11', 'DOI': '10.1109/34.954600', 'doi-asserted-by': 'publisher'}, {'key': 'rf12', 'DOI': '10.1023/A:1008230200610', 'doi-asserted-by': 'publisher'}, {'key': 'rf14', 'DOI': '10.1145/362342.362367', 'doi-asserted-by': 'publisher'}, {'key': 'rf15', 'DOI': '10.1109/34.790431', 'doi-asserted-by': 'publisher'}, {'key': 'rf17', 'DOI': '10.1016/S0167-8655(97)00060-3', 'doi-asserted-by': 'publisher'}, {'key': 'rf18', 'DOI': '10.1142/S0218001497000081', 'doi-asserted-by': 'publisher'}, {'key': 'rf19', 'DOI': '10.1016/S0167-8655(97)00179-7', 'doi-asserted-by': 'publisher'}, {'key': 'rf23', 'author': 'Chan K. P.', 'volume': '26', 'first-page': '118', 'journal-title': 'IEEE Trans. Syst. Man Cybern.', 'DOI': '10.1109/3477.484443', 'doi-asserted-by': 'crossref'}, {'key': 'rf25', 'DOI': '10.1016/0031-3203(90)90115-2', 'doi-asserted-by': 'publisher'}, {'key': 'rf27', 'DOI': '10.1109/34.400565', 'doi-asserted-by': 'publisher'}, {'key': 'rf31', 'author': 'Cordella L. P.', 'volume': '12', 'first-page': '43', 'journal-title': 'Computing'}, {'key': 'rf35', 'author': 'Demko Ch.', 'volume': '12', 'first-page': '1', 'journal-title': 'Computing'}, {'key': 'rf36', 'author': 'Dempster A. P.', 'volume': '39', 'first-page': '1', 'journal-title': 'J. Roy. Stat. Soc. Series'}, {'key': 'rf37', 'DOI': '10.1016/0031-3203(95)00140-9', 'doi-asserted-by': 'publisher'}, {'key': 'rf38', 'DOI': '10.1016/S0167-8655(02)00253-2', 'doi-asserted-by': 'publisher'}, {'key': 'rf39', 'DOI': '10.1109/83.753738', 'doi-asserted-by': 'publisher'}, {'key': 'rf42', 'DOI': '10.1016/S0031-3203(97)00041-1', 'doi-asserted-by': 'publisher'}, {'key': 'rf43', 'author': 'Englert R.', 'volume': '12', 'first-page': '11', 'journal-title': 'Computing'}, {'key': 'rf45', 'author': 'Eshera M. A.', 'volume': '14', 'first-page': '398', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf46', 'author': 'Eshera M. A.', 'volume': '8', 'first-page': '604', 'journal-title': 'IEEE Trans. Patt. Anal. Mach. Intell.'}, {'key': 'rf48', 'DOI': '10.1016/S0167-8655(01)00017-4', 'doi-asserted-by': 'publisher'}, {'key': 'rf51', 'author': 'Fischler M.', 'volume': '22', 'first-page': '67', 'journal-title': 'IEEE Trans. Comput.'}, {'key': 'rf52', 'DOI': '10.1109/69.917559', 'doi-asserted-by': 'publisher'}, {'key': 'rf54', 'DOI': '10.1007/s100440050030', 'doi-asserted-by': 'publisher'}, {'key': 'rf58', 'DOI': '10.1007/BF02023002', 'doi-asserted-by': 'publisher'}, {'key': 'rf59', 'DOI': '10.1109/TSMC.1980.4308468', 'doi-asserted-by': 'publisher'}, {'key': 'rf60', 'author': 'Ghahraman D. E.', 'volume': '10', 'first-page': '189', 'journal-title': 'Trans. Syst. Man Cybern.'}, {'key': 'rf61', 'DOI': '10.1109/34.491619', 'doi-asserted-by': 'publisher'}, {'key': 'rf64', 'author': 'Grimson W. E.', 'year': '1991', 'volume-title': 'Object Recognition by Computer: The Role of Geometric Constraints'}, {'key': 'rf65', 'DOI': '10.1109/42.811312', 'doi-asserted-by': 'publisher'}, {'key': 'rf69', 'DOI': '10.1016/0031-3203(94)00090-9', 'doi-asserted-by': 'publisher'}, {'key': 'rf71', 'DOI': '10.1016/S0167-8655(99)00093-8', 'doi-asserted-by': 'publisher'}, {'key': 'rf79', 'author': 'Kitchen L.', 'volume': '9', 'first-page': '869', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf80', 'DOI': '10.1142/S021800148900005X', 'doi-asserted-by': 'publisher'}, {'key': 'rf81', 'DOI': '10.1016/S0304-3975(00)00286-3', 'doi-asserted-by': 'publisher'}, {'key': 'rf84', 'DOI': '10.1109/83.841933', 'doi-asserted-by': 'publisher'}, {'key': 'rf85', 'DOI': '10.1109/12.210173', 'doi-asserted-by': 'publisher'}, {'key': 'rf86', 'author': 'Larrosa J.', 'volume': '12', 'first-page': '403', 'journal-title': 'Math. Struct. Comput. Sci.'}, {'key': 'rf87', 'author': 'Lawler E. S.', 'year': '2001', 'volume-title': 'Combinatorial Optimization: Networks and Matroids'}, {'key': 'rf92', 'DOI': '10.1049/ip-vis:20000103', 'doi-asserted-by': 'publisher'}, {'key': 'rf95', 'DOI': '10.1109/34.954603', 'doi-asserted-by': 'publisher'}, {'key': 'rf96', 'author': 'Lu S. W.', 'volume': '24', 'first-page': '617', 'journal-title': 'Patt. Recogn.', 'DOI': '10.1016/0031-3203(91)90029-5', 'doi-asserted-by': 'crossref'}, {'key': 'rf97', 'DOI': '10.1016/0022-0000(82)90009-5', 'doi-asserted-by': 'publisher'}, {'key': 'rf98', 'author': 'Luo B.', 'volume': '23', 'first-page': '1120', 'journal-title': 'IEEE Trans. Patt. Anal. Mach. Intell.', 'DOI': '10.1109/34.954602', 'doi-asserted-by': 'crossref'}, {'key': 'rf100', 'DOI': '10.1109/34.817413', 'doi-asserted-by': 'publisher'}, {'key': 'rf102', 'DOI': '10.1002/spe.4380120103', 'doi-asserted-by': 'publisher'}, {'key': 'rf103', 'author': 'McKay B. D.', 'volume': '30', 'first-page': '45', 'journal-title': 'Congressus Numerantium'}, {'key': 'rf104', 'DOI': '10.1109/91.917123', 'doi-asserted-by': 'publisher'}, {'key': 'rf107', 'DOI': '10.1109/69.842269', 'doi-asserted-by': 'publisher'}, {'key': 'rf108', 'DOI': '10.1109/34.682179', 'doi-asserted-by': 'publisher'}, {'key': 'rf109', 'DOI': '10.1016/S0031-3203(98)90142-X', 'doi-asserted-by': 'publisher'}, {'key': 'rf111', 'unstructured': 'T.\xa0Miyazaki, Groups and Computation II, DIMACS Series Discrete Mathematics Theoretical Computer Science\xa028 (1997)\xa0pp. 239–256.', 'DOI': '10.1090/dimacs/028/14', 'doi-asserted-by': 'crossref'}, {'key': 'rf112', 'DOI': '10.1109/34.862201', 'doi-asserted-by': 'publisher'}, {'key': 'rf113', 'DOI': '10.1109/34.643897', 'doi-asserted-by': 'publisher'}, {'key': 'rf117', 'author': 'Pardalos P.', 'year': '1998', 'volume-title': 'High Performance Algorithms and Software in Nonlinear Optimization'}, {'key': 'rf119', 'author': 'Pelillo M.', 'volume': '2', 'first-page': '313', 'journal-title': 'J. Artif. Neural Networks'}, {'key': 'rf120', 'author': 'Pelillo M.', 'volume': '2', 'first-page': '411', 'journal-title': 'J. Artif. Neural Networks'}, {'key': 'rf122', 'DOI': '10.1109/34.809105', 'doi-asserted-by': 'publisher'}, {'key': 'rf123', 'DOI': '10.1162/089976699300016034', 'doi-asserted-by': 'publisher'}, {'key': 'rf124', 'DOI': '10.1109/TPAMI.2002.1046176', 'doi-asserted-by': 'publisher'}, {'key': 'rf126', 'DOI': '10.1109/69.599932', 'doi-asserted-by': 'publisher'}, {'key': 'rf127', 'DOI': '10.1109/72.548165', 'doi-asserted-by': 'publisher'}, {'key': 'rf128', 'DOI': '10.1109/34.277592', 'doi-asserted-by': 'publisher'}, {'key': 'rf129', 'DOI': '10.1109/TSMC.1976.4309519', 'doi-asserted-by': 'publisher'}, {'key': 'rf130', 'author': 'Russel S. J.', 'year': '1995', 'series-title': 'Series in Artificial Intelligence', 'volume-title': 'Artificial Intelligence: A Modern Approach'}, {'key': 'rf132', 'author': 'Sanfeliu A.', 'volume': '13', 'first-page': '353', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf133', 'DOI': '10.1109/21.260671', 'doi-asserted-by': 'publisher'}, {'key': 'rf136', 'author': 'Shapiro L. G.', 'volume': '3', 'first-page': '504', 'journal-title': 'IEEE Trans. Patt. Anal. Mach. Intell.'}, {'key': 'rf137', 'author': 'Shapiro L. G.', 'volume': '7', 'first-page': '90', 'journal-title': 'IEEE Trans. Patt. Anal. Mach. Intell.'}, {'key': 'rf138', 'DOI': '10.1109/21.286387', 'doi-asserted-by': 'publisher'}, {'key': 'rf140', 'author': 'Shearer K.', 'volume': '12', 'first-page': '53', 'journal-title': 'Computing'}, {'key': 'rf141', 'DOI': '10.1016/S0031-3203(00)00048-0', 'doi-asserted-by': 'publisher'}, {'key': 'rf142', 'DOI': '10.1016/S0167-8655(00)00121-5', 'doi-asserted-by': 'publisher'}, {'key': 'rf144', 'author': 'Shokoufandeh A.', 'volume': '2059', 'first-page': '67', 'year': '2001', 'series-title': 'Lecture Notes in Computer Science', 'DOI': '10.1007/3-540-45129-3_6', 'doi-asserted-by': 'crossref'}, {'key': 'rf145', 'DOI': '10.1109/3477.537320', 'doi-asserted-by': 'publisher'}, {'key': 'rf147', 'DOI': '10.1016/0031-3203(94)00166-J', 'doi-asserted-by': 'publisher'}, {'key': 'rf148', 'DOI': '10.1016/0262-8856(95)91468-S', 'doi-asserted-by': 'publisher'}, {'key': 'rf149', 'DOI': '10.1016/S0262-8856(97)00066-8', 'doi-asserted-by': 'publisher'}, {'key': 'rf150', 'DOI': '10.1109/34.935847', 'doi-asserted-by': 'publisher'}, {'key': 'rf153', 'DOI': '10.1109/34.977568', 'doi-asserted-by': 'publisher'}, {'key': 'rf154', 'DOI': '10.1109/TSMC.1979.4310127', 'doi-asserted-by': 'publisher'}, {'key': 'rf155', 'author': 'Tsai W. H.', 'volume': '13', 'first-page': '48', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf156', 'DOI': '10.1145/321921.321925', 'doi-asserted-by': 'publisher'}, {'key': 'rf157', 'DOI': '10.1109/34.6778', 'doi-asserted-by': 'publisher'}, {'key': 'rf161', 'DOI': '10.1109/TPAMI.2002.1017624', 'doi-asserted-by': 'publisher'}, {'key': 'rf162', 'DOI': '10.1016/S0167-8655(01)00022-8', 'doi-asserted-by': 'publisher'}, {'key': 'rf166', 'author': 'Wang Y. K.', 'volume': '27', 'first-page': '589', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf167', 'DOI': '10.1109/34.601251', 'doi-asserted-by': 'publisher'}, {'key': 'rf168', 'DOI': '10.1016/S0031-3203(98)00152-6', 'doi-asserted-by': 'publisher'}, {'key': 'rf169', 'DOI': '10.1016/S0167-8655(99)00071-9', 'doi-asserted-by': 'publisher'}, {'key': 'rf170', 'DOI': '10.1109/34.598235', 'doi-asserted-by': 'publisher'}, {'key': 'rf172', 'DOI': '10.1109/21.57275', 'doi-asserted-by': 'publisher'}, {'key': 'rf173', 'author': 'Xu L.', 'volume': '31', 'first-page': '812', 'journal-title': 'IEEE Trans. Syst. Man Cybern.', 'DOI': '10.1109/3477.956043', 'doi-asserted-by': 'crossref'}], 'container-title': ['International Journal of Pattern Recognition and Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://www.worldscientific.com/doi/pdf/10.1142/S0218001404003228', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T06:56:08Z', 'timestamp': 1497596168000}, 'score': 98.74373, 'issued': {'date-parts': [[2004, 5]]}, 'references-count': 97, 'journal-issue': {'published-print': {'date-parts': [[2004, 5]]}, 'issue': '03'}, 'alternative-id': ['10.1142/S0218001404003228'], 'URL': 'http://dx.doi.org/10.1142/s0218001404003228', 'relation': {'cites': []}, 'ISSN': ['0218-0014', '1793-6381'], 'issn-type': [{'value': '0218-0014', 'type': 'print'}, {'value': '1793-6381', 'type': 'electronic'}]}
+>>> hash >>> ('THIRTY YEARS OF GRAPH MATCHING IN PATTERN RECOGNITION', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> V. D. Blondel, A. Gajardo, M. Heymans, p. Senellart, and p. V. Dooren. A measure of similarity between graph vertices. CoRR, 2004.
+>>> DOI >>> 10.1137/s0036144502415960
+>>> URL >>> http://dx.doi.org/10.1137/s0036144502415960
+>>> year >>> 2004.0
+>>> title >>> A Measure of Similarity between Graph Vertices: Applications to Synonym Extraction and Web Searching
+>>> author >>> Vincent D. Blondel and Anahí Gajardo and Maureen Heymans and Pierre Senellart and Paul Van Dooren
+>>> reference_count >>> 8.0
+>>> is_referenced_by_count >>> 131.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Review']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T22:21:41Z', 'timestamp': 1525472501221}, 'reference-count': 8, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM Rev.'], 'published-print': {'date-parts': [[2004, 1]]}, 'DOI': '10.1137/s0036144502415960', 'type': 'journal-article', 'created': {'date-parts': [[2005, 9, 8]], 'date-time': '2005-09-08T01:00:16Z', 'timestamp': 1126141216000}, 'page': '647-666', 'source': 'Crossref', 'is-referenced-by-count': 131, 'title': ['A Measure of Similarity between Graph Vertices: Applications to Synonym Extraction and Web Searching'], 'prefix': '10.1137', 'volume': '46', 'author': [{'given': 'Vincent D.', 'family': 'Blondel', 'sequence': 'first', 'affiliation': []}, {'given': 'Anahí', 'family': 'Gajardo', 'sequence': 'additional', 'affiliation': []}, {'given': 'Maureen', 'family': 'Heymans', 'sequence': 'additional', 'affiliation': []}, {'given': 'Pierre', 'family': 'Senellart', 'sequence': 'additional', 'affiliation': []}, {'given': 'Paul', 'family': 'Van Dooren', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Review'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/S0036144502415960', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T18:35:50Z', 'timestamp': 1485714950000}, 'score': 87.9409, 'issued': {'date-parts': [[2004, 1]]}, 'references-count': 8, 'journal-issue': {'published-print': {'date-parts': [[2004, 1]]}, 'issue': '4'}, 'alternative-id': ['10.1137/S0036144502415960'], 'URL': 'http://dx.doi.org/10.1137/s0036144502415960', 'ISSN': ['0036-1445', '1095-7200'], 'issn-type': [{'value': '0036-1445', 'type': 'print'}, {'value': '1095-7200', 'type': 'electronic'}]}
+>>> hash >>> ('A Measure of Similarity between Graph Vertices: Applications to Synonym Extraction and Web Searching', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Umeyama. An eigendecomposition approach to weighted graph matching problems. IEEE TPAMI, 10(5):695-703, 1988.
+>>> DOI >>> 10.1109/34.6778
+>>> URL >>> http://dx.doi.org/10.1109/34.6778
+>>> year >>> 1988.0
+>>> title >>> An eigendecomposition approach to weighted graph matching problems
+>>> author >>> S. Umeyama
+>>> reference_count >>> 9.0
+>>> is_referenced_by_count >>> 321.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:37:07Z', 'timestamp': 1525333027300}, 'reference-count': 9, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1988]]}, 'DOI': '10.1109/34.6778', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '695-703', 'source': 'Crossref', 'is-referenced-by-count': 321, 'title': ['An eigendecomposition approach to weighted graph matching problems'], 'prefix': '10.1109', 'volume': '10', 'author': [{'given': 'S.', 'family': 'Umeyama', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/351/00006778.pdf?arnumber=6778', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 8]], 'date-time': '2017-03-08T22:22:02Z', 'timestamp': 1489011722000}, 'score': 78.27142, 'issued': {'date-parts': [[1988]]}, 'references-count': 9, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/34.6778', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('An eigendecomposition approach to weighted graph matching problems', 1988.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Bayati, M. Gerritsen, D. Gleich, A. Saberi, and Y. Wang. Algorithms for large, sparse network alignment problems. In ICDM09, pages 705-710, 2009.
+>>> DOI >>> 10.1109/icdm.2009.135
+>>> URL >>> http://dx.doi.org/10.1109/icdm.2009.135
+>>> year >>> 2009.0
+>>> title >>> Algorithms for Large, Sparse Network Alignment Problems
+>>> author >>> Mohsen Bayati and Margot Gerritsen and David F. Gleich and Amin Saberi and Ying Wang
+>>> reference_count >>> 23.0
+>>> is_referenced_by_count >>> 24.0
+>>> subject >>> None
+>>> container_title >>> ['2009 Ninth IEEE International Conference on Data Mining']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T13:02:29Z', 'timestamp': 1527771749432}, 'reference-count': 23, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424452422', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 12]]}, 'DOI': '10.1109/icdm.2009.135', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 1, 7]], 'date-time': '2010-01-07T16:47:34Z', 'timestamp': 1262882854000}, 'source': 'Crossref', 'is-referenced-by-count': 24, 'title': ['Algorithms for Large, Sparse Network Alignment Problems'], 'prefix': '10.1109', 'author': [{'given': 'Mohsen', 'family': 'Bayati', 'sequence': 'first', 'affiliation': []}, {'given': 'Margot', 'family': 'Gerritsen', 'sequence': 'additional', 'affiliation': []}, {'given': 'David F.', 'family': 'Gleich', 'sequence': 'additional', 'affiliation': []}, {'given': 'Amin', 'family': 'Saberi', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ying', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 Ninth IEEE International Conference on Data Mining (ICDM)', 'location': 'Miami Beach, FL, USA', 'start': {'date-parts': [[2009, 12, 6]]}, 'end': {'date-parts': [[2009, 12, 9]]}}, 'container-title': ['2009 Ninth IEEE International Conference on Data Mining'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5360037/5360038/05360298.pdf?arnumber=5360298', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T03:29:54Z', 'timestamp': 1497842994000}, 'score': 93.675224, 'issued': {'date-parts': [[2009, 12]]}, 'ISBN': ['9781424452422'], 'references-count': 23, 'URL': 'http://dx.doi.org/10.1109/icdm.2009.135'}
+>>> hash >>> ('Algorithms for Large, Sparse Network Alignment Problems', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Narayanan and V. Shmatikov. De-anonymizing social networks. In SSP, pages 173-187, may 2009.
+>>> DOI >>> 10.1109/sp.2009.22
+>>> URL >>> http://dx.doi.org/10.1109/sp.2009.22
+>>> year >>> 2009.0
+>>> title >>> De-anonymizing Social Networks
+>>> author >>> Arvind Narayanan and Vitaly Shmatikov
+>>> reference_count >>> 80.0
+>>> is_referenced_by_count >>> 301.0
+>>> subject >>> None
+>>> container_title >>> ['2009 30th IEEE Symposium on Security and Privacy']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365123}, 'reference-count': 80, 'publisher': 'IEEE', 'isbn-type': [{'value': '9780769536330', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 5]]}, 'DOI': '10.1109/sp.2009.22', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 8, 24]], 'date-time': '2009-08-24T15:06:23Z', 'timestamp': 1251126383000}, 'source': 'Crossref', 'is-referenced-by-count': 301, 'title': ['De-anonymizing Social Networks'], 'prefix': '10.1109', 'author': [{'given': 'Arvind', 'family': 'Narayanan', 'sequence': 'first', 'affiliation': []}, {'given': 'Vitaly', 'family': 'Shmatikov', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 30th IEEE Symposium on Security and Privacy (SP)', 'location': 'Oakland, CA, USA', 'start': {'date-parts': [[2009, 5, 17]]}, 'end': {'date-parts': [[2009, 5, 20]]}}, 'container-title': ['2009 30th IEEE Symposium on Security and Privacy'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5207631/5207632/05207644.pdf?arnumber=5207644', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T23:05:07Z', 'timestamp': 1497827107000}, 'score': 61.171555, 'issued': {'date-parts': [[2009, 5]]}, 'ISBN': ['9780769536330'], 'references-count': 80, 'URL': 'http://dx.doi.org/10.1109/sp.2009.22'}
+>>> hash >>> ('De-anonymizing Social Networks', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Zaslavskiy, F. Bach, and J.-p. Vert. A path following algorithm for the graph matching problem. IEEE TPAMI, 31(12):2227-2242, Dec. 2009.
+>>> DOI >>> 10.1109/tpami.2008.245
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2008.245
+>>> year >>> 2009.0
+>>> title >>> A Path Following Algorithm for the Graph Matching Problem
+>>> author >>> M. Zaslavskiy and F. Bach and J.-P. Vert
+>>> reference_count >>> 41.0
+>>> is_referenced_by_count >>> 116.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T17:03:02Z', 'timestamp': 1525712582582}, 'reference-count': 41, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '12', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2009, 12]]}, 'DOI': '10.1109/tpami.2008.245', 'type': 'journal-article', 'created': {'date-parts': [[2008, 10, 15]], 'date-time': '2008-10-15T18:23:07Z', 'timestamp': 1224094987000}, 'page': '2227-2242', 'source': 'Crossref', 'is-referenced-by-count': 116, 'title': ['A Path Following Algorithm for the Graph Matching Problem'], 'prefix': '10.1109', 'volume': '31', 'author': [{'given': 'M.', 'family': 'Zaslavskiy', 'sequence': 'first', 'affiliation': []}, {'given': 'F.', 'family': 'Bach', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.-P.', 'family': 'Vert', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/5291213/04641936.pdf?arnumber=4641936', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T11:19:12Z', 'timestamp': 1510658352000}, 'score': 94.18994, 'issued': {'date-parts': [[2009, 12]]}, 'references-count': 41, 'journal-issue': {'issue': '12'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2008.245', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A Path Following Algorithm for the Graph Matching Problem', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Qiu and E. R. Hancock. Graph matching and clustering using spectral partitions. IEEE TPAMI, 39(1):22-34, 2006.
+>>> DOI >>> 10.1016/j.patcog.2005.06.014
+>>> URL >>> http://dx.doi.org/10.1016/j.patcog.2005.06.014
+>>> year >>> 2006.0
+>>> title >>> Graph matching and clustering using spectral partitions
+>>> author >>> Huaijun Qiu and Edwin R. Hancock
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 35.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T22:36:06Z', 'timestamp': 1525473366480}, 'reference-count': 22, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2006, 1, 1]], 'date-time': '2006-01-01T00:00:00Z', 'timestamp': 1136073600000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[2006, 1]]}, 'DOI': '10.1016/j.patcog.2005.06.014', 'type': 'journal-article', 'created': {'date-parts': [[2005, 9, 15]], 'date-time': '2005-09-15T14:15:38Z', 'timestamp': 1126793738000}, 'page': '22-34', 'source': 'Crossref', 'is-referenced-by-count': 35, 'title': ['Graph matching and clustering using spectral partitions'], 'prefix': '10.1016', 'volume': '39', 'author': [{'given': 'Huaijun', 'family': 'Qiu', 'sequence': 'first', 'affiliation': []}, {'given': 'Edwin R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0031320305002694?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0031320305002694?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T23:27:47Z', 'timestamp': 1497655667000}, 'score': 79.1804, 'issued': {'date-parts': [[2006, 1]]}, 'references-count': 22, 'journal-issue': {'published-print': {'date-parts': [[2006, 1]]}, 'issue': '1'}, 'alternative-id': ['S0031320305002694'], 'URL': 'http://dx.doi.org/10.1016/j.patcog.2005.06.014', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Graph matching and clustering using spectral partitions', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K. Henderson, B. Gallagher, L. Li, L. Akoglu, T. Eliassi-Rad, H. Tong, and C. Faloutsos. It's who you know: graph mining using recursive structural features. In KDD, KDD, pages 663-671, 2011.
+>>> DOI >>> 10.1145/2020408.2020512
+>>> URL >>> http://dx.doi.org/10.1145/2020408.2020512
+>>> year >>> 2011.0
+>>> title >>> It's who you know
+>>> author >>> Keith Henderson and Brian Gallagher and Lei Li and Leman Akoglu and Tina Eliassi-Rad and Hanghang Tong and Christos Faloutsos
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 38.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 17th ACM SIGKDD international conference on Knowledge discovery and data mining - KDD '11"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T11:42:24Z', 'timestamp': 1525434144649}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450308137', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011]]}, 'DOI': '10.1145/2020408.2020512', 'type': 'proceedings-article', 'created': {'date-parts': [[2011, 8, 31]], 'date-time': '2011-08-31T15:22:45Z', 'timestamp': 1314804165000}, 'source': 'Crossref', 'is-referenced-by-count': 38, 'title': ["It's who you know"], 'prefix': '10.1145', 'author': [{'given': 'Keith', 'family': 'Henderson', 'sequence': 'first', 'affiliation': []}, {'given': 'Brian', 'family': 'Gallagher', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lei', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}, {'given': 'Leman', 'family': 'Akoglu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Tina', 'family': 'Eliassi-Rad', 'sequence': 'additional', 'affiliation': []}, {'given': 'Hanghang', 'family': 'Tong', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christos', 'family': 'Faloutsos', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 17th ACM SIGKDD international conference', 'location': 'San Diego, California, USA', 'sponsor': ['SIGKDD, ACM Special Interest Group on Knowledge Discovery in Data', 'SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "KDD '11", 'number': '17', 'start': {'date-parts': [[2011, 8, 21]]}, 'end': {'date-parts': [[2011, 8, 24]]}}, 'container-title': ["Proceedings of the 17th ACM SIGKDD international conference on Knowledge discovery and data mining - KDD '11"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2020512&amp;ftid=1012964&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T02:16:10Z', 'timestamp': 1481076970000}, 'score': 111.99728, 'subtitle': ['graph mining using recursive structural features'], 'issued': {'date-parts': [[2011]]}, 'ISBN': ['9781450308137'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/2020408.2020512'}
+>>> hash >>> ("It's who you know", 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. S. Yedidia, W. T. Freeman, and Y. Weiss. Understanding belief propagation and its generalizations, pages 239-269. Morgan Kaufmann Publishers Inc., 2003.
+>>> DOI >>> 10.1109/ms.1986.233092
+>>> URL >>> http://dx.doi.org/10.1109/ms.1986.233092
+>>> year >>> 1986.0
+>>> title >>> Morgan Kaufmann Publishers, Inc.
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Software']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T12:00:46Z', 'timestamp': 1525435246071}, 'reference-count': 0, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Softw.'], 'published-print': {'date-parts': [[1986]]}, 'DOI': '10.1109/ms.1986.233092', 'type': 'journal-article', 'created': {'date-parts': [[2008, 7, 18]], 'date-time': '2008-07-18T18:01:07Z', 'timestamp': 1216404067000}, 'page': '95-95', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Morgan Kaufmann Publishers, Inc.'], 'prefix': '10.1109', 'volume': '3', 'member': '263', 'container-title': ['IEEE Software'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/52/35723/01695523.pdf?arnumber=1695523', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 13]], 'date-time': '2017-11-13T23:59:58Z', 'timestamp': 1510617598000}, 'score': 38.51521, 'issued': {'date-parts': [[1986]]}, 'references-count': 0, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1109/ms.1986.233092', 'ISSN': ['0740-7459'], 'issn-type': [{'value': '0740-7459', 'type': 'print'}]}
+>>> hash >>> ('Morgan Kaufmann Publishers, Inc.', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Smalter, J. Huan, and G. Lushington. GPM: A Graph Pattern Matching Kernel with Diffusion for Chemical Compound Classification. In ICBBE, 2008.
+>>> DOI >>> 10.1109/bibe.2008.4696654
+>>> URL >>> http://dx.doi.org/10.1109/bibe.2008.4696654
+>>> year >>> 2008.0
+>>> title >>> GPM: A graph pattern matching kernel with diffusion for chemical compound classification
+>>> author >>> Aaron Smalter and Jun Huan and Gerald Lushington
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['2008 8th IEEE International Conference on BioInformatics and BioEngineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T13:02:29Z', 'timestamp': 1527771749471}, 'reference-count': 27, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424428441', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008, 10]]}, 'DOI': '10.1109/bibe.2008.4696654', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 12, 9]], 'date-time': '2008-12-09T21:55:46Z', 'timestamp': 1228859746000}, 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['GPM: A graph pattern matching kernel with diffusion for chemical compound classification'], 'prefix': '10.1109', 'author': [{'given': 'Aaron', 'family': 'Smalter', 'sequence': 'first', 'affiliation': []}, {'given': 'Jun', 'family': 'Huan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Gerald', 'family': 'Lushington', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2008 8th IEEE International Conference on Bioinformatics and BioEngineering (BIBE)', 'location': 'Athens, Greece', 'start': {'date-parts': [[2008, 10, 8]]}, 'end': {'date-parts': [[2008, 10, 10]]}}, 'container-title': ['2008 8th IEEE International Conference on BioInformatics and BioEngineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/4690849/4696632/04696654.pdf?arnumber=4696654', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 17]], 'date-time': '2017-03-17T16:52:50Z', 'timestamp': 1489769570000}, 'score': 95.449, 'issued': {'date-parts': [[2008, 10]]}, 'ISBN': ['9781424428441'], 'references-count': 27, 'URL': 'http://dx.doi.org/10.1109/bibe.2008.4696654'}
+>>> hash >>> ('GPM: A graph pattern matching kernel with diffusion for chemical compound classification', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> U. Kang and C. Faloutsos. Beyond 'caveman communities': Hubs and spokes for graph compression and mining. In ICDM, pages 300-309, 2011.
+>>> DOI >>> 10.1109/icdm.2011.26
+>>> URL >>> http://dx.doi.org/10.1109/icdm.2011.26
+>>> year >>> 2011.0
+>>> title >>> Beyond 'Caveman Communities': Hubs and Spokes for Graph Compression and Mining
+>>> author >>> U. Kang and Christos Faloutsos
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 26.0
+>>> subject >>> None
+>>> container_title >>> ['2011 IEEE 11th International Conference on Data Mining']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 24]], 'date-time': '2018-05-24T01:02:29Z', 'timestamp': 1527123749650}, 'reference-count': 28, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781457720758', 'type': 'print'}, {'value': '9780769544083', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2011, 12]]}, 'DOI': '10.1109/icdm.2011.26', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 1, 31]], 'date-time': '2012-01-31T16:38:33Z', 'timestamp': 1328027913000}, 'source': 'Crossref', 'is-referenced-by-count': 26, 'title': ["Beyond 'Caveman Communities': Hubs and Spokes for Graph Compression and Mining"], 'prefix': '10.1109', 'author': [{'given': 'U.', 'family': 'Kang', 'sequence': 'first', 'affiliation': []}, {'given': 'Christos', 'family': 'Faloutsos', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2011 IEEE 11th International Conference on Data Mining (ICDM)', 'location': 'Vancouver, BC, Canada', 'start': {'date-parts': [[2011, 12, 11]]}, 'end': {'date-parts': [[2011, 12, 14]]}}, 'container-title': ['2011 IEEE 11th International Conference on Data Mining'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6135855/6137189/06137234.pdf?arnumber=6137234', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 21]], 'date-time': '2017-03-21T19:24:04Z', 'timestamp': 1490124244000}, 'score': 99.01991, 'issued': {'date-parts': [[2011, 12]]}, 'ISBN': ['9781457720758', '9780769544083'], 'references-count': 28, 'URL': 'http://dx.doi.org/10.1109/icdm.2011.26'}
+>>> hash >>> ("Beyond 'Caveman Communities': Hubs and Spokes for Graph Compression and Mining", 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K. Riesen and H. Bunke. Approximate graph edit distance computation by means of bipartite graph matching. Image and Vision Computing, 27(7):950-959, 2009.
+>>> DOI >>> 10.1016/j.imavis.2008.04.004
+>>> URL >>> http://dx.doi.org/10.1016/j.imavis.2008.04.004
+>>> year >>> 2009.0
+>>> title >>> Approximate graph edit distance computation by means of bipartite graph matching
+>>> author >>> Kaspar Riesen and Horst Bunke
+>>> reference_count >>> 38.0
+>>> is_referenced_by_count >>> 218.0
+>>> subject >>> None
+>>> container_title >>> ['Image and Vision Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T10:22:31Z', 'timestamp': 1527762151622}, 'reference-count': 38, 'publisher': 'Elsevier BV', 'issue': '7', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2009, 6, 1]], 'date-time': '2009-06-01T00:00:00Z', 'timestamp': 1243814400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Image and Vision Computing'], 'published-print': {'date-parts': [[2009, 6]]}, 'DOI': '10.1016/j.imavis.2008.04.004', 'type': 'journal-article', 'created': {'date-parts': [[2008, 4, 21]], 'date-time': '2008-04-21T11:43:02Z', 'timestamp': 1208778182000}, 'page': '950-959', 'source': 'Crossref', 'is-referenced-by-count': 218, 'title': ['Approximate graph edit distance computation by means of bipartite graph matching'], 'prefix': '10.1016', 'volume': '27', 'author': [{'given': 'Kaspar', 'family': 'Riesen', 'sequence': 'first', 'affiliation': []}, {'given': 'Horst', 'family': 'Bunke', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Image and Vision Computing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S026288560800084X?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S026288560800084X?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T07:12:23Z', 'timestamp': 1497769943000}, 'score': 132.0459, 'issued': {'date-parts': [[2009, 6]]}, 'references-count': 38, 'journal-issue': {'published-print': {'date-parts': [[2009, 6]]}, 'issue': '7'}, 'alternative-id': ['S026288560800084X'], 'URL': 'http://dx.doi.org/10.1016/j.imavis.2008.04.004', 'ISSN': ['0262-8856'], 'issn-type': [{'value': '0262-8856', 'type': 'print'}]}
+>>> hash >>> ('Approximate graph edit distance computation by means of bipartite graph matching', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Berg and M. LÃ¤ssig. Local graph alignment and motif search in biological networks. PNAS, 101(41):14689-14694, Oct. 2004.
+>>> DOI >>> 10.1073/pnas.0305199101
+>>> URL >>> http://dx.doi.org/10.1073/pnas.0305199101
+>>> year >>> 2004.0
+>>> title >>> Local graph alignment and motif search in biological networks
+>>> author >>> J. Berg and M. Lassig
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 86.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the National Academy of Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 11]], 'date-time': '2018-05-11T09:02:29Z', 'timestamp': 1526029349996}, 'reference-count': 17, 'publisher': 'Proceedings of the National Academy of Sciences', 'issue': '41', 'content-domain': {'domain': ['pnas.org'], 'crossmark-restriction': True}, 'short-container-title': ['Proceedings of the National Academy of Sciences'], 'published-print': {'date-parts': [[2004, 10, 12]]}, 'DOI': '10.1073/pnas.0305199101', 'type': 'journal-article', 'created': {'date-parts': [[2004, 9, 25]], 'date-time': '2004-09-25T00:13:54Z', 'timestamp': 1096071234000}, 'page': '14689-14694', 'update-policy': 'http://dx.doi.org/10.1073/pnas.cm10313', 'source': 'Crossref', 'is-referenced-by-count': 86, 'title': ['Local graph alignment and motif search in biological networks'], 'prefix': '10.1073', 'volume': '101', 'author': [{'given': 'J.', 'family': 'Berg', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Lassig', 'sequence': 'additional', 'affiliation': []}], 'member': '341', 'published-online': {'date-parts': [[2004, 9, 24]]}, 'reference': [{'issue': '6770', 'key': '4_6480854', 'doi-asserted-by': 'publisher', 'first-page': '623', 'DOI': '10.1038/35001009', 'volume': '403', 'author': 'Uetz', 'year': '2000', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '6788', 'key': '5_10362925', 'doi-asserted-by': 'publisher', 'first-page': '827', 'DOI': '10.1038/35015701', 'volume': '405', 'author': 'Lockhart', 'year': '2000', 'journal-title': 'Nature; Physical Science (London)', 'ISSN': 'http://id.crossref.org/issn/1476-4687', 'issn-type': 'print'}, {'issue': '1', 'key': '6_17029894', 'doi-asserted-by': 'publisher', 'first-page': '64', 'DOI': '10.1038/ng881', 'volume': '31', 'author': 'Shen-Orr', 'year': '2002', 'journal-title': 'Nature genetics', 'ISSN': 'http://id.crossref.org/issn/1061-4036', 'issn-type': 'print'}, {'issue': '5594', 'key': '7_17300562', 'doi-asserted-by': 'publisher', 'first-page': '824', 'DOI': '10.1126/science.298.5594.824', 'volume': '298', 'author': 'Milo', 'year': '2002', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'key': '8_25035693', 'volume': '64', 'first-page': '026118', 'year': '2001', 'journal-title': 'PHYS REV E', 'DOI': '10.1103/PhysRevE.64.026118', 'doi-asserted-by': 'crossref'}, {'issue': '20', 'key': '9_17341014', 'doi-asserted-by': 'publisher', 'first-page': '208701', 'DOI': '10.1103/PhysRevLett.89.208701', 'volume': '89', 'author': 'Newman', 'year': '2002', 'journal-title': 'Physical Review Letters', 'ISSN': 'http://id.crossref.org/issn/1079-7114', 'issn-type': 'print'}, {'issue': '22', 'key': '10_17376313', 'doi-asserted-by': 'publisher', 'first-page': '228701', 'DOI': '10.1103/PhysRevLett.89.228701', 'volume': '89', 'author': 'Berg', 'year': '2002', 'journal-title': 'Physical Review Letters', 'ISSN': 'http://id.crossref.org/issn/1079-7114', 'issn-type': 'print'}, {'key': '11_17671823', 'doi-asserted-by': 'publisher', 'first-page': '215', 'DOI': '10.1016/S0378-1119(03)00556-0', 'volume': '310', 'author': 'Costas', 'year': '2003', 'journal-title': 'Gene', 'ISSN': 'http://id.crossref.org/issn/0378-1119', 'issn-type': 'print'}, {'issue': '4', 'key': '12_5155061', 'doi-asserted-by': 'publisher', 'first-page': '1183', 'DOI': '10.1073/pnas.86.4.1183', 'volume': '86', 'author': 'Stormo', 'year': '1989', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': '18', 'key': '13_19669979', 'doi-asserted-by': 'publisher', 'first-page': '10096', 'DOI': '10.1073/pnas.180265397', 'volume': '97', 'year': '2000', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': '6', 'key': '14_8495831', 'doi-asserted-by': 'publisher', 'first-page': '368', 'DOI': '10.1007/BF01734359', 'volume': '17', 'author': 'Felsenstein', 'year': '1981', 'journal-title': 'Journal of Molecular Evolution', 'ISSN': 'http://id.crossref.org/issn/1432-1432', 'issn-type': 'print'}, {'key': '15_24576690', 'volume': '23', 'first-page': '31', 'year': '1976', 'journal-title': 'J ASSOC COMPUT MACH', 'DOI': '10.1145/321921.321925', 'doi-asserted-by': 'crossref'}, {'key': '16_25487695', 'volume': '20', 'first-page': '493', 'year': '1998', 'journal-title': 'IEEE TRANS PATTERN ANAL MACH INTELL', 'DOI': '10.1109/34.682179', 'doi-asserted-by': 'crossref'}, {'issue': '5569', 'key': '18_17033728', 'doi-asserted-by': 'publisher', 'first-page': '910', 'DOI': '10.1126/science.1065103', 'volume': '296', 'author': 'Maslov', 'year': '2002', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'key': '19_25487696', 'volume': '68', 'first-page': '026127', 'year': '2003', 'journal-title': 'PHYS REV E', 'DOI': '10.1103/PhysRevE.68.026127', 'doi-asserted-by': 'crossref'}, {'issue': '6', 'key': '21_5579901', 'doi-asserted-by': 'publisher', 'first-page': '2264', 'DOI': '10.1073/pnas.87.6.2264', 'volume': '87', 'author': 'Karlin', 'year': '1990', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': '18', 'key': '22_18997259', 'doi-asserted-by': 'publisher', 'first-page': '3251', 'DOI': '10.1103/PhysRevLett.76.3251', 'volume': '76', 'author': 'Blatt', 'year': '1996', 'journal-title': 'Physical Review Letters', 'ISSN': 'http://id.crossref.org/issn/1079-7114', 'issn-type': 'print'}], 'container-title': ['Proceedings of the National Academy of Sciences'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1073/pnas.0305199101', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T10:22:46Z', 'timestamp': 1497608566000}, 'score': 86.234245, 'issued': {'date-parts': [[2004, 9, 24]]}, 'references-count': 17, 'journal-issue': {'published-online': {'date-parts': [[2004, 10, 12]]}, 'published-print': {'date-parts': [[2004, 10, 12]]}, 'issue': '41'}, 'URL': 'http://dx.doi.org/10.1073/pnas.0305199101', 'relation': {'cites': []}, 'ISSN': ['0027-8424', '1091-6490'], 'issn-type': [{'value': '0027-8424', 'type': 'print'}, {'value': '1091-6490', 'type': 'electronic'}]}
+>>> hash >>> ('Local graph alignment and motif search in biological networks', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> B. Luo and E. R. Hancock. Iterative procrustes alignment with the em algorithm. Image Vision Comput., 20(5-6):377-396, 2002.
+>>> DOI >>> 10.1016/s0262-8856(02)00010-0
+>>> URL >>> http://dx.doi.org/10.1016/s0262-8856(02)00010-0
+>>> year >>> 2002.0
+>>> title >>> Iterative Procrustes alignment with the EM algorithm
+>>> author >>> B. Luo and E.R. Hancock
+>>> reference_count >>> 30.0
+>>> is_referenced_by_count >>> 18.0
+>>> subject >>> None
+>>> container_title >>> ['Image and Vision Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T16:22:37Z', 'timestamp': 1525537357357}, 'reference-count': 30, 'publisher': 'Elsevier BV', 'issue': '5-6', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2002, 4, 1]], 'date-time': '2002-04-01T00:00:00Z', 'timestamp': 1017619200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Image and Vision Computing'], 'published-print': {'date-parts': [[2002, 4]]}, 'DOI': '10.1016/s0262-8856(02)00010-0', 'type': 'journal-article', 'created': {'date-parts': [[2003, 2, 28]], 'date-time': '2003-02-28T14:44:40Z', 'timestamp': 1046443480000}, 'page': '377-396', 'source': 'Crossref', 'is-referenced-by-count': 18, 'title': ['Iterative Procrustes alignment with the EM algorithm'], 'prefix': '10.1016', 'volume': '20', 'author': [{'given': 'B.', 'family': 'Luo', 'sequence': 'first', 'affiliation': []}, {'given': 'E.R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Image and Vision Computing'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0262885602000100?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0262885602000100?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 14]], 'date-time': '2017-06-14T18:57:58Z', 'timestamp': 1497466678000}, 'score': 96.76741, 'issued': {'date-parts': [[2002, 4]]}, 'references-count': 30, 'journal-issue': {'published-print': {'date-parts': [[2002, 4]]}, 'issue': '5-6'}, 'alternative-id': ['S0262885602000100'], 'URL': 'http://dx.doi.org/10.1016/s0262-8856(02)00010-0', 'ISSN': ['0262-8856'], 'issn-type': [{'value': '0262-8856', 'type': 'print'}]}
+>>> hash >>> ('Iterative Procrustes alignment with the EM algorithm', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. T. Vogelstein, J. M. Conroy, L. J. Podrazik, S. G. Kratzer, D. E. Fishkind, R. J. Vogelstein, and C. E. Priebe. Fast inexact graph matching with applications in statistical connectomics. CoRR, abs/1112.5507, 2011.
+>>> DOI >>> 10.1371/journal.pone.0121002
+>>> URL >>> http://dx.doi.org/10.1371/journal.pone.0121002
+>>> year >>> 2015.0
+>>> title >>> Fast Approximate Quadratic Programming for Graph Matching
+>>> author >>> Joshua T. Vogelstein and John M. Conroy and Vince Lyzinski and Louis J. Podrazik and Steven G. Kratzer and Eric T. Harley and Donniell E. Fishkind and R. Jacob Vogelstein and Carey E. Priebe
+>>> reference_count >>> 45.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> ['PLOS ONE']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T10:39:42Z', 'timestamp': 1525862382735}, 'reference-count': 45, 'publisher': 'Public Library of Science (PLoS)', 'issue': '4', 'license': [{'URL': 'https://creativecommons.org/publicdomain/zero/1.0/', 'start': {'date-parts': [[2015, 4, 17]], 'date-time': '2015-04-17T00:00:00Z', 'timestamp': 1429228800000}, 'delay-in-days': 0, 'content-version': 'vor'}], 'content-domain': {'domain': ['www.plosone.org'], 'crossmark-restriction': False}, 'short-container-title': ['PLoS ONE'], 'DOI': '10.1371/journal.pone.0121002', 'type': 'journal-article', 'created': {'date-parts': [[2015, 4, 17]], 'date-time': '2015-04-17T21:22:05Z', 'timestamp': 1429305725000}, 'page': 'e0121002', 'update-policy': 'http://dx.doi.org/10.1371/journal.pone.corrections_policy', 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['Fast Approximate Quadratic Programming for Graph Matching'], 'prefix': '10.1371', 'volume': '10', 'author': [{'given': 'Joshua T.', 'family': 'Vogelstein', 'sequence': 'first', 'affiliation': []}, {'given': 'John M.', 'family': 'Conroy', 'sequence': 'additional', 'affiliation': []}, {'given': 'Vince', 'family': 'Lyzinski', 'sequence': 'additional', 'affiliation': []}, {'given': 'Louis J.', 'family': 'Podrazik', 'sequence': 'additional', 'affiliation': []}, {'given': 'Steven G.', 'family': 'Kratzer', 'sequence': 'additional', 'affiliation': []}, {'given': 'Eric T.', 'family': 'Harley', 'sequence': 'additional', 'affiliation': []}, {'given': 'Donniell E.', 'family': 'Fishkind', 'sequence': 'additional', 'affiliation': []}, {'given': 'R. Jacob', 'family': 'Vogelstein', 'sequence': 'additional', 'affiliation': []}, {'given': 'Carey E.', 'family': 'Priebe', 'sequence': 'additional', 'affiliation': []}], 'member': '340', 'published-online': {'date-parts': [[2015, 4, 17]]}, 'reference': [{'key': 'ref1', 'doi-asserted-by': 'crossref', 'first-page': '695', 'DOI': '10.1109/34.6778', 'article-title': 'An eigendecomposition approach to weighted graph matching problems', 'volume': '10', 'author': 'S Umeyama', 'year': '1988', 'journal-title': 'Pattern Analysis and Machine Intelligence, IEEE Transactions on'}, {'key': 'ref2', 'doi-asserted-by': 'crossref', 'first-page': '53', 'DOI': '10.2307/1907742', 'article-title': 'Assignment problems and the location of economic activities', 'volume': '25', 'author': 'TC Koopmans', 'year': '1957', 'journal-title': 'The Econometric Society'}, {'key': 'ref3', 'author': 'CH Papadimitriou', 'first-page': '496', 'year': '1998', 'article-title': 'Combinatorial Optimization: Algorithms and Complexity'}, {'key': 'ref4', 'author': 'RE Burkard', 'first-page': '2741', 'year': '2013', 'article-title': 'Handbook of Combinatorial Optimization'}, {'key': 'ref5', 'doi-asserted-by': 'crossref', 'first-page': '95', 'DOI': '10.1002/nav.3800030109', 'article-title': 'An algorithm for quadratic programming', 'volume': '3', 'author': 'M Frank', 'year': '1956', 'journal-title': 'Naval Research Logistics Quarterly'}, {'key': 'ref6', 'author': 'MS Bazaraa', 'year': '2013', 'article-title': 'Nonlinear programming: theory and algorithms'}, {'key': 'ref7', 'doi-asserted-by': 'crossref', 'first-page': '265', 'DOI': '10.1142/S0218001404003228', 'article-title': 'Thirty years of graph matching in pattern recognition', 'volume': '18', 'author': 'D Conte', 'year': '2004', 'journal-title': 'International Journal of Pattern Recognition and Artificial Intelligence'}, {'key': 'ref8', 'doi-asserted-by': 'crossref', 'first-page': 'e42', 'DOI': '10.1371/journal.pcbi.0010042', 'article-title': 'The human connectome: A structural description of the human brain', 'volume': '1', 'author': 'O Sporns', 'year': '2005', 'journal-title': 'PLoS Computational Biology'}, {'key': 'ref9', 'unstructured': 'Hagmann P (2005) From diffusion MRI to brain connectomics. Ph.D. thesis, Institut de traitement des signaux.'}, {'issue': 'Suppl 1', 'key': 'ref10', 'doi-asserted-by': 'crossref', 'first-page': 'S56', 'DOI': '10.1016/j.neuroimage.2004.07.025', 'article-title': 'Computational anatomy and neuropsychiatric disease: probabilistic assessment of variation and statistical inference of group difference, hemispheric asymmetry, and time-dependent change', 'volume': '23', 'author': 'JG Csernansky', 'year': '2004', 'journal-title': 'NeuroImage'}, {'key': 'ref11', 'doi-asserted-by': 'crossref', 'first-page': '15', 'DOI': '10.1016/j.jpsychires.2005.05.005', 'article-title': 'A review of diffusion tensor imaging studies in schizophrenia', 'volume': '41', 'author': 'M Kubicki', 'year': '2007', 'journal-title': 'Journal of Psychiatric Research'}, {'key': 'ref12', 'first-page': '75', 'article-title': 'Exploring the psychosis functional connectome: Aberrant intrinsic networks in schizophrenia and bipolar disorder', 'volume': '2', 'author': 'VD Calhoun', 'year': '2011', 'journal-title': 'Frontiers in Psychiatry / Frontiers Research Foundation'}, {'key': 'ref13', 'first-page': '32', 'article-title': 'Connectomic intermediate phenotypes for psychiatric disorders', 'volume': '3', 'author': 'A Fornito', 'year': '2012', 'journal-title': 'Frontiers in Psychiatry / Frontiers Research Foundation'}, {'key': 'ref14', 'doi-asserted-by': 'crossref', 'first-page': '2296', 'DOI': '10.1016/j.neuroimage.2011.12.090', 'article-title': 'Schizophrenia, neuroimaging and connectomics', 'volume': '62', 'author': 'A Fornito', 'year': '2012', 'journal-title': 'Neuroimage'}, {'key': 'ref15', 'author': 'JT Vogelstein', 'year': '2014', 'article-title': 'Shuffled graph classification: Theory and connectome applications', 'journal-title': 'Journal of Classification'}, {'key': 'ref16', 'unstructured': 'Gray Roncal W, Koterba ZH, Mhembere D, Kleissas DM, Vogelstein JT, Burns, R, et al. (2013) MIGRAINE: MRI graph reliability analysis and inference for connectomics. Global Conference on Signal and Information Processing.', 'DOI': '10.1109/GlobalSIP.2013.6736878', 'doi-asserted-by': 'crossref'}, {'issue': 'Suppl', 'key': 'ref17', 'doi-asserted-by': 'crossref', 'first-page': '10661', 'DOI': '10.1073/pnas.1201895109', 'article-title': 'The remarkable, yet not extraordinary, human brain as a scaled-up primate brain and its associated cost', 'volume': '109', 'author': 'S Herculano-Houzel', 'year': '2012', 'journal-title': 'Proceedings of the National Academy of Sciences of the United States of America'}, {'key': 'ref18', 'author': 'ED Kolaczyk', 'year': '2009', 'article-title': 'Statistical analysis of network data', 'DOI': '10.1007/978-0-387-88146-1', 'doi-asserted-by': 'crossref'}, {'key': 'ref19', 'author': 'S Fortin', 'year': '1996', 'article-title': 'The graph isomorphism problem'}, {'key': 'ref20', 'unstructured': 'Babai L (1981) Moderately exponential bound for graph isomorphism: 34–50.'}, {'key': 'ref21', 'doi-asserted-by': 'crossref', 'first-page': '628', 'DOI': '10.1137/0209047', 'article-title': 'Random graph isomorphism', 'volume': '9', 'author': 'L Babali', 'year': '1980', 'journal-title': 'SIAM Journal on Computing'}, {'key': 'ref22', 'doi-asserted-by': 'crossref', 'first-page': '614', 'DOI': '10.1137/S0895480191196769', 'article-title': 'A linear-time algorithm for isomorphism of graphs of bounded average genus', 'volume': '7', 'author': 'J Chen', 'year': '1994', 'journal-title': 'SIAM Journal on Discrete Mathematics'}, {'key': 'ref23', 'doi-asserted-by': 'crossref', 'first-page': '2227', 'DOI': '10.1109/TPAMI.2008.245', 'article-title': 'A path following algorithm for the graph matching problem', 'volume': '31', 'author': 'M Zaslavskiy', 'year': '2009', 'journal-title': 'IEEE Transactions on Pattern Analysis and Machine Intelligence'}, {'key': 'ref24', 'unstructured': 'Lyzinski V, Fishkind DE, Fiori M, Vogelstein JT, Priebe CE, Sapiro, G (2014) Graph matching: Relax at your own risk. arXiv preprint, arXiv: 14053133.'}, {'key': 'ref25', 'doi-asserted-by': 'crossref', 'first-page': '876', 'DOI': '10.1214/aoms/1177703591', 'article-title': 'A relationship between arbitrary positive matrices and doubly stochastic matrices', 'volume': '35', 'author': 'R Sinkhorn', 'year': '1964', 'journal-title': 'The Annals of Mathematical Statistics'}, {'key': 'ref26', 'author': 'S Bradley', 'year': '1977', 'article-title': 'Applied mathematical programming'}, {'key': 'ref27', 'first-page': '27', 'article-title': 'Recent advances in the solution of quadratic assignment', 'volume': '97', 'author': 'KM Anstreicher', 'year': '2003', 'journal-title': 'SIAM Journal on Optimization'}, {'key': 'ref28', 'doi-asserted-by': 'crossref', 'first-page': '83', 'DOI': '10.1002/nav.3800020109', 'article-title': 'The Hungarian method for the assignment problem', 'volume': '2', 'author': 'HW Kuhn', 'year': '1955', 'journal-title': 'Naval Research Logistics Quarterly'}, {'key': 'ref29', 'doi-asserted-by': 'crossref', 'first-page': '325', 'DOI': '10.1007/BF02278710', 'article-title': 'A shortest augmenting path algorithm for dense and sparse linear assignment problems', 'volume': '38', 'author': 'R Jonker', 'year': '1987', 'journal-title': 'Computing'}, {'key': 'ref30', 'doi-asserted-by': 'crossref', 'first-page': '391', 'DOI': '10.1023/A:1008293323270', 'article-title': 'QAPLIB: A quadratic assignment problem library', 'volume': '10', 'author': 'RE Burkard', 'year': '1997', 'journal-title': 'Journal of Global Optimization'}, {'key': 'ref31', 'unstructured': 'Schellewald C, Roth S, Schnörr C (2001) Evaluation of convex optimization techniques for the weighted graph-matching problem in computer vision. In: Proceedings of the 23rd DAGMSymposium on Pattern Recognition. Springer-Verlag, pp. 361–368.', 'DOI': '10.1007/3-540-45404-7_48', 'doi-asserted-by': 'crossref'}, {'key': 'ref32', 'unstructured': 'Singh R, Xu J, Berger B (2007) Pairwise global alignment of protein interaction networks by matching neighborhood topology: 16–31.'}, {'key': 'ref33', 'doi-asserted-by': 'crossref', 'first-page': '1451', 'DOI': '10.1109/TPAMI.2012.45', 'article-title': 'An extended path following algorithm for graph matching problem', 'volume': '34', 'author': 'ZY Liu', 'year': '2012', 'journal-title': 'IEEE transactions on pattern analysis and machine intelligence'}, {'key': 'ref34', 'doi-asserted-by': 'crossref', 'first-page': '377', 'DOI': '10.1109/34.491619', 'article-title': 'A graduated assignment algorithm for graph matching', 'volume': '18', 'author': 'S Gold', 'year': '1996', 'journal-title': 'IEEE Transactions on Pattern Analysis and Machine Intelligence'}, {'key': 'ref35', 'doi-asserted-by': 'crossref', 'first-page': '1', 'DOI': '10.1098/rstb.1986.0056', 'article-title': 'The structure of the nervous system of the nematode Caenorhabditis elegans', 'volume': '314', 'author': 'JG White', 'year': '1986', 'journal-title': 'Philosophical Transactions of Royal Society London Series B, Biological Sciences'}, {'key': 'ref36', 'doi-asserted-by': 'crossref', 'first-page': '1', 'DOI': '10.1371/journal.pcbi.1001066', 'article-title': 'Structural properties of the Caenorhabditis elegans neuronal network', 'volume': '7', 'author': 'LR Varshney', 'year': '2011', 'journal-title': 'PLoS Computational Biology'}, {'key': 'ref37', 'first-page': '515', 'article-title': 'Many-to-many graph matching: A continuous relaxation approach', 'volume': '6323', 'author': 'M Zaslavskiy', 'year': '2010', 'journal-title': 'Machine Learning and Knowledge Discovery in Databases'}, {'key': 'ref38', 'author': 'M Leordeanu', 'first-page': '1114', 'year': '2009', 'article-title': 'An integer projected fixed point method for graph matching and map inference', 'journal-title': 'Advances in Neural Information Processing Systems'}, {'key': 'ref39', 'author': 'F Escolano', 'year': '2011', 'article-title': 'Graph matching through entropic manifold alignment', 'journal-title': 'Computer Vision and Pattern Recognition'}, {'key': 'ref40', 'doi-asserted-by': 'crossref', 'first-page': '341', 'DOI': '10.1007/PL00011402', 'article-title': 'A new bound for the quadratic assignment problem based on convex quadratic programming', 'volume': '89', 'author': 'KM Anstreicher', 'year': '2001', 'journal-title': 'Mathematical Programming'}, {'key': 'ref41', 'author': 'NW Brixius', 'first-page': '1', 'year': '2000', 'article-title': 'Solving quadratic assignment problems using convex quadratic programming relaxations 1: Introduction', 'journal-title': 'Management'}, {'key': 'ref42', 'unstructured': 'Lyzinski V, Sussman DL, Fishkind DE, Pao H, Priebe CE (2013) Seeded graph matching for large stochastic block model graphs. arXiv preprint: 1310.1297.'}, {'key': 'ref43', 'doi-asserted-by': 'crossref', 'first-page': '3455', 'DOI': '10.1080/03610926.2011.630768', 'article-title': 'Optimizing the quantity/quality trade-off in connectome inference', 'volume': '42', 'author': 'CE Priebe', 'year': '2013', 'journal-title': 'Communications in Statistics-Theory and Methods'}, {'key': 'ref44', 'author': 'V Lyzinski', 'year': '2014', 'article-title': 'Seeded graph matching for correlated Erdos-Renyi graphs', 'journal-title': 'Journal of Machine Learning Research To appear'}, {'key': 'ref45', 'author': 'S Boyd', 'year': '2004', 'article-title': 'Convex Optimization', 'DOI': '10.1017/CBO9780511804441', 'doi-asserted-by': 'crossref'}], 'container-title': ['PLOS ONE'], 'language': 'en', 'link': [{'URL': 'http://dx.plos.org/10.1371/journal.pone.0121002', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 23]], 'date-time': '2017-06-23T09:42:04Z', 'timestamp': 1498210924000}, 'score': 81.081535, 'editor': [{'given': 'Mark R.', 'family': 'Muldoon', 'sequence': 'first', 'affiliation': []}], 'issued': {'date-parts': [[2015, 4, 17]]}, 'references-count': 45, 'journal-issue': {'published-online': {'date-parts': [[2015, 4, 17]]}, 'issue': '4'}, 'URL': 'http://dx.doi.org/10.1371/journal.pone.0121002', 'relation': {'cites': []}, 'ISSN': ['1932-6203'], 'issn-type': [{'value': '1932-6203', 'type': 'electronic'}]}
+>>> hash >>> ('Fast Approximate Quadratic Programming for Graph Matching', 2015.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. W. Klau. A new graph-based method for pairwise global network alignment. BMC, 10(S-1), 2009.
+>>> DOI >>> 10.1186/1471-2105-10-s1-s59
+>>> URL >>> http://dx.doi.org/10.1186/1471-2105-10-s1-s59
+>>> year >>> 2009.0
+>>> title >>> A new graph-based method for pairwise global network alignment
+>>> author >>> Gunnar W Klau
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 76.0
+>>> subject >>> None
+>>> container_title >>> ['BMC Bioinformatics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T19:44:54Z', 'timestamp': 1525463094110}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': 'Suppl 1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['BMC Bioinformatics'], 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1186/1471-2105-10-s1-s59', 'type': 'journal-article', 'created': {'date-parts': [[2009, 1, 30]], 'date-time': '2009-01-30T20:05:18Z', 'timestamp': 1233345918000}, 'page': 'S59', 'source': 'Crossref', 'is-referenced-by-count': 76, 'title': ['A new graph-based method for pairwise global network alignment'], 'prefix': '10.1186', 'volume': '10', 'author': [{'given': 'Gunnar W', 'family': 'Klau', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['BMC Bioinformatics'], 'language': 'en', 'deposited': {'date-parts': [[2011, 6, 3]], 'date-time': '2011-06-03T09:20:46Z', 'timestamp': 1307092846000}, 'score': 81.03094, 'issued': {'date-parts': [[2009]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2009]]}, 'issue': 'Suppl 1'}, 'alternative-id': ['1471-2105-10-S1-S59'], 'URL': 'http://dx.doi.org/10.1186/1471-2105-10-s1-s59', 'ISSN': ['1471-2105'], 'issn-type': [{'value': '1471-2105', 'type': 'print'}]}
+>>> hash >>> ('A new graph-based method for pairwise global network alignment', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Faloutsos, p. Faloutsos, and C. Faloutsos. On power-law relationships of the internet topology. SIGCOMM Comput. Commun. Rev., 29(4):251-262, Aug. 1999.
+>>> DOI >>> 10.1145/316194.316229
+>>> URL >>> http://dx.doi.org/10.1145/316194.316229
+>>> year >>> 1999.0
+>>> title >>> On power-law relationships of the Internet topology
+>>> author >>> Michalis Faloutsos and Petros Faloutsos and Christos Faloutsos
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1591.0
+>>> subject >>> None
+>>> container_title >>> ['ACM SIGCOMM Computer Communication Review']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T12:02:26Z', 'timestamp': 1528372946288}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIGCOMM Comput. Commun. Rev.'], 'published-print': {'date-parts': [[1999, 10, 1]]}, 'DOI': '10.1145/316194.316229', 'type': 'journal-article', 'created': {'date-parts': [[2004, 10, 12]], 'date-time': '2004-10-12T13:44:32Z', 'timestamp': 1097588672000}, 'page': '251-262', 'source': 'Crossref', 'is-referenced-by-count': 1591, 'title': ['On power-law relationships of the Internet topology'], 'prefix': '10.1145', 'volume': '29', 'author': [{'given': 'Michalis', 'family': 'Faloutsos', 'sequence': 'first', 'affiliation': []}, {'given': 'Petros', 'family': 'Faloutsos', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christos', 'family': 'Faloutsos', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['ACM SIGCOMM Computer Communication Review'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=316229&amp;ftid=21408&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 12]], 'date-time': '2016-12-12T17:35:27Z', 'timestamp': 1481564127000}, 'score': 125.382706, 'issued': {'date-parts': [[1999, 10, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1999, 10, 1]]}, 'issue': '4'}, 'URL': 'http://dx.doi.org/10.1145/316194.316229', 'ISSN': ['0146-4833'], 'issn-type': [{'value': '0146-4833', 'type': 'print'}]}
+>>> hash >>> ('On power-law relationships of the Internet topology', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. H. Papadimitriou and K. Steiglitz. Combinatorial optimization: algorithms and complexity. Prentice-Hall, Inc., Upper Saddle River, NJ, USA, 1982.
+>>> DOI >>> 10.1137/1025101
+>>> URL >>> http://dx.doi.org/10.1137/1025101
+>>> year >>> 1983.0
+>>> title >>> Combinatorial Optimization: Algorithms and Complexity (Christos H. Papadimitriou and Kenneth Steiglitz)
+>>> author >>> Richard T. Wong
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Review']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T14:58:42Z', 'timestamp': 1525445922154}, 'reference-count': 0, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM Rev.'], 'published-print': {'date-parts': [[1983, 7]]}, 'DOI': '10.1137/1025101', 'type': 'journal-article', 'created': {'date-parts': [[2005, 3, 7]], 'date-time': '2005-03-07T06:58:10Z', 'timestamp': 1110178690000}, 'page': '424-425', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Combinatorial Optimization: Algorithms and Complexity (Christos H. Papadimitriou and Kenneth Steiglitz)'], 'prefix': '10.1137', 'volume': '25', 'author': [{'given': 'Richard T.', 'family': 'Wong', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Review'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/1025101', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T17:59:45Z', 'timestamp': 1485712785000}, 'score': 51.33925, 'issued': {'date-parts': [[1983, 7]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1983, 7]]}, 'issue': '3'}, 'alternative-id': ['10.1137/1025101'], 'URL': 'http://dx.doi.org/10.1137/1025101', 'ISSN': ['0036-1445', '1095-7200'], 'issn-type': [{'value': '0036-1445', 'type': 'print'}, {'value': '1095-7200', 'type': 'electronic'}]}
+>>> hash >>> ('Combinatorial Optimization: Algorithms and Complexity (Christos H. Papadimitriou and Kenneth Steiglitz)', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Singh, J. Xu, and B. Berger. Pairwise global alignment of protein interaction networks by matching neighborhood topology. In RECOMB07, pages 16-31, 2007.
+>>> DOI >>> 10.1007/978-3-540-71681-5_2
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-71681-5_2
+>>> year >>> None
+>>> title >>> Pairwise Global Alignment of Protein Interaction Networks by Matching Neighborhood Topology
+>>> author >>> Rohit Singh and Jinbo Xu and Bonnie Berger
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 85.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Research in Computational Molecular Biology']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T13:02:29Z', 'timestamp': 1527771749438}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540716808', 'type': 'print'}, {'value': '9783540716815', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/978-3-540-71681-5_2', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 5, 17]], 'date-time': '2007-05-17T16:07:05Z', 'timestamp': 1179418025000}, 'page': '16-31', 'source': 'Crossref', 'is-referenced-by-count': 85, 'title': ['Pairwise Global Alignment of Protein Interaction Networks by Matching Neighborhood Topology'], 'prefix': '10.1007', 'author': [{'given': 'Rohit', 'family': 'Singh', 'sequence': 'first', 'affiliation': []}, {'given': 'Jinbo', 'family': 'Xu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Bonnie', 'family': 'Berger', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Lecture Notes in Computer Science', 'Research in Computational Molecular Biology'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-540-71681-5_2', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 17]], 'date-time': '2014-01-17T20:25:30Z', 'timestamp': 1389990330000}, 'score': 78.71191, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9783540716808', '9783540716815'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-540-71681-5_2'}
+>>> hash >>> ('Pairwise Global Alignment of Protein Interaction Networks by Matching Neighborhood Topology', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Bradde, A. Braunstein, H. Mahmoudi, F. Tria, M. Weigt, and R. Zecchina. Aligning graphs and finding substructures by a cavity approach. Europhysics Letters, 89, 2010.
+>>> DOI >>> 10.1209/0295-5075/89/37009
+>>> URL >>> http://dx.doi.org/10.1209/0295-5075/89/37009
+>>> year >>> 2010.0
+>>> title >>> Aligning graphs and finding substructures by a cavity approach
+>>> author >>> S. Bradde and A. Braunstein and H. Mahmoudi and F. Tria and M. Weigt and R. Zecchina
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['EPL (Europhysics Letters)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T23:47:02Z', 'timestamp': 1525304822813}, 'reference-count': 21, 'publisher': 'IOP Publishing', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Europhys. Lett.'], 'published-print': {'date-parts': [[2010, 2, 1]]}, 'DOI': '10.1209/0295-5075/89/37009', 'type': 'journal-article', 'created': {'date-parts': [[2010, 2, 23]], 'date-time': '2010-02-23T04:13:36Z', 'timestamp': 1266898416000}, 'page': '37009', 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Aligning graphs and finding substructures by a cavity approach'], 'prefix': '10.1209', 'volume': '89', 'author': [{'given': 'S.', 'family': 'Bradde', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Braunstein', 'sequence': 'additional', 'affiliation': []}, {'given': 'H.', 'family': 'Mahmoudi', 'sequence': 'additional', 'affiliation': []}, {'given': 'F.', 'family': 'Tria', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Weigt', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.', 'family': 'Zecchina', 'sequence': 'additional', 'affiliation': []}], 'member': '266', 'published-online': {'date-parts': [[2010, 2, 22]]}, 'container-title': ['EPL (Europhysics Letters)'], 'link': [{'URL': 'http://stacks.iop.org/0295-5075/89/i=3/a=37009/pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 3, 7]], 'date-time': '2018-03-07T15:23:31Z', 'timestamp': 1520436211000}, 'score': 126.90235, 'issued': {'date-parts': [[2010, 2, 1]]}, 'references-count': 21, 'journal-issue': {'published-print': {'date-parts': [[2010, 2, 1]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.1209/0295-5075/89/37009', 'ISSN': ['0295-5075', '1286-4854'], 'issn-type': [{'value': '0295-5075', 'type': 'print'}, {'value': '1286-4854', 'type': 'electronic'}]}
+>>> hash >>> ('Aligning graphs and finding substructures by a cavity approach', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Gold and A. Rangarajan. A graduated assignment algorithm for graph matching. IEEE TPAMI, 18(4):377-388, 1996.
+>>> DOI >>> 10.1109/34.491619
+>>> URL >>> http://dx.doi.org/10.1109/34.491619
+>>> year >>> 1996.0
+>>> title >>> A graduated assignment algorithm for graph matching
+>>> author >>> S. Gold and A. Rangarajan
+>>> reference_count >>> 58.0
+>>> is_referenced_by_count >>> 504.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:33Z', 'timestamp': 1525333533505}, 'reference-count': 58, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1996, 4]]}, 'DOI': '10.1109/34.491619', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '377-388', 'source': 'Crossref', 'is-referenced-by-count': 504, 'title': ['A graduated assignment algorithm for graph matching'], 'prefix': '10.1109', 'volume': '18', 'author': [{'given': 'S.', 'family': 'Gold', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Rangarajan', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/10562/00491619.pdf?arnumber=491619', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:28:39Z', 'timestamp': 1497522519000}, 'score': 75.99903, 'issued': {'date-parts': [[1996, 4]]}, 'references-count': 58, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/34.491619', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A graduated assignment algorithm for graph matching', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> B. Viswanath, A. Mislove, M. Cha, and K. p. Gummadi. On the evolution of user interaction in facebook. In WOSN09, August 2009.
+>>> DOI >>> 10.1145/1592665.1592675
+>>> URL >>> http://dx.doi.org/10.1145/1592665.1592675
+>>> year >>> 2009.0
+>>> title >>> On the evolution of user interaction in Facebook
+>>> author >>> Bimal Viswanath and Alan Mislove and Meeyoung Cha and Krishna P. Gummadi
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 424.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2nd ACM workshop on Online social networks - WOSN '09"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database87.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365365}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605584454', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1145/1592665.1592675', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 8, 24]], 'date-time': '2009-08-24T14:08:35Z', 'timestamp': 1251122915000}, 'source': 'Crossref', 'is-referenced-by-count': 424, 'title': ['On the evolution of user interaction in Facebook'], 'prefix': '10.1145', 'author': [{'given': 'Bimal', 'family': 'Viswanath', 'sequence': 'first', 'affiliation': []}, {'given': 'Alan', 'family': 'Mislove', 'sequence': 'additional', 'affiliation': []}, {'given': 'Meeyoung', 'family': 'Cha', 'sequence': 'additional', 'affiliation': []}, {'given': 'Krishna P.', 'family': 'Gummadi', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2nd ACM workshop', 'location': 'Barcelona, Spain', 'sponsor': ['SIGCOMM, ACM Special Interest Group on Data Communication', 'ACM, Association for Computing Machinery'], 'acronym': "WOSN '09", 'number': '2', 'start': {'date-parts': [[2009, 8, 17]]}, 'end': {'date-parts': [[2009, 8, 17]]}}, 'container-title': ["Proceedings of the 2nd ACM workshop on Online social networks - WOSN '09"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1592675&amp;ftid=653866&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T20:52:28Z', 'timestamp': 1481057548000}, 'score': 68.150375, 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781605584454'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1592665.1592675'}
+>>> hash >>> ('On the evolution of user interaction in Facebook', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

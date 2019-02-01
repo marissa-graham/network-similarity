@@ -1,0 +1,44 @@
+[0] Marianna Milano, Pietro Hiram Guzzi, Mario Cannataro, GLAlign: A Novel Algorithm for Local Network Alignment
+[1] A. Fornito, A. Zalesky, and M. Breakspear, “Graph analysis of the human connectome: promise, progress, and pitfalls,” Neuroimage, vol. 80, pp. 426–444, 2013.
+[2] Y.-R. Cho, M. Mina, Y. Lu, N. Kwon, and P. H. Guzzi, “M-finder: Uncovering functionally associated proteins from interactome data integrated with go annotations,” Proteome Science, vol. 11, no. 1, pp. 1–12, 2013. [Online]. Available: http://dx.doi.org/10.1186/1477-5956-11-S1-S3
+[3] M. Cannataro, P. H. Guzzi, and P. Veltri, “Protein-to-protein interactions,” ACM Computing Surveys, vol. 43, no. 1, pp. 1–36, Nov. 2010. [Online]. Available: http://portal.acm.org/citation. cfm?doid=1824795.1824796
+[4] F. E. Faisal and T. Milenkovic, “Dynamic networks reveal key ´ players in aging,” Bioinformatics, vol. 30, no. 12, pp. 1721–1729, 2014.
+[5] P. H. Guzzi and T. Milenkovic, “Survey of local and global ´ biological network alignment: the need to reconcile the two sides of the same coin,” Briefings in bioinformatics, p. bbw132, 2017.
+[6] M. Milano, P. H. Guzzi, O. Tymofieva, D. Xu, C. Hess, P. Veltri, and M. Cannataro, “An extensive assessment of network alignment algorithms for comparison of brain connectomes,” BMC bioinformatics, vol. 18, no. 6, p. 235, 2017.
+[7] E. Hirsh and R. Sharan, “Identification of conserved protein complexes based on a model of protein network evolution,” Bioinformatics, vol. 23, no. 2, pp. e170–176, 2007. [Online]. Available: http://bioinformatics.oxfordjournals. org/cgi/content/abstract/23/2/e170
+[8] F. E. Faisal, H. Zhao, and T. Milenkovic, “Global network align- ´ ment in the context of aging,” IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 12, no. 1, pp. 40–52, 2015.
+[9] N. Malod-Dognin, K. Ban, and N. Przulj, “Unified alignment ˇ of protein-protein interaction networks,” Scientific Reports, vol. 7, no. 1, p. 953, 2017.
+[10] O. Kuchaiev, T. Milenkovic, V. Memisevic, W. Hayes, and N. Przulj, “Topological network alignment uncovers ˇ biological function and phylogeny.” Journal of the Royal Society, vol. 7, no. 50, pp. 1341–54, Sep. 2010. [Online]. Available: http://www.pubmedcentral.nih.gov/articlerender. fcgi?artid=2894889\&tool=pmcentrez\&rendertype=abstract
+[11] Y.-R. Cho, M. Mina, Y. Lu, N. Kwon, and P. H. Guzzi, “M-finder: Uncovering functionally associated proteins from interactome data integrated with go annotations,” Proteome science, vol. 11, no. 1, p. 1, 2013.
+[12] G. Ciriello, M. Mina, P. H. Guzzi, M. Cannataro, and C. Guerra, “Alignnemo: a local network alignment method to integrate homology and topology,” PloS one, vol. 7, no. 6, p. e38107, 2012.
+[13] M. Mina and P. H. Guzzi, “Improving the robustness of local network alignment: design and extensive assessmentof a markov clustering-based approach,” Computational Biology and Bioinformatics, IEEE/ACM Transactions on, vol. 11, no. 3, pp. 561–572, 2014
+[14] ——, “Alignmcl: Comparative analysis of protein interaction networks through markov clustering,” in BIBM Workshops, 2012, pp. 174–181.
+[15] J. Crawford, T. Milenkovic, and Y. Sun, “Fair evaluation of global ´ network aligners,” Algorithms for Molecular Biology, vol. 10, no. 1, p. 19, 2015.
+[16] V. Vijayan, V. Saraph, and T. Milenkovic, “Magna++: Maximizing ´ accuracy in global network alignment via both node and edge conservation,” Bioinformatics, vol. 31, no. 14, pp. 2409–2411, 2015.
+[17] B. Neyshabur, A. Khadem, S. Hashemifar, and S. S. Arab, “Netal: a new graph-based method for global alignment of protein–protein interaction networks,” Bioinformatics, vol. 29, no. 13, pp. 1654– 1662, 2013.
+[18] J. Hu and K. Reinert, “Localali: an evolutionary-based local alignment approach to identify functionally conserved modules in multiple networks,” Bioinformatics, vol. 31, no. 3, pp. 363–372, 2014.
+[19] L. Meng, A. Striegel, and T. Milenkovic, “Local versus global ´ biological network alignment,” Bioinformatics, vol. 32, no. 20, pp. 3155–3164, 2016.
+[20] R. Ihaka and R. Gentleman, “R: a language for data analysis and graphics,” Journal of computational and graphical statistics, vol. 5, no. 3, pp. 299–314, 1996.
+[21] L. Meng, A. Striegel, and T. Milenkovic, “Local versus global biological network alignment,” arXiv preprint arXiv:1509.08524, 2015.
+[22] U. Stelzl, U. Worm, M. Lalowski, C. Haenig, F. H. Brembeck, H. Goehler, M. Stroedicke, M. Zenkner, A. Schoenherr, S. Koeppen et al., “A human protein-protein interaction network: a resource for annotating the proteome,” Cell, vol. 122, no. 6, pp. 957–968, 2005.
+[23] J. Kobler, U. Schoning, and J. Tor ¨ an, ´ The graph isomorphism problem: its structural complexity. Springer Science & Business Media, 2012.
+[24] V. Saraph and T. Milenkovic, “Magna: maximizing accuracy in ´ global network alignment,” Bioinformatics, vol. 30, no. 20, pp. 2931–2940, 2014.
+[25] A. J. Enright, S. Van Dongen, and C. A. Ouzounis, “An efficient algorithm for large-scale detection of protein families,” Nucleic acids research, vol. 30, no. 7, pp. 1575–1584, 2002.
+[26] G. Ciriello, M. Mina, P. H. Guzzi, M. Cannataro, and C. Guerra, “AlignNemo: A Local Network Alignment Method to Integrate Homology and Topology.” PloS one, vol. 7, no. 6, p. e38107, Jan. 2012. [Online]. Available: http://www.ncbi.nlm.nih.gov/ pubmed/22719866
+[27] J. Flannick, A. Novak, C. B. Do, B. S. Srinivasan, and S. Batzoglou, “Automatic parameter learning for multiple local network alignment,” Journal of computational biology, vol. 16, no. 8, pp. 1001– 1022, 2009.
+[28] R. Patro and C. Kingsford, “Global network alignment using multiscale spectral signatures,” Bioinformatics, vol. 28, no. 23, pp. 3105–3114, 2012.
+[29] N. Malod-Dognin and N. Przulj, “L-graal: Lagrangian graphletbased network aligner,” in Bioinformatics, 2015.
+[30] S. Hashemifar and J. Xu, “Hubalign: an accurate and efficient method for global alignment of protein–protein interaction networks,” Bioinformatics, vol. 30, no. 17, pp. i438–i444, 2014.
+[31] Y. Sun, J. Crawford, J. Tang, and T. Milenkovic, “Simultaneous ´ optimization of both node and edge conservation in network alignment via wave,” in International Workshop on Algorithms in Bioinformatics. Springer, 2015, pp. 16–39.
+[32] N. Mamano and W. Hayes, “Sana: Simulated annealing network alignment applied to biological networks,” arXiv preprint arXiv:1607.02642, 2016.
+[33] L. Meng, A. Striegel, and T. Milenkovic, “Igloo: Integrating global and local biological network alignment,” 2016.
+[34] M. Mina and P. H. Guzzi, “Alignmcl: Comparative analysis of protein interaction networks through markov clustering,” in Bioinformatics and Biomedicine Workshops (BIBMW), 2012 IEEE International Conference on. IEEE, 2012, pp. 174–181.
+[35] K. R. Brown and I. Jurisica, “Online predicted human interaction database,” Bioinformatics, vol. 21, no. 9, pp. 2076–2082, 2005.
+[36] J. Yu, S. Pacifico, G. Liu, and R. L. Finley, “Droid: the drosophila interactions database, a comprehensive resource for annotated gene and protein interactions,” BMC genomics, vol. 9, no. 1, p. 1, 2008.
+[37] A. Patil and H. Nakamura, “Hint: a database of annotated proteinprotein interactions and their homologs,” Biophysics, vol. 1, pp. 21–24, 2005.
+[38] M. H. Schaefer, J.-F. Fontaine, A. Vinayagam, P. Porras, E. E. Wanker, and M. A. Andrade-Navarro, “Hippie: Integrating protein interaction networks with experiment based quality scores,” PloS one, vol. 7, no. 2, p. e31826, 2012.
+[39] N. Simonis, J.-F. Rual, A.-R. Carvunis, M. Tasan, I. Lemmens, T. Hirozane-Kishikawa, T. Hao, J. M. Sahalie, K. Venkatesan, F. Gebreab et al., “Empirically controlled mapping of the caenorhabditis elegans protein-protein interactome network,” Nature methods, vol. 6, no. 1, pp. 47–54, 2009.
+[40] I. Xenarios, D. W. Rice, L. Salwinski, M. K. Baron, E. M. Marcotte, and D. Eisenberg, “Dip: the database of interacting proteins,” Nucleic acids research, vol. 28, no. 1, pp. 289–291, 2000.
+[41] Y. Hu, I. Flockhart, A. Vinayagam, C. Bergwitz, B. Berger, N. Perrimon, and S. E. Mohr, “An integrative approach to ortholog prediction for disease-focused and other functional studies,” BMC bioinformatics, vol. 12, no. 1, p. 357, 2011.
+[42] P. Resnik et al., “Semantic similarity in a taxonomy: An information-based measure and its application to problems of ambiguity in natural language,” J. Artif. Intell. Res.(JAIR), vol. 11, pp. 95–130, 1999.
+[43] S. Harispe, S. Ranwez, S. Janaqi, and J. Montmain, “The semantic measures library and toolkit: fast computation of semantic similarity and relatedness using biomedical ontologies,” Bioinformatics, vol. 30, no. 5, pp. 740–742, 2014.

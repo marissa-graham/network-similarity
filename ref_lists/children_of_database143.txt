@@ -1,0 +1,481 @@
+>>> NEW PAPER <<<
+>>> citation >>> V. Chakravarthy, B. Kompella, "The shape of handwritten characters", Pattern Recognition Letters, vol. 24, no. 12, pp. 1901-1913, 2003.
+>>> DOI >>> 10.1016/s0167-8655(03)00017-5
+>>> URL >>> http://dx.doi.org/10.1016/s0167-8655(03)00017-5
+>>> year >>> 2003.0
+>>> title >>> The shape of handwritten characters
+>>> author >>> V Srinivasa Chakravarthy and Bhaskar Kompella
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition Letters']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T15:30:43Z', 'timestamp': 1525361443684}, 'reference-count': 21, 'publisher': 'Elsevier BV', 'issue': '12', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2003, 8, 1]], 'date-time': '2003-08-01T00:00:00Z', 'timestamp': 1059696000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition Letters'], 'published-print': {'date-parts': [[2003, 8]]}, 'DOI': '10.1016/s0167-8655(03)00017-5', 'type': 'journal-article', 'created': {'date-parts': [[2003, 5, 1]], 'date-time': '2003-05-01T00:30:49Z', 'timestamp': 1051749049000}, 'page': '1901-1913', 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['The shape of handwritten characters'], 'prefix': '10.1016', 'volume': '24', 'author': [{'given': 'V', 'family': 'Srinivasa Chakravarthy', 'sequence': 'first', 'affiliation': []}, {'given': 'Bhaskar', 'family': 'Kompella', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition Letters'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0167865503000175?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0167865503000175?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T19:01:27Z', 'timestamp': 1497553287000}, 'score': 100.48368, 'issued': {'date-parts': [[2003, 8]]}, 'references-count': 21, 'journal-issue': {'published-print': {'date-parts': [[2003, 8]]}, 'issue': '12'}, 'alternative-id': ['S0167865503000175'], 'URL': 'http://dx.doi.org/10.1016/s0167-8655(03)00017-5', 'ISSN': ['0167-8655'], 'issn-type': [{'value': '0167-8655', 'type': 'print'}]}
+>>> hash >>> ('The shape of handwritten characters', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Rodriguez, F. Perronnin, "Local gradient histogram features for word spotting in unconstrained handwritten documents", Proc. IEEE Int. Conf. on Frontiers in Handwriting Recognition (ICFHR 2008), 2008.
+>>> DOI >>> 10.1109/icfhr.2016.0060
+>>> URL >>> http://dx.doi.org/10.1109/icfhr.2016.0060
+>>> year >>> 2016.0
+>>> title >>> PHOCNet: A Deep Convolutional Neural Network for Word Spotting in Handwritten Documents
+>>> author >>> Sebastian Sudholt and Gernot A. Fink
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 18.0
+>>> subject >>> None
+>>> container_title >>> ['2016 15th International Conference on Frontiers in Handwriting Recognition (ICFHR)']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T08:00:47Z', 'timestamp': 1525852847466}, 'reference-count': 22, 'publisher': 'IEEE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2016, 10]]}, 'DOI': '10.1109/icfhr.2016.0060', 'type': 'proceedings-article', 'created': {'date-parts': [[2017, 1, 17]], 'date-time': '2017-01-17T04:21:20Z', 'timestamp': 1484626880000}, 'source': 'Crossref', 'is-referenced-by-count': 18, 'title': ['PHOCNet: A Deep Convolutional Neural Network for Word Spotting in Handwritten Documents'], 'prefix': '10.1109', 'author': [{'given': 'Sebastian', 'family': 'Sudholt', 'sequence': 'first', 'affiliation': []}, {'given': 'Gernot A.', 'family': 'Fink', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2016 15th International Conference on Frontiers in Handwriting Recognition (ICFHR)', 'location': 'Shenzhen, China', 'start': {'date-parts': [[2016, 10, 23]]}, 'end': {'date-parts': [[2016, 10, 26]]}}, 'container-title': ['2016 15th International Conference on Frontiers in Handwriting Recognition (ICFHR)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/7811907/7814017/07814076.pdf?arnumber=7814076', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 10, 3]], 'date-time': '2017-10-03T03:54:33Z', 'timestamp': 1507002873000}, 'score': 72.96994, 'issued': {'date-parts': [[2016, 10]]}, 'ISBN': ['9781509009817'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1109/icfhr.2016.0060'}
+>>> hash >>> ('PHOCNet: A Deep Convolutional Neural Network for Word Spotting in Handwritten Documents', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Plamondon, S. Srihari, "Online and off-line handwriting recognition: A comprehensive survey", IEEE Trans. PAMI, vol. 22, pp. 63-84, 2000.
+>>> DOI >>> 10.1109/34.824821
+>>> URL >>> http://dx.doi.org/10.1109/34.824821
+>>> year >>> 2000.0
+>>> title >>> Online and off-line handwriting recognition: a comprehensive survey
+>>> author >>> R. Plamondon and S.N. Srihari
+>>> reference_count >>> 255.0
+>>> is_referenced_by_count >>> 1136.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 30]], 'date-time': '2018-05-30T06:42:43Z', 'timestamp': 1527662563538}, 'reference-count': 255, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2000]]}, 'DOI': '10.1109/34.824821', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '63-84', 'source': 'Crossref', 'is-referenced-by-count': 1136, 'title': ['Online and off-line handwriting recognition: a comprehensive survey'], 'prefix': '10.1109', 'volume': '22', 'author': [{'given': 'R.', 'family': 'Plamondon', 'sequence': 'first', 'affiliation': []}, {'given': 'S.N.', 'family': 'Srihari', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/17859/00824821.pdf?arnumber=824821', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T09:17:01Z', 'timestamp': 1512983821000}, 'score': 88.03032, 'issued': {'date-parts': [[2000]]}, 'references-count': 255, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1109/34.824821', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Online and off-line handwriting recognition: a comprehensive survey', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. Rabiner, "A tutorial on hidden Markov models and selected applications in speech recognition", Proceedings of the IEEE, vol. 77, no. 2, pp. 257-285, Feb. 1989.
+>>> DOI >>> 10.1109/5.18626
+>>> URL >>> http://dx.doi.org/10.1109/5.18626
+>>> year >>> 1989.0
+>>> title >>> A tutorial on hidden Markov models and selected applications in speech recognition
+>>> author >>> L.R. Rabiner
+>>> reference_count >>> 66.0
+>>> is_referenced_by_count >>> 9228.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the IEEE']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T14:22:29Z', 'timestamp': 1528381349526}, 'reference-count': 66, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. IEEE'], 'published-print': {'date-parts': [[1989]]}, 'DOI': '10.1109/5.18626', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T20:26:37Z', 'timestamp': 1030220797000}, 'page': '257-286', 'source': 'Crossref', 'is-referenced-by-count': 9228, 'title': ['A tutorial on hidden Markov models and selected applications in speech recognition'], 'prefix': '10.1109', 'volume': '77', 'author': [{'given': 'L.R.', 'family': 'Rabiner', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'container-title': ['Proceedings of the IEEE'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5/698/00018626.pdf?arnumber=18626', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:01:20Z', 'timestamp': 1497520880000}, 'score': 90.627266, 'issued': {'date-parts': [[1989]]}, 'references-count': 66, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1109/5.18626', 'ISSN': ['0018-9219'], 'issn-type': [{'value': '0018-9219', 'type': 'print'}]}
+>>> hash >>> ('A tutorial on hidden Markov models and selected applications in speech recognition', 1989.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. El Yacoubi, M. Gilloux, R. Sabourin, C. Suen, "An HMM-based approach for off-line unconstrained handwritten word modeling and recognition", IEEE Trans. PAMI, vol. 21, no. 8, pp. 752-760, 1999.
+>>> DOI >>> 10.1109/34.784288
+>>> URL >>> http://dx.doi.org/10.1109/34.784288
+>>> year >>> 1999.0
+>>> title >>> An HMM-based approach for off-line unconstrained handwritten word modeling and recognition
+>>> author >>> A. El-Yacoubi and M. Gilloux and R. Sabourin and C.Y. Suen
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 123.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:39Z', 'timestamp': 1525333539128}, 'reference-count': 28, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '8', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1109/34.784288', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '752-760', 'source': 'Crossref', 'is-referenced-by-count': 123, 'title': ['An HMM-based approach for off-line unconstrained handwritten word modeling and recognition'], 'prefix': '10.1109', 'volume': '21', 'author': [{'given': 'A.', 'family': 'El-Yacoubi', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Gilloux', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.', 'family': 'Sabourin', 'sequence': 'additional', 'affiliation': []}, {'given': 'C.Y.', 'family': 'Suen', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/17018/00784288.pdf?arnumber=784288', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T19:50:36Z', 'timestamp': 1489175436000}, 'score': 113.482704, 'issued': {'date-parts': [[1999]]}, 'references-count': 28, 'journal-issue': {'issue': '8'}, 'URL': 'http://dx.doi.org/10.1109/34.784288', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('An HMM-based approach for off-line unconstrained handwritten word modeling and recognition', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K. Riesen, H. Bunke, Graph Classification and Clustering Based on Vector Space Embedding ser. Series in Machine Perception and Artificial Intelligence, World Scientific, vol. 77, 2010.
+>>> DOI >>> 10.1142/9789814304726
+>>> URL >>> http://dx.doi.org/10.1142/9789814304726
+>>> year >>> 2010.0
+>>> title >>> GRAPH CLASSIFICATION AND CLUSTERING BASED ON VECTOR SPACE EMBEDDING
+>>> author >>> Kaspar Riesen and Horst Bunke
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Series in Machine Perception and Artificial Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 27]], 'date-time': '2018-04-27T16:10:13Z', 'timestamp': 1524845413802}, 'reference-count': 0, 'publisher': 'World Scientific Publishing Co. Pte. Ltd.', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.1142/9789814304726', 'type': 'monograph', 'created': {'date-parts': [[2011, 5, 12]], 'date-time': '2011-05-12T03:32:49Z', 'timestamp': 1305171169000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['GRAPH CLASSIFICATION AND CLUSTERING BASED ON VECTOR SPACE EMBEDDING'], 'prefix': '10.1142', 'author': [{'given': 'Kaspar', 'family': 'Riesen', 'sequence': 'first', 'affiliation': []}, {'given': 'Horst', 'family': 'Bunke', 'sequence': 'additional', 'affiliation': []}], 'member': '219', 'container-title': ['Series in Machine Perception and Artificial Intelligence'], 'deposited': {'date-parts': [[2016, 8, 15]], 'date-time': '2016-08-15T19:16:35Z', 'timestamp': 1471288595000}, 'score': 105.859436, 'issued': {'date-parts': [[2010]]}, 'ISBN': ['9789814304726'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1142/9789814304726', 'ISSN': ['1793-0839'], 'issn-type': [{'value': '1793-0839', 'type': 'print'}]}
+>>> hash >>> ('GRAPH CLASSIFICATION AND CLUSTERING BASED ON VECTOR SPACE EMBEDDING', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> F. Chung, Spectral Graph Theory, American Mathematical Society, 1997.
+>>> DOI >>> 10.1090/cbms/092
+>>> URL >>> http://dx.doi.org/10.1090/cbms/092
+>>> year >>> 1996.0
+>>> title >>> Spectral Graph Theory
+>>> author >>> Fan Chung
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 71.0
+>>> subject >>> None
+>>> container_title >>> ['CBMS Regional Conference Series in Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T23:07:48Z', 'timestamp': 1525734468678}, 'publisher-location': 'Providence, Rhode Island', 'reference-count': 0, 'publisher': 'American Mathematical Society', 'isbn-type': [{'value': '9780821803158', 'type': 'print'}, {'value': '9781470424527', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1996, 12, 3]]}, 'DOI': '10.1090/cbms/092', 'type': 'monograph', 'created': {'date-parts': [[2015, 11, 23]], 'date-time': '2015-11-23T14:23:24Z', 'timestamp': 1448288604000}, 'source': 'Crossref', 'is-referenced-by-count': 71, 'title': ['Spectral Graph Theory'], 'prefix': '10.1090', 'author': [{'given': 'Fan', 'family': 'Chung', 'sequence': 'first', 'affiliation': []}], 'member': '14', 'container-title': ['CBMS Regional Conference Series in Mathematics'], 'deposited': {'date-parts': [[2015, 11, 23]], 'date-time': '2015-11-23T14:23:24Z', 'timestamp': 1448288604000}, 'score': 28.664082, 'issued': {'date-parts': [[1996, 12, 3]]}, 'ISBN': ['9780821803158', '9781470424527'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1090/cbms/092', 'ISSN': ['0160-7642', '2380-5668'], 'issn-type': [{'value': '0160-7642', 'type': 'print'}, {'value': '2380-5668', 'type': 'electronic'}]}
+>>> hash >>> ('Spectral Graph Theory', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Antonacopoulos, A. Downton, "Special issue on the analysis of historical documents", Int. Journal on Document Analysis and Recognition, vol. 9, no. 2–4, pp. 75-77, 2007.
+>>> DOI >>> 10.1007/s10032-007-0045-1
+>>> URL >>> http://dx.doi.org/10.1007/s10032-007-0045-1
+>>> year >>> 2007.0
+>>> title >>> Special issue on the analysis of historical documents
+>>> author >>> Apostolos Antonacopoulos and Andy C. Downton
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 36.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Document Analysis and Recognition (IJDAR)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T14:09:43Z', 'timestamp': 1525356583387}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '2-4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IJDAR'], 'published-print': {'date-parts': [[2007, 4, 4]]}, 'DOI': '10.1007/s10032-007-0045-1', 'type': 'journal-article', 'created': {'date-parts': [[2007, 3, 26]], 'date-time': '2007-03-26T06:09:36Z', 'timestamp': 1174889376000}, 'page': '75-77', 'source': 'Crossref', 'is-referenced-by-count': 36, 'title': ['Special issue on the analysis of historical documents'], 'prefix': '10.1007', 'volume': '9', 'author': [{'given': 'Apostolos', 'family': 'Antonacopoulos', 'sequence': 'first', 'affiliation': []}, {'given': 'Andy C.', 'family': 'Downton', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2007, 3, 27]]}, 'container-title': ['International Journal of Document Analysis and Recognition (IJDAR)'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s10032-007-0045-1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 3, 27]], 'date-time': '2013-03-27T20:00:05Z', 'timestamp': 1364414405000}, 'score': 78.84506, 'issued': {'date-parts': [[2007, 3, 27]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2007, 4, 4]]}, 'issue': '2-4'}, 'alternative-id': ['45'], 'URL': 'http://dx.doi.org/10.1007/s10032-007-0045-1', 'ISSN': ['1433-2833', '1433-2825'], 'issn-type': [{'value': '1433-2833', 'type': 'print'}, {'value': '1433-2825', 'type': 'electronic'}]}
+>>> hash >>> ('Special issue on the analysis of historical documents', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. Pekalska, R. Duin, The Dissimilarity Representations for Pattern Recognition: Foundations and Applications, World Scientific, 2005.
+>>> DOI >>> 10.1142/9789812703170
+>>> URL >>> http://dx.doi.org/10.1142/9789812703170
+>>> year >>> 2005.0
+>>> title >>> The Dissimilarity Representation for Pattern Recognition - Foundations and Applications
+>>> author >>> Elzbieta Pekalska and Robert P. W. Duin
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['Series in Machine Perception and Artificial Intelligence']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 28]], 'date-time': '2018-04-28T02:10:08Z', 'timestamp': 1524881408218}, 'reference-count': 0, 'publisher': 'World Scientific Publishing Co. Pte. Ltd.', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1142/9789812703170', 'type': 'monograph', 'created': {'date-parts': [[2010, 3, 8]], 'date-time': '2010-03-08T06:26:59Z', 'timestamp': 1268029619000}, 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['The Dissimilarity Representation for Pattern Recognition - Foundations and Applications'], 'prefix': '10.1142', 'author': [{'given': 'Elzbieta', 'family': 'Pekalska', 'sequence': 'first', 'affiliation': []}, {'given': 'Robert P. W.', 'family': 'Duin', 'sequence': 'additional', 'affiliation': []}], 'member': '219', 'container-title': ['Series in Machine Perception and Artificial Intelligence'], 'deposited': {'date-parts': [[2016, 8, 15]], 'date-time': '2016-08-15T19:15:03Z', 'timestamp': 1471288503000}, 'score': 66.59683, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['9789812703170'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1142/9789812703170', 'ISSN': ['1793-0839'], 'issn-type': [{'value': '1793-0839', 'type': 'print'}]}
+>>> hash >>> ('The Dissimilarity Representation for Pattern Recognition - Foundations and Applications', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Vinciarelli, S. Bengio, H. Bunke, "Offline recognition of unconstrained handwritten texts using HMMs and statistical language models", IEEE Trans. PAMI, 2004.
+>>> DOI >>> 10.1109/tpami.2004.14
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2004.14
+>>> year >>> 2004.0
+>>> title >>> Offline recognition of unconstrained handwritten texts using HMMs and statistical language models
+>>> author >>> H. Bunke and S. Bengio and A. Vinciarelli
+>>> reference_count >>> 37.0
+>>> is_referenced_by_count >>> 117.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T03:52:52Z', 'timestamp': 1525405972950}, 'reference-count': 37, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2004, 6]]}, 'DOI': '10.1109/tpami.2004.14', 'type': 'journal-article', 'created': {'date-parts': [[2004, 4, 26]], 'date-time': '2004-04-26T18:25:23Z', 'timestamp': 1083003923000}, 'page': '709-720', 'source': 'Crossref', 'is-referenced-by-count': 117, 'title': ['Offline recognition of unconstrained handwritten texts using HMMs and statistical language models'], 'prefix': '10.1109', 'volume': '26', 'author': [{'given': 'H.', 'family': 'Bunke', 'sequence': 'first', 'affiliation': []}, {'given': 'S.', 'family': 'Bengio', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Vinciarelli', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'language': 'en', 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/28729/01288521.pdf?arnumber=1288521', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T06:25:14Z', 'timestamp': 1497594314000}, 'score': 113.63384, 'issued': {'date-parts': [[2004, 6]]}, 'references-count': 37, 'journal-issue': {'published-print': {'date-parts': [[2004, 6]]}, 'issue': '6'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2004.14', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Offline recognition of unconstrained handwritten texts using HMMs and statistical language models', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> H. Bunke, G. Allermann, "Inexact graph matching for structural pattern recognition", Pattern Recognition Letters, vol. 1, no. 4, pp. 245-253, 1983.
+>>> DOI >>> 10.1016/0167-8655(83)90033-8
+>>> URL >>> http://dx.doi.org/10.1016/0167-8655(83)90033-8
+>>> year >>> 1983.0
+>>> title >>> Inexact graph matching for structural pattern recognition
+>>> author >>> H Bunke and G Allermann
+>>> reference_count >>> 12.0
+>>> is_referenced_by_count >>> 160.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition Letters']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T10:22:31Z', 'timestamp': 1527762151606}, 'reference-count': 12, 'publisher': 'Elsevier BV', 'issue': '4', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1983, 5, 1]], 'date-time': '1983-05-01T00:00:00Z', 'timestamp': 420595200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition Letters'], 'published-print': {'date-parts': [[1983, 5]]}, 'DOI': '10.1016/0167-8655(83)90033-8', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 30]], 'date-time': '2003-06-30T17:46:52Z', 'timestamp': 1056995212000}, 'page': '245-253', 'source': 'Crossref', 'is-referenced-by-count': 160, 'title': ['Inexact graph matching for structural pattern recognition'], 'prefix': '10.1016', 'volume': '1', 'author': [{'given': 'H', 'family': 'Bunke', 'sequence': 'first', 'affiliation': []}, {'given': 'G', 'family': 'Allermann', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition Letters'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0167865583900338?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0167865583900338?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T22:54:46Z', 'timestamp': 1497567286000}, 'score': 123.17556, 'issued': {'date-parts': [[1983, 5]]}, 'references-count': 12, 'journal-issue': {'published-print': {'date-parts': [[1983, 5]]}, 'issue': '4'}, 'alternative-id': ['0167865583900338'], 'URL': 'http://dx.doi.org/10.1016/0167-8655(83)90033-8', 'ISSN': ['0167-8655'], 'issn-type': [{'value': '0167-8655', 'type': 'print'}]}
+>>> hash >>> ('Inexact graph matching for structural pattern recognition', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Z. Guo, R. Hall, "Parallel thinning with two-subiteration algorithms", Communications of the ACM, vol. 32, no. 3, pp. 359-373, 1989.
+>>> DOI >>> 10.1145/62065.62074
+>>> URL >>> http://dx.doi.org/10.1145/62065.62074
+>>> year >>> 1989.0
+>>> title >>> Parallel thinning with two-subiteration algorithms
+>>> author >>> Zicheng Guo and Richard W. Hall
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 200.0
+>>> subject >>> None
+>>> container_title >>> ['Communications of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 16]], 'date-time': '2018-05-16T23:22:32Z', 'timestamp': 1526512952245}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Commun. ACM'], 'published-print': {'date-parts': [[1989, 3, 1]]}, 'DOI': '10.1145/62065.62074', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:38:11Z', 'timestamp': 1027769891000}, 'page': '359-373', 'source': 'Crossref', 'is-referenced-by-count': 200, 'title': ['Parallel thinning with two-subiteration algorithms'], 'prefix': '10.1145', 'volume': '32', 'author': [{'given': 'Zicheng', 'family': 'Guo', 'sequence': 'first', 'affiliation': []}, {'given': 'Richard W.', 'family': 'Hall', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['Communications of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=62074&amp;ftid=20797&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 12]], 'date-time': '2016-12-12T17:41:43Z', 'timestamp': 1481564503000}, 'score': 94.01686, 'issued': {'date-parts': [[1989, 3, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1145/62065.62074', 'ISSN': ['0001-0782'], 'issn-type': [{'value': '0001-0782', 'type': 'print'}]}
+>>> hash >>> ('Parallel thinning with two-subiteration algorithms', 1989.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Munkres, "Algorithms for the assignment and transportation problems", Journal of the Society for Industrial and Applied Mathematics, vol. 5, no. 1, pp. 32-38, 1957.
+>>> DOI >>> 10.1137/0105003
+>>> URL >>> http://dx.doi.org/10.1137/0105003
+>>> year >>> 1957.0
+>>> title >>> Algorithms for the Assignment and Transportation Problems
+>>> author >>> James Munkres
+>>> reference_count >>> 3.0
+>>> is_referenced_by_count >>> 1079.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the Society for Industrial and Applied Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T02:02:28Z', 'timestamp': 1528336948917}, 'reference-count': 3, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of the Society for Industrial and Applied Mathematics'], 'published-print': {'date-parts': [[1957, 3]]}, 'DOI': '10.1137/0105003', 'type': 'journal-article', 'created': {'date-parts': [[2005, 2, 23]], 'date-time': '2005-02-23T13:46:00Z', 'timestamp': 1109166360000}, 'page': '32-38', 'source': 'Crossref', 'is-referenced-by-count': 1079, 'title': ['Algorithms for the Assignment and Transportation Problems'], 'prefix': '10.1137', 'volume': '5', 'author': [{'given': 'James', 'family': 'Munkres', 'sequence': 'first', 'affiliation': []}], 'member': '351', 'container-title': ['Journal of the Society for Industrial and Applied Mathematics'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/0105003', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T15:13:16Z', 'timestamp': 1485702796000}, 'score': 73.96688, 'issued': {'date-parts': [[1957, 3]]}, 'references-count': 3, 'journal-issue': {'published-print': {'date-parts': [[1957, 3]]}, 'issue': '1'}, 'alternative-id': ['10.1137/0105003'], 'URL': 'http://dx.doi.org/10.1137/0105003', 'ISSN': ['0368-4245', '2168-3484'], 'issn-type': [{'value': '0368-4245', 'type': 'print'}, {'value': '2168-3484', 'type': 'electronic'}]}
+>>> hash >>> ('Algorithms for the Assignment and Transportation Problems', 1957.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> U.-V. Marti, H. Bunke, "Using a statistical language model to improve the performance of an HMM-based cursive handwriting recognition system", Int. Journal of Pattern Rec. and Art. Intelligence, vol. 15, pp. 65-90, 2001.
+>>> DOI >>> 10.1142/s0218001401000848
+>>> URL >>> http://dx.doi.org/10.1142/s0218001401000848
+>>> year >>> 2001.0
+>>> title >>> USING A STATISTICAL LANGUAGE MODEL TO IMPROVE THE PERFORMANCE OF AN HMM-BASED CURSIVE HANDWRITING RECOGNITION SYSTEM
+>>> author >>> U.-V. MARTI and H. BUNKE
+>>> reference_count >>> 23.0
+>>> is_referenced_by_count >>> 178.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Pattern Recognition and Artificial Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:08:29Z', 'timestamp': 1525334909331}, 'reference-count': 23, 'publisher': 'World Scientific Pub Co Pte Lt', 'issue': '01', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int. J. Patt. Recogn. Artif. Intell.'], 'published-print': {'date-parts': [[2001, 2]]}, 'DOI': '10.1142/s0218001401000848', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:03:21Z', 'timestamp': 1027767801000}, 'page': '65-90', 'source': 'Crossref', 'is-referenced-by-count': 178, 'title': ['USING A STATISTICAL LANGUAGE MODEL TO IMPROVE THE PERFORMANCE OF AN HMM-BASED CURSIVE HANDWRITING RECOGNITION SYSTEM'], 'prefix': '10.1142', 'volume': '15', 'author': [{'given': 'U.-V.', 'family': 'MARTI', 'sequence': 'first', 'affiliation': []}, {'given': 'H.', 'family': 'BUNKE', 'sequence': 'additional', 'affiliation': []}], 'member': '219', 'reference': [{'key': 'p_1', 'author': 'Agarwal A.', 'first-page': '24', 'year': '1997', 'journal-title': 'H. Bunke and P. S. P. Wang, World Scientific'}, {'key': 'p_2', 'DOI': '10.1109/34.23114', 'doi-asserted-by': 'publisher'}, {'key': 'p_3', 'DOI': '10.1016/0031-3203(83)90049-3', 'doi-asserted-by': 'publisher'}, {'key': 'p_4', 'DOI': '10.1016/0031-3203(95)00013-P', 'doi-asserted-by': 'publisher'}, {'key': 'p_5', 'author': 'Caesar T.', 'first-page': '408', 'year': '1993', 'journal-title': 'Proc. 2nd Int. Conf. Document Analysis and Recognition, Tsukuba Science City, Japan'}, {'key': 'p_6', 'author': 'Downton A. C.', 'volume': '2', 'first-page': '542', 'year': '1991', 'journal-title': 'Proc. 1st Int. Conf. Document Analysis and Recognition, Saint-Malo, France'}, {'key': 'p_7', 'author': 'Dzuba G.', 'first-page': '153', 'year': '1999', 'journal-title': 'S.-W. Lee, World Scientific'}, {'key': 'p_9', 'author': 'Farouz C.', 'first-page': '183', 'year': '1999', 'journal-title': 'S.-W. Lee, World Scientific'}, {'key': 'p_10', 'author': 'Favata J. T.', 'first-page': '393', 'year': '1997', 'journal-title': 'A. C. Downton and S. Impedovo, World Scientific'}, {'key': 'p_12', 'DOI': '10.1109/ICDAR.1999.791840', 'doi-asserted-by': 'publisher'}, {'key': 'p_13', 'author': 'Guyon I.', 'first-page': '7', 'year': '1997', 'journal-title': 'H. Bunke and P. S. P. Wang, World Scientific'}, {'key': 'p_17', 'author': 'Kaltenmeier A.', 'first-page': '139', 'year': '1993', 'journal-title': 'Proc. 2nd Int. Conf. Document Analysis and Recognition, Tsukuba Science City, Japan'}, {'key': 'p_18', 'author': 'Kaufmann G.', 'first-page': '302', 'year': '1998', 'journal-title': 'Proc. 3rd IAPR Workshop on Document Analysis Systems, Nagano, Japan'}, {'key': 'p_19', 'author': 'Kim G.', 'first-page': '163', 'year': '1999', 'journal-title': 'S.-W. Lee, World Scientific'}, {'key': 'p_20', 'author': 'Kim H. J.', 'volume': '30', 'first-page': '3', 'year': '1997', 'journal-title': 'Patt. Recogn.'}, {'key': 'p_21', 'author': 'Kundu A.', 'first-page': '6', 'year': '1997', 'journal-title': 'Handbook of Character Recognition and Document Image Analysis, World Scientific'}, {'key': 'p_22', 'author': 'Marti U.-V.', 'first-page': '705', 'year': '1999', 'journal-title': 'Proc. 5th Int. Conf. Document Analysis and Recognition, Bangalore, India'}, {'key': 'p_23', 'DOI': '10.1016/0031-3203(93)90167-U', 'doi-asserted-by': 'publisher'}, {'key': 'p_25', 'author': 'Sch�ssler M.', 'first-page': '213', 'year': '1999', 'journal-title': 'S.-W. Lee, World Scientific'}, {'key': 'p_26', 'author': 'Seiler R.', 'first-page': '29', 'year': '1997', 'journal-title': 'A.C. Downton and S. Impedovo, World Scientific'}, {'key': 'p_27', 'DOI': '10.1109/5.156476', 'doi-asserted-by': 'publisher'}, {'key': 'p_28', 'author': 'Srihari S. N.', 'first-page': '291', 'year': '1993', 'journal-title': 'Proc. 2nd Int. Conf. Document Analysis and Recognition, Tsukuba Science City, Japan'}, {'key': 'p_29', 'DOI': '10.1109/5.119564', 'doi-asserted-by': 'publisher'}], 'container-title': ['International Journal of Pattern Recognition and Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://www.worldscientific.com/doi/pdf/10.1142/S0218001401000848', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 2]], 'date-time': '2016-12-02T04:46:40Z', 'timestamp': 1480654000000}, 'score': 96.38072, 'issued': {'date-parts': [[2001, 2]]}, 'references-count': 23, 'journal-issue': {'published-print': {'date-parts': [[2001, 2]]}, 'issue': '01'}, 'alternative-id': ['10.1142/S0218001401000848'], 'URL': 'http://dx.doi.org/10.1142/s0218001401000848', 'relation': {'cites': []}, 'ISSN': ['0218-0014', '1793-6381'], 'issn-type': [{'value': '0218-0014', 'type': 'print'}, {'value': '1793-6381', 'type': 'electronic'}]}
+>>> hash >>> ('USING A STATISTICAL LANGUAGE MODEL TO IMPROVE THE PERFORMANCE OF AN HMM-BASED CURSIVE HANDWRITING RECOGNITION SYSTEM', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Lu, Y. Ren, C. Suen, "Hierarchical attributed graph representation and recognition of handwritten chinese characters", Pattern Recognition, vol. 24, no. 7, pp. 617-632, 1991.
+>>> DOI >>> 10.1016/0031-3203(91)90029-5
+>>> URL >>> http://dx.doi.org/10.1016/0031-3203(91)90029-5
+>>> year >>> 1991.0
+>>> title >>> Hierarchical attributed graph representation and recognition of handwritten chinese characters
+>>> author >>> None
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 67.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 28]], 'date-time': '2018-05-28T11:02:36Z', 'timestamp': 1527505356332}, 'reference-count': 18, 'publisher': 'Elsevier BV', 'issue': '7', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1991, 1, 1]], 'date-time': '1991-01-01T00:00:00Z', 'timestamp': 662688000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[1991, 1]]}, 'DOI': '10.1016/0031-3203(91)90029-5', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 30]], 'date-time': '2003-06-30T18:41:01Z', 'timestamp': 1056998461000}, 'page': '617-632', 'source': 'Crossref', 'is-referenced-by-count': 67, 'title': ['Hierarchical attributed graph representation and recognition of handwritten chinese characters'], 'prefix': '10.1016', 'volume': '24', 'author': [{'family': 'Si Wei Lu', 'sequence': 'first', 'affiliation': []}, {'given': 'Ying', 'family': 'Ren', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ching Y.', 'family': 'Suen', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0031320391900295?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0031320391900295?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T22:56:52Z', 'timestamp': 1497567412000}, 'score': 117.044106, 'issued': {'date-parts': [[1991, 1]]}, 'references-count': 18, 'journal-issue': {'published-print': {'date-parts': [[1991, 1]]}, 'issue': '7'}, 'alternative-id': ['0031320391900295'], 'URL': 'http://dx.doi.org/10.1016/0031-3203(91)90029-5', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('Hierarchical attributed graph representation and recognition of handwritten chinese characters', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Edwards, Y. W. Teh, D. Forsyth, R. Bock, M. Maire, G. Vesom, L. Saul, Y. Weiss, L. Bottou, Making latin manuscripts searchable using gHMM's, MIT Press, pp. 385-392, 2005.
+>>> DOI >>> 10.1163/9789004360860_015
+>>> URL >>> http://dx.doi.org/10.1163/9789004360860_015
+>>> year >>> None
+>>> title >>> Index of Manuscripts
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ["\n         Communal Creativity in the Making of the 'Beowulf' Manuscript\n      "]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 30]], 'date-time': '2018-04-30T15:56:13Z', 'timestamp': 1525103773524}, 'reference-count': 0, 'publisher': 'Brill', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1163/9789004360860_015', 'type': 'book-chapter', 'created': {'date-parts': [[2018, 4, 17]], 'date-time': '2018-04-17T19:20:53Z', 'timestamp': 1523992853000}, 'page': '378-392', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Index of Manuscripts'], 'prefix': '10.1163', 'member': '50', 'container-title': ["\n         Communal Creativity in the Making of the 'Beowulf' Manuscript\n      "], 'deposited': {'date-parts': [[2018, 4, 17]], 'date-time': '2018-04-17T19:21:01Z', 'timestamp': 1523992861000}, 'score': 26.971489, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9789004360860'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1163/9789004360860_015'}
+>>> hash >>> ('Index of Manuscripts', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Wilson, E. Hancock, B. Luo, "Pattern vectors from algebraic graph theory", IEEE Trans. PAMI, vol. 27, no. 7, pp. 1112-1124, 2005.
+>>> DOI >>> 10.1109/tpami.2005.145
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2005.145
+>>> year >>> 2005.0
+>>> title >>> Pattern vectors from algebraic graph theory
+>>> author >>> None
+>>> reference_count >>> 40.0
+>>> is_referenced_by_count >>> 108.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T18:41:22Z', 'timestamp': 1525459282449}, 'reference-count': 40, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '7', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2005, 7]]}, 'DOI': '10.1109/tpami.2005.145', 'type': 'journal-article', 'created': {'date-parts': [[2005, 5, 24]], 'date-time': '2005-05-24T14:38:25Z', 'timestamp': 1116945505000}, 'page': '1112-1124', 'source': 'Crossref', 'is-referenced-by-count': 108, 'title': ['Pattern vectors from algebraic graph theory'], 'prefix': '10.1109', 'volume': '27', 'author': [{'given': 'R.C.', 'family': 'Wilson', 'sequence': 'first', 'affiliation': []}, {'given': 'E.R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}, {'family': 'Bin Luo', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/30890/01432744.pdf?arnumber=1432744', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T01:41:09Z', 'timestamp': 1510623669000}, 'score': 84.96004, 'issued': {'date-parts': [[2005, 7]]}, 'references-count': 40, 'journal-issue': {'issue': '7'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2005.145', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Pattern vectors from algebraic graph theory', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Fischer, M. Wüthrich, M. Liwicki, V. Frinken, H. Bunke, G. Viehhauser, M. Stolz, "Automatic transcription of handwritten medieval documents", Proc. 15th Int. Conf. on Virtual Systems and Multimedia (VSMM), vol. 1, pp. 137-142, September 2009.
+>>> DOI >>> 10.1109/vsmm.2009.26
+>>> URL >>> http://dx.doi.org/10.1109/vsmm.2009.26
+>>> year >>> 2009.0
+>>> title >>> Automatic Transcription of Handwritten Medieval Documents
+>>> author >>> Andreas Fischer and Markus Wuthrich and Marcus Liwicki and Volkmar Frinken and Horst Bunke and Gabriel Viehhauser and Michael Stolz
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 19.0
+>>> subject >>> None
+>>> container_title >>> ['2009 15th International Conference on Virtual Systems and Multimedia']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T06:44:51Z', 'timestamp': 1525502691993}, 'reference-count': 22, 'publisher': 'IEEE', 'isbn-type': [{'value': '9780769537900', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 9]]}, 'DOI': '10.1109/vsmm.2009.26', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 11, 5]], 'date-time': '2009-11-05T18:36:58Z', 'timestamp': 1257446218000}, 'source': 'Crossref', 'is-referenced-by-count': 19, 'title': ['Automatic Transcription of Handwritten Medieval Documents'], 'prefix': '10.1109', 'author': [{'given': 'Andreas', 'family': 'Fischer', 'sequence': 'first', 'affiliation': []}, {'given': 'Markus', 'family': 'Wuthrich', 'sequence': 'additional', 'affiliation': []}, {'given': 'Marcus', 'family': 'Liwicki', 'sequence': 'additional', 'affiliation': []}, {'given': 'Volkmar', 'family': 'Frinken', 'sequence': 'additional', 'affiliation': []}, {'given': 'Horst', 'family': 'Bunke', 'sequence': 'additional', 'affiliation': []}, {'given': 'Gabriel', 'family': 'Viehhauser', 'sequence': 'additional', 'affiliation': []}, {'given': 'Michael', 'family': 'Stolz', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 15th International Conference on Virtual Systems and Multimedia (VSMM)', 'location': 'Vienna, Austria', 'start': {'date-parts': [[2009, 9, 9]]}, 'end': {'date-parts': [[2009, 9, 12]]}}, 'container-title': ['2009 15th International Conference on Virtual Systems and Multimedia'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5305994/5305995/05306020.pdf?arnumber=5306020', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T01:27:53Z', 'timestamp': 1497835673000}, 'score': 119.15631, 'issued': {'date-parts': [[2009, 9]]}, 'ISBN': ['9780769537900'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1109/vsmm.2009.26'}
+>>> hash >>> ('Automatic Transcription of Handwritten Medieval Documents', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Rocha, T. Pavlidis, "Character recognition without segmentation", IEEE Trans. PAMI, vol. 17, no. 9, pp. 903-909, 1995.
+>>> DOI >>> 10.1109/34.406657
+>>> URL >>> http://dx.doi.org/10.1109/34.406657
+>>> year >>> 1995.0
+>>> title >>> Character recognition without segmentation
+>>> author >>> J. Rocha and T. Pavlidis
+>>> reference_count >>> 23.0
+>>> is_referenced_by_count >>> 32.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:32Z', 'timestamp': 1525333532454}, 'reference-count': 23, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '9', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1995]]}, 'DOI': '10.1109/34.406657', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '903-909', 'source': 'Crossref', 'is-referenced-by-count': 32, 'title': ['Character recognition without segmentation'], 'prefix': '10.1109', 'volume': '17', 'author': [{'given': 'J.', 'family': 'Rocha', 'sequence': 'first', 'affiliation': []}, {'given': 'T.', 'family': 'Pavlidis', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/9134/00406657.pdf?arnumber=406657', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T09:17:13Z', 'timestamp': 1512983833000}, 'score': 72.8553, 'issued': {'date-parts': [[1995]]}, 'references-count': 23, 'journal-issue': {'issue': '9'}, 'URL': 'http://dx.doi.org/10.1109/34.406657', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Character recognition without segmentation', 1995.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. Nagy, D. Lopresti, "Interactive document processing and digital libraries", Proc. 2nd Int. Workshop on Document Image Analysis for Libraries (DIAL 2006), pp. 2-11, 2006.
+>>> DOI >>> 10.1109/dial.2006.25
+>>> URL >>> http://dx.doi.org/10.1109/dial.2006.25
+>>> year >>> None
+>>> title >>> Interactive Document Processing and Digital Libraries
+>>> author >>> G. Nagy and D. Lopresti
+>>> reference_count >>> 3.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ["Second International Conference on Document Image Analysis for Libraries (DIAL'06)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database143.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T22:38:46Z', 'timestamp': 1525300726438}, 'reference-count': 3, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769525318', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/dial.2006.25', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 5, 25]], 'date-time': '2006-05-25T20:26:01Z', 'timestamp': 1148588761000}, 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Interactive Document Processing and Digital Libraries'], 'prefix': '10.1109', 'author': [{'given': 'G.', 'family': 'Nagy', 'sequence': 'first', 'affiliation': []}, {'given': 'D.', 'family': 'Lopresti', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "Second International Conference on Document Image Analysis for Libraries (DIAL'06)", 'location': 'Lyon, France'}, 'container-title': ["Second International Conference on Document Image Analysis for Libraries (DIAL'06)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10738/33862/01612941.pdf?arnumber=1612941', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 15]], 'date-time': '2017-03-15T03:19:07Z', 'timestamp': 1489547947000}, 'score': 98.06354, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769525318'], 'references-count': 3, 'URL': 'http://dx.doi.org/10.1109/dial.2006.25'}
+>>> hash >>> ('Interactive Document Processing and Digital Libraries', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

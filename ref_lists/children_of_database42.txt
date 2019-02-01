@@ -1,0 +1,529 @@
+>>> NEW PAPER <<<
+>>> citation >>> A. Braunstein, R. Zecchina, "Learning by message passing in networks of discrete synapses", Phys. Rev. Lett., 2006.
+>>> DOI >>> 10.1103/physrevlett.96.030201
+>>> URL >>> http://dx.doi.org/10.1103/physrevlett.96.030201
+>>> year >>> 2006.0
+>>> title >>> Learning by Message Passing in Networks of Discrete Synapses
+>>> author >>> Alfredo Braunstein and Riccardo Zecchina
+>>> reference_count >>> 39.0
+>>> is_referenced_by_count >>> 73.0
+>>> subject >>> None
+>>> container_title >>> ['Physical Review Letters']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T02:08:11Z', 'timestamp': 1525486091430}, 'reference-count': 39, 'publisher': 'American Physical Society (APS)', 'issue': '3', 'license': [{'URL': 'http://link.aps.org/licenses/aps-default-license', 'start': {'date-parts': [[2006, 1, 25]], 'date-time': '2006-01-25T00:00:00Z', 'timestamp': 1138147200000}, 'delay-in-days': 0, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Phys. Rev. Lett.'], 'DOI': '10.1103/physrevlett.96.030201', 'type': 'journal-article', 'created': {'date-parts': [[2006, 1, 25]], 'date-time': '2006-01-25T23:48:31Z', 'timestamp': 1138232911000}, 'source': 'Crossref', 'is-referenced-by-count': 73, 'title': ['Learning by Message Passing in Networks of Discrete Synapses'], 'prefix': '10.1103', 'volume': '96', 'author': [{'given': 'Alfredo', 'family': 'Braunstein', 'sequence': 'first', 'affiliation': []}, {'given': 'Riccardo', 'family': 'Zecchina', 'sequence': 'additional', 'affiliation': []}], 'member': '16', 'published-online': {'date-parts': [[2006, 1, 25]]}, 'reference': [{'key': 'PhysRevLett.96.030201Cc1R1', 'author': 'D.\u2009O. Hebb', 'year': '1949', 'volume-title': 'Organization of Behavior'}, {'key': 'PhysRevLett.96.030201Cc1R2', 'author': 'P. Dayan', 'year': '2001', 'volume-title': 'Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems'}, {'key': 'PhysRevLett.96.030201Cc2R1', 'author': 'J. Hertz', 'year': '1991', 'volume-title': 'Introduction to the Theory of Neural Computation', 'DOI': '10.1063/1.2810360', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevLett.96.030201Cc3R1', 'DOI': '10.1016/j.neuron.2004.08.023', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc4R1', 'DOI': '10.1007/BF00204772', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc5R1', 'DOI': '10.1006/jcss.1997.1560', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc6R1', 'author': 'A. Engel', 'year': '2001', 'volume-title': 'Statistical Mechanics of Learning', 'DOI': '10.1017/CBO9781139164542', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevLett.96.030201Cc7R1', 'DOI': '10.1126/science.1089662', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc7R2', 'DOI': '10.1016/S0896-6273(00)80341-4', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc8R1', 'DOI': '10.1073/pnas.0502332102', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc8R2', 'DOI': '10.1073/pnas.95.8.4732', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc9R1', 'DOI': '10.1002/cta.282', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc10R1', 'DOI': '10.1016/S0893-6080(05)80010-3', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc10R2', 'author': 'E. Amaldi', 'year': '1991', 'volume-title': 'On the Complexity of Training Perceptrons'}, {'key': 'PhysRevLett.96.030201Cc11R1', 'first-page': '3057', 'volume': '50', 'author': 'W. Krauth', 'year': '1989', 'journal-title': 'J. Phys. (France)', 'ISSN': 'http://id.crossref.org/issn/0302-0738', 'issn-type': 'print'}, {'key': 'PhysRevLett.96.030201Cc11R2', 'DOI': '10.1103/PhysRevA.45.4146', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc11R3', 'DOI': '10.1088/0305-4470/22/12/018', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc11R4', 'DOI': '10.1103/PhysRevA.45.6056', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc11R5', 'first-page': '107', 'volume': '14', 'author': 'E. Barkai', 'year': '1991', 'journal-title': 'Europhys. Lett.', 'ISSN': 'http://id.crossref.org/issn/0295-5075', 'issn-type': 'print'}, {'key': 'PhysRevLett.96.030201Cc11R6', 'DOI': '10.1088/0305-4470/26/22/018', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc12R1', 'DOI': '10.1142/S0217984990000891', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc12R2', 'first-page': '443', 'volume': '3', 'author': 'D.\u2009J. Amit', 'year': '1992', 'journal-title': 'Network', 'ISSN': 'http://id.crossref.org/issn/0269-3089', 'issn-type': 'print'}, {'key': 'PhysRevLett.96.030201Cc12R3', 'first-page': '957', 'volume': '6', 'author': 'D.\u2009J. Amit', 'year': '1994', 'journal-title': 'Neural Comput.', 'ISSN': 'http://id.crossref.org/issn/0899-7667', 'issn-type': 'print'}, {'key': 'PhysRevLett.96.030201Cc13R1', 'DOI': '10.1007/BF01313839', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc14R1', 'author': 'D.\u2009J.\u2009C. MacKay', 'year': '2003', 'volume-title': 'Information Theory, Inference and Learning Algorithms'}, {'key': 'PhysRevLett.96.030201Cc15R1', 'DOI': '10.1109/TIT.2005.850085', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc16R1', 'DOI': '10.1103/PhysRevLett.76.3881', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc16R2', 'DOI': '10.1103/PhysRevE.66.056126', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc16R3', 'DOI': '10.1126/science.1073287', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc16R4', 'DOI': '10.1002/rsa.20057', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc17R1', 'DOI': '10.1103/PhysRevLett.89.268701', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc17R2', 'DOI': '10.1103/PhysRevE.68.036702', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc18R1', 'DOI': '10.1103/PhysRevE.54.717', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc19R1', 'first-page': '593', 'volume': '35', 'author': 'D.\u2009J. Thouless', 'year': '1977', 'journal-title': 'Philos. Mag.', 'ISSN': 'http://id.crossref.org/issn/0031-8086', 'issn-type': 'print'}, {'key': 'PhysRevLett.96.030201Cc20R1', 'first-page': '1645', 'volume': '72', 'author': 'Y. Kabashima', 'year': '2003', 'journal-title': 'J. Phys. Soc. Jpn.', 'ISSN': 'http://id.crossref.org/issn/0031-9015', 'issn-type': 'print'}, {'key': 'PhysRevLett.96.030201Cc20R2', 'DOI': '10.1088/0305-4470/36/43/030', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc20R3', 'DOI': '10.1209/epl/i2005-10148-5', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc21R1', 'DOI': '10.1088/1742-5468/2005/11/P11016', 'doi-asserted-by': 'publisher'}, {'key': 'PhysRevLett.96.030201Cc22R1', 'DOI': '10.1103/PhysRevE.69.035105', 'doi-asserted-by': 'publisher'}], 'container-title': ['Physical Review Letters'], 'language': 'en', 'link': [{'URL': 'http://link.aps.org/article/10.1103/PhysRevLett.96.030201', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'syndication'}, {'URL': 'http://harvest.aps.org/v2/journals/articles/10.1103/PhysRevLett.96.030201/fulltext', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T02:46:26Z', 'timestamp': 1497667586000}, 'score': 84.56963, 'issued': {'date-parts': [[2006, 1, 25]]}, 'references-count': 39, 'journal-issue': {'published-print': {'date-parts': [[2006, 1]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.1103/physrevlett.96.030201', 'relation': {'cites': []}, 'ISSN': ['0031-9007', '1079-7114'], 'issn-type': [{'value': '0031-9007', 'type': 'print'}, {'value': '1079-7114', 'type': 'electronic'}], 'article-number': '030201'}
+>>> hash >>> ('Learning by Message Passing in Networks of Discrete Synapses', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Singh, J. Xu, B. Berger, "Pairwise global alignment of protein interaction networks by matching neighborhood topology", Proc. of the 11th Annual Intl. Conf. on Research in Computational Molecular Biology (RECOMB), vol. 4453, pp. 16-31, 2007.
+>>> DOI >>> 10.1007/978-3-540-71681-5_2
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-71681-5_2
+>>> year >>> None
+>>> title >>> Pairwise Global Alignment of Protein Interaction Networks by Matching Neighborhood Topology
+>>> author >>> Rohit Singh and Jinbo Xu and Bonnie Berger
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 85.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Research in Computational Molecular Biology']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T13:02:29Z', 'timestamp': 1527771749438}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540716808', 'type': 'print'}, {'value': '9783540716815', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/978-3-540-71681-5_2', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 5, 17]], 'date-time': '2007-05-17T16:07:05Z', 'timestamp': 1179418025000}, 'page': '16-31', 'source': 'Crossref', 'is-referenced-by-count': 85, 'title': ['Pairwise Global Alignment of Protein Interaction Networks by Matching Neighborhood Topology'], 'prefix': '10.1007', 'author': [{'given': 'Rohit', 'family': 'Singh', 'sequence': 'first', 'affiliation': []}, {'given': 'Jinbo', 'family': 'Xu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Bonnie', 'family': 'Berger', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Lecture Notes in Computer Science', 'Research in Computational Molecular Biology'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-540-71681-5_2', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 17]], 'date-time': '2014-01-17T20:25:30Z', 'timestamp': 1389990330000}, 'score': 93.84368, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9783540716808', '9783540716815'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-540-71681-5_2'}
+>>> hash >>> ('Pairwise Global Alignment of Protein Interaction Networks by Matching Neighborhood Topology', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. Yanover, Y. Weiss, "Approximate inference and protein folding", NIPS, 2002.
+>>> DOI >>> 10.1093/bioinformatics/btq445
+>>> URL >>> http://dx.doi.org/10.1093/bioinformatics/btq445
+>>> year >>> 2010.0
+>>> title >>> SPRINT: side-chain prediction inference toolbox for multistate protein design
+>>> author >>> Menachem Fromer and Chen Yanover and Amir Harel and Ori Shachar and Yair Weiss and Michal Linial
+>>> reference_count >>> 13.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Bioinformatics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T09:47:50Z', 'timestamp': 1525340870254}, 'reference-count': 13, 'publisher': 'Oxford University Press (OUP)', 'issue': '19', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010, 10, 1]]}, 'DOI': '10.1093/bioinformatics/btq445', 'type': 'journal-article', 'created': {'date-parts': [[2010, 8, 5]], 'date-time': '2010-08-05T03:27:36Z', 'timestamp': 1280978856000}, 'page': '2466-2467', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['SPRINT: side-chain prediction inference toolbox for multistate protein design'], 'prefix': '10.1093', 'volume': '26', 'author': [{'given': 'Menachem', 'family': 'Fromer', 'sequence': 'first', 'affiliation': []}, {'given': 'Chen', 'family': 'Yanover', 'sequence': 'additional', 'affiliation': []}, {'given': 'Amir', 'family': 'Harel', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ori', 'family': 'Shachar', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yair', 'family': 'Weiss', 'sequence': 'additional', 'affiliation': []}, {'given': 'Michal', 'family': 'Linial', 'sequence': 'additional', 'affiliation': []}], 'member': '286', 'published-online': {'date-parts': [[2010, 8, 4]]}, 'reference': [{'key': '\nkey\n\t\t\t\t20170512134306_B1', 'doi-asserted-by': 'crossref', 'first-page': '1154', 'DOI': '10.1021/ja054718w', 'article-title': 'Computational design of a single amino acid sequence that can switch between two distinct protein folds', 'volume': '128', 'author': 'Ambroggio', 'year': '2006', 'journal-title': 'J. Am. Chem. Soc.'}, {'key': '\nkey\n\t\t\t\t20170512134306_B2', 'doi-asserted-by': 'crossref', 'first-page': '543', 'DOI': '10.1006/jmbi.1993.1170', 'article-title': 'Backbone-dependent rotamer library for proteins application to side-chain prediction', 'volume': '230', 'author': 'Dunbrack', 'year': '1993', 'journal-title': 'J. Mol. Biol.'}, {'key': '\nkey\n\t\t\t\t20170512134306_B3', 'doi-asserted-by': 'crossref', 'first-page': 'e1000627', 'DOI': '10.1371/journal.pcbi.1000627', 'article-title': 'Tradeoff between stability and multispecificity in the design of promiscuous proteins', 'volume': '5', 'author': 'Fromer', 'year': '2009', 'journal-title': 'PLoS Comput. Biol.'}, {'key': '\nkey\n\t\t\t\t20170512134306_B4', 'doi-asserted-by': 'crossref', 'first-page': 'i214', 'DOI': '10.1093/bioinformatics/btn168', 'article-title': 'A computational framework to empower probabilistic protein design', 'volume': '24', 'author': 'Fromer', 'year': '2008', 'journal-title': 'Bioinformatics'}, {'key': '\nkey\n\t\t\t\t20170512134306_B5', 'doi-asserted-by': 'crossref', 'first-page': '682', 'DOI': '10.1002/prot.22280', 'article-title': 'Accurate prediction for atomic-level protein design and its application in diversifying the near-optimal sequence space', 'volume': '75', 'author': 'Fromer', 'year': '2009', 'journal-title': 'Proteins Struct. Funct. Bioinform.'}, {'key': '\nkey\n\t\t\t\t20170512134306_B6', 'first-page': '530', 'article-title': 'Design of multispecific protein sequences using probabilistic graphical modeling', 'volume': '78', 'author': 'Fromer', 'year': '2010', 'journal-title': 'Proteins Struct. Funct. Bioinform.'}, {'key': '\nkey\n\t\t\t\t20170512134306_B7', 'doi-asserted-by': 'crossref', 'first-page': '509', 'DOI': '10.1016/S0959-440X(99)80072-4', 'article-title': 'Energy functions for protein design', 'volume': '9', 'author': 'Gordon', 'year': '1999', 'journal-title': 'Curr. Opin. Struc. Biol.'}, {'key': '\nkey\n\t\t\t\t20170512134306_B8', 'doi-asserted-by': 'crossref', 'first-page': '45', 'DOI': '10.1038/nsb877', 'article-title': 'Automated design of specificity in molecular recognition', 'volume': '10', 'author': 'Havranek', 'year': '2003', 'journal-title': 'Nat. Struct. Mol. Biol.'}, {'key': '\nkey\n\t\t\t\t20170512134306_B9', 'author': 'Jaimovich', 'year': '2010', 'journal-title': 'FastInf.'}, {'key': '\nkey\n\t\t\t\t20170512134306_B10', 'doi-asserted-by': 'crossref', 'first-page': '1364', 'DOI': '10.1126/science.1089427', 'article-title': 'Design of a novel globular protein fold with atomic-level accuracy', 'volume': '302', 'author': 'Kuhlman', 'year': '2003', 'journal-title': 'Science'}, {'key': '\nkey\n\t\t\t\t20170512134306_B11', 'doi-asserted-by': 'crossref', 'first-page': '227', 'DOI': '10.1002/(SICI)1097-0134(19981101)33:2<227::AID-PROT7>3.0.CO;2-F', 'article-title': 'Exploring the conformational space of protein side chains using dead-end elimination and the A* algorithm', 'volume': '33', 'author': 'Leach', 'year': '1998', 'journal-title': 'Proteins Struct. Funct. Genet.'}, {'key': '\nkey\n\t\t\t\t20170512134306_B12', 'doi-asserted-by': 'crossref', 'first-page': '553', 'DOI': '10.1093/protein/gzp030', 'article-title': 'Assessing computational methods for predicting protein stability upon mutation: good on average but not in the details', 'volume': '22', 'author': 'Potapov', 'year': '2009', 'journal-title': 'Protein Eng. Des. Sel.'}, {'key': '\nkey\n\t\t\t\t20170512134306_B13', 'doi-asserted-by': 'crossref', 'first-page': '2122', 'DOI': '10.1002/jcc.20661', 'article-title': 'Dead-end elimination for multistate protein design', 'volume': '28', 'author': 'Yanover', 'year': '2007', 'journal-title': 'J. Comput. Chem.'}], 'container-title': ['Bioinformatics'], 'language': 'en', 'link': [{'URL': 'http://academic.oup.com/bioinformatics/article-pdf/26/19/2466/16895751/btq445.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 22]], 'date-time': '2017-08-22T14:54:27Z', 'timestamp': 1503413667000}, 'score': 29.67617, 'issued': {'date-parts': [[2010, 8, 4]]}, 'references-count': 13, 'journal-issue': {'published-online': {'date-parts': [[2010, 8, 4]]}, 'published-print': {'date-parts': [[2010, 10, 1]]}, 'issue': '19'}, 'URL': 'http://dx.doi.org/10.1093/bioinformatics/btq445', 'relation': {'cites': []}, 'ISSN': ['1460-2059', '1367-4803'], 'issn-type': [{'value': '1367-4803', 'type': 'print'}, {'value': '1460-2059', 'type': 'electronic'}]}
+>>> hash >>> ('SPRINT: side-chain prediction inference toolbox for multistate protein design', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. G. Gallager, Low Density Parity Check Codes, Cambridge MA:MIT Press, 1963.
+>>> DOI >>> 10.1017/cbo9780511809354.003
+>>> URL >>> http://dx.doi.org/10.1017/cbo9780511809354.003
+>>> year >>> None
+>>> title >>> Low-density parity-check codes
+>>> author >>> Sarah J. Johnson
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Iterative Error Correction']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T12:13:14Z', 'timestamp': 1525522394940}, 'publisher-location': 'Cambridge', 'reference-count': 0, 'publisher': 'Cambridge University Press', 'isbn-type': [{'value': '9780511809354', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1017/cbo9780511809354.003', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 6, 19]], 'date-time': '2012-06-19T17:02:58Z', 'timestamp': 1340125378000}, 'page': '34-74', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Low-density parity-check codes'], 'prefix': '10.1017', 'author': [{'given': 'Sarah J.', 'family': 'Johnson', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'container-title': ['Iterative Error Correction'], 'deposited': {'date-parts': [[2018, 4, 12]], 'date-time': '2018-04-12T17:39:10Z', 'timestamp': 1523554750000}, 'score': 49.82887, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9780511809354'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1017/cbo9780511809354.003'}
+>>> hash >>> ('Low-density parity-check codes', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Conte, P. P. Foggia, C. Sansone, M. Vento, "Thirty years of graph matching in pattern recognition", Intl. J. of Pattern Recognition and Artificial Intelligence, vol. 18, no. 3, pp. 265-298, May 2004.
+>>> DOI >>> 10.1142/s0218001404003228
+>>> URL >>> http://dx.doi.org/10.1142/s0218001404003228
+>>> year >>> 2004.0
+>>> title >>> THIRTY YEARS OF GRAPH MATCHING IN PATTERN RECOGNITION
+>>> author >>> D. CONTE and P. FOGGIA and C. SANSONE and M. VENTO
+>>> reference_count >>> 97.0
+>>> is_referenced_by_count >>> 467.0
+>>> subject >>> None
+>>> container_title >>> ['International Journal of Pattern Recognition and Artificial Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T06:42:33Z', 'timestamp': 1527230553629}, 'reference-count': 97, 'publisher': 'World Scientific Pub Co Pte Lt', 'issue': '03', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Int. J. Patt. Recogn. Artif. Intell.'], 'published-print': {'date-parts': [[2004, 5]]}, 'DOI': '10.1142/s0218001404003228', 'type': 'journal-article', 'created': {'date-parts': [[2004, 5, 10]], 'date-time': '2004-05-10T10:06:26Z', 'timestamp': 1084183586000}, 'page': '265-298', 'source': 'Crossref', 'is-referenced-by-count': 467, 'title': ['THIRTY YEARS OF GRAPH MATCHING IN PATTERN RECOGNITION'], 'prefix': '10.1142', 'volume': '18', 'author': [{'given': 'D.', 'family': 'CONTE', 'sequence': 'first', 'affiliation': []}, {'given': 'P.', 'family': 'FOGGIA', 'sequence': 'additional', 'affiliation': []}, {'given': 'C.', 'family': 'SANSONE', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'VENTO', 'sequence': 'additional', 'affiliation': []}], 'member': '219', 'reference': [{'key': 'rf1', 'author': 'Aho A. V.', 'year': '1974', 'volume-title': 'The Design and Analysis of Computer Algorithms'}, {'key': 'rf2', 'DOI': '10.1109/71.598276', 'doi-asserted-by': 'publisher'}, {'key': 'rf3', 'DOI': '10.1109/34.211474', 'doi-asserted-by': 'publisher'}, {'key': 'rf6', 'DOI': '10.1137/0215075', 'doi-asserted-by': 'publisher'}, {'key': 'rf11', 'DOI': '10.1109/34.954600', 'doi-asserted-by': 'publisher'}, {'key': 'rf12', 'DOI': '10.1023/A:1008230200610', 'doi-asserted-by': 'publisher'}, {'key': 'rf14', 'DOI': '10.1145/362342.362367', 'doi-asserted-by': 'publisher'}, {'key': 'rf15', 'DOI': '10.1109/34.790431', 'doi-asserted-by': 'publisher'}, {'key': 'rf17', 'DOI': '10.1016/S0167-8655(97)00060-3', 'doi-asserted-by': 'publisher'}, {'key': 'rf18', 'DOI': '10.1142/S0218001497000081', 'doi-asserted-by': 'publisher'}, {'key': 'rf19', 'DOI': '10.1016/S0167-8655(97)00179-7', 'doi-asserted-by': 'publisher'}, {'key': 'rf23', 'author': 'Chan K. P.', 'volume': '26', 'first-page': '118', 'journal-title': 'IEEE Trans. Syst. Man Cybern.', 'DOI': '10.1109/3477.484443', 'doi-asserted-by': 'crossref'}, {'key': 'rf25', 'DOI': '10.1016/0031-3203(90)90115-2', 'doi-asserted-by': 'publisher'}, {'key': 'rf27', 'DOI': '10.1109/34.400565', 'doi-asserted-by': 'publisher'}, {'key': 'rf31', 'author': 'Cordella L. P.', 'volume': '12', 'first-page': '43', 'journal-title': 'Computing'}, {'key': 'rf35', 'author': 'Demko Ch.', 'volume': '12', 'first-page': '1', 'journal-title': 'Computing'}, {'key': 'rf36', 'author': 'Dempster A. P.', 'volume': '39', 'first-page': '1', 'journal-title': 'J. Roy. Stat. Soc. Series'}, {'key': 'rf37', 'DOI': '10.1016/0031-3203(95)00140-9', 'doi-asserted-by': 'publisher'}, {'key': 'rf38', 'DOI': '10.1016/S0167-8655(02)00253-2', 'doi-asserted-by': 'publisher'}, {'key': 'rf39', 'DOI': '10.1109/83.753738', 'doi-asserted-by': 'publisher'}, {'key': 'rf42', 'DOI': '10.1016/S0031-3203(97)00041-1', 'doi-asserted-by': 'publisher'}, {'key': 'rf43', 'author': 'Englert R.', 'volume': '12', 'first-page': '11', 'journal-title': 'Computing'}, {'key': 'rf45', 'author': 'Eshera M. A.', 'volume': '14', 'first-page': '398', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf46', 'author': 'Eshera M. A.', 'volume': '8', 'first-page': '604', 'journal-title': 'IEEE Trans. Patt. Anal. Mach. Intell.'}, {'key': 'rf48', 'DOI': '10.1016/S0167-8655(01)00017-4', 'doi-asserted-by': 'publisher'}, {'key': 'rf51', 'author': 'Fischler M.', 'volume': '22', 'first-page': '67', 'journal-title': 'IEEE Trans. Comput.'}, {'key': 'rf52', 'DOI': '10.1109/69.917559', 'doi-asserted-by': 'publisher'}, {'key': 'rf54', 'DOI': '10.1007/s100440050030', 'doi-asserted-by': 'publisher'}, {'key': 'rf58', 'DOI': '10.1007/BF02023002', 'doi-asserted-by': 'publisher'}, {'key': 'rf59', 'DOI': '10.1109/TSMC.1980.4308468', 'doi-asserted-by': 'publisher'}, {'key': 'rf60', 'author': 'Ghahraman D. E.', 'volume': '10', 'first-page': '189', 'journal-title': 'Trans. Syst. Man Cybern.'}, {'key': 'rf61', 'DOI': '10.1109/34.491619', 'doi-asserted-by': 'publisher'}, {'key': 'rf64', 'author': 'Grimson W. E.', 'year': '1991', 'volume-title': 'Object Recognition by Computer: The Role of Geometric Constraints'}, {'key': 'rf65', 'DOI': '10.1109/42.811312', 'doi-asserted-by': 'publisher'}, {'key': 'rf69', 'DOI': '10.1016/0031-3203(94)00090-9', 'doi-asserted-by': 'publisher'}, {'key': 'rf71', 'DOI': '10.1016/S0167-8655(99)00093-8', 'doi-asserted-by': 'publisher'}, {'key': 'rf79', 'author': 'Kitchen L.', 'volume': '9', 'first-page': '869', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf80', 'DOI': '10.1142/S021800148900005X', 'doi-asserted-by': 'publisher'}, {'key': 'rf81', 'DOI': '10.1016/S0304-3975(00)00286-3', 'doi-asserted-by': 'publisher'}, {'key': 'rf84', 'DOI': '10.1109/83.841933', 'doi-asserted-by': 'publisher'}, {'key': 'rf85', 'DOI': '10.1109/12.210173', 'doi-asserted-by': 'publisher'}, {'key': 'rf86', 'author': 'Larrosa J.', 'volume': '12', 'first-page': '403', 'journal-title': 'Math. Struct. Comput. Sci.'}, {'key': 'rf87', 'author': 'Lawler E. S.', 'year': '2001', 'volume-title': 'Combinatorial Optimization: Networks and Matroids'}, {'key': 'rf92', 'DOI': '10.1049/ip-vis:20000103', 'doi-asserted-by': 'publisher'}, {'key': 'rf95', 'DOI': '10.1109/34.954603', 'doi-asserted-by': 'publisher'}, {'key': 'rf96', 'author': 'Lu S. W.', 'volume': '24', 'first-page': '617', 'journal-title': 'Patt. Recogn.', 'DOI': '10.1016/0031-3203(91)90029-5', 'doi-asserted-by': 'crossref'}, {'key': 'rf97', 'DOI': '10.1016/0022-0000(82)90009-5', 'doi-asserted-by': 'publisher'}, {'key': 'rf98', 'author': 'Luo B.', 'volume': '23', 'first-page': '1120', 'journal-title': 'IEEE Trans. Patt. Anal. Mach. Intell.', 'DOI': '10.1109/34.954602', 'doi-asserted-by': 'crossref'}, {'key': 'rf100', 'DOI': '10.1109/34.817413', 'doi-asserted-by': 'publisher'}, {'key': 'rf102', 'DOI': '10.1002/spe.4380120103', 'doi-asserted-by': 'publisher'}, {'key': 'rf103', 'author': 'McKay B. D.', 'volume': '30', 'first-page': '45', 'journal-title': 'Congressus Numerantium'}, {'key': 'rf104', 'DOI': '10.1109/91.917123', 'doi-asserted-by': 'publisher'}, {'key': 'rf107', 'DOI': '10.1109/69.842269', 'doi-asserted-by': 'publisher'}, {'key': 'rf108', 'DOI': '10.1109/34.682179', 'doi-asserted-by': 'publisher'}, {'key': 'rf109', 'DOI': '10.1016/S0031-3203(98)90142-X', 'doi-asserted-by': 'publisher'}, {'key': 'rf111', 'unstructured': 'T.\xa0Miyazaki, Groups and Computation II, DIMACS Series Discrete Mathematics Theoretical Computer Science\xa028 (1997)\xa0pp. 239–256.', 'DOI': '10.1090/dimacs/028/14', 'doi-asserted-by': 'crossref'}, {'key': 'rf112', 'DOI': '10.1109/34.862201', 'doi-asserted-by': 'publisher'}, {'key': 'rf113', 'DOI': '10.1109/34.643897', 'doi-asserted-by': 'publisher'}, {'key': 'rf117', 'author': 'Pardalos P.', 'year': '1998', 'volume-title': 'High Performance Algorithms and Software in Nonlinear Optimization'}, {'key': 'rf119', 'author': 'Pelillo M.', 'volume': '2', 'first-page': '313', 'journal-title': 'J. Artif. Neural Networks'}, {'key': 'rf120', 'author': 'Pelillo M.', 'volume': '2', 'first-page': '411', 'journal-title': 'J. Artif. Neural Networks'}, {'key': 'rf122', 'DOI': '10.1109/34.809105', 'doi-asserted-by': 'publisher'}, {'key': 'rf123', 'DOI': '10.1162/089976699300016034', 'doi-asserted-by': 'publisher'}, {'key': 'rf124', 'DOI': '10.1109/TPAMI.2002.1046176', 'doi-asserted-by': 'publisher'}, {'key': 'rf126', 'DOI': '10.1109/69.599932', 'doi-asserted-by': 'publisher'}, {'key': 'rf127', 'DOI': '10.1109/72.548165', 'doi-asserted-by': 'publisher'}, {'key': 'rf128', 'DOI': '10.1109/34.277592', 'doi-asserted-by': 'publisher'}, {'key': 'rf129', 'DOI': '10.1109/TSMC.1976.4309519', 'doi-asserted-by': 'publisher'}, {'key': 'rf130', 'author': 'Russel S. J.', 'year': '1995', 'series-title': 'Series in Artificial Intelligence', 'volume-title': 'Artificial Intelligence: A Modern Approach'}, {'key': 'rf132', 'author': 'Sanfeliu A.', 'volume': '13', 'first-page': '353', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf133', 'DOI': '10.1109/21.260671', 'doi-asserted-by': 'publisher'}, {'key': 'rf136', 'author': 'Shapiro L. G.', 'volume': '3', 'first-page': '504', 'journal-title': 'IEEE Trans. Patt. Anal. Mach. Intell.'}, {'key': 'rf137', 'author': 'Shapiro L. G.', 'volume': '7', 'first-page': '90', 'journal-title': 'IEEE Trans. Patt. Anal. Mach. Intell.'}, {'key': 'rf138', 'DOI': '10.1109/21.286387', 'doi-asserted-by': 'publisher'}, {'key': 'rf140', 'author': 'Shearer K.', 'volume': '12', 'first-page': '53', 'journal-title': 'Computing'}, {'key': 'rf141', 'DOI': '10.1016/S0031-3203(00)00048-0', 'doi-asserted-by': 'publisher'}, {'key': 'rf142', 'DOI': '10.1016/S0167-8655(00)00121-5', 'doi-asserted-by': 'publisher'}, {'key': 'rf144', 'author': 'Shokoufandeh A.', 'volume': '2059', 'first-page': '67', 'year': '2001', 'series-title': 'Lecture Notes in Computer Science', 'DOI': '10.1007/3-540-45129-3_6', 'doi-asserted-by': 'crossref'}, {'key': 'rf145', 'DOI': '10.1109/3477.537320', 'doi-asserted-by': 'publisher'}, {'key': 'rf147', 'DOI': '10.1016/0031-3203(94)00166-J', 'doi-asserted-by': 'publisher'}, {'key': 'rf148', 'DOI': '10.1016/0262-8856(95)91468-S', 'doi-asserted-by': 'publisher'}, {'key': 'rf149', 'DOI': '10.1016/S0262-8856(97)00066-8', 'doi-asserted-by': 'publisher'}, {'key': 'rf150', 'DOI': '10.1109/34.935847', 'doi-asserted-by': 'publisher'}, {'key': 'rf153', 'DOI': '10.1109/34.977568', 'doi-asserted-by': 'publisher'}, {'key': 'rf154', 'DOI': '10.1109/TSMC.1979.4310127', 'doi-asserted-by': 'publisher'}, {'key': 'rf155', 'author': 'Tsai W. H.', 'volume': '13', 'first-page': '48', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf156', 'DOI': '10.1145/321921.321925', 'doi-asserted-by': 'publisher'}, {'key': 'rf157', 'DOI': '10.1109/34.6778', 'doi-asserted-by': 'publisher'}, {'key': 'rf161', 'DOI': '10.1109/TPAMI.2002.1017624', 'doi-asserted-by': 'publisher'}, {'key': 'rf162', 'DOI': '10.1016/S0167-8655(01)00022-8', 'doi-asserted-by': 'publisher'}, {'key': 'rf166', 'author': 'Wang Y. K.', 'volume': '27', 'first-page': '589', 'journal-title': 'IEEE Trans. Syst. Man Cybern.'}, {'key': 'rf167', 'DOI': '10.1109/34.601251', 'doi-asserted-by': 'publisher'}, {'key': 'rf168', 'DOI': '10.1016/S0031-3203(98)00152-6', 'doi-asserted-by': 'publisher'}, {'key': 'rf169', 'DOI': '10.1016/S0167-8655(99)00071-9', 'doi-asserted-by': 'publisher'}, {'key': 'rf170', 'DOI': '10.1109/34.598235', 'doi-asserted-by': 'publisher'}, {'key': 'rf172', 'DOI': '10.1109/21.57275', 'doi-asserted-by': 'publisher'}, {'key': 'rf173', 'author': 'Xu L.', 'volume': '31', 'first-page': '812', 'journal-title': 'IEEE Trans. Syst. Man Cybern.', 'DOI': '10.1109/3477.956043', 'doi-asserted-by': 'crossref'}], 'container-title': ['International Journal of Pattern Recognition and Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://www.worldscientific.com/doi/pdf/10.1142/S0218001404003228', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T06:56:08Z', 'timestamp': 1497596168000}, 'score': 124.55105, 'issued': {'date-parts': [[2004, 5]]}, 'references-count': 97, 'journal-issue': {'published-print': {'date-parts': [[2004, 5]]}, 'issue': '03'}, 'alternative-id': ['10.1142/S0218001404003228'], 'URL': 'http://dx.doi.org/10.1142/s0218001404003228', 'relation': {'cites': []}, 'ISSN': ['0218-0014', '1793-6381'], 'issn-type': [{'value': '0218-0014', 'type': 'print'}, {'value': '1793-6381', 'type': 'electronic'}]}
+>>> hash >>> ('THIRTY YEARS OF GRAPH MATCHING IN PATTERN RECOGNITION', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. W. Cohen, P. Ravikumar, S. Fienberg, "A comparison of string metrics for matching names and records", Proc. of the KDD Workshop on Data Cleaning and Object Consolidation, 2003.
+>>> DOI >>> 10.1109/mis.2003.1234765
+>>> URL >>> http://dx.doi.org/10.1109/mis.2003.1234765
+>>> year >>> 2003.0
+>>> title >>> Adaptive name matching in information integration
+>>> author >>> M. Bilenko and R. Mooney and W. Cohen and P. Ravikumar and S. Fienberg
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 142.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Intelligent Systems']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T21:48:07Z', 'timestamp': 1525384087957}, 'reference-count': 27, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Intell. Syst.'], 'published-print': {'date-parts': [[2003, 9]]}, 'DOI': '10.1109/mis.2003.1234765', 'type': 'journal-article', 'created': {'date-parts': [[2003, 10, 8]], 'date-time': '2003-10-08T19:04:44Z', 'timestamp': 1065639884000}, 'page': '16-23', 'source': 'Crossref', 'is-referenced-by-count': 142, 'title': ['Adaptive name matching in information integration'], 'prefix': '10.1109', 'volume': '18', 'author': [{'given': 'M.', 'family': 'Bilenko', 'sequence': 'first', 'affiliation': []}, {'given': 'R.', 'family': 'Mooney', 'sequence': 'additional', 'affiliation': []}, {'given': 'W.', 'family': 'Cohen', 'sequence': 'additional', 'affiliation': []}, {'given': 'P.', 'family': 'Ravikumar', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.', 'family': 'Fienberg', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Intelligent Systems'], 'language': 'en', 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/9670/27679/01234765.pdf?arnumber=1234765', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T00:59:15Z', 'timestamp': 1497574755000}, 'score': 36.59984, 'issued': {'date-parts': [[2003, 9]]}, 'references-count': 27, 'journal-issue': {'published-print': {'date-parts': [[2003, 9]]}, 'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/mis.2003.1234765', 'ISSN': ['1541-1672'], 'issn-type': [{'value': '1541-1672', 'type': 'print'}]}
+>>> hash >>> ('Adaptive name matching in information integration', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Mezard, R. Zecchina, "Random k-satisfiability: from an analytic solution to a new efficient algorithm", Phys. Rev. E, vol. 66, 2002.
+>>> DOI >>> 10.1103/physreve.66.056126
+>>> URL >>> http://dx.doi.org/10.1103/physreve.66.056126
+>>> year >>> 2002.0
+>>> title >>> RandomK-satisfiability problem: From an analytic solution to an efficient algorithm
+>>> author >>> Marc Mézard and Riccardo Zecchina
+>>> reference_count >>> 31.0
+>>> is_referenced_by_count >>> 207.0
+>>> subject >>> None
+>>> container_title >>> ['Physical Review E']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 16]], 'date-time': '2018-05-16T18:42:27Z', 'timestamp': 1526496147706}, 'reference-count': 31, 'publisher': 'American Physical Society (APS)', 'issue': '5', 'license': [{'URL': 'http://link.aps.org/licenses/aps-default-license', 'start': {'date-parts': [[2002, 11, 26]], 'date-time': '2002-11-26T00:00:00Z', 'timestamp': 1038268800000}, 'delay-in-days': 0, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Phys. Rev. E'], 'DOI': '10.1103/physreve.66.056126', 'type': 'journal-article', 'created': {'date-parts': [[2002, 11, 27]], 'date-time': '2002-11-27T05:20:08Z', 'timestamp': 1038374408000}, 'source': 'Crossref', 'is-referenced-by-count': 207, 'title': ['RandomK-satisfiability problem: From an analytic solution to an efficient algorithm'], 'prefix': '10.1103', 'volume': '66', 'author': [{'given': 'Marc', 'family': 'Mézard', 'sequence': 'first', 'affiliation': []}, {'given': 'Riccardo', 'family': 'Zecchina', 'sequence': 'additional', 'affiliation': []}], 'member': '16', 'published-online': {'date-parts': [[2002, 11, 26]]}, 'reference': [{'key': 'PhysRevE.66.056126Cc4R1', 'author': 'R. Monasson', 'volume': '76', 'first-page': '3881', 'year': '1996', 'journal-title': 'Phys. Rev. Lett.', 'DOI': '10.1103/PhysRevLett.76.3881', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc5R1', 'author': 'R. Monasson', 'volume': '56', 'first-page': '1357', 'year': '1997', 'journal-title': 'Phys. Rev. E', 'DOI': '10.1103/PhysRevE.56.1357', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc6R1', 'author': 'S. Kirkpatrick', 'volume': '220', 'first-page': '671', 'year': '1983', 'journal-title': 'Science', 'DOI': '10.1126/science.220.4598.671', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc6R2', 'author': 'V. \u010cerny', 'volume': '45', 'first-page': '41', 'year': '1985', 'journal-title': 'J. Optim. Theory Appl.', 'DOI': '10.1007/BF00940812', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc7R1', 'author': 'M. Mézard', 'volume': '46', 'first-page': 'L771', 'year': '1985', 'journal-title': 'J. Phys. (France) Lett.', 'DOI': '10.1051/jphyslet:019850046017077100', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc8R1', 'author': 'D. Aldous', 'volume': '18', 'first-page': '381', 'year': '2001', 'journal-title': 'Random Struct. Algorithms', 'DOI': '10.1002/rsa.1015', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc9R1', 'author': 'Y. Fu', 'volume': '19', 'first-page': '1605', 'year': '1986', 'journal-title': 'J. Phys. A', 'DOI': '10.1088/0305-4470/19/9/033', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc10R1', 'author': 'L. A. Levin', 'volume': '14', 'first-page': '285', 'year': '1986', 'journal-title': 'SIAM J. Comput.', 'DOI': '10.1137/0215020', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc11R1', 'author': 'S. Ben-David', 'volume': '44', 'first-page': '193', 'year': '1992', 'journal-title': 'J. Cell Sci. Suppl.'}, {'key': 'PhysRevE.66.056126Cc12R1', 'author': 'Y. Gurevich', 'volume': '42', 'first-page': '246', 'year': '1991', 'journal-title': 'J. Cell Sci. Suppl.'}, {'key': 'PhysRevE.66.056126Cc16R1', 'author': 'S. Kirkpatrick', 'volume': '264', 'first-page': '1297', 'year': '1994', 'journal-title': 'Science', 'DOI': '10.1126/science.264.5163.1297', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc19R1', 'author': 'M. Mézard', 'volume': '297', 'first-page': '812', 'year': '2002', 'journal-title': 'Science', 'DOI': '10.1126/science.1073287', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc20R1', 'author': 'M. Mézard', 'volume': '20', 'first-page': '217', 'year': '2001', 'journal-title': 'Eur. Phys. J. B', 'DOI': '10.1007/PL00011099', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc22R1', 'author': 'F. R. Kschischang', 'volume': '47', 'first-page': '498', 'year': '2002', 'journal-title': 'IEEE Trans. Inf. Theory', 'DOI': '10.1109/18.910572', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc23R1', 'author': 'F. Ricci-Tersenghi', 'volume': '63', 'first-page': '026702', 'year': '2001', 'journal-title': 'Phys. Rev. E', 'DOI': '10.1103/PhysRevE.63.026702', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc24R1', 'author': 'R. Monasson', 'volume': '400', 'first-page': '133', 'year': '1999', 'journal-title': 'Nature (London)', 'DOI': '10.1038/22055', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc26R1', 'author': 'M. Mézard', 'volume': '3', 'first-page': '1067', 'year': '1987', 'journal-title': 'Europhys. Lett.', 'DOI': '10.1209/0295-5075/3/10/002', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc28R1', 'author': 'M. Mézard', 'volume': '1', 'first-page': '77', 'year': '1986', 'journal-title': 'Europhys. Lett.', 'DOI': '10.1209/0295-5075/1/2/006', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc29R1', 'author': 'M. Talagrand', 'volume': '117', 'first-page': '303', 'year': '2002', 'journal-title': 'Probability Theory and Related Fields', 'DOI': '10.1007/s004400050009', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc30R1', 'author': 'R. Monasson', 'volume': '31', 'first-page': '513', 'year': '1998', 'journal-title': 'J. Phys. A', 'DOI': '10.1088/0305-4470/31/2/012', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc31R1', 'author': 'R. Monasson', 'volume': '75', 'first-page': '2847', 'year': '1995', 'journal-title': 'Phys. Rev. Lett.', 'DOI': '10.1103/PhysRevLett.75.2847', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc32R1', 'author': 'S. Franz', 'volume': '5', 'first-page': '1401', 'year': '1995', 'journal-title': 'J. Phys. I'}, {'key': 'PhysRevE.66.056126Cc35R1', 'author': 'B. Bollobàs', 'volume': '18', 'first-page': '301', 'year': '2001', 'journal-title': 'Rand Struct. Algorithms'}, {'key': 'PhysRevE.66.056126Cc36R1', 'author': 'J. A. Crawford', 'volume': '81', 'first-page': '31', 'year': '1996', 'journal-title': 'Artif. Intel.', 'DOI': '10.1016/0004-3702(95)00046-1', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc39R1', 'author': 'J. Franco', 'volume': '265', 'first-page': '147', 'year': '2001', 'journal-title': 'Theor. Comput. Sci.', 'DOI': '10.1016/S0304-3975(01)00158-X', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc41R1', 'author': 'G. Biroli', 'volume': '14', 'first-page': '551', 'year': '2000', 'journal-title': 'Eur. Phys. J. B', 'DOI': '10.1007/s100510051065', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc42R1', 'author': 'S. Franz', 'volume': '87', 'first-page': '127209', 'year': '2001', 'journal-title': 'Phys. Rev. Lett.', 'DOI': '10.1103/PhysRevLett.87.127209', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc43R1', 'author': 'P. Svenson', 'volume': '59', 'first-page': '3983', 'year': '1999', 'journal-title': 'Phys. Rev. E', 'DOI': '10.1103/PhysRevE.59.3983', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc46R1', 'author': 'R. Kikuchi', 'volume': '81', 'first-page': '988', 'year': '1951', 'journal-title': 'Phys. Rev.', 'DOI': '10.1103/PhysRev.81.988', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc50R1', 'author': 'L. Leuzzi', 'volume': '103', 'first-page': '679', 'year': '2001', 'journal-title': 'J. Stat. Phys.', 'DOI': '10.1023/A:1010388300998', 'doi-asserted-by': 'crossref'}, {'key': 'PhysRevE.66.056126Cc50R2', 'author': 'A. Crisanti', 'volume': '35', 'first-page': '481', 'year': '2002', 'journal-title': 'J. Phys. A', 'DOI': '10.1088/0305-4470/35/3/303', 'doi-asserted-by': 'crossref'}], 'container-title': ['Physical Review E'], 'language': 'en', 'link': [{'URL': 'http://link.aps.org/article/10.1103/PhysRevE.66.056126', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'syndication'}, {'URL': 'http://harvest.aps.org/v2/journals/articles/10.1103/PhysRevE.66.056126/fulltext', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T15:17:38Z', 'timestamp': 1497539858000}, 'score': 83.46343, 'issued': {'date-parts': [[2002, 11, 26]]}, 'references-count': 31, 'journal-issue': {'published-print': {'date-parts': [[2002, 11]]}, 'issue': '5'}, 'URL': 'http://dx.doi.org/10.1103/physreve.66.056126', 'relation': {'cites': []}, 'ISSN': ['1063-651X', '1095-3787'], 'issn-type': [{'value': '1063-651X', 'type': 'print'}, {'value': '1095-3787', 'type': 'electronic'}], 'article-number': '056126'}
+>>> hash >>> ('RandomK-satisfiability problem: From an analytic solution to an efficient algorithm', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K. Murphy, Y. Weiss, M. Jordan, "Loopy belief propagation for approximate inference: An empirical study", Proc. of Uncertainty in Artificial Intelligence (UAI), 1999.
+>>> DOI >>> 10.1016/b978-1-4832-1451-1.50050-0
+>>> URL >>> http://dx.doi.org/10.1016/b978-1-4832-1451-1.50050-0
+>>> year >>> 1993.0
+>>> title >>> Using Tree-Decomposable Structures to Approximate Belief Networks
+>>> author >>> Sumit Sarkar
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Uncertainty in Artificial Intelligence']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:50:18Z', 'timestamp': 1525798218458}, 'reference-count': 17, 'publisher': 'Elsevier', 'isbn-type': [{'value': '9781483214511', 'type': 'print'}], 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1993, 1, 1]], 'date-time': '1993-01-01T00:00:00Z', 'timestamp': 725846400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1993]]}, 'DOI': '10.1016/b978-1-4832-1451-1.50050-0', 'type': 'book-chapter', 'created': {'date-parts': [[2014, 6, 30]], 'date-time': '2014-06-30T12:58:53Z', 'timestamp': 1404133133000}, 'page': '376-382', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Using Tree-Decomposable Structures to Approximate Belief Networks'], 'prefix': '10.1016', 'author': [{'given': 'Sumit', 'family': 'Sarkar', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Uncertainty in Artificial Intelligence'], 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:B9781483214511500500?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:B9781483214511500500?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T15:47:40Z', 'timestamp': 1498146460000}, 'score': 40.900032, 'issued': {'date-parts': [[1993]]}, 'ISBN': ['9781483214511'], 'references-count': 17, 'URL': 'http://dx.doi.org/10.1016/b978-1-4832-1451-1.50050-0'}
+>>> hash >>> ('Using Tree-Decomposable Structures to Approximate Belief Networks', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> B. J. Frey, D. Dueck, "Clustering by passing messages between data points", Science, vol. 315, no. 5814, pp. 972-976, February 2007.
+>>> DOI >>> 10.1126/science.1136800
+>>> URL >>> http://dx.doi.org/10.1126/science.1136800
+>>> year >>> 2007.0
+>>> title >>> Clustering by Passing Messages Between Data Points
+>>> author >>> B. J. Frey and D. Dueck
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2208.0
+>>> subject >>> None
+>>> container_title >>> ['Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T12:02:31Z', 'timestamp': 1528372951283}, 'reference-count': 0, 'publisher': 'American Association for the Advancement of Science (AAAS)', 'issue': '5814', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Science'], 'published-print': {'date-parts': [[2007, 2, 16]]}, 'DOI': '10.1126/science.1136800', 'type': 'journal-article', 'created': {'date-parts': [[2007, 1, 12]], 'date-time': '2007-01-12T01:49:13Z', 'timestamp': 1168566553000}, 'page': '972-976', 'source': 'Crossref', 'is-referenced-by-count': 2208, 'title': ['Clustering by Passing Messages Between Data Points'], 'prefix': '10.1126', 'volume': '315', 'author': [{'given': 'B. J.', 'family': 'Frey', 'sequence': 'first', 'affiliation': []}, {'given': 'D.', 'family': 'Dueck', 'sequence': 'additional', 'affiliation': []}], 'member': '221', 'container-title': ['Science'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1126/science.1136800', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 23]], 'date-time': '2016-12-23T20:48:46Z', 'timestamp': 1482526126000}, 'score': 107.11998, 'issued': {'date-parts': [[2007, 2, 16]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2007, 2, 16]]}, 'issue': '5814'}, 'URL': 'http://dx.doi.org/10.1126/science.1136800', 'ISSN': ['0036-8075', '1095-9203'], 'issn-type': [{'value': '0036-8075', 'type': 'print'}, {'value': '1095-9203', 'type': 'electronic'}]}
+>>> hash >>> ('Clustering by Passing Messages Between Data Points', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. Schellewald, C. SchnÃ¶rr, "Probabilistic subgraph matching based on convex relaxation", Energy Minimization Methods in Computer Vision and Pattern Recognition, pp. 171-186, 2005.
+>>> DOI >>> 10.1007/11585978_12
+>>> URL >>> http://dx.doi.org/10.1007/11585978_12
+>>> year >>> 2005.0
+>>> title >>> Probabilistic Subgraph Matching Based on Convex Relaxation
+>>> author >>> Christian Schellewald and Christoph Schnörr
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 32.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Energy Minimization Methods in Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T23:27:23Z', 'timestamp': 1525476443514}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540302872', 'type': 'print'}, {'value': '9783540320982', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1007/11585978_12', 'type': 'book-chapter', 'created': {'date-parts': [[2005, 10, 18]], 'date-time': '2005-10-18T09:41:17Z', 'timestamp': 1129628477000}, 'page': '171-186', 'source': 'Crossref', 'is-referenced-by-count': 32, 'title': ['Probabilistic Subgraph Matching Based on Convex Relaxation'], 'prefix': '10.1007', 'author': [{'given': 'Christian', 'family': 'Schellewald', 'sequence': 'first', 'affiliation': []}, {'given': 'Christoph', 'family': 'Schnörr', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Lecture Notes in Computer Science', 'Energy Minimization Methods in Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/11585978_12', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T15:24:57Z', 'timestamp': 1389021897000}, 'score': 105.82007, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['9783540302872', '9783540320982'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/11585978_12', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Probabilistic Subgraph Matching Based on Convex Relaxation', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Melnik, H. Garcia-Molina, E. Rahm, "Similarity flooding: A versatile graph matching algorithm and its application to schema matching", Proc. of the 18th Intl. Conf. on Data Engineering, pp. 117, 2002.
+>>> DOI >>> 10.1109/icde.2002.994702
+>>> URL >>> http://dx.doi.org/10.1109/icde.2002.994702
+>>> year >>> None
+>>> title >>> Similarity flooding: a versatile graph matching algorithm and its application to schema matching
+>>> author >>> S. Melnik and H. Garcia-Molina and E. Rahm
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 305.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings 18th International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T17:02:29Z', 'timestamp': 1528304549974}, 'reference-count': 18, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769515312', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icde.2002.994702', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 6, 25]], 'date-time': '2003-06-25T20:23:04Z', 'timestamp': 1056572584000}, 'source': 'Crossref', 'is-referenced-by-count': 305, 'title': ['Similarity flooding: a versatile graph matching algorithm and its application to schema matching'], 'prefix': '10.1109', 'author': [{'given': 'S.', 'family': 'Melnik', 'sequence': 'first', 'affiliation': []}, {'given': 'H.', 'family': 'Garcia-Molina', 'sequence': 'additional', 'affiliation': []}, {'given': 'E.', 'family': 'Rahm', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '18th International Conference on Data Engineering', 'location': 'San Jose, CA, USA', 'acronym': 'ICDE-02'}, 'container-title': ['Proceedings 18th International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/7807/21451/00994702.pdf?arnumber=994702', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T20:00:23Z', 'timestamp': 1489176023000}, 'score': 132.48912, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769515312'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1109/icde.2002.994702'}
+>>> hash >>> ('Similarity flooding: a versatile graph matching algorithm and its application to schema matching', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Tappen, W. Freemand, "Graph cuts and belief propagation for stereo using identical mrf parameters", ICCV, 2003.
+>>> DOI >>> 10.1109/iccv.2003.1238444
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2003.1238444
+>>> year >>> 2003.0
+>>> title >>> Comparison of graph cuts with belief propagation for stereo, using identical MRF parameters
+>>> author >>> None
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 181.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings Ninth IEEE International Conference on Computer Vision']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T00:22:31Z', 'timestamp': 1525738951259}, 'reference-count': 16, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769519504', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.1109/iccv.2003.1238444', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 6, 3]], 'date-time': '2004-06-03T20:14:56Z', 'timestamp': 1086293696000}, 'source': 'Crossref', 'is-referenced-by-count': 181, 'title': ['Comparison of graph cuts with belief propagation for stereo, using identical MRF parameters'], 'prefix': '10.1109', 'author': [{'family': 'Tappen', 'sequence': 'first', 'affiliation': []}, {'family': 'Freeman', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'ICCV 2003: 9th International Conference on Computer Vision', 'location': 'Nice, France', 'start': {'date-parts': [[2003, 10, 13]]}, 'end': {'date-parts': [[2003, 10, 16]]}}, 'container-title': ['Proceedings Ninth IEEE International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8769/27772/01238444.pdf?arnumber=1238444', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T07:46:47Z', 'timestamp': 1497599207000}, 'score': 89.96784, 'issued': {'date-parts': [[2003]]}, 'ISBN': ['0769519504'], 'references-count': 16, 'URL': 'http://dx.doi.org/10.1109/iccv.2003.1238444'}
+>>> hash >>> ('Comparison of graph cuts with belief propagation for stereo, using identical MRF parameters', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Bradde, A. Braunstein, H. Mahmoudi, F. Tria, M. Weigt, R. Zecchina, "Aligning graphs and finding substructures by message passing", arXiv, vol. 0905, no. 1893, 2009.
+>>> DOI >>> 10.1209/0295-5075/89/37009
+>>> URL >>> http://dx.doi.org/10.1209/0295-5075/89/37009
+>>> year >>> 2010.0
+>>> title >>> Aligning graphs and finding substructures by a cavity approach
+>>> author >>> S. Bradde and A. Braunstein and H. Mahmoudi and F. Tria and M. Weigt and R. Zecchina
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['EPL (Europhysics Letters)']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T23:47:02Z', 'timestamp': 1525304822813}, 'reference-count': 21, 'publisher': 'IOP Publishing', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Europhys. Lett.'], 'published-print': {'date-parts': [[2010, 2, 1]]}, 'DOI': '10.1209/0295-5075/89/37009', 'type': 'journal-article', 'created': {'date-parts': [[2010, 2, 23]], 'date-time': '2010-02-23T04:13:36Z', 'timestamp': 1266898416000}, 'page': '37009', 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Aligning graphs and finding substructures by a cavity approach'], 'prefix': '10.1209', 'volume': '89', 'author': [{'given': 'S.', 'family': 'Bradde', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Braunstein', 'sequence': 'additional', 'affiliation': []}, {'given': 'H.', 'family': 'Mahmoudi', 'sequence': 'additional', 'affiliation': []}, {'given': 'F.', 'family': 'Tria', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Weigt', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.', 'family': 'Zecchina', 'sequence': 'additional', 'affiliation': []}], 'member': '266', 'published-online': {'date-parts': [[2010, 2, 22]]}, 'container-title': ['EPL (Europhysics Letters)'], 'link': [{'URL': 'http://stacks.iop.org/0295-5075/89/i=3/a=37009/pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 3, 7]], 'date-time': '2018-03-07T15:23:31Z', 'timestamp': 1520436211000}, 'score': 95.867256, 'issued': {'date-parts': [[2010, 2, 1]]}, 'references-count': 21, 'journal-issue': {'published-print': {'date-parts': [[2010, 2, 1]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.1209/0295-5075/89/37009', 'ISSN': ['0295-5075', '1286-4854'], 'issn-type': [{'value': '0295-5075', 'type': 'print'}, {'value': '1286-4854', 'type': 'electronic'}]}
+>>> hash >>> ('Aligning graphs and finding substructures by a cavity approach', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Singh, J. Xu, B. Berger, "Global alignment of multiple protein interaction networks with application to functional orthology detection", PNAS, vol. 105, no. 35, pp. 12763-12768, September 2008.
+>>> DOI >>> 10.1073/pnas.0806627105
+>>> URL >>> http://dx.doi.org/10.1073/pnas.0806627105
+>>> year >>> 2008.0
+>>> title >>> Global alignment of multiple protein interaction networks with application to functional orthology detection
+>>> author >>> R. Singh and J. Xu and B. Berger
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 207.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the National Academy of Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:50Z', 'timestamp': 1528225370062}, 'reference-count': 18, 'publisher': 'Proceedings of the National Academy of Sciences', 'issue': '35', 'content-domain': {'domain': ['pnas.org'], 'crossmark-restriction': True}, 'short-container-title': ['Proceedings of the National Academy of Sciences'], 'published-print': {'date-parts': [[2008, 9, 2]]}, 'DOI': '10.1073/pnas.0806627105', 'type': 'journal-article', 'created': {'date-parts': [[2008, 8, 26]], 'date-time': '2008-08-26T01:09:32Z', 'timestamp': 1219712972000}, 'page': '12763-12768', 'update-policy': 'http://dx.doi.org/10.1073/pnas.cm10313', 'source': 'Crossref', 'is-referenced-by-count': 207, 'title': ['Global alignment of multiple protein interaction networks with application to functional orthology detection'], 'prefix': '10.1073', 'volume': '105', 'author': [{'given': 'R.', 'family': 'Singh', 'sequence': 'first', 'affiliation': []}, {'given': 'J.', 'family': 'Xu', 'sequence': 'additional', 'affiliation': []}, {'given': 'B.', 'family': 'Berger', 'sequence': 'additional', 'affiliation': []}], 'member': '341', 'published-online': {'date-parts': [[2008, 8, 25]]}, 'reference': [{'issue': '8', 'key': '2_19672647', 'doi-asserted-by': 'publisher', 'first-page': '4569', 'DOI': '10.1073/pnas.061034498', 'volume': '98', 'year': '2001', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': 'suppl_1', 'key': '5_18926486', 'doi-asserted-by': 'publisher', 'first-page': 'i302', 'DOI': '10.1093/bioinformatics/bti1054', 'volume': '21', 'author': 'Nabieva', 'year': '2005', 'journal-title': 'Bioinformatics', 'ISSN': 'http://id.crossref.org/issn/1367-4803', 'issn-type': 'print'}, {'issue': '4', 'key': '6_18109936', 'doi-asserted-by': 'publisher', 'first-page': '928', 'DOI': '10.1002/pmic.200300636', 'volume': '4', 'author': 'Yook', 'year': '2004', 'journal-title': 'Proteomics', 'ISSN': 'http://id.crossref.org/issn/1615-9853', 'issn-type': 'print'}, {'issue': '9', 'key': '7_22457442', 'doi-asserted-by': 'publisher', 'first-page': '1169', 'DOI': '10.1101/gr.5235706', 'volume': '16', 'year': '2006', 'journal-title': 'Genome Research', 'ISSN': 'http://id.crossref.org/issn/1088-9051', 'issn-type': 'print'}, {'key': '8_31796432', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print', 'volume': '311', 'first-page': '187', 'year': '2005', 'journal-title': 'Science'}, {'issue': '3', 'key': '9_21869948', 'doi-asserted-by': 'publisher', 'first-page': '428', 'DOI': '10.1101/gr.4526006', 'volume': '16', 'year': '2006', 'journal-title': 'Genome Research', 'ISSN': 'http://id.crossref.org/issn/1088-9051', 'issn-type': 'print'}, {'issue': 'suppl_2', 'key': '10_18236457', 'doi-asserted-by': 'publisher', 'first-page': 'W83', 'DOI': '10.1093/nar/gnh080', 'volume': '32', 'author': 'Kelley', 'year': '2004', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '20', 'key': '11_19683453', 'doi-asserted-by': 'publisher', 'first-page': '11394', 'DOI': '10.1073/pnas.1534710100', 'volume': '100', 'year': '2003', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'key': '12_31796433', 'volume': '3500', 'first-page': '48', 'year': '2005', 'journal-title': 'RECOMB'}, {'issue': '29', 'key': '13_22365367', 'doi-asserted-by': 'publisher', 'first-page': '10967', 'DOI': '10.1073/pnas.0602294103', 'volume': '103', 'year': '2006', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': 'suppl_1', 'key': '16_18802125', 'doi-asserted-by': 'publisher', 'first-page': 'D476', 'DOI': '10.1093/nar/gki107', 'volume': '33', 'author': "O'Brien", 'year': '2005', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '2-3', 'key': '17_18278813', 'doi-asserted-by': 'publisher', 'first-page': '319', 'DOI': '10.1089/1066527041410319', 'volume': '11', 'author': 'Kellis', 'year': '2004', 'journal-title': 'Journal of computational biology : a journal of computational molecular cell biology', 'ISSN': 'http://id.crossref.org/issn/1066-5277', 'issn-type': 'print'}, {'key': '18_17878496', 'doi-asserted-by': 'publisher', 'first-page': '41', 'DOI': '10.1186/1471-2105-4-41', 'volume': '4', 'author': 'Tatusov', 'year': '2003', 'journal-title': 'BMC bioinformatics [electronic resource]', 'ISSN': 'http://id.crossref.org/issn/1471-2105', 'issn-type': 'print'}, {'issue': '5338', 'key': '19_5789801', 'doi-asserted-by': 'publisher', 'first-page': '631', 'DOI': '10.1126/science.278.5338.631', 'volume': '278', 'author': 'Tatusov', 'year': '1997', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'key': '20_29729495', 'volume': '2', 'first-page': '383e', 'year': '2007', 'journal-title': 'PLOS ONE', 'DOI': '10.1371/journal.pone.0000383', 'doi-asserted-by': 'crossref'}, {'issue': '90001', 'key': '21_17716366', 'doi-asserted-by': 'publisher', 'first-page': 'i197', 'DOI': '10.1093/bioinformatics/btg1026', 'volume': '19', 'author': 'Letovsky', 'year': '2003', 'journal-title': 'Bioinformatics', 'ISSN': 'http://id.crossref.org/issn/1367-4803', 'issn-type': 'print'}, {'issue': '12', 'key': '22_23123864', 'doi-asserted-by': 'publisher', 'first-page': '1474', 'DOI': '10.1038/nbt1206-1474', 'volume': '24', 'author': 'Murali', 'year': '2006', 'journal-title': 'Nature biotechnology', 'ISSN': 'http://id.crossref.org/issn/1087-0156', 'issn-type': 'print'}, {'issue': '9', 'key': '23_19688636', 'doi-asserted-by': 'publisher', 'first-page': '2888', 'DOI': '10.1073/pnas.0307326101', 'volume': '101', 'year': '2004', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}], 'container-title': ['Proceedings of the National Academy of Sciences'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1073/pnas.0806627105', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T11:13:02Z', 'timestamp': 1497784382000}, 'score': 86.74892, 'issued': {'date-parts': [[2008, 8, 25]]}, 'references-count': 18, 'journal-issue': {'published-online': {'date-parts': [[2008, 9, 2]]}, 'published-print': {'date-parts': [[2008, 9, 2]]}, 'issue': '35'}, 'URL': 'http://dx.doi.org/10.1073/pnas.0806627105', 'relation': {'cites': []}, 'ISSN': ['0027-8424', '1091-6490'], 'issn-type': [{'value': '0027-8424', 'type': 'print'}, {'value': '1091-6490', 'type': 'electronic'}]}
+>>> hash >>> ('Global alignment of multiple protein interaction networks with application to functional orthology detection', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Bayati, M. Gerritsen, D. F. Gleich, A. Saberi, Y. Wang, "Algorithms for large sparse network alignment problems", arXiv, vol. 0907, no. 3338, 2009.
+>>> DOI >>> 10.1109/icdm.2009.135
+>>> URL >>> http://dx.doi.org/10.1109/icdm.2009.135
+>>> year >>> 2009.0
+>>> title >>> Algorithms for Large, Sparse Network Alignment Problems
+>>> author >>> Mohsen Bayati and Margot Gerritsen and David F. Gleich and Amin Saberi and Ying Wang
+>>> reference_count >>> 23.0
+>>> is_referenced_by_count >>> 24.0
+>>> subject >>> None
+>>> container_title >>> ['2009 Ninth IEEE International Conference on Data Mining']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T13:02:29Z', 'timestamp': 1527771749432}, 'reference-count': 23, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424452422', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009, 12]]}, 'DOI': '10.1109/icdm.2009.135', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 1, 7]], 'date-time': '2010-01-07T16:47:34Z', 'timestamp': 1262882854000}, 'source': 'Crossref', 'is-referenced-by-count': 24, 'title': ['Algorithms for Large, Sparse Network Alignment Problems'], 'prefix': '10.1109', 'author': [{'given': 'Mohsen', 'family': 'Bayati', 'sequence': 'first', 'affiliation': []}, {'given': 'Margot', 'family': 'Gerritsen', 'sequence': 'additional', 'affiliation': []}, {'given': 'David F.', 'family': 'Gleich', 'sequence': 'additional', 'affiliation': []}, {'given': 'Amin', 'family': 'Saberi', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ying', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2009 Ninth IEEE International Conference on Data Mining (ICDM)', 'location': 'Miami Beach, FL, USA', 'start': {'date-parts': [[2009, 12, 6]]}, 'end': {'date-parts': [[2009, 12, 9]]}}, 'container-title': ['2009 Ninth IEEE International Conference on Data Mining'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5360037/5360038/05360298.pdf?arnumber=5360298', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 19]], 'date-time': '2017-06-19T03:29:54Z', 'timestamp': 1497842994000}, 'score': 93.67457, 'issued': {'date-parts': [[2009, 12]]}, 'ISBN': ['9781424452422'], 'references-count': 23, 'URL': 'http://dx.doi.org/10.1109/icdm.2009.135'}
+>>> hash >>> ('Algorithms for Large, Sparse Network Alignment Problems', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. Klau, "A new graph-based method for pairwise global network alignment", BMC Bioinformatics, vol. 10, no. S1, pp. S59, January 2009.
+>>> DOI >>> 10.1186/1471-2105-10-s1-s59
+>>> URL >>> http://dx.doi.org/10.1186/1471-2105-10-s1-s59
+>>> year >>> 2009.0
+>>> title >>> A new graph-based method for pairwise global network alignment
+>>> author >>> Gunnar W Klau
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 76.0
+>>> subject >>> None
+>>> container_title >>> ['BMC Bioinformatics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T19:44:54Z', 'timestamp': 1525463094110}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': 'Suppl 1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['BMC Bioinformatics'], 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1186/1471-2105-10-s1-s59', 'type': 'journal-article', 'created': {'date-parts': [[2009, 1, 30]], 'date-time': '2009-01-30T20:05:18Z', 'timestamp': 1233345918000}, 'page': 'S59', 'source': 'Crossref', 'is-referenced-by-count': 76, 'title': ['A new graph-based method for pairwise global network alignment'], 'prefix': '10.1186', 'volume': '10', 'author': [{'given': 'Gunnar W', 'family': 'Klau', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['BMC Bioinformatics'], 'language': 'en', 'deposited': {'date-parts': [[2011, 6, 3]], 'date-time': '2011-06-03T09:20:46Z', 'timestamp': 1307092846000}, 'score': 102.59778, 'issued': {'date-parts': [[2009]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2009]]}, 'issue': 'Suppl 1'}, 'alternative-id': ['1471-2105-10-S1-S59'], 'URL': 'http://dx.doi.org/10.1186/1471-2105-10-s1-s59', 'ISSN': ['1471-2105'], 'issn-type': [{'value': '1471-2105', 'type': 'print'}]}
+>>> hash >>> ('A new graph-based method for pairwise global network alignment', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Berg, M. Lassig, "Cross-species analysis of biological networks by bayesian alignment", PNAS, vol. 103, no. 29, pp. 10967-10972, 2006.
+>>> DOI >>> 10.1073/pnas.0602294103
+>>> URL >>> http://dx.doi.org/10.1073/pnas.0602294103
+>>> year >>> 2006.0
+>>> title >>> Cross-species analysis of biological networks by Bayesian alignment
+>>> author >>> J. Berg and M. Lassig
+>>> reference_count >>> 25.0
+>>> is_referenced_by_count >>> 64.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the National Academy of Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T01:23:50Z', 'timestamp': 1525310630787}, 'reference-count': 25, 'publisher': 'Proceedings of the National Academy of Sciences', 'issue': '29', 'content-domain': {'domain': ['pnas.org'], 'crossmark-restriction': True}, 'short-container-title': ['Proceedings of the National Academy of Sciences'], 'published-print': {'date-parts': [[2006, 7, 18]]}, 'DOI': '10.1073/pnas.0602294103', 'type': 'journal-article', 'created': {'date-parts': [[2006, 7, 12]], 'date-time': '2006-07-12T03:33:40Z', 'timestamp': 1152675220000}, 'page': '10967-10972', 'update-policy': 'http://dx.doi.org/10.1073/pnas.cm10313', 'source': 'Crossref', 'is-referenced-by-count': 64, 'title': ['Cross-species analysis of biological networks by Bayesian alignment'], 'prefix': '10.1073', 'volume': '103', 'author': [{'given': 'J.', 'family': 'Berg', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Lassig', 'sequence': 'additional', 'affiliation': []}], 'member': '341', 'published-online': {'date-parts': [[2006, 7, 11]]}, 'reference': [{'issue': '5643', 'key': '1_17852504', 'doi-asserted-by': 'publisher', 'first-page': '249', 'DOI': '10.1126/science.1087447', 'volume': '302', 'year': '2003', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '6', 'key': '3_19691715', 'doi-asserted-by': 'publisher', 'first-page': '1974', 'DOI': '10.1073/pnas.0409522102', 'volume': '102', 'year': '2005', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': '6', 'key': '4_19338066', 'doi-asserted-by': 'publisher', 'first-page': '835', 'DOI': '10.1089/cmb.2005.12.835', 'volume': '12', 'author': 'Sharan', 'year': '2005', 'journal-title': 'Journal of computational biology : a journal of computational molecular cell biology', 'ISSN': 'http://id.crossref.org/issn/1066-5277', 'issn-type': 'print'}, {'issue': '1', 'key': '5_17029894', 'doi-asserted-by': 'publisher', 'first-page': '64', 'DOI': '10.1038/ng881', 'volume': '31', 'author': 'Shen-Orr', 'year': '2002', 'journal-title': 'Nature genetics', 'ISSN': 'http://id.crossref.org/issn/1061-4036', 'issn-type': 'print'}, {'issue': '5594', 'key': '6_17300562', 'doi-asserted-by': 'publisher', 'first-page': '824', 'DOI': '10.1126/science.298.5594.824', 'volume': '298', 'author': 'Milo', 'year': '2002', 'journal-title': 'Science', 'ISSN': 'http://id.crossref.org/issn/0036-8075', 'issn-type': 'print'}, {'issue': '41', 'key': '7_19687625', 'doi-asserted-by': 'publisher', 'first-page': '14689', 'DOI': '10.1073/pnas.0305199101', 'volume': '101', 'year': '2004', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'key': '8_26859110', 'volume': '7', 'first-page': 'e74', 'year': '2005', 'journal-title': 'PLOS COMPUT BIOL'}, {'issue': '20', 'key': '10_19683453', 'doi-asserted-by': 'publisher', 'first-page': '11394', 'DOI': '10.1073/pnas.1534710100', 'volume': '100', 'year': '2003', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': 'suppl_2', 'key': '11_18236457', 'doi-asserted-by': 'publisher', 'first-page': 'W83', 'DOI': '10.1093/nar/gnh080', 'volume': '32', 'author': 'Kelley', 'year': '2004', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '16', 'key': '12_19309690', 'doi-asserted-by': 'publisher', 'first-page': '3401', 'DOI': '10.1093/bioinformatics/bti554', 'volume': '21', 'year': '2005', 'journal-title': 'Bioinformatics', 'ISSN': 'http://id.crossref.org/issn/1367-4803', 'issn-type': 'print'}, {'issue': '9', 'key': '13_16447163', 'doi-asserted-by': 'publisher', 'first-page': '334', 'DOI': '10.1016/0168-9525(96)20010-1', 'volume': '12', 'author': 'Koonin', 'year': '1996', 'journal-title': 'Trends in genetics : TIG', 'ISSN': 'http://id.crossref.org/issn/0168-9525', 'issn-type': 'print'}, {'issue': '1', 'key': '14_16654222', 'first-page': '55', 'volume': '1', 'author': 'Galperin', 'year': '1998', 'journal-title': 'In silico biology', 'ISSN': 'http://id.crossref.org/issn/1386-6338', 'issn-type': 'print'}, {'issue': '7', 'key': '15_17697642', 'doi-asserted-by': 'publisher', 'first-page': '790', 'DOI': '10.1038/nbt834', 'volume': '21', 'author': 'Morett', 'year': '2003', 'journal-title': 'Nature biotechnology', 'ISSN': 'http://id.crossref.org/issn/1087-0156', 'issn-type': 'print'}, {'issue': '3', 'key': '16_11556560', 'doi-asserted-by': 'publisher', 'first-page': '443', 'DOI': '10.1016/0022-2836(70)90057-4', 'volume': '48', 'author': 'Needleman', 'year': '1970', 'journal-title': 'Journal of molecular biology', 'ISSN': 'http://id.crossref.org/issn/0022-2836', 'issn-type': 'print'}, {'issue': '1', 'key': '17_8448214', 'doi-asserted-by': 'publisher', 'first-page': '195', 'DOI': '10.1016/0022-2836(81)90087-5', 'volume': '147', 'author': 'Smith', 'year': '1981', 'journal-title': 'Journal of molecular biology', 'ISSN': 'http://id.crossref.org/issn/0022-2836', 'issn-type': 'print'}, {'issue': '10', 'key': '19_18862295', 'doi-asserted-by': 'publisher', 'first-page': '2301', 'DOI': '10.1093/bioinformatics/bti329', 'volume': '21', 'year': '2005', 'journal-title': 'Bioinformatics', 'ISSN': 'http://id.crossref.org/issn/1367-4803', 'issn-type': 'print'}, {'issue': 'suppl_1', 'key': '20_18802119', 'doi-asserted-by': 'publisher', 'first-page': 'D447', 'DOI': '10.1093/nar/gki378', 'volume': '33', 'author': 'Hubbard', 'year': '2005', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'key': '21_26859112', 'volume': '38', 'first-page': '325', 'year': '1987', 'journal-title': 'COMPUTING', 'DOI': '10.1007/BF02278710', 'doi-asserted-by': 'crossref'}, {'issue': '16', 'key': '22_19685755', 'doi-asserted-by': 'publisher', 'first-page': '6062', 'DOI': '10.1073/pnas.0400782101', 'volume': '101', 'year': '2004', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}, {'issue': '17', 'key': '23_37723758', 'doi-asserted-by': 'publisher', 'first-page': '3389', 'DOI': '10.1093/nar/25.17.3389', 'volume': '25', 'year': '1997', 'journal-title': 'Nucleic Acids Research', 'ISSN': 'http://id.crossref.org/issn/0305-1048', 'issn-type': 'print'}, {'issue': '1', 'key': '24_10309081', 'doi-asserted-by': 'publisher', 'first-page': '25', 'DOI': '10.1038/75556', 'volume': '25', 'author': 'Ashburner', 'year': '2000', 'journal-title': 'Nature genetics', 'ISSN': 'http://id.crossref.org/issn/1061-4036', 'issn-type': 'print'}, {'key': '25_18242860', 'doi-asserted-by': 'publisher', 'first-page': '4', 'DOI': '10.1186/1471-2199-5-4', 'volume': '5', 'author': 'Imamura', 'year': '2004', 'journal-title': 'BMC molecular biology [electronic resource]', 'ISSN': 'http://id.crossref.org/issn/1471-2199', 'issn-type': 'print'}, {'issue': '5', 'key': '26_18364037', 'doi-asserted-by': 'publisher', 'first-page': 'E132', 'DOI': '10.1371/journal.pbio.0020132', 'volume': '2', 'author': 'Khaitovich', 'year': '2004', 'journal-title': 'PLoS biology', 'ISSN': 'http://id.crossref.org/issn/1544-9173', 'issn-type': 'print'}, {'issue': '3', 'key': '27_21684438', 'doi-asserted-by': 'publisher', 'first-page': '132', 'DOI': '10.1016/j.tig.2006.01.006', 'volume': '22', 'author': 'Yanai', 'year': '2006', 'journal-title': 'Trends in genetics : TIG', 'ISSN': 'http://id.crossref.org/issn/0168-9525', 'issn-type': 'print'}, {'issue': '20', 'key': '28_19689482', 'doi-asserted-by': 'publisher', 'first-page': '7203', 'DOI': '10.1073/pnas.0502521102', 'volume': '102', 'year': '2005', 'journal-title': 'PNAS', 'ISSN': 'http://id.crossref.org/issn/0027-8424', 'issn-type': 'print'}], 'container-title': ['Proceedings of the National Academy of Sciences'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1073/pnas.0602294103', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T07:26:06Z', 'timestamp': 1497684366000}, 'score': 90.25168, 'issued': {'date-parts': [[2006, 7, 11]]}, 'references-count': 25, 'journal-issue': {'published-online': {'date-parts': [[2006, 7, 18]]}, 'published-print': {'date-parts': [[2006, 7, 18]]}, 'issue': '29'}, 'URL': 'http://dx.doi.org/10.1073/pnas.0602294103', 'relation': {'cites': []}, 'ISSN': ['0027-8424', '1091-6490'], 'issn-type': [{'value': '0027-8424', 'type': 'print'}, {'value': '1091-6490', 'type': 'electronic'}]}
+>>> hash >>> ('Cross-species analysis of biological networks by Bayesian alignment', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Flannick, A. Novak, B. S. Srinivasan, H. H. McAdams, S. Batzoglou, "Gnemlin: General and robust alignment of multiple large interaction networks", Genome Research, vol. 16, pp. 1169-1181, August 2006.
+>>> DOI >>> 10.1101/gr.5235706
+>>> URL >>> http://dx.doi.org/10.1101/gr.5235706
+>>> year >>> 2006.0
+>>> title >>> Graemlin: General and robust alignment of multiple large interaction networks
+>>> author >>> J. Flannick
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 165.0
+>>> subject >>> None
+>>> container_title >>> ['Genome Research']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365144}, 'reference-count': 0, 'publisher': 'Cold Spring Harbor Laboratory', 'issue': '9', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Genome Research'], 'DOI': '10.1101/gr.5235706', 'type': 'journal-article', 'created': {'date-parts': [[2006, 8, 10]], 'date-time': '2006-08-10T00:59:03Z', 'timestamp': 1155171543000}, 'page': '1169-1181', 'source': 'Crossref', 'is-referenced-by-count': 165, 'title': ['Graemlin: General and robust alignment of multiple large interaction networks'], 'prefix': '10.1101', 'volume': '16', 'author': [{'given': 'J.', 'family': 'Flannick', 'sequence': 'first', 'affiliation': []}], 'member': '246', 'published-online': {'date-parts': [[2006, 8, 9]]}, 'container-title': ['Genome Research'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1101/gr.5235706', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 2, 15]], 'date-time': '2017-02-15T17:47:54Z', 'timestamp': 1487180874000}, 'score': 94.906784, 'issued': {'date-parts': [[2006, 8, 9]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2006, 8, 9]]}, 'issue': '9'}, 'URL': 'http://dx.doi.org/10.1101/gr.5235706', 'ISSN': ['1088-9051'], 'issn-type': [{'value': '1088-9051', 'type': 'print'}]}
+>>> hash >>> ('Graemlin: General and robust alignment of multiple large interaction networks', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Pearl, Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference, San Francisco:Morgan Kaufmann, 1988.
+>>> DOI >>> 10.2307/2275238
+>>> URL >>> http://dx.doi.org/10.2307/2275238
+>>> year >>> 1993.0
+>>> title >>> Pearl                Judea. Probabilistic reasoning in intelligent systems: networks of plausible inference. Series in representation and reasoning. Morgan Kaufmann, San Mateo             1988, xix + 552 pp.
+>>> author >>> Eric Neufeld
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['The Journal of Symbolic Logic']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T21:25:57Z', 'timestamp': 1525296357058}, 'reference-count': 0, 'publisher': 'Cambridge University Press (CUP)', 'issue': '02', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J. symb. log.'], 'published-print': {'date-parts': [[1993, 6]]}, 'DOI': '10.2307/2275238', 'type': 'journal-article', 'created': {'date-parts': [[2006, 5, 6]], 'date-time': '2006-05-06T22:48:26Z', 'timestamp': 1146955706000}, 'page': '721', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Pearl\n                Judea. Probabilistic reasoning in intelligent systems: networks of plausible inference. Series in representation and reasoning. Morgan Kaufmann, San Mateo \n            1988, xix + 552 pp.'], 'prefix': '10.1017', 'volume': '58', 'author': [{'given': 'Eric', 'family': 'Neufeld', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'published-online': {'date-parts': [[2014, 3, 12]]}, 'container-title': ['The Journal of Symbolic Logic'], 'language': 'en', 'link': [{'URL': 'https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0022481200021514', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 4, 22]], 'date-time': '2017-04-22T09:29:49Z', 'timestamp': 1492853389000}, 'score': 62.103336, 'issued': {'date-parts': [[1993, 6]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1993, 6]]}, 'issue': '02'}, 'alternative-id': ['S0022481200021514'], 'URL': 'http://dx.doi.org/10.2307/2275238', 'ISSN': ['0022-4812', '1943-5886'], 'issn-type': [{'value': '0022-4812', 'type': 'print'}, {'value': '1943-5886', 'type': 'electronic'}]}
+>>> hash >>> ('Pearl                Judea. Probabilistic reasoning in intelligent systems: networks of plausible inference. Series in representation and reasoning. Morgan Kaufmann, San Mateo             1988, xix + 552 pp.', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Bayati, D. Shah, M. Sharma, "Maximum weight matching via max-product belief propagation", Intl. Symposium on Information Theory, pp. 1763-1767, 2005.
+>>> DOI >>> 10.1109/isit.2005.1523648
+>>> URL >>> http://dx.doi.org/10.1109/isit.2005.1523648
+>>> year >>> 2005.0
+>>> title >>> Maximum weight matching via max-product belief propagation
+>>> author >>> M. Bayati and D. Shah and M. Sharma
+>>> reference_count >>> 20.0
+>>> is_referenced_by_count >>> 22.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings. International Symposium on Information Theory, 2005. ISIT 2005.']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T05:11:46Z', 'timestamp': 1525324306389}, 'reference-count': 20, 'publisher': 'IEEE', 'isbn-type': [{'value': '0780391519', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1109/isit.2005.1523648', 'type': 'proceedings-article', 'created': {'date-parts': [[2006, 10, 11]], 'date-time': '2006-10-11T15:51:59Z', 'timestamp': 1160581919000}, 'source': 'Crossref', 'is-referenced-by-count': 22, 'title': ['Maximum weight matching via max-product belief propagation'], 'prefix': '10.1109', 'author': [{'given': 'M.', 'family': 'Bayati', 'sequence': 'first', 'affiliation': []}, {'given': 'D.', 'family': 'Shah', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Sharma', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Proceedings. International Symposium on Information Theory, 2005. ISIT 2005.', 'location': 'Adelaide, Australia', 'start': {'date-parts': [[2005, 9, 4]]}, 'end': {'date-parts': [[2005, 9, 9]]}}, 'container-title': ['Proceedings. International Symposium on Information Theory, 2005. ISIT 2005.'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/10215/32581/01523648.pdf?arnumber=1523648', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 17]], 'date-time': '2017-06-17T10:08:33Z', 'timestamp': 1497694113000}, 'score': 103.85289, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['0780391519'], 'references-count': 20, 'URL': 'http://dx.doi.org/10.1109/isit.2005.1523648'}
+>>> hash >>> ('Maximum weight matching via max-product belief propagation', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> D. Conte, P. Foggia, M. Vento, "Challenging complexity of maximum common subgraph detection algorithms: A performance analysis of three algorithms on a wide database of graphs", J. Graph Algorithms Appl., vol. 11, no. 1, pp. 99-143, 2007.
+>>> DOI >>> 10.7155/jgaa.00139
+>>> URL >>> http://dx.doi.org/10.7155/jgaa.00139
+>>> year >>> 2007.0
+>>> title >>> Challenging Complexity of Maximum Common Subgraph Detection Algorithms: A Performance Analysis of Three Algorithms on a Wide Database of Graphs
+>>> author >>> Donatello Conte and Pasquale Foggia and Mario Vento
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 32.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Graph Algorithms and Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T06:22:30Z', 'timestamp': 1528352550953}, 'reference-count': 0, 'publisher': 'Journal of Graph Algorithms and Applications', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JGAA', 'J. Graph Algorithms Appl.'], 'DOI': '10.7155/jgaa.00139', 'type': 'journal-article', 'created': {'date-parts': [[2012, 7, 19]], 'date-time': '2012-07-19T08:24:38Z', 'timestamp': 1342686278000}, 'page': '99-143', 'source': 'Crossref', 'is-referenced-by-count': 32, 'title': ['Challenging Complexity of Maximum Common Subgraph Detection Algorithms: A Performance Analysis of Three Algorithms on a Wide Database of Graphs'], 'prefix': '10.7155', 'volume': '11', 'author': [{'given': 'Donatello', 'family': 'Conte', 'sequence': 'first', 'affiliation': []}, {'given': 'Pasquale', 'family': 'Foggia', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mario', 'family': 'Vento', 'sequence': 'additional', 'affiliation': []}], 'member': '4175', 'published-online': {'date-parts': [[2007]]}, 'container-title': ['Journal of Graph Algorithms and Applications'], 'language': 'en', 'deposited': {'date-parts': [[2012, 11, 5]], 'date-time': '2012-11-05T22:19:00Z', 'timestamp': 1352153940000}, 'score': 130.19763, 'issued': {'date-parts': [[2007]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2007]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.7155/jgaa.00139', 'ISSN': ['1526-1719'], 'issn-type': [{'value': '1526-1719', 'type': 'electronic'}]}
+>>> hash >>> ('Challenging Complexity of Maximum Common Subgraph Detection Algorithms: A Performance Analysis of Three Algorithms on a Wide Database of Graphs', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> O. SvÃ¡b, K. A. et al., "Exploiting patterns in ontology mapping", Proc. of the 6th Intl. Semantic Web Conf., vol. 4825, pp. 950-954, November 2007.
+>>> DOI >>> 10.1007/978-3-540-76298-0_77
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-76298-0_77
+>>> year >>> 2007.0
+>>> title >>> Exploiting Patterns in Ontology Mapping
+>>> author >>> Ond\u0159ej Šváb
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['The Semantic Web', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database42.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:45:22Z', 'timestamp': 1525394722405}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540762973', 'type': 'print'}, {'value': '9783540762980', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.1007/978-3-540-76298-0_77', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 10, 26]], 'date-time': '2007-10-26T14:13:59Z', 'timestamp': 1193408039000}, 'page': '956-960', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Exploiting Patterns in Ontology Mapping'], 'prefix': '10.1007', 'author': [{'given': 'Ond\u0159ej', 'family': 'Šváb', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['The Semantic Web', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-540-76298-0_77', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 18]], 'date-time': '2014-01-18T17:08:11Z', 'timestamp': 1390064891000}, 'score': 49.48771, 'issued': {'date-parts': [[2007]]}, 'ISBN': ['9783540762973', '9783540762980'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-540-76298-0_77', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Exploiting Patterns in Ontology Mapping', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

@@ -1,0 +1,265 @@
+>>> NEW PAPER <<<
+>>> citation >>> Brunel, J., Doligez, D., Hansen, R.R., Lawall, J.L., Muller, G.: A foundation for flow-based program matching, using temporal logic and model checking POPL. ACM (2009)
+>>> DOI >>> 10.1145/1594834.1480897
+>>> URL >>> http://dx.doi.org/10.1145/1594834.1480897
+>>> year >>> 2009.0
+>>> title >>> A foundation for flow-based program matching
+>>> author >>> Julien Brunel and Damien Doligez and René Rydhof Hansen and Julia L. Lawall and Gilles Muller
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['ACM SIGPLAN Notices']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database210.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T03:47:48Z', 'timestamp': 1525492068863}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIGPLAN Not.'], 'published-print': {'date-parts': [[2009, 1, 21]]}, 'DOI': '10.1145/1594834.1480897', 'type': 'journal-article', 'created': {'date-parts': [[2009, 8, 17]], 'date-time': '2009-08-17T19:37:29Z', 'timestamp': 1250537849000}, 'page': '114', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['A foundation for flow-based program matching'], 'prefix': '10.1145', 'volume': '44', 'author': [{'given': 'Julien', 'family': 'Brunel', 'sequence': 'first', 'affiliation': []}, {'given': 'Damien', 'family': 'Doligez', 'sequence': 'additional', 'affiliation': []}, {'given': 'René Rydhof', 'family': 'Hansen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Julia L.', 'family': 'Lawall', 'sequence': 'additional', 'affiliation': []}, {'given': 'Gilles', 'family': 'Muller', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['ACM SIGPLAN Notices'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1480897&amp;ftid=615835&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T18:57:40Z', 'timestamp': 1481914660000}, 'score': 105.310104, 'subtitle': ['using temporal logic and model checking'], 'issued': {'date-parts': [[2009, 1, 21]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2009, 1, 21]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1145/1594834.1480897', 'ISSN': ['0362-1340'], 'issn-type': [{'value': '0362-1340', 'type': 'print'}]}
+>>> hash >>> ('A foundation for flow-based program matching', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ernst, M., et al.: Quickly detecting relevant program invariants. In: 22nd International Conference on Software Engineering, pp. 449â€“458 (2000)
+>>> DOI >>> 10.1109/icse.2000.870435
+>>> URL >>> http://dx.doi.org/10.1109/icse.2000.870435
+>>> year >>> None
+>>> title >>> Quickly detecting relevant program invariants
+>>> author >>> M.D. Ernst and A. Czeisler and W.G. Griswold and D. Notkin
+>>> reference_count >>> 10.0
+>>> is_referenced_by_count >>> 51.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the 2000 International Conference on Software Engineering. ICSE 2000 the New Millennium']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database210.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 12]], 'date-time': '2018-06-12T07:02:29Z', 'timestamp': 1528786949127}, 'reference-count': 10, 'publisher': 'ACM', 'isbn-type': [{'value': '1581132069', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/icse.2000.870435', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 7]], 'date-time': '2002-11-07T23:28:47Z', 'timestamp': 1036711727000}, 'source': 'Crossref', 'is-referenced-by-count': 51, 'title': ['Quickly detecting relevant program invariants'], 'prefix': '10.1109', 'author': [{'given': 'M.D.', 'family': 'Ernst', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Czeisler', 'sequence': 'additional', 'affiliation': []}, {'given': 'W.G.', 'family': 'Griswold', 'sequence': 'additional', 'affiliation': []}, {'given': 'D.', 'family': 'Notkin', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'International Conference on Software Engineering', 'location': 'Limerick, Ireland', 'acronym': 'ICSE-00'}, 'container-title': ['Proceedings of the 2000 International Conference on Software Engineering. ICSE 2000 the New Millennium'], 'deposited': {'date-parts': [[2015, 10, 11]], 'date-time': '2015-10-11T13:09:02Z', 'timestamp': 1444568942000}, 'score': 72.66891, 'issued': {'date-parts': [[None]]}, 'ISBN': ['1581132069'], 'references-count': 10, 'URL': 'http://dx.doi.org/10.1109/icse.2000.870435'}
+>>> hash >>> ('Quickly detecting relevant program invariants', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sadiq, W., Orlowska, M.E.: Analyzing process models using graph reduction techniques. Inf. Syst. 25(2), 117â€“134 (2000)
+>>> DOI >>> 10.1016/s0306-4379(00)00012-0
+>>> URL >>> http://dx.doi.org/10.1016/s0306-4379(00)00012-0
+>>> year >>> 2000.0
+>>> title >>> Analyzing process models using graph reduction techniques
+>>> author >>> Wasim Sadiq and Maria E. Orlowska
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 198.0
+>>> subject >>> None
+>>> container_title >>> ['Information Systems']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database210.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 20]], 'date-time': '2018-06-20T13:22:30Z', 'timestamp': 1529500950603}, 'reference-count': 18, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2000, 4, 1]], 'date-time': '2000-04-01T00:00:00Z', 'timestamp': 954547200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Information Systems'], 'published-print': {'date-parts': [[2000, 4]]}, 'DOI': '10.1016/s0306-4379(00)00012-0', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T02:46:48Z', 'timestamp': 1027651608000}, 'page': '117-134', 'source': 'Crossref', 'is-referenced-by-count': 198, 'title': ['Analyzing process models using graph reduction techniques'], 'prefix': '10.1016', 'volume': '25', 'author': [{'given': 'Wasim', 'family': 'Sadiq', 'sequence': 'first', 'affiliation': []}, {'given': 'Maria E.', 'family': 'Orlowska', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Information Systems'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0306437900000120?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0306437900000120?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 10, 29]], 'date-time': '2017-10-29T03:03:32Z', 'timestamp': 1509246212000}, 'score': 81.06278, 'issued': {'date-parts': [[2000, 4]]}, 'references-count': 18, 'journal-issue': {'published-print': {'date-parts': [[2000, 4]]}, 'issue': '2'}, 'alternative-id': ['S0306437900000120'], 'URL': 'http://dx.doi.org/10.1016/s0306-4379(00)00012-0', 'ISSN': ['0306-4379'], 'issn-type': [{'value': '0306-4379', 'type': 'print'}]}
+>>> hash >>> ('Analyzing process models using graph reduction techniques', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Abadi, M., Budiu, M., Erlingsson, Uâ€™., Ligatti, J.: Control flow integrity principles, implementations, and applications. ACM Trans. Inf. Syst. Secur. 13(1), 4:1â€“4:40 (2009)
+>>> DOI >>> 10.1145/1609956.1609960
+>>> URL >>> http://dx.doi.org/10.1145/1609956.1609960
+>>> year >>> 2009.0
+>>> title >>> Control-flow integrity principles, implementations, and applications
+>>> author >>> Martín Abadi and Mihai Budiu and Úlfar Erlingsson and Jay Ligatti
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 93.0
+>>> subject >>> None
+>>> container_title >>> ['ACM Transactions on Information and System Security']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database210.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 21]], 'date-time': '2018-06-21T14:42:39Z', 'timestamp': 1529592159960}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['TISSEC', 'ACM Trans. Inf. Syst. Secur.'], 'published-print': {'date-parts': [[2009, 10, 1]]}, 'DOI': '10.1145/1609956.1609960', 'type': 'journal-article', 'created': {'date-parts': [[2009, 11, 4]], 'date-time': '2009-11-04T18:28:31Z', 'timestamp': 1257359311000}, 'page': '1-40', 'source': 'Crossref', 'is-referenced-by-count': 93, 'title': ['Control-flow integrity principles, implementations, and applications'], 'prefix': '10.1145', 'volume': '13', 'author': [{'given': 'Martín', 'family': 'Abadi', 'sequence': 'first', 'affiliation': []}, {'given': 'Mihai', 'family': 'Budiu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Úlfar', 'family': 'Erlingsson', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jay', 'family': 'Ligatti', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['ACM Transactions on Information and System Security'], 'language': 'en', 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1609960&amp;ftid=702917&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T03:58:03Z', 'timestamp': 1481083083000}, 'score': 123.39677, 'issued': {'date-parts': [[2009, 10, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2009, 10, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1145/1609956.1609960', 'ISSN': ['1094-9224'], 'issn-type': [{'value': '1094-9224', 'type': 'print'}]}
+>>> hash >>> ('Control-flow integrity principles, implementations, and applications', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Gold, R.: Reductions of control flow graphs. Int. J. Comput., Electr. Autom. Control Inf. Eng. 8(3), (2014)
+>>> DOI >>> 10.1063/1.4992702
+>>> URL >>> http://dx.doi.org/10.1063/1.4992702
+>>> year >>> 2014.0
+>>> title >>> Reductions of control flow graphs
+>>> author >>> Robert Gold
+>>> reference_count >>> 7.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database210.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T18:57:58Z', 'timestamp': 1525719478062}, 'reference-count': 7, 'publisher': 'Author(s)', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2017]]}, 'DOI': '10.1063/1.4992702', 'type': 'proceedings-article', 'created': {'date-parts': [[2017, 7, 22]], 'date-time': '2017-07-22T00:31:20Z', 'timestamp': 1500683480000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Detection of control flow errors in directed graphs'], 'prefix': '10.1063', 'author': [{'given': 'Robert', 'family': 'Gold', 'sequence': 'first', 'affiliation': []}], 'member': '317', 'reference': [{'key': '10.1063/1.4992702_c1', 'DOI': '10.1145/1609956.1609960', 'doi-asserted-by': 'publisher'}, {'key': '10.1063/1.4992702_c2', 'DOI': '10.2478/v10006-010-0056-9', 'doi-asserted-by': 'publisher'}, {'key': '10.1063/1.4992702_c3', 'DOI': '10.17654/FJAMOct2015_027_049', 'doi-asserted-by': 'publisher'}, {'key': '10.1063/1.4992702_c4', 'unstructured': 'Miremadi, G., Karlsson, J., Gunneflo, U., Torin, J.: Two Software Techniques for On-line Error Detection. 22nd International Symposium on Fault-Tolerant Computing (FTCS-22), Boston, USA, pp. 328–335 (1992).', 'DOI': '10.1109/FTCS.1992.243568', 'doi-asserted-by': 'crossref'}, {'key': '10.1063/1.4992702_c5', 'DOI': '10.1109/24.994926', 'doi-asserted-by': 'publisher'}, {'key': '10.1063/1.4992702_c6', 'unstructured': 'Reps, T., Horwitz, S., Sagiv, M: Precise Interprocedural Dataflow Analysis via Graph Reachability. Proceedings of the 22nd ACM SIGPLAN-SIGACT Symposium on Principles of Progr. Languages, pp. 49–61 (1995).', 'DOI': '10.1145/199448.199462', 'doi-asserted-by': 'crossref'}, {'key': '10.1063/1.4992702_c7', 'DOI': '10.1016/j.cja.2015.04.010', 'doi-asserted-by': 'publisher'}], 'event': {'name': 'INTERNATIONAL CONFERENCE OF NUMERICAL ANALYSIS AND APPLIED MATHEMATICS (ICNAAM 2016)', 'location': 'Rhodes, Greece'}, 'link': [{'URL': 'http://aip.scitation.org/doi/pdf/10.1063/1.4992702', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 7, 22]], 'date-time': '2017-07-22T02:07:28Z', 'timestamp': 1500689248000}, 'score': 33.98649, 'issued': {'date-parts': [[2017]]}, 'references-count': 7, 'URL': 'http://dx.doi.org/10.1063/1.4992702', 'relation': {'cites': []}}
+>>> hash >>> ('Reductions of control flow graphs', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Messmer, B.T., Bunke, H.: A decision tree approach to graph and subgraph isomorphism detection. J. Pattern Recog. 32, 1979â€“1998 (1999)
+>>> DOI >>> 10.1016/s0031-3203(98)90142-x
+>>> URL >>> http://dx.doi.org/10.1016/s0031-3203(98)90142-x
+>>> year >>> 1999.0
+>>> title >>> A decision tree approach to graph and subgraph isomorphism detection
+>>> author >>> B.T. Messmer and H. Bunke
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 63.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database210.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 14]], 'date-time': '2018-06-14T01:22:36Z', 'timestamp': 1528939356349}, 'reference-count': 0, 'publisher': 'Elsevier BV', 'issue': '12', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1999, 12, 1]], 'date-time': '1999-12-01T00:00:00Z', 'timestamp': 944006400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition'], 'published-print': {'date-parts': [[1999, 12]]}, 'DOI': '10.1016/s0031-3203(98)90142-x', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T15:01:39Z', 'timestamp': 1027609299000}, 'page': '1979-1998', 'source': 'Crossref', 'is-referenced-by-count': 63, 'title': ['A decision tree approach to graph and subgraph isomorphism detection'], 'prefix': '10.1016', 'volume': '32', 'author': [{'given': 'B.T.', 'family': 'Messmer', 'sequence': 'first', 'affiliation': []}, {'given': 'H.', 'family': 'Bunke', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S003132039890142X?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S003132039890142X?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2015, 9, 3]], 'date-time': '2015-09-03T07:54:07Z', 'timestamp': 1441266847000}, 'score': 100.00743, 'issued': {'date-parts': [[1999, 12]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1999, 12]]}, 'issue': '12'}, 'alternative-id': ['S003132039890142X'], 'URL': 'http://dx.doi.org/10.1016/s0031-3203(98)90142-x', 'ISSN': ['0031-3203'], 'issn-type': [{'value': '0031-3203', 'type': 'print'}]}
+>>> hash >>> ('A decision tree approach to graph and subgraph isomorphism detection', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bondy, J.A., Murty. U.S.R.: Graph Theory. Springer, Berlin (2008)
+>>> DOI >>> 10.1007/978-1-84628-970-5
+>>> URL >>> http://dx.doi.org/10.1007/978-1-84628-970-5
+>>> year >>> 2008.0
+>>> title >>> Graph Theory
+>>> author >>> J. A. Bondy and U. S. R. Murty
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 599.0
+>>> subject >>> None
+>>> container_title >>> ['Graduate Texts in Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database210.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 26]], 'date-time': '2018-06-26T13:22:29Z', 'timestamp': 1530019349858}, 'publisher-location': 'London', 'reference-count': 0, 'publisher': 'Springer London', 'isbn-type': [{'value': '9781846289699', 'type': 'print'}, {'value': '9781846289705', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.1007/978-1-84628-970-5', 'type': 'book', 'created': {'date-parts': [[2007, 12, 6]], 'date-time': '2007-12-06T10:35:38Z', 'timestamp': 1196937338000}, 'source': 'Crossref', 'is-referenced-by-count': 599, 'title': ['Graph Theory'], 'prefix': '10.1007', 'author': [{'given': 'J. A.', 'family': 'Bondy', 'sequence': 'first', 'affiliation': []}, {'given': 'U. S. R.', 'family': 'Murty', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Graduate Texts in Mathematics'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-1-84628-970-5', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 9, 9]], 'date-time': '2013-09-09T19:28:41Z', 'timestamp': 1378754921000}, 'score': 42.651608, 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9781846289699', '9781846289705'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-84628-970-5', 'ISSN': ['0072-5285'], 'issn-type': [{'value': '0072-5285', 'type': 'print'}]}
+>>> hash >>> ('Graph Theory', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Durfina, L., Kroustek, J., Zemek, P.: Psyb0t malware: a step-by-step decompilationâ€”case study. In: Working Conference on Reverse Engineering (WCRE), pp. 449â€“456. IEEE Computer Society (2013)
+>>> DOI >>> 10.1109/wcre.2013.6671321
+>>> URL >>> http://dx.doi.org/10.1109/wcre.2013.6671321
+>>> year >>> 2013.0
+>>> title >>> PsybOt malware: A step-by-step decompilation case study
+>>> author >>> Lukas Durfina and Jakub Kroustek and Petr Zemek
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['2013 20th Working Conference on Reverse Engineering (WCRE)']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database210.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T03:33:09Z', 'timestamp': 1525750389088}, 'reference-count': 21, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781479929313', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013, 10]]}, 'DOI': '10.1109/wcre.2013.6671321', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 12, 3]], 'date-time': '2013-12-03T22:00:42Z', 'timestamp': 1386108042000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['PsybOt malware: A step-by-step decompilation case study'], 'prefix': '10.1109', 'author': [{'given': 'Lukas', 'family': 'Durfina', 'sequence': 'first', 'affiliation': []}, {'given': 'Jakub', 'family': 'Kroustek', 'sequence': 'additional', 'affiliation': []}, {'given': 'Petr', 'family': 'Zemek', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2013 20th Working Conference on Reverse Engineering (WCRE)', 'location': 'Koblenz, Germany', 'start': {'date-parts': [[2013, 10, 14]]}, 'end': {'date-parts': [[2013, 10, 17]]}}, 'container-title': ['2013 20th Working Conference on Reverse Engineering (WCRE)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6656028/6671267/06671321.pdf?arnumber=6671321', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 22]], 'date-time': '2017-06-22T03:35:29Z', 'timestamp': 1498102529000}, 'score': 122.77423, 'issued': {'date-parts': [[2013, 10]]}, 'ISBN': ['9781479929313'], 'references-count': 21, 'URL': 'http://dx.doi.org/10.1109/wcre.2013.6671321'}
+>>> hash >>> ('PsybOt malware: A step-by-step decompilation case study', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> You, I., Yim, K.: Malware obfuscation techniques: a brief survey. In: International Conference on Broadband, Wireless Computing, Communication and Applications, IEEE Computer Society, pp. 297â€“300 (2010)
+>>> DOI >>> 10.1109/bwcca.2010.85
+>>> URL >>> http://dx.doi.org/10.1109/bwcca.2010.85
+>>> year >>> 2010.0
+>>> title >>> Malware Obfuscation Techniques: A Brief Survey
+>>> author >>> Ilsun You and Kangbin Yim
+>>> reference_count >>> 7.0
+>>> is_referenced_by_count >>> 67.0
+>>> subject >>> None
+>>> container_title >>> ['2010 International Conference on Broadband, Wireless Computing, Communication and Applications']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database210.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 16]], 'date-time': '2018-06-16T04:02:32Z', 'timestamp': 1529121752156}, 'reference-count': 7, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424484485', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010, 11]]}, 'DOI': '10.1109/bwcca.2010.85', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 11, 19]], 'date-time': '2010-11-19T21:33:16Z', 'timestamp': 1290202396000}, 'source': 'Crossref', 'is-referenced-by-count': 67, 'title': ['Malware Obfuscation Techniques: A Brief Survey'], 'prefix': '10.1109', 'author': [{'given': 'Ilsun', 'family': 'You', 'sequence': 'first', 'affiliation': []}, {'given': 'Kangbin', 'family': 'Yim', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2010 International Conference on Broadband, Wireless Computing, Communication and Applications (BWCCA)', 'location': 'Fukuoka, TBD, Japan', 'start': {'date-parts': [[2010, 11, 4]]}, 'end': {'date-parts': [[2010, 11, 6]]}}, 'container-title': ['2010 International Conference on Broadband, Wireless Computing, Communication and Applications'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5629468/5630027/05633410.pdf?arnumber=5633410', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 21]], 'date-time': '2017-03-21T06:43:21Z', 'timestamp': 1490078601000}, 'score': 98.09102, 'issued': {'date-parts': [[2010, 11]]}, 'ISBN': ['9781424484485'], 'references-count': 7, 'URL': 'http://dx.doi.org/10.1109/bwcca.2010.85'}
+>>> hash >>> ('Malware Obfuscation Techniques: A Brief Survey', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Sharif, M., et al.: Impeding malware analysis using conditional code obfuscation. In: Network and Distributed System Security Symposium (2008)
+>>> DOI >>> 10.14722/ndss.2014.23019
+>>> URL >>> http://dx.doi.org/10.14722/ndss.2014.23019
+>>> year >>> 2008.0
+>>> title >>> Impeding malware analysis using conditional code obfuscation.
+>>> author >>> M Sharif
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 12.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings 2014 Network and Distributed System Security Symposium']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database210.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T13:09:54Z', 'timestamp': 1525784994264}, 'publisher-location': 'Reston, VA', 'reference-count': 0, 'publisher': 'Internet Society', 'isbn-type': [{'value': '1891562355', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2014]]}, 'DOI': '10.14722/ndss.2014.23019', 'type': 'proceedings-article', 'created': {'date-parts': [[2014, 5, 12]], 'date-time': '2014-05-12T22:19:37Z', 'timestamp': 1399933177000}, 'source': 'Crossref', 'is-referenced-by-count': 12, 'title': ['Persistent Data-only Malware: Function Hooks without Code'], 'prefix': '10.14722', 'author': [{'given': 'Sebastian', 'family': 'Vogl', 'sequence': 'first', 'affiliation': []}, {'given': 'Jonas', 'family': 'Pfoh', 'sequence': 'additional', 'affiliation': []}, {'given': 'Thomas', 'family': 'Kittel', 'sequence': 'additional', 'affiliation': []}, {'given': 'Claudia', 'family': 'Eckert', 'sequence': 'additional', 'affiliation': []}], 'member': '5725', 'event': {'name': 'Network and Distributed System Security Symposium', 'location': 'San Diego, CA', 'sponsor': ['Internet Society'], 'acronym': 'NDSS 2014', 'number': '21'}, 'container-title': ['Proceedings 2014 Network and Distributed System Security Symposium'], 'deposited': {'date-parts': [[2018, 2, 21]], 'date-time': '2018-02-21T22:05:28Z', 'timestamp': 1519250728000}, 'score': 45.13411, 'issued': {'date-parts': [[2014]]}, 'ISBN': ['1891562355'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.14722/ndss.2014.23019'}
+>>> hash >>> ('Impeding malware analysis using conditional code obfuscation.', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Walenstein, A., Lakhotia, A.: A transformation-based model of malware derivation. In: 7th IEEE International Conference on Malicious and Unwanted Software, pp. 17â€“25 (2012)
+>>> DOI >>> 10.1109/malware.2012.6461003
+>>> URL >>> http://dx.doi.org/10.1109/malware.2012.6461003
+>>> year >>> 2012.0
+>>> title >>> A transformation-based model of malware derivation
+>>> author >>> Andrew Walenstein and Arun Lakhotia
+>>> reference_count >>> 41.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['2012 7th International Conference on Malicious and Unwanted Software']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database210.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 12]], 'date-time': '2018-06-12T07:02:29Z', 'timestamp': 1528786949127}, 'reference-count': 41, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467348805', 'type': 'print'}, {'value': '9781467348782', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012, 10]]}, 'DOI': '10.1109/malware.2012.6461003', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 2, 22]], 'date-time': '2013-02-22T00:11:54Z', 'timestamp': 1361491914000}, 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['A transformation-based model of malware derivation'], 'prefix': '10.1109', 'author': [{'given': 'Andrew', 'family': 'Walenstein', 'sequence': 'first', 'affiliation': []}, {'given': 'Arun', 'family': 'Lakhotia', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2012 7th International Conference on Malicious and Unwanted Software (MALWARE)', 'location': 'Fajardo, PR, USA', 'start': {'date-parts': [[2012, 10, 16]]}, 'end': {'date-parts': [[2012, 10, 18]]}}, 'container-title': ['2012 7th International Conference on Malicious and Unwanted Software'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6449416/6460999/06461003.pdf?arnumber=6461003', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 21]], 'date-time': '2017-06-21T08:01:35Z', 'timestamp': 1498032095000}, 'score': 109.38664, 'issued': {'date-parts': [[2012, 10]]}, 'ISBN': ['9781467348799', '9781467348805', '9781467348782'], 'references-count': 41, 'URL': 'http://dx.doi.org/10.1109/malware.2012.6461003'}
+>>> hash >>> ('A transformation-based model of malware derivation', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

@@ -1,0 +1,39 @@
+[0] Andrei Zanfir, Cristian Sminchisescu, Deep Learning of Graph Matching
+[1] B. Amos and J. Z. Kolter. Optnet: Differentiable optimization as a layer in neural networks. CoRR, abs/1703.00443, 2017.
+[2] J. T. Barron and B. Poole. The fast bilateral solver. CoRR, abs/1511.03296, 2015.
+[3] A. C. Berg, T. L. Berg, and J. Malik. Shape matching and object recognition using low distortion correspondences. In Computer Vision and Pattern Recognition, 2005. CVPR 2005. IEEE Computer Society Conference on, volume 1, pages 26–33. IEEE, 2005.
+[4] P. J. Besl and N. D. McKay. Method for registration of 3-d shapes. In Robotics-DL tentative, pages 586–606. International Society for Optics and Photonics, 1992.
+[5] L. Bourdev and J. Malik. Poselets: Body part detectors trained using 3d human pose annotations. In Computer Vision, 2009 IEEE 12th International Conference on, pages 1365–1372. IEEE, 2009.
+[6] D. J. Butler, J. Wulff, G. B. Stanley, and M. J. Black. A naturalistic open source movie for optical flow evaluation. In European Conference on Computer Vision, pages 611–625. Springer, 2012.
+[7] T. S. Caetano, J. J. McAuley, L. Cheng, Q. V. Le, and A. J. Smola. Learning graph matching. IEEE transactions on pattern analysis and machine intelligence, 31(6):1048–1058, 2009.
+[8] C. B. Choy, J. Gwak, S. Savarese, and M. Chandraker. Universal correspondence network. In Advances in Neural Information Processing Systems, pages 2406–2414, 2016.
+[9] T. Cour, P. Srinivasan, and J. Shi. Balanced graph matching. In NIPS, volume 2, page 6, 2006.
+[10] O. Duchenne, F. Bach, I.-S. Kweon, and J. Ponce. A tensor-based algorithm for high-order graph matching. IEEE transactions on pattern analysis and machine intelligence, 33(12):2383–2395, 2011.
+[11] M. Everingham and J. Winn. The pascal visual object classes challenge 2011 (voc2011) development kit. Pattern Analysis, Statistical Modelling and Computational Learning, Tech. Rep, 2011.
+[12] M. A. Fischler and R. C. Bolles. Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography. Communications of the ACM, 24(6):381–395, 1981.
+[13] S. Gold and A. Rangarajan. A graduated assignment algorithm for graph matching. IEEE Transactions on pattern analysis and machine intelligence, 18(4):377–388, 1996.
+[14] B. Ham, M. Cho, C. Schmid, and J. Ponce. Proposal flow. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 3475–3484, 2016.
+[15] C. Ionescu, O. Vantzos, and C. Sminchisescu. Training deep networks with structured layers by matrix backpropagation. arXiv preprint arXiv:1509.07838, 2015.
+[16] A. Kanazawa, D. W. Jacobs, and M. Chandraker. Warpnet: Weakly supervised matching for single-view reconstruction. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 3253–3261, 2016.
+[17] J. Kim, C. Liu, F. Sha, and K. Grauman. Deformable spatial pyramid matching for fast dense correspondences. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 2307–2314, 2013.
+[18] J. Krause, H. Jin, J. Yang, and L. Fei-Fei. Fine-grained recognition without part annotations. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 5546–5555, 2015.
+[19] M. Leordeanu and M. Hebert. A spectral technique for correspondence problems using pairwise constraints. In Computer Vision, 2005. ICCV 2005. Tenth IEEE International Conference on, volume 2, pages 1482–1489. IEEE, 2005.
+[20] M. Leordeanu, R. Sukthankar, and M. Hebert. Unsupervised learning for graph matching. International journal of computer vision, 96(1):28–45, 2012.
+[21] M. Leordeanu, A. Zanfir, and C. Sminchisescu. Semisupervised learning and optimization for hypergraph matching. In Computer Vision (ICCV), 2011 IEEE International Conference on, pages 2274–2281. IEEE, 2011.
+[22] C. Liu, J. Yuen, and A. Torralba. Sift flow: Dense correspondence across scenes and its applications. IEEE Transactions on Pattern Analysis and Machine Intelligence, 33(5):978– 994, 2011.
+[23] J. L. Long, N. Zhang, and T. Darrell. Do convnets learn correspondence? In Advances in Neural Information Processing Systems, pages 1601–1609, 2014.
+[24] D. G. Lowe. Distinctive image features from scaleinvariant keypoints. International journal of computer vision, 60(2):91–110, 2004.
+[25] J. Maciel and J. P. Costeira. A global solution to sparse correspondence problems. IEEE Transactions on Pattern Analysis and Machine Intelligence, 25(2):187–199, 2003.
+[26] J. R. Magnus, H. Neudecker, et al. Matrix differential calculus with applications in statistics and econometrics. 1995.
+[27] I. Rocco, R. Arandjelovic, and J. Sivic. Convolutional neural ´ network architecture for geometric matching. arXiv preprint arXiv:1703.05593, 2017.
+[28] O. Russakovsky, J. Deng, H. Su, J. Krause, S. Satheesh, S. Ma, Z. Huang, A. Karpathy, A. Khosla, M. Bernstein, et al. Imagenet large scale visual recognition challenge. International Journal of Computer Vision, 115(3):211–252, 2015.
+[29] K. Simonyan and A. Zisserman. Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556, 2014.
+[30] R. Sinkhorn and P. Knopp. Concerning nonnegative matrices and doubly stochastic matrices. Pacific Journal of Mathematics, 21(2):343–348, 1967.
+[31] A. Vedaldi and K. Lenc. Matconvnet – convolutional neural networks for matlab. In Proceeding of the ACM Int. Conf. on Multimedia, 2015.
+[32] C. Wah, S. Branson, P. Welinder, P. Perona, and S. Belongie. The Caltech-UCSD Birds-200-2011 Dataset. Technical Report CNS-TR-2011-001, California Institute of Technology, 2011.
+[33] P. Weinzaepfel, J. Revaud, Z. Harchaoui, and C. Schmid. Deepflow: Large displacement optical flow with deep match- ing. In Computer Vision (ICCV), 2013 IEEE International Conference on, pages 1385–1392. IEEE, 2013.
+[34] H. Yang, W. Lin, and J. Lu. Daisy filter flow: A generalized approach to discrete dense correspondences. CVPR, 2014.
+[35] Y. Yang and D. Ramanan. Articulated human detection with flexible mixtures of parts. IEEE Transactions on Pattern Analysis and Machine Intelligence, 35(12):2878–2890, 2013.
+[36] K. M. Yi, E. Trulls, V. Lepetit, and P. Fua. Lift: Learned invariant feature transform. In European Conference on Computer Vision, 2016.
+[37] R. Zass and A. Shashua. Probabilistic graph and hypergraph matching. In Computer Vision and Pattern Recognition, 2008. CVPR 2008. IEEE Conference on, pages 1–8. IEEE, 2008.
+[38] F. Zhou and F. De la Torre. Factorized graph matching. In Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on, pages 127–134. IEEE, 2012.

@@ -1,0 +1,29 @@
+[0] David B. Blumenthal, Johann Gamper, On the exact computation of the graph edit distance
+[1] D. Conte, P. Foggia, C. Sansone, M. Vento. Thirty years of graph matching in pattern recognition. IJPRAI, 18 (3) (2004), pp. 265-298
+[2] P. Foggia, G. Percannella, M. Vento. Graph matching and learning in pattern recognition in the last 10 years. IJPRAI, 28 (1) (2014), p. 1450001
+[3] M. Vento. A long trip in the charming world of graphs for pattern recognition. Pattern Recogn., 48 (2) (2015), pp. 291-301
+[4] M. Stauffer, T. Tschachtli, A. Fischer, K. Riesen. A survey on applications of bipartite graph edit distance. GbRPR (2017), pp. 242-252
+[5] M. Stauffer, A. Fischer, K. Riesen. A novel graph database for handwritten word images. S+SSPR (2016), pp. 553-563
+[6] E. Ozdemir, C. Gunduz-Demir. A hybrid classification model for digital pathology using structural and statistical pattern recognition. IEEE Trans. Med. Imaging, 32 (2) (2013), pp. 474-483
+[7] X. Gao, B. Xiao, D. Tao, X. Li. A survey of graph edit distance. Pattern Anal. Applic., 13 (1) (2010), pp. 113-129
+[8] Z. Zeng, A.K.H. Tung, J. Wang, J. Feng, L. Zhou. Comparing stars: on approximating graph edit distance. PVLDB, 2 (1) (2009), pp. 25-36
+[9] K. Riesen, H. Bunke. IAM graph database repository for graph based pattern recognition and machine learning. S+SSPR (2008), pp. 287-297
+[10] K. Riesen, S. Fankhauser, H. Bunke. Speeding up graph edit distance computation with a bipartite heuristic. MLG (2007), pp. 21-24
+[11] Z. Abu-Aisheh, R. Raveaux, J.-Y. Ramel, P. Martineau. An exact graph edit distance algorithm for solving pattern recognition problems. ICPRAM (2015), pp. 271-278
+[12] K. Gouda, M. Hassaan. CSI_GED: an efficient approach for graph edit similarity computation. ICDE (2016), pp. 265-276
+[13] J. Lerouge, Z. Abu-Aisheh, R. Raveaux, P. Héroux, S. Adam. New binary linear programming formulation to compute the graph edit distance. Pattern Recognit., 72 (2017), pp. 254-265
+[14] D.B. Blumenthal, J. Gamper. Exact computation of graph edit distance for uniform and non-uniform metric edit costs. GbRPR (2017), pp. 211-221
+[15] D. Justice, A. Hero. A binary linear programming formulation of the graph edit distance. IEEE Trans. Pattern Anal. Mach. Intell., 28 (8) (2006), pp. 1200-1214
+[16] S. Bougleux, B. Gaüzère, L. Brun. A Hungarian algorithm for error-correcting graph matching. GbRPR (2017), pp. 118-127
+[17] S. Bougleux, B. Gaüzère, D.B. Blumenthal, L. Brun, Fast linear sum assignment with error-correction and no cost constraints, Pattern Recogn. Lett., Accepted for publication in.
+[18] H.W. Kuhn. The Hungarian method for the assignment problem. Nav. Res. Logist. Q., 2 (1–2) (1955), pp. 83-97
+[19] J. Munkres. Algorithms for the assignment and transportation problems. SIAM J. Appl. Math., 5 (1) (1957), pp. 32-38
+[20] H. Bunke, G. Allermann. Inexact graph matching for structural pattern recognition. Pattern Recogn. Lett., 1 (4) (1983), pp. 245-253
+[21] S. Bougleux, L. Brun, V. Carletti, P. Foggia, B. Gaüzere, M. Vento, A quadratic assignment formulation of the graph edit distance, 2015. arXiv:1512.07494.
+[22] S. Bougleux, L. Brun, V. Carletti, P. Foggia, B. Gaüzère, M. Vento. Graph edit distance as a quadratic assignment problem. Pattern Recogn. Lett., 87 (2017), pp. 38-46
+[23] M. Ferrer, F. Serratosa, K. Riesen. Learning heuristics to reduce the overestimation of bipartite graph edit distance approximation. MLDM (2015), pp. 17-31
+[24] P.E. Hart, N.J. Nilsson, B. Raphael. A formal basis for the heuristic determination of minimum cost paths. IEEE Trans. Syst. Sci. Cybern., 4 (2) (1968), pp. 100-107
+[25] K. Riesen, H. Bunke. Approximate graph edit distance computation by means of bipartite graph matching. Image Vis. Comput., 27 (7) (2009), pp. 950-959
+[26] D.B. Blumenthal, J. Gamper. Correcting and speeding-up bounds for non-uniform graph edit distance. ICDE (2017), pp. 131-134
+[27] D.B. Blumenthal, J. Gamper. Improved lower bounds for graph edit distance. IEEE Trans. Knowl. Data Eng., 30 (3) (2018), pp. 503-516
+[28] D. Allouche, S. De Givry, G. Katsirelos, T. Schiex, M. Zytnicki. Anytime hybrid best-first search with tree decomposition for weighted CSP. CP (2015), pp. 12-29

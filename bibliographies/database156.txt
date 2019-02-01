@@ -1,0 +1,113 @@
+[0] Simone Calderara, Uri Heinemann, Andrea Prati, Rita Cucchiara, Naftali Tishby, Detecting anomalies in people’s trajectories using spectral graph analysis
+[1] W. Hu, T. Tan, L. Wang, S. Maybank
+A survey on visual surveillance of object motion and behaviors
+IEEE Transactions on Systems, Man, and Cybernetics – Part C, 34 (3) (2004), pp. 334-352
+[2] C. Stauffer, W. Grimson
+Learning pattern of activity using real-time tracking
+IEEE Transactions on PAMI, 22 (8) (2000), pp. 747-757
+[3] R. Cucchiara, C. Grana, M. Piccardi, A. Prati
+Detecting moving objects, ghosts and shadows in video streams
+IEEE Transactions on PAMI, 25 (10) (2003), pp. 1337-1342
+[4] F. Jiang, Y. Wu, A. Katsaggelos, Detecting contextual anomalies of crowd motion in surveillance video, in: Proc. of IEEE Int’l Conference on Image Processing, 2009, pp. 1117–1120.
+[5] S. Khan, M. Shah
+Consistent labeling of tracked objects in multiple cameras with overlapping fields of view
+IEEE Transactions on PAMI, 25 (10) (2003), pp. 1355-1360
+[6] S. Calderara, R. Cucchiara, A. Prati
+Bayesian-competitive consistent labeling for people surveillance
+IEEE Transactions on PAMI, 30 (2) (2008), pp. 354-360
+[7] W. Hu, X. Xiao, Z. Fu, D. Xie, T. Tan, S. Maybank
+A system for learning statistical motion patterns
+IEEE Transactions on PAMI, 28 (9) (2006), pp. 1450-1464
+[8] J. Li, C.-S. Chua, Y.-K. Ho, Color based multiple people tracking, in: Seventh International Conference on Control, Automation, Robotics and Vision, ICARCV 2002, Singapore, 2–5 December 2002, Proceedings, 2002, pp. 309–314.
+[9] C. Madden, E.D. Cheng, M. Piccardi
+Tracking people across disjoint camera views by an illumination-tolerant appearance representation
+Machine Vision and Applications, 18 (3–4) (2007), pp. 233-247
+[10] R. Vezzani, D. Baltieri, R. Cucchiara, Pathnodes integration of standalone particle filters for people tracking on distributed surveillance systems, in: Proceedings of 25th International Conference on Image Analysis and Processing (ICIAP2009), Vietri sul Mare, Salerno, Italy, 2009.
+[11] S. Umeyama
+An eigendecomposition approach to weighted graph matching problems
+IEEE Transactions on PAMI, 10 (5) (1988), pp. 695-703
+[12] I. Gutman, W. Xiao
+Generalized inverse of the Laplacian matrix and some applications
+Bulletin: Classe des sciences mathe’matiques et natturalles – Sciences mathe’matiques, 129 (2004), pp. 15-23
+[13] U. von Luxburg
+A tutorial on spectral clustering
+Statistics and Computing, 17 (4) (2007), pp. 395-416
+[14] H. Buxton
+Learning and understanding dynamic scene activity: a review
+Image and Vision Computing, 21 (1) (2003), pp. 125-136
+[15] A. Adam, E. Rivlin, I. Shimshoni, D. Reinitz
+Robust real-time unusual event detection using multiple fixed-location monitors
+IEEE Transactions on PAMI, 30 (2007), pp. 555-560
+[16] P. Cui, L. Sun, Z.-Q. Liu, S. Yang, A sequential monte carlo approach to anomaly detection in tracking visual events, in: Proc. of IEEE Int’l Conference on Computer Vision and Pattern Recognition, 2007.
+[17] H. Zhong, J. Shi, M. Visontai, Detecting unusual activity in video, in: Proc. of IEEE Int’l Conference on Computer Vision and Pattern Recognition, vol. 2, 2004, pp. 819–826.
+[18] M.T. Chan, A. Hoogs, J. Schmiederer, M. Petersen, Detecting rare events in video using semantic primitives with HMM, in: Proc. of Int’l Conference on Pattern Recognition, 2004, pp. 150–154.
+[19] J.M. Gryn, R.P. Wildes, J.K. Tsotsos, Detecting motion patterns via direction maps with application to surveillance, in: WACV-MOTION ’05: Proceedings of the Seventh IEEE Workshops on Application of Computer Vision (WACV/MOTION’05), vol. 1, 2005, pp. 202–209.
+[20] T. Xiang, S. Gong
+Video behavior profiling for anomaly detection
+IEEE Transactions on PAMI, 30 (2007), pp. 893-908
+[21] A. Basharat, A. Gritai, M. Shah, Learning object motion patterns for anomaly detection and improved object detection, in: Proc. of IEEE Int’l Conference on Computer Vision and Pattern Recognition, vol. 0, 2008, pp. 1–8.
+[22] I. Saleemi, K. Shafique, M. Shah
+Probabilistic modeling of scene dynamics for applications in visual surveillance
+IEEE Transactions on PAMI, 31 (2008), pp. 1472-1485
+[23] S. Calderara, A. Prati, R. Cucchiara
+Hecol: homography and epipolar-based consistent labeling for outdoor park surveillance
+Computer Vision and Image Understanding, 111 (1) (2008), pp. 21-42
+[24] A. Prati, S. Calderara, R. Cucchiara, Using circular statistics for trajectory analysis, in: Proceedings of International Conference on Computer Vision and Pattern Recognition (CVPR 2008), 2008.
+[25] Y. Zhou, S. Yan, T. Huang, Detecting anomaly in videos from trajectory similarity analysis, in: IEEE International Conference on Multimedia and Expo 2007, 2007, pp. 1087–1090.
+[26] A. Mecocci, M. Pannozzo, A completely autonomous system that learns anomalous movements in advanced videosurveillance applications, in: Proc. of ICIP, Vol. 2, 2005, pp. 586–589.
+[27] I. Junejo, O. Javed, M. Shah, Multi feature path modeling for video surveillance, in: Proc. of ICPR, vol. 2, 2004, pp. 716–719.
+[28] R. Sillito, R. Fisher, Semi-supervised learning for anomalous trajectory detection, in: Proc. of British Machine Vision Conference BMVC, 2008.
+[29] C. Piciarelli, C. Micheloni, G. Foresti
+Trajectory-based anomalous event detection
+IEEE Transactions on Circuits and Systems for Video Technology, 18 (11) (2008), pp. 1544-1554
+[30] A. Lakhina, M. Crovella, C. Diot
+Diagnosing network-wide traffic anomalies
+Proceedings of the 2004 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, ACM, New York, NY, USA (2004), pp. 219-230
+[31] A. Lakhina, M. Crovella, C. Diot
+Characterization of network-wide anomalies in traffic flows
+Proceedings of the 4th ACM SIGCOMM conference on Internet measurement, ACM, New York, NY, USA (2004), pp. 201-206
+[32] L. Huang, X. Nguyen, M. Garofalakis, M. Jordan, A. Joseph, N. Taft
+In-network PCA and anomaly detection
+Advances in Neural Information Processing Systems, 19 (2007), p. 617
+[33] T. Ide, H. Kashima, Eigenspace-based anomaly detection in computer systems, in: Proc. ACM SIGKDD Intl. Conf. Knowledge Discovery and Data Mining, 2004, pp. 440–449.
+[34] J. Shi, J. Malik
+Normalized cuts and image segmentation
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 22 (8) (2000), pp. 888-905
+[35] F. Bach, M. Jordan
+Learning spectral clustering
+Advances in Neural Information Processing Systems (NIPS), vol. 16, MIT Press (2004), pp. 305-312
+[36] O. Duchenne, J.-Y. Audibert, R. Keriven, J. Ponce, F. Segonne, Segmentation by transduction, in: IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2008), 2008, pp. 1–8. doi:10.1109/CVPR.2008.4587419.
+[37] N. Thome, D. Merad, S. Miguet
+Learning articulated appearance models for tracking humans: a spectral graph matching approach
+Signal Processing: Image Communication, 23 (10) (2008), pp. 769-787, 10.1016/j.image.2008.09.003
+<http://www.sciencedirect.com/science/article/B6V08-4TN0KTR-1/2/ec8925f5f4d9cccf885bc71e31d126ff>
+[38] D.K. Hammond, P. Vandergheynst, R. Gribonval, Wavelets on graphs via spectral graph theory, Applied and Computational Harmonic Analysis, in press (Corrected Proof). doi:10.1016/j.acha.2010.04.005. <http://www.sciencedirect.com/science/article/B6WB3-4YYGH6T-1/2/a938fa59304fa0016915cf1a623448f7>.
+[39] Y. Weiss, A. Torralba, R. Fergus, Spectral Hashing, in: NIPS, 2008.
+[40] M.A. Eshera, K.-S. Fu
+An image understanding system using attributed symbolic representation and inexact graph-matching
+Pattern Analysis and Machine Intelligence, IEEE Transactions on PAMI-8 (5) (1986), pp. 604-618, 10.1109/TPAMI.1986.4767835
+[41] D. Knossow, A. Sharma, D. Mateus, R. Horaud
+Inexact matching of large and sparse graphs using Laplacian eigenvectors
+A. Torsello, F. Escolano, L. Brun (Eds.), Graph-Based Representations in Pattern Recognition, Lecture Notes in Computer Science, vol. 5534, Springer, Berlin/Heidelberg (2009), pp. 144-153
+[42] R.C. Wilson, E.R. Hancock, B. Luo
+Pattern vectors from algebraic graph theory
+IEEE Transactions on PAMI, 27 (2005), pp. 1112-1124
+[43] B. Luo, E. Hancock
+Structural graph matching using the em algorithm and singular value decomposition
+IEEE Transactions on PAMI, 23 (2001), pp. 1120-1136
+[44] B. Xiao, E.R. Hancock, R.C. Wilson
+Graph characteristics from the heat kernel trace
+Pattern Recognition, 42 (11) (2009), pp. 2589-2606
+[45] A.Y. Ng, M.I. Jordan, Y. Weiss
+On spectral clustering: analysis and an algorithm
+Advances in Neural Information Processing Systems, vol. 14, MIT Press (2001), pp. 849-856
+[46] R.I. Kondor, J.D. Lafferty
+Diffusion kernels on graphs and other discrete input spaces
+ICML ’02: Proceedings of the Nineteenth International Conference on Machine Learning, Morgan Kaufmann Publishers Inc., San Francisco, CA, USA (2002), pp. 315-322
+[47] R.C. Wilson, P. Zhu
+A study of graph spectra for comparing graphs and trees
+Pattern Recognition, 41 (9) (2008), pp. 2833-2841, 10.1016/j.patcog.2008.03.011
+<http://www.sciencedirect.com/science/article/B6V14-4S39MK9-1/2/9e8d14adb7e3b11ea7e22a3486ef900c>
+[48] K. Toyama, J. Krumm, B. Brumitt, B. Meyers, Wallflower: principles and practice of background maintenance, in: Seventh International Conference on Computer Vision (ICCV 1999), 1999, pp. 255–261.
+[49] R. Vezzani, R. Cucchiara, Ad-hoc: appearance driven human tracking with occlusion handling, in: First International Workshop on Tracking Humans for the Evaluation of their Motion in Image Sequences (THEMIS’2008), in Conjunction with BMVC 2008, 2008.
+[50] C. Brauer-Burchardt, K. Voss, Robust vanishing point determination in noisy images, in: Proc. of Int’l Conference on Pattern Recognition, vol. 1, 2000, pp. 559–562.

@@ -1,0 +1,67 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1791,         59]
+NotebookOptionsPosition[      1314,         44]
+NotebookOutlinePosition[      1659,         59]
+CellTagsIndexPosition[      1616,         56]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["\<\
+Extract a list of properties or value of a specific property from the graph\
+\>", "Text",
+ CellChangeTimes->{{3.736698184309757*^9, 
+  3.736698196425996*^9}},ExpressionUUID->"316ed310-521d-4ab8-b224-\
+69a495dc9e3c"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"PropertyList", "[", 
+   RowBox[{"{", 
+    RowBox[{"g", ",", " ", "1631"}], "}"}], "]"}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{"PropertyValue", "[", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{"g", ",", " ", "1631"}], "}"}], ",", "\"\<title\>\""}], 
+  "]"}]}], "Input",ExpressionUUID->"57e01f35-42c6-4c70-a2f9-fa05392d1ddc"],
+
+Cell["Check to see ", "Text",
+ CellChangeTimes->{{3.7366982083166776`*^9, 
+  3.7366982107301054`*^9}},ExpressionUUID->"b5f74a1d-ad97-46bd-8c6e-\
+221beb5582ef"]
+},
+WindowSize->{766, 805},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"11.2 for Microsoft Windows (64-bit) (September 10, 2017)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 225, 5, 34, "Text",ExpressionUUID->"316ed310-521d-4ab8-b224-69a495dc9e3c"],
+Cell[786, 27, 362, 10, 48, "Input",ExpressionUUID->"57e01f35-42c6-4c70-a2f9-fa05392d1ddc"],
+Cell[1151, 39, 159, 3, 34, "Text",ExpressionUUID->"b5f74a1d-ad97-46bd-8c6e-221beb5582ef"]
+}
+]
+*)
+

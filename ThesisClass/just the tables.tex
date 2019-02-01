@@ -1,0 +1,581 @@
+% Options: [twoside, leqno, 11pt], etc.. leqno is "number equations on the left hand side"
+\RequirePackage{tikz}
+\documentclass[12pt]{thesis}
+\usepackage{setspace}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{longtable}
+\usepackage{subcaption}
+\usepackage{setspace}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{rotating}
+\usepackage{cancel}
+\usepackage{array}
+\usepackage{tikz}
+\usepackage{multirow}
+\usetikzlibrary{matrix, shapes}
+
+\interfootnotelinepenalty=10000
+
+\graphicspath{ {C:/Users/Marissa/network-similarity/} }
+
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}\vspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}\vspace{0pt}}m{#1}}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% DOCUMENT PROPERTIES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\author{Marissa Graham}
+
+% Titles must be in mixed case. Style guide: https://www.grammarcheck.net/capitalization-in-titles-101/.
+
+\title{A computationally driven comparative survey of network alignment, graph matching, and network comparison in pattern recognition and systems biology} 
+
+\degree{Master of Science}
+\university{Brigham Young University}
+\department{Department of Mathematics} 
+\committeechair{Emily Evans} 
+
+%% These are fields that are stored in the PDF but are not visible in the document itself. They are optional.
+\memberA{Benjamin Webb}
+\memberB{Christopher Grant}
+\subject{Writing a thesis using LaTeX} % Subject of your thesis, e.g. algebraic geometry
+\keywords{LaTeX, PDF, BYU, Math, Thesis}
+\month{June}
+\year{2018} 
+
+\pdfbookmarks
+\makeindex
+
+%%%%%%%%%%%%%%%%%%%%%%%%% THEOREM DEFINITIONS AND CUSTOM COMMANDS %%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Define the theorem styles and numbering
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
+
+%% Create shortcut commands for various fonts and common symbols
+\newcommand{\s}[1]{\mathcal{#1}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+
+%% Declare custom math operators
+\DeclareMathOperator{\tr}{tr}
+\DeclareMathOperator{\diag}{diag}
+\DeclareMathOperator*{\argmin}{argmin}
+\DeclareMathOperator*{\argmax}{argmax}
+\DeclareMathOperator{\Span}{Span}
+\DeclareMathOperator{\rank}{rank}
+
+%% Sets and systems
+\newcommand{\br}[1]{\left\langle #1 \right\rangle}
+\newcommand{\paren}[1]{\left(#1\right)}
+\newcommand{\sq}[1]{\left[#1\right]}
+\newcommand{\set}[1]{\left\{\: #1 \:\right\}}
+\newcommand{\setp}[2]{\left\{\, #1\: \middle|\: #2 \, \right\}}
+\newcommand{\abs}[1]{\left| #1 \right|}
+\newcommand{\norm}[1]{\left\| #1 \right\|}
+\newcommand{\system}[1]{\left\{ \begin{array}{rl} #1 \end{array} \right.}
+
+%% referencing commands
+\newcommand{\thmref}[1]{Theorem \ref{#1}}
+\newcommand{\corref}[1]{Corollary \ref{#1}}
+\newcommand{\lemref}[1]{Lemma \ref{#1}}
+\newcommand{\propref}[1]{Proposition \ref{#1}}
+\newcommand{\defref}[1]{Definition \ref{#1}}
+\newcommand{\exampleref}[1]{Example \ref{#1}}
+\newcommand{\exerref}[1]{Exercise \ref{#1}}
+
+\renewcommand{\labelenumi}{(\roman{enumi})}
+
+\begin{document}
+
+
+
+\frontmatter 
+\maketitle 
+
+\tableofcontents
+\listoftables
+\listoffigures
+\mainmatter
+
+
+
+\begin{table}[t!]
+\centering
+\begin{tabular}{|p{0.31\linewidth}||R{0.07\linewidth}|R{0.07\linewidth}|R{0.075\linewidth}|R{0.07\linewidth}|R{0.07\linewidth}|R{0.07\linewidth}|}
+\hline
+ & $G$ & $G_p$ & SciMet & Zewail & $R$ & $R_d$ \\ \hline\hline% & $R_{d,p}$ \\ \hline\hline
+Vertices & 5793 & 1062 & 1092 & 3145 & 5793 & 5793 \\ \hline % & 1077 \\ \hline %
+Edges & 7491 & 2775 & 1308 & 3743 & 7491 & 7491\\ \hline % & 2775 \\ \hline
+Mean degree & 1.29 & 2.61 & 1.20 & 1.19 & 1.29 & 1.29 \\ \hline %& 2.58 \\ \hline
+Fraction with children & 0.038 & 0.193 & 0.523 & 0.599 & 0.733 & 0.038 \\ \hline %& 0.202\\ \hline
+Diameter & 10 & 9 & 14 & 22 & 21 & 9\\ \hline % & 7 \\ \hline
+Connected components & 16 & 1 & 114 & 281 & 504 & 3 \\ \hline %& 3\\ \hline
+Fraction in giant component & 0.960 & 1.000 & 0.784 & 0.797 & 0.900 & 0.999 \\ \hline %& 1.000 \\ \hline
+%Assortativity by indegree & 0.113 & 0.016 & 0.055 & 0.158 & 0.007 & -0.008\\ \hline % & -0.007 \\ \hline
+%Assortativity by outdegree & -0.014 & -0.014 & -0.025 & 0.056 & -0.018 & -0.007 \\ \hline %& -0.013 \\ \hline
+\end{tabular}
+\caption{Comparing statistics for our dataset to other networks.}
+
+\label{tab:network_table}
+\end{table}
+
+ 
+\begin{table}[H]
+\centering
+\vspace{-.5cm}
+{\setstretch{1}\fontsize{10}{13}\selectfont
+\begin{tabular}{|L{0.7\linewidth}|c|c|c|c|c|c|}
+\hline
+Title & \rotatebox[origin=c]{90}{Indegree} &  \rotatebox[origin=c]{90}{Outdegree} & \rotatebox[origin=c]{90}{Betweenness} &  \rotatebox[origin=c]{90}{Closeness} &  \rotatebox[origin=c]{90}{HITS Auth.} & \rotatebox[origin=c]{90}{HITS Hub} \\ 
+\hline\hline
+$^\Diamond$Thirty Years of Graph Matching in Pattern Recognition  \cite{Conte_2004} & 20* & 109* & 1 & 2 &  & 1 \\ \hline
+$\dagger$Fifty years of graph matching, network alignment and network comparison  \cite{Emmert_Streib_2016} & 6 & 71* & 2 & 1 &  & 3 \\ \hline
+$\dagger$Networks for systems biology: conceptual connection of data and function  \cite{Emmert_Streib_2011} & 2 & 102* & 3 & 3 &  & 2 \\ \hline
+$^\Diamond$An Algorithm for Subgraph Isomorphism  \cite{Ullmann_1976} & 20* & 4 & 7 & 4 & 1 &  \\ \hline
+$\dagger$Modeling cellular machinery through biological network comparison  \cite{Sharan_2006} & 9 & 41* & 8 &  &  &  \\ \hline
+$^\Diamond$Computers and Intractability: A Guide to the Theory of NP-Completeness  \cite{Hartmanis_1982} & 16* & 0 & 4 & 5 &  &  \\ \hline
+$^\Diamond$The graph matching problem  \cite{Livi_2012} & 2 & 55* & 5 & 6 &  & 7 \\ \hline
+$\dagger$A new graph-based method for pairwise global network alignment  \cite{Klau_2009} & 9 & 13 &  & 8 &  &  \\ \hline
+$\dagger$On Graph Kernels: Hardness Results and Efficient Alternatives  \cite{Gartner_2003} & 11 & 10 & 6 &  &  &  \\ \hline
+$^\Diamond$Error correcting graph matching: on the influence of the underlying cost function  \cite{Bunke_1999} & 10 & 16 &  & 7 & 7 & 8 \\ \hline
+$^\Diamond$A graduated assignment algorithm for graph matching  \cite{Gold_1996} & 18* & 0 &  &  & 5 &  \\ \hline
+$^\Diamond$The Hungarian method for the assignment problem  \cite{Kuhn_1955} & 17* & 0 &  &  &  &  \\ \hline
+$^\Diamond$An eigendecomposition approach to weighted graph matching problems  \cite{Umeyama_1988} & 15* & 5 &  &  & 6 &  \\ \hline
+$^\Diamond$Recent developments in graph matching  \cite{Bunke_2000} & 1 & 51* &  &  &  & 4 \\ \hline
+$\dagger$MAGNA: Maximizing Accuracy in Global Network Alignment  \cite{Saraph_2014} & 5 & 35* &  &  &  &  \\ \hline
+$^\Diamond$A distance measure between attributed relational graphs for pattern recognition  \cite{Sanfeliu_1983} & 14* & 0 &  &  & 3 &  \\ \hline
+$\dagger$Pairwise Global Alignment of Protein Interaction Networks by Matching Neighborhood Topology  \cite{Singh_2007} & 13* & 0 &  &  &  &  \\ \hline
+$\dagger$Topological network alignment uncovers biological function and phylogeny  \cite{Bunke_1998} & 12* & 0 &  &  &  &  \\ \hline
+A graph distance metric based on the maximal common subgraph  \cite{Kuchaiev_2010} & 10 & 0 &  & 10 & 4 &  \\ \hline
+$^\Diamond$Efficient Graph Matching Algorithms  \cite{Messmer_1995} & 0 & 43* &  &  &  & 5 \\ \hline
+Local graph alignment and motif search in biological networks  \cite{Berg_2004} & 8 & 10 & 10 &  &  &  \\ \hline
+$\dagger$Global alignment of multiple protein interaction networks with application to functional orthology detection  \cite{Singh_2008} & 11* & 0 &  &  &  &  \\ \hline
+On a relation between graph edit distance and maximum common subgraph  \cite{Bunke_1997} & 11 & 0 &  &  & 2 &  \\ \hline
+$^\Diamond$Graph matching applications in pattern recognition and image processing  \cite{Conte_2003} & 0 & 40* &  &  &  & 6 \\ \hline
+$^\Diamond$Fast and Scalable Approximate Spectral Matching for Higher Order Graph Matching  \cite{Park_2014} & 0 & 41* & 9 &  &  &  \\ \hline
+$^\Diamond$Structural matching in computer vision using probabilistic relaxation  \cite{Christmas_1995} & 9 & 0 &  &  & 10 &  \\ \hline
+$^\Diamond$A new algorithm for subgraph optimal isomorphism  \cite{El_Sonbaty_1998} & 2 & 21 &  &  &  & 9 \\ \hline
+BIG-ALIGN: Fast Bipartite Graph Alignment  \cite{Koutra_2013} & 2 & 21 &  & 9 &  &  \\ \hline
+$^\Diamond$A graph distance measure for image analysis  \cite{Eshera_1984} & 8 & 0 &  &  & 8 &  \\ \hline
+A new algorithm for error-tolerant subgraph isomorphism detection  \cite{Messmer_1998} & 8 & 0 &  &  & 9 &  \\ \hline
+$^\Diamond$A (sub)graph isomorphism algorithm for matching large graphs  \cite{Cordella_2004} & 3 & 16 &  &  &  & 10 \\ \hline
+\end{tabular}
+
+\vspace{-.03cm}
+$\dagger$Also top for Group 1 (biology dominated); $^\Diamond$Also top for Group 2 (computer science dominated)
+}
+\vspace{-.25cm}
+\caption{Highest centrality papers for the entire pruned network.}
+\label{tab:toppapers_all}
+\end{table}
+
+\begin{table}[H]
+{\setstretch{1}\fontsize{10}{13}\selectfont
+\begin{tabular}{|L{0.7\linewidth}|c|c|c|c|c|c|}
+\hline
+Title & \rotatebox[origin=c]{90}{Indegree} &  \rotatebox[origin=c]{90}{Outdegree} & \rotatebox[origin=c]{90}{Betweenness} &  \rotatebox[origin=c]{90}{Closeness} &  \rotatebox[origin=c]{90}{HITS Auth.} & \rotatebox[origin=c]{90}{HITS Hub} \\ \hline\hline
+$^\Diamond$Networks for systems biology: conceptual connection of data and function  \cite{Emmert_Streib_2011} & 2 & 90* & 1 & 2 &  & 1 \\ \hline
+$^\Diamond$Fifty years of graph matching, network alignment and network comparison  \cite{Emmert_Streib_2016} & 4 & 56* & 2 & 1 &  & 2 \\ \hline
+$^\Diamond$Modeling cellular machinery through biological network comparison  \cite{Sharan_2006} & 9 & 40* & 4 & 3 & 10 & 9 \\ \hline
+$^\Diamond$MAGNA: Maximizing Accuracy in Global Network Alignment  \cite{Saraph_2014} & 5 & 35* & 7 & 6 &  & 3 \\ \hline
+$^\Diamond$On Graph Kernels: Hardness Results and Efficient Alternatives  \cite{Gartner_2003} & 10* & 9 & 3 & 8 &  &  \\ \hline
+Biological network comparison using graphlet degree distribution  \cite{Przulj_2007} & 11* & 0 &  & 7 & 4 & 7 \\ \hline
+$^\Diamond$A new graph-based method for pairwise global network alignment  \cite{Klau_2009} & 8 & 12 & 9 & 4 & 6 &  \\ \hline
+Network Motifs: Simple Building Blocks of Complex Networks  \cite{Milo_2002} & 11* & 0 &  & 9 & 8 &  \\ \hline
+$^\Diamond$Pairwise Global Alignment of Protein Interaction Networks by Matching Neighborhood Topology  \cite{Singh_2007} & 12* & 0 &  &  & 3 &  \\ \hline
+$^\Diamond$Topological network alignment uncovers biological function and phylogeny  \cite{Kuchaiev_2010} & 12* & 0 &  &  & 2 &  \\ \hline
+NETAL: a new graph-based method for global alignment of protein-protein interaction networks  \cite{Neyshabur_2013} & 6 & 26* &  &  &  & 5 \\ \hline
+Collective dynamics of ``small-world" networks  \cite{Watts_1998} & 10* & 0 &  & 10 & 5 &  \\ \hline
+Global network alignment using multiscale spectral signatures  \cite{Patro_2012} & 11* & 0 &  &  & 9 &  \\ \hline
+$^\Diamond$Global alignment of multiple protein interaction networks with application to functional orthology detection  \cite{Singh_2008} & 10* & 0 &  &  &  &  \\ \hline
+Conserved patterns of protein interaction in multiple species  \cite{Sharan_2005} & 10* & 0 &  &  & 7 &  \\ \hline
+Pairwise Alignment of Protein Interaction Networks  \cite{Koyuturk_2006} & 10* & 0 &  &  & 1 &  \\ \hline
+Alignment-free protein interaction network comparison  \cite{Ali_2014} & 2 & 22 & 6 & 5 &  &  \\ \hline
+Graphlet-based measures are suitable for biological network comparison  \cite{Hayes_2013} & 1 & 30* &  &  &  & 8 \\ \hline
+Survey on the Graph Alignment Problem and a Benchmark of Suitable Algorithms  \cite{Dopmann_2013} & 0 & 26 &  &  &  & 4 \\ \hline
+Predicting Graph Categories from Structural Properties  \cite{Canning_2018} & 0 & 30* & 5 &  &  &  \\ \hline
+Fast parallel algorithms for graph similarity and matching  \cite{Kollias_2014} & 1 & 23 &  &  &  & 6 \\ \hline
+Complex network measures of brain connectivity: Uses and interpretations  \cite{Rubinov_2010} & 0 & 28* & 8 &  &  &  \\ \hline
+Graph-based methods for analysing networks in cell biology  \cite{Aittokallio_2006} & 0 & 30* &  &  &  & 10 \\ \hline
+Demadroid: Object Reference Graph-Based Malware Detection in Android  \cite{Wang_2018} & 0 & 25 & 10 &  &  &  \\ \hline
+Early Estimation Model for 3D-Discrete Indian Sign Language Recognition Using Graph Matching  \cite{Kumar_2018a} & 0 & 29* &  &  &  &  \\ \hline
+Indian sign language recognition using graph matching on 3D motion captured signs  \cite{Kumar_2018b} & 0 & 29* &  &  &  &  \\ \hline
+\end{tabular}
+
+\vspace{-.03cm}
+$^\Diamond$Also a top-centrality paper for the entire network}
+\caption{Highest centrality papers for Group 1 (biology dominated) in our partition of the pruned network.}
+\label{tab:toppapers_bio}
+\end{table}
+
+\begin{table}[H]
+{\setstretch{1}\fontsize{10}{13}\selectfont
+\begin{tabular}{|L{0.7\linewidth}|c|c|c|c|c|c|}
+\hline
+Title & \rotatebox[origin=c]{90}{Indegree} &  \rotatebox[origin=c]{90}{Outdegree} & \rotatebox[origin=c]{90}{Betweenness} &  \rotatebox[origin=c]{90}{Closeness} &  \rotatebox[origin=c]{90}{HITS Auth.} & \rotatebox[origin=c]{90}{HITS Hub} \\ \hline\hline
+$^\Diamond$Thirty Years of Graph Matching in Pattern Recognition  \cite{Conte_2004} & 17* & 107* & 1 & 1 &  & 1 \\ \hline
+$^\Diamond$An Algorithm for Subgraph Isomorphism  \cite{Ullmann_1976} & 15* & 2 & 10 & 5 & 2 &  \\ \hline
+$^\Diamond$A graduated assignment algorithm for graph matching  \cite{Gold_1996} & 18* & 0 & 7 & 4 & 3 &  \\ \hline
+$^\Diamond$An eigendecomposition approach to weighted graph matching problems  \cite{Umeyama_1988} & 15* & 5 &  & 2 & 4 &  \\ \hline
+$^\Diamond$The graph matching problem  \cite{Livi_2012} & 2 & 36* & 3 & 3 &  & 8 \\ \hline
+$^\Diamond$A distance measure between attributed relational graphs for pattern recognition  \cite{Sanfeliu_1983} & 13* & 0 &  & 7 & 1 &  \\ \hline
+$^\Diamond$Recent developments in graph matching  \cite{Bunke_2000} & 0 & 50* & 8 &  &  & 2 \\ \hline
+$^\Diamond$Error correcting graph matching: on the influence of the underlying cost function  \cite{Bunke_1999} & 9* & 16 &  & 8 &  & 6 \\ \hline
+$^\Diamond$Fast and Scalable Approximate Spectral Matching for Higher Order Graph Matching  \cite{Park_2014} & 0 & 41* & 2 &  &  &  \\ \hline
+$^\Diamond$Efficient Graph Matching Algorithms  \cite{Messmer_1995} & 0 & 42* & 5 &  &  & 4 \\ \hline
+$^\Diamond$Computers and Intractability: A Guide to the Theory of NP-Completeness  \cite{Hartmanis_1982} & 11* & 0 & 6 &  &  &  \\ \hline
+$^\Diamond$The Hungarian method for the assignment problem  \cite{Kuhn_1955} & 14* & 0 &  &  &  &  \\ \hline
+$^\Diamond$Graph matching applications in pattern recognition and image processing  \cite{Conte_2003} & 0 & 40* &  &  &  & 3 \\ \hline
+Efficient Graph Similarity Search Over Large Graph Databases  \cite{Zheng_2015} & 0 & 28* & 4 & 6 &  &  \\ \hline
+A linear programming approach for the weighted graph matching problem  \cite{Almohamad_1993} & 8 & 8 &  & 9 & 9 &  \\ \hline
+$^\Diamond$Structural matching in computer vision using probabilistic relaxation  \cite{Christmas_1995} & 9* & 0 &  &  & 5 &  \\ \hline
+$^\Diamond$A graph distance measure for image analysis  \cite{Eshera_1984} & 8 & 0 &  &  & 6 &  \\ \hline
+Inexact graph matching for structural pattern recognition  \cite{Bunke_1983} & 10* & 0 &  &  &  &  \\ \hline
+$^\Diamond$A new algorithm for subgraph optimal isomorphism  \cite{El_Sonbaty_1998} & 2 & 21 &  &  &  & 5 \\ \hline
+Approximate graph edit distance computation by means of bipartite graph matching  \cite{Riesen_2009} & 9 & 0 &  &  &  &  \\ \hline
+Linear time algorithm for isomorphism of planar graphs (Preliminary Report)  \cite{Hopcroft_1974} & 9 & 0 &  &  &  &  \\ \hline
+Structural Descriptions and Inexact Matching  \cite{Shapiro_1981} & 9 & 0 &  &  & 7 &  \\ \hline
+$^\Diamond$A (sub)graph isomorphism algorithm for matching large graphs  \cite{Cordella_2004} & 3 & 16 &  &  &  & 7 \\ \hline
+A Probabilistic Approach to Spectral Graph Matching  \cite{Egozi_2013} & 0 & 25* & 9 & 10 &  &  \\ \hline
+Hierarchical attributed graph representation and recognition of handwritten chinese characters  \cite{Lu_1991} & 6 & 0 &  &  & 8 &  \\ \hline
+Exact and approximate graph matching using random walks  \cite{Gori_2005} & 1 & 14 &  &  &  & 9 \\ \hline
+A shape analysis model with applications to a character recognition system  \cite{Rocha_1994} & 5 & 0 &  &  & 10 &  \\ \hline
+Fast computation of Bipartite graph matching  \cite{Serratosa_2014} & 1 & 23* &  &  &  &  \\ \hline
+Graph Matching Based on Node Signatures  \cite{Jouili_2009} & 0 & 17 &  &  &  & 10 \\ \hline
+Unsupervised Domain Adaptation Using Regularized Hyper-Graph Matching  \cite{Das_2018} & 0 & 22* &  &  &  &  \\ \hline
+\end{tabular}
+
+\vspace{-.03cm}
+$^\Diamond$Also a top-centrality paper for the entire network}
+\caption{Highest centrality papers for Group 2 (computer science dominated) in our partition of the pruned network.}
+\label{tab:toppapers_CS}
+\end{table}
+
+
+
+\begin{table}[t]
+\centering
+\begin{tabular}{|l|r|r|r|r|}
+\hline & $G$ & $G_p$ & $G_p^{(1)}$ & $G_p^{(2)}$ \\ \hline
+Total vertices & 5793 & 1062 & 531 & 531 \\ \hline
+Untagged & 1922 & 502 & 311 & 191 \\ \hline
+Tagged & 3871 & 560 & 220 & 340 \\ \hline
+CS & 2533 & 405 & 93 & 312 \\ \hline
+Biology & 984 & 122 & 108 & 14 \\ \hline
+Math & 787 & 97 & 44 & 53 \\ \hline
+Both CS and biology & 108 & 13 & 9 & 4 \\ \hline
+Both CS and math & 305 & 49 & 15 & 34 \\ \hline
+Both biology and math & 24 & 3 & 2 & 1 \\ \hline
+All three & 4 & 1 & 1 & 0 \\ \hline
+\end{tabular}
+\caption{Number of vertices tagged as computer science, biology, math, or some combination of these in $G$, $G_p$, and the two halves of the partition $G_p^{(1)}$ and $G_p^{(2)}$.}
+\label{tab:subject_counts}
+\end{table}
+
+
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|r|r|}
+\hline
+ & $G$ & $G_p$ \\ \hline\hline
+Outdegree & -0.0178 & -0.0141 \\ \hline
+Publication year & 0.0067 & 0.0041 \\ \hline
+Citation count & 0.0006 & 0.0654 \\ \hline
+Reference count & 0.0193 & -0.0061 \\ \hline
+Tagged with any subject & 0.1089 & -0.0094 \\ \hline
+Subject & 0.1837 & 0.0712 \\ \hline
+Subject is CS & 0.2624 & 0.1529 \\ \hline
+Subject is biology & 0.3354 & 0.1773 \\ \hline
+Subject is math & 0.0732 & 0.0164 \\ \hline
+Subject is CS or biology & 0.1500 & 0.0188 \\ \hline
+Subject is CS or math & 0.2458 & 0.1256 \\ \hline
+Subject is biology or math & 0.1713 & 0.0414 \\ \hline
+\end{tabular}
+\caption{Assortativity of the full and pruned citation networks with respect to various network properties.}
+\label{tab:assortativity}
+\end{table}
+
+
+\begin{table}[t!]
+\centering
+\begin{tabular}{|L{0.35\linewidth}|L{0.15\linewidth}|L{0.15\linewidth}|L{0.22\linewidth}|}
+\hline
+ & Graph isomorphism & Subgraph isomorphism & Maximum common induced subgraph \\ \hline
+$G_1$ and $G_2$ must have the same number of nodes & X & & \\ \hline
+Mapping must include all nodes of either $G_1$ or $G_2$ & X & X & \\ \hline
+Mapping must be edge-preserving & X & X & X \\ \hline
+NP-complete & Unknown & X & X* \\ \hline
+\end{tabular}
+\flushleft\footnotesize *The associated decision problem of determining whether $G_1$ and $G_2$ have a common induced subgraph with at least $k$ nodes is NP-complete, but the problem of finding the maximum common induced subgraph (as required for graph matching) is NP-hard \cite{wikiMaximumCommonSubgraph}.
+\caption{A summary of exact graph matching problem formulations.}
+\label{NP_classifications}
+\end{table}
+
+\subsection{Exact and inexact matching}\label{section:exact_and_inexact_matching}
+
+\begin{table}[t!]
+\centering
+\begin{tabular}{|L{0.16\linewidth}|L{0.13\linewidth}|L{0.11\linewidth}|L{0.12\linewidth}|L{0.105\linewidth}|L{0.165\linewidth}|}
+\hline
+ & Edge preserving? & Result in? & Mapping seeking? & Optimal? & Complexity \\ \hline
+Graph isomorphism & Yes & \{0,1\} & Yes & Yes & Likely between P and NP \\ \hline
+Subgraph isomorphism & Yes & \{0,1\} & Yes & Yes & NP-complete \\ \hline
+MCS computation & Yes & [0,1] & Yes & Yes & NP-hard \\ \hline
+Edit distances (exact) & No & [0,1] & No & Yes & Generally exponential \\ \hline
+Edit distances (approximate) & No & [0,1] & No & No & Generally polynomial \\ \hline
+Other inexact formulations & No & [0,1] & Sometimes & No* & Generally polynomial \\ \hline
+\end{tabular}
+\caption{Summary of the distinctions between exact and inexact graph matching styles.}
+\flushleft\footnotesize *The Hungarian algorithm can be used to find an optimal assignment in $O(n^3)$ time based on a given cost function, but the assignment problem minimizes a cost function which is only an approximation of the true matching cost.
+\label{exact_vs_inexact}
+\end{table}
+
+
+
+\subsection{Graph edit distance}
+
+\begin{wrapfigure}{R}{0.4\textwidth}
+\begin{tabular}{|lcl|l|}
+\hline
+cat & $\rightarrow$ & ca\textit{r}t & Insertion \\ \hline
+\textit{c}art & $\rightarrow$ & \textit{d}art & Substitution \\ \hline
+\textit{d}art & $\rightarrow$ & art & Deletion \\ \hline
+\textit{ar}t & $\rightarrow$ & \textit{ra}t & Transposition \\ \hline
+\end{tabular}
+\caption{Edit operations for strings.}
+\vspace{-10pt}
+\label{fig:string_edit_operations}
+\end{wrapfigure}
+
+
+\begin{figure}[t]
+\renewcommand{\arraystretch}{1.5}
+%\fbox{\begin{minipage}{\textwidth}
+\begin{tabular}[c]{ccccc}
+\multicolumn{5}{l}{\underline{\textbf{Network comparison with univariate measures}}} \\ \noalign{\smallskip}
+Network & $\rightarrow$ & Something in $\R^n$ & \multirow{2}{0.04\linewidth}{$\Bigr\}\rightarrow$} & \multirow{2}{0.42\linewidth}{Similarity score derived from a metric or aggregation measure on $\R^n$} \\ \noalign{\smallskip}
+Network & $\rightarrow$ & Something in $\R^n$  \\ \noalign{\medskip}
+Examples: & \multicolumn{4}{p{0.8\textwidth}}{Any metric on $\R^n$ applied to number of vertices and edges, mean degree, diameter, connectivity, degree distribution, centrality distributions, local graphlet counts, graphlet degree distributions, etc.} \\
+\end{tabular}
+\hfill
+\vspace{0.5cm}
+\begin{tabular}[c]{ccccc}
+\multicolumn{5}{l}{\underline{\textbf{Network comparison with bivariate measures}}} \\ \noalign{\smallskip}
+Network &  \multirow{2}{0.05\linewidth}{$\Bigr\}\rightarrow$} & \multirow{2}{0.19\linewidth}{Mapping process of some sort} & \multirow{2}{0.03\linewidth}{$\rightarrow$} \multirow{2}{0.35\linewidth}{Similarity measure derived from the mapping in some way}\\ \noalign{\smallskip}
+Network & \\ \noalign{\medskip}
+Examples: & \multicolumn{4}{p{0.8\textwidth}}{Graph edit distance; node correctness, edge correctness, induced conserved structure \cite{Patro_2012}, or symmetric substructure score \cite{Saraph_2014} with respect to an alignment; MCS-related metrics (i.e., \cite{Bunke_1998})} \\
+\end{tabular}
+\caption{A summary of the distinction between univariate and bivariate measures.}
+\label{fig:univariate_and_bivariate}
+%\end{minipage}}
+\end{figure}
+
+
+\begin{table}[!t]
+\renewcommand{\arraystretch}{1.5}
+\centering
+\begin{tabular}{L{0.13\linewidth}L{0.25\linewidth}L{0.45\linewidth}}
+\hline
+\textbf{Type} & \textbf{Description} & \textbf{Examples} \\ \hline
+Global & Single value for an entire network & Mean degree, maximum degree, diameter, edge density, assortativity, global clustering coefficient \\ 
+Local & Value at each vertex in a network & Indegree, outdegree, graphlet degrees, betweenness centrality, closeness centrality, HITS centralities, local clustering coefficient  \\
+\hline
+\end{tabular}
+\caption{A summary of the distinction between local and global network statistics.}
+\label{tab:local_vs_global_statistics}
+\end{table}
+
+
+
+\begin{table}[t]
+\centering
+{\setstretch{1}\fontsize{11}{13}\selectfont
+\begin{tabular}{L{0.25\linewidth}C{0.085\linewidth}C{0.065\linewidth}C{0.08\linewidth}C{0.11\linewidth}C{0.11\linewidth}C{0.11\linewidth}}
+\hline
+ & Vertices & Edges & Edge density & Clustering & Maximum $G_0$ degree & Maximum $G_2$ degree \\ \hline
+
+\textit{Mycoplasma genitalium} & 444 & 1860 &  0.94\% & 0.758 & 66 & 1376 \\ 
+Match degree sequence & 444 & 1860 & 0.94\% & 0.420 & 66 & 774  \\ 
+Match size and density & 444 & 1860 & 0.94\% &  0.022 & 17 & 6 \\ \hline
+\textit{S. pombe} & 5100 & 30118 & 0.11\%  & 0.757 & 213 & 14592 \\ 
+Match degree sequence & 5100 & 30118 & 0.11\%  & 0.150 & 213 & 3606 \\ 
+Match size and density & 5100 & 30118 & 0.11\%  & 0.002 & 26 & 3 \\ \hline
+\end{tabular}
+}
+\caption{Statistics for PPI networks of two small organisms and two comparable random graphs for each. The ``clustering" value is the global clustering coefficient\index{global clustering coefficient} \cite{newman2010}, which measures the fraction of connected triplets in the network which are closed. Edge density\index{edge density} is the fraction of edges compared to the total number of possible edges, i.e., $m/n^2$.}
+\label{tab:ppi_networks}
+\end{table}
+
+
+\begin{table}[!hp]
+\centering
+{\setstretch{1}\fontsize{11}{13}\selectfont
+\begin{tabular}{|L{0.2\textwidth}|L{0.055\textwidth}|L{0.33\textwidth}|L{0.31\textwidth}|}
+\hline
+\textbf{Biology} & \textbf{Year} & \textbf{Similarity Scoring} & \textbf{Alignment Construction} \\ \hline\hline
+IsoRank \cite{Singh_2007} & 2007 & Convex combination of external information and eigenvalue problem-based topological node similarities  & Maximum-weight bipartite matching OR Repeated greedy pairing of highest scores \\ \hline
+
+Natalie \cite{Klau_2009} & 2009 & Convex combination of external info-based node mapping scores and topology- based edge mapping scores & Cast as an integer linear programming problem and use Lagrangian relaxation \\ \hline
+
+GRAAL \cite{Kuchaiev_2010} & 2010 & Convex combination of graphlet signatures and local density & Greedy neighborhood alignment around highest-scoring pairs \\ \hline
+
+PINALOG \cite{phan2012pinalog} & 2012 & Only sequence and functional similarity of proteins initially, but includes topological similarity for extension mapping & Detect communities, pair similar proteins from communities, extend the mapping to their neighbors  \\ \hline
+
+GHOST \cite{Patro_2012} & 2012 & Eigenvalue distributions of appropriately normalized neighborhood Laplacians & Seed-and-extend with approximate solutions to the QAP, then local search step \\ \hline
+
+SPINAL \cite{aladaug2013spinal} & 2013 & Convex combination of sequence similarity and neighbor matching-based topological similarity  & Seed-and-extend with local swaps \\ \hline
+
+NETAL \cite{Neyshabur_2013} & 2013 & Update an initial scoring based on the fraction of common neighbors between matched pairs in its corresponding greedy alignment & Repeated greedy pairing of highest scores, while updating expected number of conserved interactions \\ \hline
+
+MAGNA \cite{Saraph_2014} & 2014 & Any & Improve a population of existing alignments with crossover and a fitness function \\ \hline
+
+Node fingerprinting \cite{radu2014node} & 2014 & Minimize degree differences and reward adjacency to already-matched pairs & Progressively add high-scoring pairings to an alignment and update scores\\ \hline \hline
+
+\textbf{Non-biology}  & \textbf{Year} & \textbf{Similarity Scoring} & \textbf{Alignment Construction} \\ \hline\hline
+
+Node signatures \cite{Jouili_2009} & 2009 & Vertex degree and incident edge weights & Hungarian method \\ \hline
+
+Graph edit distance approximation \cite{Riesen_2009} & 2009 & Edit costs (vertex insertions, substitutions, deletions) & Generalized (non-square) Munkres' algorithm \\ \hline
+Modified GED approximation \cite{Serratosa_2014} & 2014 & Modification of edit costs when edit distance is a proper distance function & Generalized (non-square) Munkres' algorithm \\ \hline 
+\end{tabular}
+}
+\caption{Broad summary of alignment algorithms discussed in this section. The distinctions between the various topological similarity scores used are discussed in each algorithm's individual section.}
+\label{tab:alignment_algorithms}
+\end{table}
+
+
+
+\begin{table}[t]
+\centering
+\begin{tabular}{|l|r|r|r|}
+\hline & $G_R$ & $G_R^{(1)}$ & $G_R^{(2)}$ \\ \hline
+Total vertices & 61 & 27 & 34 \\ \hline
+Untagged & 30 & 8 & 22 \\ \hline
+Tagged & 31 & 19 & 12 \\ \hline
+CS & 24 & 2 & 22 \\ \hline
+Biology & 6 & 6 & 0 \\ \hline
+Math & 3 & 1 & 2 \\ \hline
+Both CS and biology & 1 & 1 & 0 \\ \hline
+Both CS and math & 2 & 0 & 2 \\ \hline
+Both biology and math & 0 & 0 & 0 \\ \hline
+All three & 0 & 0 & 0 \\ \hline
+\end{tabular}
+\caption{Number of vertices tagged as computer science, biology, math, or some combination of these in the reading list subnetwork $G_R$, and its intersections $G_R^{(1)}$ and $G_R^{(2)}$ with the two halves of the partition $G_p^{(1)}$ and $G_p^{(2)}$. See Table \ref{tab:subject_counts}.}
+\label{tab:reading_list_subject_counts}
+\end{table}
+
+
+\begin{table}[t]
+\centering
+\begin{tabular}{| l | l |}
+\hline
+\textbf{Usage} & \textbf{Package Name(s)} \\ \hline
+Mathematical Computation & NumPy \\
+& NetworkX \\
+\hline
+Figure creation* & Matplotlib \\ 
+\hline
+File I/O Handling & csv\\ 
+& glob \\
+& re \\
+\hline
+API Request Handling  & urllib \\
+& Requests \\ 
+& time \\
+\hline
+Interfacing with Google Sheets & gspread$^\Diamond$ \\
+& oauth2client$^\Diamond$ \\
+\hline
+The \verb+defaultdict+ datatype & collections \\
+\hline
+Interfacing my own modules with Jupyter notebooks & importlib$^\Diamond$ \\ 
+\hline
+\end{tabular}
+\caption{Python packages used for the project. All but those marked with a $\Diamond$ are found in either the standard library or available in Anaconda for Python 3.6 on 64-bit Windows in mid-2018, and the remainder can be installed via pip.}
+\footnotesize *Only Figure \ref{fig:year_distributions} was created in Python. The remainder were made in Mathematica.
+\label{tab:python_packages}
+\end{table}
+
+
+\begin{table}[p]
+\centering
+\begin{tabular}{| l | l | l |}
+\hline
+\textbf{Computer Science} & \textbf{Biology} & \textbf{Mathematics} \\ \hline\hline
+ACM & Biochem- & Algebra \\
+Algorithm & Biocomputing & Algorithm \\
+Artificial Intelligence & Bioengineering & Chaos \\
+CIVR & Bioinformatic & Combinatori- \\
+Computational Intelligence & Biological & Fixed Point \\
+Computational Linguistics & Biology & Fractal \\
+Computer & Biomedic- & Functional Analysis \\
+Computer Graphics & Biosystem & Geometr- \\
+Computer Science & Biotechnology & Graph \\
+Computer Vision & Brain & Kernel \\
+Data & Cancer & Linear Regression \\
+Data Mining & Cardiology & Markov \\
+Document Analysis & Cell & Mathemati- \\
+Electrical Engineering & Disease & Multivariate \\
+Graphics & DNA & Network \\
+IEEE & Drug & Optimization \\
+Image Analysis & Endocrinology & Permutation Group \\
+Image Processing & Epidemiology & Probability \\
+Intelligent System & Genetic & Riemann Surface \\
+Internet & Genome & SIAM \\
+ITiCSE & Genomic & Statistic- \\
+Language Processing & Medical & Topology \\ 
+Learning & Medicinal & Wavelet \\
+Machine Learning & Medicine & \\
+Machine Vision & Metabolic & \\
+Malware & Microbiology & \\
+Neural Network & Molecular & \\
+Pattern Recognition & Neuro- & \\ 
+Robotic & Neurobiological & \\
+Scientific Computing & Pathology & \\
+SIAM & Pathogen & \\
+Signal Processing & Pharma- & \\
+Software & Plant & \\
+World Wide Web & Protein & \\
+ & Proteom- & \\
+ & Psych- & \\
+ & Psychology & \\
+ & Virology & \\
+ & Virus & \\
+\hline
+\end{tabular}
+\caption{Keywords used to tag journal names as various subjects.}
+\vspace{-6pt}\flushleft\footnotesize *Note: Both a term and its plural are considered a match, and hyphens indicate a word with several ending variations which were all considered to be associated with the tag. While the search process was case sensitive in order to avoid false positives for short words like ``ACM", case-insensitive duplicate words have been excluded from the table. The words ``algorithm" and ``SIAM" are considered to be both computer science and mathematics.
+\label{tab:tagging_keywords}
+\end{table}
+
+
+\bibliographystyle{plain}
+\bibliography{thesis_bibliography}
+
+% If you want to include an index, this prints the index at this location. You must have \makeindex uncommented in the preamble
+\printindex
+
+\end{document}

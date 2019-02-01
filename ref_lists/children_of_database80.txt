@@ -1,0 +1,313 @@
+>>> NEW PAPER <<<
+>>> citation >>> Philip Resnik. 1995. Using information content to evaluate semantic similarity in a taxonomy. In IJCAI, pages 448–453.
+>>> DOI >>> 10.1109/cis.2012.39
+>>> URL >>> http://dx.doi.org/10.1109/cis.2012.39
+>>> year >>> 2012.0
+>>> title >>> Using Information Content to Evaluate Semantic Similarity on HowNet
+>>> author >>> You Bin and Liu Xiao-Ran and Li Ning and Yan Yue-Song
+>>> reference_count >>> 11.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['2012 Eighth International Conference on Computational Intelligence and Security']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database80.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 6]], 'date-time': '2018-05-06T01:45:02Z', 'timestamp': 1525571102626}, 'reference-count': 11, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467347259', 'type': 'print'}, {'value': '9780769548968', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012, 11]]}, 'DOI': '10.1109/cis.2012.39', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 1, 17]], 'date-time': '2013-01-17T20:35:17Z', 'timestamp': 1358454917000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Using Information Content to Evaluate Semantic Similarity on HowNet'], 'prefix': '10.1109', 'author': [{'given': 'You', 'family': 'Bin', 'sequence': 'first', 'affiliation': []}, {'given': 'Liu', 'family': 'Xiao-Ran', 'sequence': 'additional', 'affiliation': []}, {'given': 'Li', 'family': 'Ning', 'sequence': 'additional', 'affiliation': []}, {'given': 'Yan', 'family': 'Yue-Song', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2012 Eighth International Conference on Computational Intelligence and Security (CIS)', 'location': 'Guangzhou, China', 'start': {'date-parts': [[2012, 11, 17]]}, 'end': {'date-parts': [[2012, 11, 18]]}}, 'container-title': ['2012 Eighth International Conference on Computational Intelligence and Security'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6403635/6405841/06405884.pdf?arnumber=6405884', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 21]], 'date-time': '2017-06-21T05:51:16Z', 'timestamp': 1498024276000}, 'score': 33.171997, 'issued': {'date-parts': [[2012, 11]]}, 'ISBN': ['9781467347259', '9780769548968'], 'references-count': 11, 'URL': 'http://dx.doi.org/10.1109/cis.2012.39'}
+>>> hash >>> ('Using Information Content to Evaluate Semantic Similarity on HowNet', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ted Pedersen, Siddharth Parwardhan, and Jason Michelizzi. 2004. Wordnet::similarity – measuring the relatedness of concepts. In AAAI.
+>>> DOI >>> 10.3115/1614025.1614037
+>>> URL >>> http://dx.doi.org/10.3115/1614025.1614037
+>>> year >>> 2004.0
+>>> title >>> WordNet::Similarity
+>>> author >>> Ted Pedersen and Siddharth Patwardhan and Jason Michelizzi
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 206.0
+>>> subject >>> None
+>>> container_title >>> ["Demonstration Papers at HLT-NAACL 2004 on XX - HLT-NAACL '04"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database80.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T17:02:36Z', 'timestamp': 1525453356577}, 'publisher-location': 'Morristown, NJ, USA', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.3115/1614025.1614037', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T14:23:41Z', 'timestamp': 1271341421000}, 'source': 'Crossref', 'is-referenced-by-count': 206, 'title': ['WordNet::Similarity'], 'prefix': '10.3115', 'author': [{'given': 'Ted', 'family': 'Pedersen', 'sequence': 'first', 'affiliation': []}, {'given': 'Siddharth', 'family': 'Patwardhan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jason', 'family': 'Michelizzi', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'Demonstration Papers at HLT-NAACL 2004', 'location': 'Boston, Massachusetts', 'acronym': "HLT-NAACL '04", 'number': '2004', 'start': {'date-parts': [[2004, 5, 2]]}, 'end': {'date-parts': [[2004, 5, 7]]}}, 'container-title': ["Demonstration Papers at HLT-NAACL 2004 on XX - HLT-NAACL '04"], 'deposited': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T14:24:18Z', 'timestamp': 1271341458000}, 'score': 75.46095, 'subtitle': ['measuring the relatedness of concepts'], 'issued': {'date-parts': [[2004]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1614025.1614037'}
+>>> hash >>> ('WordNet::Similarity', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Timothy Chklovski and Patrick Pantel. 2004. VerbOcean: Mining the web for fine-grained semantic verb relations. In EMNLP.
+>>> DOI >>> 10.1017/s1351324904003328
+>>> URL >>> http://dx.doi.org/10.1017/s1351324904003328
+>>> year >>> 2004.0
+>>> title >>> Towards automatic fine-grained semantic classification of verb-noun collocations
+>>> author >>> LEO WANNER
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['Natural Language Engineering']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database80.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T04:31:49Z', 'timestamp': 1525408309096}, 'reference-count': 0, 'publisher': 'Cambridge University Press (CUP)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Nat. Lang. Eng.'], 'published-print': {'date-parts': [[2004, 6]]}, 'DOI': '10.1017/s1351324904003328', 'type': 'journal-article', 'created': {'date-parts': [[2004, 5, 13]], 'date-time': '2004-05-13T10:29:46Z', 'timestamp': 1084444186000}, 'page': '95-143', 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Towards automatic fine-grained semantic classification of verb-noun collocations'], 'prefix': '10.1017', 'volume': '10', 'author': [{'given': 'LEO', 'family': 'WANNER', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'container-title': ['Natural Language Engineering'], 'language': 'en', 'link': [{'URL': 'https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1351324904003328', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 4, 21]], 'date-time': '2017-04-21T18:02:06Z', 'timestamp': 1492797726000}, 'score': 39.191353, 'issued': {'date-parts': [[2004, 6]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1999]]}, 'issue': '2'}, 'alternative-id': ['S1351324904003328'], 'URL': 'http://dx.doi.org/10.1017/s1351324904003328', 'ISSN': ['1351-3249', '1469-8110'], 'issn-type': [{'value': '1351-3249', 'type': 'print'}, {'value': '1469-8110', 'type': 'electronic'}]}
+>>> hash >>> ('Towards automatic fine-grained semantic classification of verb-noun collocations', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Michael Collins. 1999. Head-driven statistical models for natural language parsing. Ph.D. thesis, University of Pennsylvania.
+>>> DOI >>> 10.1162/089120103322753356
+>>> URL >>> http://dx.doi.org/10.1162/089120103322753356
+>>> year >>> 2003.0
+>>> title >>> Head-Driven Statistical Models for Natural Language Parsing
+>>> author >>> Michael Collins
+>>> reference_count >>> 7.0
+>>> is_referenced_by_count >>> 102.0
+>>> subject >>> None
+>>> container_title >>> ['Computational Linguistics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database80.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T01:17:04Z', 'timestamp': 1525396624536}, 'reference-count': 7, 'publisher': 'MIT Press - Journals', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computational Linguistics'], 'published-print': {'date-parts': [[2003, 12]]}, 'DOI': '10.1162/089120103322753356', 'type': 'journal-article', 'created': {'date-parts': [[2004, 2, 7]], 'date-time': '2004-02-07T06:19:08Z', 'timestamp': 1076134748000}, 'page': '589-637', 'source': 'Crossref', 'is-referenced-by-count': 102, 'title': ['Head-Driven Statistical Models for Natural Language Parsing'], 'prefix': '10.1162', 'volume': '29', 'author': [{'given': 'Michael', 'family': 'Collins', 'sequence': 'first', 'affiliation': []}], 'member': '281', 'reference': [{'issue': '4', 'key': 'p_2', 'first-page': '635', 'volume': '20', 'author': 'Alshawi Hiyan', 'year': '1994', 'journal-title': 'Computational Linguistics'}, {'key': 'p_9', 'author': 'Booth Taylor L', 'year': '1973', 'journal-title': 'IEEE Transactions on Computers, C-22(5):442-450.'}, {'issue': '2', 'key': 'p_46', 'first-page': '313', 'volume': '19', 'author': 'Marcus Mitchell', 'year': '1993', 'journal-title': 'Computational Linguistics'}, {'key': 'p_48', 'DOI': '10.1016/0004-3702(80)90003-X', 'doi-asserted-by': 'publisher'}, {'key': 'p_53', 'DOI': '10.1162/089120101750300526', 'doi-asserted-by': 'publisher'}, {'issue': '1', 'key': 'p_57', 'first-page': '61', 'volume': '18', 'author': 'Seneff Stephanie', 'year': '1992', 'journal-title': 'Computational Linguistics'}, {'key': 'p_58', 'DOI': '10.1109/18.87000', 'doi-asserted-by': 'publisher'}], 'container-title': ['Computational Linguistics'], 'language': 'en', 'link': [{'URL': 'http://www.mitpressjournals.org/doi/pdf/10.1162/089120103322753356', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T18:02:58Z', 'timestamp': 1481047378000}, 'score': 52.944656, 'issued': {'date-parts': [[2003, 12]]}, 'references-count': 7, 'journal-issue': {'published-print': {'date-parts': [[2003, 12]]}, 'issue': '4'}, 'alternative-id': ['10.1162/089120103322753356'], 'URL': 'http://dx.doi.org/10.1162/089120103322753356', 'relation': {'cites': []}, 'ISSN': ['0891-2017', '1530-9312'], 'issn-type': [{'value': '0891-2017', 'type': 'print'}, {'value': '1530-9312', 'type': 'electronic'}]}
+>>> hash >>> ('Head-Driven Statistical Models for Natural Language Parsing', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Rajat Raina, Andrew Y. Ng, and Christopher D. Manning. 2005b. Robust textual inference via learning and abductive reasoning. In Proceedings of AAAI 2005. AAAI Press.
+>>> DOI >>> 10.3115/1220575.1220624
+>>> URL >>> http://dx.doi.org/10.3115/1220575.1220624
+>>> year >>> 2005.0
+>>> title >>> Robust textual inference via graph matching
+>>> author >>> Aria D. Haghighi and Andrew Y. Ng and Christopher D. Manning
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 11.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the conference on Human Language Technology and Empirical Methods in Natural Language Processing  - HLT '05"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database80.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T16:15:42Z', 'timestamp': 1525364142667}, 'publisher-location': 'Morristown, NJ, USA ', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.3115/1220575.1220624', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T15:01:26Z', 'timestamp': 1178895686000}, 'source': 'Crossref', 'is-referenced-by-count': 11, 'title': ['Robust textual inference via graph matching'], 'prefix': '10.3115', 'author': [{'given': 'Aria D.', 'family': 'Haghighi', 'sequence': 'first', 'affiliation': []}, {'given': 'Andrew Y.', 'family': 'Ng', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christopher D.', 'family': 'Manning', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the conference', 'location': 'Vancouver, British Columbia, Canada', 'sponsor': ['undetermined'], 'acronym': "HLT '05", 'number': '2005', 'start': {'date-parts': [[2005, 10, 6]]}, 'end': {'date-parts': [[2005, 10, 8]]}}, 'container-title': ["Proceedings of the conference on Human Language Technology and Empirical Methods in Natural Language Processing  - HLT '05"], 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 44.007195, 'issued': {'date-parts': [[2005]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1220575.1220624'}
+>>> hash >>> ('Robust textual inference via graph matching', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ido Dagan, Oren Glickman, and Bernardo Magnini. 2005. The PASCAL recognizing textual entailment challenge. In Proceedings of the PASCAL Challenges Workshop Recognizing Textual Entailment.
+>>> DOI >>> 10.3115/1654536.1654538
+>>> URL >>> http://dx.doi.org/10.3115/1654536.1654538
+>>> year >>> 2007.0
+>>> title >>> The third PASCAL recognizing textual entailment challenge
+>>> author >>> Danilo Giampiccolo and Bernardo Magnini and Ido Dagan and Bill Dolan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 36.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the ACL-PASCAL Workshop on Textual Entailment and Paraphrasing - RTE '07"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database80.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T15:22:38Z', 'timestamp': 1525447358062}, 'publisher-location': 'Morristown, NJ, USA', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.3115/1654536.1654538', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T15:22:53Z', 'timestamp': 1271344973000}, 'source': 'Crossref', 'is-referenced-by-count': 36, 'title': ['The third PASCAL recognizing textual entailment challenge'], 'prefix': '10.3115', 'author': [{'given': 'Danilo', 'family': 'Giampiccolo', 'sequence': 'first', 'affiliation': []}, {'given': 'Bernardo', 'family': 'Magnini', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ido', 'family': 'Dagan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Bill', 'family': 'Dolan', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the ACL-PASCAL Workshop', 'location': 'Prague, Czech Republic', 'acronym': "RTE '07", 'number': '2007', 'start': {'date-parts': [[2007, 6, 28]]}, 'end': {'date-parts': [[2007, 6, 29]]}}, 'container-title': ["Proceedings of the ACL-PASCAL Workshop on Textual Entailment and Paraphrasing - RTE '07"], 'deposited': {'date-parts': [[2011, 8, 18]], 'date-time': '2011-08-18T10:04:25Z', 'timestamp': 1313661865000}, 'score': 124.01772, 'issued': {'date-parts': [[2007]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1654536.1654538'}
+>>> hash >>> ('The third PASCAL recognizing textual entailment challenge', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Dan I. Moldovan, Christine Clark, Sanda M. Harabagiu, and Steven J. Maiorano. 2003. Cogex: A logic prover for question answering. In HLT-NAACL.
+>>> DOI >>> 10.3115/1073445.1073467
+>>> URL >>> http://dx.doi.org/10.3115/1073445.1073467
+>>> year >>> 2003.0
+>>> title >>> COGEX
+>>> author >>> Dan Moldovan and Christine Clark and Sanda Harabagiu and Steve Maiorano
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 14.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2003 Conference of the North American Chapter of the Association for Computational Linguistics on Human Language Technology  - NAACL '03"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database80.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T01:02:40Z', 'timestamp': 1527728560212}, 'publisher-location': 'Morristown, NJ, USA ', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.3115/1073445.1073467', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T16:10:04Z', 'timestamp': 1178899804000}, 'source': 'Crossref', 'is-referenced-by-count': 14, 'title': ['COGEX'], 'prefix': '10.3115', 'author': [{'given': 'Dan', 'family': 'Moldovan', 'sequence': 'first', 'affiliation': []}, {'given': 'Christine', 'family': 'Clark', 'sequence': 'additional', 'affiliation': []}, {'given': 'Sanda', 'family': 'Harabagiu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Steve', 'family': 'Maiorano', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the 2003 Conference of the North American Chapter of the Association for Computational Linguistics', 'location': 'Edmonton, Canada', 'sponsor': ['undetermined'], 'acronym': "NAACL '03", 'number': '2003', 'start': {'date-parts': [[2003, 5, 27]]}, 'end': {'date-parts': [[2003, 6, 1]]}}, 'container-title': ["Proceedings of the 2003 Conference of the North American Chapter of the Association for Computational Linguistics on Human Language Technology  - NAACL '03"], 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 100.725555, 'subtitle': ['a logic prover for question answering'], 'issued': {'date-parts': [[2003]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1073445.1073467'}
+>>> hash >>> ('COGEX', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. Fellbaum. 1998. WordNet: An Electronic Lexical Database. MIT Press.
+>>> DOI >>> 10.1017/s0142716401221079
+>>> URL >>> http://dx.doi.org/10.1017/s0142716401221079
+>>> year >>> 2001.0
+>>> title >>> WordNet: An electronic lexical database. Christiane Fellbaum (Ed.). Cambridge, MA: MIT Press, 1998. Pp. 423.
+>>> author >>> Peter Oram
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Applied Psycholinguistics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database80.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T11:02:33Z', 'timestamp': 1528369353601}, 'reference-count': 0, 'publisher': 'Cambridge University Press (CUP)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Appl. Psycholing.'], 'published-print': {'date-parts': [[2001, 3]]}, 'DOI': '10.1017/s0142716401221079', 'type': 'journal-article', 'created': {'date-parts': [[2002, 11, 14]], 'date-time': '2002-11-14T21:57:02Z', 'timestamp': 1037311022000}, 'page': '131-134', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['WordNet: An electronic lexical database. Christiane Fellbaum (Ed.). Cambridge, MA: MIT Press, 1998. Pp. 423.'], 'prefix': '10.1017', 'volume': '22', 'author': [{'given': 'Peter', 'family': 'Oram', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'container-title': ['Applied Psycholinguistics'], 'deposited': {'date-parts': [[2007, 2, 13]], 'date-time': '2007-02-13T20:56:13Z', 'timestamp': 1171400173000}, 'score': 54.06934, 'issued': {'date-parts': [[2001, 3]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'alternative-id': ['S0142716401221079', '10.1017/S0142716401221079', '0142-7164(200103)22:1&131:WAELDC:PII-S0142-7164(01)22107-9>3.0.CO;2-Y'], 'URL': 'http://dx.doi.org/10.1017/s0142716401221079', 'ISSN': ['0142-7164'], 'issn-type': [{'value': '0142-7164', 'type': 'print'}], 'article-number': 'S0142716401221079'}
+>>> hash >>> ('WordNet: An electronic lexical database. Christiane Fellbaum (Ed.). Cambridge, MA: MIT Press, 1998. Pp. 423.', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Dekang Lin and Patrick Pantel. 2001. DIRT - discovery of inference rules from text. In Knowledge Discovery and Data Mining, pages 323–328.
+>>> DOI >>> 10.1145/502512.502559
+>>> URL >>> http://dx.doi.org/10.1145/502512.502559
+>>> year >>> 2001.0
+>>> title >>> DIRT @SBT@discovery of inference rules from text
+>>> author >>> Dekang Lin and Patrick Pantel
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 56.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the seventh ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '01"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database80.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T01:02:52Z', 'timestamp': 1525395772406}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '158113391X', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.1145/502512.502559', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 2, 3]], 'date-time': '2004-02-03T17:05:38Z', 'timestamp': 1075827938000}, 'source': 'Crossref', 'is-referenced-by-count': 56, 'title': ['DIRT @SBT@discovery of inference rules from text'], 'prefix': '10.1145', 'author': [{'given': 'Dekang', 'family': 'Lin', 'sequence': 'first', 'affiliation': []}, {'given': 'Patrick', 'family': 'Pantel', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the seventh ACM SIGKDD international conference', 'location': 'San Francisco, California', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data', 'AAAI, American Association for Artificial Intelligence'], 'acronym': "KDD '01", 'number': '7', 'start': {'date-parts': [[2001, 8, 26]]}, 'end': {'date-parts': [[2001, 8, 29]]}}, 'container-title': ["Proceedings of the seventh ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '01"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=502559&amp;ftid=64306&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T02:09:31Z', 'timestamp': 1481854171000}, 'score': 82.66269, 'issued': {'date-parts': [[2001]]}, 'ISBN': ['158113391X'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/502512.502559'}
+>>> hash >>> ('DIRT @SBT@discovery of inference rules from text', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Dan Klein and Christopher D. Manning. 2003. Accurate unlexicalized parsing. In ACL, pages 423–430.
+>>> DOI >>> 10.3115/1075096.1075150
+>>> URL >>> http://dx.doi.org/10.3115/1075096.1075150
+>>> year >>> 2003.0
+>>> title >>> Accurate unlexicalized parsing
+>>> author >>> Dan Klein and Christopher D. Manning
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 401.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 41st Annual Meeting on Association for Computational Linguistics  - ACL '03"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database80.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 30]], 'date-time': '2018-05-30T15:22:44Z', 'timestamp': 1527693764244}, 'publisher-location': 'Morristown, NJ, USA ', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.3115/1075096.1075150', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T15:06:22Z', 'timestamp': 1178895982000}, 'source': 'Crossref', 'is-referenced-by-count': 401, 'title': ['Accurate unlexicalized parsing'], 'prefix': '10.3115', 'author': [{'given': 'Dan', 'family': 'Klein', 'sequence': 'first', 'affiliation': []}, {'given': 'Christopher D.', 'family': 'Manning', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the 41st Annual Meeting', 'location': 'Sapporo, Japan', 'sponsor': ['undetermined'], 'acronym': "ACL '03", 'number': '41', 'start': {'date-parts': [[2003, 7, 7]]}, 'end': {'date-parts': [[2003, 7, 12]]}}, 'container-title': ["Proceedings of the 41st Annual Meeting on Association for Computational Linguistics  - ACL '03"], 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 65.92354, 'issued': {'date-parts': [[2003]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1075096.1075150'}
+>>> hash >>> ('Accurate unlexicalized parsing', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K. Papineni, S. Roukos, T. Ward, and W. Zhu. 2002. Bleu: a method for automatic evaluation of machine translation. In ACL.
+>>> DOI >>> 10.3115/1073083.1073135
+>>> URL >>> http://dx.doi.org/10.3115/1073083.1073135
+>>> year >>> 2001.0
+>>> title >>> BLEU
+>>> author >>> Kishore Papineni and Salim Roukos and Todd Ward and Wei-Jing Zhu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 152.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 40th Annual Meeting on Association for Computational Linguistics  - ACL '02"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database80.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 19]], 'date-time': '2018-05-19T05:02:27Z', 'timestamp': 1526706147389}, 'publisher-location': 'Morristown, NJ, USA ', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.3115/1073083.1073135', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T15:06:22Z', 'timestamp': 1178895982000}, 'source': 'Crossref', 'is-referenced-by-count': 152, 'title': ['BLEU'], 'prefix': '10.3115', 'author': [{'given': 'Kishore', 'family': 'Papineni', 'sequence': 'first', 'affiliation': []}, {'given': 'Salim', 'family': 'Roukos', 'sequence': 'additional', 'affiliation': []}, {'given': 'Todd', 'family': 'Ward', 'sequence': 'additional', 'affiliation': []}, {'given': 'Wei-Jing', 'family': 'Zhu', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the 40th Annual Meeting', 'location': 'Philadelphia, Pennsylvania', 'sponsor': ['undetermined'], 'acronym': "ACL '02", 'number': '40', 'start': {'date-parts': [[2002, 7, 7]]}, 'end': {'date-parts': [[2002, 7, 12]]}}, 'container-title': ["Proceedings of the 40th Annual Meeting on Association for Computational Linguistics  - ACL '02"], 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 79.04334, 'subtitle': ['a method for automatic evaluation of machine translation'], 'issued': {'date-parts': [[2001]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1073083.1073135'}
+>>> hash >>> ('BLEU', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kristina Toutanova, Aria Haghighi, and Cristiopher Manning. 2005. Joint learning improves semantic role labeling. In Association of Computational Linguistics (ACL).
+>>> DOI >>> 10.3115/1219840.1219913
+>>> URL >>> http://dx.doi.org/10.3115/1219840.1219913
+>>> year >>> 2005.0
+>>> title >>> Joint learning improves semantic role labeling
+>>> author >>> Kristina Toutanova and Aria Haghighi and Christopher D. Manning
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 12.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 43rd Annual Meeting on Association for Computational Linguistics  - ACL '05"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database80.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T16:15:46Z', 'timestamp': 1525364146663}, 'publisher-location': 'Morristown, NJ, USA ', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.3115/1219840.1219913', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T15:10:57Z', 'timestamp': 1178896257000}, 'source': 'Crossref', 'is-referenced-by-count': 12, 'title': ['Joint learning improves semantic role labeling'], 'prefix': '10.3115', 'author': [{'given': 'Kristina', 'family': 'Toutanova', 'sequence': 'first', 'affiliation': []}, {'given': 'Aria', 'family': 'Haghighi', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christopher D.', 'family': 'Manning', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the 43rd Annual Meeting', 'location': 'Ann Arbor, Michigan', 'sponsor': ['undetermined'], 'acronym': "ACL '05", 'number': '43', 'start': {'date-parts': [[2005, 6, 25]]}, 'end': {'date-parts': [[2005, 6, 30]]}}, 'container-title': ["Proceedings of the 43rd Annual Meeting on Association for Computational Linguistics  - ACL '05"], 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 106.90045, 'issued': {'date-parts': [[2005]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1219840.1219913'}
+>>> hash >>> ('Joint learning improves semantic role labeling', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Marie-Catherine de Marneffe, Christopher D. Manning, and Andrew Y. Ng. 2005a. Robust textual inference using diverse knowledge sources. In Proceedings of the First PASCAL Challenges Workshop. Southampton, UK.
+>>> DOI >>> 10.3115/1708141.1708143
+>>> URL >>> http://dx.doi.org/10.3115/1708141.1708143
+>>> year >>> 2009.0
+>>> title >>> Multi-word expressions in textual inference
+>>> author >>> Marie-Catherine de Marneffe and Sebastian Pad� and Christopher D. Manning
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2009 Workshop on Applied Textual Inference - TextInfer '09"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database80.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T02:29:22Z', 'timestamp': 1525314562234}, 'publisher-location': 'Morristown, NJ, USA', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'isbn-type': [{'value': '9781932432480', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.3115/1708141.1708143', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T15:50:29Z', 'timestamp': 1271346629000}, 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Multi-word expressions in textual inference'], 'prefix': '10.3115', 'author': [{'given': 'Marie-Catherine', 'family': 'de Marneffe', 'sequence': 'first', 'affiliation': []}, {'given': 'Sebastian', 'family': 'Pad�', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christopher D.', 'family': 'Manning', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the 2009 Workshop', 'location': 'Suntec, Singapore', 'acronym': "TextInfer '09", 'number': '2009', 'start': {'date-parts': [[2009, 8, 6]]}, 'end': {'date-parts': [[2009, 8, 6]]}}, 'container-title': ["Proceedings of the 2009 Workshop on Applied Textual Inference - TextInfer '09"], 'deposited': {'date-parts': [[2010, 4, 15]], 'date-time': '2010-04-15T15:50:33Z', 'timestamp': 1271346633000}, 'score': 47.766838, 'subtitle': ['much ado about nothing?'], 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781932432480'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1708141.1708143'}
+>>> hash >>> ('Multi-word expressions in textual inference', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

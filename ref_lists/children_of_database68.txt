@@ -1,0 +1,577 @@
+>>> NEW PAPER <<<
+>>> citation >>> M. Pelillo, K. Siddiqi, S. Zucker, "Matching hierarchical structures using association graphs", IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 21, no. 11, pp. 1105-1120, November 1999.
+>>> DOI >>> 10.1109/34.809105
+>>> URL >>> http://dx.doi.org/10.1109/34.809105
+>>> year >>> 1999.0
+>>> title >>> Matching hierarchical structures using association graphs
+>>> author >>> M. Pelillo and K. Siddiqi and S.W. Zucker
+>>> reference_count >>> 66.0
+>>> is_referenced_by_count >>> 195.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:39Z', 'timestamp': 1525333539334}, 'reference-count': 66, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1109/34.809105', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '1105-1120', 'source': 'Crossref', 'is-referenced-by-count': 195, 'title': ['Matching hierarchical structures using association graphs'], 'prefix': '10.1109', 'volume': '21', 'author': [{'given': 'M.', 'family': 'Pelillo', 'sequence': 'first', 'affiliation': []}, {'given': 'K.', 'family': 'Siddiqi', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.W.', 'family': 'Zucker', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/17522/00809105.pdf?arnumber=809105', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T09:18:10Z', 'timestamp': 1512983890000}, 'score': 118.717834, 'issued': {'date-parts': [[1999]]}, 'references-count': 66, 'journal-issue': {'issue': '11'}, 'URL': 'http://dx.doi.org/10.1109/34.809105', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Matching hierarchical structures using association graphs', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Bourgain, "On Lipschitz embedding of finite metric spaces into Hilbert space", Israel Journal of Mathematics, vol. 52, pp. 46-52, 1985.
+>>> DOI >>> 10.1007/bf02776078
+>>> URL >>> http://dx.doi.org/10.1007/bf02776078
+>>> year >>> 1985.0
+>>> title >>> On lipschitz embedding of finite metric spaces in Hilbert space
+>>> author >>> J. Bourgain
+>>> reference_count >>> 5.0
+>>> is_referenced_by_count >>> 183.0
+>>> subject >>> None
+>>> container_title >>> ['Israel Journal of Mathematics']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T03:00:32Z', 'timestamp': 1525402832267}, 'reference-count': 5, 'publisher': 'Springer Nature', 'issue': '1-2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Israel J. Math.'], 'published-print': {'date-parts': [[1985, 3]]}, 'DOI': '10.1007/bf02776078', 'type': 'journal-article', 'created': {'date-parts': [[2007, 12, 11]], 'date-time': '2007-12-11T22:24:04Z', 'timestamp': 1197411844000}, 'page': '46-52', 'source': 'Crossref', 'is-referenced-by-count': 183, 'title': ['On lipschitz embedding of finite metric spaces in Hilbert space'], 'prefix': '10.1007', 'volume': '52', 'author': [{'given': 'J.', 'family': 'Bourgain', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'BF02776078_CR1', 'unstructured': 'J. Bourgain, V. Milman and H. Wolfson,Theorie of type in finite metric spaces, Trans. Am. Math. Soc., to appear.'}, {'key': 'BF02776078_CR2', 'first-page': '1', 'volume': '18', 'author': 'M. Gromov', 'year': '1983', 'unstructured': 'M. Gromov,Filling Riemannian manifolds, J. Diff. Geom.18 (1983), 1–147.', 'journal-title': 'J. Diff. Geom.'}, {'key': 'BF02776078_CR3', 'doi-asserted-by': 'crossref', 'first-page': '189', 'DOI': '10.1090/conm/026/737400', 'volume': '26', 'author': 'W. Johnson', 'year': '1984', 'unstructured': 'W. Johnson and J. Lindenstrauss,Extensions of Lipschitz mappings into a Hilbert space, Contemp. Math.26 (1984), 189–206.', 'journal-title': 'Contemp. Math.'}, {'key': 'BF02776078_CR4', 'unstructured': 'J. Lindenstrauss, Proceedings Missouri Conf., Missouri — Columbia (1984), to appear.'}, {'key': 'BF02776078_CR5', 'author': 'A. Pietsch', 'year': '1978', 'unstructured': 'A. Pietsch,Operator Ideals, Springer-Verlag, Berlin, 1978.', 'volume-title': 'Operator Ideals'}], 'container-title': ['Israel Journal of Mathematics'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF02776078', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T02:08:19Z', 'timestamp': 1497751699000}, 'score': 94.269775, 'issued': {'date-parts': [[1985, 3]]}, 'references-count': 5, 'journal-issue': {'published-print': {'date-parts': [[1985, 3]]}, 'issue': '1-2'}, 'alternative-id': ['BF02776078'], 'URL': 'http://dx.doi.org/10.1007/bf02776078', 'relation': {'cites': []}, 'ISSN': ['0021-2172', '1565-8511'], 'issn-type': [{'value': '0021-2172', 'type': 'print'}, {'value': '1565-8511', 'type': 'electronic'}]}
+>>> hash >>> ('On lipschitz embedding of finite metric spaces in Hilbert space', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Kosinov, T. Caelli, "Inexact multisubgraph matching using graph eigenspace and clustering models", Proceedings of SSPRISPR, vol. 2396, pp. 133-142, 2002.
+>>> DOI >>> 10.1007/3-540-70659-3_13
+>>> URL >>> http://dx.doi.org/10.1007/3-540-70659-3_13
+>>> year >>> 2002.0
+>>> title >>> Inexact Multisubgraph Matching Using Graph Eigenspace and Clustering Models
+>>> author >>> Serhiy Kosinov and Terry Caelli
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Structural, Syntactic, and Statistical Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T17:09:15Z', 'timestamp': 1525367355482}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540440116', 'type': 'print'}, {'value': '9783540706595', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.1007/3-540-70659-3_13', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 5, 26]], 'date-time': '2007-05-26T07:47:11Z', 'timestamp': 1180165631000}, 'page': '133-142', 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['Inexact Multisubgraph Matching Using Graph Eigenspace and Clustering Models'], 'prefix': '10.1007', 'author': [{'given': 'Serhiy', 'family': 'Kosinov', 'sequence': 'first', 'affiliation': []}, {'given': 'Terry', 'family': 'Caelli', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2002, 8, 21]]}, 'container-title': ['Lecture Notes in Computer Science', 'Structural, Syntactic, and Statistical Pattern Recognition'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-70659-3_13', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 28]], 'date-time': '2014-08-28T16:19:47Z', 'timestamp': 1409242787000}, 'score': 103.396996, 'issued': {'date-parts': [[2002]]}, 'ISBN': ['9783540440116', '9783540706595'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-70659-3_13', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('Inexact Multisubgraph Matching Using Graph Eigenspace and Clustering Models', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T. Sebastian, P. Klein, B. Kimia, "Recognition of shapes by editing shock graphs", IEEE International Conference on Computer Vision, pp. 755-762, 2001.
+>>> DOI >>> 10.1109/iccv.2001.937602
+>>> URL >>> http://dx.doi.org/10.1109/iccv.2001.937602
+>>> year >>> 2001.0
+>>> title >>> Recognition of shapes by editing shock graphs
+>>> author >>> None
+>>> reference_count >>> 30.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings Eighth IEEE International Conference on Computer Vision ICCV 2001 ICCV-01']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T13:17:06Z', 'timestamp': 1525439826776}, 'reference-count': 30, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769511430', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.1109/iccv.2001.937602', 'type': 'proceedings-article', 'created': {'date-parts': [[2011, 9, 16]], 'date-time': '2011-09-16T19:58:43Z', 'timestamp': 1316203123000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Recognition of shapes by editing shock graphs'], 'prefix': '10.1109', 'member': '263', 'event': {'name': 'Proceedings Eighth IEEE International Conference on Computer Vision', 'location': 'Vancouver, BC, Canada', 'start': {'date-parts': [[2001, 7, 7]]}, 'end': {'date-parts': [[2001, 7, 14]]}}, 'container-title': ['Proceedings Eighth IEEE International Conference on Computer Vision ICCV 2001 ICCV-01'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/7460/20293/00937602.pdf?arnumber=937602', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T20:12:41Z', 'timestamp': 1489176761000}, 'score': 65.333206, 'issued': {'date-parts': [[2001]]}, 'ISBN': ['0769511430'], 'references-count': 30, 'URL': 'http://dx.doi.org/10.1109/iccv.2001.937602'}
+>>> hash >>> ('Recognition of shapes by editing shock graphs', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> T.-L. Liu, D. Geiger, "Approximate tree matching and shape similarity", Proceedings 7th International Conference on Computer Vision, pp. 456-462, 1999.
+>>> DOI >>> 10.1109/iccv.1999.791256
+>>> URL >>> http://dx.doi.org/10.1109/iccv.1999.791256
+>>> year >>> 1999.0
+>>> title >>> Approximate tree matching and shape similarity
+>>> author >>> None
+>>> reference_count >>> 20.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the Seventh IEEE International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T11:26:22Z', 'timestamp': 1525433182383}, 'reference-count': 20, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769501648', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1109/iccv.1999.791256', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 6, 27]], 'date-time': '2008-06-27T13:02:18Z', 'timestamp': 1214571738000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Approximate tree matching and shape similarity'], 'prefix': '10.1109', 'author': [{'family': 'Tyng-Luh Liu', 'sequence': 'first', 'affiliation': []}, {'given': 'D.', 'family': 'Geiger', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Proceedings of the Seventh IEEE International Conference on Computer Vision', 'location': 'Kerkyra, Greece', 'start': {'date-parts': [[1999, 9, 20]]}, 'end': {'date-parts': [[1999, 9, 27]]}}, 'container-title': ['Proceedings of the Seventh IEEE International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6412/17134/00791256.pdf?arnumber=791256', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T19:20:04Z', 'timestamp': 1489173604000}, 'score': 73.28008, 'issued': {'date-parts': [[1999]]}, 'ISBN': ['0769501648'], 'references-count': 20, 'URL': 'http://dx.doi.org/10.1109/iccv.1999.791256'}
+>>> hash >>> ('Approximate tree matching and shape similarity', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. D. Cohen, L. J. Guibas, "The earth mover's distance under transformation sets", Proceedings 7th International Conference on Computer Vision, pp. 1076-1083, 1999.
+>>> DOI >>> 10.1109/iccv.1999.790393
+>>> URL >>> http://dx.doi.org/10.1109/iccv.1999.790393
+>>> year >>> 1999.0
+>>> title >>> The Earth Mover's Distance under transformation sets
+>>> author >>> S. Cohen and L. Guibasm
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 34.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the Seventh IEEE International Conference on Computer Vision']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T11:26:32Z', 'timestamp': 1525433192893}, 'reference-count': 16, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769501648', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1999]]}, 'DOI': '10.1109/iccv.1999.790393', 'type': 'proceedings-article', 'created': {'date-parts': [[2008, 6, 27]], 'date-time': '2008-06-27T13:02:18Z', 'timestamp': 1214571738000}, 'source': 'Crossref', 'is-referenced-by-count': 34, 'title': ["The Earth Mover's Distance under transformation sets"], 'prefix': '10.1109', 'author': [{'given': 'S.', 'family': 'Cohen', 'sequence': 'first', 'affiliation': []}, {'given': 'L.', 'family': 'Guibasm', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'Proceedings of the Seventh IEEE International Conference on Computer Vision', 'location': 'Kerkyra, Greece', 'start': {'date-parts': [[1999, 9, 20]]}, 'end': {'date-parts': [[1999, 9, 27]]}}, 'container-title': ['Proceedings of the Seventh IEEE International Conference on Computer Vision'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6412/17141/00790393.pdf?arnumber=790393', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T09:29:58Z', 'timestamp': 1497778198000}, 'score': 60.91266, 'issued': {'date-parts': [[1999]]}, 'ISBN': ['0769501648'], 'references-count': 16, 'URL': 'http://dx.doi.org/10.1109/iccv.1999.790393'}
+>>> hash >>> ("The Earth Mover's Distance under transformation sets", 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Gupta, I. Newman, Y. Rabinovich, A. Sinclair, "Cuts trees and h embeddings", Proceedings of Symposium on Foundations of Computer Scince, 1999.
+>>> DOI >>> 10.1109/sffcs.1999.814611
+>>> URL >>> http://dx.doi.org/10.1109/sffcs.1999.814611
+>>> year >>> None
+>>> title >>> Cuts, trees and l/sub 1/-embeddings of graphs
+>>> author >>> A. Gupta and I. Newman and Y. Rabinovich and A. Sinclair
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['40th Annual Symposium on Foundations of Computer Science (Cat. No.99CB37039)']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T14:14:21Z', 'timestamp': 1525356861951}, 'reference-count': 32, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769504094', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/sffcs.1999.814611', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 1, 20]], 'date-time': '2003-01-20T21:32:17Z', 'timestamp': 1043098337000}, 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Cuts, trees and l/sub 1/-embeddings of graphs'], 'prefix': '10.1109', 'author': [{'given': 'A.', 'family': 'Gupta', 'sequence': 'first', 'affiliation': []}, {'given': 'I.', 'family': 'Newman', 'sequence': 'additional', 'affiliation': []}, {'given': 'Y.', 'family': 'Rabinovich', 'sequence': 'additional', 'affiliation': []}, {'given': 'A.', 'family': 'Sinclair', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '40th Annual Symposium on Foundations of Computer Science', 'location': 'New York City, NY, USA', 'acronym': 'SFCS-99'}, 'container-title': ['40th Annual Symposium on Foundations of Computer Science (Cat. No.99CB37039)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6604/17631/00814611.pdf?arnumber=814611', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T18:21:58Z', 'timestamp': 1489170118000}, 'score': 66.57727, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769504094'], 'references-count': 32, 'URL': 'http://dx.doi.org/10.1109/sffcs.1999.814611'}
+>>> hash >>> ('Cuts, trees and l/sub 1/-embeddings of graphs', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Beveridge, E. M. Riseman, "How easy is matching 2D line models using local search?", IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 19, no. 6, pp. 564-579, June 1997.
+>>> DOI >>> 10.1109/34.601245
+>>> URL >>> http://dx.doi.org/10.1109/34.601245
+>>> year >>> 1997.0
+>>> title >>> How easy is matching 2D line models using local search?
+>>> author >>> J.R. Beveridge and E.M. Riseman
+>>> reference_count >>> 44.0
+>>> is_referenced_by_count >>> 34.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:52Z', 'timestamp': 1525333552476}, 'reference-count': 44, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '6', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1997, 6]]}, 'DOI': '10.1109/34.601245', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T17:57:42Z', 'timestamp': 1030211862000}, 'page': '564-579', 'source': 'Crossref', 'is-referenced-by-count': 34, 'title': ['How easy is matching 2D line models using local search?'], 'prefix': '10.1109', 'volume': '19', 'author': [{'given': 'J.R.', 'family': 'Beveridge', 'sequence': 'first', 'affiliation': []}, {'given': 'E.M.', 'family': 'Riseman', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/13258/00601245.pdf?arnumber=601245', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 12, 11]], 'date-time': '2017-12-11T09:20:58Z', 'timestamp': 1512984058000}, 'score': 124.602776, 'issued': {'date-parts': [[1997, 6]]}, 'references-count': 44, 'journal-issue': {'issue': '6'}, 'URL': 'http://dx.doi.org/10.1109/34.601245', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('How easy is matching 2D line models using local search?', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> L. G. Shapiro, R. M. Haralick, "Structural descriptions and inexact matching", IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 3, pp. 504-519, 1981.
+>>> DOI >>> 10.1109/tpami.1981.4767144
+>>> URL >>> http://dx.doi.org/10.1109/tpami.1981.4767144
+>>> year >>> 1981.0
+>>> title >>> Structural Descriptions and Inexact Matching
+>>> author >>> Linda G. Shapiro and Robert M. Haralick
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 289.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T22:22:27Z', 'timestamp': 1525904547987}, 'reference-count': 18, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[1981, 9]]}, 'DOI': '10.1109/tpami.1981.4767144', 'type': 'journal-article', 'created': {'date-parts': [[2009, 1, 29]], 'date-time': '2009-01-29T21:35:15Z', 'timestamp': 1233264915000}, 'page': '504-519', 'source': 'Crossref', 'is-referenced-by-count': 289, 'title': ['Structural Descriptions and Inexact Matching'], 'prefix': '10.1109', 'volume': 'PAMI-3', 'author': [{'given': 'Linda G.', 'family': 'Shapiro', 'sequence': 'first', 'affiliation': []}, {'given': 'Robert M.', 'family': 'Haralick', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/4767139/04767144.pdf?arnumber=4767144', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T00:15:04Z', 'timestamp': 1510618504000}, 'score': 93.54589, 'issued': {'date-parts': [[1981, 9]]}, 'references-count': 18, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/tpami.1981.4767144', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Structural Descriptions and Inexact Matching', 1981.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Y. Rubner, C. Tomasi, L. J. Guibas, "The earth mover's distance as a metric for image retrieval", International Journal of Computer Vision, vol. 40, no. 2, pp. 99-121, 2000.
+>>> DOI >>> 10.1109/iccv.1998.710701
+>>> URL >>> http://dx.doi.org/10.1109/iccv.1998.710701
+>>> year >>> None
+>>> title >>> A metric for distributions with applications to image databases
+>>> author >>> Y. Rubner and C. Tomasi and L.J. Guibas
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 379.0
+>>> subject >>> None
+>>> container_title >>> ['Sixth International Conference on Computer Vision (IEEE Cat. No.98CH36271)']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 30]], 'date-time': '2018-05-30T15:22:44Z', 'timestamp': 1527693764299}, 'reference-count': 19, 'publisher': 'Narosa Publishing House', 'isbn-type': [{'value': '8173192219', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/iccv.1998.710701', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 27]], 'date-time': '2002-11-27T20:42:54Z', 'timestamp': 1038429774000}, 'source': 'Crossref', 'is-referenced-by-count': 379, 'title': ['A metric for distributions with applications to image databases'], 'prefix': '10.1109', 'author': [{'given': 'Y.', 'family': 'Rubner', 'sequence': 'first', 'affiliation': []}, {'given': 'C.', 'family': 'Tomasi', 'sequence': 'additional', 'affiliation': []}, {'given': 'L.J.', 'family': 'Guibas', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'IEEE 6th International Conference on Computer Vision', 'location': 'Bombay, India', 'acronym': 'ICCV-98'}, 'container-title': ['Sixth International Conference on Computer Vision (IEEE Cat. No.98CH36271)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx4/5756/15374/00710701.pdf?arnumber=710701', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T15:21:14Z', 'timestamp': 1497540074000}, 'score': 63.241497, 'issued': {'date-parts': [[None]]}, 'ISBN': ['8173192219'], 'references-count': 19, 'URL': 'http://dx.doi.org/10.1109/iccv.1998.710701'}
+>>> hash >>> ('A metric for distributions with applications to image databases', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. K. Ahuja, T. L. Magnanti, J. B. Orlin, Network Flows: Theory Algorithms and Applications, Englewood Cliffs, New Jersey:Prentice Hall, pp. 4-7, 1993.
+>>> DOI >>> 10.21236/ada594171
+>>> URL >>> http://dx.doi.org/10.21236/ada594171
+>>> year >>> 1988.0
+>>> title >>> Network Flows
+>>> author >>> Ravindra K. Ahuja and Thomas L. Magnanti and James B. Orlin
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'institution': {'name': 'US Dept of the Air Force', 'place': ['-', '-'], 'department': ['Funding', 'Performing'], 'acronym': ['AFOSR', '-']}, 'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T16:02:30Z', 'timestamp': 1527004950183}, 'publisher-location': 'Fort Belvoir, VA', 'reference-count': 0, 'publisher': 'Defense Technical Information Center', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1988, 12, 1]]}, 'DOI': '10.21236/ada594171', 'type': 'report', 'created': {'date-parts': [[2017, 7, 25]], 'date-time': '2017-07-25T17:15:45Z', 'timestamp': 1501002945000}, 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Network Flows'], 'prefix': '10.21236', 'author': [{'given': 'Ravindra K.', 'family': 'Ahuja', 'sequence': 'first', 'affiliation': []}, {'given': 'Thomas L.', 'family': 'Magnanti', 'sequence': 'first', 'affiliation': []}, {'given': 'James B.', 'family': 'Orlin', 'sequence': 'first', 'affiliation': []}], 'member': '9879', 'original-title': [''], 'deposited': {'date-parts': [[2017, 7, 25]], 'date-time': '2017-07-25T17:15:45Z', 'timestamp': 1501002945000}, 'score': 58.188763, 'subtitle': [''], 'issued': {'date-parts': [[1988, 12, 1]]}, 'references-count': 0, 'alternative-id': ['MIT-WP-2059-88'], 'URL': 'http://dx.doi.org/10.21236/ada594171'}
+>>> hash >>> ('Network Flows', 1988.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Gold, A. Rangarajan, "A graduated assignment algorithm for graph matching", IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 18, no. 4, pp. 377-388, 1996.
+>>> DOI >>> 10.1109/34.491619
+>>> URL >>> http://dx.doi.org/10.1109/34.491619
+>>> year >>> 1996.0
+>>> title >>> A graduated assignment algorithm for graph matching
+>>> author >>> S. Gold and A. Rangarajan
+>>> reference_count >>> 58.0
+>>> is_referenced_by_count >>> 504.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:33Z', 'timestamp': 1525333533505}, 'reference-count': 58, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1996, 4]]}, 'DOI': '10.1109/34.491619', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '377-388', 'source': 'Crossref', 'is-referenced-by-count': 504, 'title': ['A graduated assignment algorithm for graph matching'], 'prefix': '10.1109', 'volume': '18', 'author': [{'given': 'S.', 'family': 'Gold', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Rangarajan', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/10562/00491619.pdf?arnumber=491619', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:28:39Z', 'timestamp': 1497522519000}, 'score': 103.76938, 'issued': {'date-parts': [[1996, 4]]}, 'references-count': 58, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/34.491619', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('A graduated assignment algorithm for graph matching', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Pelillo, K. Siddiqi, S. W. Zucker, "Many-to-many matching of attributed trees using association graphs and game dynamics", IWVF, pp. 583-593, 2001.
+>>> DOI >>> 10.1007/3-540-45129-3_54
+>>> URL >>> http://dx.doi.org/10.1007/3-540-45129-3_54
+>>> year >>> 2001.0
+>>> title >>> Many-to-many Matching of Attributed Trees Using Association Graphs and Game Dynamics
+>>> author >>> Marcello Pelillo and Kaleem Siddiqi and Steven W. Zucker
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Visual Form 2001']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T02:46:56Z', 'timestamp': 1525402016558}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540421207', 'type': 'print'}, {'value': '9783540451297', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.1007/3-540-45129-3_54', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 12, 6]], 'date-time': '2007-12-06T12:05:17Z', 'timestamp': 1196942717000}, 'page': '583-593', 'source': 'Crossref', 'is-referenced-by-count': 8, 'title': ['Many-to-many Matching of Attributed Trees Using Association Graphs and Game Dynamics'], 'prefix': '10.1007', 'author': [{'given': 'Marcello', 'family': 'Pelillo', 'sequence': 'first', 'affiliation': []}, {'given': 'Kaleem', 'family': 'Siddiqi', 'sequence': 'additional', 'affiliation': []}, {'given': 'Steven W.', 'family': 'Zucker', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2001, 5, 16]]}, 'container-title': ['Lecture Notes in Computer Science', 'Visual Form 2001'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-45129-3_54', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 31]], 'date-time': '2014-08-31T05:37:30Z', 'timestamp': 1409463450000}, 'score': 113.369995, 'issued': {'date-parts': [[2001]]}, 'ISBN': ['9783540421207', '9783540451297'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-45129-3_54', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('Many-to-many Matching of Attributed Trees Using Association Graphs and Game Dynamics', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> B. Luo, E.R. Hancock, "Structural matching using the em algorithm and singular value decomposition", IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 23, pp. 1120-1136, 2001.
+>>> DOI >>> 10.1109/34.954602
+>>> URL >>> http://dx.doi.org/10.1109/34.954602
+>>> year >>> 2001.0
+>>> title >>> Structural graph matching using the EM algorithm and singular value decomposition
+>>> author >>> None
+>>> reference_count >>> 52.0
+>>> is_referenced_by_count >>> 161.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 25]], 'date-time': '2018-05-25T06:42:33Z', 'timestamp': 1527230553619}, 'reference-count': 52, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '10', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.1109/34.954602', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T20:14:45Z', 'timestamp': 1030220085000}, 'page': '1120-1136', 'source': 'Crossref', 'is-referenced-by-count': 161, 'title': ['Structural graph matching using the EM algorithm and singular value decomposition'], 'prefix': '10.1109', 'volume': '23', 'author': [{'family': 'Bin Luo', 'sequence': 'first', 'affiliation': []}, {'given': 'E.R.', 'family': 'Hancock', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/20643/00954602.pdf?arnumber=954602', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T21:01:14Z', 'timestamp': 1489179674000}, 'score': 111.61981, 'issued': {'date-parts': [[2001]]}, 'references-count': 52, 'journal-issue': {'issue': '10'}, 'URL': 'http://dx.doi.org/10.1109/34.954602', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Structural graph matching using the EM algorithm and singular value decomposition', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K. Siddiqi, A. Shokoufandeh, S. Dickinson, S. Zucker, "Shock graphs and shape matching", International Journal of Computer Vision, vol. 30, pp. 1-24, 1999.
+>>> DOI >>> 10.1109/iccv.1998.710722
+>>> URL >>> http://dx.doi.org/10.1109/iccv.1998.710722
+>>> year >>> None
+>>> title >>> Shock graphs and shape matching
+>>> author >>> K. Siddiqi and A. Shokoufandeh and S.J. Dickenson and S.W. Zucker
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 45.0
+>>> subject >>> None
+>>> container_title >>> ['Sixth International Conference on Computer Vision (IEEE Cat. No.98CH36271)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T12:16:15Z', 'timestamp': 1525349775107}, 'reference-count': 19, 'publisher': 'Narosa Publishing House', 'isbn-type': [{'value': '8173192219', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/iccv.1998.710722', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 27]], 'date-time': '2002-11-27T20:42:54Z', 'timestamp': 1038429774000}, 'source': 'Crossref', 'is-referenced-by-count': 45, 'title': ['Shock graphs and shape matching'], 'prefix': '10.1109', 'author': [{'given': 'K.', 'family': 'Siddiqi', 'sequence': 'first', 'affiliation': []}, {'given': 'A.', 'family': 'Shokoufandeh', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.J.', 'family': 'Dickenson', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.W.', 'family': 'Zucker', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'IEEE 6th International Conference on Computer Vision', 'location': 'Bombay, India', 'acronym': 'ICCV-98'}, 'container-title': ['Sixth International Conference on Computer Vision (IEEE Cat. No.98CH36271)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx4/5756/15374/00710722.pdf?arnumber=710722', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T20:19:14Z', 'timestamp': 1489090754000}, 'score': 76.89845, 'issued': {'date-parts': [[None]]}, 'ISBN': ['8173192219'], 'references-count': 19, 'URL': 'http://dx.doi.org/10.1109/iccv.1998.710722'}
+>>> hash >>> ('Shock graphs and shape matching', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Linial, A. Magen, M. E. Saks, "Trees and Euclidean metrics", Proceedings of the Thirtieth Annual ACM Symposium on the Theory of Computing, pp. 169-175, 1998.
+>>> DOI >>> 10.1145/276698.276726
+>>> URL >>> http://dx.doi.org/10.1145/276698.276726
+>>> year >>> 1998.0
+>>> title >>> Trees and Euclidean metrics
+>>> author >>> Nathan Linial and Avner Magen and Michael E. Saks
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the thirtieth annual ACM symposium on Theory of computing  - STOC '98"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:04Z', 'timestamp': 1525392364169}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '0897919629', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1998]]}, 'DOI': '10.1145/276698.276726', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['Trees and Euclidean metrics'], 'prefix': '10.1145', 'author': [{'given': 'Nathan', 'family': 'Linial', 'sequence': 'first', 'affiliation': []}, {'given': 'Avner', 'family': 'Magen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Michael E.', 'family': 'Saks', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the thirtieth annual ACM symposium', 'location': 'Dallas, Texas, United States', 'sponsor': ['SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '98", 'number': '1998', 'start': {'date-parts': [[1998, 5, 24]]}, 'end': {'date-parts': [[1998, 5, 26]]}}, 'container-title': ["Proceedings of the thirtieth annual ACM symposium on Theory of computing  - STOC '98"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=276726&amp;ftid=35438&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 12]], 'date-time': '2016-12-12T16:19:32Z', 'timestamp': 1481559572000}, 'score': 104.930626, 'issued': {'date-parts': [[1998]]}, 'ISBN': ['0897919629'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/276698.276726'}
+>>> hash >>> ('Trees and Euclidean metrics', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> S. Umeyama, "Least-squares estimation of transformation parameters between two point patterns", IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 13, no. 4, pp. 376-380, April 1991.
+>>> DOI >>> 10.1109/34.88573
+>>> URL >>> http://dx.doi.org/10.1109/34.88573
+>>> year >>> 1991.0
+>>> title >>> Least-squares estimation of transformation parameters between two point patterns
+>>> author >>> S. Umeyama
+>>> reference_count >>> 7.0
+>>> is_referenced_by_count >>> 675.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 8]], 'date-time': '2018-06-08T07:02:42Z', 'timestamp': 1528441362679}, 'reference-count': 7, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '4', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1991, 4]]}, 'DOI': '10.1109/34.88573', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T23:09:11Z', 'timestamp': 1030230551000}, 'page': '376-380', 'source': 'Crossref', 'is-referenced-by-count': 675, 'title': ['Least-squares estimation of transformation parameters between two point patterns'], 'prefix': '10.1109', 'volume': '13', 'author': [{'given': 'S.', 'family': 'Umeyama', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/2892/00088573.pdf?arnumber=88573', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 9]], 'date-time': '2017-03-09T08:21:32Z', 'timestamp': 1489047692000}, 'score': 113.53601, 'issued': {'date-parts': [[1991, 4]]}, 'references-count': 7, 'journal-issue': {'issue': '4'}, 'URL': 'http://dx.doi.org/10.1109/34.88573', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Least-squares estimation of transformation parameters between two point patterns', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> P. Indyk, "Algorithmic aspects of geometric embeddings", Proceedings 42nd Annual Symposium on Foundations of Computer Science, 2001.
+>>> DOI >>> 10.1109/sfcs.2001.959878
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.2001.959878
+>>> year >>> None
+>>> title >>> Algorithmic applications of low-distortion geometric embeddings
+>>> author >>> P. Indyk
+>>> reference_count >>> 86.0
+>>> is_referenced_by_count >>> 26.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings 2001 IEEE International Conference on Cluster Computing']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T22:11:53Z', 'timestamp': 1525471913688}, 'reference-count': 86, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769511163', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/sfcs.2001.959878', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 8, 29]], 'date-time': '2005-08-29T12:47:11Z', 'timestamp': 1125319631000}, 'source': 'Crossref', 'is-referenced-by-count': 26, 'title': ['Algorithmic applications of low-distortion geometric embeddings'], 'prefix': '10.1109', 'author': [{'given': 'P.', 'family': 'Indyk', 'sequence': 'first', 'affiliation': []}], 'member': '263', 'event': {'name': '2001 IEEE International Conference on Cluster Computing', 'location': 'Newport Beach, CA, USA', 'acronym': 'CLUSTR-01'}, 'container-title': ['Proceedings 2001 IEEE International Conference on Cluster Computing'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/7601/20736/00959878.pdf?arnumber=959878', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T23:01:36Z', 'timestamp': 1497654096000}, 'score': 49.777306, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769511163'], 'references-count': 86, 'URL': 'http://dx.doi.org/10.1109/sfcs.2001.959878'}
+>>> hash >>> ('Algorithmic applications of low-distortion geometric embeddings', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> G. Scott, H. Longuet-Higgins, "An algorithm for associating the features of two patterns", Proceedings of Royal Society of London, vol. 244, pp. 21-26, 1991.
+>>> DOI >>> 10.1098/rspb.1991.0045
+>>> URL >>> http://dx.doi.org/10.1098/rspb.1991.0045
+>>> year >>> 1991.0
+>>> title >>> An Algorithm for Associating the Features of Two Images
+>>> author >>> G. L. Scott and H. C. Longuet-Higgins
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 241.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the Royal Society B: Biological Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:31:09Z', 'timestamp': 1525336269850}, 'reference-count': 0, 'publisher': 'The Royal Society', 'issue': '1309', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proceedings of the Royal Society B: Biological Sciences'], 'published-print': {'date-parts': [[1991, 4, 22]]}, 'DOI': '10.1098/rspb.1991.0045', 'type': 'journal-article', 'created': {'date-parts': [[2006, 12, 15]], 'date-time': '2006-12-15T20:32:03Z', 'timestamp': 1166214723000}, 'page': '21-26', 'source': 'Crossref', 'is-referenced-by-count': 241, 'title': ['An Algorithm for Associating the Features of Two Images'], 'prefix': '10.1098', 'volume': '244', 'author': [{'given': 'G. L.', 'family': 'Scott', 'sequence': 'first', 'affiliation': []}, {'given': 'H. C.', 'family': 'Longuet-Higgins', 'sequence': 'additional', 'affiliation': []}], 'member': '175', 'container-title': ['Proceedings of the Royal Society B: Biological Sciences'], 'language': 'en', 'link': [{'URL': 'https://syndication.highwire.org/content/doi/10.1098/rspb.1991.0045', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 23]], 'date-time': '2016-12-23T01:10:03Z', 'timestamp': 1482455403000}, 'score': 62.68712, 'issued': {'date-parts': [[1991, 4, 22]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1991, 4, 22]]}, 'issue': '1309'}, 'URL': 'http://dx.doi.org/10.1098/rspb.1991.0045', 'ISSN': ['0962-8452', '1471-2954'], 'issn-type': [{'value': '0962-8452', 'type': 'print'}, {'value': '1471-2954', 'type': 'electronic'}]}
+>>> hash >>> ('An Algorithm for Associating the Features of Two Images', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> W. Kim, A. C. Kak, "3D object recognition using bipartite matching embedded in discrete relaxation", IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 13, no. 3, pp. 224-251, 1991.
+>>> DOI >>> 10.1109/34.75511
+>>> URL >>> http://dx.doi.org/10.1109/34.75511
+>>> year >>> 1991.0
+>>> title >>> 3-D object recognition using bipartite matching embedded in discrete relaxation
+>>> author >>> W.-Y. Kim and A.C. Kak
+>>> reference_count >>> 45.0
+>>> is_referenced_by_count >>> 74.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:45:42Z', 'timestamp': 1525333542788}, 'reference-count': 45, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Machine Intell.'], 'published-print': {'date-parts': [[1991, 3]]}, 'DOI': '10.1109/34.75511', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T17:57:42Z', 'timestamp': 1030211862000}, 'page': '224-251', 'source': 'Crossref', 'is-referenced-by-count': 74, 'title': ['3-D object recognition using bipartite matching embedded in discrete relaxation'], 'prefix': '10.1109', 'volume': '13', 'author': [{'given': 'W.-Y.', 'family': 'Kim', 'sequence': 'first', 'affiliation': []}, {'given': 'A.C.', 'family': 'Kak', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx1/34/2513/00075511.pdf?arnumber=75511', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T10:28:51Z', 'timestamp': 1497522531000}, 'score': 115.67257, 'issued': {'date-parts': [[1991, 3]]}, 'references-count': 45, 'journal-issue': {'issue': '3'}, 'URL': 'http://dx.doi.org/10.1109/34.75511', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('3-D object recognition using bipartite matching embedded in discrete relaxation', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> A. Shokoufandeh, S. Dickinson, C. Jonsson, L. Bretzner, T. Lindeberg, "On the representation and matching of qualitative shape at multiple scales", Proceedings 7th European Conference on Computer Vision, vol. 3, pp. 759-775, 2002.
+>>> DOI >>> 10.1007/3-540-47977-5_50
+>>> URL >>> http://dx.doi.org/10.1007/3-540-47977-5_50
+>>> year >>> 2002.0
+>>> title >>> On the Representation and Matching of Qualitative Shape at Multiple Scales
+>>> author >>> Ali Shokoufandeh and Sven Dickinson and Clas Jönsson and Lars Bretzner and Tony Lindeberg
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Vision — ECCV 2002', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T16:41:14Z', 'timestamp': 1525365674163}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540437468', 'type': 'print'}, {'value': '9783540479772', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.1007/3-540-47977-5_50', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 5, 18]], 'date-time': '2007-05-18T17:07:52Z', 'timestamp': 1179508072000}, 'page': '759-775', 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['On the Representation and Matching of Qualitative Shape at Multiple Scales'], 'prefix': '10.1007', 'author': [{'given': 'Ali', 'family': 'Shokoufandeh', 'sequence': 'first', 'affiliation': []}, {'given': 'Sven', 'family': 'Dickinson', 'sequence': 'additional', 'affiliation': []}, {'given': 'Clas', 'family': 'Jönsson', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lars', 'family': 'Bretzner', 'sequence': 'additional', 'affiliation': []}, {'given': 'Tony', 'family': 'Lindeberg', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2002, 4, 29]]}, 'container-title': ['Computer Vision — ECCV 2002', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-47977-5_50', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 23]], 'date-time': '2014-08-23T02:37:29Z', 'timestamp': 1408761449000}, 'score': 118.28118, 'issued': {'date-parts': [[2002]]}, 'ISBN': ['9783540437468', '9783540479772'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-47977-5_50', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('On the Representation and Matching of Qualitative Shape at Multiple Scales', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> N. Linial, E. London, Y. Rabinovich, "The geometry of graphs and some of its algorithmic applications", Proceedings of 35th Annual Symposium on Foundations of Computer Scince, pp. 557-591, 1994.
+>>> DOI >>> 10.1109/sfcs.1994.365733
+>>> URL >>> http://dx.doi.org/10.1109/sfcs.1994.365733
+>>> year >>> None
+>>> title >>> The geometry of graphs and some of its algorithmic applications
+>>> author >>> N. Linial and E. London and Y. Rabinovich
+>>> reference_count >>> 53.0
+>>> is_referenced_by_count >>> 30.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings 35th Annual Symposium on Foundations of Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T13:08:35Z', 'timestamp': 1525352915457}, 'reference-count': 53, 'publisher': 'IEEE Comput. Soc. Press', 'isbn-type': [{'value': '0818665807', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/sfcs.1994.365733', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 12, 17]], 'date-time': '2002-12-17T16:08:05Z', 'timestamp': 1040141285000}, 'source': 'Crossref', 'is-referenced-by-count': 30, 'title': ['The geometry of graphs and some of its algorithmic applications'], 'prefix': '10.1109', 'author': [{'given': 'N.', 'family': 'Linial', 'sequence': 'first', 'affiliation': []}, {'given': 'E.', 'family': 'London', 'sequence': 'additional', 'affiliation': []}, {'given': 'Y.', 'family': 'Rabinovich', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '35th Annual Symposium on Foundations of Computer Science', 'location': 'Santa Fe, NM, USA', 'acronym': 'SFCS-94'}, 'container-title': ['Proceedings 35th Annual Symposium on Foundations of Computer Science'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx2/2955/8384/00365733.pdf?arnumber=365733', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 1, 22]], 'date-time': '2018-01-22T21:43:44Z', 'timestamp': 1516657424000}, 'score': 98.81782, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0818665807'], 'references-count': 53, 'URL': 'http://dx.doi.org/10.1109/sfcs.1994.365733'}
+>>> hash >>> ('The geometry of graphs and some of its algorithmic applications', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> R. Agarwala, V. Bafna, M. Farach, M. Paterson, M. Tho-rup, "On the approximability of numerical taxonomy (fitting distances by tree metrics)", SIAM Journal on Computing, vol. 28, no. 2, pp. 1073-1085, 1999.
+>>> DOI >>> 10.1137/s0097539795296334
+>>> URL >>> http://dx.doi.org/10.1137/s0097539795296334
+>>> year >>> 1998.0
+>>> title >>> On the Approximability of Numerical Taxonomy (Fitting Distances by Tree Metrics)
+>>> author >>> Richa Agarwala and Vineet Bafna and Martin Farach and Mike Paterson and Mikkel Thorup
+>>> reference_count >>> 5.0
+>>> is_referenced_by_count >>> 37.0
+>>> subject >>> None
+>>> container_title >>> ['SIAM Journal on Computing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T18:37:39Z', 'timestamp': 1525372659027}, 'reference-count': 5, 'publisher': 'Society for Industrial & Applied Mathematics (SIAM)', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['SIAM J. Comput.'], 'published-print': {'date-parts': [[1998, 1]]}, 'DOI': '10.1137/s0097539795296334', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 11]], 'date-time': '2003-06-11T15:12:06Z', 'timestamp': 1055344326000}, 'page': '1073-1085', 'source': 'Crossref', 'is-referenced-by-count': 37, 'title': ['On the Approximability of Numerical Taxonomy (Fitting Distances by Tree Metrics)'], 'prefix': '10.1137', 'volume': '28', 'author': [{'given': 'Richa', 'family': 'Agarwala', 'sequence': 'first', 'affiliation': []}, {'given': 'Vineet', 'family': 'Bafna', 'sequence': 'additional', 'affiliation': []}, {'given': 'Martin', 'family': 'Farach', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mike', 'family': 'Paterson', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mikkel', 'family': 'Thorup', 'sequence': 'additional', 'affiliation': []}], 'member': '351', 'container-title': ['SIAM Journal on Computing'], 'language': 'en', 'link': [{'URL': 'http://epubs.siam.org/doi/pdf/10.1137/S0097539795296334', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 1, 29]], 'date-time': '2017-01-29T16:37:07Z', 'timestamp': 1485707827000}, 'score': 121.83868, 'issued': {'date-parts': [[1998, 1]]}, 'references-count': 5, 'journal-issue': {'published-print': {'date-parts': [[1998, 1]]}, 'issue': '3'}, 'alternative-id': ['10.1137/S0097539795296334'], 'URL': 'http://dx.doi.org/10.1137/s0097539795296334', 'ISSN': ['0097-5397', '1095-7111'], 'issn-type': [{'value': '0097-5397', 'type': 'print'}, {'value': '1095-7111', 'type': 'electronic'}]}
+>>> hash >>> ('On the Approximability of Numerical Taxonomy (Fitting Distances by Tree Metrics)', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Matousek, "On embedding trees into uniformly convex Banach spaces", Israel Journal of Mathematics, vol. 237, pp. 221-237, 1999.
+>>> DOI >>> 10.1007/bf02785579
+>>> URL >>> http://dx.doi.org/10.1007/bf02785579
+>>> year >>> 1999.0
+>>> title >>> On embedding trees into uniformly convex Banach spaces
+>>> author >>> Ji\u0159í Matoušek
+>>> reference_count >>> 14.0
+>>> is_referenced_by_count >>> 41.0
+>>> subject >>> None
+>>> container_title >>> ['Israel Journal of Mathematics']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database68.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T03:18:15Z', 'timestamp': 1525403895516}, 'reference-count': 14, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Isr. J. Math.'], 'published-print': {'date-parts': [[1999, 12]]}, 'DOI': '10.1007/bf02785579', 'type': 'journal-article', 'created': {'date-parts': [[2007, 12, 19]], 'date-time': '2007-12-19T06:01:16Z', 'timestamp': 1198044076000}, 'page': '221-237', 'source': 'Crossref', 'is-referenced-by-count': 41, 'title': ['On embedding trees into uniformly convex Banach spaces'], 'prefix': '10.1007', 'volume': '114', 'author': [{'given': 'Ji\u0159í', 'family': 'Matoušek', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'reference': [{'key': 'BF02785579_CR1', 'first-page': '103', 'volume': '79', 'author': 'J. Arias-de-Reyna', 'year': '1992', 'unstructured': 'J. Arias-de-Reyna and L. Rodríguez-Piazza,Finite metric spaces needing high dimension for Lipschitz embeddings in Banach spaces, Israel Journal of Mathematics79 (1992), 103–113.', 'journal-title': 'Israel Journal of Mathematics'}, {'key': 'BF02785579_CR2', 'first-page': '46', 'volume': '52', 'author': 'J. Bourgain', 'year': '1985', 'unstructured': 'J. Bourgain,On Lipschitz embedding of finite metric spaces in Hilbert space, Israel Journal of Mathematics52 (1985), 46–52.', 'journal-title': 'Israel Journal of Mathematics'}, {'key': 'BF02785579_CR3', 'first-page': '222', 'volume': '56', 'author': 'J. Bourgain', 'year': '1986', 'unstructured': 'J. Bourgain,The metrical interpretation of superreflexivity in Banach spaces, Israel Journal of Mathematics56 (1986), 222–230.', 'journal-title': 'Israel Journal of Mathematics'}, {'key': 'BF02785579_CR4', 'first-page': '295', 'volume': '294', 'author': 'J. Bourgain', 'year': '1986', 'unstructured': 'J. Bourgain, V. Milman and H. Wolfson,On type of metric spaces, Transactions of the American Mathematical Society294 (1986), 295–317.', 'journal-title': 'Transactions of the American Mathematical Society'}, {'key': 'BF02785579_CR5', 'first-page': '321', 'volume': '53', 'author': 'A. W. M. Dress', 'year': '1984', 'unstructured': 'A. W. M. Dress,Trees, tight extensions of metric spaces, and the cohomological dimension of certain groups: a note on combinatorial properties of metric spaces, Advances in Mathematics53 (1984), 321–402.', 'journal-title': 'Advances in Mathematics'}, {'key': 'BF02785579_CR6', 'first-page': '107', 'volume': '8', 'author': 'P. Enflo', 'year': '1969', 'unstructured': 'P. Enflo,On a problem of Smirnov, Arkiv för Matematik8 (1969), 107–109.', 'journal-title': 'Arkiv för Matematik'}, {'key': 'BF02785579_CR7', 'first-page': '103', 'volume': '8', 'author': 'P. Enflo', 'year': '1969', 'unstructured': 'P. Enflo,On the nonexistence of uniform homeomorphisms between L p-spaces, Arkiv för Matematik8 (1969), 103–105.', 'journal-title': 'Arkiv för Matematik'}, {'key': 'BF02785579_CR8', 'doi-asserted-by': 'crossref', 'first-page': '189', 'DOI': '10.1090/conm/026/737400', 'volume': '26', 'author': 'W. Johnson', 'year': '1984', 'unstructured': 'W. Johnson and J. Lindenstrauss,Extensions of Lipschitz maps into a Hilbert space, Contemporary Mathematics26 (Conference in Modern Analysis and Probability), 1984, pp. 189–206.', 'journal-title': 'Contemporary Mathematics'}, {'key': 'BF02785579_CR9', 'author': 'W. Johnson', 'year': '1987', 'unstructured': 'W. Johnson, J. Lindenstrauss and G. Schechtman,On Lipschitz embedding of finite metric spaces in low dimensional normed spaces, inGeometrical Aspects of Functional Analysis (J. Lindenstrauss and V. D. Milman, eds.), Lecture Notes in Mathematics1267, Springer-Verlag, Berlin-Heidelberg, 1987.', 'series-title': 'Lecture Notes in Mathematics', 'volume-title': 'Geometrical Aspects of Functional Analysis'}, {'key': 'BF02785579_CR10', 'first-page': '215', 'volume': '15', 'author': 'N. Linial', 'year': '1995', 'unstructured': 'N. Linial, E. London and Y. Rabinovich,The geometry of graphs and some of its algorithmic applications, Combinatorica15 (1995), 215–245.', 'journal-title': 'Combinatorica'}, {'key': 'BF02785579_CR11', 'author': 'J. Matoušek', 'year': '1989', 'unstructured': 'J. Matoušek,Lipschitz distance of metric spaces, (in Czech, with English summary), CSc. degree thesis, Charles University, Prague, 1989.', 'volume-title': 'Lipschitz distance of metric spaces'}, {'key': 'BF02785579_CR12', 'first-page': '589', 'volume': '31', 'author': 'J. Matoušek', 'year': '1990', 'unstructured': 'J. Matoušek,Bi-Lipschitz embeddings into low-dimensional Euclidean spaces, Commentationes Mathematicae Universitatis Carolinae31 (1990), 589–600.', 'journal-title': 'Commentationes Mathematicae Universitatis Carolinae'}, {'key': 'BF02785579_CR13', 'first-page': '333', 'volume': '93', 'author': 'J. Matoušek', 'year': '1996', 'unstructured': 'J. Matoušek,On the distortion required for embedding finite metric spaces into normed spaces, Israel Journal of Mathematics93 (1996), 333–344.', 'journal-title': 'Israel Journal of Mathematics'}, {'key': 'BF02785579_CR14', 'author': 'V. D. Milman', 'year': '1986', 'unstructured': 'V. D. Milman and G. Schechtman,Asymptotic theory of finite dimensional normed spaces, Lecture Notes in Mathematics1200, Springer-Verlag, Berlin, 1986.', 'series-title': 'Lecture Notes in Mathematics', 'volume-title': 'Asymptotic theory of finite dimensional normed spaces'}], 'container-title': ['Israel Journal of Mathematics'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/BF02785579', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 18]], 'date-time': '2017-06-18T02:18:15Z', 'timestamp': 1497752295000}, 'score': 100.17495, 'issued': {'date-parts': [[1999, 12]]}, 'references-count': 14, 'journal-issue': {'published-print': {'date-parts': [[1999, 12]]}, 'issue': '1'}, 'alternative-id': ['BF02785579'], 'URL': 'http://dx.doi.org/10.1007/bf02785579', 'relation': {'cites': []}, 'ISSN': ['0021-2172', '1565-8511'], 'issn-type': [{'value': '0021-2172', 'type': 'print'}, {'value': '1565-8511', 'type': 'electronic'}]}
+>>> hash >>> ('On embedding trees into uniformly convex Banach spaces', 1999.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

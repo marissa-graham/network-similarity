@@ -1,0 +1,337 @@
+>>> NEW PAPER <<<
+>>> citation >>> J. Sanchez-Riera, J. Ã–stlund et al., "Simultaneous pose correspondence and non-rigid shape", CVPR, pp. 1189-1196, 2010.
+>>> DOI >>> 10.1109/cvpr.2010.5539831
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2010.5539831
+>>> year >>> 2010.0
+>>> title >>> Simultaneous pose, correspondence and non-rigid shape
+>>> author >>> Jordi Sanchez-Riera and Jonas Ostlund and Pascal Fua and Francesc Moreno-Noguer
+>>> reference_count >>> 24.0
+>>> is_referenced_by_count >>> 12.0
+>>> subject >>> None
+>>> container_title >>> ['2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database197.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365191}, 'reference-count': 24, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781424469840', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010, 6]]}, 'DOI': '10.1109/cvpr.2010.5539831', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 8, 10]], 'date-time': '2010-08-10T17:57:43Z', 'timestamp': 1281463063000}, 'source': 'Crossref', 'is-referenced-by-count': 12, 'title': ['Simultaneous pose, correspondence and non-rigid shape'], 'prefix': '10.1109', 'author': [{'given': 'Jordi', 'family': 'Sanchez-Riera', 'sequence': 'first', 'affiliation': []}, {'given': 'Jonas', 'family': 'Ostlund', 'sequence': 'additional', 'affiliation': []}, {'given': 'Pascal', 'family': 'Fua', 'sequence': 'additional', 'affiliation': []}, {'given': 'Francesc', 'family': 'Moreno-Noguer', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2010 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'San Francisco, CA, USA', 'start': {'date-parts': [[2010, 6, 13]]}, 'end': {'date-parts': [[2010, 6, 18]]}}, 'container-title': ['2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/5521876/5539770/05539831.pdf?arnumber=5539831', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 19]], 'date-time': '2017-03-19T05:58:56Z', 'timestamp': 1489903136000}, 'score': 56.258553, 'issued': {'date-parts': [[2010, 6]]}, 'ISBN': ['9781424469840'], 'references-count': 24, 'URL': 'http://dx.doi.org/10.1109/cvpr.2010.5539831'}
+>>> hash >>> ('Simultaneous pose, correspondence and non-rigid shape', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Unser, "Splines: A perfect fit for medical imaging", Progress in Biomedical Optics and Imaging, vol. 3, pp. 225-236, 2002.
+>>> DOI >>> 10.1117/12.467162
+>>> URL >>> http://dx.doi.org/10.1117/12.467162
+>>> year >>> 2002.0
+>>> title >>> Splines: a perfect fit for medical imaging
+>>> author >>> Michael A. Unser
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 8.0
+>>> subject >>> None
+>>> container_title >>> ['Medical Imaging 2002: Image Processing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database197.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365151}, 'reference-count': 0, 'publisher': 'SPIE', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002, 5, 15]]}, 'DOI': '10.1117/12.467162', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 17]], 'date-time': '2003-11-17T20:44:18Z', 'timestamp': 1069101858000}, 'source': 'Crossref', 'is-referenced-by-count': 8, 'title': ['Splines: a perfect fit for medical imaging'], 'prefix': '10.1117', 'author': [{'given': 'Michael A.', 'family': 'Unser', 'sequence': 'first', 'affiliation': []}], 'member': '189', 'event': {'name': 'Medical Imaging 2002', 'location': 'San Diego, CA'}, 'container-title': ['Medical Imaging 2002: Image Processing'], 'deposited': {'date-parts': [[2016, 8, 1]], 'date-time': '2016-08-01T13:40:14Z', 'timestamp': 1470058814000}, 'score': 64.91006, 'editor': [{'given': 'Milan', 'family': 'Sonka', 'sequence': 'first', 'affiliation': []}, {'given': 'J. Michael', 'family': 'Fitzpatrick', 'sequence': 'additional', 'affiliation': []}], 'issued': {'date-parts': [[2002, 5, 15]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1117/12.467162'}
+>>> hash >>> ('Splines: a perfect fit for medical imaging', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. A. Pinheiro, J. Kybic, P. Fua, "Graph matching using Monte Carlo tree search", IEEE Trans. Patt. Anal. Mach. Intell., vol. 39, no. 11, pp. 2171-2185, 2017.
+>>> DOI >>> 10.1109/tpami.2016.2636200
+>>> URL >>> http://dx.doi.org/10.1109/tpami.2016.2636200
+>>> year >>> 2017.0
+>>> title >>> Geometric Graph Matching Using Monte Carlo Tree Search
+>>> author >>> Miguel Amavel Pinheiro and Jan Kybic and Pascal Fua
+>>> reference_count >>> 62.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database197.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365100}, 'reference-count': 62, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '11', 'funder': [{'DOI': '10.13039/501100001824', 'name': 'Grantová Agentura \u010ceské Republiky', 'doi-asserted-by': 'publisher', 'award': ['SFRH/BD/77134/2011', '14-21421S']}, {'name': 'Fundação para a Ciência e Tecnologia', 'award': []}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[2017, 11, 1]]}, 'DOI': '10.1109/tpami.2016.2636200', 'type': 'journal-article', 'created': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T19:18:00Z', 'timestamp': 1481051880000}, 'page': '2171-2185', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['Geometric Graph Matching Using Monte Carlo Tree Search'], 'prefix': '10.1109', 'volume': '39', 'author': [{'given': 'Miguel Amavel', 'family': 'Pinheiro', 'sequence': 'first', 'affiliation': []}, {'given': 'Jan', 'family': 'Kybic', 'sequence': 'additional', 'affiliation': []}, {'given': 'Pascal', 'family': 'Fua', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/34/8055017/07775059.pdf?arnumber=7775059', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 10, 27]], 'date-time': '2017-10-27T21:40:41Z', 'timestamp': 1509140441000}, 'score': 123.32776, 'issued': {'date-parts': [[2017, 11, 1]]}, 'references-count': 62, 'journal-issue': {'issue': '11'}, 'URL': 'http://dx.doi.org/10.1109/tpami.2016.2636200', 'ISSN': ['0162-8828', '2160-9292'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}, {'value': '2160-9292', 'type': 'electronic'}]}
+>>> hash >>> ('Geometric Graph Matching Using Monte Carlo Tree Search', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> K. Arun, T. Huang, S. Blostein, "Least-squares fitting of two 3-D point sets", IEEE Trans. Patt. Anal. Mach. Intell., vol. 9, no. 5, pp. 698-700, 1987.
+>>> DOI >>> 10.1109/tpami.1987.4767965
+>>> URL >>> http://dx.doi.org/10.1109/tpami.1987.4767965
+>>> year >>> 1987.0
+>>> title >>> Least-Squares Fitting of Two 3-D Point Sets
+>>> author >>> K. S. Arun and T. S. Huang and S. D. Blostein
+>>> reference_count >>> 5.0
+>>> is_referenced_by_count >>> 1442.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Pattern Analysis and Machine Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database197.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365377}, 'reference-count': 5, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Pattern Anal. Mach. Intell.'], 'published-print': {'date-parts': [[1987, 9]]}, 'DOI': '10.1109/tpami.1987.4767965', 'type': 'journal-article', 'created': {'date-parts': [[2009, 1, 29]], 'date-time': '2009-01-29T21:35:15Z', 'timestamp': 1233264915000}, 'page': '698-700', 'source': 'Crossref', 'is-referenced-by-count': 1442, 'title': ['Least-Squares Fitting of Two 3-D Point Sets'], 'prefix': '10.1109', 'volume': 'PAMI-9', 'author': [{'given': 'K. S.', 'family': 'Arun', 'sequence': 'first', 'affiliation': []}, {'given': 'T. S.', 'family': 'Huang', 'sequence': 'additional', 'affiliation': []}, {'given': 'S. D.', 'family': 'Blostein', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Pattern Analysis and Machine Intelligence'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/34/4767950/04767965.pdf?arnumber=4767965', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T14:34:10Z', 'timestamp': 1510670050000}, 'score': 108.36954, 'issued': {'date-parts': [[1987, 9]]}, 'references-count': 5, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/tpami.1987.4767965', 'ISSN': ['0162-8828'], 'issn-type': [{'value': '0162-8828', 'type': 'print'}]}
+>>> hash >>> ('Least-Squares Fitting of Two 3-D Point Sets', 1987.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> E. Serradell, P. Glowacki et al., "Robust non-rigid registration of 2D and 3D graphs", CVPR, pp. 996-1003, 2012.
+>>> DOI >>> 10.1109/cvpr.2012.6247776
+>>> URL >>> http://dx.doi.org/10.1109/cvpr.2012.6247776
+>>> year >>> 2012.0
+>>> title >>> Robust non-rigid registration of 2D and 3D graphs
+>>> author >>> Eduard Serradell and Przemyslaw Glowacki and Jan Kybic and Francese Moreno-Noguer and Pascal Fua
+>>> reference_count >>> 26.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['2012 IEEE Conference on Computer Vision and Pattern Recognition']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database197.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365171}, 'reference-count': 26, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467312264', 'type': 'print'}, {'value': '9781467312271', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012, 6]]}, 'DOI': '10.1109/cvpr.2012.6247776', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 8, 1]], 'date-time': '2012-08-01T15:05:51Z', 'timestamp': 1343833551000}, 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Robust non-rigid registration of 2D and 3D graphs'], 'prefix': '10.1109', 'author': [{'given': 'Eduard', 'family': 'Serradell', 'sequence': 'first', 'affiliation': []}, {'given': 'Przemyslaw', 'family': 'Glowacki', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jan', 'family': 'Kybic', 'sequence': 'additional', 'affiliation': []}, {'given': 'Francese', 'family': 'Moreno-Noguer', 'sequence': 'additional', 'affiliation': []}, {'given': 'Pascal', 'family': 'Fua', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2012 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)', 'location': 'Providence, RI', 'start': {'date-parts': [[2012, 6, 16]]}, 'end': {'date-parts': [[2012, 6, 21]]}}, 'container-title': ['2012 IEEE Conference on Computer Vision and Pattern Recognition'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6235193/6247647/06247776.pdf?arnumber=6247776', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 21]], 'date-time': '2017-03-21T21:17:35Z', 'timestamp': 1490131055000}, 'score': 67.923775, 'issued': {'date-parts': [[2012, 6]]}, 'ISBN': ['9781467312288', '9781467312264', '9781467312271'], 'references-count': 26, 'URL': 'http://dx.doi.org/10.1109/cvpr.2012.6247776'}
+>>> hash >>> ('Robust non-rigid registration of 2D and 3D graphs', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Kybic, M. Unser, "Fast parametric elastic image registration", IEEE Trans. Imag. Proc., vol. 12, no. 11, pp. 1427-1442, 2003.
+>>> DOI >>> 10.1109/tip.2003.813139
+>>> URL >>> http://dx.doi.org/10.1109/tip.2003.813139
+>>> year >>> 2003.0
+>>> title >>> Fast parametric elastic image registration
+>>> author >>> J. Kybic and M. Unser
+>>> reference_count >>> 67.0
+>>> is_referenced_by_count >>> 229.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Image Processing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database197.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365180}, 'reference-count': 67, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. on Image Process.'], 'published-print': {'date-parts': [[2003, 11]]}, 'DOI': '10.1109/tip.2003.813139', 'type': 'journal-article', 'created': {'date-parts': [[2003, 10, 31]], 'date-time': '2003-10-31T14:40:20Z', 'timestamp': 1067611220000}, 'page': '1427-1442', 'source': 'Crossref', 'is-referenced-by-count': 229, 'title': ['Fast parametric elastic image registration'], 'prefix': '10.1109', 'volume': '12', 'author': [{'given': 'J.', 'family': 'Kybic', 'sequence': 'first', 'affiliation': []}, {'given': 'M.', 'family': 'Unser', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Image Processing'], 'language': 'en', 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/83/27803/01240109.pdf?arnumber=1240109', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T01:49:03Z', 'timestamp': 1497577743000}, 'score': 103.775276, 'issued': {'date-parts': [[2003, 11]]}, 'references-count': 67, 'journal-issue': {'published-print': {'date-parts': [[2003, 11]]}, 'issue': '11'}, 'URL': 'http://dx.doi.org/10.1109/tip.2003.813139', 'ISSN': ['1057-7149'], 'issn-type': [{'value': '1057-7149', 'type': 'print'}]}
+>>> hash >>> ('Fast parametric elastic image registration', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. R. Shewchuk, "Delaunay refinement algorithms for triangular mesh generation", Computational Geometry: Theory and Applications, vol. 1â€“3, no. 22, pp. 21-74, 2002.
+>>> DOI >>> 10.1016/s0925-7721(01)00047-5
+>>> URL >>> http://dx.doi.org/10.1016/s0925-7721(01)00047-5
+>>> year >>> 2002.0
+>>> title >>> Delaunay refinement algorithms for triangular mesh generation
+>>> author >>> Jonathan Richard Shewchuk
+>>> reference_count >>> 32.0
+>>> is_referenced_by_count >>> 464.0
+>>> subject >>> None
+>>> container_title >>> ['Computational Geometry']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database197.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365361}, 'reference-count': 32, 'publisher': 'Elsevier BV', 'issue': '1-3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2002, 5, 1]], 'date-time': '2002-05-01T00:00:00Z', 'timestamp': 1020211200000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 4095, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computational Geometry'], 'published-print': {'date-parts': [[2002, 5]]}, 'DOI': '10.1016/s0925-7721(01)00047-5', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T14:26:50Z', 'timestamp': 1027607210000}, 'page': '21-74', 'source': 'Crossref', 'is-referenced-by-count': 464, 'title': ['Delaunay refinement algorithms for triangular mesh generation'], 'prefix': '10.1016', 'volume': '22', 'author': [{'given': 'Jonathan Richard', 'family': 'Shewchuk', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Computational Geometry'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0925772101000475?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0925772101000475?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 14]], 'date-time': '2017-06-14T21:23:22Z', 'timestamp': 1497475402000}, 'score': 98.55305, 'issued': {'date-parts': [[2002, 5]]}, 'references-count': 32, 'journal-issue': {'published-print': {'date-parts': [[2002, 5]]}, 'issue': '1-3'}, 'alternative-id': ['S0925772101000475'], 'URL': 'http://dx.doi.org/10.1016/s0925-7721(01)00047-5', 'ISSN': ['0925-7721'], 'issn-type': [{'value': '0925-7721', 'type': 'print'}]}
+>>> hash >>> ('Delaunay refinement algorithms for triangular mesh generation', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. J. D. Powell, "Algorithms for Approximation" in ch. Radial Basis Functions for Multivariable Interpolation: A Review, Clarendon Press, pp. 143-167, 1987.
+>>> DOI >>> 10.1007/978-1-4899-3442-0_15
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4899-3442-0_15
+>>> year >>> 1990.0
+>>> title >>> Radial basis function interpolation on an infinite regular grid
+>>> author >>> M. D. Buhmann and M. J. D. Powell
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['Algorithms for Approximation II']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database197.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T21:21:33Z', 'timestamp': 1525728093745}, 'publisher-location': 'Boston, MA', 'reference-count': 0, 'publisher': 'Springer US', 'isbn-type': [{'value': '9780412345807', 'type': 'print'}, {'value': '9781489934420', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1990]]}, 'DOI': '10.1007/978-1-4899-3442-0_15', 'type': 'book-chapter', 'created': {'date-parts': [[2013, 8, 2]], 'date-time': '2013-08-02T04:57:03Z', 'timestamp': 1375419423000}, 'page': '146-169', 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['Radial basis function interpolation on an infinite regular grid'], 'prefix': '10.1007', 'author': [{'given': 'M. D.', 'family': 'Buhmann', 'sequence': 'first', 'affiliation': []}, {'given': 'M. J. D.', 'family': 'Powell', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Algorithms for Approximation II'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-1-4899-3442-0_15', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 8, 2]], 'date-time': '2013-08-02T04:57:07Z', 'timestamp': 1375419427000}, 'score': 45.117905, 'issued': {'date-parts': [[1990]]}, 'ISBN': ['9780412345807', '9781489934420'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4899-3442-0_15'}
+>>> hash >>> ('Radial basis function interpolation on an infinite regular grid', 1990.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. de Visser, Q. Chu, J. Mulder, "Differential constraints for bounded recursive identification with multivariate splines", Automatica, vol. 47, no. 9, pp. 2059-2066, 2011.
+>>> DOI >>> 10.1016/j.automatica.2011.06.011
+>>> URL >>> http://dx.doi.org/10.1016/j.automatica.2011.06.011
+>>> year >>> 2011.0
+>>> title >>> Differential constraints for bounded recursive identification with multivariate splines
+>>> author >>> C.C. de Visser and Q.P. Chu and J.A. Mulder
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 25.0
+>>> subject >>> None
+>>> container_title >>> ['Automatica']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database197.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365074}, 'reference-count': 18, 'publisher': 'Elsevier BV', 'issue': '9', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2011, 9, 1]], 'date-time': '2011-09-01T00:00:00Z', 'timestamp': 1314835200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Automatica'], 'published-print': {'date-parts': [[2011, 9]]}, 'DOI': '10.1016/j.automatica.2011.06.011', 'type': 'journal-article', 'created': {'date-parts': [[2011, 7, 5]], 'date-time': '2011-07-05T11:10:03Z', 'timestamp': 1309864203000}, 'page': '2059-2066', 'source': 'Crossref', 'is-referenced-by-count': 25, 'title': ['Differential constraints for bounded recursive identification with multivariate splines'], 'prefix': '10.1016', 'volume': '47', 'author': [{'given': 'C.C.', 'family': 'de Visser', 'sequence': 'first', 'affiliation': []}, {'given': 'Q.P.', 'family': 'Chu', 'sequence': 'additional', 'affiliation': []}, {'given': 'J.A.', 'family': 'Mulder', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Automatica'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0005109811003104?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0005109811003104?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T02:48:09Z', 'timestamp': 1497926889000}, 'score': 122.615524, 'issued': {'date-parts': [[2011, 9]]}, 'references-count': 18, 'journal-issue': {'published-print': {'date-parts': [[2011, 9]]}, 'issue': '9'}, 'alternative-id': ['S0005109811003104'], 'URL': 'http://dx.doi.org/10.1016/j.automatica.2011.06.011', 'ISSN': ['0005-1098'], 'issn-type': [{'value': '0005-1098', 'type': 'print'}]}
+>>> hash >>> ('Differential constraints for bounded recursive identification with multivariate splines', 2011.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> F. Moreno-Noguer, V. Lepetit, P. Fua, "Pose priors for simultaneously solving alignment and correspondence", ECCV, pp. 405-418, 2008.
+>>> DOI >>> 10.1007/978-3-540-88688-4_30
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-88688-4_30
+>>> year >>> 2008.0
+>>> title >>> Pose Priors for Simultaneously Solving Alignment and Correspondence
+>>> author >>> Francesc Moreno-Noguer and Vincent Lepetit and Pascal Fua
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 13.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database197.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365198}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 19, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540886853', 'type': 'print'}, {'value': '9783540886884', 'type': 'electronic'}], 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2008, 1, 1]], 'date-time': '2008-01-01T00:00:00Z', 'timestamp': 1199145600000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2008]]}, 'DOI': '10.1007/978-3-540-88688-4_30', 'type': 'book-chapter', 'created': {'date-parts': [[2008, 10, 13]], 'date-time': '2008-10-13T14:20:43Z', 'timestamp': 1223907643000}, 'page': '405-418', 'source': 'Crossref', 'is-referenced-by-count': 13, 'title': ['Pose Priors for Simultaneously Solving Alignment and Correspondence'], 'prefix': '10.1007', 'author': [{'given': 'Francesc', 'family': 'Moreno-Noguer', 'sequence': 'first', 'affiliation': []}, {'given': 'Vincent', 'family': 'Lepetit', 'sequence': 'additional', 'affiliation': []}, {'given': 'Pascal', 'family': 'Fua', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'reference': [{'key': '30_CR1', 'doi-asserted-by': 'publisher', 'first-page': '259', 'DOI': '10.1023/B:VISI.0000025800.10423.1f', 'volume': '59', 'author': 'P. David', 'year': '2004', 'unstructured': 'David, P., DeMenthon, D., Duraiswami, R., Samet, H.: Softposit: Simultaneous pose and correspondence determination. IJCV\xa059, 259–284 (2004)', 'journal-title': 'IJCV'}, {'key': '30_CR2', 'doi-asserted-by': 'publisher', 'first-page': '381', 'DOI': '10.1145/358669.358692', 'volume': '24', 'author': 'M.A. Fischler', 'year': '1981', 'unstructured': 'Fischler, M.A., Bolles, R.C.: Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography. Commun. ACM\xa024, 381–395 (1981)', 'journal-title': 'Commun. ACM'}, {'key': '30_CR3', 'author': 'W.E.L. Grimson', 'year': '1992', 'unstructured': 'Grimson, W.E.L., Meyer-Arendt, J.R.: Object recognition by computer: the role of geometric constraints, vol.\xa031. MIT Press, Cambridge (1992)', 'volume-title': 'Object recognition by computer: the role of geometric constraints'}, {'key': '30_CR4', 'doi-asserted-by': 'publisher', 'first-page': '920', 'DOI': '10.1109/34.93810', 'volume': '13', 'author': 'W.E.L. Grimson', 'year': '1991', 'unstructured': 'Grimson, W.E.L.: The combinatorics of heuristic search termination for object recognition in cluttered environments. IEEE PAMI\xa013, 920–935 (1991)', 'journal-title': 'IEEE PAMI'}, {'key': '30_CR5', 'unstructured': 'Breuel, T.: Fast recognition using adaptive subdivisions of transformation space. In: Proc. IEEE CVPR, pp. 445–451 (1992)', 'DOI': '10.1109/CVPR.1992.223152', 'doi-asserted-by': 'crossref'}, {'key': '30_CR6', 'unstructured': 'Cass, T.A.: Polynomial-time object recognition in the presence of clutter, occlusion, and uncertainty. In: Proc. ECCV, pp. 834–842 (1992)', 'DOI': '10.1007/3-540-55426-2_96', 'doi-asserted-by': 'crossref'}, {'key': '30_CR7', 'doi-asserted-by': 'publisher', 'first-page': '131', 'DOI': '10.1023/A:1007906812782', 'volume': '23', 'author': 'C.F. Olson', 'year': '1997', 'unstructured': 'Olson, C.F.: Efficient pose clustering using a randomized algorithm. IJCV\xa023, 131–147 (1997)', 'journal-title': 'IJCV'}, {'key': '30_CR8', 'doi-asserted-by': 'publisher', 'first-page': '361', 'DOI': '10.1016/S0734-189X(87)80147-0', 'volume': '40', 'author': 'G. Stockman', 'year': '1987', 'unstructured': 'Stockman, G.: Object recognition and localization via pose clustering. Comput. Vision Graph. Image Process\xa040, 361–387 (1987)', 'journal-title': 'Comput. Vision Graph. Image Process'}, {'key': '30_CR9', 'doi-asserted-by': 'publisher', 'first-page': '44', 'DOI': '10.1109/TPAMI.1986.4767751', 'volume': '8', 'author': 'N. Ayache', 'year': '1986', 'unstructured': 'Ayache, N., Faugeras, O.D.: Hyper: a new approach for the recognition and positioning to two-dimensional objects. IEEE PAMI\xa08, 44–54 (1986)', 'journal-title': 'IEEE PAMI'}, {'key': '30_CR10', 'doi-asserted-by': 'publisher', 'first-page': '469', 'DOI': '10.1109/TPAMI.1987.4767935', 'volume': '9', 'author': 'W.E.L. Grimson', 'year': '1987', 'unstructured': 'Grimson, W.E.L., Lozano-Pérez, T.: Localizing overlapping parts by searching the interpretation tree. IEEE PAMI\xa09, 469–482 (1987)', 'journal-title': 'IEEE PAMI'}, {'key': '30_CR11', 'unstructured': 'Lamdan, Y., Wolfson, H.J.: Geometric hashing: A general and efficient model-based recognition scheme. In: Proc. IEEE ICCV, pp. 238–249 (1988)', 'DOI': '10.1109/CCV.1988.589995', 'doi-asserted-by': 'crossref'}, {'key': '30_CR12', 'doi-asserted-by': 'publisher', 'first-page': '51', 'DOI': '10.1109/34.184774', 'volume': '15', 'author': 'J.B. Burns', 'year': '1993', 'unstructured': 'Burns, J.B., Weiss, R.S., Riseman, E.M.: View variation of point-set and line-segment features. IEEE PAMI\xa015, 51–68 (1993)', 'journal-title': 'IEEE PAMI'}, {'key': '30_CR13', 'doi-asserted-by': 'publisher', 'first-page': '1000', 'DOI': '10.1109/34.799907', 'volume': '21', 'author': 'J.S. Beis', 'year': '1999', 'unstructured': 'Beis, J.S., Lowe, D.G.: Indexing without invariants in 3D object recognition. IEEE PAMI\xa021, 1000–1015 (1999)', 'journal-title': 'IEEE PAMI'}, {'key': '30_CR14', 'first-page': '357', 'volume': '73', 'author': 'F. Jurie', 'year': '1999', 'unstructured': 'Jurie, F.: Solution of the simultaneous pose and correspondence problem using gaussian error model. CVIU\xa073, 357–373 (1999)', 'journal-title': 'CVIU'}, {'key': '30_CR15', 'unstructured': 'Wunsch, P., Hirzinger, G.: Registration of cad-models to images by iterative inverse perspective matching. In: Proc. ICPR., vol.\xa078 (1996)', 'DOI': '10.1109/ICPR.1996.545995', 'doi-asserted-by': 'crossref'}, {'key': '30_CR16', 'first-page': '351', 'volume': '61', 'author': 'J.R. Beveridge', 'year': '1995', 'unstructured': 'Beveridge, J.R., Riseman, E.M.: Optimal geometric model matching under full 3D perspective. CVIU\xa061, 351–364 (1995)', 'journal-title': 'CVIU'}, {'key': '30_CR17', 'doi-asserted-by': 'publisher', 'first-page': '891', 'DOI': '10.1145/293347.293348', 'volume': '45', 'author': 'S. Arya', 'year': '1998', 'unstructured': 'Arya, S., Mount, D., Netanyahu, N., Silverman, R., Wu, A.: An optimal algorithm for approximate NN searching fixed dimensions. J. ACM\xa045, 891–923 (1998)', 'journal-title': 'J. ACM'}, {'key': '30_CR18', 'unstructured': 'David, P., DeMenthon, D.: Object recognition in high clutter images using line features. In: Proc. IEEE ICCV, pp. 1581–1588 (2005)', 'DOI': '10.1109/ICCV.2005.173', 'doi-asserted-by': 'crossref'}, {'key': '30_CR19', 'doi-asserted-by': 'publisher', 'first-page': '91', 'DOI': '10.1023/B:VISI.0000029664.99615.94', 'volume': '15', 'author': 'D.G. Lowe', 'year': '2004', 'unstructured': 'Lowe, D.G.: Distinctive image features from scale-invariant keypoints. IJCV\xa015, 91–110 (2004)', 'journal-title': 'IJCV'}], 'container-title': ['Lecture Notes in Computer Science', 'Computer Vision – ECCV 2008'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-540-88688-4_30', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 9, 22]], 'date-time': '2017-09-22T04:40:09Z', 'timestamp': 1506055209000}, 'score': 110.38657, 'issued': {'date-parts': [[2008]]}, 'ISBN': ['9783540886853', '9783540886884'], 'references-count': 19, 'URL': 'http://dx.doi.org/10.1007/978-3-540-88688-4_30', 'relation': {'cites': []}, 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Pose Priors for Simultaneously Solving Alignment and Correspondence', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> V. Skala, "Fast interpolation and approximation of scattered multidimensional and dynamic data using radial basis functions", WSEAS Trans.on Mathematics, vol. 12, no. 5, pp. 501-511, 2013.
+>>> DOI >>> 10.1017/cbo9780511617539.012
+>>> URL >>> http://dx.doi.org/10.1017/cbo9780511617539.012
+>>> year >>> None
+>>> title >>> Error estimates for radial basis function interpolation
+>>> author >>> Holger Wendland
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Scattered Data Approximation']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database197.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T00:26:42Z', 'timestamp': 1525307202900}, 'publisher-location': 'Cambridge', 'reference-count': 0, 'publisher': 'Cambridge University Press', 'isbn-type': [{'value': '9780511617539', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1017/cbo9780511617539.012', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 3, 4]], 'date-time': '2010-03-04T13:24:32Z', 'timestamp': 1267709072000}, 'page': '172-205', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Error estimates for radial basis function interpolation'], 'prefix': '10.1017', 'author': [{'given': 'Holger', 'family': 'Wendland', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'container-title': ['Scattered Data Approximation'], 'deposited': {'date-parts': [[2018, 4, 12]], 'date-time': '2018-04-12T17:48:54Z', 'timestamp': 1523555334000}, 'score': 53.989723, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9780511617539'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1017/cbo9780511617539.012'}
+>>> hash >>> ('Error estimates for radial basis function interpolation', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Powell, "Least Frobenius norm updating of quadratic models that satisfy interpolation conditions", Mathematical Programming, vol. 100, no. 1, pp. 183-215, 2004.
+>>> DOI >>> 10.1007/s10107-003-0490-7
+>>> URL >>> http://dx.doi.org/10.1007/s10107-003-0490-7
+>>> year >>> 2003.0
+>>> title >>> Least Frobenius norm updating of quadratic models that satisfy interpolation conditions
+>>> author >>> M.J.D. Powell
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 24.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematical Programming']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database197.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365362}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Math. Program., Ser. B'], 'published-print': {'date-parts': [[2004, 5]]}, 'DOI': '10.1007/s10107-003-0490-7', 'type': 'journal-article', 'created': {'date-parts': [[2004, 3, 20]], 'date-time': '2004-03-20T03:37:25Z', 'timestamp': 1079753845000}, 'source': 'Crossref', 'is-referenced-by-count': 24, 'title': ['Least Frobenius norm updating of quadratic models that satisfy interpolation conditions'], 'prefix': '10.1007', 'volume': '100', 'author': [{'given': 'M.J.D.', 'family': 'Powell', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2003, 11, 21]]}, 'container-title': ['Mathematical Programming'], 'language': 'en', 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s10107-003-0490-7', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 3, 28]], 'date-time': '2013-03-28T18:06:15Z', 'timestamp': 1364493975000}, 'score': 106.94906, 'issued': {'date-parts': [[2003, 11, 21]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2004, 5]]}, 'issue': '1'}, 'alternative-id': ['490'], 'URL': 'http://dx.doi.org/10.1007/s10107-003-0490-7', 'ISSN': ['0025-5610', '1436-4646'], 'issn-type': [{'value': '0025-5610', 'type': 'print'}, {'value': '1436-4646', 'type': 'electronic'}]}
+>>> hash >>> ('Least Frobenius norm updating of quadratic models that satisfy interpolation conditions', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> J. Jauch, F. Bleimund et al., "Recursive B-spline approximation using the Kalman filter", Engineering Science and Technology, vol. 20, no. 1, pp. 28-34, 2017.
+>>> DOI >>> 10.1016/j.jestch.2016.09.015
+>>> URL >>> http://dx.doi.org/10.1016/j.jestch.2016.09.015
+>>> year >>> 2017.0
+>>> title >>> Recursive B-spline approximation using the Kalman filter
+>>> author >>> Jens Jauch and Felix Bleimund and Stephan Rhode and Frank Gauterin
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['Engineering Science and Technology, an International Journal']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database197.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:45Z', 'timestamp': 1528225365335}, 'reference-count': 27, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2017, 2, 1]], 'date-time': '2017-02-01T00:00:00Z', 'timestamp': 1485907200000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://creativecommons.org/licenses/by-nc-nd/4.0/', 'start': {'date-parts': [[2016, 4, 15]], 'date-time': '2016-04-15T00:00:00Z', 'timestamp': 1460678400000}, 'delay-in-days': 0, 'content-version': 'vor'}], 'funder': [{'name': 'German Federal Ministry of Education and Research', 'award': []}], 'content-domain': {'domain': ['elsevier.com', 'sciencedirect.com'], 'crossmark-restriction': True}, 'short-container-title': ['Engineering Science and Technology, an International Journal'], 'published-print': {'date-parts': [[2017, 2]]}, 'DOI': '10.1016/j.jestch.2016.09.015', 'type': 'journal-article', 'created': {'date-parts': [[2016, 11, 28]], 'date-time': '2016-11-28T15:21:14Z', 'timestamp': 1480346474000}, 'page': '28-34', 'update-policy': 'http://dx.doi.org/10.1016/elsevier_cm_policy', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Recursive B-spline approximation using the Kalman filter'], 'prefix': '10.1016', 'volume': '20', 'author': [{'given': 'Jens', 'family': 'Jauch', 'sequence': 'first', 'affiliation': []}, {'given': 'Felix', 'family': 'Bleimund', 'sequence': 'additional', 'affiliation': []}, {'given': 'Stephan', 'family': 'Rhode', 'sequence': 'additional', 'affiliation': []}, {'given': 'Frank', 'family': 'Gauterin', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Engineering Science and Technology, an International Journal'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S2215098616303032?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S2215098616303032?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 25]], 'date-time': '2017-06-25T04:37:57Z', 'timestamp': 1498365477000}, 'score': 92.03982, 'issued': {'date-parts': [[2017, 2]]}, 'references-count': 27, 'journal-issue': {'published-print': {'date-parts': [[2017, 2]]}, 'issue': '1'}, 'alternative-id': ['S2215098616303032'], 'URL': 'http://dx.doi.org/10.1016/j.jestch.2016.09.015', 'ISSN': ['2215-0986'], 'issn-type': [{'value': '2215-0986', 'type': 'print'}], 'assertion': [{'value': 'Elsevier', 'name': 'publisher', 'label': 'This article is maintained by'}, {'value': 'Recursive B-spline approximation using the Kalman filter', 'name': 'articletitle', 'label': 'Article Title'}, {'value': 'Engineering Science and Technology, an International Journal', 'name': 'journaltitle', 'label': 'Journal Title'}, {'value': 'http://dx.doi.org/10.1016/j.jestch.2016.09.015', 'name': 'articlelink', 'label': 'CrossRef DOI link to publisher maintained version'}, {'value': 'article', 'name': 'content_type', 'label': 'Content Type'}, {'value': '© 2016 Karabuk University. Publishing services by Elsevier B.V.', 'name': 'copyright', 'label': 'Copyright'}]}
+>>> hash >>> ('Recursive B-spline approximation using the Kalman filter', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> M. Harashima, L. A. Ferrari, P. Sankar, "Spline approximation using Kalman filter state estimation", IEEE Trans. Circuits and Systems II., vol. 44, no. 5, 1997.
+>>> DOI >>> 10.1109/82.580860
+>>> URL >>> http://dx.doi.org/10.1109/82.580860
+>>> year >>> 1997.0
+>>> title >>> Spline approximation using Kalman filter state estimation
+>>> author >>> M. Harashima and L.A. Ferrari and P.V. Sankar
+>>> reference_count >>> 9.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Circuits and Systems II: Analog and Digital Signal Processing']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database197.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 5]], 'date-time': '2018-06-05T19:02:50Z', 'timestamp': 1528225370061}, 'reference-count': 9, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '5', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Circuits Syst. II'], 'published-print': {'date-parts': [[1997, 5]]}, 'DOI': '10.1109/82.580860', 'type': 'journal-article', 'created': {'date-parts': [[2002, 8, 24]], 'date-time': '2002-08-24T19:31:03Z', 'timestamp': 1030217463000}, 'page': '421-424', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Spline approximation using Kalman filter state estimation'], 'prefix': '10.1109', 'volume': '44', 'author': [{'given': 'M.', 'family': 'Harashima', 'sequence': 'first', 'affiliation': []}, {'given': 'L.A.', 'family': 'Ferrari', 'sequence': 'additional', 'affiliation': []}, {'given': 'P.V.', 'family': 'Sankar', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Circuits and Systems II: Analog and Digital Signal Processing'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx4/82/12617/00580860.pdf?arnumber=580860', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 10]], 'date-time': '2017-03-10T06:30:45Z', 'timestamp': 1489127445000}, 'score': 101.28953, 'issued': {'date-parts': [[1997, 5]]}, 'references-count': 9, 'journal-issue': {'issue': '5'}, 'URL': 'http://dx.doi.org/10.1109/82.580860', 'ISSN': ['1057-7130'], 'issn-type': [{'value': '1057-7130', 'type': 'print'}]}
+>>> hash >>> ('Spline approximation using Kalman filter state estimation', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

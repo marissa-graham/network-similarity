@@ -1,0 +1,385 @@
+>>> NEW PAPER <<<
+>>> citation >>> Islam, M.S., Zhou, R., Liu, C.: On answering why-not questions in reverse skyline queries. In: ICDE, pp. 973â€“984 (2013)
+>>> DOI >>> 10.1109/icde.2013.6544890
+>>> URL >>> http://dx.doi.org/10.1109/icde.2013.6544890
+>>> year >>> 2013.0
+>>> title >>> On answering why-not questions in reverse skyline queries
+>>> author >>> None
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 25.0
+>>> subject >>> None
+>>> container_title >>> ['2013 IEEE 29th International Conference on Data Engineering (ICDE)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 12]], 'date-time': '2018-05-12T07:02:29Z', 'timestamp': 1526108549440}, 'reference-count': 18, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467349093', 'type': 'print'}, {'value': '9781467349086', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013, 4]]}, 'DOI': '10.1109/icde.2013.6544890', 'type': 'proceedings-article', 'created': {'date-parts': [[2013, 6, 26]], 'date-time': '2013-06-26T19:02:52Z', 'timestamp': 1372273372000}, 'source': 'Crossref', 'is-referenced-by-count': 25, 'title': ['On answering why-not questions in reverse skyline queries'], 'prefix': '10.1109', 'author': [{'given': 'M. S.', 'family': 'Islam', 'sequence': 'first', 'affiliation': []}, {'family': 'Rui Zhou', 'sequence': 'additional', 'affiliation': []}, {'family': 'Chengfei Liu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2013 29th IEEE International Conference on Data Engineering (ICDE 2013)', 'location': 'Brisbane, QLD', 'start': {'date-parts': [[2013, 4, 8]]}, 'end': {'date-parts': [[2013, 4, 12]]}}, 'container-title': ['2013 IEEE 29th International Conference on Data Engineering (ICDE)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/6530811/6544790/06544890.pdf?arnumber=6544890', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 22]], 'date-time': '2017-03-22T18:51:38Z', 'timestamp': 1490208698000}, 'score': 73.1951, 'issued': {'date-parts': [[2013, 4]]}, 'ISBN': ['9781467349109', '9781467349093', '9781467349086'], 'references-count': 18, 'URL': 'http://dx.doi.org/10.1109/icde.2013.6544890'}
+>>> hash >>> ('On answering why-not questions in reverse skyline queries', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Chang, L., Li, W., Lin, X., Qin, L., Zhang, W.: pSCAN: fast and exact structural graph clustering. In: ICDE, pp. 253â€“264 (2016)
+>>> DOI >>> 10.1109/icde.2016.7498245
+>>> URL >>> http://dx.doi.org/10.1109/icde.2016.7498245
+>>> year >>> 2016.0
+>>> title >>> pSCAN: Fast and exact structural graph clustering
+>>> author >>> Lijun Chang and Wei Li and Xuemin Lin and Lu Qin and Wenjie Zhang
+>>> reference_count >>> 29.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['2016 IEEE 32nd International Conference on Data Engineering (ICDE)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:08:24Z', 'timestamp': 1525795704770}, 'reference-count': 29, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781509020201', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2016, 5]]}, 'DOI': '10.1109/icde.2016.7498245', 'type': 'proceedings-article', 'created': {'date-parts': [[2016, 6, 25]], 'date-time': '2016-06-25T11:36:34Z', 'timestamp': 1466854594000}, 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['pSCAN: Fast and exact structural graph clustering'], 'prefix': '10.1109', 'author': [{'given': 'Lijun', 'family': 'Chang', 'sequence': 'first', 'affiliation': []}, {'given': 'Wei', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xuemin', 'family': 'Lin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Lu', 'family': 'Qin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Wenjie', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2016 IEEE 32nd International Conference on Data Engineering (ICDE)', 'location': 'Helsinki, Finland', 'start': {'date-parts': [[2016, 5, 16]]}, 'end': {'date-parts': [[2016, 5, 20]]}}, 'container-title': ['2016 IEEE 32nd International Conference on Data Engineering (ICDE)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/7491900/7498210/07498245.pdf?arnumber=7498245', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 9, 30]], 'date-time': '2016-09-30T00:21:51Z', 'timestamp': 1475194911000}, 'score': 94.270485, 'issued': {'date-parts': [[2016, 5]]}, 'ISBN': ['9781509020201'], 'references-count': 29, 'URL': 'http://dx.doi.org/10.1109/icde.2016.7498245'}
+>>> hash >>> ('pSCAN: Fast and exact structural graph clustering', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Chen, L., Lin, X., Hu, H., Jensen, C.S., Xu, J.L: Answering why-not spatial keyword top-k queries via keyword adaption. In: ICDE, pp. 697â€“708 (2016)
+>>> DOI >>> 10.1109/icde.2016.7498282
+>>> URL >>> http://dx.doi.org/10.1109/icde.2016.7498282
+>>> year >>> 2016.0
+>>> title >>> Answering why-not spatial keyword top-k queries via keyword adaption
+>>> author >>> Lei Chen and Jianliang Xu and Xin Lin and Christian S. Jensen and Haibo Hu
+>>> reference_count >>> 34.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> ['2016 IEEE 32nd International Conference on Data Engineering (ICDE)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:08:22Z', 'timestamp': 1525795702925}, 'reference-count': 34, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781509020201', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2016, 5]]}, 'DOI': '10.1109/icde.2016.7498282', 'type': 'proceedings-article', 'created': {'date-parts': [[2016, 6, 25]], 'date-time': '2016-06-25T11:36:34Z', 'timestamp': 1466854594000}, 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['Answering why-not spatial keyword top-k queries via keyword adaption'], 'prefix': '10.1109', 'author': [{'given': 'Lei', 'family': 'Chen', 'sequence': 'first', 'affiliation': []}, {'given': 'Jianliang', 'family': 'Xu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Xin', 'family': 'Lin', 'sequence': 'additional', 'affiliation': []}, {'given': 'Christian S.', 'family': 'Jensen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Haibo', 'family': 'Hu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2016 IEEE 32nd International Conference on Data Engineering (ICDE)', 'location': 'Helsinki, Finland', 'start': {'date-parts': [[2016, 5, 16]]}, 'end': {'date-parts': [[2016, 5, 20]]}}, 'container-title': ['2016 IEEE 32nd International Conference on Data Engineering (ICDE)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/7491900/7498210/07498282.pdf?arnumber=7498282', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 9, 30]], 'date-time': '2016-09-30T00:22:17Z', 'timestamp': 1475194937000}, 'score': 109.234825, 'issued': {'date-parts': [[2016, 5]]}, 'ISBN': ['9781509020201'], 'references-count': 34, 'URL': 'http://dx.doi.org/10.1109/icde.2016.7498282'}
+>>> hash >>> ('Answering why-not spatial keyword top-k queries via keyword adaption', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Tran, Q.T., Chan, C.Y.: How to ConQueR why-not questions. In: SIGMOD, pp. 15â€“26 (2010)
+>>> DOI >>> 10.1145/1807167.1807172
+>>> URL >>> http://dx.doi.org/10.1145/1807167.1807172
+>>> year >>> 2010.0
+>>> title >>> How to ConQueR why-not questions
+>>> author >>> Quoc Trung Tran and Chee-Yong Chan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 39.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2010 international conference on Management of data - SIGMOD '10"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 12]], 'date-time': '2018-05-12T07:02:29Z', 'timestamp': 1526108549466}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450300322', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2010]]}, 'DOI': '10.1145/1807167.1807172', 'type': 'proceedings-article', 'created': {'date-parts': [[2010, 6, 8]], 'date-time': '2010-06-08T12:37:34Z', 'timestamp': 1276000654000}, 'source': 'Crossref', 'is-referenced-by-count': 39, 'title': ['How to ConQueR why-not questions'], 'prefix': '10.1145', 'author': [{'given': 'Quoc Trung', 'family': 'Tran', 'sequence': 'first', 'affiliation': []}, {'given': 'Chee-Yong', 'family': 'Chan', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2010 international conference', 'location': 'Indianapolis, Indiana, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '10", 'number': '2010', 'start': {'date-parts': [[2010, 6, 6]]}, 'end': {'date-parts': [[2010, 6, 10]]}}, 'container-title': ["Proceedings of the 2010 international conference on Management of data - SIGMOD '10"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1807172&amp;ftid=803601&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T05:24:09Z', 'timestamp': 1481088249000}, 'score': 61.32089, 'issued': {'date-parts': [[2010]]}, 'ISBN': ['9781450300322'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1807167.1807172'}
+>>> hash >>> ('How to ConQueR why-not questions', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Roy, S., Suciu, D.: A formal approach to finding explanations for database queries. In: SIGMOD, pp. 1579â€“1590 (2014)
+>>> DOI >>> 10.1145/2588555.2588578
+>>> URL >>> http://dx.doi.org/10.1145/2588555.2588578
+>>> year >>> 2014.0
+>>> title >>> A formal approach to finding explanations for database queries
+>>> author >>> Sudeepa Roy and Dan Suciu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 19.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2014 ACM SIGMOD international conference on Management of data - SIGMOD '14"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 12]], 'date-time': '2018-05-12T07:02:29Z', 'timestamp': 1526108549467}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781450323765', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2014]]}, 'DOI': '10.1145/2588555.2588578', 'type': 'proceedings-article', 'created': {'date-parts': [[2014, 6, 20]], 'date-time': '2014-06-20T13:06:05Z', 'timestamp': 1403269565000}, 'source': 'Crossref', 'is-referenced-by-count': 19, 'title': ['A formal approach to finding explanations for database queries'], 'prefix': '10.1145', 'author': [{'given': 'Sudeepa', 'family': 'Roy', 'sequence': 'first', 'affiliation': []}, {'given': 'Dan', 'family': 'Suciu', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2014 ACM SIGMOD international conference', 'location': 'Snowbird, Utah, USA', 'sponsor': ['SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '14", 'number': '2014', 'start': {'date-parts': [[2014, 6, 22]]}, 'end': {'date-parts': [[2014, 6, 27]]}}, 'container-title': ["Proceedings of the 2014 ACM SIGMOD international conference on Management of data - SIGMOD '14"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=2588578&amp;ftid=1474723&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 7]], 'date-time': '2016-12-07T00:39:24Z', 'timestamp': 1481071164000}, 'score': 70.6761, 'issued': {'date-parts': [[2014]]}, 'ISBN': ['9781450323765'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/2588555.2588578'}
+>>> hash >>> ('A formal approach to finding explanations for database queries', 2014.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Islam, M.S., Liu, C., Li, J.: Efficient answering of why-not questions in similar graph matching. TKDE 27, 2672â€“2686 (2015)
+>>> DOI >>> 10.1109/tkde.2015.2432798
+>>> URL >>> http://dx.doi.org/10.1109/tkde.2015.2432798
+>>> year >>> 2015.0
+>>> title >>> Efficient Answering of Why-Not Questions in Similar Graph Matching
+>>> author >>> Md. Saiful Islam and Chengfei Liu and Jianxin Li
+>>> reference_count >>> 34.0
+>>> is_referenced_by_count >>> 9.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Knowledge and Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T11:49:18Z', 'timestamp': 1525693758701}, 'reference-count': 34, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '10', 'funder': [{'DOI': '10.13039/501100000923', 'name': 'Australian Research Council', 'doi-asserted-by': 'publisher', 'award': ['DP140103499']}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Trans. Knowl. Data Eng.'], 'published-print': {'date-parts': [[2015, 10, 1]]}, 'DOI': '10.1109/tkde.2015.2432798', 'type': 'journal-article', 'created': {'date-parts': [[2015, 5, 13]], 'date-time': '2015-05-13T19:03:33Z', 'timestamp': 1431543813000}, 'page': '2672-2686', 'source': 'Crossref', 'is-referenced-by-count': 9, 'title': ['Efficient Answering of Why-Not Questions in Similar Graph Matching'], 'prefix': '10.1109', 'volume': '27', 'author': [{'given': 'Md. Saiful', 'family': 'Islam', 'sequence': 'first', 'affiliation': []}, {'given': 'Chengfei', 'family': 'Liu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jianxin', 'family': 'Li', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Knowledge and Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx7/69/7247809/07106535.pdf?arnumber=7106535', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 23]], 'date-time': '2017-06-23T11:32:39Z', 'timestamp': 1498217559000}, 'score': 75.31954, 'issued': {'date-parts': [[2015, 10, 1]]}, 'references-count': 34, 'journal-issue': {'issue': '10'}, 'URL': 'http://dx.doi.org/10.1109/tkde.2015.2432798', 'ISSN': ['1041-4347'], 'issn-type': [{'value': '1041-4347', 'type': 'print'}]}
+>>> hash >>> ('Efficient Answering of Why-Not Questions in Similar Graph Matching', 2015.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Herschel, M., HernÃ¡ndez, M.A., Tan, W.C.: Artemis: a system for analyzing missing answers. In: PVLDB, pp. 1550â€“1553 (2009)
+>>> DOI >>> 10.14778/1687553.1687588
+>>> URL >>> http://dx.doi.org/10.14778/1687553.1687588
+>>> year >>> 2009.0
+>>> title >>> Artemis
+>>> author >>> Melanie Herschel and Mauricio A. Hernández and Wang-Chiew Tan
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 10.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 12]], 'date-time': '2018-05-12T07:02:29Z', 'timestamp': 1526108549435}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2009, 8, 1]]}, 'DOI': '10.14778/1687553.1687588', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '1550-1553', 'source': 'Crossref', 'is-referenced-by-count': 10, 'title': ['Artemis'], 'prefix': '10.14778', 'volume': '2', 'author': [{'given': 'Melanie', 'family': 'Herschel', 'sequence': 'first', 'affiliation': []}, {'given': 'Mauricio A.', 'family': 'Hernández', 'sequence': 'additional', 'affiliation': []}, {'given': 'Wang-Chiew', 'family': 'Tan', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:21:05Z', 'timestamp': 1403612465000}, 'score': 60.288864, 'subtitle': ['a system for analyzing missing answers'], 'issued': {'date-parts': [[2009, 8, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2009, 8, 1]]}, 'issue': '2'}, 'URL': 'http://dx.doi.org/10.14778/1687553.1687588', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('Artemis', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Zong, C., Yang, X., Wang, B., Zhang, J.: Minimizing explanations for missing answers to queries on databases. In: Meng, W., Feng, L., Bressan, S., Winiwarter, W., Song, W. (eds.) DASFAA 2013. LNCS, vol. 7825, pp. 254â€“268. Springer, Heidelberg (2013).  https://doi.org/10.1007/978-3-642-37487-6_21
+>>> DOI >>> 10.1007/978-3-642-37487-6_21
+>>> URL >>> http://dx.doi.org/10.1007/978-3-642-37487-6_21
+>>> year >>> 2013.0
+>>> title >>> Minimizing Explanations for Missing Answers to Queries on Databases
+>>> author >>> Chuanyu Zong and Xiaochun Yang and Bin Wang and Jingjing Zhang
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['Database Systems for Advanced Applications', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 12]], 'date-time': '2018-05-12T07:02:29Z', 'timestamp': 1526108549434}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783642374869', 'type': 'print'}, {'value': '9783642374876', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2013]]}, 'DOI': '10.1007/978-3-642-37487-6_21', 'type': 'book-chapter', 'created': {'date-parts': [[2013, 4, 17]], 'date-time': '2013-04-17T07:55:02Z', 'timestamp': 1366185302000}, 'page': '254-268', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['Minimizing Explanations for Missing Answers to Queries on Databases'], 'prefix': '10.1007', 'author': [{'given': 'Chuanyu', 'family': 'Zong', 'sequence': 'first', 'affiliation': []}, {'given': 'Xiaochun', 'family': 'Yang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Bin', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jingjing', 'family': 'Zhang', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Database Systems for Advanced Applications', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-642-37487-6_21', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2013, 4, 17]], 'date-time': '2013-04-17T07:55:13Z', 'timestamp': 1366185313000}, 'score': 77.33465, 'issued': {'date-parts': [[2013]]}, 'ISBN': ['9783642374869', '9783642374876'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-642-37487-6_21', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Minimizing Explanations for Missing Answers to Queries on Databases', 2013.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Shiokawa, H., Fujiwara, Y., Onizuka, M.: SCAN++: efficient algorithm for finding clusters, hubs and outliers on large-scale graphs. In: PVLDB, pp. 1178â€“1189 (2015)
+>>> DOI >>> 10.14778/2809974.2809980
+>>> URL >>> http://dx.doi.org/10.14778/2809974.2809980
+>>> year >>> 2015.0
+>>> title >>> SCAN++
+>>> author >>> Hiroaki Shiokawa and Yasuhiro Fujiwara and Makoto Onizuka
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 12]], 'date-time': '2018-05-12T07:02:29Z', 'timestamp': 1526108549494}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2015, 7, 1]]}, 'DOI': '10.14778/2809974.2809980', 'type': 'journal-article', 'created': {'date-parts': [[2015, 7, 30]], 'date-time': '2015-07-30T14:37:34Z', 'timestamp': 1438267054000}, 'page': '1178-1189', 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['SCAN++'], 'prefix': '10.14778', 'volume': '8', 'author': [{'given': 'Hiroaki', 'family': 'Shiokawa', 'sequence': 'first', 'affiliation': []}, {'given': 'Yasuhiro', 'family': 'Fujiwara', 'sequence': 'additional', 'affiliation': []}, {'given': 'Makoto', 'family': 'Onizuka', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2015, 7, 30]], 'date-time': '2015-07-30T14:37:40Z', 'timestamp': 1438267060000}, 'score': 104.0032, 'subtitle': ['efficient algorithm for finding clusters, hubs and outliers on large-scale graphs'], 'issued': {'date-parts': [[2015, 7, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2015, 7, 1]]}, 'issue': '11'}, 'URL': 'http://dx.doi.org/10.14778/2809974.2809980', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('SCAN++', 2015.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Zong, C., Yang, X., Wang, B., Liu, C.: Minimal explanations of missing values by chasing acquisitional data. WWWJ 20, 1333â€“1362 (2017).  https://doi.org/10.1007/s11280-017-0438-0
+>>> DOI >>> 10.1007/s11280-017-0438-0
+>>> URL >>> http://dx.doi.org/10.1007/s11280-017-0438-0
+>>> year >>> 2017.0
+>>> title >>> Minimal explanations of missing values by chasing acquisitional data
+>>> author >>> Chuanyu Zong and Xiaochun Yang and Bin Wang and Chengfei Liu
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['World Wide Web']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T08:14:41Z', 'timestamp': 1524039281312}, 'reference-count': 21, 'publisher': 'Springer Nature', 'issue': '6', 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2017, 2, 22]], 'date-time': '2017-02-22T00:00:00Z', 'timestamp': 1487721600000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'funder': [{'name': 'National Natural Science Foundation of China Grant (Outstanding Youth Fund)', 'award': ['61322208']}], 'content-domain': {'domain': ['link.springer.com'], 'crossmark-restriction': False}, 'short-container-title': ['World Wide Web'], 'published-print': {'date-parts': [[2017, 11]]}, 'DOI': '10.1007/s11280-017-0438-0', 'type': 'journal-article', 'created': {'date-parts': [[2017, 2, 22]], 'date-time': '2017-02-22T03:49:54Z', 'timestamp': 1487735394000}, 'page': '1333-1362', 'update-policy': 'http://dx.doi.org/10.1007/springer_crossmark_policy', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Minimal explanations of missing values by chasing acquisitional data'], 'prefix': '10.1007', 'volume': '20', 'author': [{'ORCID': 'http://orcid.org/0000-0001-7828-5702', 'authenticated-orcid': False, 'given': 'Chuanyu', 'family': 'Zong', 'sequence': 'first', 'affiliation': []}, {'given': 'Xiaochun', 'family': 'Yang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Bin', 'family': 'Wang', 'sequence': 'additional', 'affiliation': []}, {'given': 'Chengfei', 'family': 'Liu', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2017, 2, 22]]}, 'reference': [{'key': '438_CR1', 'unstructured': 'AMeliou, A., Gatterbauer, W., Moore, K., Suciu, D.: Why So? Or Why No? Functional causality for explaining query answers. In: MUD, pp. 3–7 (2010)'}, {'key': '438_CR2', 'unstructured': 'Arenas, M., Bertossi, L., Chomicki, J.: Consistent query answers in inconsistent databases. In: TPLP, pp. 68–79 (2003)'}, {'key': '438_CR3', 'unstructured': 'Bhowmick, S., Sun, A., Truong, B.: Why Not, Wine?: Towards answering why-not questions in social image search. In: MM, pp. 917–926 (2013)'}, {'key': '438_CR4', 'unstructured': 'Bidoit, N., Herschel, M., Tzomapanaki, K.: Query-Based Why-Not Provenance with Nedexplain. In: EDBT, pp. 145–156 (2014)'}, {'key': '438_CR5', 'unstructured': 'Chapman, A., Jagadish, H.: Why Not? In: VLDB, pp. 523–534 (2009)', 'DOI': '10.1145/1559845.1559901', 'doi-asserted-by': 'crossref'}, {'key': '438_CR6', 'unstructured': 'Chen, L., Lin, X., Hu, H., Jensen, C., Xu, J.: Answering why-not questions on spatial keyword top-K queries. In: ICDE, pp. 279–290 (2015)', 'DOI': '10.1109/ICDE.2015.7113291', 'doi-asserted-by': 'crossref'}, {'key': '438_CR7', 'unstructured': 'Gao, Y., Liu, Q., Chen, G., Z.B.Z.L.: Answering why-not questions on reverse top-K queries. VLDB, pp. 738–749 (2015)'}, {'key': '438_CR8', 'unstructured': 'He, Z., Lo, E.: Answering why-not questions on top-K queries. In: ICDE, pp. 750–761 (2012)', 'DOI': '10.1109/ICDE.2012.8', 'doi-asserted-by': 'crossref'}, {'key': '438_CR9', 'unstructured': 'Herschel, M.: Wondering why data are missing from query results?: Ask Conseil Why-Not. In: CIKM, pp. 2213–2218 (2013)', 'DOI': '10.1145/2505515.2505725', 'doi-asserted-by': 'crossref'}, {'key': '438_CR10', 'unstructured': 'Herschel, M., Hernandez, M.: Explaining missing answers to Spjua queries. In: VLDB, pp. 185–196 (2010)'}, {'key': '438_CR11', 'unstructured': 'Herschel, M., Hernandez, M., Tan, W.: Artemis: a system for analyzing missing answers. In: VLDB, pp. 1550–1553 (2009)', 'DOI': '10.14778/1687553.1687588', 'doi-asserted-by': 'crossref'}, {'key': '438_CR12', 'unstructured': 'Huang, J., Chen, T., Doan, A., Naughton, J.: On the provenance of non-answers to queries over extracted data. In: PVLDB, pp. 736–747 (2008)'}, {'key': '438_CR13', 'doi-asserted-by': 'crossref', 'first-page': '2672', 'DOI': '10.1109/TKDE.2015.2432798', 'volume': '27', 'author': 'M Islam', 'year': '2015', 'unstructured': 'Islam, M., Liu, C., Li, J.: Efficient answering of why-not questions in similar graph matching. IEEE Trans. Knowl. Data Eng 27, 2672–2686 (2015)', 'journal-title': 'IEEE Trans. Knowl. Data Eng'}, {'key': '438_CR14', 'unstructured': 'Islam, M., Zhou, R., Liu, C.: On answering why-not questions in reverse skyline queries. In: ICDE, pp. 973–984 (2013)', 'DOI': '10.1109/ICDE.2013.6544890', 'doi-asserted-by': 'crossref'}, {'key': '438_CR15', 'unstructured': 'Jeffery, S., Garofalakis, R., Franklin, M.: Adaptive cleaning for Rfid data streams. In: VLDB, pp. 163–174 (2006)'}, {'key': '438_CR16', 'unstructured': 'Li, X., Dong, X., Lyons, K., Meng, W., Srivastava, D.: Truth finding on the deep Web: is the problem solved. In: VLDB, pp. 97–108 (2012)'}, {'key': '438_CR17', 'unstructured': 'Roy, S., Suciu, D.: A formal approach to finding explanations for database queries. In: SIGMOD, pp. 1579–1590 (2014)', 'DOI': '10.1145/2588555.2588578', 'doi-asserted-by': 'crossref'}, {'key': '438_CR18', 'unstructured': 'Song, S., Zhang, A., Wang, J., Yu, P.: Screen: stream data cleaning under speed constraints. In: SIGMOD, pp. 827–841 (2015)', 'DOI': '10.1145/2723372.2723730', 'doi-asserted-by': 'crossref'}, {'key': '438_CR19', 'unstructured': 'Tran, Q., Chan, C.: How to conquer why-not questions. In: SIGMOD, pp. 15–26 (2010)', 'DOI': '10.1145/1807167.1807172', 'doi-asserted-by': 'crossref'}, {'key': '438_CR20', 'unstructured': 'Zong, C., Sun, J., Wang, B., Yang, X.: Minimizing explanations of why-not questions. In: DASFAA Workshop, Pp. 230–242 (2014)', 'DOI': '10.1007/978-3-662-43984-5_17', 'doi-asserted-by': 'crossref'}, {'key': '438_CR21', 'unstructured': 'Zong, C., Yang, X., Wang, B., Zhang, J.: Minimizing explanations for missing answers to queries on database. In: DASFAA, pp. 254–268 (2013)', 'DOI': '10.1007/978-3-642-37487-6_21', 'doi-asserted-by': 'crossref'}], 'container-title': ['World Wide Web'], 'language': 'en', 'link': [{'URL': 'http://link.springer.com/article/10.1007/s11280-017-0438-0/fulltext.html', 'content-type': 'text/html', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://link.springer.com/content/pdf/10.1007/s11280-017-0438-0.pdf', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://link.springer.com/content/pdf/10.1007/s11280-017-0438-0.pdf', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 25]], 'date-time': '2017-08-25T07:38:27Z', 'timestamp': 1503646707000}, 'score': 87.62412, 'issued': {'date-parts': [[2017, 2, 22]]}, 'references-count': 21, 'journal-issue': {'published-print': {'date-parts': [[2017, 11]]}, 'issue': '6'}, 'alternative-id': ['438'], 'URL': 'http://dx.doi.org/10.1007/s11280-017-0438-0', 'relation': {'cites': []}, 'ISSN': ['1386-145X', '1573-1413'], 'issn-type': [{'value': '1386-145X', 'type': 'print'}, {'value': '1573-1413', 'type': 'electronic'}]}
+>>> hash >>> ('Minimal explanations of missing values by chasing acquisitional data', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Xu, X., Yuruk, N., Feng, Z., Schweiger, T.A.J.: SCAN: a structural clustering algorithm for networks. In: KDD, pp. 824â€“833 (2007)
+>>> DOI >>> 10.1145/1281192.1281280
+>>> URL >>> http://dx.doi.org/10.1145/1281192.1281280
+>>> year >>> 2007.0
+>>> title >>> SCAN
+>>> author >>> Xiaowei Xu and Nurcan Yuruk and Zhidan Feng and Thomas A. J. Schweiger
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 202.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 13th ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '07"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 29]], 'date-time': '2018-05-29T13:02:41Z', 'timestamp': 1527598961809}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781595936097', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2007]]}, 'DOI': '10.1145/1281192.1281280', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 12, 7]], 'date-time': '2007-12-07T19:19:41Z', 'timestamp': 1197055181000}, 'source': 'Crossref', 'is-referenced-by-count': 202, 'title': ['SCAN'], 'prefix': '10.1145', 'author': [{'given': 'Xiaowei', 'family': 'Xu', 'sequence': 'first', 'affiliation': []}, {'given': 'Nurcan', 'family': 'Yuruk', 'sequence': 'additional', 'affiliation': []}, {'given': 'Zhidan', 'family': 'Feng', 'sequence': 'additional', 'affiliation': []}, {'given': 'Thomas A. J.', 'family': 'Schweiger', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 13th ACM SIGKDD international conference', 'location': 'San Jose, California, USA', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGKDD, ACM Special Interest Group on Knowledge Discovery in Data', 'SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "KDD '07", 'number': '13', 'start': {'date-parts': [[2007, 8, 12]]}, 'end': {'date-parts': [[2007, 8, 15]]}}, 'container-title': ["Proceedings of the 13th ACM SIGKDD international conference on Knowledge discovery and data mining  - KDD '07"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1281280&amp;ftid=454310&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T12:57:30Z', 'timestamp': 1481893050000}, 'score': 72.306244, 'subtitle': ['a structural clustering algorithm for networks'], 'issued': {'date-parts': [[2007]]}, 'ISBN': ['9781595936097'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1281192.1281280'}
+>>> hash >>> ('SCAN', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Liu, Q., Gao, Y., Chen, G., Zheng, B., Zhou, L.: Answering why-not and why questions on reverse top-k queries. VLDB J. 25, 867â€“892 (2016)
+>>> DOI >>> 10.1007/s00778-016-0443-4
+>>> URL >>> http://dx.doi.org/10.1007/s00778-016-0443-4
+>>> year >>> 2016.0
+>>> title >>> Answering why-not and why questions on reverse top-k queries
+>>> author >>> Qing Liu and Yunjun Gao and Gang Chen and Baihua Zheng and Linlin Zhou
+>>> reference_count >>> 51.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['The VLDB Journal']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 17]], 'date-time': '2018-04-17T10:38:26Z', 'timestamp': 1523961506074}, 'reference-count': 51, 'publisher': 'Springer Nature', 'issue': '6', 'license': [{'URL': 'http://www.springer.com/tdm', 'start': {'date-parts': [[2016, 9, 3]], 'date-time': '2016-09-03T00:00:00Z', 'timestamp': 1472860800000}, 'delay-in-days': 0, 'content-version': 'unspecified'}], 'content-domain': {'domain': ['link.springer.com'], 'crossmark-restriction': False}, 'short-container-title': ['The VLDB Journal'], 'published-print': {'date-parts': [[2016, 12]]}, 'DOI': '10.1007/s00778-016-0443-4', 'type': 'journal-article', 'created': {'date-parts': [[2016, 9, 3]], 'date-time': '2016-09-03T09:27:27Z', 'timestamp': 1472894847000}, 'page': '867-892', 'update-policy': 'http://dx.doi.org/10.1007/springer_crossmark_policy', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Answering why-not and why questions on reverse top-k queries'], 'prefix': '10.1007', 'volume': '25', 'author': [{'given': 'Qing', 'family': 'Liu', 'sequence': 'first', 'affiliation': []}, {'given': 'Yunjun', 'family': 'Gao', 'sequence': 'additional', 'affiliation': []}, {'given': 'Gang', 'family': 'Chen', 'sequence': 'additional', 'affiliation': []}, {'given': 'Baihua', 'family': 'Zheng', 'sequence': 'additional', 'affiliation': []}, {'given': 'Linlin', 'family': 'Zhou', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2016, 9, 3]]}, 'reference': [{'issue': '1', 'key': '443_CR1', 'doi-asserted-by': 'crossref', 'first-page': '1', 'DOI': '10.1016/S0969-6989(97)00011-8', 'volume': '5', 'author': 'SJ Arnold', 'year': '1998', 'unstructured': 'Arnold, S.J., Handelman, J., Tigert, D.J.: The impact of a market spoiler on consumer preference structures (or, what happens when Wal-Mart comes to town). J. Retail. Consum. Serv. 5(1), 1–13 (1998)', 'journal-title': 'J. Retail. Consum. Serv.'}, {'key': '443_CR2', 'unstructured': 'Beckmann, N., Kriegel, H., Schneider, R., Seeger, B.: The r*-tree: an efficient and robust access method for points and rectangles. In: SIGMOD, pp. 322–331 (1990)'}, {'key': '443_CR3', 'author': 'M Berg', 'year': '1997', 'unstructured': 'Berg, M., Kreveld, M., Overmars, M., Schwarzkopf, O.: Computational Geometry: Algorithms and Applications. Springer, New York (1997)', 'volume-title': 'Computational Geometry: Algorithms and Applications', 'DOI': '10.1007/978-3-662-03427-9', 'doi-asserted-by': 'crossref'}, {'issue': '4', 'key': '443_CR4', 'doi-asserted-by': 'crossref', 'first-page': '373', 'DOI': '10.1007/s00778-005-0156-6', 'volume': '14', 'author': 'D Bhagwat', 'year': '2005', 'unstructured': 'Bhagwat, D., Chiticariu, L., Tan, W.C., Vijayvargiya, G.: An annotation management system for relational databases. VLDB J. 14(4), 373–396 (2005)', 'journal-title': 'VLDB J.'}, {'key': '443_CR5', 'unstructured': 'Bhowmick, S.S., Sun, A., Truong, B.Q.: Why not, wine? Towards answering why-not questions in social image search. In: MM, pp. 917–926 (2013)'}, {'key': '443_CR6', 'unstructured': 'Bidoit, N., Herschel, M., Tzompanaki, K.: Query-based why-not provenance with nedexplain. In: EDBT, pp. 145–156 (2014)'}, {'key': '443_CR7', 'unstructured': 'Bidoit, N., Herschel, M., Tzompanaki, K.: Efficient computation of polynomial explanations of why-not questions. In: CIKM, pp. 713–722 (2015)', 'DOI': '10.1145/2806416.2806426', 'doi-asserted-by': 'crossref'}, {'key': '443_CR8', 'unstructured': 'Bidoit, N., Herschel, M., Tzompanaki, K.: EFQ: why-not answer polynomials in action. In: VLDB, pp. 1980–1991 (2015)', 'DOI': '10.14778/2824032.2824116', 'doi-asserted-by': 'crossref'}, {'key': '443_CR9', 'unstructured': 'Buneman, P., Khanna, S., Tan, W.C.: Why and where: a characterization of data provenance. In: ICDT, pp. 316–330 (2001)'}, {'issue': '3', 'key': '443_CR10', 'doi-asserted-by': 'crossref', 'first-page': '285', 'DOI': '10.2307/3172901', 'volume': '26', 'author': 'GS Carpenter', 'year': '1989', 'unstructured': 'Carpenter, G.S., Nakamoto, K.: Consumer preference formation and pioneering advantage. J. Mark. Res. 26(3), 285–298 (1989)', 'journal-title': 'J. Mark. Res.'}, {'key': '443_CR11', 'unstructured': 'ten Cate, B., Civili, C., Sherkhonov, E., Tan, W.C.: High-level why-not explanations using ontologies. In: PODS, pp. 31–43 (2015)', 'DOI': '10.1145/2745754.2745765', 'doi-asserted-by': 'crossref'}, {'key': '443_CR12', 'unstructured': 'Chang, Y.C., Bergman, L., Castelli, V., Li, C.S., Lo, M.L., Smith, J.R.: The onion technique: indexing for linear optimization queries. In: SIGMOD, pp. 391–402 (2000)', 'DOI': '10.1145/342009.335433', 'doi-asserted-by': 'crossref'}, {'key': '443_CR13', 'unstructured': 'Chapman, A., Jagadish, H.V.: Why not? In: SIGMOD, pp. 523–534 (2009)', 'DOI': '10.1145/1559845.1559901', 'doi-asserted-by': 'crossref'}, {'key': '443_CR14', 'unstructured': 'Chen, L., Gao, Y., Wang, K., Jensen, C.S., Chen, G.: Answering why-not questions on metric probabilistic range queries. In: ICDE (2016) (to appear)', 'DOI': '10.1109/ICDE.2016.7498288', 'doi-asserted-by': 'crossref'}, {'key': '443_CR15', 'unstructured': 'Chen, L., Lin, X., Hu, H., Jensen, C.S., Xu, J.: Answering why-not questions on spatial keyword top-k queries. In: ICDE, pp. 297–290 (2015)', 'DOI': '10.1109/ICDE.2015.7113291', 'doi-asserted-by': 'crossref'}, {'key': '443_CR16', 'unstructured': 'Chen, L., Xu, J., Lin, X., Jensen, C.S., Hu, H.: Answering why-not spatial keyword top- $$k$$ k queries via keyword adaption. In: ICDE (2016) (to appear)', 'DOI': '10.1109/ICDE.2016.7498282', 'doi-asserted-by': 'crossref'}, {'key': '443_CR17', 'unstructured': 'Chester, S., Thomo, A., Venkatesh, S., Whitesides, S.: Indexing reverse top-k queries in two dimensions. In: DASFAA, pp. 201–208 (2013)', 'DOI': '10.1007/978-3-642-37487-6_17', 'doi-asserted-by': 'crossref'}, {'key': '443_CR18', 'unstructured': 'Chiticariu, L., Tan, W.C., Vijayvargiya, G.: Dbnotes: a post-it system for relational databases based on provenance. In: SIGMOD, pp. 942–944 (2005)', 'DOI': '10.1145/1066157.1066296', 'doi-asserted-by': 'crossref'}, {'issue': '1', 'key': '443_CR19', 'doi-asserted-by': 'crossref', 'first-page': '41', 'DOI': '10.1007/s00778-002-0083-8', 'volume': '12', 'author': 'Y Cui', 'year': '2003', 'unstructured': 'Cui, Y., Widom, J.: Lineage tracing for general data warehouse transformations. VLDB J. 12(1), 41–58 (2003)', 'journal-title': 'VLDB J.'}, {'key': '443_CR20', 'unstructured': 'Das, G., Gunopulos, D., Koudas, N., Tsirogiannis, D.: Answering top-k queries using views. In: VLDB, pp. 451–462 (2006)'}, {'key': '443_CR21', 'unstructured': 'Gao, Y., Liu, Q., Chen, G., Zheng, B., Zhou, L.: Answering why-not questions on reverse top-k queries. In: VLDB, pp. 738–749 (2015)'}, {'key': '443_CR22', 'unstructured': 'Ge, S., Hou, U.L., Mamoulis, N., Cheung, D.W.: Efficient all top- $$k$$ k computation: A unified solution for all top- $$k$$ k , reverse top- $$k$$ k and top- $$m$$ m influential queries. IEEE Trans. Knowl. Data Eng. 25(5), 1015–1027 (2013)', 'DOI': '10.1109/TKDE.2012.34', 'doi-asserted-by': 'crossref'}, {'key': '443_CR23', 'unstructured': 'Goh, K.Y., Teo, H.H., Wu, H., Wei, K.K.: Computer-supported negotiations: an experimental study of bargaining in electronic commerce. In: ICIS, pp. 104–116 (2000)'}, {'key': '443_CR24', 'unstructured': 'He, Z., Lo, E.: Answering why-not questions on top-k queries. In: ICDE, pp. 750–761 (2012)', 'DOI': '10.1109/ICDE.2012.8', 'doi-asserted-by': 'crossref'}, {'issue': '6', 'key': '443_CR25', 'doi-asserted-by': 'crossref', 'first-page': '1300', 'DOI': '10.1109/TKDE.2012.158', 'volume': '26', 'author': 'Z He', 'year': '2014', 'unstructured': 'He, Z., Lo, E.: Answering why-not questions on top-k queries. IEEE Trans. Knowl. Data Eng. 26(6), 1300–1315 (2014)', 'journal-title': 'IEEE Trans. Knowl. Data Eng.'}, {'key': '443_CR26', 'unstructured': 'Herschel, M.: Wondering why data are missing from query results?: Ask conseil why-not. In: CIKM, pp. 2213–2218 (2013)', 'DOI': '10.1145/2505515.2505725', 'doi-asserted-by': 'crossref'}, {'key': '443_CR27', 'unstructured': 'Herschel, M., Hernandez, M.: Explaining missing answers to spjua queries. In: VLDB, pp. 185–196 (2010)'}, {'key': '443_CR28', 'unstructured': 'Herschel, M., Hernandez, M.A., Tan, W.C.: Artemis: a system for analyzing missing answers. In: VLDB, pp. 1550–1553 (2009)', 'DOI': '10.14778/1687553.1687588', 'doi-asserted-by': 'crossref'}, {'key': '443_CR29', 'unstructured': 'Hristidis, V., Koudas, N., Papakonstantinou, Y.: Prefer: a system for the efficient execution of multi-parametric ranked queries. In: SIGMOD, pp. 259–270 (2001)', 'DOI': '10.1145/375663.375690', 'doi-asserted-by': 'crossref'}, {'issue': '1', 'key': '443_CR30', 'doi-asserted-by': 'crossref', 'first-page': '49', 'DOI': '10.1007/s00778-003-0099-8', 'volume': '13', 'author': 'V Hristidis', 'year': '2013', 'unstructured': 'Hristidis, V., Papakonstantinou, Y.: Algorithms and applications for answering ranked queries using ranked views. VLDB J. 13(1), 49–70 (2013)', 'journal-title': 'VLDB J.'}, {'key': '443_CR31', 'unstructured': 'Huang, J., Chen, T., Doan, A.H., Naughton, J.F.: On the provenance of non-answers to queries over extracted data. In: VLDB, pp. 736–747 (2008)'}, {'issue': '10', 'key': '443_CR32', 'doi-asserted-by': 'crossref', 'first-page': '2672', 'DOI': '10.1109/TKDE.2015.2432798', 'volume': '27', 'author': 'M Islam', 'year': '2015', 'unstructured': 'Islam, M., Liu, C., Li, J.: Efficient answering of why-not questions in similar graph matching. IEEE Trans. Knowl. Data Eng. 27(10), 2672–2686 (2015)', 'journal-title': 'IEEE Trans. Knowl. Data Eng.'}, {'key': '443_CR33', 'unstructured': 'Islam, M.S., Zhou, R., Liu, C.: On answering why-not questions in reverse skyline queries. In: ICDE, pp. 973–984 (2013)', 'DOI': '10.1109/ICDE.2013.6544890', 'doi-asserted-by': 'crossref'}, {'key': '443_CR34', 'unstructured': 'Jagadish, H.V., Chapman, A., Elkiss, A., Jayapandian, M., Li, Y., Nandi, A., Yu, C.: Making database systems usable. In: SIGMOD, pp. 13–24 (2007)', 'DOI': '10.1145/1247480.1247483', 'doi-asserted-by': 'crossref'}, {'key': '443_CR35', 'unstructured': 'Jin, C., Zhang, R., Kang, Q., Zhang, Z., Zhou, A.: Probabilistic reverse top-k queries. In: DASFAA, pp. 406–419 (2014)', 'DOI': '10.1007/978-3-319-05810-8_27', 'doi-asserted-by': 'crossref'}, {'issue': '4', 'key': '443_CR36', 'doi-asserted-by': 'crossref', 'first-page': '541', 'DOI': '10.1007/s00778-013-0336-8', 'volume': '23', 'author': 'JL Koh', 'year': '2014', 'unstructured': 'Koh, J.L., Lin, C.Y., Chen, A.L.P.: Finding k most favorite products based on reverse top-t queries. VLDB J. 23(4), 541–564 (2014)', 'journal-title': 'VLDB J.'}, {'key': '443_CR37', 'unstructured': 'Meliou, A., Gatterbauer, W., Moore, K.F., Suciu, D.: Why so? or why no? functional causality for explaining query answers. In: MUD, pp. 3–17 (2010)'}, {'issue': '1–3', 'key': '443_CR38', 'doi-asserted-by': 'crossref', 'first-page': '43', 'DOI': '10.1007/BF01587076', 'volume': '44', 'author': 'RDC Monteiro', 'year': '1989', 'unstructured': 'Monteiro, R.D.C., Adler, I.: Interior path following primal-dual algorithms, part II: convex quadratic programming. Math. Program. 44(1–3), 43–66 (1989)', 'journal-title': 'Math. Program.'}, {'issue': '4', 'key': '443_CR39', 'doi-asserted-by': 'crossref', 'first-page': '456', 'DOI': '10.2307/3151964', 'volume': '34', 'author': 'V Padmanabhan', 'year': '1997', 'unstructured': 'Padmanabhan, V., Rajiv, S., Srinivasan, K.: New products, upgrades, and new releases: a rationale for sequential product introduction. J. Mark. Res. 34(4), 456–472 (1997)', 'journal-title': 'J. Mark. Res.'}, {'issue': '4', 'key': '443_CR40', 'first-page': '3', 'volume': '30', 'author': 'WC Tan', 'year': '2007', 'unstructured': 'Tan, W.C.: Provenance in databases: past, current, and future. IEEE Data Eng. Bull. 30(4), 3–12 (2007)', 'journal-title': 'IEEE Data Eng. Bull.'}, {'issue': '3', 'key': '443_CR41', 'doi-asserted-by': 'crossref', 'first-page': '424', 'DOI': '10.1016/j.is.2005.12.001', 'volume': '32', 'author': 'Y Tao', 'year': '2007', 'unstructured': 'Tao, Y., Hristidis, V., Papadias, D., Papakonstantinou, Y.: Branch-and-bound processing of ranked queries. Inf. Syst. 32(3), 424–445 (2007)', 'journal-title': 'Inf. Syst.'}, {'key': '443_CR42', 'unstructured': 'Tran, Q.T., Chan, C.Y.: How to conquer why-not questions. In: SIGMOD, pp. 15–26 (2010)', 'DOI': '10.1145/1807167.1807172', 'doi-asserted-by': 'crossref'}, {'issue': '8', 'key': '443_CR43', 'doi-asserted-by': 'crossref', 'first-page': '1215', 'DOI': '10.1109/TKDE.2011.50', 'volume': '23', 'author': 'A Vlachou', 'year': '2011', 'unstructured': 'Vlachou, A., Doulkeridis, C., Kotidis, Y., Norvag, K.: Monochromatic and bichromatic reverse top-k queries. IEEE Trans. Knowl. Data Eng. 23(8), 1215–1229 (2011)', 'journal-title': 'IEEE Trans. Knowl. Data Eng.'}, {'key': '443_CR44', 'unstructured': 'Vlachou, A., Doulkeridis, C., Norvag, K.: Monitoring reverse top-k queries over mobile devices. In: MobiDE, pp. 17–24 (2011)', 'DOI': '10.1145/1999309.1999313', 'doi-asserted-by': 'crossref'}, {'key': '443_CR45', 'unstructured': 'Vlachou, A., Doulkeridis, C., Norvag, K., Kotidis, Y.: Identifying the most influential data objects with reverse top-k queries. In: VLDB, pp. 364–372 (2010)'}, {'key': '443_CR46', 'unstructured': 'Vlachou, A., Doulkeridis, C., Norvag, K., Kotidis, Y.: Branch-and-bound algorithm for reverse top-k queries. In: SIGMOD, pp. 481–492 (2013)', 'DOI': '10.1145/2463676.2465278', 'doi-asserted-by': 'crossref'}, {'key': '443_CR47', 'unstructured': 'Xie, M., Lakshmanan, L.V.S., Wood, P.T.: Efficient top-k query answering using cached views. In: EDBT, pp. 489–500 (2013)', 'DOI': '10.1145/2452376.2452433', 'doi-asserted-by': 'crossref'}, {'key': '443_CR48', 'unstructured': 'Xin, D., Chen, C., Han, J.: Towards robust indexing for ranked queries. In: VLDB, pp. 235–246 (2006)'}, {'key': '443_CR49', 'unstructured': 'Yu, A., Agarwal, P.K., Yang, J.: Processing a large number of continuous preference top-k queries. In: SIGMOD, pp. 397–408 (2012)'}, {'key': '443_CR50', 'unstructured': 'Zong, C., Yang, X., Wang, B., Zhang, J.: Minimizing explanations for missing answers to queries on databases. In: DASFAA, pp. 254–268 (2013)', 'DOI': '10.1007/978-3-642-37487-6_21', 'doi-asserted-by': 'crossref'}, {'key': '443_CR51', 'unstructured': 'Zou, L., Chen, L.: Dominant graph: An efficient indexing structure to answer top-k queries. In: ICDE, pp. 536–545 (2008)'}], 'container-title': ['The VLDB Journal'], 'language': 'en', 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/s00778-016-0443-4.pdf', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://link.springer.com/article/10.1007/s00778-016-0443-4/fulltext.html', 'content-type': 'text/html', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://link.springer.com/content/pdf/10.1007/s00778-016-0443-4.pdf', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 24]], 'date-time': '2017-06-24T21:59:00Z', 'timestamp': 1498341540000}, 'score': 102.16833, 'issued': {'date-parts': [[2016, 9, 3]]}, 'references-count': 51, 'journal-issue': {'published-print': {'date-parts': [[2016, 12]]}, 'issue': '6'}, 'alternative-id': ['443'], 'URL': 'http://dx.doi.org/10.1007/s00778-016-0443-4', 'relation': {'cites': []}, 'ISSN': ['1066-8888', '0949-877X'], 'issn-type': [{'value': '1066-8888', 'type': 'print'}, {'value': '0949-877X', 'type': 'electronic'}]}
+>>> hash >>> ('Answering why-not and why questions on reverse top-k queries', 2016.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Huang, J., Chen, T., Doan, A., Naughton. J.F.: On the provenance of non-answers to queries over extracted data. In: PVLDB, pp. 736â€“747 (2008)
+>>> DOI >>> 10.14778/1453856.1453936
+>>> URL >>> http://dx.doi.org/10.14778/1453856.1453936
+>>> year >>> 2008.0
+>>> title >>> On the provenance of non-answers to queries over extracted data
+>>> author >>> Jiansheng Huang and Ting Chen and AnHai Doan and Jeffrey F. Naughton
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 32.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:31:27Z', 'timestamp': 1525797087685}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2008, 8, 1]]}, 'DOI': '10.14778/1453856.1453936', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '736-747', 'source': 'Crossref', 'is-referenced-by-count': 32, 'title': ['On the provenance of non-answers to queries over extracted data'], 'prefix': '10.14778', 'volume': '1', 'author': [{'given': 'Jiansheng', 'family': 'Huang', 'sequence': 'first', 'affiliation': []}, {'given': 'Ting', 'family': 'Chen', 'sequence': 'additional', 'affiliation': []}, {'given': 'AnHai', 'family': 'Doan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jeffrey F.', 'family': 'Naughton', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:19:00Z', 'timestamp': 1403612340000}, 'score': 80.59688, 'issued': {'date-parts': [[2008, 8, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2008, 8, 1]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.14778/1453856.1453936', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('On the provenance of non-answers to queries over extracted data', 2008.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Herschel, M., HernÃ¡ndez, M.A.: Explaining missing answers to SPJUA queries. In: PVLDB, pp. 185â€“196 (2010)
+>>> DOI >>> 10.14778/1920841.1920869
+>>> URL >>> http://dx.doi.org/10.14778/1920841.1920869
+>>> year >>> 2010.0
+>>> title >>> Explaining missing answers to SPJUA queries
+>>> author >>> Melanie Herschel and Mauricio A. Hernández
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 22.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the VLDB Endowment']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 12]], 'date-time': '2018-05-12T07:02:29Z', 'timestamp': 1526108549438}, 'reference-count': 0, 'publisher': 'VLDB Endowment', 'issue': '1-2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Proc. VLDB Endow.'], 'published-print': {'date-parts': [[2010, 9, 1]]}, 'DOI': '10.14778/1920841.1920869', 'type': 'journal-article', 'created': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:17:57Z', 'timestamp': 1403612277000}, 'page': '185-196', 'source': 'Crossref', 'is-referenced-by-count': 22, 'title': ['Explaining missing answers to SPJUA queries'], 'prefix': '10.14778', 'volume': '3', 'author': [{'given': 'Melanie', 'family': 'Herschel', 'sequence': 'first', 'affiliation': []}, {'given': 'Mauricio A.', 'family': 'Hernández', 'sequence': 'additional', 'affiliation': []}], 'member': '5777', 'container-title': ['Proceedings of the VLDB Endowment'], 'language': 'en', 'deposited': {'date-parts': [[2014, 6, 24]], 'date-time': '2014-06-24T12:23:39Z', 'timestamp': 1403612619000}, 'score': 74.14755, 'issued': {'date-parts': [[2010, 9, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2010, 9, 1]]}, 'issue': '1-2'}, 'URL': 'http://dx.doi.org/10.14778/1920841.1920869', 'ISSN': ['2150-8097'], 'issn-type': [{'value': '2150-8097', 'type': 'print'}]}
+>>> hash >>> ('Explaining missing answers to SPJUA queries', 2010.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> He, Z., Lo, E.: Answering why-not questions on top-k queries. In: ICDE, pp. 750â€“761 (2012)
+>>> DOI >>> 10.1109/icde.2012.8
+>>> URL >>> http://dx.doi.org/10.1109/icde.2012.8
+>>> year >>> 2012.0
+>>> title >>> Answering Why-not Questions on Top-k Queries
+>>> author >>> Zhian He and Eric Lo
+>>> reference_count >>> 22.0
+>>> is_referenced_by_count >>> 22.0
+>>> subject >>> None
+>>> container_title >>> ['2012 IEEE 28th International Conference on Data Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 12]], 'date-time': '2018-05-12T07:02:29Z', 'timestamp': 1526108549467}, 'reference-count': 22, 'publisher': 'IEEE', 'isbn-type': [{'value': '9781467300421', 'type': 'print'}, {'value': '9780769547473', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2012, 4]]}, 'DOI': '10.1109/icde.2012.8', 'type': 'proceedings-article', 'created': {'date-parts': [[2012, 7, 10]], 'date-time': '2012-07-10T21:38:33Z', 'timestamp': 1341956313000}, 'source': 'Crossref', 'is-referenced-by-count': 22, 'title': ['Answering Why-not Questions on Top-k Queries'], 'prefix': '10.1109', 'author': [{'given': 'Zhian', 'family': 'He', 'sequence': 'first', 'affiliation': []}, {'given': 'Eric', 'family': 'Lo', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '2012 IEEE International Conference on Data Engineering (ICDE 2012)', 'location': 'Arlington, VA, USA', 'start': {'date-parts': [[2012, 4, 1]]}, 'end': {'date-parts': [[2012, 4, 5]]}}, 'container-title': ['2012 IEEE 28th International Conference on Data Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/6226952/6228063/06228130.pdf?arnumber=6228130', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 20]], 'date-time': '2017-06-20T21:11:30Z', 'timestamp': 1497993090000}, 'score': 57.876232, 'issued': {'date-parts': [[2012, 4]]}, 'ISBN': ['9780769547473', '9781467300421'], 'references-count': 22, 'URL': 'http://dx.doi.org/10.1109/icde.2012.8'}
+>>> hash >>> ('Answering Why-not Questions on Top-k Queries', 2012.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Chapman, A., Jagadish, H.V.: Why notâ€˜?â€™. In: SIGMOD, pp. 523â€“534 (2009)
+>>> DOI >>> 10.1145/1559845.1559901
+>>> URL >>> http://dx.doi.org/10.1145/1559845.1559901
+>>> year >>> 2009.0
+>>> title >>> Why not?
+>>> author >>> Adriane Chapman and H. V. Jagadish
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 37.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 35th SIGMOD international conference on Management of data - SIGMOD '09"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database177.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T02:10:44Z', 'timestamp': 1525486244001}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '9781605585512', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2009]]}, 'DOI': '10.1145/1559845.1559901', 'type': 'proceedings-article', 'created': {'date-parts': [[2009, 7, 8]], 'date-time': '2009-07-08T17:34:19Z', 'timestamp': 1247074459000}, 'source': 'Crossref', 'is-referenced-by-count': 37, 'title': ['Why not?'], 'prefix': '10.1145', 'author': [{'given': 'Adriane', 'family': 'Chapman', 'sequence': 'first', 'affiliation': []}, {'given': 'H. V.', 'family': 'Jagadish', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 35th SIGMOD international conference', 'location': 'Providence, Rhode Island, USA', 'sponsor': ['ACM, Association for Computing Machinery', 'SIGMOD, ACM Special Interest Group on Management of Data'], 'acronym': "SIGMOD '09", 'number': '35', 'start': {'date-parts': [[2009, 6, 29]]}, 'end': {'date-parts': [[2009, 7, 2]]}}, 'container-title': ["Proceedings of the 35th SIGMOD international conference on Management of data - SIGMOD '09"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1559901&amp;ftid=627767&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 6]], 'date-time': '2016-12-06T22:59:07Z', 'timestamp': 1481065147000}, 'score': 43.981144, 'issued': {'date-parts': [[2009]]}, 'ISBN': ['9781605585512'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1559845.1559901'}
+>>> hash >>> ('Why not?', 2009.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

@@ -1,0 +1,481 @@
+>>> NEW PAPER <<<
+>>> citation >>> Ferrie, P., Ször, P.: Zmist opportunities. Virus Bullettin (March 2001)
+>>> DOI >>> 10.1177/1971400903016006100
+>>> URL >>> http://dx.doi.org/10.1177/1971400903016006100
+>>> year >>> 2003.0
+>>> title >>> The SNR Daily Bullettin 1397
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Rivista di Neuroradiologia']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 15]], 'date-time': '2018-04-15T02:51:32Z', 'timestamp': 1523760692019}, 'reference-count': 0, 'publisher': 'SAGE Publications', 'issue': '6', 'license': [{'URL': 'http://journals.sagepub.com/page/policies/text-and-data-mining-license', 'start': {'date-parts': [[2003, 12, 1]], 'date-time': '2003-12-01T00:00:00Z', 'timestamp': 1070236800000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Rivista di Neuroradiologia'], 'published-print': {'date-parts': [[2003, 12]]}, 'DOI': '10.1177/1971400903016006100', 'type': 'journal-article', 'created': {'date-parts': [[2015, 4, 22]], 'date-time': '2015-04-22T21:39:43Z', 'timestamp': 1429738783000}, 'page': '1397-1403', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['The SNR Daily Bullettin 1397'], 'prefix': '10.1177', 'volume': '16', 'member': '179', 'published-online': {'date-parts': [[2016, 8, 27]]}, 'container-title': ['Rivista di Neuroradiologia'], 'language': 'en', 'link': [{'URL': 'http://journals.sagepub.com/doi/pdf/10.1177/1971400903016006100', 'content-type': 'application/pdf', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://journals.sagepub.com/doi/pdf/10.1177/1971400903016006100', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 1, 3]], 'date-time': '2018-01-03T06:44:01Z', 'timestamp': 1514961841000}, 'score': 21.31593, 'issued': {'date-parts': [[2003, 12]]}, 'references-count': 0, 'journal-issue': {'published-online': {'date-parts': [[2016, 8, 27]]}, 'published-print': {'date-parts': [[2003, 12]]}, 'issue': '6'}, 'alternative-id': ['10.1177/1971400903016006100'], 'URL': 'http://dx.doi.org/10.1177/1971400903016006100', 'ISSN': ['1120-9976'], 'issn-type': [{'value': '1120-9976', 'type': 'print'}]}
+>>> hash >>> ('The SNR Daily Bullettin 1397', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Collberg, C., Thomborson, C., Low, D.: A taxonomy of obfuscating transformations. Technical Report 148, Department of Computer Science, University of Auckland (July 1997)
+>>> DOI >>> 10.1109/iccl.1998.674154
+>>> URL >>> http://dx.doi.org/10.1109/iccl.1998.674154
+>>> year >>> None
+>>> title >>> Breaking abstractions and unstructuring data structures
+>>> author >>> C. Collberg and C. Thomborson and D. Low
+>>> reference_count >>> 21.0
+>>> is_referenced_by_count >>> 39.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings of the 1998 International Conference on Computer Languages (Cat. No.98CB36225)']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T12:13:33Z', 'timestamp': 1525349613451}, 'reference-count': 21, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0818684542', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/iccl.1998.674154', 'type': 'proceedings-article', 'created': {'date-parts': [[2002, 11, 27]], 'date-time': '2002-11-27T16:45:36Z', 'timestamp': 1038415536000}, 'source': 'Crossref', 'is-referenced-by-count': 39, 'title': ['Breaking abstractions and unstructuring data structures'], 'prefix': '10.1109', 'author': [{'given': 'C.', 'family': 'Collberg', 'sequence': 'first', 'affiliation': []}, {'given': 'C.', 'family': 'Thomborson', 'sequence': 'additional', 'affiliation': []}, {'given': 'D.', 'family': 'Low', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '1998 International Conference on Computer Languages (Cat. No.98CB36225)', 'location': 'Chicago, IL, USA', 'acronym': 'ICCL-98'}, 'container-title': ['Proceedings of the 1998 International Conference on Computer Languages (Cat. No.98CB36225)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx4/5516/14813/00674154.pdf?arnumber=674154', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T15:18:15Z', 'timestamp': 1497539895000}, 'score': 38.93152, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0818684542'], 'references-count': 21, 'URL': 'http://dx.doi.org/10.1109/iccl.1998.674154'}
+>>> hash >>> ('Breaking abstractions and unstructuring data structures', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Christodorescu, M., Jha, S.: Static analysis of executables to detect malicious patterns. In: Proceedings of USENIX Security Symposium (August 2003)
+>>> DOI >>> 10.21236/ada449067
+>>> URL >>> http://dx.doi.org/10.21236/ada449067
+>>> year >>> 2006.0
+>>> title >>> Static Analysis of Executables to Detect Malicious Patterns
+>>> author >>> Mihai Christodorescu and Somesh Jha
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 10.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'institution': {'name': 'US Dept of the Navy', 'place': ['-', '-'], 'department': ['Funding', 'Performing'], 'acronym': ['ONR', '-']}, 'indexed': {'date-parts': [[2018, 5, 7]], 'date-time': '2018-05-07T19:28:51Z', 'timestamp': 1525721331099}, 'publisher-location': 'Fort Belvoir, VA', 'reference-count': 0, 'publisher': 'Defense Technical Information Center', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006, 1, 1]]}, 'DOI': '10.21236/ada449067', 'type': 'report', 'created': {'date-parts': [[2017, 7, 28]], 'date-time': '2017-07-28T14:40:54Z', 'timestamp': 1501252854000}, 'source': 'Crossref', 'is-referenced-by-count': 10, 'title': ['Static Analysis of Executables to Detect Malicious Patterns'], 'prefix': '10.21236', 'author': [{'given': 'Mihai', 'family': 'Christodorescu', 'sequence': 'first', 'affiliation': []}, {'given': 'Somesh', 'family': 'Jha', 'sequence': 'first', 'affiliation': []}], 'member': '9879', 'original-title': [''], 'deposited': {'date-parts': [[2017, 7, 28]], 'date-time': '2017-07-28T14:40:54Z', 'timestamp': 1501252854000}, 'score': 87.78788, 'subtitle': [''], 'issued': {'date-parts': [[2006, 1, 1]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.21236/ada449067'}
+>>> hash >>> ('Static Analysis of Executables to Detect Malicious Patterns', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Chess, D.M., White, S.R.: An undetectable computer virus. In: Proceedings of Virus Bulletin Conference (September 2000)
+>>> DOI >>> 10.1016/s1361-3723(98)90279-2
+>>> URL >>> http://dx.doi.org/10.1016/s1361-3723(98)90279-2
+>>> year >>> 1998.0
+>>> title >>> Virus bulletin international conference '98
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Fraud & Security']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:35:29Z', 'timestamp': 1525394129622}, 'reference-count': 0, 'publisher': 'Elsevier BV', 'issue': '10', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1998, 10, 1]], 'date-time': '1998-10-01T00:00:00Z', 'timestamp': 907200000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Fraud & Security'], 'published-print': {'date-parts': [[1998, 10]]}, 'DOI': '10.1016/s1361-3723(98)90279-2', 'type': 'journal-article', 'created': {'date-parts': [[2003, 12, 30]], 'date-time': '2003-12-30T11:00:20Z', 'timestamp': 1072782020000}, 'page': '20', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ["Virus bulletin international conference '98"], 'prefix': '10.1016', 'volume': '1998', 'member': '78', 'container-title': ['Computer Fraud & Security'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S1361372398902792?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S1361372398902792?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2015, 10, 6]], 'date-time': '2015-10-06T22:39:28Z', 'timestamp': 1444171168000}, 'score': 29.01827, 'issued': {'date-parts': [[1998, 10]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1998, 10]]}, 'issue': '10'}, 'alternative-id': ['S1361372398902792'], 'URL': 'http://dx.doi.org/10.1016/s1361-3723(98)90279-2', 'ISSN': ['1361-3723'], 'issn-type': [{'value': '1361-3723', 'type': 'print'}]}
+>>> hash >>> ("Virus bulletin international conference '98", 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Christodorescu, M., Jha, S., Seshia, S.A., Song, D., Bryant, R.E.: Semantics-aware malware detection. In: Proceedings of the 2005 IEEE Symposium on Security and Privacy (Oakland 2005), Oakland, CA, USA (May 2005)
+>>> DOI >>> 10.1109/sp.2005.20
+>>> URL >>> http://dx.doi.org/10.1109/sp.2005.20
+>>> year >>> None
+>>> title >>> Semantics-Aware Malware Detection
+>>> author >>> M. Christodorescu and S. Jha and S.A. Seshia and D. Song and R.E. Bryant
+>>> reference_count >>> 36.0
+>>> is_referenced_by_count >>> 191.0
+>>> subject >>> None
+>>> container_title >>> ["2005 IEEE Symposium on Security and Privacy (S&amp;P'05)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 10]], 'date-time': '2018-05-10T16:42:30Z', 'timestamp': 1525970550241}, 'reference-count': 36, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769523390', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/sp.2005.20', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 5, 24]], 'date-time': '2005-05-24T14:52:03Z', 'timestamp': 1116946323000}, 'source': 'Crossref', 'is-referenced-by-count': 191, 'title': ['Semantics-Aware Malware Detection'], 'prefix': '10.1109', 'author': [{'given': 'M.', 'family': 'Christodorescu', 'sequence': 'first', 'affiliation': []}, {'given': 'S.', 'family': 'Jha', 'sequence': 'additional', 'affiliation': []}, {'given': 'S.A.', 'family': 'Seshia', 'sequence': 'additional', 'affiliation': []}, {'given': 'D.', 'family': 'Song', 'sequence': 'additional', 'affiliation': []}, {'given': 'R.E.', 'family': 'Bryant', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2005 IEEE Symposium on Security and Privacy (S&amp;P'05)", 'location': 'Oakland, CA, USA'}, 'container-title': ["2005 IEEE Symposium on Security and Privacy (S&amp;P'05)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/9752/30765/01425057.pdf?arnumber=1425057', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T19:31:37Z', 'timestamp': 1497641497000}, 'score': 117.05773, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769523390'], 'references-count': 36, 'URL': 'http://dx.doi.org/10.1109/sp.2005.20'}
+>>> hash >>> ('Semantics-Aware Malware Detection', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kapoor, A.: An approach towards disassembly of malicious binaries. Master’s thesis, University of Louisiana at Lafayette (2004)
+>>> DOI >>> 10.1086/343361
+>>> URL >>> http://dx.doi.org/10.1086/343361
+>>> year >>> 2002.0
+>>> title >>> Lewis� Pyenson (Editor). Elegance, Beauty, and Truth. Lafayette: University of Louisiana at Lafayette, 2001.
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Isis']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T09:45:33Z', 'timestamp': 1525340733891}, 'reference-count': 0, 'publisher': 'University of Chicago Press', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Isis'], 'published-print': {'date-parts': [[2002, 3]]}, 'DOI': '10.1086/343361', 'type': 'journal-article', 'created': {'date-parts': [[2003, 4, 2]], 'date-time': '2003-04-02T22:06:55Z', 'timestamp': 1049321215000}, 'page': '176-176', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Lewis\xa0 Pyenson (Editor). Elegance, Beauty, and Truth. Lafayette: University of Louisiana at Lafayette, 2001.'], 'prefix': '10.1086', 'volume': '93', 'member': '200', 'container-title': ['Isis'], 'language': 'en', 'link': [{'URL': 'http://www.journals.uchicago.edu/doi/pdf/10.1086/343361', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2018, 4, 7]], 'date-time': '2018-04-07T02:29:35Z', 'timestamp': 1523068175000}, 'score': 30.165888, 'issued': {'date-parts': [[2002, 3]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2002, 3]]}, 'issue': '1'}, 'alternative-id': ['10.1086/343361'], 'URL': 'http://dx.doi.org/10.1086/343361', 'ISSN': ['0021-1753', '1545-6994'], 'issn-type': [{'value': '0021-1753', 'type': 'print'}, {'value': '1545-6994', 'type': 'electronic'}]}
+>>> hash >>> ('Lewis\xa0 Pyenson (Editor). Elegance, Beauty, and Truth. Lafayette: University of Louisiana at Lafayette, 2001.', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Christodorescu, M., Jha, S.: Testing malware detectors. In: Proceedings of the 2004 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2004), Boston, MA, USA, pp. 34–44. ACM Press, New York (2004)
+>>> DOI >>> 10.1145/1007512.1007518
+>>> URL >>> http://dx.doi.org/10.1145/1007512.1007518
+>>> year >>> 2004.0
+>>> title >>> Testing malware detectors
+>>> author >>> Mihai Christodorescu and Somesh Jha
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 54.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2004 ACM SIGSOFT international symposium on Software testing and analysis  - ISSTA '04"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 22]], 'date-time': '2018-05-22T14:42:43Z', 'timestamp': 1527000163109}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'isbn-type': [{'value': '1581138202', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1145/1007512.1007518', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 7, 20]], 'date-time': '2004-07-20T15:55:38Z', 'timestamp': 1090338938000}, 'source': 'Crossref', 'is-referenced-by-count': 54, 'title': ['Testing malware detectors'], 'prefix': '10.1145', 'author': [{'given': 'Mihai', 'family': 'Christodorescu', 'sequence': 'first', 'affiliation': []}, {'given': 'Somesh', 'family': 'Jha', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 2004 ACM SIGSOFT international symposium', 'location': 'Boston, Massachusetts, USA', 'sponsor': ['SIGSOFT, ACM Special Interest Group on Software Engineering', 'ACM, Association for Computing Machinery'], 'acronym': "ISSTA '04", 'start': {'date-parts': [[2004, 7, 11]]}, 'end': {'date-parts': [[2004, 7, 14]]}}, 'container-title': ["Proceedings of the 2004 ACM SIGSOFT international symposium on Software testing and analysis  - ISSTA '04"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=1007518&amp;ftid=275667&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T08:24:05Z', 'timestamp': 1481876645000}, 'score': 127.658, 'issued': {'date-parts': [[2004]]}, 'ISBN': ['1581138202'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/1007512.1007518'}
+>>> hash >>> ('Testing malware detectors', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ször, P., Ferrie, P.: Hunting for metamorphic. In: Proceedings of Virus Bulletin Conference (September 2001)
+>>> DOI >>> 10.1007/s10160-001-0106-1
+>>> URL >>> http://dx.doi.org/10.1007/s10160-001-0106-1
+>>> year >>> 2001.0
+>>> title >>> Supplement: Economic Indicators�Economic Bulletin No. 9, September 2001 (data as of 5 September 2001)
+>>> author >>> Not Available Not Available
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Economic Bulletin']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T10:06:50Z', 'timestamp': 1525342010092}, 'reference-count': 0, 'publisher': 'Springer Nature', 'issue': '9', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Economic Bulletin'], 'published-print': {'date-parts': [[2001, 9, 1]]}, 'DOI': '10.1007/s10160-001-0106-1', 'type': 'journal-article', 'created': {'date-parts': [[2002, 10, 15]], 'date-time': '2002-10-15T14:53:15Z', 'timestamp': 1034693595000}, 'page': '299-302', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Supplement: Economic Indicators�Economic Bulletin No. 9, September 2001 (data as of 5 September 2001)'], 'prefix': '10.1007', 'volume': '38', 'author': [{'given': 'Not Available', 'family': 'Not Available', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Economic Bulletin'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/s10160-001-0106-1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 3, 10]], 'date-time': '2016-03-10T08:44:26Z', 'timestamp': 1457599466000}, 'score': 22.56221, 'issued': {'date-parts': [[2001, 9, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[2001, 9, 1]]}, 'issue': '9'}, 'alternative-id': ['UKH3DWTKEW6U5NQY'], 'URL': 'http://dx.doi.org/10.1007/s10160-001-0106-1', 'ISSN': ['0343-754X', '1438-261X'], 'issn-type': [{'value': '0343-754X', 'type': 'print'}, {'value': '1438-261X', 'type': 'electronic'}]}
+>>> hash >>> ('Supplement: Economic Indicators�Economic Bulletin No. 9, September 2001 (data as of 5 September 2001)', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Krügel, C., Kirda, E., Mutz, D., Robertson, W., Vigna, G.: Polymorphic worm detection using structural information of executables. In: Valdes, A., Zamboni, D. (eds.) RAID 2005. LNCS, vol. 3858, pp. 207–226. Springer, Heidelberg (2006)
+>>> DOI >>> 10.1007/11663812_11
+>>> URL >>> http://dx.doi.org/10.1007/11663812_11
+>>> year >>> 2006.0
+>>> title >>> Polymorphic Worm Detection Using Structural Information of Executables
+>>> author >>> Christopher Kruegel and Engin Kirda and Darren Mutz and William Robertson and Giovanni Vigna
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 26.0
+>>> subject >>> None
+>>> container_title >>> ['Lecture Notes in Computer Science', 'Recent Advances in Intrusion Detection']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:51:41Z', 'timestamp': 1525485101499}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540317784', 'type': 'print'}, {'value': '9783540317791', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2006]]}, 'DOI': '10.1007/11663812_11', 'type': 'book-chapter', 'created': {'date-parts': [[2006, 1, 20]], 'date-time': '2006-01-20T12:57:08Z', 'timestamp': 1137761828000}, 'page': '207-226', 'source': 'Crossref', 'is-referenced-by-count': 26, 'title': ['Polymorphic Worm Detection Using Structural Information of Executables'], 'prefix': '10.1007', 'author': [{'given': 'Christopher', 'family': 'Kruegel', 'sequence': 'first', 'affiliation': []}, {'given': 'Engin', 'family': 'Kirda', 'sequence': 'additional', 'affiliation': []}, {'given': 'Darren', 'family': 'Mutz', 'sequence': 'additional', 'affiliation': []}, {'given': 'William', 'family': 'Robertson', 'sequence': 'additional', 'affiliation': []}, {'given': 'Giovanni', 'family': 'Vigna', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Lecture Notes in Computer Science', 'Recent Advances in Intrusion Detection'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/11663812_11', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T15:44:22Z', 'timestamp': 1389023062000}, 'score': 93.16799, 'issued': {'date-parts': [[2006]]}, 'ISBN': ['9783540317784', '9783540317791'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/11663812_11', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Polymorphic Worm Detection Using Structural Information of Executables', 2006.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Muchnick, S.S.: Advanced compiler design and implementation. Morgan Kaufmann Publishers Inc., San Francisco (1997)
+>>> DOI >>> 10.21236/ad0711369
+>>> URL >>> http://dx.doi.org/10.21236/ad0711369
+>>> year >>> 1970.0
+>>> title >>> USER'S MANUAL COBOL COMPILER VALIDATION SYSTEM
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'institution': {'name': 'US Dept of the Air Force', 'place': ['-', '-'], 'department': ['Funding', 'Performing'], 'acronym': ['TR-70-274', '-']}, 'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T00:08:27Z', 'timestamp': 1525738107434}, 'publisher-location': 'Fort Belvoir, VA', 'reference-count': 0, 'publisher': 'Defense Technical Information Center', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1970, 7, 1]]}, 'DOI': '10.21236/ad0711369', 'type': 'report', 'created': {'date-parts': [[2017, 9, 18]], 'date-time': '2017-09-18T14:25:21Z', 'timestamp': 1505744721000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ["USER'S MANUAL COBOL COMPILER VALIDATION SYSTEM"], 'prefix': '10.21236', 'author': [{'family': 'INFORMATION MANAGEMENT INC SAN FRANCISCO CA', 'sequence': 'first', 'affiliation': []}], 'member': '9879', 'original-title': [''], 'deposited': {'date-parts': [[2017, 9, 18]], 'date-time': '2017-09-18T14:25:22Z', 'timestamp': 1505744722000}, 'score': 40.260567, 'subtitle': [''], 'issued': {'date-parts': [[1970, 7, 1]]}, 'references-count': 0, 'alternative-id': ['ESD-TR-70-274'], 'URL': 'http://dx.doi.org/10.21236/ad0711369'}
+>>> hash >>> ("USER'S MANUAL COBOL COMPILER VALIDATION SYSTEM", 1970.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> C. Associates. Security advisor center glossary, http://www3.ca.com/securityadvisor/glossary.aspx
+>>> DOI >>> 10.1016/b978-0-12-800899-7.00015-x
+>>> URL >>> http://dx.doi.org/10.1016/b978-0-12-800899-7.00015-x
+>>> year >>> 2015.0
+>>> title >>> Glossary
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Designing and Building Security Operations Center']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 14]], 'date-time': '2018-04-14T10:19:04Z', 'timestamp': 1523701144025}, 'reference-count': 0, 'publisher': 'Elsevier', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2015, 1, 1]], 'date-time': '2015-01-01T00:00:00Z', 'timestamp': 1420070400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2015]]}, 'DOI': '10.1016/b978-0-12-800899-7.00015-x', 'type': 'book-chapter', 'created': {'date-parts': [[2014, 11, 15]], 'date-time': '2014-11-15T20:25:45Z', 'timestamp': 1416083145000}, 'page': '255-256', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Glossary'], 'prefix': '10.1016', 'member': '78', 'container-title': ['Designing and Building Security Operations Center'], 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:B978012800899700015X?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:B978012800899700015X?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2014, 11, 15]], 'date-time': '2014-11-15T20:25:45Z', 'timestamp': 1416083145000}, 'score': 34.40524, 'issued': {'date-parts': [[2015]]}, 'ISBN': ['9780128008997'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1016/b978-0-12-800899-7.00015-x'}
+>>> hash >>> ('Glossary', 2015.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Bruschi, D., Martignoni, L., Monga, M.: Using code normalization for fighting self-mutating malware. In: Proceedings of the International Symposium of Secure Software Engineering, Arlington, VA. IEEE Computer Society, Los Alamitos (2006)
+>>> DOI >>> 10.1109/msp.2007.31
+>>> URL >>> http://dx.doi.org/10.1109/msp.2007.31
+>>> year >>> 2007.0
+>>> title >>> Code Normalization for Self-Mutating Malware
+>>> author >>> Danilo Bruschi and Lorenzo Martignoni and Mattia Monga
+>>> reference_count >>> 18.0
+>>> is_referenced_by_count >>> 28.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Security and Privacy Magazine']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T15:15:34Z', 'timestamp': 1525360534461}, 'reference-count': 18, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IEEE Secur. Privacy Mag.'], 'published-print': {'date-parts': [[2007, 3]]}, 'DOI': '10.1109/msp.2007.31', 'type': 'journal-article', 'created': {'date-parts': [[2007, 4, 17]], 'date-time': '2007-04-17T19:38:58Z', 'timestamp': 1176838738000}, 'page': '46-54', 'source': 'Crossref', 'is-referenced-by-count': 28, 'title': ['Code Normalization for Self-Mutating Malware'], 'prefix': '10.1109', 'volume': '5', 'author': [{'given': 'Danilo', 'family': 'Bruschi', 'sequence': 'first', 'affiliation': []}, {'given': 'Lorenzo', 'family': 'Martignoni', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mattia', 'family': 'Monga', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Security and Privacy Magazine'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8013/4140976/04140990.pdf?arnumber=4140990', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 16]], 'date-time': '2017-03-16T00:20:34Z', 'timestamp': 1489623634000}, 'score': 85.27009, 'issued': {'date-parts': [[2007, 3]]}, 'references-count': 18, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1109/msp.2007.31', 'ISSN': ['1540-7993'], 'issn-type': [{'value': '1540-7993', 'type': 'print'}]}
+>>> hash >>> ('Code Normalization for Self-Mutating Malware', 2007.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Debray, S.K., Evans, W., Muth, R., Sutter, B.D.: Compiler techniques for code compaction. ACM Trans. Program. Lang. Syst. 22(2), 378–415 (2000)
+>>> DOI >>> 10.1145/349214.349233
+>>> URL >>> http://dx.doi.org/10.1145/349214.349233
+>>> year >>> 2000.0
+>>> title >>> Compiler techniques for code compaction
+>>> author >>> Saumya K. Debray and William Evans and Robert Muth and Bjorn De Sutter
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 66.0
+>>> subject >>> None
+>>> container_title >>> ['ACM Transactions on Programming Languages and Systems']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T09:51:19Z', 'timestamp': 1525341079997}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '2', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['ACM Trans. Program. Lang. Syst.', 'TOPLAS'], 'published-print': {'date-parts': [[2000, 3, 1]]}, 'DOI': '10.1145/349214.349233', 'type': 'journal-article', 'created': {'date-parts': [[2002, 10, 7]], 'date-time': '2002-10-07T13:52:47Z', 'timestamp': 1033998767000}, 'page': '378-415', 'source': 'Crossref', 'is-referenced-by-count': 66, 'title': ['Compiler techniques for code compaction'], 'prefix': '10.1145', 'volume': '22', 'author': [{'given': 'Saumya K.', 'family': 'Debray', 'sequence': 'first', 'affiliation': []}, {'given': 'William', 'family': 'Evans', 'sequence': 'additional', 'affiliation': []}, {'given': 'Robert', 'family': 'Muth', 'sequence': 'additional', 'affiliation': []}, {'given': 'Bjorn', 'family': 'De Sutter', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'container-title': ['ACM Transactions on Programming Languages and Systems'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=349233&amp;ftid=56128&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T00:03:56Z', 'timestamp': 1481846636000}, 'score': 104.38874, 'issued': {'date-parts': [[2000, 3, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '2'}, 'URL': 'http://dx.doi.org/10.1145/349214.349233', 'ISSN': ['0164-0925'], 'issn-type': [{'value': '0164-0925', 'type': 'print'}]}
+>>> hash >>> ('Compiler techniques for code compaction', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Lakhotia, A., Kumar, E.U., Venable, M.: A method for detecting obfuscated calls in malicious binaries. IEEE Transactions on Software Engineering 31(11), 955–968 (2005)
+>>> DOI >>> 10.1109/tse.2005.120
+>>> URL >>> http://dx.doi.org/10.1109/tse.2005.120
+>>> year >>> 2005.0
+>>> title >>> A method for detecting obfuscated calls in malicious binaries
+>>> author >>> None
+>>> reference_count >>> 27.0
+>>> is_referenced_by_count >>> 22.0
+>>> subject >>> None
+>>> container_title >>> ['IEEE Transactions on Software Engineering']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:01:07Z', 'timestamp': 1525482067543}, 'reference-count': 27, 'publisher': 'Institute of Electrical and Electronics Engineers (IEEE)', 'issue': '11', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['IIEEE Trans. Software Eng.'], 'published-print': {'date-parts': [[2005, 11]]}, 'DOI': '10.1109/tse.2005.120', 'type': 'journal-article', 'created': {'date-parts': [[2005, 12, 13]], 'date-time': '2005-12-13T20:54:19Z', 'timestamp': 1134507259000}, 'page': '955-968', 'source': 'Crossref', 'is-referenced-by-count': 22, 'title': ['A method for detecting obfuscated calls in malicious binaries'], 'prefix': '10.1109', 'volume': '31', 'author': [{'family': 'Arun Lakhotia', 'sequence': 'first', 'affiliation': []}, {'family': 'Eric Uday Kumar', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Venable', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'container-title': ['IEEE Transactions on Software Engineering'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/32/33105/01556554.pdf?arnumber=1556554', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 11, 14]], 'date-time': '2017-11-14T13:03:30Z', 'timestamp': 1510664610000}, 'score': 110.567276, 'issued': {'date-parts': [[2005, 11]]}, 'references-count': 27, 'journal-issue': {'issue': '11'}, 'URL': 'http://dx.doi.org/10.1109/tse.2005.120', 'ISSN': ['0098-5589'], 'issn-type': [{'value': '0098-5589', 'type': 'print'}]}
+>>> hash >>> ('A method for detecting obfuscated calls in malicious binaries', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Newsome, J., Karp, B., Song, D.X.: Polygraph: Automatically generating signatures for polymorphic worms. In: IEEE Symposium on Security and Privacy, pp. 226–241 (2005)
+>>> DOI >>> 10.1109/sp.2005.15
+>>> URL >>> http://dx.doi.org/10.1109/sp.2005.15
+>>> year >>> None
+>>> title >>> Polygraph: Automatically Generating Signatures for Polymorphic Worms
+>>> author >>> J. Newsome and B. Karp and D. Song
+>>> reference_count >>> 28.0
+>>> is_referenced_by_count >>> 187.0
+>>> subject >>> None
+>>> container_title >>> ["2005 IEEE Symposium on Security and Privacy (S&amp;P'05)"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T15:22:39Z', 'timestamp': 1527780159518}, 'reference-count': 28, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769523390', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/sp.2005.15', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 5, 24]], 'date-time': '2005-05-24T14:52:03Z', 'timestamp': 1116946323000}, 'source': 'Crossref', 'is-referenced-by-count': 187, 'title': ['Polygraph: Automatically Generating Signatures for Polymorphic Worms'], 'prefix': '10.1109', 'author': [{'given': 'J.', 'family': 'Newsome', 'sequence': 'first', 'affiliation': []}, {'given': 'B.', 'family': 'Karp', 'sequence': 'additional', 'affiliation': []}, {'given': 'D.', 'family': 'Song', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': "2005 IEEE Symposium on Security and Privacy (S&amp;P'05)", 'location': 'Oakland, CA, USA'}, 'container-title': ["2005 IEEE Symposium on Security and Privacy (S&amp;P'05)"], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/9752/30765/01425070.pdf?arnumber=1425070', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T19:31:37Z', 'timestamp': 1497641497000}, 'score': 112.672646, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769523390'], 'references-count': 28, 'URL': 'http://dx.doi.org/10.1109/sp.2005.15'}
+>>> hash >>> ('Polygraph: Automatically Generating Signatures for Polymorphic Worms', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Pearce, S.: Viral polymorphism. Sans Institute (2003)
+>>> DOI >>> 10.1007/978-1-4419-9260-4_5
+>>> URL >>> http://dx.doi.org/10.1007/978-1-4419-9260-4_5
+>>> year >>> 2003.0
+>>> title >>> The Role of Viral Infections During Neurodevelopment
+>>> author >>> Bradley D. Pearce
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Can a Virus Cause Schizophrenia?', 'Neurobiological Foundation of Aberrant Behaviors']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T13:05:08Z', 'timestamp': 1525439108617}, 'publisher-location': 'Boston, MA', 'reference-count': 0, 'publisher': 'Springer US', 'isbn-type': [{'value': '9781461348634', 'type': 'print'}, {'value': '9781441992604', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.1007/978-1-4419-9260-4_5', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 9, 15]], 'date-time': '2011-09-15T06:55:01Z', 'timestamp': 1316069701000}, 'page': '99-118', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['The Role of Viral Infections During Neurodevelopment'], 'prefix': '10.1007', 'author': [{'given': 'Bradley D.', 'family': 'Pearce', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Can a Virus Cause Schizophrenia?', 'Neurobiological Foundation of Aberrant Behaviors'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-1-4419-9260-4_5', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 8]], 'date-time': '2014-01-08T18:46:22Z', 'timestamp': 1389206782000}, 'score': 21.525421, 'issued': {'date-parts': [[2003]]}, 'ISBN': ['9781461348634', '9781441992604'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-1-4419-9260-4_5', 'ISSN': ['1568-2625'], 'issn-type': [{'value': '1568-2625', 'type': 'print'}]}
+>>> hash >>> ('The Role of Viral Infections During Neurodevelopment', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Cohen, F.B.: A Short Course on Computer Viruses. Wiley Professional Computing, Chichester (1994)
+>>> DOI >>> 10.1016/0142-0496(91)90211-m
+>>> URL >>> http://dx.doi.org/10.1016/0142-0496(91)90211-m
+>>> year >>> 1991.0
+>>> title >>> A short course on computer viruses
+>>> author >>> Frederick B. Cohen and Harold J. Highland and Jon David
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 6.0
+>>> subject >>> None
+>>> container_title >>> ['Computer Fraud & Security Bulletin']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T08:46:10Z', 'timestamp': 1525337170508}, 'reference-count': 0, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1991, 1, 1]], 'date-time': '1991-01-01T00:00:00Z', 'timestamp': 662688000000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Computer Fraud & Security Bulletin'], 'published-print': {'date-parts': [[1991, 1]]}, 'DOI': '10.1016/0142-0496(91)90211-m', 'type': 'journal-article', 'created': {'date-parts': [[2002, 10, 11]], 'date-time': '2002-10-11T13:45:53Z', 'timestamp': 1034343953000}, 'page': '17-18', 'source': 'Crossref', 'is-referenced-by-count': 6, 'title': ['A short course on computer viruses'], 'prefix': '10.1016', 'volume': '1991', 'author': [{'given': 'Frederick B.', 'family': 'Cohen', 'sequence': 'first', 'affiliation': []}, {'given': 'Harold J.', 'family': 'Highland', 'sequence': 'additional', 'affiliation': []}, {'given': 'Jon', 'family': 'David', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Computer Fraud & Security Bulletin'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:014204969190211M?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:014204969190211M?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2016, 6, 17]], 'date-time': '2016-06-17T18:59:51Z', 'timestamp': 1466189991000}, 'score': 30.053658, 'issued': {'date-parts': [[1991, 1]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1991, 1]]}, 'issue': '1'}, 'alternative-id': ['014204969190211M'], 'URL': 'http://dx.doi.org/10.1016/0142-0496(91)90211-m', 'ISSN': ['0142-0496'], 'issn-type': [{'value': '0142-0496', 'type': 'print'}]}
+>>> hash >>> ('A short course on computer viruses', 1991.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Linn, C., Debray, S.: Obfuscation of executable code to improve resistance to static disassembly. In: CCS 2003: Proceedings of the 10th ACM conference on Computer and communications security, pp. 290–299. ACM Press, New York (2003)
+>>> DOI >>> 10.1145/948148.948149
+>>> URL >>> http://dx.doi.org/10.1145/948148.948149
+>>> year >>> 2003.0
+>>> title >>> Obfuscation of executable code to improve resistance to static disassembly
+>>> author >>> Cullen Linn and Saumya Debray
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 120.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 10th ACM conference on Computer and communication security  - CCS '03"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 14]], 'date-time': '2018-05-14T14:22:31Z', 'timestamp': 1526307751610}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.1145/948148.948149', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 2, 3]], 'date-time': '2004-02-03T15:21:59Z', 'timestamp': 1075821719000}, 'source': 'Crossref', 'is-referenced-by-count': 120, 'title': ['Obfuscation of executable code to improve resistance to static disassembly'], 'prefix': '10.1145', 'author': [{'given': 'Cullen', 'family': 'Linn', 'sequence': 'first', 'affiliation': []}, {'given': 'Saumya', 'family': 'Debray', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the 10th ACM conference', 'location': 'Washington D.C., USA', 'sponsor': ['ACM, Association for Computing Machinery'], 'acronym': "CCS '03", 'number': '10', 'start': {'date-parts': [[2003, 10, 27]]}, 'end': {'date-parts': [[2003, 10, 30]]}}, 'container-title': ["Proceedings of the 10th ACM conference on Computer and communication security  - CCS '03"], 'deposited': {'date-parts': [[2015, 4, 9]], 'date-time': '2015-04-09T23:53:03Z', 'timestamp': 1428623583000}, 'score': 118.76458, 'issued': {'date-parts': [[2003]]}, 'ISBN': ['1581137389'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/948148.948149'}
+>>> hash >>> ('Obfuscation of executable code to improve resistance to static disassembly', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Kruegel, C., Robertson, W., Valeur, F., Vigna, G.: Static disassembly of obfuscated binaries. In: Proceedings of USENIX Security 2004, San Diego, CA, pp. 255–270 (August 2004)
+>>> DOI >>> 10.1109/csac.2004.19
+>>> URL >>> http://dx.doi.org/10.1109/csac.2004.19
+>>> year >>> None
+>>> title >>> Detecting Kernel-Level Rootkits Through Binary Analysis
+>>> author >>> C. Kruegel and W. Robertson and G. Vigna
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 45.0
+>>> subject >>> None
+>>> container_title >>> ['20th Annual Computer Security Applications Conference']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 6]], 'date-time': '2018-06-06T01:22:34Z', 'timestamp': 1528248154305}, 'reference-count': 17, 'publisher': 'IEEE', 'isbn-type': [{'value': '0769522521', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/csac.2004.19', 'type': 'proceedings-article', 'created': {'date-parts': [[2005, 4, 6]], 'date-time': '2005-04-06T15:12:58Z', 'timestamp': 1112800378000}, 'source': 'Crossref', 'is-referenced-by-count': 45, 'title': ['Detecting Kernel-Level Rootkits Through Binary Analysis'], 'prefix': '10.1109', 'author': [{'given': 'C.', 'family': 'Kruegel', 'sequence': 'first', 'affiliation': []}, {'given': 'W.', 'family': 'Robertson', 'sequence': 'additional', 'affiliation': []}, {'given': 'G.', 'family': 'Vigna', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': '20th Annual Computer Security Applications Conference', 'location': 'Tucson, AZ, USA'}, 'container-title': ['20th Annual Computer Security Applications Conference'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/9473/30059/01377219.pdf?arnumber=1377219', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 14]], 'date-time': '2017-03-14T03:26:25Z', 'timestamp': 1489461985000}, 'score': 41.034683, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769522521'], 'references-count': 17, 'URL': 'http://dx.doi.org/10.1109/csac.2004.19'}
+>>> hash >>> ('Detecting Kernel-Level Rootkits Through Binary Analysis', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Aho, A.V., Sethi, R., Ullman, J.D.: Compilers: Principles, Techniques and Tools. Addison-Wesley, Reading (1986)
+>>> DOI >>> 10.1002/net.3230150111
+>>> URL >>> http://dx.doi.org/10.1002/net.3230150111
+>>> year >>> 1985.0
+>>> title >>> Data structures and algorithms, by A. Aho, J. Hopcroft, and J. Ullman, Addison-Wesley, Reading, Mass., 1983, 427 pp. Price: $28.85
+>>> author >>> Dan Gusfield
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Networks']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database111.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T16:17:16Z', 'timestamp': 1525364236604}, 'reference-count': 0, 'publisher': 'Wiley', 'issue': '1', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 11200, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Networks'], 'published-print': {'date-parts': [[1985]]}, 'DOI': '10.1002/net.3230150111', 'type': 'journal-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T19:18:02Z', 'timestamp': 1178911082000}, 'page': '137-138', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Data structures and algorithms, by A. Aho, J. Hopcroft, and J. Ullman, Addison-Wesley, Reading, Mass., 1983, 427 pp. Price: $28.85'], 'prefix': '10.1002', 'volume': '15', 'author': [{'given': 'Dan', 'family': 'Gusfield', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'container-title': ['Networks'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fnet.3230150111', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 4, 8]], 'date-time': '2017-04-08T21:15:23Z', 'timestamp': 1491686123000}, 'score': 41.269012, 'issued': {'date-parts': [[1985]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1985]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1002/net.3230150111', 'ISSN': ['0028-3045', '1097-0037'], 'issn-type': [{'value': '0028-3045', 'type': 'print'}, {'value': '1097-0037', 'type': 'electronic'}]}
+>>> hash >>> ('Data structures and algorithms, by A. Aho, J. Hopcroft, and J. Ullman, Addison-Wesley, Reading, Mass., 1983, 427 pp. Price: $28.85', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

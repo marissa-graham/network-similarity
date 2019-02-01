@@ -1,0 +1,481 @@
+>>> NEW PAPER <<<
+>>> citation >>> McGregor, J.J.: Relational consistency algorithms and their applications in finding subgraph and graph isomorphisms. Information Science 19, 229â€“250 (1979)
+>>> DOI >>> 10.1016/0020-0255(79)90023-9
+>>> URL >>> http://dx.doi.org/10.1016/0020-0255(79)90023-9
+>>> year >>> 1979.0
+>>> title >>> Relational consistency algorithms and their application in finding subgraph and graph isomorphisms
+>>> author >>> J.J. McGregor
+>>> reference_count >>> 17.0
+>>> is_referenced_by_count >>> 53.0
+>>> subject >>> None
+>>> container_title >>> ['Information Sciences']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 9]], 'date-time': '2018-05-09T22:22:27Z', 'timestamp': 1525904547984}, 'reference-count': 17, 'publisher': 'Elsevier BV', 'issue': '3', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1979, 12, 1]], 'date-time': '1979-12-01T00:00:00Z', 'timestamp': 312854400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Information Sciences'], 'published-print': {'date-parts': [[1979, 12]]}, 'DOI': '10.1016/0020-0255(79)90023-9', 'type': 'journal-article', 'created': {'date-parts': [[2003, 6, 30]], 'date-time': '2003-06-30T17:28:37Z', 'timestamp': 1056994117000}, 'page': '229-250', 'source': 'Crossref', 'is-referenced-by-count': 53, 'title': ['Relational consistency algorithms and their application in finding subgraph and graph isomorphisms'], 'prefix': '10.1016', 'volume': '19', 'author': [{'given': 'J.J.', 'family': 'McGregor', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Information Sciences'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0020025579900239?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0020025579900239?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T22:55:11Z', 'timestamp': 1497567311000}, 'score': 96.171974, 'issued': {'date-parts': [[1979, 12]]}, 'references-count': 17, 'journal-issue': {'published-print': {'date-parts': [[1979, 12]]}, 'issue': '3'}, 'alternative-id': ['0020025579900239'], 'URL': 'http://dx.doi.org/10.1016/0020-0255(79)90023-9', 'ISSN': ['0020-0255'], 'issn-type': [{'value': '0020-0255', 'type': 'print'}]}
+>>> hash >>> ('Relational consistency algorithms and their application in finding subgraph and graph isomorphisms', 1979.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> RÃ©gin, J.-C.: DÃ©veloppement dâ€™Outils Algorithmiques pour lâ€™Intelligence Artificielle. Application Ã¡ la Chimie Organique. PhD thesis, Univ. Montpellier II (1995)
+>>> DOI >>> 10.3406/rei.1985.1194
+>>> URL >>> http://dx.doi.org/10.3406/rei.1985.1194
+>>> year >>> 1985.0
+>>> title >>> « Nouvelles stratégies pour la chimie organique »
+>>> author >>> Bertrand Bellon
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Revue d’économie industrielle']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T15:06:29Z', 'timestamp': 1525446389707}, 'reference-count': 0, 'publisher': 'PERSEE Program', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['rei'], 'published-print': {'date-parts': [[1985]]}, 'DOI': '10.3406/rei.1985.1194', 'type': 'journal-article', 'created': {'date-parts': [[2008, 10, 17]], 'date-time': '2008-10-17T15:56:57Z', 'timestamp': 1224259017000}, 'page': '100-111', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['« Nouvelles stratégies pour la chimie organique »'], 'prefix': '10.3406', 'volume': '31', 'author': [{'given': 'Bertrand', 'family': 'Bellon', 'sequence': 'first', 'affiliation': []}], 'member': '2000', 'container-title': ['Revue d’économie industrielle'], 'language': 'fr', 'deposited': {'date-parts': [[2018, 4, 8]], 'date-time': '2018-04-08T12:38:32Z', 'timestamp': 1523191112000}, 'score': 41.86558, 'issued': {'date-parts': [[1985]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1985]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.3406/rei.1985.1194', 'ISSN': ['0154-3229'], 'issn-type': [{'value': '0154-3229', 'type': 'print'}]}
+>>> hash >>> ('« Nouvelles stratégies pour la chimie organique »', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> BessiÃ¨re, C., RÃ©gin Refining, J.-C.: the basic constraint propagation algorithm. In: Nebel, B. (ed.) Proceedings of the seventeenth International Conference on Artificial Intelligence (IJCAI 2001), August 4-10, pp. 309â€“315. Morgan Kaufmann Publishers, Inc., San Francisco (2001)
+>>> DOI >>> 10.1016/s0004-3702(01)00104-7
+>>> URL >>> http://dx.doi.org/10.1016/s0004-3702(01)00104-7
+>>> year >>> 2001.0
+>>> title >>> Exploiting symmetries within constraint satisfaction search\u2606\u2606This paper is an extended and updated version of [16], presented at the IJCAI-99 conference.
+>>> author >>> Pedro Meseguer and Carme Torras
+>>> reference_count >>> 24.0
+>>> is_referenced_by_count >>> 15.0
+>>> subject >>> None
+>>> container_title >>> ['Artificial Intelligence']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T20:38:39Z', 'timestamp': 1525293519001}, 'reference-count': 24, 'publisher': 'Elsevier BV', 'issue': '1-2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2001, 6, 1]], 'date-time': '2001-06-01T00:00:00Z', 'timestamp': 991353600000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 25]], 'date-time': '2013-07-25T00:00:00Z', 'timestamp': 1374710400000}, 'delay-in-days': 4437, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Artificial Intelligence'], 'published-print': {'date-parts': [[2001, 6]]}, 'DOI': '10.1016/s0004-3702(01)00104-7', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 25]], 'date-time': '2002-07-25T10:13:42Z', 'timestamp': 1027592022000}, 'page': '133-163', 'source': 'Crossref', 'is-referenced-by-count': 15, 'title': ['Exploiting symmetries within constraint satisfaction search\u2606\u2606This paper is an extended and updated version of [16], presented at the IJCAI-99 conference.'], 'prefix': '10.1016', 'volume': '129', 'author': [{'given': 'Pedro', 'family': 'Meseguer', 'sequence': 'first', 'affiliation': []}, {'given': 'Carme', 'family': 'Torras', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0004370201001047?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0004370201001047?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 14]], 'date-time': '2017-06-14T19:17:19Z', 'timestamp': 1497467839000}, 'score': 49.15223, 'issued': {'date-parts': [[2001, 6]]}, 'references-count': 24, 'journal-issue': {'published-print': {'date-parts': [[2001, 6]]}, 'issue': '1-2'}, 'alternative-id': ['S0004370201001047'], 'URL': 'http://dx.doi.org/10.1016/s0004-3702(01)00104-7', 'ISSN': ['0004-3702'], 'issn-type': [{'value': '0004-3702', 'type': 'print'}]}
+>>> hash >>> ('Exploiting symmetries within constraint satisfaction search\\u2606\\u2606This paper is an extended and updated version of [16], presented at the IJCAI-99 conference.', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Garey, M.R., Johnson, D.S.: Computers and Intractability : A Guide to The Theory of NP-Completness. W.H. Freeman, San Francisco (1979)
+>>> DOI >>> 10.2307/2273574
+>>> URL >>> http://dx.doi.org/10.2307/2273574
+>>> year >>> 1983.0
+>>> title >>> \u03a0Garey                Michael R. and Johnson                David S.. Computers and intractability. A guide to the theory of NP-completeness. W. H. Freeman and Company, San Francisco             1979, x + 338 pp.
+>>> author >>> Harry R. Lewis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['The Journal of Symbolic Logic']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T21:25:31Z', 'timestamp': 1525296331920}, 'reference-count': 0, 'publisher': 'Cambridge University Press (CUP)', 'issue': '02', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['J. symb. log.'], 'published-print': {'date-parts': [[1983, 6]]}, 'DOI': '10.2307/2273574', 'type': 'journal-article', 'created': {'date-parts': [[2006, 5, 6]], 'date-time': '2006-05-06T22:03:20Z', 'timestamp': 1146953000000}, 'page': '498-500', 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['\u03a0Garey\n                Michael R. and Johnson\n                David S.. Computers and intractability. A guide to the theory of NP-completeness. W. H. Freeman and Company, San Francisco \n            1979, x + 338 pp.'], 'prefix': '10.1017', 'volume': '48', 'author': [{'given': 'Harry R.', 'family': 'Lewis', 'sequence': 'first', 'affiliation': []}], 'member': '56', 'published-online': {'date-parts': [[2014, 3, 12]]}, 'container-title': ['The Journal of Symbolic Logic'], 'language': 'en', 'link': [{'URL': 'https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0022481200038524', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 4, 21]], 'date-time': '2017-04-21T18:29:11Z', 'timestamp': 1492799351000}, 'score': 50.24655, 'issued': {'date-parts': [[1983, 6]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1983, 6]]}, 'issue': '02'}, 'alternative-id': ['S0022481200038524'], 'URL': 'http://dx.doi.org/10.2307/2273574', 'ISSN': ['0022-4812', '1943-5886'], 'issn-type': [{'value': '0022-4812', 'type': 'print'}, {'value': '1943-5886', 'type': 'electronic'}]}
+>>> hash >>> ('\\u03a0Garey                Michael R. and Johnson                David S.. Computers and intractability. A guide to the theory of NP-completeness. W. H. Freeman and Company, San Francisco             1979, x + 338 pp.', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Fortin, S.: The graph isomorphism problem. Technical report, Dept of Computing Science, Univ. Alberta, Edmonton, Alberta, Canada (1996)
+>>> DOI >>> 10.4095/116580
+>>> URL >>> http://dx.doi.org/10.4095/116580
+>>> year >>> 1983.0
+>>> title >>> Edmonton, Alberta
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 15]], 'date-time': '2018-04-15T02:47:17Z', 'timestamp': 1523760437822}, 'reference-count': 0, 'publisher': 'Natural Resources Canada/ESS/Scientific and Technical Publishing Services', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1983]]}, 'DOI': '10.4095/116580', 'type': 'report', 'created': {'date-parts': [[2015, 4, 22]], 'date-time': '2015-04-22T15:58:30Z', 'timestamp': 1429718310000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Edmonton, Alberta'], 'prefix': '10.4095', 'author': [{'name': 'Alberta Department Of Mines And Minerals', 'sequence': 'first', 'affiliation': []}, {'name': 'Geological Survey of Canada', 'sequence': 'additional', 'affiliation': []}], 'member': '2571', 'deposited': {'date-parts': [[2015, 8, 4]], 'date-time': '2015-08-04T15:44:43Z', 'timestamp': 1438703083000}, 'score': 50.585197, 'issued': {'date-parts': [[1983]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.4095/116580'}
+>>> hash >>> ('Edmonton, Alberta', 1983.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> BessiÃ¨re, C., Van Hentenryck, P.: To be or not to be.. a global constraint. In: Rossi, F. (ed.) CP 2003. LNCS, vol. 2833, pp. 789â€“794. Springer, Heidelberg (2003)
+>>> DOI >>> 10.1007/978-3-540-45193-8_54
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-45193-8_54
+>>> year >>> 2003.0
+>>> title >>> To Be or Not to Be ... a Global Constraint
+>>> author >>> Christian Bessière and Pascal Van Hentenryck
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 4.0
+>>> subject >>> None
+>>> container_title >>> ['Principles and Practice of Constraint Programming – CP 2003', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T12:38:48Z', 'timestamp': 1525351128432}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540202028', 'type': 'print'}, {'value': '9783540451938', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2003]]}, 'DOI': '10.1007/978-3-540-45193-8_54', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 9, 8]], 'date-time': '2010-09-08T23:35:03Z', 'timestamp': 1283988903000}, 'page': '789-794', 'source': 'Crossref', 'is-referenced-by-count': 4, 'title': ['To Be or Not to Be ... a Global Constraint'], 'prefix': '10.1007', 'author': [{'given': 'Christian', 'family': 'Bessière', 'sequence': 'first', 'affiliation': []}, {'given': 'Pascal', 'family': 'Van Hentenryck', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Principles and Practice of Constraint Programming – CP 2003', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/978-3-540-45193-8_54', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 30]], 'date-time': '2014-08-30T16:14:25Z', 'timestamp': 1409415265000}, 'score': 56.72714, 'issued': {'date-parts': [[2003]]}, 'ISBN': ['9783540202028', '9783540451938'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-540-45193-8_54', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('To Be or Not to Be ... a Global Constraint', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Aggoun, A., Beldiceanu, N.: Extending CHIP in order to solve complex and scheduling and placement problems. In: Actes des JournÃ©es Francophones de Programmation et Logique, Lille, France (1992)
+>>> DOI >>> 10.1016/0895-7177(93)90068-a
+>>> URL >>> http://dx.doi.org/10.1016/0895-7177(93)90068-a
+>>> year >>> 1993.0
+>>> title >>> Extending chip in order to solve complex scheduling and placement problems
+>>> author >>> Abderrahmane Aggoun and Nicolas Beldiceanu
+>>> reference_count >>> 36.0
+>>> is_referenced_by_count >>> 90.0
+>>> subject >>> None
+>>> container_title >>> ['Mathematical and Computer Modelling']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T06:22:30Z', 'timestamp': 1528352550941}, 'reference-count': 36, 'publisher': 'Elsevier BV', 'issue': '7', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1993, 4, 1]], 'date-time': '1993-04-01T00:00:00Z', 'timestamp': 733622400000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 7412, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Mathematical and Computer Modelling'], 'published-print': {'date-parts': [[1993, 4]]}, 'DOI': '10.1016/0895-7177(93)90068-a', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 26]], 'date-time': '2002-07-26T04:02:44Z', 'timestamp': 1027656164000}, 'page': '57-73', 'source': 'Crossref', 'is-referenced-by-count': 90, 'title': ['Extending chip in order to solve complex scheduling and placement problems'], 'prefix': '10.1016', 'volume': '17', 'author': [{'given': 'Abderrahmane', 'family': 'Aggoun', 'sequence': 'first', 'affiliation': []}, {'given': 'Nicolas', 'family': 'Beldiceanu', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Mathematical and Computer Modelling'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:089571779390068A?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:089571779390068A?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T04:14:06Z', 'timestamp': 1497500046000}, 'score': 73.45088, 'issued': {'date-parts': [[1993, 4]]}, 'references-count': 36, 'journal-issue': {'published-print': {'date-parts': [[1993, 4]]}, 'issue': '7'}, 'alternative-id': ['089571779390068A'], 'URL': 'http://dx.doi.org/10.1016/0895-7177(93)90068-a', 'ISSN': ['0895-7177'], 'issn-type': [{'value': '0895-7177', 'type': 'print'}]}
+>>> hash >>> ('Extending chip in order to solve complex scheduling and placement problems', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Cormen, T.H., Leiserson, C.E., Rivest, R.L.: Introduction to Algorithms. MIT Press, Cambridge (1990)
+>>> DOI >>> 10.1515/9783110522013
+>>> URL >>> http://dx.doi.org/10.1515/9783110522013
+>>> year >>> 2017.0
+>>> title >>> Algorithmen - Eine Einführung
+>>> author >>> Thomas H. Cormen and Charles E. Leiserson and Ronald Rivest and Clifford Stein
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> None
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 18]], 'date-time': '2018-04-18T10:38:56Z', 'timestamp': 1524047936013}, 'publisher-location': 'Berlin, Boston', 'reference-count': 0, 'publisher': 'De Gruyter', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2017, 1, 31]]}, 'DOI': '10.1515/9783110522013', 'type': 'monograph', 'created': {'date-parts': [[2017, 3, 8]], 'date-time': '2017-03-08T10:01:28Z', 'timestamp': 1488967288000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Algorithmen - Eine Einführung'], 'prefix': '10.1515', 'author': [{'given': 'Thomas H.', 'family': 'Cormen', 'sequence': 'first', 'affiliation': []}, {'given': 'Charles E.', 'family': 'Leiserson', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ronald', 'family': 'Rivest', 'sequence': 'additional', 'affiliation': []}, {'given': 'Clifford', 'family': 'Stein', 'sequence': 'additional', 'affiliation': []}], 'member': '374', 'link': [{'URL': 'http://www.degruyter.com/view/books/9783110522013/9783110522013/9783110522013.xml', 'content-type': 'text/html', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://www.degruyter.com/view/books/9783110522013/9783110522013/9783110522013.xml', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 4, 26]], 'date-time': '2017-04-26T10:02:30Z', 'timestamp': 1493200950000}, 'score': 48.11737, 'issued': {'date-parts': [[2017, 1, 31]]}, 'ISBN': ['9783110522013'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1515/9783110522013'}
+>>> hash >>> ('Algorithmen - Eine Einführung', 2017.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Mohr, R., Henderson, T.C.: Arc and path consistency revisited. Artificial Intelligence 28, 65â€“74 (1986)
+>>> DOI >>> 10.1016/0004-3702(86)90083-4
+>>> URL >>> http://dx.doi.org/10.1016/0004-3702(86)90083-4
+>>> year >>> 1986.0
+>>> title >>> Arc and path consistency revisited
+>>> author >>> Roger Mohr and Thomas C. Henderson
+>>> reference_count >>> 8.0
+>>> is_referenced_by_count >>> 221.0
+>>> subject >>> None
+>>> container_title >>> ['Artificial Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 29]], 'date-time': '2018-05-29T13:02:41Z', 'timestamp': 1527598961823}, 'reference-count': 8, 'publisher': 'Elsevier BV', 'issue': '2', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1986, 3, 1]], 'date-time': '1986-03-01T00:00:00Z', 'timestamp': 510019200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Artificial Intelligence'], 'published-print': {'date-parts': [[1986, 3]]}, 'DOI': '10.1016/0004-3702(86)90083-4', 'type': 'journal-article', 'created': {'date-parts': [[2003, 3, 14]], 'date-time': '2003-03-14T13:02:52Z', 'timestamp': 1047646972000}, 'page': '225-233', 'source': 'Crossref', 'is-referenced-by-count': 221, 'title': ['Arc and path consistency revisited'], 'prefix': '10.1016', 'volume': '28', 'author': [{'given': 'Roger', 'family': 'Mohr', 'sequence': 'first', 'affiliation': []}, {'given': 'Thomas C.', 'family': 'Henderson', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0004370286900834?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0004370286900834?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T19:19:09Z', 'timestamp': 1497554349000}, 'score': 76.31701, 'issued': {'date-parts': [[1986, 3]]}, 'references-count': 8, 'journal-issue': {'published-print': {'date-parts': [[1986, 3]]}, 'issue': '2'}, 'alternative-id': ['0004370286900834'], 'URL': 'http://dx.doi.org/10.1016/0004-3702(86)90083-4', 'ISSN': ['0004-3702'], 'issn-type': [{'value': '0004-3702', 'type': 'print'}]}
+>>> hash >>> ('Arc and path consistency revisited', 1986.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ullman, J.D.: An algorithm for subgraph isomorphism. Journal of the Association of Computing Machinery 23(1), 31â€“42 (1976)
+>>> DOI >>> 10.1145/321921.321925
+>>> URL >>> http://dx.doi.org/10.1145/321921.321925
+>>> year >>> 1976.0
+>>> title >>> An Algorithm for Subgraph Isomorphism
+>>> author >>> J. R. Ullmann
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 762.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of the ACM']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 31]], 'date-time': '2018-05-31T23:42:34Z', 'timestamp': 1527810154318}, 'reference-count': 0, 'publisher': 'Association for Computing Machinery (ACM)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['JACM', 'J. ACM'], 'published-print': {'date-parts': [[1976, 1, 1]]}, 'DOI': '10.1145/321921.321925', 'type': 'journal-article', 'created': {'date-parts': [[2002, 7, 27]], 'date-time': '2002-07-27T11:26:10Z', 'timestamp': 1027769170000}, 'page': '31-42', 'source': 'Crossref', 'is-referenced-by-count': 762, 'title': ['An Algorithm for Subgraph Isomorphism'], 'prefix': '10.1145', 'volume': '23', 'author': [{'given': 'J. R.', 'family': 'Ullmann', 'sequence': 'first', 'affiliation': []}], 'member': '320', 'container-title': ['Journal of the ACM'], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=321925&amp;ftid=7450&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 15]], 'date-time': '2016-12-15T20:46:45Z', 'timestamp': 1481834805000}, 'score': 44.625774, 'issued': {'date-parts': [[1976, 1, 1]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1145/321921.321925', 'ISSN': ['0004-5411'], 'issn-type': [{'value': '0004-5411', 'type': 'print'}]}
+>>> hash >>> ('An Algorithm for Subgraph Isomorphism', 1976.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hopcroft, J.E., Wong, J.-K.: Linear time algorithm for isomorphism of planar graphs. In: 6th Annu. ACM Symp. theory of Comput., pp. 172â€“184 (1974)
+>>> DOI >>> 10.1145/800119.803896
+>>> URL >>> http://dx.doi.org/10.1145/800119.803896
+>>> year >>> 1974.0
+>>> title >>> Linear time algorithm for isomorphism of planar graphs (Preliminary Report)
+>>> author >>> J. E. Hopcroft and J. K. Wong
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 35.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the sixth annual ACM symposium on Theory of computing  - STOC '74"]
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:06:07Z', 'timestamp': 1525392367739}, 'publisher-location': 'New York, New York, USA', 'reference-count': 0, 'publisher': 'ACM Press', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1974]]}, 'DOI': '10.1145/800119.803896', 'type': 'proceedings-article', 'created': {'date-parts': [[2003, 11, 25]], 'date-time': '2003-11-25T16:40:52Z', 'timestamp': 1069778452000}, 'source': 'Crossref', 'is-referenced-by-count': 35, 'title': ['Linear time algorithm for isomorphism of planar graphs (Preliminary Report)'], 'prefix': '10.1145', 'author': [{'given': 'J. E.', 'family': 'Hopcroft', 'sequence': 'first', 'affiliation': []}, {'given': 'J. K.', 'family': 'Wong', 'sequence': 'additional', 'affiliation': []}], 'member': '320', 'event': {'name': 'the sixth annual ACM symposium', 'location': 'Seattle, Washington, United States', 'sponsor': ['SIGACT, ACM Special Interest Group on Algorithms and Computation Theory'], 'acronym': "STOC '74", 'number': '6', 'start': {'date-parts': [[1974, 4, 30]]}, 'end': {'date-parts': [[1974, 5, 2]]}}, 'container-title': ["Proceedings of the sixth annual ACM symposium on Theory of computing  - STOC '74"], 'link': [{'URL': 'http://dl.acm.org/ft_gateway.cfm?id=803896&amp;ftid=53755&amp;dwn=1', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 16]], 'date-time': '2016-12-16T01:41:18Z', 'timestamp': 1481852478000}, 'score': 69.04719, 'issued': {'date-parts': [[1974]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1145/800119.803896'}
+>>> hash >>> ('Linear time algorithm for isomorphism of planar graphs (Preliminary Report)', 1974.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Champin, P.-A., Solnon, C.: Measuring the similarity of labeled graphs. In: Ashley, K.D., Bridge, D.G. (eds.) ICCBR 2003. LNCS (LNAI), vol. 2689, pp. 80â€“95. Springer, Heidelberg (2003)
+>>> DOI >>> 10.1007/3-540-45006-8_9
+>>> URL >>> http://dx.doi.org/10.1007/3-540-45006-8_9
+>>> year >>> None
+>>> title >>> Measuring the Similarity of Labeled Graphs
+>>> author >>> Pierre-Antoine Champin and Christine Solnon
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 24.0
+>>> subject >>> None
+>>> container_title >>> ['Case-Based Reasoning Research and Development', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T22:55:26Z', 'timestamp': 1525388126034}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540404330', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/3-540-45006-8_9', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 9, 3]], 'date-time': '2007-09-03T01:11:17Z', 'timestamp': 1188781877000}, 'page': '80-95', 'source': 'Crossref', 'is-referenced-by-count': 24, 'title': ['Measuring the Similarity of Labeled Graphs'], 'prefix': '10.1007', 'author': [{'given': 'Pierre-Antoine', 'family': 'Champin', 'sequence': 'first', 'affiliation': []}, {'given': 'Christine', 'family': 'Solnon', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Case-Based Reasoning Research and Development', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/3-540-45006-8_9', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T21:34:56Z', 'timestamp': 1389044096000}, 'score': 65.47772, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9783540404330'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-45006-8_9'}
+>>> hash >>> ('Measuring the Similarity of Labeled Graphs', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Foggia, P., Sansone, C., Vento, M.: A performance comparison of five algorithms for graph isomorphism. In: 3rd IAPR-TC15 Workshop on Graphbased Representations in Pattern Recognition, pp. 188â€“199. Cuen (2001)
+>>> DOI >>> 10.1016/s0167-8655(02)00253-2
+>>> URL >>> http://dx.doi.org/10.1016/s0167-8655(02)00253-2
+>>> year >>> 2003.0
+>>> title >>> A large database of graphs and its use for benchmarking graph isomorphism algorithms
+>>> author >>> M. De Santo and P. Foggia and C. Sansone and M. Vento
+>>> reference_count >>> 20.0
+>>> is_referenced_by_count >>> 29.0
+>>> subject >>> None
+>>> container_title >>> ['Pattern Recognition Letters']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 6, 7]], 'date-time': '2018-06-07T06:22:30Z', 'timestamp': 1528352550928}, 'reference-count': 20, 'publisher': 'Elsevier BV', 'issue': '8', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[2003, 5, 1]], 'date-time': '2003-05-01T00:00:00Z', 'timestamp': 1051747200000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Pattern Recognition Letters'], 'published-print': {'date-parts': [[2003, 5]]}, 'DOI': '10.1016/s0167-8655(02)00253-2', 'type': 'journal-article', 'created': {'date-parts': [[2003, 2, 4]], 'date-time': '2003-02-04T23:36:59Z', 'timestamp': 1044401819000}, 'page': '1067-1079', 'source': 'Crossref', 'is-referenced-by-count': 29, 'title': ['A large database of graphs and its use for benchmarking graph isomorphism algorithms'], 'prefix': '10.1016', 'volume': '24', 'author': [{'given': 'M.', 'family': 'De Santo', 'sequence': 'first', 'affiliation': []}, {'given': 'P.', 'family': 'Foggia', 'sequence': 'additional', 'affiliation': []}, {'given': 'C.', 'family': 'Sansone', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Vento', 'sequence': 'additional', 'affiliation': []}], 'member': '78', 'container-title': ['Pattern Recognition Letters'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:S0167865502002532?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:S0167865502002532?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T12:51:10Z', 'timestamp': 1497531070000}, 'score': 66.58666, 'issued': {'date-parts': [[2003, 5]]}, 'references-count': 20, 'journal-issue': {'published-print': {'date-parts': [[2003, 5]]}, 'issue': '8'}, 'alternative-id': ['S0167865502002532'], 'URL': 'http://dx.doi.org/10.1016/s0167-8655(02)00253-2', 'ISSN': ['0167-8655'], 'issn-type': [{'value': '0167-8655', 'type': 'print'}]}
+>>> hash >>> ('A large database of graphs and its use for benchmarking graph isomorphism algorithms', 2003.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Tsang, E.: Foundations of Constraint Satisfaction. Academic Press, London (1993)
+>>> DOI >>> 10.1016/b978-0-12-701610-8.50012-4
+>>> URL >>> http://dx.doi.org/10.1016/b978-0-12-701610-8.50012-4
+>>> year >>> 1993.0
+>>> title >>> Problem reduction
+>>> author >>> Edward Tsang
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Foundations of Constraint Satisfaction']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T16:51:35Z', 'timestamp': 1525798295099}, 'reference-count': 0, 'publisher': 'Elsevier', 'isbn-type': [{'value': '9780127016108', 'type': 'print'}], 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1993, 1, 1]], 'date-time': '1993-01-01T00:00:00Z', 'timestamp': 725846400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1993]]}, 'DOI': '10.1016/b978-0-12-701610-8.50012-4', 'type': 'book-chapter', 'created': {'date-parts': [[2014, 6, 30]], 'date-time': '2014-06-30T17:07:14Z', 'timestamp': 1404148034000}, 'page': '79-118', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Problem reduction'], 'prefix': '10.1016', 'author': [{'given': 'Edward', 'family': 'Tsang', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Foundations of Constraint Satisfaction'], 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:B9780127016108500124?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:B9780127016108500124?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2014, 11, 21]], 'date-time': '2014-11-21T23:40:01Z', 'timestamp': 1416613201000}, 'score': 45.016495, 'issued': {'date-parts': [[1993]]}, 'ISBN': ['9780127016108'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1016/b978-0-12-701610-8.50012-4'}
+>>> hash >>> ('Problem reduction', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> BessiÃ¨re, C., Cordier, M.-O.: Arc-consistency and arc-consistency again. In: Proceedings of the 11th National Conference on Artificial Intelligence, July 1993, pp. 108â€“113. AAAI Press, Menlo Park (1993)
+>>> DOI >>> 10.1016/0004-3702(94)90041-8
+>>> URL >>> http://dx.doi.org/10.1016/0004-3702(94)90041-8
+>>> year >>> 1994.0
+>>> title >>> Arc-consistency and arc-consistency again
+>>> author >>> Christian Bessière
+>>> reference_count >>> 19.0
+>>> is_referenced_by_count >>> 75.0
+>>> subject >>> None
+>>> container_title >>> ['Artificial Intelligence']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T15:53:24Z', 'timestamp': 1525362804225}, 'reference-count': 19, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1994, 1, 1]], 'date-time': '1994-01-01T00:00:00Z', 'timestamp': 757382400000}, 'delay-in-days': 0, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Artificial Intelligence'], 'published-print': {'date-parts': [[1994, 1]]}, 'DOI': '10.1016/0004-3702(94)90041-8', 'type': 'journal-article', 'created': {'date-parts': [[2003, 3, 14]], 'date-time': '2003-03-14T13:02:52Z', 'timestamp': 1047646972000}, 'page': '179-190', 'source': 'Crossref', 'is-referenced-by-count': 75, 'title': ['Arc-consistency and arc-consistency again'], 'prefix': '10.1016', 'volume': '65', 'author': [{'given': 'Christian', 'family': 'Bessière', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Artificial Intelligence'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0004370294900418?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0004370294900418?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 15]], 'date-time': '2017-06-15T19:18:26Z', 'timestamp': 1497554306000}, 'score': 76.39334, 'issued': {'date-parts': [[1994, 1]]}, 'references-count': 19, 'journal-issue': {'published-print': {'date-parts': [[1994, 1]]}, 'issue': '1'}, 'alternative-id': ['0004370294900418'], 'URL': 'http://dx.doi.org/10.1016/0004-3702(94)90041-8', 'ISSN': ['0004-3702'], 'issn-type': [{'value': '0004-3702', 'type': 'print'}]}
+>>> hash >>> ('Arc-consistency and arc-consistency again', 1994.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Luks, E.M.: Isomorphism of graphs of bounded valence can be tested in polynomial time. Journal of Computer System Science, 42â€“65 (1982)
+>>> DOI >>> 10.1016/0022-0000(82)90009-5
+>>> URL >>> http://dx.doi.org/10.1016/0022-0000(82)90009-5
+>>> year >>> 1982.0
+>>> title >>> Isomorphism of graphs of bounded valence can be tested in polynomial time
+>>> author >>> Eugene M. Luks
+>>> reference_count >>> 25.0
+>>> is_referenced_by_count >>> 207.0
+>>> subject >>> None
+>>> container_title >>> ['Journal of Computer and System Sciences']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:16:04Z', 'timestamp': 1525392964008}, 'reference-count': 25, 'publisher': 'Elsevier BV', 'issue': '1', 'license': [{'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/', 'start': {'date-parts': [[1982, 8, 1]], 'date-time': '1982-08-01T00:00:00Z', 'timestamp': 397008000000}, 'delay-in-days': 0, 'content-version': 'tdm'}, {'URL': 'http://www.elsevier.com/open-access/userlicense/1.0/', 'start': {'date-parts': [[2013, 7, 17]], 'date-time': '2013-07-17T00:00:00Z', 'timestamp': 1374019200000}, 'delay-in-days': 11308, 'content-version': 'vor'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Journal of Computer and System Sciences'], 'published-print': {'date-parts': [[1982, 8]]}, 'DOI': '10.1016/0022-0000(82)90009-5', 'type': 'journal-article', 'created': {'date-parts': [[2003, 12, 4]], 'date-time': '2003-12-04T12:01:00Z', 'timestamp': 1070539260000}, 'page': '42-65', 'source': 'Crossref', 'is-referenced-by-count': 207, 'title': ['Isomorphism of graphs of bounded valence can be tested in polynomial time'], 'prefix': '10.1016', 'volume': '25', 'author': [{'given': 'Eugene M.', 'family': 'Luks', 'sequence': 'first', 'affiliation': []}], 'member': '78', 'container-title': ['Journal of Computer and System Sciences'], 'language': 'en', 'link': [{'URL': 'http://api.elsevier.com/content/article/PII:0022000082900095?httpAccept=text/xml', 'content-type': 'text/xml', 'content-version': 'vor', 'intended-application': 'text-mining'}, {'URL': 'http://api.elsevier.com/content/article/PII:0022000082900095?httpAccept=text/plain', 'content-type': 'text/plain', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 6, 16]], 'date-time': '2017-06-16T02:42:14Z', 'timestamp': 1497580934000}, 'score': 86.86704, 'issued': {'date-parts': [[1982, 8]]}, 'references-count': 25, 'journal-issue': {'published-print': {'date-parts': [[1982, 8]]}, 'issue': '1'}, 'alternative-id': ['0022000082900095'], 'URL': 'http://dx.doi.org/10.1016/0022-0000(82)90009-5', 'ISSN': ['0022-0000'], 'issn-type': [{'value': '0022-0000', 'type': 'print'}]}
+>>> hash >>> ('Isomorphism of graphs of bounded valence can be tested in polynomial time', 1982.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Aho, A.V., Hopcroft, J.E., Ullman, J.D.: The design and analysis of computer algorithms. Addison Wesley, Reading (1974)
+>>> DOI >>> 10.1002/net.3230150111
+>>> URL >>> http://dx.doi.org/10.1002/net.3230150111
+>>> year >>> 1985.0
+>>> title >>> Data structures and algorithms, by A. Aho, J. Hopcroft, and J. Ullman, Addison-Wesley, Reading, Mass., 1983, 427 pp. Price: $28.85
+>>> author >>> Dan Gusfield
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Networks']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T16:17:16Z', 'timestamp': 1525364236604}, 'reference-count': 0, 'publisher': 'Wiley', 'issue': '1', 'license': [{'URL': 'http://doi.wiley.com/10.1002/tdm_license_1.1', 'start': {'date-parts': [[2015, 9, 1]], 'date-time': '2015-09-01T00:00:00Z', 'timestamp': 1441065600000}, 'delay-in-days': 11200, 'content-version': 'tdm'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Networks'], 'published-print': {'date-parts': [[1985]]}, 'DOI': '10.1002/net.3230150111', 'type': 'journal-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T19:18:02Z', 'timestamp': 1178911082000}, 'page': '137-138', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Data structures and algorithms, by A. Aho, J. Hopcroft, and J. Ullman, Addison-Wesley, Reading, Mass., 1983, 427 pp. Price: $28.85'], 'prefix': '10.1002', 'volume': '15', 'author': [{'given': 'Dan', 'family': 'Gusfield', 'sequence': 'first', 'affiliation': []}], 'member': '311', 'container-title': ['Networks'], 'language': 'en', 'link': [{'URL': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fnet.3230150111', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'text-mining'}], 'deposited': {'date-parts': [[2017, 4, 8]], 'date-time': '2017-04-08T21:15:23Z', 'timestamp': 1491686123000}, 'score': 57.716675, 'issued': {'date-parts': [[1985]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1985]]}, 'issue': '1'}, 'URL': 'http://dx.doi.org/10.1002/net.3230150111', 'ISSN': ['0028-3045', '1097-0037'], 'issn-type': [{'value': '0028-3045', 'type': 'print'}, {'value': '1097-0037', 'type': 'electronic'}]}
+>>> hash >>> ('Data structures and algorithms, by A. Aho, J. Hopcroft, and J. Ullman, Addison-Wesley, Reading, Mass., 1983, 427 pp. Price: $28.85', 1985.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Cordella, L.P., Foggia, P., Sansone, C., Vento, M.: An improved algorithm for matching large graphs. In: 3rd IAPR-TC15 Workshop on Graph-based Representations in Pattern Recognition, pp. 149â€“159. Cuen (2001)
+>>> DOI >>> 10.1007/978-3-7091-6487-7_5
+>>> URL >>> http://dx.doi.org/10.1007/978-3-7091-6487-7_5
+>>> year >>> 1998.0
+>>> title >>> Subgraph Transformations for the Inexact Matching of Attributed Relational Graphs
+>>> author >>> L. P. Cordella and P. Foggia and C. Sansone and M. Vento
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 16.0
+>>> subject >>> None
+>>> container_title >>> ['Computing Supplement', 'Graph Based Representations in Pattern Recognition']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T10:16:03Z', 'timestamp': 1525428963465}, 'publisher-location': 'Vienna', 'reference-count': 0, 'publisher': 'Springer Vienna', 'isbn-type': [{'value': '9783211831212', 'type': 'print'}, {'value': '9783709164877', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1998]]}, 'DOI': '10.1007/978-3-7091-6487-7_5', 'type': 'book-chapter', 'created': {'date-parts': [[2011, 8, 8]], 'date-time': '2011-08-08T04:19:33Z', 'timestamp': 1312777173000}, 'page': '43-52', 'source': 'Crossref', 'is-referenced-by-count': 16, 'title': ['Subgraph Transformations for the Inexact Matching of Attributed Relational Graphs'], 'prefix': '10.1007', 'author': [{'given': 'L. P.', 'family': 'Cordella', 'sequence': 'first', 'affiliation': []}, {'given': 'P.', 'family': 'Foggia', 'sequence': 'additional', 'affiliation': []}, {'given': 'C.', 'family': 'Sansone', 'sequence': 'additional', 'affiliation': []}, {'given': 'M.', 'family': 'Vento', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Computing Supplement', 'Graph Based Representations in Pattern Recognition'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-7091-6487-7_5', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2012, 11, 30]], 'date-time': '2012-11-30T06:13:02Z', 'timestamp': 1354255982000}, 'score': 81.05574, 'issued': {'date-parts': [[1998]]}, 'ISBN': ['9783211831212', '9783709164877'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-7091-6487-7_5', 'ISSN': ['0344-8029'], 'issn-type': [{'value': '0344-8029', 'type': 'print'}]}
+>>> hash >>> ('Subgraph Transformations for the Inexact Matching of Attributed Relational Graphs', 1998.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> McKay, B.D.: Practical graph isomorphism. Congressus Numerantium 30, 45â€“87 (1981)
+>>> DOI >>> 10.1007/springerreference_57691
+>>> URL >>> http://dx.doi.org/10.1007/springerreference_57691
+>>> year >>> None
+>>> title >>> Graph Isomorphism, 1980; McKay
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['SpringerReference']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T11:34:26Z', 'timestamp': 1525433666482}, 'publisher-location': 'Berlin/Heidelberg', 'reference-count': 0, 'publisher': 'Springer-Verlag', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1007/springerreference_57691', 'type': 'reference-entry', 'created': {'date-parts': [[2011, 8, 29]], 'date-time': '2011-08-29T16:11:46Z', 'timestamp': 1314634306000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Graph Isomorphism, 1980; McKay'], 'prefix': '10.1007', 'member': '297', 'container-title': ['SpringerReference'], 'deposited': {'date-parts': [[2011, 8, 29]], 'date-time': '2011-08-29T16:13:30Z', 'timestamp': 1314634410000}, 'score': 39.51039, 'issued': {'date-parts': [[None]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/springerreference_57691'}
+>>> hash >>> ('Graph Isomorphism, 1980; McKay', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Laburthe, F., and the OCRE project team: CHOCO: implementing a CP kernel. In: Proc. of the CP 2000 workshop on techniques for implementing constraint programming systems, Singapore (2000)
+>>> DOI >>> 10.1007/3-540-45349-0_18
+>>> URL >>> http://dx.doi.org/10.1007/3-540-45349-0_18
+>>> year >>> 2000.0
+>>> title >>> A Constraint Programming Approach for Solving Rigid Geometric Systems
+>>> author >>> Christophe Jermann and Gilles Trombettoni and Bertrand Neveu and Michel Rueher
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Principles and Practice of Constraint Programming – CP 2000', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database65.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T17:47:16Z', 'timestamp': 1525369636300}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540410539', 'type': 'print'}, {'value': '9783540453499', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2000]]}, 'DOI': '10.1007/3-540-45349-0_18', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 6, 7]], 'date-time': '2007-06-07T00:54:55Z', 'timestamp': 1181177695000}, 'page': '233-248', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['A Constraint Programming Approach for Solving Rigid Geometric Systems'], 'prefix': '10.1007', 'author': [{'given': 'Christophe', 'family': 'Jermann', 'sequence': 'first', 'affiliation': []}, {'given': 'Gilles', 'family': 'Trombettoni', 'sequence': 'additional', 'affiliation': []}, {'given': 'Bertrand', 'family': 'Neveu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Michel', 'family': 'Rueher', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2001, 6, 1]]}, 'container-title': ['Principles and Practice of Constraint Programming – CP 2000', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-45349-0_18', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 9, 2]], 'date-time': '2014-09-02T22:18:33Z', 'timestamp': 1409696313000}, 'score': 48.856377, 'issued': {'date-parts': [[2000]]}, 'ISBN': ['9783540410539', '9783540453499'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-45349-0_18', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('A Constraint Programming Approach for Solving Rigid Geometric Systems', 2000.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<

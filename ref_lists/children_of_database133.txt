@@ -1,0 +1,289 @@
+>>> NEW PAPER <<<
+>>> citation >>> Leveling, J., Hartrumpf, S.: University of Hagen at CLEF 2004: Indexing and translating concepts for the GIRT task. In: Peters, C., Clough, P., Gonzalo, J., Jones, G.J.F., Kluck, M., Magnini, B. (eds.) CLEF 2004. LNCS, vol. 3491, pp. 271â€“282. Springer, Heidelberg (2005)
+>>> DOI >>> 10.1007/11519645_28
+>>> URL >>> http://dx.doi.org/10.1007/11519645_28
+>>> year >>> 2005.0
+>>> title >>> University of Hagen at CLEF 2004: Indexing and Translating Concepts for the GIRT Task
+>>> author >>> Johannes Leveling and Sven Hartrumpf
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Multilingual Information Access for Text, Speech and Images', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database133.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T07:34:44Z', 'timestamp': 1525332884133}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540274209', 'type': 'print'}, {'value': '9783540320517', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2005]]}, 'DOI': '10.1007/11519645_28', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 7, 13]], 'date-time': '2010-07-13T21:20:32Z', 'timestamp': 1279056032000}, 'page': '271-282', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['University of Hagen at CLEF 2004: Indexing and Translating Concepts for the GIRT Task'], 'prefix': '10.1007', 'author': [{'given': 'Johannes', 'family': 'Leveling', 'sequence': 'first', 'affiliation': []}, {'given': 'Sven', 'family': 'Hartrumpf', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Multilingual Information Access for Text, Speech and Images', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/11519645_28', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 6]], 'date-time': '2014-01-06T14:52:13Z', 'timestamp': 1389019933000}, 'score': 90.289406, 'issued': {'date-parts': [[2005]]}, 'ISBN': ['9783540274209', '9783540320517'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/11519645_28', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('University of Hagen at CLEF 2004: Indexing and Translating Concepts for the GIRT Task', 2005.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Echihabi, A., Oard, D.W., Marcu, D., Hermjakob, U.: Cross-language question answering at the USC Information Sciences Institute. In: Peters, C. (ed.) Results of the CLEF 2003 Cross-Language System Evaluation Campaign, Working Notes for the CLEF 2003 Workshop, Trondheim, Norway, pp. 331â€“337 (2003)
+>>> DOI >>> 10.1007/978-3-540-30222-3_49
+>>> URL >>> http://dx.doi.org/10.1007/978-3-540-30222-3_49
+>>> year >>> 2004.0
+>>> title >>> Cross-Language Question Answering at the USC Information Sciences Institute
+>>> author >>> Abdessamad Echihabi and Douglas W. Oard and Daniel Marcu and Ulf Hermjakob
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Comparative Evaluation of Multilingual Information Access Systems', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database133.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 2]], 'date-time': '2018-05-02T18:35:15Z', 'timestamp': 1525286115202}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540240174', 'type': 'print'}, {'value': '9783540302223', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2004]]}, 'DOI': '10.1007/978-3-540-30222-3_49', 'type': 'book-chapter', 'created': {'date-parts': [[2009, 11, 20]], 'date-time': '2009-11-20T09:05:35Z', 'timestamp': 1258707935000}, 'page': '514-522', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Cross-Language Question Answering at the USC Information Sciences Institute'], 'prefix': '10.1007', 'author': [{'given': 'Abdessamad', 'family': 'Echihabi', 'sequence': 'first', 'affiliation': []}, {'given': 'Douglas W.', 'family': 'Oard', 'sequence': 'additional', 'affiliation': []}, {'given': 'Daniel', 'family': 'Marcu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Ulf', 'family': 'Hermjakob', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'container-title': ['Comparative Evaluation of Multilingual Information Access Systems', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-540-30222-3_49', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 1, 16]], 'date-time': '2014-01-16T15:40:23Z', 'timestamp': 1389886823000}, 'score': 90.53927, 'issued': {'date-parts': [[2004]]}, 'ISBN': ['9783540240174', '9783540302223'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-540-30222-3_49', 'ISSN': ['0302-9743', '1611-3349'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}, {'value': '1611-3349', 'type': 'electronic'}]}
+>>> hash >>> ('Cross-Language Question Answering at the USC Information Sciences Institute', 2004.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hartrumpf, S.: Coreference resolution with syntactico-semantic rules and corpus statistics. In: Proceedings of the Fifth Computational Natural Language Learning Workshop (CoNLL 2001), Toulouse, France, pp. 137â€“144 (2001)
+>>> DOI >>> 10.3115/1117822.1117835
+>>> URL >>> http://dx.doi.org/10.3115/1117822.1117835
+>>> year >>> 2001.0
+>>> title >>> Coreference resolution with syntactico-semantic rules and corpus statistics
+>>> author >>> Sven Hartrumpf
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 2001 workshop on Computational Natural Language Learning  - ConLL '01"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database133.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T16:15:52Z', 'timestamp': 1525364152574}, 'publisher-location': 'Morristown, NJ, USA ', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.3115/1117822.1117835', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T15:06:22Z', 'timestamp': 1178895982000}, 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['Coreference resolution with syntactico-semantic rules and corpus statistics'], 'prefix': '10.3115', 'author': [{'given': 'Sven', 'family': 'Hartrumpf', 'sequence': 'first', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the 2001 workshop', 'location': 'Toulouse, France', 'sponsor': ['undetermined'], 'acronym': "ConLL '01", 'number': '2001', 'start': {'date-parts': [[2001, 7, 6]]}, 'end': {'date-parts': [[2001, 7, 7]]}}, 'container-title': ["Proceedings of the 2001 workshop on Computational Natural Language Learning  - ConLL '01"], 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 133.62581, 'issued': {'date-parts': [[2001]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1117822.1117835'}
+>>> hash >>> ('Coreference resolution with syntactico-semantic rules and corpus statistics', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hartrumpf, S.: Hybrid Disambiguation in Natural Language Analysis. Der Andere Verlag, OsnabrÃ¼ck (2003)
+>>> DOI >>> 10.1111/j.1574-6968.1993.tb05992.x
+>>> URL >>> http://dx.doi.org/10.1111/j.1574-6968.1993.tb05992.x
+>>> year >>> 1993.0
+>>> title >>> FEMS laboratory course on biology of actinomycetes
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['FEMS Microbiology Letters']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database133.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T01:42:57Z', 'timestamp': 1525484577498}, 'reference-count': 0, 'publisher': 'Oxford University Press (OUP)', 'issue': '1', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1993, 2]]}, 'DOI': '10.1111/j.1574-6968.1993.tb05992.x', 'type': 'journal-article', 'created': {'date-parts': [[2006, 1, 17]], 'date-time': '2006-01-17T10:50:48Z', 'timestamp': 1137495048000}, 'page': 'iii-iii', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['FEMS laboratory course on biology of actinomycetes'], 'prefix': '10.1093', 'volume': '107', 'member': '286', 'container-title': ['FEMS Microbiology Letters'], 'language': 'en', 'link': [{'URL': 'http://academic.oup.com/femsle/article-pdf/107/1/iii/19092450/107-1-iii.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 8, 23]], 'date-time': '2017-08-23T05:23:28Z', 'timestamp': 1503465808000}, 'score': 30.023521, 'subtitle': ['OsnabrÃ¼ck, Germany, 31 Augustâ\x80\x9313 September 1992'], 'issued': {'date-parts': [[1993, 2]]}, 'references-count': 0, 'journal-issue': {'issue': '1'}, 'URL': 'http://dx.doi.org/10.1111/j.1574-6968.1993.tb05992.x', 'ISSN': ['0378-1097', '1574-6968'], 'issn-type': [{'value': '0378-1097', 'type': 'print'}, {'value': '1574-6968', 'type': 'electronic'}]}
+>>> hash >>> ('FEMS laboratory course on biology of actinomycetes', 1993.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Helbig, H., Hartrumpf, S.: Word class functions for syntactic-semantic analysis. In: Proceedings of the 2nd International Conference on Recent Advances in Natural Language Processing (RANLP 1997), Tzigov Chark, Bulgaria, pp. 312â€“317 (1997)
+>>> DOI >>> 10.1075/cilt.136.28zoc
+>>> URL >>> http://dx.doi.org/10.1075/cilt.136.28zoc
+>>> year >>> 1997.0
+>>> title >>> Semtence generation by pattern matching
+>>> author >>> Michael Zock
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Recent Advances in Natural Language Processing', 'Current Issues in Linguistic Theory']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database133.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 8]], 'date-time': '2018-05-08T09:57:03Z', 'timestamp': 1525773423733}, 'publisher-location': 'Amsterdam', 'reference-count': 0, 'publisher': 'John Benjamins Publishing Company', 'isbn-type': [{'value': '9781556195914', 'type': 'print'}, {'value': '9789027276001', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[1997]]}, 'DOI': '10.1075/cilt.136.28zoc', 'type': 'book-chapter', 'created': {'date-parts': [[2014, 3, 24]], 'date-time': '2014-03-24T08:38:57Z', 'timestamp': 1395650337000}, 'page': '317', 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Semtence generation by pattern matching'], 'prefix': '10.1075', 'author': [{'given': 'Michael', 'family': 'Zock', 'sequence': 'first', 'affiliation': []}], 'member': '1757', 'container-title': ['Recent Advances in Natural Language Processing', 'Current Issues in Linguistic Theory'], 'deposited': {'date-parts': [[2014, 7, 11]], 'date-time': '2014-07-11T12:50:01Z', 'timestamp': 1405083001000}, 'score': 59.336308, 'subtitle': ['The problem of syntactic choice'], 'issued': {'date-parts': [[1997]]}, 'ISBN': ['9789027236401', '9781556195914', '9789027276001'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1075/cilt.136.28zoc', 'ISSN': ['0304-0763'], 'issn-type': [{'value': '0304-0763', 'type': 'print'}]}
+>>> hash >>> ('Semtence generation by pattern matching', 1997.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Helbig, H.: Die semantische Struktur natÃ¼rlicher Sprache: WissensreprÃ¤sentation mit MultiNet. Springer, Berlin (2001)
+>>> DOI >>> 10.1007/978-3-662-04311-0_15
+>>> URL >>> http://dx.doi.org/10.1007/978-3-662-04311-0_15
+>>> year >>> 2001.0
+>>> title >>> Vergleich zwischen MultiNet und anderen Wissensrepräsentationsmodellen
+>>> author >>> Hermann Helbig
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Die semantische Struktur natürlicher Sprache']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database133.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 6]], 'date-time': '2018-05-06T00:48:12Z', 'timestamp': 1525567692330}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783662043127', 'type': 'print'}, {'value': '9783662043110', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.1007/978-3-662-04311-0_15', 'type': 'book-chapter', 'created': {'date-parts': [[2012, 12, 29]], 'date-time': '2012-12-29T10:59:37Z', 'timestamp': 1356778777000}, 'page': '335-363', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Vergleich zwischen MultiNet und anderen Wissensrepräsentationsmodellen'], 'prefix': '10.1007', 'author': [{'given': 'Hermann', 'family': 'Helbig', 'sequence': 'first', 'affiliation': []}], 'member': '297', 'container-title': ['Die semantische Struktur natürlicher Sprache'], 'link': [{'URL': 'http://www.springerlink.com/index/pdf/10.1007/978-3-662-04311-0_15', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2012, 12, 29]], 'date-time': '2012-12-29T10:59:58Z', 'timestamp': 1356778798000}, 'score': 73.65762, 'issued': {'date-parts': [[2001]]}, 'ISBN': ['9783662043127', '9783662043110'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/978-3-662-04311-0_15'}
+>>> hash >>> ('Vergleich zwischen MultiNet und anderen Wissensrepräsentationsmodellen', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Harabagiu, S., Moldovan, D., PaÅŸca, M., Mihalcea, R., Surdeanu, M., Bunescu, R., GÃ®rju, R., Rus, V., MorÄƒrescu, P.: The role of lexico-semantic feedback in open-domain textual question-answering. In: Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics (ACL 2001), Toulouse, France, pp. 274â€“281 (2001)
+>>> DOI >>> 10.3115/1073012.1073049
+>>> URL >>> http://dx.doi.org/10.3115/1073012.1073049
+>>> year >>> 2001.0
+>>> title >>> The role of lexico-semantic feedback in open-domain textual question-answering
+>>> author >>> Sanda Harabagiu and Dan Moldovan and Marius Pa\u015fca and Rada Mihalcea and Mihai Surdeanu and R\u01cezvan Bunescu and Roxana Gîrju and Vasile Rus and Paul Mor\u01cerescu
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 7.0
+>>> subject >>> None
+>>> container_title >>> ["Proceedings of the 39th Annual Meeting on Association for Computational Linguistics  - ACL '01"]
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database133.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T16:15:31Z', 'timestamp': 1525364131700}, 'publisher-location': 'Morristown, NJ, USA ', 'reference-count': 0, 'publisher': 'Association for Computational Linguistics', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2001]]}, 'DOI': '10.3115/1073012.1073049', 'type': 'proceedings-article', 'created': {'date-parts': [[2007, 5, 11]], 'date-time': '2007-05-11T15:06:22Z', 'timestamp': 1178895982000}, 'source': 'Crossref', 'is-referenced-by-count': 7, 'title': ['The role of lexico-semantic feedback in open-domain textual question-answering'], 'prefix': '10.3115', 'author': [{'given': 'Sanda', 'family': 'Harabagiu', 'sequence': 'first', 'affiliation': []}, {'given': 'Dan', 'family': 'Moldovan', 'sequence': 'additional', 'affiliation': []}, {'given': 'Marius', 'family': 'Pa\u015fca', 'sequence': 'additional', 'affiliation': []}, {'given': 'Rada', 'family': 'Mihalcea', 'sequence': 'additional', 'affiliation': []}, {'given': 'Mihai', 'family': 'Surdeanu', 'sequence': 'additional', 'affiliation': []}, {'given': 'R\u01cezvan', 'family': 'Bunescu', 'sequence': 'additional', 'affiliation': []}, {'given': 'Roxana', 'family': 'Gîrju', 'sequence': 'additional', 'affiliation': []}, {'given': 'Vasile', 'family': 'Rus', 'sequence': 'additional', 'affiliation': []}, {'given': 'Paul', 'family': 'Mor\u01cerescu', 'sequence': 'additional', 'affiliation': []}], 'member': '1643', 'event': {'name': 'the 39th Annual Meeting', 'location': 'Toulouse, France', 'sponsor': ['undetermined'], 'acronym': "ACL '01", 'number': '39', 'start': {'date-parts': [[2001, 7, 6]]}, 'end': {'date-parts': [[2001, 7, 11]]}}, 'container-title': ["Proceedings of the 39th Annual Meeting on Association for Computational Linguistics  - ACL '01"], 'deposited': {'date-parts': [[2013, 12, 16]], 'date-time': '2013-12-16T23:08:32Z', 'timestamp': 1387235312000}, 'score': 140.96481, 'issued': {'date-parts': [[2001]]}, 'references-count': 0, 'URL': 'http://dx.doi.org/10.3115/1073012.1073049'}
+>>> hash >>> ('The role of lexico-semantic feedback in open-domain textual question-answering', 2001.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Neumann, G., Xu, F.: Mining answers in German web pages. In: Proceedings of the International Conference on Web Intelligence (WI 2003), Halifax, Canada (2003)
+>>> DOI >>> 10.1109/wi.2003.1241183
+>>> URL >>> http://dx.doi.org/10.1109/wi.2003.1241183
+>>> year >>> None
+>>> title >>> Mining answers in German Web pages
+>>> author >>> None
+>>> reference_count >>> 16.0
+>>> is_referenced_by_count >>> 2.0
+>>> subject >>> None
+>>> container_title >>> ['Proceedings IEEE/WIC International Conference on Web Intelligence (WI 2003)']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database133.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T03:49:32Z', 'timestamp': 1525405772178}, 'reference-count': 16, 'publisher': 'IEEE Comput. Soc', 'isbn-type': [{'value': '0769519326', 'type': 'print'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1109/wi.2003.1241183', 'type': 'proceedings-article', 'created': {'date-parts': [[2004, 4, 23]], 'date-time': '2004-04-23T18:38:15Z', 'timestamp': 1082745495000}, 'source': 'Crossref', 'is-referenced-by-count': 2, 'title': ['Mining answers in German Web pages'], 'prefix': '10.1109', 'author': [{'given': 'G.', 'family': 'Neumann', 'sequence': 'first', 'affiliation': []}, {'family': 'Feiyu Xu', 'sequence': 'additional', 'affiliation': []}], 'member': '263', 'event': {'name': 'IEEE/WIC International Conference on Web Intelligence (WI 2003)', 'location': 'Halifax, NS, Canada', 'acronym': 'WI-03'}, 'container-title': ['Proceedings IEEE/WIC International Conference on Web Intelligence (WI 2003)'], 'link': [{'URL': 'http://xplorestaging.ieee.org/ielx5/8792/27823/01241183.pdf?arnumber=1241183', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2017, 3, 13]], 'date-time': '2017-03-13T17:28:25Z', 'timestamp': 1489426105000}, 'score': 89.91504, 'issued': {'date-parts': [[None]]}, 'ISBN': ['0769519326'], 'references-count': 16, 'URL': 'http://dx.doi.org/10.1109/wi.2003.1241183'}
+>>> hash >>> ('Mining answers in German Web pages', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Hartrumpf, S., Helbig, H., Osswald, R.: The semantically based computer lexicon HaGenLex â€“ Structure and technological environment. Traitement automatique des langues 44(2), 81â€“105 (2003)
+>>> DOI >>> 10.4000/rdlc.949
+>>> URL >>> http://dx.doi.org/10.4000/rdlc.949
+>>> year >>> 2015.0
+>>> title >>> Linguistique appliquée et traitement automatique des langues
+>>> author >>> Jacqueline Léon
+>>> reference_count >>> 6.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Recherches en didactique des langues et des cultures']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database133.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 4, 17]], 'date-time': '2018-04-17T22:32:02Z', 'timestamp': 1524004322749}, 'reference-count': 6, 'publisher': 'OpenEdition', 'issue': '3', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['rdlc'], 'DOI': '10.4000/rdlc.949', 'type': 'journal-article', 'created': {'date-parts': [[2016, 12, 1]], 'date-time': '2016-12-01T16:52:42Z', 'timestamp': 1480611162000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['Linguistique appliquée et traitement automatique des langues'], 'prefix': '10.4000', 'volume': '12', 'author': [{'given': 'Jacqueline', 'family': 'Léon', 'sequence': 'first', 'affiliation': []}], 'member': '2399', 'published-online': {'date-parts': [[2015, 12, 7]]}, 'reference': [{'key': 'ref0', 'DOI': '10.1016/S0065-2458(08)60607-5', 'doi-asserted-by': 'publisher'}, {'key': 'ref1', 'DOI': '10.3406/hel.2011.3209', 'doi-asserted-by': 'publisher'}, {'key': 'ref2', 'DOI': '10.2307/3585816', 'doi-asserted-by': 'publisher'}, {'key': 'ref3', 'DOI': '10.3917/lang.171.0012', 'doi-asserted-by': 'publisher'}, {'key': 'ref4', 'DOI': '10.1051/cmlf/2010158', 'doi-asserted-by': 'publisher'}, {'key': 'ref5', 'DOI': '10.4000/books.enseditions.3733', 'doi-asserted-by': 'publisher'}], 'container-title': ['Recherches en didactique des langues et des cultures'], 'deposited': {'date-parts': [[2018, 4, 4]], 'date-time': '2018-04-04T04:20:29Z', 'timestamp': 1522815629000}, 'score': 41.230133, 'subtitle': ['Etude historique et comparative'], 'issued': {'date-parts': [[2015, 12, 7]]}, 'references-count': 6, 'journal-issue': {'published-online': {'date-parts': [[2015, 12, 7]]}, 'issue': '3'}, 'URL': 'http://dx.doi.org/10.4000/rdlc.949', 'relation': {'cites': []}, 'ISSN': ['1958-5772'], 'issn-type': [{'value': '1958-5772', 'type': 'electronic'}]}
+>>> hash >>> ('Linguistique appliquée et traitement automatique des langues', 2015.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Ide, N., Priest-Dorman, G., VÃ©ronis, J.: Corpus Encoding Standard (1996)
+>>> DOI >>> 10.5802/cg.196
+>>> URL >>> http://dx.doi.org/10.5802/cg.196
+>>> year >>> 1996.0
+>>> title >>> Une application de la TEI aux industries de la langue : le Corpus Encoding Standard
+>>> author >>> Nancy Ide and Jean Véronis
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 1.0
+>>> subject >>> None
+>>> container_title >>> ['Cahiers GUTenberg']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database133.txt
+>>> verified >>> 0.5
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 5]], 'date-time': '2018-05-05T13:06:59Z', 'timestamp': 1525525619916}, 'reference-count': 0, 'publisher': 'Cellule MathDoc/CEDRAM', 'issue': '24', 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'short-container-title': ['Cah. GUT'], 'published-print': {'date-parts': [[1996]]}, 'DOI': '10.5802/cg.196', 'type': 'journal-article', 'created': {'date-parts': [[2012, 7, 2]], 'date-time': '2012-07-02T07:08:56Z', 'timestamp': 1341212936000}, 'page': '166-169', 'source': 'Crossref', 'is-referenced-by-count': 1, 'title': ['Une application de la TEI aux industries de la langue : le Corpus Encoding Standard'], 'prefix': '10.5802', 'author': [{'given': 'Nancy', 'family': 'Ide', 'sequence': 'first', 'affiliation': []}, {'given': 'Jean', 'family': 'Véronis', 'sequence': 'additional', 'affiliation': []}], 'member': '3842', 'container-title': ['Cahiers GUTenberg'], 'link': [{'URL': 'http://www.cedram.org/cgi-bin/textserve/CG_1996___24_166_0', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 13]], 'date-time': '2016-12-13T10:34:25Z', 'timestamp': 1481625265000}, 'score': 32.977234, 'issued': {'date-parts': [[1996]]}, 'references-count': 0, 'journal-issue': {'published-print': {'date-parts': [[1996]]}, 'issue': '24'}, 'URL': 'http://dx.doi.org/10.5802/cg.196', 'ISSN': ['1140-9304'], 'issn-type': [{'value': '1140-9304', 'type': 'print'}]}
+>>> hash >>> ('Une application de la TEI aux industries de la langue : le Corpus Encoding Standard', 1996.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Osswald, R.: Die Verwendung von GermaNet zur Pflege und Erweiterung des Computerlexikons HaGenLex. LDV Forum 19(1/2), 43â€“51 (2004)
+>>> DOI >>> 10.1524/9783486594737.298
+>>> URL >>> http://dx.doi.org/10.1524/9783486594737.298
+>>> year >>> None
+>>> title >>> 4. Hilfe zur Pflege und zur Weiterführung des Haushalts
+>>> author >>> None
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 0.0
+>>> subject >>> None
+>>> container_title >>> ['Fürsorge im Wirtschaftsboom']
+>>> auto_verified >>> 0.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database133.txt
+>>> verified >>> 1.0
+>>> checked >>> 1.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 3]], 'date-time': '2018-05-03T15:19:02Z', 'timestamp': 1525360742362}, 'publisher-location': 'München', 'reference-count': 0, 'publisher': 'R. Oldenbourg Verlag GmbH', 'isbn-type': [{'value': '9783486594737', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'DOI': '10.1524/9783486594737.298', 'type': 'book-chapter', 'created': {'date-parts': [[2010, 10, 29]], 'date-time': '2010-10-29T17:33:19Z', 'timestamp': 1288373599000}, 'source': 'Crossref', 'is-referenced-by-count': 0, 'title': ['4. Hilfe zur Pflege und zur Weiterführung des Haushalts'], 'prefix': '10.1524', 'member': '374', 'container-title': ['Fürsorge im Wirtschaftsboom'], 'link': [{'URL': 'https://www.degruyter.com/view/books/9783486594737/9783486594737.298/9783486594737.298.pdf', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2016, 12, 21]], 'date-time': '2016-12-21T15:53:09Z', 'timestamp': 1482335589000}, 'score': 40.67051, 'issued': {'date-parts': [[None]]}, 'ISBN': ['9783486594737'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1524/9783486594737.298'}
+>>> hash >>> ('4. Hilfe zur Pflege und zur Weiterführung des Haushalts', 'None')
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> NEW PAPER <<<
+>>> citation >>> Helbig, H., GnÃ¶rlich, C.: Multilayered extended semantic networks as a language for meaning representation in NLP systems. In: Gelbukh, A. (ed.) CICLing 2002. LNCS, vol. 2276, pp. 69â€“85. Springer, Heidelberg (2002)
+>>> DOI >>> 10.1007/3-540-45715-1_6
+>>> URL >>> http://dx.doi.org/10.1007/3-540-45715-1_6
+>>> year >>> 2002.0
+>>> title >>> Multilayered Extended Semantic Networks as a Language for Meaning Representation in NLP Systems
+>>> author >>> H. Helbig and C. Gnörlich
+>>> reference_count >>> 0.0
+>>> is_referenced_by_count >>> 3.0
+>>> subject >>> None
+>>> container_title >>> ['Computational Linguistics and Intelligent Text Processing', 'Lecture Notes in Computer Science']
+>>> auto_verified >>> 1.0
+>>> is_parent >>> False
+>>> file_loc >>> ./bibliographies\database133.txt
+>>> verified >>> 1.0
+>>> checked >>> 0.0
+>>> item >>> {'indexed': {'date-parts': [[2018, 5, 4]], 'date-time': '2018-05-04T00:39:29Z', 'timestamp': 1525394369061}, 'publisher-location': 'Berlin, Heidelberg', 'reference-count': 0, 'publisher': 'Springer Berlin Heidelberg', 'isbn-type': [{'value': '9783540432197', 'type': 'print'}, {'value': '9783540457152', 'type': 'electronic'}], 'content-domain': {'domain': [], 'crossmark-restriction': False}, 'published-print': {'date-parts': [[2002]]}, 'DOI': '10.1007/3-540-45715-1_6', 'type': 'book-chapter', 'created': {'date-parts': [[2007, 10, 24]], 'date-time': '2007-10-24T21:50:56Z', 'timestamp': 1193262656000}, 'page': '69-85', 'source': 'Crossref', 'is-referenced-by-count': 3, 'title': ['Multilayered Extended Semantic Networks as a Language for Meaning Representation in NLP Systems'], 'prefix': '10.1007', 'author': [{'given': 'H.', 'family': 'Helbig', 'sequence': 'first', 'affiliation': []}, {'given': 'C.', 'family': 'Gnörlich', 'sequence': 'additional', 'affiliation': []}], 'member': '297', 'published-online': {'date-parts': [[2002, 2, 5]]}, 'container-title': ['Computational Linguistics and Intelligent Text Processing', 'Lecture Notes in Computer Science'], 'link': [{'URL': 'http://link.springer.com/content/pdf/10.1007/3-540-45715-1_6', 'content-type': 'unspecified', 'content-version': 'vor', 'intended-application': 'similarity-checking'}], 'deposited': {'date-parts': [[2014, 8, 19]], 'date-time': '2014-08-19T19:00:18Z', 'timestamp': 1408474818000}, 'score': 80.08831, 'issued': {'date-parts': [[2002]]}, 'ISBN': ['9783540432197', '9783540457152'], 'references-count': 0, 'URL': 'http://dx.doi.org/10.1007/3-540-45715-1_6', 'ISSN': ['0302-9743'], 'issn-type': [{'value': '0302-9743', 'type': 'print'}]}
+>>> hash >>> ('Multilayered Extended Semantic Networks as a Language for Meaning Representation in NLP Systems', 2002.0)
+>>> type >>> None
+>>> includes_alg >>> 0.0
+>>> prob_attrs >>> None
+>>> strategies >>> None
+>>> notes >>> None
+>>> easy_attrs >>> ['DOI', 'URL', 'reference-count', 'is-referenced-by-count', 'subject']
+>>> ALL DONE <<<
