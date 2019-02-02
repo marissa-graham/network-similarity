@@ -7,6 +7,7 @@ Code and miscellaneous files that I generated in the process of writing my maste
 * The "bibliographies" folder contains the reference lists I formatted by hand. The "ref_lists" folder stores the (manually corrected) references for each parent paper in their Paper class format. None of the other .csv or .txt files are necessary to store and load the dataset itself.
 * All of the .png files are necessary to compile my thesis and slides. A few of them are only for the slides, but I didn't keep track of which ones they are.
 * Getting things to play nice with Google Sheets will involve some JSON files and probably a rabbit hole of googling things if you're not used to API keys. Maybe even if you are. 
+* The .png and .gml files are all in the main folder because the prospect of making sure LaTeX and Mathematica could still find them was more annoying than just scrolling a lot all the time.
 
 Most relevant Mathematica notebooks: 
 
